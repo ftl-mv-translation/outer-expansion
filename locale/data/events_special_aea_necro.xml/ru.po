@@ -1,24 +1,40 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-16 19:41+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_special_aea_necroxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_special_aea_necro.xml:11
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_START_AEA_NECRO\"]/text[1]"
 msgstr ""
+"Еретики энджи - группа сепаратистов, изгнанных из сепаратистского общества "
+"из-за неспособности к сопереживанию или общей ненависти к органической жизни."
 
 #: src-en/data/events_special_aea_necro.xml:12
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_START_AEA_NECRO\"]/text[2]"
 msgstr ""
+"В этом секторе обитают Еретики энджи. Из-за того, что их ненавидят многие "
+"другие фракции, сектор постоянно подвергается нападениям. Это вынуждает "
+"энджи-Еретиков прибегать к менее традиционным методам защиты."
 
 #: src-en/data/events_special_aea_necro.xml:13
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_START_AEA_NECRO\"]/text[3]"
 msgstr ""
+"Несмотря на то, что еретики энджи недолюбливают и Гармонию, и Сепаратистов, "
+"на самом деле они не испытывают неприязни ни к одной из фракций, "
+"единственная фракция, которую они ненавидят, - это органические формы жизни."
 
 #: src-en/data/events_special_aea_necro.xml:28
 msgid ""
@@ -28,11 +44,13 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_aea_necro.xml:34
 msgid "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/text"
 msgstr ""
+"Вас вызывает странный корабль энджи. \"Добро пожаловать в наши владения, "
+"пожалуйста, передайте нам всю органику\"."
 
 #: src-en/data/events_special_aea_necro.xml:36
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[1]/text"
-msgstr ""
+msgstr "Пробиться через них!"
 
 #: src-en/data/events_special_aea_necro.xml:38
 msgid ""
@@ -48,13 +66,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Пройти осмотр."
 
 #: src-en/data/events_special_aea_necro.xml:49
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Энджи немедленно забирают ваш органический экипаж, и их корабль переходит в "
+"атаку."
 
 #: src-en/data/events_special_aea_necro.xml:52
 msgid ""
@@ -66,13 +86,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Пройти осмотр."
 
 #: src-en/data/events_special_aea_necro.xml:60
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Вы подвергаетесь проверке со стороны Еретиков энджи, и они не находят на "
+"борту органической жизни. Вы можете свободно войти в их сектор без каких-"
+"либо конфликтов."
 
 #: src-en/data/events_special_aea_necro.xml:62
 msgid ""
@@ -83,12 +106,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_aea_necro.xml:68
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_AEA_NECRO\"]/text"
-msgstr ""
+msgstr "(Член экипажа-Еретик энджи) Запросить припасы."
 
 #: src-en/data/events_special_aea_necro.xml:70
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_AEA_NECRO\"]/event/text"
 msgstr ""
+"Охранник, увидев на борту вашего корабля еще одного Еретика, соглашается и "
+"передает припасы."
 
 #: src-en/data/events_special_aea_necro.xml:73
 msgid ""
@@ -119,6 +144,9 @@ msgstr "(Продв. Автопилот) Активировать автопил
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"GUARD_AEA_NECRO_DESTROY\"]/text"
 msgstr ""
+"Вы победили сторожевой корабль Еретиков. Все, что могло быть в их грузе, "
+"наверняка уничтожено, но вы можете хотя бы подобрать некоторые припасы с "
+"корабля."
 
 #: src-en/data/events_special_aea_necro.xml:106
 msgid ""
@@ -129,6 +157,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"GUARD_AEA_NECRO_DEADCREW\"]/text"
 msgstr ""
+"Вы победили сторожевой корабль Еретиков. Если на борту нет Еретиков энджи, "
+"которые могли бы помешать вам, вы можете исследовать их груз. Вы находите "
+"оружие, которое поднимаете на корабль, и отправитесь дальше, чтобы разобрать "
+"корпус на лом."
 
 #: src-en/data/events_special_aea_necro.xml:115
 msgid ""
@@ -139,6 +171,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"GUARD_AEA_NECRO_FOLLOWUP\"]/text"
 msgstr ""
+"Уничтожив сторожевой корабль Еретиков, вы, несомненно, заставили его послать "
+"подкрепление, чтобы выследить вас. Будьте внимательны, исследуя сектор."
 
 #: src-en/data/events_special_aea_necro.xml:134
 msgid ""
@@ -169,6 +203,9 @@ msgstr "Непосещенное место."
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"REINFORCEMENTS_AEA_NECRO\"]/text"
 msgstr ""
+"Еретики энджи не очень хорошо восприняли ваше не слишком дружелюбное "
+"вторжение в сектор и, похоже, отправили корабль специально для того, чтобы "
+"остановить вас."
 
 #: src-en/data/events_special_aea_necro.xml:154
 msgid ""
@@ -179,6 +216,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"START_AEA_NECRO_UNIQUE\"]/text"
 msgstr ""
+"Вы прибыли в центр операций Еретиков. Этот сектор постоянно находится под "
+"угрозой разрушения из-за постоянных атак различных врагов Еретиков, поэтому "
+"он также является одним из наиболее хорошо защищенных секторов Еретиков."
 
 #: src-en/data/events_special_aea_necro.xml:180
 msgid ""
@@ -188,11 +228,13 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_aea_necro.xml:186
 msgid "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/text"
 msgstr ""
+"Вас вызывает странное судно энджи. \"Пропускаем только тех, кто не имеет "
+"органики, пожалуйста, приготовьтесь к досмотру\"."
 
 #: src-en/data/events_special_aea_necro.xml:188
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[1]/text"
-msgstr ""
+msgstr "Пробиться через них!"
 
 #: src-en/data/events_special_aea_necro.xml:190
 msgid ""
@@ -208,7 +250,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Пройти осмотр."
 
 #: src-en/data/events_special_aea_necro.xml:201
 msgid ""
@@ -363,12 +405,12 @@ msgstr ""
 #: src-en/data/events_special_aea_necro.xml:359
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"TRANSPORT_AEA_NECRO_LOOT\"]/choice[1]/text"
-msgstr ""
+msgstr "Потребовать передать товар вам."
 
 #: src-en/data/events_special_aea_necro.xml:361
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"TRANSPORT_AEA_NECRO_LOOT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы готовитесь силой забрать груз."
 
 #: src-en/data/events_special_aea_necro.xml:364
 msgid ""
@@ -384,6 +426,8 @@ msgstr "Избегать корабль."
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"TRANSPORT_AEA_NECRO_LOOT\"]/choice[2]/event/text"
 msgstr ""
+"Корабль держится вне зоны действия вашего оружия и в конце концов уходит в "
+"прыжок."
 
 #: src-en/data/events_special_aea_necro.xml:374
 msgid ""
@@ -399,6 +443,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_NECRO\"]/text"
 msgstr ""
+"Экипаж погиб, и корабль достался вам. Его груз - ваш. На борту находится "
+"особая технология, которую вы ожидали увидеть, и которую вы поднимаете на "
+"свой корабль."
 
 #: src-en/data/events_special_aea_necro.xml:405
 msgid ""
