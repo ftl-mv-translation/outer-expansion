@@ -1,21 +1,36 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-16 19:41+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_special_aea_birdxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_special_aea_bird.xml:15
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[1]"
 msgstr ""
+"Вы прибыли в космос Ги. Ги, возможно, и не входят в Федерацию, но они все "
+"равно являются близкими союзниками и решительно выступают против Восстания. "
+"Но повстанцы все еще будут пытаться проникнуть сюда."
 
 #: src-en/data/events_special_aea_bird.xml:16
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[2]"
 msgstr ""
+"Вы прибыли в пространство Ги. Здесь будет много доброжелательных личностей, "
+"но и повстанцев-отморозков тоже будет предостаточно."
 
 #: src-en/data/events_special_aea_bird.xml:17
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[3]"
 msgstr ""
+"Вы прибыли в пространство Ги. Возможно, в этом секторе много союзников, но и "
+"повстанцев здесь тоже хватает."
 
 #: src-en/data/events_special_aea_bird.xml:31
 msgid ""
@@ -32,6 +47,9 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_aea_bird.xml:41
 msgid "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/text"
 msgstr ""
+"Этот сектор защищает объединенная гвардия кораблей Федерации и Ги. Несколько "
+"кораблей поддержки находятся на расстоянии вытянутой руки, предлагая помощь "
+"другим дружественным кораблям в этом регионе."
 
 #: src-en/data/events_special_aea_bird.xml:44
 msgid ""
@@ -81,6 +99,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/text"
 msgstr ""
+"Кажется, здесь что-то не так. Обычно Ги не обращают внимания на такой "
+"корабль, как ваш, но сейчас вы уловили подозрительные разговоры на "
+"сторожевом корабле."
 
 #: src-en/data/events_special_aea_bird.xml:77
 msgid ""
@@ -91,6 +112,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/choice/event/text"
 msgstr ""
+"Похоже, ваша репутация догнала вас. На сторожевом корабле достаточно "
+"наслышаны о ваших преступлениях, и они не намерены пускать вас в сектор!"
 
 #: src-en/data/events_special_aea_bird.xml:82
 msgid ""
@@ -154,6 +177,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DESTROY\"]/text"
 msgstr ""
+"Вы победили сторожевой корабль Ги. Все, что могло быть в их грузе, наверняка "
+"уничтожено, но вы можете хотя бы подобрать некоторые припасы с корабля."
 
 #: src-en/data/events_special_aea_bird.xml:137
 msgid ""
@@ -164,6 +189,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DEADCREW\"]/text"
 msgstr ""
+"Вы победили сторожевой корабль Ги. Если на борту нет экипажа, который мог бы "
+"помешать вам, вы можете исследовать их груз. Вы находите оружие, которое "
+"поднимаете на корабль, и отправляетесь дальше, чтобы разобрать их корпус."
 
 #: src-en/data/events_special_aea_bird.xml:146
 msgid ""
@@ -174,6 +202,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_FOLLOWUP\"]/text"
 msgstr ""
+"Уничтожив сторожевой корабль Ги, вы, несомненно, заставили его послать "
+"подкрепление, чтобы выследить вас. Будьте внимательны, исследуя сектор."
 
 #: src-en/data/events_special_aea_bird.xml:162
 msgid ""
@@ -204,6 +234,9 @@ msgstr "Непосещенное место."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/text"
 msgstr ""
+"Вы видите редких представителей элиты Ги, но они, похоже, не рады вас "
+"видеть. Корабль движется в атаку, и вы не сразу понимаете, что это один из "
+"кораблей, посланных стражниками, чтобы выследить вас за нападение."
 
 #: src-en/data/events_special_aea_bird.xml:182
 msgid ""
@@ -213,14 +246,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_aea_bird.xml:199
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[1]"
 msgstr ""
+"Вы прибыли в космос Ги. Ги, возможно, и не входят в Федерацию, но они все "
+"равно являются близкими союзниками и решительно выступают против Восстания. "
+"Но повстанцы все еще будут пытаться проникнуть сюда."
 
 #: src-en/data/events_special_aea_bird.xml:200
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[2]"
 msgstr ""
+"Вы прибыли в пространство Ги. Здесь будет много доброжелательных личностей, "
+"но и повстанцев-отморозков тоже будет предостаточно."
 
 #: src-en/data/events_special_aea_bird.xml:201
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[3]"
 msgstr ""
+"Вы прибыли в пространство Ги. Возможно, в этом секторе много союзников, но и "
+"повстанцев здесь тоже хватает."
 
 #: src-en/data/events_special_aea_bird.xml:215
 msgid ""
@@ -258,6 +298,9 @@ msgstr "Непосещенное место."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/text"
 msgstr ""
+"На этом маяке находится транспорт Ги. Можно с уверенностью сказать, что "
+"корабль, скорее всего, перевозит какие-то особые технологии. Если вы сможете "
+"убить его экипаж, их груз станет вашим."
 
 #: src-en/data/events_special_aea_bird.xml:289
 msgid ""
@@ -277,7 +320,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_aea_bird.xml:300
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/text"
-msgstr ""
+msgstr "(Ги или элита Федерации + хорошая репутация) Поговорить с транспортом."
 
 #: src-en/data/events_special_aea_bird.xml:302
 msgid ""
@@ -294,7 +337,6 @@ msgid ""
 msgstr "Купить груз."
 
 #: src-en/data/events_special_aea_bird.xml:306
-#, fuzzy
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[1]/event/text"
 msgstr ""
@@ -366,6 +408,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_BIRD\"]/text"
 msgstr ""
+"Экипаж погиб, и корабль достался вам. Его груз - ваш. На борту находится "
+"особая технология, которую вы ожидали увидеть, и которую вы поднимаете на "
+"свой корабль."
 
 #: src-en/data/events_special_aea_bird.xml:382
 msgid ""
@@ -378,6 +423,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[2]"
 msgstr ""
+"Когда будущие корабли наткнутся на эти обломки, то, скорее всего, "
+"предположат, что это дело рук повстанцев или пиратов. Но след в конце концов "
+"приведет к вам."
 
 #: src-en/data/events_special_aea_bird.xml:384
 msgid ""
@@ -494,6 +542,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[2]"
 msgstr ""
+"Когда будущие корабли наткнутся на эти обломки, то, скорее всего, "
+"предположат, что это дело рук повстанцев или пиратов. Но след в конце концов "
+"приведет к вам."
 
 #: src-en/data/events_special_aea_bird.xml:432
 msgid ""
@@ -507,6 +558,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/text"
 msgstr ""
+"Уничтожение союзников Федерации, особенно элитных, противоречит вашей "
+"миссии, но это не значит, что вы не можете воспользоваться обломками."
 
 #: src-en/data/events_special_aea_bird.xml:439
 msgid ""
@@ -517,11 +570,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/choice/event/text"
 msgstr ""
+"Похоже, груз корабля элиты Ги уцелел в бою. Внутри находится исправный дрон, "
+"который вы поднимаете на борт."
 
 #: src-en/data/events_special_aea_bird.xml:497
 msgid ""
 "data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/destroyed/text"
 msgstr ""
+"Вы уничтожили зараженный грибком корабль и собираете с его останков все "
+"полезное."
 
 #: src-en/data/events_special_aea_bird.xml:500
 msgid ""
@@ -532,6 +589,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/deadCrew/text"
 msgstr ""
+"Вы очистили зараженный корабль от экипажа и разобрали его на полезные детали."
 
 #: src-en/data/events_special_aea_bird.xml:508
 msgid ""
