@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-16 19:41+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_special_aea_acidxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_special_aea_acid.xml:3
 msgid "data/events_special_aea_acid.xml$//event[@name=\"ADDON_AEA\"]/text"
@@ -592,12 +600,12 @@ msgstr ""
 #: src-en/data/events_special_aea_acid.xml:577
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[1]/text"
-msgstr ""
+msgstr "Потребовать передать товар вам."
 
 #: src-en/data/events_special_aea_acid.xml:579
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы готовитесь силой забрать груз."
 
 #: src-en/data/events_special_aea_acid.xml:582
 msgid ""
@@ -613,6 +621,8 @@ msgstr "Избегать корабль."
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[2]/event/text"
 msgstr ""
+"Корабль держится вне зоны действия вашего оружия и в конце концов уходит в "
+"прыжок."
 
 #: src-en/data/events_special_aea_acid.xml:592
 msgid ""
@@ -628,6 +638,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_ACID\"]/text"
 msgstr ""
+"Экипаж погиб, и корабль достался вам. Его груз - ваш. На борту находится "
+"особая технология, которую вы ожидали увидеть, и которую вы поднимаете на "
+"свой корабль."
 
 #: src-en/data/events_special_aea_acid.xml:623
 msgid ""
@@ -942,7 +955,6 @@ msgstr ""
 "С этими ублюдками не стоит сражаться. Пора разогнаться и уйти в прыжок."
 
 #: src-en/data/events_special_aea_acid.xml:927
-#, fuzzy
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/choice[2]/text"
 msgstr "Прикончить их."
