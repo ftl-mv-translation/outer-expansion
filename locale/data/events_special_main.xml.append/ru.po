@@ -1,19 +1,27 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-16 19:41+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_special_mainxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_special_main.xml.append:51
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/text"
-msgstr ""
+msgstr "Выберите артиллерию для слота 1"
 
 #: src-en/data/events_special_main.xml.append:53
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[1]/text"
-msgstr ""
+msgstr "Лазерная артиллерия."
 
 #: src-en/data/events_special_main.xml.append:55
 msgid ""
@@ -23,7 +31,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:61
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[2]/text"
-msgstr ""
+msgstr "Лучевая артиллерия."
 
 #: src-en/data/events_special_main.xml.append:63
 msgid ""
@@ -33,7 +41,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:69
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr ""
+msgstr "Ракетная артиллерия (максимум: 2)."
 
 #: src-en/data/events_special_main.xml.append:71
 msgid ""
@@ -43,7 +51,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:77
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[4]/text"
-msgstr ""
+msgstr "Ионная артиллерия."
 
 #: src-en/data/events_special_main.xml.append:79
 msgid ""
@@ -53,12 +61,12 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:86
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/text"
-msgstr ""
+msgstr "Выберите артиллерию для слота 1"
 
 #: src-en/data/events_special_main.xml.append:88
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[1]/text"
-msgstr ""
+msgstr "Лазерная артиллерия."
 
 #: src-en/data/events_special_main.xml.append:90
 msgid ""
@@ -68,7 +76,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:96
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[2]/text"
-msgstr ""
+msgstr "Лучевая артиллерия."
 
 #: src-en/data/events_special_main.xml.append:98
 msgid ""
@@ -78,7 +86,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:104
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr ""
+msgstr "Ракетная артиллерия (максимум: 2)."
 
 #: src-en/data/events_special_main.xml.append:106
 msgid ""
@@ -88,7 +96,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:112
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[4]/text"
-msgstr ""
+msgstr "Ионная артиллерия."
 
 #: src-en/data/events_special_main.xml.append:114
 msgid ""
@@ -98,7 +106,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:125
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_LASER_1\"]/text"
-msgstr ""
+msgstr "Вы выбираете лазерерную."
 
 #: src-en/data/events_special_main.xml.append:128
 msgid ""
@@ -108,7 +116,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:133
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_BEAM_1\"]/text"
-msgstr ""
+msgstr "Вы выбираете лучевую."
 
 #: src-en/data/events_special_main.xml.append:136
 msgid ""
@@ -118,7 +126,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:141
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_MISSILE_1\"]/text"
-msgstr ""
+msgstr "Вы выбираете ракетную."
 
 #: src-en/data/events_special_main.xml.append:145
 msgid ""
@@ -128,7 +136,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:150
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ION_1\"]/text"
-msgstr ""
+msgstr "Вы выбираете ионную."
 
 #: src-en/data/events_special_main.xml.append:153
 msgid ""
@@ -138,12 +146,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:159
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/text"
-msgstr ""
+msgstr "Выберите артиллерию для слота 2"
 
 #: src-en/data/events_special_main.xml.append:161
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Лазерная артиллерия."
 
 #: src-en/data/events_special_main.xml.append:163
 msgid ""
@@ -153,7 +161,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:169
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[2]/text"
-msgstr ""
+msgstr "Лучевая артиллерия."
 
 #: src-en/data/events_special_main.xml.append:171
 msgid ""
@@ -163,7 +171,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:177
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr ""
+msgstr "Ракетная артиллерия (максимум: 2)."
 
 #: src-en/data/events_special_main.xml.append:179
 msgid ""
@@ -173,7 +181,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:185
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[4]/text"
-msgstr ""
+msgstr "Ионная артиллерия."
 
 #: src-en/data/events_special_main.xml.append:187
 msgid ""
@@ -183,7 +191,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:196
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_LASER_2\"]/text"
-msgstr ""
+msgstr "Вы выбираете лазерерную."
 
 #: src-en/data/events_special_main.xml.append:199
 msgid ""
@@ -193,7 +201,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:204
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_BEAM_2\"]/text"
-msgstr ""
+msgstr "Вы выбираете лучевую."
 
 #: src-en/data/events_special_main.xml.append:207
 msgid ""
@@ -203,7 +211,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:212
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_MISSILE_2\"]/text"
-msgstr ""
+msgstr "Вы выбираете ракетную."
 
 #: src-en/data/events_special_main.xml.append:216
 msgid ""
@@ -213,7 +221,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:221
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ION_2\"]/text"
-msgstr ""
+msgstr "Вы выбираете ионную."
 
 #: src-en/data/events_special_main.xml.append:224
 msgid ""
@@ -223,12 +231,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:230
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/text"
-msgstr ""
+msgstr "Выберите артиллерию для слота 3"
 
 #: src-en/data/events_special_main.xml.append:232
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[1]/text"
-msgstr ""
+msgstr "Лазерная артиллерия."
 
 #: src-en/data/events_special_main.xml.append:234
 msgid ""
@@ -238,7 +246,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:240
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[2]/text"
-msgstr ""
+msgstr "Лучевая артиллерия."
 
 #: src-en/data/events_special_main.xml.append:242
 msgid ""
@@ -248,7 +256,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:248
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr ""
+msgstr "Ракетная артиллерия (максимум: 2)."
 
 #: src-en/data/events_special_main.xml.append:250
 msgid ""
@@ -258,7 +266,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:256
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[4]/text"
-msgstr ""
+msgstr "Ионная артиллерия."
 
 #: src-en/data/events_special_main.xml.append:258
 msgid ""
@@ -268,7 +276,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:266
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_LASER_3\"]/text"
-msgstr ""
+msgstr "Вы выбираете лазерерную."
 
 #: src-en/data/events_special_main.xml.append:269
 msgid ""
@@ -278,7 +286,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:274
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_BEAM_3\"]/text"
-msgstr ""
+msgstr "Вы выбираете лучевую."
 
 #: src-en/data/events_special_main.xml.append:277
 msgid ""
@@ -288,7 +296,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:282
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_MISSILE_3\"]/text"
-msgstr ""
+msgstr "Вы выбираете ракетную."
 
 #: src-en/data/events_special_main.xml.append:286
 msgid ""
@@ -298,7 +306,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:291
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ION_3\"]/text"
-msgstr ""
+msgstr "Вы выбираете ионную."
 
 #: src-en/data/events_special_main.xml.append:294
 msgid ""
@@ -308,7 +316,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:301
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_LASER_1\"]/text"
-msgstr ""
+msgstr "Вы выбираете лазерерную."
 
 #: src-en/data/events_special_main.xml.append:304
 msgid ""
@@ -318,7 +326,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:309
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_BEAM_1\"]/text"
-msgstr ""
+msgstr "Вы выбираете лучевую."
 
 #: src-en/data/events_special_main.xml.append:312
 msgid ""
@@ -328,7 +336,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:317
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_MISSILE_1\"]/text"
-msgstr ""
+msgstr "Вы выбираете ракетную."
 
 #: src-en/data/events_special_main.xml.append:321
 msgid ""
@@ -338,7 +346,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:326
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ION_1\"]/text"
-msgstr ""
+msgstr "Вы выбираете ионную."
 
 #: src-en/data/events_special_main.xml.append:329
 msgid ""
@@ -348,12 +356,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:335
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/text"
-msgstr ""
+msgstr "Выберите артиллерию для слота 2"
 
 #: src-en/data/events_special_main.xml.append:337
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Лазерная артиллерия."
 
 #: src-en/data/events_special_main.xml.append:339
 msgid ""
@@ -363,7 +371,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:345
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[2]/text"
-msgstr ""
+msgstr "Лучевая артиллерия."
 
 #: src-en/data/events_special_main.xml.append:347
 msgid ""
@@ -373,7 +381,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:353
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr ""
+msgstr "Ракетная артиллерия (максимум: 2)."
 
 #: src-en/data/events_special_main.xml.append:355
 msgid ""
@@ -383,7 +391,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:361
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[4]/text"
-msgstr ""
+msgstr "Ионная артиллерия."
 
 #: src-en/data/events_special_main.xml.append:363
 msgid ""
@@ -393,7 +401,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:372
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_LASER_2\"]/text"
-msgstr ""
+msgstr "Вы выбираете лазерерную."
 
 #: src-en/data/events_special_main.xml.append:375
 msgid ""
@@ -403,7 +411,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:380
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_BEAM_2\"]/text"
-msgstr ""
+msgstr "Вы выбираете лучевую."
 
 #: src-en/data/events_special_main.xml.append:383
 msgid ""
@@ -413,7 +421,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:388
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_MISSILE_2\"]/text"
-msgstr ""
+msgstr "Вы выбираете ракетную."
 
 #: src-en/data/events_special_main.xml.append:392
 msgid ""
@@ -423,7 +431,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:397
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ION_2\"]/text"
-msgstr ""
+msgstr "Вы выбираете ионную."
 
 #: src-en/data/events_special_main.xml.append:400
 msgid ""
@@ -433,12 +441,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:406
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/text"
-msgstr ""
+msgstr "Выберите артиллерию для слота 3"
 
 #: src-en/data/events_special_main.xml.append:408
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[1]/text"
-msgstr ""
+msgstr "Лазерная артиллерия."
 
 #: src-en/data/events_special_main.xml.append:410
 msgid ""
@@ -448,7 +456,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:416
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[2]/text"
-msgstr ""
+msgstr "Лучевая артиллерия."
 
 #: src-en/data/events_special_main.xml.append:418
 msgid ""
@@ -458,7 +466,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:424
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr ""
+msgstr "Ракетная артиллерия (максимум: 2)."
 
 #: src-en/data/events_special_main.xml.append:426
 msgid ""
@@ -468,7 +476,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:432
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[4]/text"
-msgstr ""
+msgstr "Ионная артиллерия."
 
 #: src-en/data/events_special_main.xml.append:434
 msgid ""
@@ -478,7 +486,7 @@ msgstr "."
 #: src-en/data/events_special_main.xml.append:442
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_LASER_3\"]/text"
-msgstr ""
+msgstr "Вы выбираете лазерерную."
 
 #: src-en/data/events_special_main.xml.append:445
 msgid ""
@@ -488,7 +496,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:450
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_BEAM_3\"]/text"
-msgstr ""
+msgstr "Вы выбираете лучевую."
 
 #: src-en/data/events_special_main.xml.append:453
 msgid ""
@@ -498,7 +506,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:458
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_MISSILE_3\"]/text"
-msgstr ""
+msgstr "Вы выбираете ракетную."
 
 #: src-en/data/events_special_main.xml.append:462
 msgid ""
@@ -508,7 +516,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:467
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ION_3\"]/text"
-msgstr ""
+msgstr "Вы выбираете ионную."
 
 #: src-en/data/events_special_main.xml.append:470
 msgid ""
@@ -518,7 +526,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_main.xml.append:478
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_ENEMY_BROADSIDE_EVENT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Поступают сообщения о странном корабле повстанцев."
 
 #: src-en/data/events_special_main.xml.append:479
 msgid ""
@@ -529,6 +537,9 @@ msgstr "Посещенное место. Ничего интересного."
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_ENEMY_BROADSIDE_EVENT\"]/text"
 msgstr ""
+"Вы прибываете к маяку и встречаетесь лицом к лицу со странным кораблем "
+"повстанцев, не похожим ни на один из виденных вами ранее. У вас нет времени "
+"на раздумья, поскольку он направляет на вас свое оружие."
 
 #: src-en/data/events_special_main.xml.append:487
 msgid ""
@@ -552,36 +563,36 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:511
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/text"
-msgstr ""
+msgstr "Результат1"
 
 #: src-en/data/events_special_main.xml.append:513
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/choice[1]/text"
-msgstr ""
+msgstr "ПРОДОЛЖИТЬ"
 
 #: src-en/data/events_special_main.xml.append:519
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/choice[2]/text"
-msgstr ""
+msgstr "ЗАКОНЧИТЬ"
 
 #: src-en/data/events_special_main.xml.append:524
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/text"
-msgstr ""
+msgstr "Результат2"
 
 #: src-en/data/events_special_main.xml.append:526
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/choice[1]/text"
-msgstr ""
+msgstr "ПРОДОЛЖИТЬ"
 
 #: src-en/data/events_special_main.xml.append:532
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/choice[2]/text"
-msgstr ""
+msgstr "ЗАКОНЧИТЬ"
 
 #: src-en/data/events_special_main.xml.append:540
 msgid "data/events_special_main.xml.append$//event[@name=\"RANDOM_LOAD\"]/text"
-msgstr ""
+msgstr "ЗАГРУЗИТЬ"
 
 #: src-en/data/events_special_main.xml.append:542
 msgid ""
