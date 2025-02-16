@@ -1,0 +1,798 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_aea_cult.xml:14
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_START_AEA_CULT\"]/text[1]"
+msgstr ""
+"Les Vampiflores sont des industriels, des capitalistes et des démocrates "
+"purs et durs. Seule nation véritablement démocratique sans voix au sein de "
+"la Fédération, de nombreux Confédérés se sont sentis discriminés et "
+"considèrent la Coalition comme une solution. Attendez-vous à voir autant "
+"d'ennemis que de visages amicaux."
+
+#: src-en/data/events_special_aea_cult.xml:15
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_START_AEA_CULT\"]/text[2]"
+msgstr ""
+"La Congrégation proteste depuis longtemps contre l'adhésion de la "
+"Confédération à la Fédération, mais le Premier ministre Ivar continue de "
+"faire pression en faveur de l'unification. Les Confédérés étant désormais "
+"divisés entre la Fédération et la Coalition, vous risquez d'être confronté à"
+" un mélange inhabituel d'alliés et d'ennemis."
+
+#: src-en/data/events_special_aea_cult.xml:16
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_START_AEA_CULT\"]/text[3]"
+msgstr ""
+"Les secteurs confédérés sont parmi les plus industrialisés de la galaxie. "
+"L'essentiel de l'industrie lourde étant désormais assuré par les "
+"Vampiflores, l'économie de ces secteurs est en plein essor et attire "
+"l'attention de nombreux marchands. Malheureusement, les politiques "
+"régionales ont également attiré l'attention des recruteurs de la Coalition. "
+"Gardez l'œil ouvert sur vos amis et vos ennemis."
+
+#: src-en/data/events_special_aea_cult.xml:30
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"START_AEA_CULT\"]/choice[@req=\"rep_comb_vampweed\""
+" and @lvl=\"-999\"]/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:34
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"START_AEA_CULT\"]/choice[@req=\"rep_comb_vampweed\""
+" and @lvl=\"2\"]/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:40
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_CRIMINAL\"]/text"
+msgstr ""
+"Il y a quelque chose qui cloche ici. D'habitude, les Vampiflores ne "
+"s'inquiètent pas trop d'un vaisseau comme le vôtre, mais là, vous surprenez "
+"des bavardages suspects sur le vaisseau de garde."
+
+#: src-en/data/events_special_aea_cult.xml:42
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_CRIMINAL\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:44
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_CRIMINAL\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:47
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_CRIMINAL\"]/choice/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:55
+msgid "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/text"
+msgstr ""
+"Le Garde confédérée vous salue, son capitaine récitant des mots comme si "
+"c'était la centième fois aujourd'hui qu'il devait les prononcer : \" "
+"Bienvenue à la Confédération. Au nom du premier ministre Ivar, nous "
+"accueillons tous les visiteurs qui viennent en paix. Cependant, afin "
+"d'assurer la stabilité et l'ordre de nos secteurs, nous demandons à tous les"
+" vaisseaux militaires tels que vous de se soumettre à une taxe mineure avant"
+" d'entrer.\""
+
+#: src-en/data/events_special_aea_cult.xml:57
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:59
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[1]/event/text"
+msgstr "Vous coupez le signal et vous préparez au combat."
+
+#: src-en/data/events_special_aea_cult.xml:62
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[1]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:68
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[2]/text"
+msgstr "Payer les frais."
+
+#: src-en/data/events_special_aea_cult.xml:70
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[2]/event/text"
+msgstr ""
+"Le Vampiflore acquiesce et passe la ferraille au peigne fin : \"Très bien. "
+"La sécurité vous laissera passer dans un instant.\""
+
+#: src-en/data/events_special_aea_cult.xml:77
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[3]/text"
+msgstr "Demander une dérogation en raison de votre mission."
+
+#: src-en/data/events_special_aea_cult.xml:81
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_ivar\"]/text"
+msgstr "(Ivar) \"Hé, c'est moi qui paie ton salaire !\""
+
+#: src-en/data/events_special_aea_cult.xml:83
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_ivar\"]/event/text"
+msgstr ""
+"Le garde a l'air honteux : \" Euh... Premier, je m'excuse ! Nous ne savions "
+"pas que vous veniez. Vous êtes... euh, assez imprévisible parfois. Les frais"
+" seront annulés, bien sûr.\" Le garde cligne des yeux : \"S'il vous plaît, "
+"n'en parlez pas à mes supérieurs.\""
+
+#: src-en/data/events_special_aea_cult.xml:87
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_tyerel\"]/text"
+msgstr "(Ty E'Rel) Montrer les accréditations de Ty E'Rel."
+
+#: src-en/data/events_special_aea_cult.xml:89
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_tyerel\"]/event/text"
+msgstr ""
+"\"Bienvenue, ambassadeur. Je ne savais pas que vous aviez une conférence "
+"dans ce secteur. Vous pouvez passer, gratuitement.\""
+
+#: src-en/data/events_special_aea_cult.xml:93
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_alkali\"]/text"
+msgstr "(Alkali) Alkali a des affaires à faire ici."
+
+#: src-en/data/events_special_aea_cult.xml:95
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_alkali\"]/event/text"
+msgstr ""
+"Le garde semble soulagé de voir un visage familier. \"Bienvenue, docteur ! "
+"Vous êtes toujours le bienvenu dans nos frontières. Je vous dispense de "
+"payer la taxe, bien sûr. J'espère que votre séjour ici sera fructueux.\""
+
+#: src-en/data/events_special_aea_cult.xml:99
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/text"
+msgstr ""
+"(Membre d'équipage Coquille Scientifique) Expliquer que vous avez des "
+"affaires à faire dans la région."
+
+#: src-en/data/events_special_aea_cult.xml:101
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/text"
+msgstr ""
+"\"Ah, un scientifique ! Nous sommes toujours heureux d'accueillir l'un des "
+"vôtres dans notre beau secteur. Comme d'habitude, vous avez droit à une "
+"réduction. Nous espérons que vos affaires se dérouleront bien.\""
+
+#: src-en/data/events_special_aea_cult.xml:103
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[1]/text"
+msgstr "Payer le péage."
+
+#: src-en/data/events_special_aea_cult.xml:111
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[2]/text"
+msgstr "Attaquer le garde."
+
+#: src-en/data/events_special_aea_cult.xml:113
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[2]/event/text"
+msgstr "Vous coupez le signal et vous préparez au combat."
+
+#: src-en/data/events_special_aea_cult.xml:116
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[2]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:122
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[@req=\"mind\"]/text"
+msgstr "(Contrôle mental) Convaincre le garde de vous laisser tranquille."
+
+#: src-en/data/events_special_aea_cult.xml:126
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[@req=\"cloaking\"]/text"
+msgstr "(Camouflage) Se dissimuler et essayer de s'échapper."
+
+#: src-en/data/events_special_aea_cult.xml:130
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[@req=\"engines\"]/text"
+msgstr "(Moteurs de pointe) Essayer d'échapper au garde."
+
+#: src-en/data/events_special_aea_cult.xml:134
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[@req=\"pilot\"]/text"
+msgstr "(Pilotage de pointe) Activer l'auto-pilote et essayer de s'enfuir."
+
+#: src-en/data/events_special_aea_cult.xml:140
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/text"
+msgstr "(Membre d'équipage Cultivateurs) Exiger une remise."
+
+#: src-en/data/events_special_aea_cult.xml:142
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/text"
+msgstr ""
+"\"Oh, un Cultivateur est à bord ? Nous pouvons vous offrir une réduction "
+"substantielle. Nous espérons que vos affaires se dérouleront bien.\""
+
+#: src-en/data/events_special_aea_cult.xml:144
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[1]/text"
+msgstr "Payer le péage."
+
+#: src-en/data/events_special_aea_cult.xml:152
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[2]/text"
+msgstr "Attaquer le garde."
+
+#: src-en/data/events_special_aea_cult.xml:154
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[2]/event/text"
+msgstr "Vous coupez le signal et vous préparez au combat."
+
+#: src-en/data/events_special_aea_cult.xml:157
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[2]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:163
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[@req=\"mind\"]/text"
+msgstr "(Contrôle mental) Convaincre le garde de vous laisser tranquille."
+
+#: src-en/data/events_special_aea_cult.xml:167
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[@req=\"cloaking\"]/text"
+msgstr "(Camouflage) Se dissimuler et essayer de s'échapper."
+
+#: src-en/data/events_special_aea_cult.xml:171
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[@req=\"engines\"]/text"
+msgstr "(Moteurs de pointe) Essayer d'échapper au garde."
+
+#: src-en/data/events_special_aea_cult.xml:175
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[@req=\"pilot\"]/text"
+msgstr "(Pilotage de pointe) Activer l'auto-pilote et essayer de s'enfuir."
+
+#: src-en/data/events_special_aea_cult.xml:181
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/text"
+msgstr "(Membre d'équipage Vampiflore) Demander une réduction."
+
+#: src-en/data/events_special_aea_cult.xml:183
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/text"
+msgstr ""
+"\"Vous avez donc un compatriote à bord ? Très bien, nous appliquerons la "
+"réduction habituelle.\""
+
+#: src-en/data/events_special_aea_cult.xml:185
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[1]/text"
+msgstr "Payer le péage."
+
+#: src-en/data/events_special_aea_cult.xml:193
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[2]/text"
+msgstr "Attaquer le garde."
+
+#: src-en/data/events_special_aea_cult.xml:195
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[2]/event/text"
+msgstr "Vous coupez le signal et vous préparez au combat."
+
+#: src-en/data/events_special_aea_cult.xml:198
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[2]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:204
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[@req=\"mind\"]/text"
+msgstr "(Contrôle mental) Convaincre le garde de vous laisser tranquille."
+
+#: src-en/data/events_special_aea_cult.xml:208
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[@req=\"cloaking\"]/text"
+msgstr "(Camouflage) Se dissimuler et essayer de s'échapper."
+
+#: src-en/data/events_special_aea_cult.xml:212
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[@req=\"engines\"]/text"
+msgstr "(Moteurs de pointe) Essayer d'échapper au garde."
+
+#: src-en/data/events_special_aea_cult.xml:216
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[@req=\"pilot\"]/text"
+msgstr "(Pilotage de pointe) Activer l'auto-pilote et essayer de s'enfuir."
+
+#: src-en/data/events_special_aea_cult.xml:222
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"mind\"]/text"
+msgstr "(Contrôle mental) Convaincre le garde de vous laisser tranquille."
+
+#: src-en/data/events_special_aea_cult.xml:226
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"cloaking\"]/text"
+msgstr "(Camouflage) Se dissimuler et essayer de s'échapper."
+
+#: src-en/data/events_special_aea_cult.xml:230
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"engines\"]/text"
+msgstr "(Moteurs de pointe) Essayer d'échapper au garde."
+
+#: src-en/data/events_special_aea_cult.xml:234
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"pilot\"]/text"
+msgstr "(Pilotage de pointe) Activer l'auto-pilote et essayer de s'enfuir."
+
+#: src-en/data/events_special_aea_cult.xml:240
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/text"
+msgstr ""
+"\"Pourquoi devrais-je faire un geste ? Vous êtes un Renégats, n'est-ce pas ?"
+" Si vous ne le savez pas, la Confédération n'est pas soumise aux lois de la "
+"Fédération et franchement, avoir des gens comme vous ici est un handicap. "
+"Nous devrions vous faire payer plus, pas moins.\""
+
+#: src-en/data/events_special_aea_cult.xml:242
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:244
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/choice[1]/event/text"
+msgstr "Vous coupez le signal et vous préparez au combat."
+
+#: src-en/data/events_special_aea_cult.xml:247
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/choice[1]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:253
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/choice[2]/text"
+msgstr "Payer les frais."
+
+#: src-en/data/events_special_aea_cult.xml:255
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/choice[2]/event/text"
+msgstr ""
+"Le Vampiflore acquiesce et passe la ferraille au peigne fin : \"Très bien. "
+"La sécurité vous laissera passer dans un instant.\""
+
+#: src-en/data/events_special_aea_cult.xml:264
+msgid ""
+"data/events_special_aea_cult.xml$//eventList[@name=\"GUARD_AEA_CULT_WAVER\"]/event[3]/text"
+msgstr ""
+"Le Vampiflore gratte les longs pétales de son visage avec ses lianes. "
+"\"Comme vous le savez sans doute, la Confédération n'est pas redevable des "
+"lois ou de la juridiction de la Fédération. Cela dit, je comprends que votre"
+" cause représente les meilleurs intérêts de tous ici. La Fédération n'est "
+"peut-être pas notre amie, mais la Rébellion est plus certainement notre "
+"ennemie. Je vous accorderai cette faveur, mais ne vous attendez pas à ce que"
+" tout le monde soit aussi généreux.\""
+
+#: src-en/data/events_special_aea_cult.xml:275
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_DESTROY\"]/text"
+msgstr ""
+"Vous avez vaincu le garde de la Fédération. Tout ce qui aurait pu se trouver"
+" dans leur soute est certainement détruit, mais au moins vous pouvez "
+"récupérer des ressources de leur vaisseau."
+
+#: src-en/data/events_special_aea_cult.xml:278
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_DESTROY\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:284
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_DEADCREW\"]/text"
+msgstr ""
+"Vous avez vaincu le garde de la Fédération. Sans aucun équipage à bord pour "
+"vous interrompre, vous pouvez examiner leur soute. Vous trouvez une arme à "
+"ramener, puis démantelez leur coque."
+
+#: src-en/data/events_special_aea_cult.xml:288
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_DEADCREW\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:301
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_FOLLOWUP\"]/text"
+msgstr ""
+"En éliminant le garde Fédéré, vous avez sans nul doute provoqué l'envoi de "
+"renforts pour vous traquer. Prenez garde lors de votre exploration de ce "
+"secteur."
+
+#: src-en/data/events_special_aea_cult.xml:304
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_FOLLOWUP\"]/choice[1]/text"
+msgstr "Faire quelque chose à bord du vaisseau."
+
+#: src-en/data/events_special_aea_cult.xml:308
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_FOLLOWUP\"]/choice[2]/text"
+msgstr "Ne rien faire."
+
+#: src-en/data/events_special_aea_cult.xml:316
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"REINFORCEMENTS_AEA_CULT\"]/beaconType/unvisitedTooltip"
+msgstr "Endroit non exploré."
+
+#: src-en/data/events_special_aea_cult.xml:317
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"REINFORCEMENTS_AEA_CULT\"]/beaconType/visitedTooltip"
+msgstr "Emplacement déjà exploré. Il n'y reste rien d'intéressant."
+
+#: src-en/data/events_special_aea_cult.xml:318
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"REINFORCEMENTS_AEA_CULT\"]/beaconType/undiscoveredTooltip"
+msgstr "Endroit non exploré."
+
+#: src-en/data/events_special_aea_cult.xml:320
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"REINFORCEMENTS_AEA_CULT\"]/text"
+msgstr ""
+"\"Il fut un temps où j'aurais pu me ranger du côté de la Fédération, mais "
+"voir le genre de barbares qu'elle emploie pour 'faire respecter la paix et "
+"la prospérité' à travers le Multivers m'a ouvert les yeux ! C'est pour tous "
+"mes camarades verts que vous avez massacrés en venant troubler la paix, "
+"ordure !\""
+
+#: src-en/data/events_special_aea_cult.xml:324
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"REINFORCEMENTS_AEA_CULT\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:377
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:380
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[1]/text"
+msgstr "Visiter le marché."
+
+#: src-en/data/events_special_aea_cult.xml:382
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[1]/event/text"
+msgstr ""
+"Plusieurs Orchidées font des signes aux clients, essayant de les attirer, "
+"alors que des acheteurs de nombreuses races regardent autour d'eux."
+
+#: src-en/data/events_special_aea_cult.xml:384
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[1]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:390
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[2]/text"
+msgstr "Attaquer les Orchidées."
+
+#: src-en/data/events_special_aea_cult.xml:392
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[2]/event/text"
+msgstr ""
+"Il semblerait que personne ne souhaite aider les Orchidées, quoique votre "
+"attaque fait se confiner le magasin. Pas le temps de s'en préoccuper, vous "
+"devez vous concentrer sur votre nouvelle proie."
+
+#: src-en/data/events_special_aea_cult.xml:395
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[2]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:403
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STORE_LOAD_AEA_CULT\"]/text"
+msgstr ""
+"Avant d'entrer dans le magasin, vous avez encore le temps de faire "
+"l'inventaire du vaisseau."
+
+#: src-en/data/events_special_aea_cult.xml:405
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STORE_LOAD_AEA_CULT\"]/choice[1]/text"
+msgstr "Faire quelque chose à bord du vaisseau."
+
+#: src-en/data/events_special_aea_cult.xml:409
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STORE_LOAD_AEA_CULT\"]/choice[2]/text"
+msgstr "Ne rien faire."
+
+#: src-en/data/events_special_aea_cult.xml:423
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_TRANSPORT_LOOT\"]/escape/text"
+msgstr "Ils ne semblent pas vouloir se battre. Ils tentent de fuir."
+
+#: src-en/data/events_special_aea_cult.xml:434
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr "Endroit non exploré."
+
+#: src-en/data/events_special_aea_cult.xml:435
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/beaconType/visitedTooltip"
+msgstr "Emplacement déjà exploré. Il n'y reste rien d'intéressant."
+
+#: src-en/data/events_special_aea_cult.xml:436
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr "Endroit non exploré."
+
+#: src-en/data/events_special_aea_cult.xml:438
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:441
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[1]/text"
+msgstr "Exiger qu'il vous remette sa cargaison."
+
+#: src-en/data/events_special_aea_cult.xml:443
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[1]/event/text"
+msgstr "Vous vous préparez à vous emparer de sa cargaison par la force."
+
+#: src-en/data/events_special_aea_cult.xml:446
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[1]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:452
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/text"
+msgstr "(Élite de la Fédération + Bonne Réputation) Parlez au transporteur."
+
+#: src-en/data/events_special_aea_cult.xml:454
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/text"
+msgstr ""
+"Votre équipage parle au capitaine du transporteur, expliquant l'importance "
+"de votre mission. Le capitaine du transporteur semble comprendre, mais "
+"mentionne également que la cargaison qu'ils transportent est vitale pour "
+"cette même mission. Si vous pouvez les dédommager, ils sont disposés à faire"
+" une exception."
+
+#: src-en/data/events_special_aea_cult.xml:456
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[1]/text"
+msgstr "Achetez la cargaison."
+
+#: src-en/data/events_special_aea_cult.xml:458
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[1]/event/text"
+msgstr ""
+"La transaction est conclue. À en juger par son apparence, cet équipement "
+"pourrait s'avérer utile."
+
+#: src-en/data/events_special_aea_cult.xml:465
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[1]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:473
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[2]/text"
+msgstr "Refusez et attaquez le transporteur."
+
+#: src-en/data/events_special_aea_cult.xml:475
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[2]/event/text"
+msgstr "Vous vous préparez à vous emparer de sa cargaison par la force."
+
+#: src-en/data/events_special_aea_cult.xml:478
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[2]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:484
+#, fuzzy
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[3]/text"
+msgstr "Laisser tomber."
+
+#: src-en/data/events_special_aea_cult.xml:486
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[3]/event/text"
+msgstr "Le capitaine du transport hausse les épaules et continue son chemin."
+
+#: src-en/data/events_special_aea_cult.xml:488
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[3]/event/choice[1]/text"
+msgstr "Faire quelque chose à bord du vaisseau."
+
+#: src-en/data/events_special_aea_cult.xml:492
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[3]/event/choice[2]/text"
+msgstr "Ne rien faire."
+
+#: src-en/data/events_special_aea_cult.xml:500
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[3]/text"
+msgstr "Éviter le vaisseau."
+
+#: src-en/data/events_special_aea_cult.xml:502
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[3]/event/text"
+msgstr "Il reste hors de portée de vos armes et finit par s'enfuir d'un saut."
+
+#: src-en/data/events_special_aea_cult.xml:504
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[3]/event/choice[1]/text"
+msgstr "Faire quelque chose à bord du vaisseau."
+
+#: src-en/data/events_special_aea_cult.xml:508
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[3]/event/choice[2]/text"
+msgstr "Ne rien faire."
+
+#: src-en/data/events_special_aea_cult.xml:515
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_CULT\"]/text"
+msgstr ""
+"L'équipage est mort, ce qui vous laisse avec leur vaisseau. Leur cargaison "
+"vous appartient désormais. Vous y trouvez à bord la technologie à laquelle "
+"vous vous attendiez et vous la ramenez à votre vaisseau."
+
+#: src-en/data/events_special_aea_cult.xml:534
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:535
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[2]"
+msgstr ""
+"Sans un mot, le vaisseau confédéré explose. La cargaison de l'usine, "
+"probablement coûteuse, est projetée loin dans les abysses, hors de portée, "
+"mais vous pouvez au moins récupérer les débris."
+
+#: src-en/data/events_special_aea_cult.xml:536
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[3]"
+msgstr ""
+"\"Noooo ! Je n'ai jamais... eu de pollen sur mon pistil... Va te faire voir,"
+" Renégat !\""
+
+#: src-en/data/events_special_aea_cult.xml:537
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[4]"
+msgstr ""
+"Avec la mort de ce vaisseau, les effectifs de la puissante économie "
+"confédérée sont désormais réduits de quelques travailleurs."
+
+#: src-en/data/events_special_aea_cult.xml:545
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_CULT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:546
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_CULT\"]/text[2]"
+msgstr ""
+"\"Je ne suis pas un homme religieux, c'est un truc de feuilles vertes... "
+"mais quand votre dernier souffle arrive, c'est un moment plutôt spirituel. "
+"Dieu... J'espère qu'il n'y a pas d'enfer...\""
+
+#: src-en/data/events_special_aea_cult.xml:547
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_CULT\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:553
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"SURRENDER_AEA_CULT\"]/choice[1]/text"
+msgstr "Accepter leur reddition."
+
+#: src-en/data/events_special_aea_cult.xml:562
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[1]"
+msgstr ""
+"\"D'accord, d'accord ! J'ai un peu abusé de l'alcool et cela m'a rendu "
+"stupide. J'ai peut-être un problème. Ecoute, si tu m'épargnes, je te "
+"donnerai tout ce que j'ai ET je te promets de me faire aider, d'accord ? "
+"D'accord ?\""
+
+#: src-en/data/events_special_aea_cult.xml:563
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:564
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[3]"
+msgstr ""
+"\"Vous ne pouvez pas me tuer, je suis un membre précieux de la force de "
+"travail industrielle ! Si je ne suis pas là pour visser le bouchon sur "
+"chaque bouteille d'engrais Kardoche, alors qui d'autre le fera ?\""
+
+#: src-en/data/events_special_aea_cult.xml:565
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:566
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[5]"
+msgstr ""
+"Le capitaine confédéré s'agenouille et vous demande grâce. Il s'excuse au "
+"nom de toute son espèce pour les erreurs commises dans le passé et vous "
+"offre son salaire de ce mois à son usine pour que vous l'épargniez."
+
+#: src-en/data/events_special_aea_cult.xml:570
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"AEA_CULT_TEST_FIGHT\"]/text"
+msgstr "TEST."
+
+#: src-en/data/events_special_aea_cult.xml:573
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"AEA_CULT_TEST_FIGHT\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:603
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_FACTORY\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:607
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_FACTORY\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:615
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:634
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"DEFEAT_VAMPWEED_ELITE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:637
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"DEFEAT_VAMPWEED_ELITE\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:639
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"DEFEAT_VAMPWEED_ELITE\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:647
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/destroyed/text"
+msgstr ""
+"Vous vous attendiez à ce que les Loubards présentent au moins une offre de "
+"reddition, mais ça n'est jamais arrivé. Au lieu de cela, votre coup final "
+"achève le vaisseau et vous le regardez exploser..."
+
+#: src-en/data/events_special_aea_cult.xml:650
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/destroyed/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_special_aea_cult.xml:655
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/deadCrew/text"
+msgstr ""
+"Vous avez réussi à neutraliser le vaisseau du Clan, ce qui vous permet de "
+"monter à bord pour réclamer votre butin."
+
+#: src-en/data/events_special_aea_cult.xml:658
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/deadCrew/choice/text"
+msgstr "Continuer..."

@@ -1,0 +1,60 @@
+<FTL>
+<mod:findName type="event" name="TRUE_LAST_STAND_START">
+	<mod:findLike type="choice" limit="1">
+		<mod:findLike type="event">
+			<mod-append:choice hidden="true" max_group="1" req="SHIP_AEA_ACIDIC" blue="false">
+				<text>Contact Federation command.</text>
+				<event>
+					<text>On the vidscreen appears several Federation and Engi officers, as well as Admiral Tully in the center. "I didn't expect to see an Acidic vessel, but you've managed to get your hands on one, good luck out there."</text>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="LAST_STAND_START_2" />
+					</choice>
+				</event>
+			</mod-append:choice>
+			<mod-append:choice hidden="true" max_group="1" req="SHIP_AEA_NECRO" blue="false">
+				<text>Contact Federation command.</text>
+				<event>
+					<text>On the vidscreen appears several Federation and Engi officers, as well as Admiral Tully in the center. "I didn't expect to see a Heretic vessel, but you've managed to get your hands on one, good luck out there."</text>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="LAST_STAND_START_2" />
+					</choice>
+				</event>
+			</mod-append:choice>
+			<mod-append:choice hidden="true" max_group="1" req="SHIP_AEA_OLD" blue="false">
+				<text>Contact Federation command.</text>
+				<event>
+					<text>On the vidscreen appears several Federation and Engi officers, as well as Admiral Tully in the center. "What the fuck is that?"</text>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="LAST_STAND_START_2" />
+					</choice>
+				</event>
+			</mod-append:choice>
+			<mod-append:choice hidden="true" max_group="1" req="SHIP_AEA_WHALE" blue="false">
+				<text>Contact Federation command.</text>
+				<event>
+					<text>On the vidscreen appears several Federation and Engi officers, as well as Admiral Tully in the center. "Is that a fucking whale?"</text>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="LAST_STAND_START_2" />
+					</choice>
+				</event>
+			</mod-append:choice>
+			<mod-append:choice hidden="true" max_group="1" req="SHIP_AEA_BIRD" blue="false">
+				<text>Contact Federation command.</text>
+				<event>
+					<text>On the vidscreen appears several Federation and Engi officers, as well as Admiral Tully in the center. "Ah a Gi ship, those birds make some good drones, good luck soldier!"</text>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="LAST_STAND_START_2" />
+					</choice>
+				</event>
+			</mod-append:choice>
+		</mod:findLike>
+	</mod:findLike>
+</mod:findName>
+
+
+</FTL>

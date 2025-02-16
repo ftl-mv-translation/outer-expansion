@@ -1,0 +1,2761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FTL>
+<mod:findName type="event" name="STORAGE_CHECK_BUTTON">
+  <mod-append:choice req="AEA_ACID_O2SYS" blue="true" hidden="true">
+    <text>Acidic Filtering System.</text>
+    <event load="STORAGE_CHECK_AEA_O2SYS" />
+  </mod-append:choice>
+  <mod-append:choice req="AEA_ACID_O2SYS_OFF" blue="true" hidden="true">
+    <text>Acidic Filtering System.</text>
+    <event load="STORAGE_CHECK_AEA_O2SYS_OFF" />
+  </mod-append:choice>
+  <mod-append:choice req="AEA_NECRO_CONVERT" blue="true" hidden="true">
+    <text>Heretic Converter.</text>
+    <event load="STORAGE_CHECK_AEA_NECRO_CONVERT" />
+  </mod-append:choice>
+  <mod-append:choice req="AEA_CULTISTS" blue="true" hidden="true">
+    <text>Cultists.</text>
+    <event load="STORAGE_CHECK_AEA_CULTIST_WIZARD" />
+  </mod-append:choice>
+  <mod-append:choice req="AEA_TINY" blue="true" hidden="true">
+    <text>Tiny Cultists.</text>
+    <event load="STORAGE_CHECK_AEA_CULTIST_TINY" />
+  </mod-append:choice>
+  <mod-append:choice req="LIST_WEAPON_CULT" blue="true" hidden="true">
+    <text>Cult Weapons.</text>
+    <event load="STORAGE_CHECK_AEA_CULTIST_LASER" />
+  </mod-append:choice>
+</mod:findName>
+
+<mod:findName type="event" name="STORAGE_CHECK_LAB_ORCHID">
+	<mod:findWithChildLike type="choice" child-type="text">
+      <mod:selector>Go back.</mod:selector>
+      <mod:setAttributes max_group="997"/>
+    </mod:findWithChildLike>
+	<mod-append:choice req="LAB_ORCHID_AEA_COMMUNION" lvl="1" max_group="7" blue="false" hidden="true">
+		<text>Sec [Cultist]: Ancient Communion. [An upgrade is already installed]
+		[You can purchase spells at empty beacons].</text>
+		<event load="OPTION_INVALID" />
+	</mod-append:choice>
+	<mod-append:choice req="LAB_ORCHID_AEA_COMMUNION" lvl="0" max_group="7" blue="false" hidden="true">
+		<text>Sec [Cultist]: Ancient Communion. [Cost: 35~, 4{].</text>
+		<event load="STORAGE_CHECK_LAB_AEA_COMMUNION" />
+	</mod-append:choice>
+</mod:findName>
+
+<mod:findName type="event" name="STORAGE_CHECK_AUG">
+	<mod-append:choice req="LAB_ORCHID_AEA_COMMUNION">
+        <text>(Ancient Communion) Commune.</text>
+        <event>
+			<store>STORE_AEA_COMMUNION</store>
+        </event>
+    </mod-append:choice>
+	<mod-append:choice req="EX_LAB_ORCHID_AEA_COMMUNION">
+        <text>(Ancient Communion) Commune.</text>
+        <event>
+			<store>STORE_AEA_COMMUNION</store>
+        </event>
+    </mod-append:choice>
+</mod:findName>
+
+
+<event name="STORAGE_CHECK_LAB_AEA_COMMUNION">
+	<text>You are about to install the Ancient Communion modification.
+	[Effects: You can purchase spells at empty beacons]
+	
+	[Warning: This will affect Cultist Crew only. You will be able to install other secondary mods and primary mods afterwards.].</text>
+	<choice hidden="true" req="LAB_UPGRADE" lvl="1" max_group="0" blue="false">
+		<text>Install the modification. [Cost: 35~, 4{].</text>
+		<event>
+			<text>You install the modification.</text>
+			<item_modify>
+				<item type="scrap" min="-35" max="-25" />
+				<item type="fuel" min="-4" max="-4" />
+			</item_modify>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_LAB_AEA_COMMUNION" />
+			</choice>
+		</event>
+	</choice>
+	<choice req="LAB_UPGRADE" lvl="0" max_lvl="2" max_group="0" blue="false" hidden="true">
+		<text>You must have the lab upgrade for this modification.</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="pilot" lvl="1" max_group="1" blue="false" hidden="true">
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_LAB_LOAD" />
+	</choice>
+</event>
+<event name="INSTALL_LAB_AEA_COMMUNION">
+	<hiddenAug>LAB_ORCHID_AEA_COMMUNION</hiddenAug>
+	<loadEvent>STORAGE_CHECK_LAB_ORCHID</loadEvent>
+</event>
+
+<event name="STORAGE_CHECK_AEA_NECRO_CONVERT">
+	<text>What do you want to do?.</text>
+  	<checkCargo />
+	<choice>
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK" />
+	</choice>
+	<choice req="engi">
+		<text>Convert a Harmony Engi.</text>
+		<event>
+			<text>You see your Engi being swarmed by a cloud of nanites, It doesn't seem very nice for the Engi.</text>
+			<item_modify>
+				<item type="drones" min="-3" max="-3" />
+			</item_modify>
+			<transformRace class="engi">aea_necro_engi</transformRace>
+			<choice>
+				<text>Continue...</text>
+				<event load="STORAGE_CHECK" />
+			</choice>
+		</event>
+	</choice>
+	<choice req="engi_separatist">
+		<text>Convert a Separatist Engi.</text>
+		<event>
+			<text>You see your Engi being swarmed by a cloud of nanites, It doesn't seem very nice for the Engi.</text>
+			<item_modify>
+				<item type="drones" min="-2" max="-2" />
+			</item_modify>
+			<transformRace class="engi_separatist">aea_necro_engi</transformRace>
+			<choice>
+				<text>Continue...</text>
+				<event load="STORAGE_CHECK" />
+			</choice>
+		</event>
+	</choice>
+	<choice req="engi_separatist_nano">
+		<text>Convert a Separatist Engi.</text>
+		<event>
+			<text>You see your Engi being swarmed by a cloud of nanites, It doesn't seem very nice for the Engi.</text>
+			<item_modify>
+				<item type="drones" min="-2" max="-2" />
+			</item_modify>
+			<transformRace class="engi_separatist_nano">aea_necro_engi</transformRace>
+			<choice>
+				<text>Continue...</text>
+				<event load="STORAGE_CHECK" />
+			</choice>
+		</event>
+	</choice>
+	<choice req="engi_defender">
+		<text>Convert an Engi Defender.</text>
+		<event>
+			<text>You see your Engi being swarmed by a cloud of nanites, It doesn't seem very nice for the Engi.</text>
+			<item_modify>
+				<item type="drones" min="-5" max="-5" />
+			</item_modify>
+			<transformRace class="engi_defender">aea_necro_lich</transformRace>
+			<choice>
+				<text>Continue...</text>
+				<event load="STORAGE_CHECK" />
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<mod:findName type="event" name="STORAGE_CHECK_STATUS_LOOT">
+  <mod-append:choice hidden="true" req="ach_trans_aea_acid" lvl="1" blue="false">
+		<text>(Acidic Origins).</text>
+		<event load="OPTION_INVALID" />
+  </mod-append:choice>
+</mod:findName>
+<mod:findName type="event" name="STORAGE_CHECK_STATUS_LOOT">
+  <mod-append:choice hidden="true" req="ach_trans_aea_necro" lvl="1" blue="false">
+		<text>(Acidic Origins).</text>
+		<event load="OPTION_INVALID" />
+  </mod-append:choice>
+</mod:findName>
+
+<mod:findName type="event" name="COMBAT_CHECK_TOGGLE">
+  <mod-append:choice req="AEA_DEFENSE_NECRO_1_MISSILE" blue="false">
+		<text>(Heretic Defense Drone I) Set the state of the drone. [Current mode: Anti-Missile].</text>
+		<event load="COMBAT_CHECK_AEA_DEFENSE_NECRO_MISSILE" />
+	</mod-append:choice>
+	<mod-append:choice req="AEA_DEFENSE_NECRO_1_DRONE" blue="false">
+		<text>(Heretic Defense Drone I) Set the state of the drone. [Current mode: Anti-Drone].</text>
+		<event load="COMBAT_CHECK_AEA_DEFENSE_NECRO_DRONE" />
+	</mod-append:choice>
+
+  <mod-append:choice req="AEA_DEFENSE_NECRO_2_MISSILE" blue="false">
+		<text>(Heretic Defense Drone II) Set the state of the drone. [Current mode: Anti-Missile].</text>
+		<event load="COMBAT_CHECK_AEA_DEFENSE_NECRO2_MISSILE" />
+	</mod-append:choice>
+	<mod-append:choice req="AEA_DEFENSE_NECRO_2_DRONE" blue="false">
+		<text>(Heretic Defense Drone II) Set the state of the drone. [Current mode: Anti-Drone].</text>
+		<event load="COMBAT_CHECK_AEA_DEFENSE_NECRO2_DRONE" />
+	</mod-append:choice>
+
+	<mod-append:choice req="AEA_COMBAT_NECRO_1_LASER" blue="false">
+		  <text>(Technomancy Drone I) Set the state of the drone. [Current mode: Laser].</text>
+		  <event load="COMBAT_CHECK_AEA_COMBAT_NECRO_1_LASER" />
+	  </mod-append:choice>
+	  <mod-append:choice req="AEA_COMBAT_NECRO_1_BEAM" blue="false">
+		  <text>(Technomancy Drone I) Set the state of the drone. [Current mode: Beam].</text>
+		  <event load="COMBAT_CHECK_AEA_COMBAT_NECRO_1_BEAM" />
+	  </mod-append:choice>
+
+	  <mod-append:choice req="AEA_COMBAT_NECRO_2_LASER" blue="false">
+			<text>(Technomancy Drone II) Set the state of the drone. [Current mode: Laser].</text>
+			<event load="COMBAT_CHECK_AEA_COMBAT_NECRO_2_LASER" />
+		</mod-append:choice>
+		<mod-append:choice req="AEA_COMBAT_NECRO_2_BEAM" blue="false">
+			<text>(Technomancy Drone II) Set the state of the drone. [Current mode: Beam].</text>
+			<event load="COMBAT_CHECK_AEA_COMBAT_NECRO_2_BEAM" />
+		</mod-append:choice>
+		
+		<mod-append:choice req="AEA_COMBAT_BIRD_BURST_1" blue="false">
+			<text>(Amp Burst) Set the state of the drone. [Current power: 2].</text>
+			<event load="COMBAT_CHECK_AEA_BIRD_BURST_AMP_1" />
+		</mod-append:choice>
+		<mod-append:choice req="AEA_COMBAT_BIRD_BURST_2" blue="false">
+			<text>(Amp Burst) Set the state of the drone. [Current power: 3].</text>
+			<event load="COMBAT_CHECK_AEA_BIRD_BURST_AMP_2" />
+		</mod-append:choice>
+		<mod-append:choice req="AEA_COMBAT_BIRD_BURST_3" blue="false">
+			<text>(Amp Burst) Set the state of the drone. [Current power: 4].</text>
+			<event load="COMBAT_CHECK_AEA_BIRD_BURST_AMP_3" />
+		</mod-append:choice>
+		
+		<mod-append:choice req="AEA_COMBAT_BIRD_MULTI_1_LASER" blue="false">
+			<text>(Twin Drone I) Set the state of the drone. [Current mode: Laser].</text>
+			<event load="COMBAT_CHECK_AEA_BIRD_MULTI_1_LASER" />
+		</mod-append:choice>
+		<mod-append:choice req="AEA_COMBAT_BIRD_MULTI_1_BEAM" blue="false">
+			<text>(Twin Drone I) Set the state of the drone. [Current mode: Beam].</text>
+			<event load="COMBAT_CHECK_AEA_BIRD_MULTI_1_BEAM" />
+		</mod-append:choice>
+		
+		<mod-append:choice req="AEA_COMBAT_BIRD_MULTI_2_LASER" blue="false">
+			<text>(Twin Drone II) Set the state of the drone. [Current mode: Laser].</text>
+			<event load="COMBAT_CHECK_AEA_BIRD_MULTI_2_LASER" />
+		</mod-append:choice>
+		<mod-append:choice req="AEA_COMBAT_BIRD_MULTI_2_BEAM" blue="false">
+			<text>(Twin Drone II) Set the state of the drone. [Current mode: Beam].</text>
+			<event load="COMBAT_CHECK_AEA_BIRD_MULTI_2_BEAM" />
+		</mod-append:choice>
+		
+		<mod-append:choice req="AEA_COMBAT_BIRD_MULTI_2_LOOT_LASER" blue="false">
+			<text>(Twin Drone II [GI LOOT]) Set the state of the drone. [Current mode: Laser].</text>
+			<event load="COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_LASER" />
+		</mod-append:choice>
+		<mod-append:choice req="AEA_COMBAT_BIRD_MULTI_2_LOOT_BEAM" blue="false">
+			<text>(Twin Drone II [GI LOOT]) Set the state of the drone. [Current mode: Beam].</text>
+			<event load="COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_BEAM" />
+		</mod-append:choice>
+</mod:findName>
+
+<event name="STORAGE_CHECK_AEA_O2SYS">
+	<text>What do you want to do?.</text>
+	<checkCargo />
+	<choice>
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK" />
+	</choice>
+
+  <choice hidden="true">
+    <text>Set Filtering System to Extinguisher Mode (Currently Enabled).</text>
+    <event load="OPTION_INVALID"/>
+  </choice>
+
+  <choice>
+    <text>Set Filtering System to Oxygen Mode.</text>
+    <event>
+      <text>Your Filtering system shifts over to begin producing oxygen.</text>
+      <remove name="AEA_ACID_O2SYS"/>
+      <choice>
+        <text>Continue...</text>
+        <event>
+          <text>The system's lifesupport subsystem slows down.</text>
+          <augment name="AEA_ACID_O2SYS_OFF"/>
+          <choice>
+            <text>Continue...</text>
+            <event load="STORAGE_CHECK" />
+          </choice>
+        </event>
+      </choice>
+    </event>
+  </choice>
+</event>
+
+
+<event name="STORAGE_CHECK_AEA_O2SYS_OFF">
+  <text>What do you want to do?.</text>
+  <checkCargo />
+	<choice>
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK" />
+	</choice>
+
+  <choice>
+    <text>Set Filtering System to Extinguisher Mode.</text>
+    <event>
+      <text>Your Filtering system shifts over to begin producing fire suppressent.</text>
+      <remove name="AEA_ACID_O2SYS_OFF"/>
+      <choice>
+        <text>Continue...</text>
+        <event>
+          <text>The system's lifesupport subsystem becomes more efficient.</text>
+          <augment name="AEA_ACID_O2SYS"/>
+          <choice>
+            <text>Continue...</text>
+            <event load="STORAGE_CHECK" />
+          </choice>
+        </event>
+      </choice>
+    </event>
+  </choice>
+
+  <choice hidden="true">
+    <text>Set Filtering System to Oxygen Mode (Currently Enabled).</text>
+    <event load="OPTION_INVALID"/>
+  </choice>
+</event>
+
+
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+					ANTI-DRONE/ANTI-MISSILE
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->	
+<event name="COMBAT_CHECK_AEA_DEFENSE_NECRO_MISSILE">
+	<text>Are you sure you want to change the drone's settings?.</text>
+	<choice hidden="true">
+		<text>Set the drone to Anti-Drone Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_DEFENSE_NECRO_1_MISSILE" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_DEFENSE_NECRO_1_DRONE" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+<event name="COMBAT_CHECK_AEA_DEFENSE_NECRO_DRONE">
+	<text>Are you sure you want to change the drone's settings?.</text>
+	<choice hidden="true">
+		<text>Set the drone to Anti-Missile Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_DEFENSE_NECRO_1_DRONE" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_DEFENSE_NECRO_1_MISSILE" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+					ANTI-DRONE/ANTI-MISSILE 2
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->	
+<event name="COMBAT_CHECK_AEA_DEFENSE_NECRO2_MISSILE">
+	<text>Are you sure you want to change the drone's settings?.</text>
+	<choice hidden="true">
+		<text>Set the drone to Anti-Drone Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_DEFENSE_NECRO_2_MISSILE" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_DEFENSE_NECRO_2_DRONE" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+<event name="COMBAT_CHECK_AEA_DEFENSE_NECRO2_DRONE">
+	<text>Are you sure you want to change the drone's settings?.</text>
+	<choice hidden="true">
+		<text>Set the drone to Anti-Missile Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_DEFENSE_NECRO_2_DRONE" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_DEFENSE_NECRO_2_MISSILE" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+					LASER/BEAM DRONE 1
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->	
+<event name="COMBAT_CHECK_AEA_COMBAT_NECRO_1_LASER">
+	<text>Are you sure you want to change the drone's settings?.</text>
+	<choice hidden="true">
+		<text>Set the drone to Beam Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_NECRO_1_LASER" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_NECRO_1_BEAM" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+<event name="COMBAT_CHECK_AEA_COMBAT_NECRO_1_BEAM">
+	<text>Are you sure you want to change the drone's settings?.</text>
+	<choice hidden="true">
+		<text>Set the drone to Laser Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_NECRO_1_BEAM" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_NECRO_1_LASER" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+					LASER/BEAM DRONE 2
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->	
+<event name="COMBAT_CHECK_AEA_COMBAT_NECRO_2_LASER">
+	<text>Are you sure you want to change the drone's settings?.</text>
+	<choice hidden="true">
+		<text>Set the drone to Beam Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_NECRO_2_LASER" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_NECRO_2_BEAM" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+<event name="COMBAT_CHECK_AEA_COMBAT_NECRO_2_BEAM">
+	<text>Are you sure you want to change the drone's settings?.</text>
+	<choice hidden="true">
+		<text>Set the drone to Laser Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_NECRO_2_BEAM" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_NECRO_2_LASER" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+
+
+<mod:findName type="event" name="STORAGE_CHECK_SYSTEM">
+	<mod-append:choice req="SHIP_AEA_NECRO" hidden="true">
+		<text>Heretic Tech.</text>
+		<event load="STORAGE_CHECK_SYSTEM_AEA_NECRO" />
+	</mod-append:choice>
+	<mod-append:choice req="BLUELIST_PRECURSOR_TECH" hidden="true">
+		<text>Mystery Tech.</text>
+		<event load="STORAGE_CHECK_SYSTEM_AEA_OLD" />
+	</mod-append:choice>
+</mod:findName>
+
+<event name="STORAGE_CHECK_SYSTEM_AEA_NECRO">
+	<text>Based on the Heretic Tech your ship is using, you might be able to make further upgrades using the technology.</text>
+	<choice req="aea_p_has_repair" lvl="1" max_group="0" blue="false" hidden="true">
+		<text>Repair Burst. [ALREADY INSTALLED].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_p_has_repair" lvl="0" max_group="0" blue="false" hidden="true">
+		<text>Repair Burst. [Cost: 20~].</text>
+		<event load="STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR" />
+	</choice>
+	<choice>
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_SYSTEM_LOAD" />
+	</choice>
+</event>
+
+<event name="STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR">
+	<text>You are about to install the Repair Burst.
+	[Effects: Repairs all systems when the hull integrity drops to 5, consumed upon use, can be re-bought].</text>
+	<choice req="LIST_CREW_AEA_NECRO" lvl="1" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 20~].</text>
+		<event>
+			<text>You install the upgrade.</text>
+			<item_modify>
+				<item type="scrap" min="-20" max="-20" />
+			</item_modify>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_AEA_NECRO_REPAIR" />
+			</choice>
+		</event>
+	</choice> 
+	<choice req="LIST_CREW_AEA_NECRO" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>This upgrade is unavailable. You need an Engi Heretic to perform the upgrade.</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="pilot" lvl="1" max_group="2" blue="false" hidden="true">
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_SYSTEM_LOAD" />
+	</choice>
+</event>
+<event name="INSTALL_AEA_NECRO_REPAIR">
+	<variable name="aea_p_has_repair" op="set" val="1" />
+	<loadEvent>STORAGE_CHECK_SYSTEM</loadEvent>
+</event>
+
+
+<event name="STORAGE_CHECK_SYSTEM_AEA_OLD">
+	<text>Based on the mysterious tech in your cargo, you might be able to make further upgrades using the technology.</text>
+	<choice req="shields" lvl="-1" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>Upgrade Shields. [NO SYSTEM].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_shields_upgrades" lvl="2" max_group="0" blue="false" hidden="true">
+		<text>Upgrade Shields. [MAXED].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_activated_cell" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>Upgrade Shields. [TECH INACTIVE].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_show_upgrade_shields" lvl="1" max_group="0" blue="false" hidden="true">
+		<text>Upgrade Shields. [Cost: 120~, High Tech Component].</text>
+		<event load="STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS" />
+	</choice>
+
+
+	<choice req="engines" lvl="-1" max_lvl="0" max_group="1" blue="false" hidden="true">
+		<text>Upgrade Engines. [NO SYSTEM].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_engines_upgrades" lvl="2" max_group="1" blue="false" hidden="true">
+		<text>Upgrade Engines. [MAXED].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_activated_cell" lvl="0" max_lvl="0" max_group="1" blue="false" hidden="true">
+		<text>Upgrade Engines. [TECH INACTIVE].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_show_upgrade_engines" lvl="1" max_group="1" blue="false" hidden="true">
+		<text>Upgrade Engines. [Cost: 120~, High Tech Component].</text>
+		<event load="STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES" />
+	</choice>
+
+
+	<choice req="weapons" lvl="-1" max_lvl="0" max_group="2" blue="false" hidden="true">
+		<text>Upgrade Weapons. [NO SYSTEM].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_weapons_upgrades" lvl="2" max_group="2" blue="false" hidden="true">
+		<text>Upgrade Weapons. [MAXED].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_activated_cell" lvl="0" max_lvl="0" max_group="2" blue="false" hidden="true">
+		<text>Upgrade Weapons. [TECH INACTIVE].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_show_upgrade_weapons" lvl="1" max_group="2" blue="false" hidden="true">
+		<text>Upgrade Weapons. [Cost: 120~, High Tech Component].</text>
+		<event load="STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS" />
+	</choice>
+
+
+	<choice req="drones" lvl="-1" max_lvl="0" max_group="3" blue="false" hidden="true">
+		<text>Upgrade Drones. [NO SYSTEM].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_drones_upgrades" lvl="2" max_group="3" blue="false" hidden="true">
+		<text>Upgrade Drones. [MAXED].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_activated_cell" lvl="0" max_lvl="0" max_group="3" blue="false" hidden="true">
+		<text>Upgrade Drones. [TECH INACTIVE].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_show_upgrade_drones" lvl="1" max_group="3" blue="false" hidden="true">
+		<text>Upgrade Drones. [Cost: 120~, High Tech Component].</text>
+		<event load="STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES" />
+	</choice>
+
+
+	<choice req="cloaking" lvl="-1" max_lvl="0" max_group="4" blue="false" hidden="true">
+		<text>Upgrade Cloaking. [NO SYSTEM].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_cloaking_upgrades" lvl="1" max_group="4" blue="false" hidden="true">
+		<text>Upgrade Cloaking. [MAXED].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_activated_cell" lvl="0" max_lvl="0" max_group="4" blue="false" hidden="true">
+		<text>Upgrade Cloaking. [TECH INACTIVE].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_show_upgrade_cloaking" lvl="1" max_group="4" blue="false" hidden="true">
+		<text>Upgrade Cloaking. [Cost: 120~, High Tech Component].</text>
+		<event load="STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING" />
+	</choice>
+
+
+	<choice req="mind" lvl="-1" max_lvl="0" max_group="5" blue="false" hidden="true">
+		<text>Upgrade Mind Control. [NO SYSTEM].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_mind_upgrades" lvl="1" max_group="5" blue="false" hidden="true">
+		<text>Upgrade Mind Control. [MAXED].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_activated_cell" lvl="0" max_lvl="0" max_group="5" blue="false" hidden="true">
+		<text>Upgrade Mind Control. [TECH INACTIVE].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_show_upgrade_mind" lvl="1" max_group="5" blue="false" hidden="true">
+		<text>Upgrade Mind Control. [Cost: 120~, High Tech Component].</text>
+		<event load="STORAGE_CHECK_SYSTEM_AEA_OLD_MIND" />
+	</choice>
+
+
+	<choice req="hacking" lvl="-1" max_lvl="0" max_group="6" blue="false" hidden="true">
+		<text>Upgrade Hacking. [NO SYSTEM].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="hacking" lvl="3" max_group="6" blue="false" hidden="true">
+		<text>Upgrade Hacking. [MAXED].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_hacking_upgrades" lvl="1" max_group="6" blue="false" hidden="true">
+		<text>Upgrade Hacking. [MAXED].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_activated_cell" lvl="0" max_lvl="0" max_group="6" blue="false" hidden="true">
+		<text>Upgrade Hacking. [TECH INACTIVE].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_show_upgrade_hacking" lvl="1" max_group="6" blue="false" hidden="true">
+		<text>Upgrade Hacking. [Cost: 120~, High Tech Component].</text>
+		<event load="STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING" />
+	</choice>
+
+	
+	<choice req="medbay" lvl="-1" max_lvl="0" max_group="7" blue="false" hidden="true">
+		<text>Upgrade Medbay. [NO SYSTEM].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_medbay_upgrades" lvl="1" max_group="7" blue="false" hidden="true">
+		<text>Upgrade Medbay. [MAXED].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_activated_cell" lvl="0" max_lvl="0" max_group="7" blue="false" hidden="true">
+		<text>Upgrade Medbay. [TECH INACTIVE].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_show_upgrade_medbay" lvl="1" max_group="7" blue="false" hidden="true">
+		<text>Upgrade Medbay. [Cost: 120~, High Tech Component].</text>
+		<event load="STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY" />
+	</choice>
+
+
+	<choice req="clonebay" lvl="-1" max_lvl="0" max_group="8" blue="false" hidden="true">
+		<text>Upgrade Clonebay. [NO SYSTEM].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_clonebay_upgrades" lvl="1" max_group="8" blue="false" hidden="true">
+		<text>Upgrade Clonebay. [MAXED].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_activated_cell" lvl="0" max_lvl="0" max_group="8" blue="false" hidden="true">
+		<text>Upgrade Clonebay. [TECH INACTIVE].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_show_upgrade_clonebay" lvl="1" max_group="8" blue="false" hidden="true">
+		<text>Upgrade Clonebay. [Cost: 120~, High Tech Component].</text>
+		<event load="STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY" />
+	</choice>
+
+
+	<choice req="aea_old_reactor_upgrades" lvl="5" max_group="9" blue="false" hidden="true">
+		<text>Upgrade Reactor. [MAXED].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_old_activated_cell" lvl="0" max_lvl="0" max_group="9" blue="false" hidden="true">
+		<text>Upgrade Reactor. [TECH INACTIVE].</text>
+		<event load="OPTION_INVALID" />
+	</choice>
+	<choice req="aea_show_upgrade_reactor" lvl="1" max_group="9" blue="false" hidden="true">
+		<text>Upgrade Reactor. [Cost: 50~].</text>
+		<event load="STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR" />
+	</choice>
+	<choice>
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_SYSTEM_LOAD" />
+	</choice>
+</event>
+
+<event name="STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS">
+	<text>You are about to install a shield system upgrade.
+	[Effects: Upgrades shields beyond their maximum level, cannot be done more than twice].</text>
+	<choice req="AEA_COMPONENT_OLD" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="aea_can_upgrade_shields" lvl="1" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event>
+			<text>You install the upgrade.</text>
+			<item_modify>
+				<item type="scrap" min="-120" max="-120" />
+			</item_modify>
+			<remove name="AEA_COMPONENT_OLD"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_AEA_OLD_SHIELDS" />
+			</choice>
+		</event>
+	</choice> 
+	<choice req="aea_can_upgrade_shields" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>This upgrade is unavailable. You need to upgrade your shields to it's natural maximum.</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="pilot" lvl="1" max_group="2" blue="false" hidden="true">
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_SYSTEM_LOAD" />
+	</choice>
+</event>
+<event name="INSTALL_AEA_OLD_SHIELDS">
+	<variable name="aea_old_shields_upgrades" op="add" val="1"/>
+	<loadEvent>STORAGE_CHECK_SYSTEM</loadEvent>
+</event>
+
+<event name="STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES">
+	<text>You are about to install a engine system upgrade.
+	[Effects: Upgrades engines beyond their maximum level, Each level above 8 adds an additional 5 evasion and 0.25x FTL charge rate, cannot be upgraded more than twice].</text>
+	<choice req="AEA_COMPONENT_OLD" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="aea_can_upgrade_engines" lvl="1" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event>
+			<text>You install the upgrade.</text>
+			<item_modify>
+				<item type="scrap" min="-120" max="-120" />
+			</item_modify>
+			<remove name="AEA_COMPONENT_OLD"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_AEA_OLD_ENGINES" />
+			</choice>
+		</event>
+	</choice> 
+	<choice req="aea_can_upgrade_engines" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>This upgrade is unavailable. You need to upgrade your engines to it's natural maximum.</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="pilot" lvl="1" max_group="2" blue="false" hidden="true">
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_SYSTEM_LOAD" />
+	</choice>
+</event>
+<event name="INSTALL_AEA_OLD_ENGINES">
+	<variable name="aea_old_engines_upgrades" op="add" val="1"/>
+	<loadEvent>STORAGE_CHECK_SYSTEM</loadEvent>
+</event>
+
+<event name="STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS">
+	<text>You are about to install a weapon system upgrade.
+	[Effects: Upgrades weapons beyond their maximum level, cannot be done more than twice].</text>
+	<choice req="AEA_COMPONENT_OLD" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="aea_can_upgrade_weapons" lvl="1" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event>
+			<text>You install the upgrade.</text>
+			<item_modify>
+				<item type="scrap" min="-120" max="-120" />
+			</item_modify>
+			<remove name="AEA_COMPONENT_OLD"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_AEA_OLD_WEAPONS" />
+			</choice>
+		</event>
+	</choice> 
+	<choice req="aea_can_upgrade_weapons" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>This upgrade is unavailable. You need to upgrade your weapons to it's natural maximum.</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="pilot" lvl="1" max_group="2" blue="false" hidden="true">
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_SYSTEM_LOAD" />
+	</choice>
+</event>
+<event name="INSTALL_AEA_OLD_WEAPONS">
+	<variable name="aea_old_weapons_upgrades" op="add" val="1"/>
+	<loadEvent>STORAGE_CHECK_SYSTEM</loadEvent>
+</event>
+
+<event name="STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES">
+	<text>You are about to install a drone system upgrade.
+	[Effects: Upgrades drones beyond their maximum level, cannot be done more than twice].</text>
+	<choice req="AEA_COMPONENT_OLD" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="aea_can_upgrade_drones" lvl="1" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event>
+			<text>You install the upgrade.</text>
+			<item_modify>
+				<item type="scrap" min="-120" max="-120" />
+			</item_modify>
+			<remove name="AEA_COMPONENT_OLD"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_AEA_OLD_DRONES" />
+			</choice>
+		</event>
+	</choice> 
+	<choice req="aea_can_upgrade_drones" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>This upgrade is unavailable. You need to upgrade your drones to it's natural maximum.</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="pilot" lvl="1" max_group="2" blue="false" hidden="true">
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_SYSTEM_LOAD" />
+	</choice>
+</event>
+<event name="INSTALL_AEA_OLD_DRONES">
+	<variable name="aea_old_drones_upgrades" op="add" val="1"/>
+	<loadEvent>STORAGE_CHECK_SYSTEM</loadEvent>
+</event>
+
+<event name="STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING">
+	<text>You are about to install a cloaking system upgrade.
+	[Effects: Upgrades cloaking beyond their maximum level, cannot be done more than once, cannot be upgraded beyond lvl 4].</text>
+	<choice req="AEA_COMPONENT_OLD" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="aea_can_upgrade_cloaking" lvl="1" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event>
+			<text>You install the upgrade.</text>
+			<item_modify>
+				<item type="scrap" min="-120" max="-120" />
+			</item_modify>
+			<remove name="AEA_COMPONENT_OLD"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_AEA_OLD_CLOAKING" />
+			</choice>
+		</event>
+	</choice> 
+	<choice req="aea_can_upgrade_cloaking" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>This upgrade is unavailable. You need to upgrade your cloaking to it's natural maximum.</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="pilot" lvl="1" max_group="2" blue="false" hidden="true">
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_SYSTEM_LOAD" />
+	</choice>
+</event>
+<event name="INSTALL_AEA_OLD_CLOAKING">
+	<variable name="aea_old_cloaking_upgrades" op="add" val="1"/>
+	<loadEvent>STORAGE_CHECK_SYSTEM</loadEvent>
+</event>
+
+<event name="STORAGE_CHECK_SYSTEM_AEA_OLD_MIND">
+	<text>You are about to install a mind control system upgrade.
+	[Effects: Upgrades mind control beyond their maximum level, cannot be done more than once, cannot be upgraded beyond lvl 4].</text>
+	<choice req="AEA_COMPONENT_OLD" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="aea_can_upgrade_mind" lvl="1" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event>
+			<text>You install the upgrade.</text>
+			<item_modify>
+				<item type="scrap" min="-120" max="-120" />
+			</item_modify>
+			<remove name="AEA_COMPONENT_OLD"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_AEA_OLD_MIND" />
+			</choice>
+		</event>
+	</choice> 
+	<choice req="aea_can_upgrade_mind" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>This upgrade is unavailable. You need to upgrade your mind control to it's natural maximum.</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="pilot" lvl="1" max_group="2" blue="false" hidden="true">
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_SYSTEM_LOAD" />
+	</choice>
+</event>
+<event name="INSTALL_AEA_OLD_MIND">
+	<variable name="aea_old_mind_upgrades" op="add" val="1"/>
+	<loadEvent>STORAGE_CHECK_SYSTEM</loadEvent>
+</event>
+
+<event name="STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING">
+	<text>You are about to install a hacking system upgrade.
+	[Effects: Upgrades hacking beyond their maximum level, cannot be done more than once, cannot be upgraded beyond lvl 3].</text>
+	<choice req="AEA_COMPONENT_OLD" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="aea_can_upgrade_hacking" lvl="1" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event>
+			<text>You install the upgrade.</text>
+			<item_modify>
+				<item type="scrap" min="-120" max="-120" />
+			</item_modify>
+			<remove name="AEA_COMPONENT_OLD"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_AEA_OLD_HACKING" />
+			</choice>
+		</event>
+	</choice> 
+	<choice req="aea_can_upgrade_hacking" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>This upgrade is unavailable. You need to upgrade your hacking to it's natural maximum.</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="pilot" lvl="1" max_group="2" blue="false" hidden="true">
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_SYSTEM_LOAD" />
+	</choice>
+</event>
+<event name="INSTALL_AEA_OLD_HACKING">
+	<variable name="aea_old_hacking_upgrades" op="add" val="1"/>
+	<loadEvent>STORAGE_CHECK_SYSTEM</loadEvent>
+</event>
+
+<event name="STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY">
+	<text>You are about to install a medbay system upgrade.
+	[Effects: Upgrades medbay beyond their maximum level, cannot be done more than once, cannot be upgraded beyond lvl 4].</text>
+	<choice req="AEA_COMPONENT_OLD" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="aea_can_upgrade_medbay" lvl="1" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event>
+			<text>You install the upgrade.</text>
+			<item_modify>
+				<item type="scrap" min="-120" max="-120" />
+			</item_modify>
+			<remove name="AEA_COMPONENT_OLD"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_AEA_OLD_MEDBAY" />
+			</choice>
+		</event>
+	</choice> 
+	<choice req="aea_can_upgrade_medbay" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>This upgrade is unavailable. You need to upgrade your medbay to it's natural maximum.</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="pilot" lvl="1" max_group="2" blue="false" hidden="true">
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_SYSTEM_LOAD" />
+	</choice>
+</event>
+<event name="INSTALL_AEA_OLD_MEDBAY">
+	<variable name="aea_old_medbay_upgrades" op="add" val="1"/>
+	<variable name="aea_old_clonebay_upgrades" op="add" val="1"/>
+	<loadEvent>STORAGE_CHECK_SYSTEM</loadEvent>
+</event>
+
+<event name="STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY">
+	<text>You are about to install a clonebay system upgrade.
+	[Effects: Upgrades clonebay beyond their maximum level, cannot be done more than once, cannot be upgraded beyond lvl 4].</text>
+	<choice req="AEA_COMPONENT_OLD" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="aea_can_upgrade_clonebay" lvl="1" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 120~, High Tech Component].</text>
+		<event>
+			<text>You install the upgrade.</text>
+			<item_modify>
+				<item type="scrap" min="-120" max="-120" />
+			</item_modify>
+			<remove name="AEA_COMPONENT_OLD"/>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_AEA_OLD_CLONEBAY" />
+			</choice>
+		</event>
+	</choice> 
+	<choice req="aea_can_upgrade_clonebay" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>This upgrade is unavailable. You need to upgrade your clonebay to it's natural maximum.</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="pilot" lvl="1" max_group="2" blue="false" hidden="true">
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_SYSTEM_LOAD" />
+	</choice>
+</event>
+<event name="INSTALL_AEA_OLD_CLONEBAY">
+	<variable name="aea_old_medbay_upgrades" op="add" val="1"/>
+	<variable name="aea_old_clonebay_upgrades" op="add" val="1"/>
+	<loadEvent>STORAGE_CHECK_SYSTEM</loadEvent>
+</event>
+
+<event name="STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR">
+	<text>You are about to install a reactor upgrade.
+	[Effects: Upgrades the reactor beyond it's maximum level, cannot be done more than 5 times].</text>
+	<choice req="aea_can_upgrade_reactor" lvl="1" max_group="0" blue="false" hidden="true">
+		<text>Perform the upgrade. [Cost: 50~].</text>
+		<event>
+			<text>You install the upgrade.</text>
+			<item_modify>
+				<item type="scrap" min="-50" max="-50" />
+			</item_modify>
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="INSTALL_AEA_OLD_REACTOR" />
+			</choice>
+		</event>
+	</choice> 
+	<choice req="aea_can_upgrade_reactor" lvl="0" max_lvl="0" max_group="0" blue="false" hidden="true">
+		<text>This upgrade is unavailable. You need to upgrade your reactor to it's natural maximum.</text>
+		<event load="OPTION_INVALID" />
+	</choice> 
+	<choice req="pilot" lvl="1" max_group="2" blue="false" hidden="true">
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK_SYSTEM_LOAD" />
+	</choice>
+</event>
+<event name="INSTALL_AEA_OLD_REACTOR">
+	<variable name="aea_old_reactor_upgrades" op="add" val="1"/>
+	<loadEvent>STORAGE_CHECK_SYSTEM</loadEvent>
+</event>
+
+
+
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+					AMP BURST
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->	
+<event name="COMBAT_CHECK_AEA_BIRD_BURST_AMP_1">
+	<text>What power do you want to set the drone to?
+	Current stats; [projectiles: 2, speed 10].</text>
+	<choice hidden="true">
+		<text>Set the drone to 3 power. [projectiles: 3, speed: 8].</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_BIRD_BURST_1" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_BIRD_BURST_2" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Set the drone to 4 power. [projectiles: 4, speed: 6].</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_BIRD_BURST_1" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_BIRD_BURST_3" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+<event name="COMBAT_CHECK_AEA_BIRD_BURST_AMP_2">
+	<text>What power do you want to set the drone to?
+	Current stats; [projectiles: 3, speed 8].</text>
+	<choice hidden="true">
+		<text>Set the drone to 2 power. [projectiles: 2, speed: 10].</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_BIRD_BURST_2" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_BIRD_BURST_1" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Set the drone to 4 power. [projectiles: 4, speed: 6].</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_BIRD_BURST_2" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_BIRD_BURST_3" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+<event name="COMBAT_CHECK_AEA_BIRD_BURST_AMP_3">
+	<text>What power do you want to set the drone to?
+	Current stats; [projectiles: 4, speed 6].</text>
+	<choice hidden="true">
+		<text>Set the drone to 2 power. [projectiles: 2, speed: 10].</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_BIRD_BURST_3" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_BIRD_BURST_1" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Set the drone to 3 power. [projectiles: 3, speed: 8].</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_BIRD_BURST_3" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_BIRD_BURST_2" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+
+
+
+<event name="STORAGE_CHECK_AEA_CULTIST_WIZARD">
+	<text>What do you want to do?.</text>
+  	<checkCargo />
+	<choice>
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK" />
+	</choice>
+	<choice req="aea_cult_wizard">
+		<text>(Unlearned Cultist) Learn a spell.</text>
+		<event>
+			<text>Your cultist is capable of learning a variety of spells.</text>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK" />
+			</choice>
+			<choice req="AEA_SPELL_ITEM_01">
+				<text>Learn [Protect].</text>
+				<event>
+					<text>Your cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_01"/>
+					<transformRace class="aea_cult_wizard">aea_cult_wizard_a01</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_02">
+				<text>Learn [Beacon].</text>
+				<event>
+					<text>Your cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_02"/>
+					<transformRace class="aea_cult_wizard">aea_cult_wizard_a02</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_03">
+				<text>Learn [Bio Bolt].</text>
+				<event>
+					<text>Your cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_03"/>
+					<transformRace class="aea_cult_wizard">aea_cult_wizard_s03</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_04">
+				<text>Learn [Bolt].</text>
+				<event>
+					<text>Your cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_04"/>
+					<transformRace class="aea_cult_wizard">aea_cult_wizard_s04</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_05">
+				<text>Learn [Bolt Burst].</text>
+				<event>
+					<text>Your cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_05"/>
+					<transformRace class="aea_cult_wizard">aea_cult_wizard_s05</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_06">
+				<text>Learn [Hull Bolt].</text>
+				<event>
+					<text>Your cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_06"/>
+					<transformRace class="aea_cult_wizard">aea_cult_wizard_s06</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_07">
+				<text>Learn [Warp].</text>
+				<event>
+					<text>Your cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_07"/>
+					<transformRace class="aea_cult_wizard">aea_cult_wizard_a07</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_08">
+				<text>Learn [Warp Bolt].</text>
+				<event>
+					<text>Your cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_08"/>
+					<transformRace class="aea_cult_wizard">aea_cult_wizard_s08</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_09">
+				<text>Learn [Heal Bolt].</text>
+				<event>
+					<text>Your cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_09"/>
+					<transformRace class="aea_cult_wizard">aea_cult_wizard_s09</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_10">
+				<text>Learn [Heal Aura].</text>
+				<event>
+					<text>Your cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_10"/>
+					<transformRace class="aea_cult_wizard">aea_cult_wizard_a10</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_11">
+				<text>Learn [Drone].</text>
+				<event>
+					<text>Your cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_11"/>
+					<transformRace class="aea_cult_wizard">aea_cult_wizard_a11</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_12">
+				<text>Learn [Barrier].</text>
+				<event>
+					<text>Your cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_12"/>
+					<transformRace class="aea_cult_wizard">aea_cult_wizard_s12</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_13">
+				<text>Learn [Lockdown].</text>
+				<event>
+					<text>Your cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_13"/>
+					<transformRace class="aea_cult_wizard">aea_cult_wizard_s13</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_14">
+				<text>Learn [Ally].</text>
+				<event>
+					<text>Your cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_14"/>
+					<transformRace class="aea_cult_wizard">aea_cult_wizard_s14</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_15">
+				<text>Learn [Mind Bolt].</text>
+				<event>
+					<text>Your cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_15"/>
+					<transformRace class="aea_cult_wizard">aea_cult_wizard_s15</transformRace>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_wizard_a01">
+		<text>([Protect] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this cultist, the spell will be lost however you will be able to teach the cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_wizard_a01">aea_cult_wizard</transformRace>
+					<weapon name="AEA_SPELL_ITEM_01"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_wizard_a02">
+		<text>([Beacon] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this cultist, the spell will be lost however you will be able to teach the cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_wizard_a02">aea_cult_wizard</transformRace>
+					<weapon name="AEA_SPELL_ITEM_02"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_wizard_s03">
+		<text>([Bio Bolt] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this cultist, the spell will be lost however you will be able to teach the cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_wizard_s03">aea_cult_wizard</transformRace>
+					<weapon name="AEA_SPELL_ITEM_03"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_wizard_s04">
+		<text>([Bolt] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this cultist, the spell will be lost however you will be able to teach the cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_wizard_s04">aea_cult_wizard</transformRace>
+					<weapon name="AEA_SPELL_ITEM_04"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_wizard_s05">
+		<text>([Bolt Burst] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this cultist, the spell will be lost however you will be able to teach the cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_wizard_s05">aea_cult_wizard</transformRace>
+					<weapon name="AEA_SPELL_ITEM_05"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_wizard_s06">
+		<text>([Hull Bolt] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this cultist, the spell will be lost however you will be able to teach the cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_wizard_s06">aea_cult_wizard</transformRace>
+					<weapon name="AEA_SPELL_ITEM_06"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_wizard_a07">
+		<text>([Warp] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this cultist, the spell will be lost however you will be able to teach the cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_wizard_a07">aea_cult_wizard</transformRace>
+					<weapon name="AEA_SPELL_ITEM_07"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_wizard_s08">
+		<text>([Warp Bolt] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this cultist, the spell will be lost however you will be able to teach the cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_wizard_s08">aea_cult_wizard</transformRace>
+					<weapon name="AEA_SPELL_ITEM_08"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_wizard_s09">
+		<text>([Heal Bolt] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this cultist, the spell will be lost however you will be able to teach the cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_wizard_s09">aea_cult_wizard</transformRace>
+					<weapon name="AEA_SPELL_ITEM_09"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_wizard_a10">
+		<text>([Heal Aura] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this cultist, the spell will be lost however you will be able to teach the cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_wizard_a10">aea_cult_wizard</transformRace>
+					<weapon name="AEA_SPELL_ITEM_10"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_wizard_a11">
+		<text>([Drone] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this cultist, the spell will be lost however you will be able to teach the cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_wizard_a11">aea_cult_wizard</transformRace>
+					<weapon name="AEA_SPELL_ITEM_11"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_wizard_s12">
+		<text>([Barrier] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this cultist, the spell will be lost however you will be able to teach the cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_wizard_s12">aea_cult_wizard</transformRace>
+					<weapon name="AEA_SPELL_ITEM_12"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_wizard_s13">
+		<text>([Lockdown] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this cultist, the spell will be lost however you will be able to teach the cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_wizard_s13">aea_cult_wizard</transformRace>
+					<weapon name="AEA_SPELL_ITEM_13"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_wizard_s14">
+		<text>([Ally] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this cultist, the spell will be lost however you will be able to teach the cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_wizard_s14">aea_cult_wizard</transformRace>
+					<weapon name="AEA_SPELL_ITEM_14"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_wizard_s15">
+		<text>([Mind Bolt] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this cultist, the spell will be lost however you will be able to teach the cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_wizard_s15">aea_cult_wizard</transformRace>
+					<weapon name="AEA_SPELL_ITEM_15"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+
+
+
+
+<event name="STORAGE_CHECK_AEA_CULTIST_LASER">
+	<text>What do you want to do?.</text>
+  	<checkCargo />
+	<choice>
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK" />
+	</choice>
+	<choice req="AEA_LASER_CULT">
+		<text>(Empty Weapon) Equip a spell.</text>
+		<event>
+			<text>Your weapon is capable of equiping a variety of spells.</text>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK" />
+			</choice>
+			<choice req="AEA_SPELL_ITEM_03">
+				<text>Equip [Bio Bolt].</text>
+				<event>
+					<text>You are able to dissolve the spell into the weapon.</text>
+					<remove name="AEA_SPELL_ITEM_03"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon thrums with power.</text>
+							<remove name="AEA_LASER_CULT"/>
+							<weapon name="AEA_LASER_CULT_03"/>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_04">
+				<text>Equip [Bolt].</text>
+				<event>
+					<text>You are able to dissolve the spell into the weapon.</text>
+					<remove name="AEA_SPELL_ITEM_04"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon thrums with power.</text>
+							<remove name="AEA_LASER_CULT"/>
+							<weapon name="AEA_LASER_CULT_04"/>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_05">
+				<text>Equip [Bolt Burst].</text>
+				<event>
+					<text>You are able to dissolve the spell into the weapon.</text>
+					<remove name="AEA_SPELL_ITEM_05"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon thrums with power.</text>
+							<remove name="AEA_LASER_CULT"/>
+							<weapon name="AEA_LASER_CULT_05"/>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_06">
+				<text>Equip [Hull Bolt].</text>
+				<event>
+					<text>You are able to dissolve the spell into the weapon.</text>
+					<remove name="AEA_SPELL_ITEM_06"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon thrums with power.</text>
+							<remove name="AEA_LASER_CULT"/>
+							<weapon name="AEA_LASER_CULT_06"/>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_08">
+				<text>Equip [Warp Bolt].</text>
+				<event>
+					<text>You are able to dissolve the spell into the weapon.</text>
+					<remove name="AEA_SPELL_ITEM_08"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon thrums with power.</text>
+							<remove name="AEA_LASER_CULT"/>
+							<weapon name="AEA_LASER_CULT_08"/>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_09">
+				<text>Equip [Heal Bolt].</text>
+				<event>
+					<text>You are able to dissolve the spell into the weapon.</text>
+					<remove name="AEA_SPELL_ITEM_09"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon thrums with power.</text>
+							<remove name="AEA_LASER_CULT"/>
+							<weapon name="AEA_LASER_CULT_09"/>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_12">
+				<text>Equip [Barrier].</text>
+				<event>
+					<text>You are able to dissolve the spell into the weapon.</text>
+					<remove name="AEA_SPELL_ITEM_12"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon thrums with power.</text>
+							<remove name="AEA_LASER_CULT"/>
+							<weapon name="AEA_LASER_CULT_12"/>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_13">
+				<text>Equip [Lockdown].</text>
+				<event>
+					<text>You are able to dissolve the spell into the weapon.].</text>
+					<remove name="AEA_SPELL_ITEM_13"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon thrums with power.</text>
+							<remove name="AEA_LASER_CULT"/>
+							<weapon name="AEA_LASER_CULT_13"/>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_14">
+				<text>Equip [Ally].</text>
+				<event>
+					<text>You are able to dissolve the spell into the weapon.].</text>
+					<remove name="AEA_SPELL_ITEM_14"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon thrums with power.</text>
+							<remove name="AEA_LASER_CULT"/>
+							<weapon name="AEA_LASER_CULT_14"/>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_15">
+				<text>Equip [Mind Bolt].</text>
+				<event>
+					<text>You are able to dissolve the spell into the weapon.].</text>
+					<remove name="AEA_SPELL_ITEM_15"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon thrums with power.</text>
+							<remove name="AEA_LASER_CULT"/>
+							<weapon name="AEA_LASER_CULT_15"/>
+						</event>
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice req="AEA_LASER_CULT_03">
+		<text>([Bio Bolt] Weapon) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this weapon, the spell will be lost however you will be able to equip the weapon with a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>You reset the weapon, losing any previous spells it had equiped.</text>
+					<remove name="AEA_LASER_CULT_03"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon glows more dimly without a spell.</text>
+							<weapon name="AEA_LASER_CULT"/>
+							<choice hidden="false">
+								<text>Continue...</text>
+								<event>
+									<text>You recieve the spell back from the weapon.</text>
+									<weapon name="AEA_SPELL_ITEM_03"/>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="AEA_LASER_CULT_04">
+		<text>([Bolt] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this weapon, the spell will be lost however you will be able to equip the weapon with a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>You reset the weapon, losing any previous spells it had equiped.</text>
+					<remove name="AEA_LASER_CULT_04"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon glows more dimly without a spell.</text>
+							<weapon name="AEA_LASER_CULT"/>
+							<choice hidden="false">
+								<text>Continue...</text>
+								<event>
+									<text>You recieve the spell back from the weapon.</text>
+									<weapon name="AEA_SPELL_ITEM_04"/>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="AEA_LASER_CULT_05">
+		<text>([Bolt Burst] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this weapon, the spell will be lost however you will be able to equip the weapon with a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>You reset the weapon, losing any previous spells it had equiped.</text>
+					<remove name="AEA_LASER_CULT_05"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon glows more dimly without a spell.</text>
+							<weapon name="AEA_LASER_CULT"/>
+							<choice hidden="false">
+								<text>Continue...</text>
+								<event>
+									<text>You recieve the spell back from the weapon.</text>
+									<weapon name="AEA_SPELL_ITEM_05"/>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="AEA_LASER_CULT_06">
+		<text>([Hull Bolt] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this weapon, the spell will be lost however you will be able to equip the weapon with a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>You reset the weapon, losing any previous spells it had equiped.</text>
+					<remove name="AEA_LASER_CULT_06"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon glows more dimly without a spell.</text>
+							<weapon name="AEA_LASER_CULT"/>
+							<choice hidden="false">
+								<text>Continue...</text>
+								<event>
+									<text>You recieve the spell back from the weapon.</text>
+									<weapon name="AEA_SPELL_ITEM_06"/>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="AEA_LASER_CULT_08">
+		<text>([Warp Bolt] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this weapon, the spell will be lost however you will be able to equip the weapon with a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>You reset the weapon, losing any previous spells it had equiped.</text>
+					<remove name="AEA_LASER_CULT_08"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon glows more dimly without a spell.</text>
+							<weapon name="AEA_LASER_CULT"/>
+							<choice hidden="false">
+								<text>Continue...</text>
+								<event>
+									<text>You recieve the spell back from the weapon.</text>
+									<weapon name="AEA_SPELL_ITEM_08"/>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="AEA_LASER_CULT_09">
+		<text>([Heal Bolt] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this weapon, the spell will be lost however you will be able to equip the weapon with a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>You reset the weapon, losing any previous spells it had equiped.</text>
+					<remove name="AEA_LASER_CULT_09"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon glows more dimly without a spell.</text>
+							<weapon name="AEA_LASER_CULT"/>
+							<choice hidden="false">
+								<text>Continue...</text>
+								<event>
+									<text>You recieve the spell back from the weapon.</text>
+									<weapon name="AEA_SPELL_ITEM_09"/>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="AEA_LASER_CULT_12">
+		<text>([Barrier] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this weapon, the spell will be lost however you will be able to equip the weapon with a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>You reset the weapon, losing any previous spells it had equiped.</text>
+					<remove name="AEA_LASER_CULT_12"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon glows more dimly without a spell.</text>
+							<weapon name="AEA_LASER_CULT"/>
+							<choice hidden="false">
+								<text>Continue...</text>
+								<event>
+									<text>You recieve the spell back from the weapon.</text>
+									<weapon name="AEA_SPELL_ITEM_12"/>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="AEA_LASER_CULT_13">
+		<text>([Lockdown] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this weapon, the spell will be lost however you will be able to equip the weapon with a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>You reset the weapon, losing any previous spells it had equiped.</text>
+					<remove name="AEA_LASER_CULT_13"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon glows more dimly without a spell.</text>
+							<weapon name="AEA_LASER_CULT"/>
+							<choice hidden="false">
+								<text>Continue...</text>
+								<event>
+									<text>You recieve the spell back from the weapon.</text>
+									<weapon name="AEA_SPELL_ITEM_13"/>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="AEA_LASER_CULT_14">
+		<text>([Ally] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this weapon, the spell will be lost however you will be able to equip the weapon with a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>You reset the weapon, losing any previous spells it had equiped.</text>
+					<remove name="AEA_LASER_CULT_14"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon glows more dimly without a spell.</text>
+							<weapon name="AEA_LASER_CULT"/>
+							<choice hidden="false">
+								<text>Continue...</text>
+								<event>
+									<text>You recieve the spell back from the weapon.</text>
+									<weapon name="AEA_SPELL_ITEM_14"/>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="AEA_LASER_CULT_15">
+		<text>([Mind Bolt] Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this weapon, the spell will be lost however you will be able to equip the weapon with a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>You reset the weapon, losing any previous spells it had equiped.</text>
+					<remove name="AEA_LASER_CULT_15"/>
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event>
+							<text>The weapon glows more dimly without a spell.</text>
+							<weapon name="AEA_LASER_CULT"/>
+							<choice hidden="false">
+								<text>Continue...</text>
+								<event>
+									<text>You recieve the spell back from the weapon.</text>
+									<weapon name="AEA_SPELL_ITEM_15"/>
+								</event>
+							</choice>
+						</event>
+					</choice>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<event name="STORAGE_CHECK_AEA_CULTIST_TINY">
+	<text>What do you want to do?.</text>
+  	<checkCargo />
+	<choice>
+		<text>Nevermind.</text>
+		<event load="STORAGE_CHECK" />
+	</choice>
+	<choice req="aea_cult_tiny">
+		<text>(Unlearned Tiny Cultist) Learn a spell.</text>
+		<event>
+			<text>Your tiny cultist is capable of learning a variety of spells.</text>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK" />
+			</choice>
+			<choice req="AEA_SPELL_ITEM_01">
+				<text>Learn [Protect].</text>
+				<event>
+					<text>Your tiny cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_01"/>
+					<transformRace class="aea_cult_tiny">aea_cult_tiny_a01</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_02">
+				<text>Learn [Beacon].</text>
+				<event>
+					<text>Your tiny cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_02"/>
+					<transformRace class="aea_cult_tiny">aea_cult_tiny_a02</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_03">
+				<text>Learn [Bio Bolt].</text>
+				<event>
+					<text>Your tiny cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_03"/>
+					<transformRace class="aea_cult_tiny">aea_cult_tiny_s03</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_04">
+				<text>Learn [Bolt].</text>
+				<event>
+					<text>Your tiny cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_04"/>
+					<transformRace class="aea_cult_tiny">aea_cult_tiny_s04</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_05">
+				<text>Learn [Bolt Burst].</text>
+				<event>
+					<text>Your tiny cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_05"/>
+					<transformRace class="aea_cult_tiny">aea_cult_tiny_s05</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_06">
+				<text>Learn [Hull Bolt].</text>
+				<event>
+					<text>Your tiny cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_06"/>
+					<transformRace class="aea_cult_tiny">aea_cult_tiny_s06</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_07">
+				<text>Learn [Warp].</text>
+				<event>
+					<text>Your tiny cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_07"/>
+					<transformRace class="aea_cult_tiny">aea_cult_tiny_a07</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_08">
+				<text>Learn [Warp Bolt].</text>
+				<event>
+					<text>Your tiny cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_08"/>
+					<transformRace class="aea_cult_tiny">aea_cult_tiny_s08</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_09">
+				<text>Learn [Heal Bolt].</text>
+				<event>
+					<text>Your tiny cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_09"/>
+					<transformRace class="aea_cult_tiny">aea_cult_tiny_s09</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_10">
+				<text>Learn [Heal Aura].</text>
+				<event>
+					<text>Your tiny cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_10"/>
+					<transformRace class="aea_cult_tiny">aea_cult_tiny_a10</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_11">
+				<text>Learn [Drone].</text>
+				<event>
+					<text>Your tiny cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_11"/>
+					<transformRace class="aea_cult_tiny">aea_cult_tiny_a11</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_12">
+				<text>Learn [Barrier].</text>
+				<event>
+					<text>Your tiny cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_12"/>
+					<transformRace class="aea_cult_tiny">aea_cult_tiny_s12</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_13">
+				<text>Learn [Lockdown].</text>
+				<event>
+					<text>Your tiny cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_13"/>
+					<transformRace class="aea_cult_tiny">aea_cult_tiny_s13</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_14">
+				<text>Learn [Ally].</text>
+				<event>
+					<text>Your tiny cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_14"/>
+					<transformRace class="aea_cult_tiny">aea_cult_tiny_s14</transformRace>
+				</event>
+			</choice>
+			<choice req="AEA_SPELL_ITEM_15">
+				<text>Learn [Mind Bolt].</text>
+				<event>
+					<text>Your tiny cultist equips the new spell to their staff.</text>
+					<remove name="AEA_SPELL_ITEM_15"/>
+					<transformRace class="aea_cult_tiny">aea_cult_tiny_s15</transformRace>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_tiny_a01">
+		<text>([Protect] Tiny Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this tiny cultist, the spell will be lost however you will be able to teach the tiny cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your tiny cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_tiny_a01">aea_cult_tiny</transformRace>
+					<weapon name="AEA_SPELL_ITEM_01"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_tiny_a02">
+		<text>([Beacon] Tiny Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this tiny cultist, the spell will be lost however you will be able to teach the tiny cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your tiny cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_tiny_a02">aea_cult_tiny</transformRace>
+					<weapon name="AEA_SPELL_ITEM_02"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_tiny_s03">
+		<text>([Bio Bolt] Tiny Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this tiny cultist, the spell will be lost however you will be able to teach the tiny cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your tiny cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_tiny_s03">aea_cult_tiny</transformRace>
+					<weapon name="AEA_SPELL_ITEM_03"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_tiny_s04">
+		<text>([Bolt] Tiny Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this tiny cultist, the spell will be lost however you will be able to teach the tiny cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your tiny cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_tiny_s04">aea_cult_tiny</transformRace>
+					<weapon name="AEA_SPELL_ITEM_04"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_tiny_s05">
+		<text>([Bolt Burst] Tiny Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this tiny cultist, the spell will be lost however you will be able to teach the tiny cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your tiny cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_tiny_s05">aea_cult_tiny</transformRace>
+					<weapon name="AEA_SPELL_ITEM_05"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_tiny_s06">
+		<text>([Hull Bolt] Tiny Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this tiny cultist, the spell will be lost however you will be able to teach the tiny cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your tiny cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_tiny_s06">aea_cult_tiny</transformRace>
+					<weapon name="AEA_SPELL_ITEM_06"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_tiny_a07">
+		<text>([Warp] Tiny Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this tiny cultist, the spell will be lost however you will be able to teach the tiny cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your tiny cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_tiny_a07">aea_cult_tiny</transformRace>
+					<weapon name="AEA_SPELL_ITEM_07"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_tiny_s08">
+		<text>([Warp Bolt] Tiny Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this tiny cultist, the spell will be lost however you will be able to teach the tiny cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your tiny cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_tiny_s08">aea_cult_tiny</transformRace>
+					<weapon name="AEA_SPELL_ITEM_08"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_tiny_s09">
+		<text>([Heal Bolt] Tiny Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this tiny cultist, the spell will be lost however you will be able to teach the tiny cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your tiny cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_tiny_s09">aea_cult_tiny</transformRace>
+					<weapon name="AEA_SPELL_ITEM_09"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_tiny_a10">
+		<text>([Heal Aura] Tiny Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this tiny cultist, the spell will be lost however you will be able to teach the tiny cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your tiny cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_tiny_a10">aea_cult_tiny</transformRace>
+					<weapon name="AEA_SPELL_ITEM_10"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_tiny_a11">
+		<text>([Drone] Tiny Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this tiny cultist, the spell will be lost however you will be able to teach the tiny cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your tiny cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_tiny_a11">aea_cult_tiny</transformRace>
+					<weapon name="AEA_SPELL_ITEM_11"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_tiny_s12">
+		<text>([Barrier] Tiny Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this tiny cultist, the spell will be lost however you will be able to teach the tiny cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your tiny cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_tiny_s12">aea_cult_tiny</transformRace>
+					<weapon name="AEA_SPELL_ITEM_12"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_tiny_s13">
+		<text>([Lockdown] Tiny Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this tiny cultist, the spell will be lost however you will be able to teach the tiny cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your tiny cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_tiny_s13">aea_cult_tiny</transformRace>
+					<weapon name="AEA_SPELL_ITEM_13"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_tiny_s14">
+		<text>([Ally] Tiny Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this tiny cultist, the spell will be lost however you will be able to teach the tiny cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your tiny cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_tiny_s14">aea_cult_tiny</transformRace>
+					<weapon name="AEA_SPELL_ITEM_14"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+	<choice req="aea_cult_tiny_s15">
+		<text>([Mind Bolt] Tiny Cultist) Reset spell.</text>
+		<event>
+			<text>Do you wish to reset the spell of this tiny cultist, the spell will be lost however you will be able to teach the tiny cultist a new spell.</text>
+			<choice>
+				<text>Reset.</text>
+				<event>
+					<text>Your tiny cultist resets their staff, losing any previous spells they had equiped.</text>
+					<transformRace class="aea_cult_tiny_s15">aea_cult_tiny</transformRace>
+					<weapon name="AEA_SPELL_ITEM_15"/>
+				</event>
+			</choice>
+			<choice>
+				<text>Nevermind.</text>
+				<event load="STORAGE_CHECK"/>
+			</choice>
+		</event>
+	</choice>
+</event>
+
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+					TWIN LASER/BEAM DRONE 1
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->	
+<event name="COMBAT_CHECK_AEA_BIRD_MULTI_1_LASER">
+	<text>Are you sure you want to change the drone's settings?.</text>
+	<choice hidden="true">
+		<text>Set the drone to Beam Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_BIRD_MULTI_1_LASER" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_BIRD_MULTI_1_BEAM" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+<event name="COMBAT_CHECK_AEA_BIRD_MULTI_1_BEAM">
+	<text>Are you sure you want to change the drone's settings?.</text>
+	<choice hidden="true">
+		<text>Set the drone to Laser Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_BIRD_MULTI_1_BEAM" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_BIRD_MULTI_1_LASER" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+					TWIN LASER/BEAM DRONE 2
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->	
+<event name="COMBAT_CHECK_AEA_BIRD_MULTI_2_LASER">
+	<text>Are you sure you want to change the drone's settings?.</text>
+	<choice hidden="true">
+		<text>Set the drone to Beam Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_BIRD_MULTI_2_LASER" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_BIRD_MULTI_2_BEAM" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+<event name="COMBAT_CHECK_AEA_BIRD_MULTI_2_BEAM">
+	<text>Are you sure you want to change the drone's settings?.</text>
+	<choice hidden="true">
+		<text>Set the drone to Laser Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_BIRD_MULTI_2_BEAM" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_BIRD_MULTI_2_LASER" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+
+
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+					TWIN LASER/BEAM DRONE 2 LOOT
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->	
+<event name="COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_LASER">
+	<text>Are you sure you want to change the drone's settings?.</text>
+	<choice hidden="true">
+		<text>Set the drone to Beam Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_BIRD_MULTI_2_LOOT_LASER" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_BIRD_MULTI_2_LOOT_BEAM" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+<event name="COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_BEAM">
+	<text>Are you sure you want to change the drone's settings?.</text>
+	<choice hidden="true">
+		<text>Set the drone to Laser Mode.</text>
+		<event>
+			<text>You start calibrating the drone...</text>
+			<remove name="AEA_COMBAT_BIRD_MULTI_2_LOOT_BEAM" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event>
+					<text>You finish calibrating the drone successfully.</text>
+					<drone name="AEA_COMBAT_BIRD_MULTI_2_LOOT_LASER" />
+					<choice hidden="true">
+						<text>Continue...</text>
+						<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+					</choice>
+				</event>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true">
+		<text>Return to the toggle menu.</text>
+		<event load="COMBAT_CHECK_TOGGLE_LOAD" />
+	</choice>
+</event>
+</FTL>

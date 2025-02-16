@@ -1,0 +1,3474 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_storage.xml.append:5
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:9
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:13
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:17
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:21
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:25
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:36
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ORCHID\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:41
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ORCHID\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:48
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:54
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:63
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_COMMUNION\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:68
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_COMMUNION\"]/choice[@req=\"LAB_UPGRADE\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:70
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_COMMUNION\"]/choice[@req=\"LAB_UPGRADE\""
+" and @lvl=\"1\"]/event/text"
+msgstr "Installi la modifica."
+
+#: src-en/data/events_special_storage.xml.append:76
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_COMMUNION\"]/choice[@req=\"LAB_UPGRADE\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:82
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_COMMUNION\"]/choice[@req=\"LAB_UPGRADE\""
+" and @lvl=\"0\"]/text"
+msgstr "Devi avere il laboratorio migliorato per questa modifica."
+
+#: src-en/data/events_special_storage.xml.append:86
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_COMMUNION\"]/choice[@req=\"pilot\"]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:96
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:99
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[1]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:103
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:105
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:111
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:117
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:119
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:125
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:131
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist_nano\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:133
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist_nano\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:139
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist_nano\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:145
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_defender\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:147
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_defender\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:153
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_defender\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:162
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:168
+msgid ""
+"data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
+"append:choice/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:175
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:179
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:184
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:188
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:193
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:197
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:202
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:206
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[8]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:211
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[9]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:215
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[10]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:219
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[11]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:224
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[12]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:228
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[13]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:233
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[14]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:237
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[15]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:242
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[16]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:246
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
+"append:choice[17]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:252
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:255
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[1]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:260
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:265
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:267
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:270
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[3]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:272
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[3]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:275
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[3]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:286
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:289
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[1]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:294
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:296
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:299
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[2]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:301
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[2]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:304
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:313
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:327
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_MISSILE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:329
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_MISSILE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:331
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_MISSILE\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:334
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_MISSILE\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:336
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_MISSILE\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:339
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_MISSILE\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:347
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_MISSILE\"]/choice[2]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:352
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_DRONE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:354
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_DRONE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:356
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_DRONE\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:359
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_DRONE\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:361
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_DRONE\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:364
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_DRONE\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:372
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_DRONE\"]/choice[2]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:385
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_MISSILE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:387
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_MISSILE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:389
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_MISSILE\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:392
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_MISSILE\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:394
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_MISSILE\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:397
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_MISSILE\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:405
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_MISSILE\"]/choice[2]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:410
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_DRONE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:412
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_DRONE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:414
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_DRONE\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:417
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_DRONE\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:419
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_DRONE\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:422
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_DRONE\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:430
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_DRONE\"]/choice[2]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:443
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_LASER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:445
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_LASER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:447
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_LASER\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:450
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_LASER\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:452
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_LASER\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:455
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_LASER\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:463
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_LASER\"]/choice[2]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:468
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_BEAM\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:470
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_BEAM\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:472
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_BEAM\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:475
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_BEAM\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:477
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_BEAM\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:480
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_BEAM\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:488
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_BEAM\"]/choice[2]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:500
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_LASER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:502
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_LASER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:504
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_LASER\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:507
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_LASER\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:509
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_LASER\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:512
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_LASER\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:520
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_LASER\"]/choice[2]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:525
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_BEAM\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:527
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_BEAM\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:529
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_BEAM\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:532
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_BEAM\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:534
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_BEAM\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:537
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_BEAM\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:545
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_BEAM\"]/choice[2]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:553
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
+"append:choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:557
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
+"append:choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:563
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:565
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO\"]/choice[@req=\"aea_p_has_repair\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:569
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO\"]/choice[@req=\"aea_p_has_repair\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:573
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO\"]/choice[3]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:579
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:582
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/choice[@req=\"LIST_CREW_AEA_NECRO\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:584
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/choice[@req=\"LIST_CREW_AEA_NECRO\""
+" and @lvl=\"1\"]/event/text"
+msgstr "Installi il miglioramento."
+
+#: src-en/data/events_special_storage.xml.append:589
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/choice[@req=\"LIST_CREW_AEA_NECRO\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:595
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/choice[@req=\"LIST_CREW_AEA_NECRO\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:599
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/choice[@req=\"pilot\"]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:610
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:612
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"shields\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:616
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_shields_upgrades\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:620
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:624
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_shields\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:630
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"engines\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:634
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_engines_upgrades\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:638
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:642
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_engines\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:648
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"weapons\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:652
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_weapons_upgrades\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:656
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[11]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:660
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_weapons\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:666
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"drones\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:670
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_drones_upgrades\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:674
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[15]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:678
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_drones\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:684
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"cloaking\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:688
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_cloaking_upgrades\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:692
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[19]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:696
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_cloaking\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:702
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"mind\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:706
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_mind_upgrades\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:710
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[23]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:714
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_mind\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:720
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"hacking\""
+" and @lvl=\"-1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:724
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"hacking\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:728
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_hacking_upgrades\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:732
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[28]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:736
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_hacking\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:742
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"medbay\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:746
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_medbay_upgrades\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:750
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[32]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:754
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_medbay\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:760
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"clonebay\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:764
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_clonebay_upgrades\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:768
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[36]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:772
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_clonebay\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:778
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_reactor_upgrades\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:782
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[39]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:786
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_reactor\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:790
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[41]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:796
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:799
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:803
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/choice[@req=\"aea_can_upgrade_shields\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:805
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/choice[@req=\"aea_can_upgrade_shields\""
+" and @lvl=\"1\"]/event/text"
+msgstr "Installi il miglioramento."
+
+#: src-en/data/events_special_storage.xml.append:811
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/choice[@req=\"aea_can_upgrade_shields\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:817
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/choice[@req=\"aea_can_upgrade_shields\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:821
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/choice[@req=\"pilot\"]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:831
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:834
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:838
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/choice[@req=\"aea_can_upgrade_engines\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:840
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/choice[@req=\"aea_can_upgrade_engines\""
+" and @lvl=\"1\"]/event/text"
+msgstr "Installi il miglioramento."
+
+#: src-en/data/events_special_storage.xml.append:846
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/choice[@req=\"aea_can_upgrade_engines\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:852
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/choice[@req=\"aea_can_upgrade_engines\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:856
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/choice[@req=\"pilot\"]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:866
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:869
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:873
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/choice[@req=\"aea_can_upgrade_weapons\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:875
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/choice[@req=\"aea_can_upgrade_weapons\""
+" and @lvl=\"1\"]/event/text"
+msgstr "Installi il miglioramento."
+
+#: src-en/data/events_special_storage.xml.append:881
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/choice[@req=\"aea_can_upgrade_weapons\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:887
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/choice[@req=\"aea_can_upgrade_weapons\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:891
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/choice[@req=\"pilot\"]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:901
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:904
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:908
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/choice[@req=\"aea_can_upgrade_drones\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:910
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/choice[@req=\"aea_can_upgrade_drones\""
+" and @lvl=\"1\"]/event/text"
+msgstr "Installi il miglioramento."
+
+#: src-en/data/events_special_storage.xml.append:916
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/choice[@req=\"aea_can_upgrade_drones\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:922
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/choice[@req=\"aea_can_upgrade_drones\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:926
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/choice[@req=\"pilot\"]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:936
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:939
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:943
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/choice[@req=\"aea_can_upgrade_cloaking\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:945
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/choice[@req=\"aea_can_upgrade_cloaking\""
+" and @lvl=\"1\"]/event/text"
+msgstr "Installi il miglioramento."
+
+#: src-en/data/events_special_storage.xml.append:951
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/choice[@req=\"aea_can_upgrade_cloaking\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:957
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/choice[@req=\"aea_can_upgrade_cloaking\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:961
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/choice[@req=\"pilot\"]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:971
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:974
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:978
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/choice[@req=\"aea_can_upgrade_mind\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:980
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/choice[@req=\"aea_can_upgrade_mind\""
+" and @lvl=\"1\"]/event/text"
+msgstr "Installi il miglioramento."
+
+#: src-en/data/events_special_storage.xml.append:986
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/choice[@req=\"aea_can_upgrade_mind\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:992
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/choice[@req=\"aea_can_upgrade_mind\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:996
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/choice[@req=\"pilot\"]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1006
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1009
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1013
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/choice[@req=\"aea_can_upgrade_hacking\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1015
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/choice[@req=\"aea_can_upgrade_hacking\""
+" and @lvl=\"1\"]/event/text"
+msgstr "Installi il miglioramento."
+
+#: src-en/data/events_special_storage.xml.append:1021
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/choice[@req=\"aea_can_upgrade_hacking\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1027
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/choice[@req=\"aea_can_upgrade_hacking\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1031
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/choice[@req=\"pilot\"]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1041
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1044
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1048
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/choice[@req=\"aea_can_upgrade_medbay\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1050
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/choice[@req=\"aea_can_upgrade_medbay\""
+" and @lvl=\"1\"]/event/text"
+msgstr "Installi il miglioramento."
+
+#: src-en/data/events_special_storage.xml.append:1056
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/choice[@req=\"aea_can_upgrade_medbay\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1062
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/choice[@req=\"aea_can_upgrade_medbay\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1066
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/choice[@req=\"pilot\"]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1077
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1080
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1084
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/choice[@req=\"aea_can_upgrade_clonebay\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1086
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/choice[@req=\"aea_can_upgrade_clonebay\""
+" and @lvl=\"1\"]/event/text"
+msgstr "Installi il miglioramento."
+
+#: src-en/data/events_special_storage.xml.append:1092
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/choice[@req=\"aea_can_upgrade_clonebay\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1098
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/choice[@req=\"aea_can_upgrade_clonebay\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1102
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/choice[@req=\"pilot\"]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1113
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1116
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/choice[@req=\"aea_can_upgrade_reactor\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1118
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/choice[@req=\"aea_can_upgrade_reactor\""
+" and @lvl=\"1\"]/event/text"
+msgstr "Installi il miglioramento."
+
+#: src-en/data/events_special_storage.xml.append:1123
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/choice[@req=\"aea_can_upgrade_reactor\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1129
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/choice[@req=\"aea_can_upgrade_reactor\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1133
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/choice[@req=\"pilot\"]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1152
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1155
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1157
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:1160
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1162
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:1165
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1173
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1175
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/choice[2]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:1178
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/choice[2]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1180
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/choice[2]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:1183
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1191
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/choice[3]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:1196
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1199
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1201
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:1204
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1206
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:1209
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1217
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1219
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/choice[2]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:1222
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/choice[2]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1224
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/choice[2]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:1227
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1235
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/choice[3]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:1240
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1243
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1245
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:1248
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1250
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:1253
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1261
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1263
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/choice[2]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:1266
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/choice[2]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1268
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/choice[2]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:1271
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/choice[2]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1279
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/choice[3]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:1287
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1290
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[1]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1294
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1296
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1298
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[1]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1302
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_01\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1304
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_01\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1310
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_02\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1312
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_02\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1318
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1320
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1326
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1328
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1334
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1336
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1342
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1344
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1350
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_07\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1352
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_07\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1358
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1360
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1366
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1368
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1374
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1376
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_10\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1382
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_11\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1384
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_11\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1390
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1392
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1398
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1400
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1406
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1408
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1414
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1416
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1424
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a01\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1426
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a01\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1428
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a01\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1430
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a01\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1436
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a01\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1442
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a02\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1444
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a02\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1446
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a02\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1448
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a02\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1454
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a02\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1460
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s03\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1462
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s03\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1464
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s03\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1466
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s03\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1472
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s03\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1478
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s04\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1480
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s04\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1482
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s04\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1484
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s04\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1490
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s04\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1496
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s05\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1498
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s05\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1500
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s05\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1502
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s05\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1508
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s05\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1514
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s06\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1516
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s06\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1518
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s06\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1520
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s06\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1526
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s06\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1532
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a07\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1534
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a07\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1536
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a07\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1538
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a07\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1544
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a07\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1550
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s08\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1552
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s08\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1554
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s08\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1556
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s08\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1562
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s08\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1568
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s09\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1570
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s09\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1572
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s09\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1574
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s09\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1580
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s09\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1586
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1588
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a10\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1590
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a10\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1592
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a10\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1598
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a10\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1604
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a11\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1606
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a11\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1608
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a11\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1610
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a11\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1616
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a11\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1622
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s12\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1624
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s12\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1626
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s12\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1628
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s12\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1634
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s12\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1640
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s13\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1642
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s13\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1644
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s13\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1646
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s13\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1652
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s13\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1658
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s14\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1660
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s14\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1662
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s14\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1664
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s14\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1670
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s14\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1676
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s15\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1678
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s15\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1680
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s15\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1682
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s15\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1688
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s15\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1700
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1703
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[1]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1707
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1709
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1711
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[1]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1715
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1717
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1720
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1722
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1730
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1732
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1735
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1737
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1745
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1747
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1750
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1752
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1760
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1762
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1765
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1767
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1775
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1777
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1780
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1782
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1790
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1792
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1795
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1797
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1805
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1807
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1810
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1812
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1820
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1822
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1825
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1827
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1835
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1837
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1840
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1842
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1850
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1852
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1855
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1857
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1867
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1869
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1871
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1873
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1876
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1878
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1881
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1883
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1892
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1898
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1900
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1902
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1904
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1907
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1909
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1912
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1914
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1923
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1929
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1931
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1933
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1935
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1938
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1940
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1943
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1945
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1954
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1960
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1962
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1964
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1966
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1969
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1971
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1974
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:1976
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1985
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:1991
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1993
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1995
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:1997
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2000
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2002
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2005
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2007
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2016
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2022
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2024
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2026
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2028
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2031
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2033
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2036
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2038
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2047
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2053
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2055
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2057
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2059
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2062
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2064
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2067
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2069
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2078
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2084
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2086
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2088
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2090
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2093
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2095
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2098
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2100
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2109
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2115
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2117
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2119
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2121
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2124
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2126
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2129
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2131
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2140
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2146
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2148
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2150
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2152
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2155
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2157
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2160
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2162
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2171
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2179
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2182
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[1]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2186
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2188
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2190
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[1]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2194
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_01\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2196
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_01\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2202
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_02\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2204
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_02\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2210
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2212
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2218
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2220
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2226
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2228
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2234
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2236
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2242
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_07\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2244
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_07\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2250
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2252
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2258
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2260
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2266
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2268
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_10\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2274
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_11\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2276
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_11\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2282
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2284
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2290
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2292
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2298
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2300
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2306
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2308
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2316
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a01\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2318
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a01\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2320
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a01\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2322
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a01\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2328
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a01\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2334
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a02\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2336
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a02\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2338
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a02\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2340
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a02\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2346
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a02\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2352
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s03\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2354
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s03\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2356
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s03\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2358
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s03\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2364
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s03\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2370
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s04\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2372
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s04\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2374
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s04\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2376
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s04\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2382
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s04\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2388
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s05\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2390
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s05\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2392
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s05\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2394
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s05\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2400
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s05\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2406
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s06\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2408
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s06\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2410
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s06\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2412
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s06\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2418
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s06\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2424
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a07\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2426
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a07\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2428
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a07\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2430
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a07\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2436
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a07\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2442
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s08\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2444
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s08\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2446
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s08\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2448
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s08\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2454
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s08\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2460
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s09\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2462
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s09\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2464
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s09\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2466
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s09\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2472
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s09\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2478
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a10\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2480
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a10\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2482
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a10\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2484
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a10\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2490
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a10\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2496
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a11\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2498
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a11\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2500
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a11\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2502
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a11\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2508
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a11\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2514
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s12\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2516
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s12\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2518
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s12\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2520
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s12\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2526
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s12\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2532
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s13\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2534
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s13\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2536
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s13\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2538
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s13\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2544
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s13\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2550
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s14\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2552
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s14\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2554
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s14\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2556
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s14\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2562
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s14\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2568
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s15\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2570
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s15\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2572
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s15\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2574
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s15\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2580
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s15\"]/event/choice[2]/text"
+msgstr "Lascia perdere."
+
+#: src-en/data/events_special_storage.xml.append:2595
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_LASER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2597
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_LASER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2599
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_LASER\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:2602
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_LASER\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2604
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_LASER\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:2607
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_LASER\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2615
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_LASER\"]/choice[2]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:2620
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_BEAM\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2622
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_BEAM\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2624
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_BEAM\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:2627
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_BEAM\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2629
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_BEAM\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:2632
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_BEAM\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2640
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_BEAM\"]/choice[2]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:2653
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LASER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2655
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LASER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2657
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LASER\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:2660
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LASER\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2662
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LASER\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:2665
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LASER\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2673
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LASER\"]/choice[2]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:2678
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_BEAM\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2680
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_BEAM\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2682
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_BEAM\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:2685
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_BEAM\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2687
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_BEAM\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:2690
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_BEAM\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2698
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_BEAM\"]/choice[2]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:2712
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_LASER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2714
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_LASER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2716
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_LASER\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:2719
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_LASER\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2721
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_LASER\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:2724
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_LASER\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2732
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_LASER\"]/choice[2]/text"
+msgstr "Torna al menù impostazioni."
+
+#: src-en/data/events_special_storage.xml.append:2737
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_BEAM\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2739
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_BEAM\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_storage.xml.append:2741
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_BEAM\"]/choice[1]/event/text"
+msgstr "Inizi a calibrare il drone..."
+
+#: src-en/data/events_special_storage.xml.append:2744
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_BEAM\"]/choice[1]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2746
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_BEAM\"]/choice[1]/event/choice/event/text"
+msgstr "Finisci di calibrare il drone."
+
+#: src-en/data/events_special_storage.xml.append:2749
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_BEAM\"]/choice[1]/event/choice/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_special_storage.xml.append:2757
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_BEAM\"]/choice[2]/text"
+msgstr "Torna al menù impostazioni."

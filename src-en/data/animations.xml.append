@@ -1,0 +1,5047 @@
+<FTL>
+<animSheet name="aea_invisible" w="35" h="35" fw="35" fh="35">effects/invisible.png</animSheet>
+<anim name="aea_invisible">
+	<sheet>aea_invisible</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>0.1</time>
+</anim>
+
+<animSheet name="aea_invis_bomb" w="35" h="35" fw="35" fh="35">effects/invisible.png</animSheet>
+<anim name="aea_invis_bomb">
+	<sheet>aea_invis_bomb</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>0.001</time>
+</anim>
+
+<animSheet name="aea_invisible_gun" w="33" h="35" fw="11" fh="35">effects/invisible.png</animSheet>
+<weaponAnim name="aea_invisible_gun">
+	<sheet>aea_invisible_gun</sheet>
+	<desc length="3" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint x="0" y="0" />
+	<mountPoint x="0" y="0" />
+</weaponAnim>
+
+<animSheet name="aea_laser_spell_artillery" w="350" h="35" fw="35" fh="35">weapon_cult/aea_laser_spell_artillery.png</animSheet>
+<weaponAnim name="aea_laser_spell_artillery">
+	<sheet>aea_laser_spell_artillery</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>8</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="17" y="17" />
+	<mountPoint x="17" y="17" />
+</weaponAnim>
+
+<animSheet name="aea_old_scrap" w="50" h="38" fw="50" fh="38">weapon_old/aea_old_scrap.png</animSheet>
+<anim name="aea_old_scrap">
+	<sheet>aea_old_scrap</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="hazard_aea_old_grapple" w="140" h="35" fw="35" fh="35">effects/hazard_aea_old_grapple.png</animSheet>
+<anim name="hazard_aea_old_grapple">
+	<sheet>hazard_aea_old_grapple</sheet>
+	<desc length="4" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_acid_effect_tile" w="35" h="35" fw="35" fh="35">effects/acid_effect_tile.png</animSheet>
+<anim name="aea_acid_effect_tile">
+	<sheet>aea_acid_effect_tile</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_acid_effect_tile_anim" w="140" h="35" fw="35" fh="35">effects/acid_effect_tile_anim.png</animSheet>
+<anim name="aea_acid_effect_tile_anim">
+	<sheet>aea_acid_effect_tile_anim</sheet>
+	<desc length="4" x="0" y="0" />
+	<time>4</time>
+</anim>
+
+<animSheet name="aea_acid_wall" w="175" h="35" fw="35" fh="35">effects/aea_acid_wall.png</animSheet>
+<anim name="aea_acid_wall">
+	<sheet>aea_acid_wall</sheet>
+	<desc length="5" x="0" y="0"/>
+	<time>0.2</time>
+</anim>
+
+<animSheet name="ase_proj_acid_laser" w="200" h="20" fw="50" fh="20">projectiles/ase_proj_acid_laser.png</animSheet>
+
+<anim name="ase_proj_acid_laser">
+	<sheet>ase_proj_acid_laser</sheet>
+	<desc length="4" x="0" y="0" />
+	<time>0.5</time>
+</anim>
+
+<animSheet name="ase_proj_acid_big" w="60" h="20" fw="60" fh="20">projectiles/ase_proj_acid_big.png</animSheet>
+<anim name="ase_proj_acid_big">
+	<sheet>ase_proj_acid_big</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>0.3</time>
+</anim>
+
+
+<animSheet name="ase_proj_acid_ion" w="24" h="24" fw="24" fh="24">projectiles/ase_proj_acid_ion.png</animSheet>
+<anim name="ase_proj_acid_ion">
+	<sheet>ase_proj_acid_ion</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>0.3</time>
+</anim>
+
+<animSheet name="aea_proj_magic" w="60" h="20" fw="60" fh="20">projectiles/aea_proj_magic.png</animSheet>
+<anim name="aea_proj_magic">
+	<sheet>aea_proj_magic</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>0.5</time>
+</anim>
+<animSheet name="aea_proj_magic_pur" w="60" h="20" fw="60" fh="20">projectiles/aea_proj_magic_pur.png</animSheet>
+<anim name="aea_proj_magic_pur">
+	<sheet>aea_proj_magic_pur</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>0.5</time>
+</anim>
+<animSheet name="aea_proj_magic_heal" w="60" h="20" fw="60" fh="20">projectiles/aea_proj_magic_heal.png</animSheet>
+<anim name="aea_proj_magic_heal">
+	<sheet>aea_proj_magic_heal</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>0.5</time>
+</anim>
+<animSheet name="aea_proj_magic_hull" w="60" h="20" fw="60" fh="20">projectiles/aea_proj_magic_hull.png</animSheet>
+<anim name="aea_proj_magic_hull">
+	<sheet>aea_proj_magic_hull</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>0.5</time>
+</anim>
+<animSheet name="aea_proj_magic_syhs" w="60" h="20" fw="60" fh="20">projectiles/aea_proj_magic_syhs.png</animSheet>
+<anim name="aea_proj_magic_syhs">
+	<sheet>aea_proj_magic_syhs</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>0.5</time>
+</anim>
+
+<animSheet name="aea_laser_acid_1" w="210" h="52" fw="21" fh="52">weapon_acid/aea_laser_acid_1.png</animSheet>
+<weaponAnim name="aea_laser_acid_1">
+	<sheet>aea_laser_acid_1</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>6</chargedFrame>
+	<fireFrame>8</fireFrame>
+	<firePoint x="13" y="4" />
+	<mountPoint x="4" y="36" />
+</weaponAnim>
+
+<animSheet name="aea_laser_acid_2" w="280" h="60" fw="28" fh="60">weapon_acid/aea_laser_acid_2.png</animSheet>
+<weaponAnim name="aea_laser_acid_2">
+	<sheet>aea_laser_acid_2</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>6</chargedFrame>
+	<fireFrame>8</fireFrame>
+	<firePoint x="19" y="6" />
+	<mountPoint x="4" y="45" />
+</weaponAnim>
+
+<animSheet name="aea_laser_acid_3" w="396" h="77" fw="33" fh="77">weapon_acid/aea_laser_acid_3.png</animSheet>
+<weaponAnim name="aea_laser_acid_3">
+	<sheet>aea_laser_acid_3</sheet>
+	<desc length="12" x="0" y="0" />
+	<chargedFrame>7</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="20" y="6" />
+	<mountPoint x="4" y="55" />
+</weaponAnim>
+
+<animSheet name="aea_laser_acid_super" w="456" h="93" fw="38" fh="93">weapon_acid/aea_laser_acid_super.png</animSheet>
+<weaponAnim name="aea_laser_acid_super">
+	<sheet>aea_laser_acid_super</sheet>
+	<desc length="12" x="0" y="0" />
+	<chargedFrame>7</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="25" y="9" />
+	<mountPoint x="4" y="69" />
+</weaponAnim>
+
+<animSheet name="aea_laser_acid_super_base" w="56" h="38" fw="56" fh="38">weapon_acid/aea_laser_acid_super_base.png</animSheet>
+<anim name="aea_laser_acid_super_base">
+    <sheet>aea_laser_acid_super_base</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+
+<animSheet name="aea_beam_acid_1" w="350" h="60" fw="35" fh="60">weapon_acid/aea_beam_acid_1.png</animSheet>
+<weaponAnim name="aea_beam_acid_1">
+	<sheet>aea_beam_acid_1</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>4</chargedFrame>
+	<fireFrame>5</fireFrame>
+	<firePoint x="21" y="30" />
+	<mountPoint x="4" y="47" />
+	<chargeImage>weapon_acid/aea_beam_acid_1_glow.png</chargeImage>
+</weaponAnim>
+
+<animSheet name="aea_ion_acid_1" w="320" h="56" fw="32" fh="56">weapon_acid/aea_ion_acid_1.png</animSheet>
+<weaponAnim name="aea_ion_acid_1">
+	<sheet>aea_ion_acid_1</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>4</chargedFrame>
+	<fireFrame>7</fireFrame>
+	<firePoint x="19" y="6" />
+	<mountPoint x="4" y="37" />
+	<chargeImage>weapon_acid/aea_ion_acid_1_glow.png</chargeImage>
+</weaponAnim>
+
+<animSheet name="aea_ion_acid_1_loot" w="320" h="56" fw="32" fh="56">weapon_acid/aea_ion_acid_1_loot.png</animSheet>
+<weaponAnim name="aea_ion_acid_1_loot">
+	<sheet>aea_ion_acid_1_loot</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>4</chargedFrame>
+	<fireFrame>7</fireFrame>
+	<firePoint x="19" y="6" />
+	<mountPoint x="4" y="37" />
+	<chargeImage>weapon_acid/aea_ion_acid_1_glow.png</chargeImage>
+</weaponAnim>
+
+
+<animSheet name="aea_laser_acid_1" w="210" h="52" fw="21" fh="52">weapon_acid/aea_laser_acid_1.png</animSheet>
+<weaponAnim name="aea_laser_acid_1">
+	<sheet>aea_laser_acid_1</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>6</chargedFrame>
+	<fireFrame>8</fireFrame>
+	<firePoint x="13" y="4" />
+	<mountPoint x="4" y="36" />
+</weaponAnim>
+
+<animSheet name="aea_laser_acid_2" w="280" h="60" fw="28" fh="60">weapon_acid/aea_laser_acid_2.png</animSheet>
+<weaponAnim name="aea_laser_acid_2">
+	<sheet>aea_laser_acid_2</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>6</chargedFrame>
+	<fireFrame>8</fireFrame>
+	<firePoint x="19" y="6" />
+	<mountPoint x="4" y="45" />
+</weaponAnim>
+
+<animSheet name="aea_laser_necro_1" w="243" h="61" fw="27" fh="61">weapon_necro/aea_laser_necro_1.png</animSheet>
+<weaponAnim name="aea_laser_necro_1">
+	<sheet>aea_laser_necro_1</sheet>
+	<desc length="9" x="0" y="0" />
+	<chargedFrame>5</chargedFrame>
+	<fireFrame>7</fireFrame>
+	<firePoint x="19" y="7" />
+	<mountPoint x="5" y="40" />
+</weaponAnim>
+
+<animSheet name="aea_laser_necro_2" w="330" h="69" fw="33" fh="69">weapon_necro/aea_laser_necro_2.png</animSheet>
+<weaponAnim name="aea_laser_necro_2">
+	<sheet>aea_laser_necro_2</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>6</chargedFrame>
+	<fireFrame>8</fireFrame>
+	<firePoint x="22" y="7" />
+	<mountPoint x="5" y="48" />
+</weaponAnim>
+
+<animSheet name="aea_laser_necro_3" w="360" h="81" fw="36" fh="81">weapon_necro/aea_laser_necro_3.png</animSheet>
+<weaponAnim name="aea_laser_necro_3">
+	<sheet>aea_laser_necro_3</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>6</chargedFrame>
+	<fireFrame>8</fireFrame>
+	<firePoint x="25" y="7" />
+	<mountPoint x="5" y="56" />
+</weaponAnim>
+
+<animSheet name="aea_laser_necro_2_loot" w="330" h="69" fw="33" fh="69">weapon_necro/aea_laser_necro_2_loot.png</animSheet>
+<weaponAnim name="aea_laser_necro_2_loot">
+	<sheet>aea_laser_necro_2_loot</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>6</chargedFrame>
+	<fireFrame>8</fireFrame>
+	<firePoint x="22" y="7" />
+	<mountPoint x="5" y="48" />
+</weaponAnim>
+
+<animSheet name="aea_laser_necro_charge" w="352" h="61" fw="32" fh="61">weapon_necro/aea_laser_necro_charge.png</animSheet>
+<weaponAnim name="aea_laser_necro_charge">
+	<sheet>aea_laser_necro_charge</sheet>
+	<desc length="11" x="0" y="0" />
+	<chargedFrame>4</chargedFrame>
+	<fireFrame>5</fireFrame>
+	<firePoint x="25" y="7" charge="11" />
+	<mountPoint x="5" y="43" />
+	<boost>aea_laser_necro_chargeglow</boost>
+</weaponAnim>
+
+<animSheet name="aea_laser_necro_chargeglow" w="64" h="61" fw="32" fh="61">weapon_necro/aea_laser_necro_chargeglow.png</animSheet>
+<anim name="aea_laser_necro_chargeglow">
+	<sheet>aea_laser_necro_chargeglow</sheet>
+	<desc length="2" x="0" y="0" />
+	<time>1.0</time>
+</anim>
+
+
+<animSheet name="aea_beam_necro_1" w="165" h="73" fw="33" fh="73">weapon_necro/aea_beam_necro_1.png</animSheet>
+<weaponAnim name="aea_beam_necro_1">
+	<sheet>aea_beam_necro_1</sheet>
+	<desc length="5" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint x="23" y="43" />
+	<mountPoint x="4" y="47" />
+	<chargeImage>weapon_necro/aea_beam_necro_1_glow.png</chargeImage>
+</weaponAnim>
+
+
+
+<animSheet name="aea_laser_old_1" w="340" h="55" fw="34" fh="55">weapon_old/aea_laser_old_1.png</animSheet>
+<weaponAnim name="aea_laser_old_1">
+	<sheet>aea_laser_old_1</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>6</chargedFrame>
+	<fireFrame>7</fireFrame>
+	<firePoint x="21" y="33" />
+	<mountPoint x="5" y="38" />
+</weaponAnim>
+
+<animSheet name="aea_laser_old_2" w="640" h="79" fw="64" fh="79">weapon_old/aea_laser_old_2.png</animSheet>
+<weaponAnim name="aea_laser_old_2">
+	<sheet>aea_laser_old_2</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>6</chargedFrame>
+	<fireFrame>7</fireFrame>
+	<firePoint x="37" y="42" />
+	<mountPoint x="5" y="55" />
+</weaponAnim>
+
+
+
+<animSheet name="aea_laser_old_1_new" w="273" h="97" fw="39" fh="97">weapon_old/aea_laser_old_1_new.png</animSheet>
+<weaponAnim name="aea_laser_old_1_new">
+	<sheet>aea_laser_old_1_new</sheet>
+	<desc length="7" x="0" y="0" />
+	<chargedFrame>3</chargedFrame>
+	<fireFrame>5</fireFrame>
+	<firePoint x="24" y="12" />
+	<mountPoint x="4" y="63" />
+</weaponAnim>
+
+<animSheet name="aea_laser_old_2_new" w="360" h="123" fw="45" fh="123">weapon_old/aea_laser_old_2_new.png</animSheet>
+<weaponAnim name="aea_laser_old_2_new">
+	<sheet>aea_laser_old_2_new</sheet>
+	<desc length="8" x="0" y="0" />
+	<chargedFrame>4</chargedFrame>
+	<fireFrame>6</fireFrame>
+	<firePoint x="27" y="12" />
+	<mountPoint x="4" y="82" />
+</weaponAnim>
+
+<animSheet name="aea_laser_old_3_new" w="450" h="142" fw="50" fh="142">weapon_old/aea_laser_old_3_new.png</animSheet>
+<weaponAnim name="aea_laser_old_3_new">
+	<sheet>aea_laser_old_3_new</sheet>
+	<desc length="9" x="0" y="0" />
+	<chargedFrame>5</chargedFrame>
+	<fireFrame>7</fireFrame>
+	<firePoint x="31" y="16" />
+	<mountPoint x="4" y="101" />
+</weaponAnim>
+
+<animSheet name="aea_beam_old_1_new" w="450" h="142" fw="50" fh="142">weapon_old/aea_beam_old_1_new.png</animSheet>
+<weaponAnim name="aea_beam_old_1_new">
+	<sheet>aea_beam_old_1_new</sheet>
+	<desc length="9" x="0" y="0" />
+	<chargedFrame>5</chargedFrame>
+	<fireFrame>7</fireFrame>
+	<firePoint x="31" y="16" />
+	<mountPoint x="4" y="101" />
+	<chargeImage>weapon_old/aea_beam_old_1_new_glow.png</chargeImage>
+</weaponAnim>
+
+
+<animSheet name="aea_laser_oldp_1_new" w="248" h="101" fw="31" fh="101">weapon_old/aea_laser_oldp_1_new.png</animSheet>
+<weaponAnim name="aea_laser_oldp_1_new">
+	<sheet>aea_laser_oldp_1_new</sheet>
+	<desc length="8" x="0" y="0" />
+	<chargedFrame>4</chargedFrame>
+	<fireFrame>6</fireFrame>
+	<firePoint x="17" y="20" />
+	<mountPoint x="4" y="67" />
+</weaponAnim>
+
+<animSheet name="aea_laser_oldp_2_new" w="256" h="113" fw="32" fh="113">weapon_old/aea_laser_oldp_2_new.png</animSheet>
+<weaponAnim name="aea_laser_oldp_2_new">
+	<sheet>aea_laser_oldp_2_new</sheet>
+	<desc length="8" x="0" y="0" />
+	<chargedFrame>4</chargedFrame>
+	<fireFrame>6</fireFrame>
+	<firePoint x="19" y="20" />
+	<mountPoint x="4" y="65" />
+</weaponAnim>
+
+<animSheet name="aea_laser_oldp_3_new" w="320" h="135" fw="40" fh="135">weapon_old/aea_laser_oldp_3_new.png</animSheet>
+<weaponAnim name="aea_laser_oldp_3_new">
+	<sheet>aea_laser_oldp_3_new</sheet>
+	<desc length="8" x="0" y="0" />
+	<chargedFrame>4</chargedFrame>
+	<fireFrame>6</fireFrame>
+	<firePoint x="22" y="20" />
+	<mountPoint x="4" y="89" />
+</weaponAnim>
+
+<animSheet name="aea_laser_oldp_3_loot" w="320" h="135" fw="40" fh="135">weapon_old/aea_laser_oldp_3_loot.png</animSheet>
+<weaponAnim name="aea_laser_oldp_3_loot">
+	<sheet>aea_laser_oldp_3_loot</sheet>
+	<desc length="8" x="0" y="0" />
+	<chargedFrame>4</chargedFrame>
+	<fireFrame>6</fireFrame>
+	<firePoint x="22" y="20" />
+	<mountPoint x="4" y="89" />
+</weaponAnim>
+
+
+
+<animSheet name="aea_laser_oldp_2" w="560" h="78" fw="56" fh="78">weapon_old/aea_laser_oldp_2.png</animSheet>
+<weaponAnim name="aea_laser_oldp_2">
+	<sheet>aea_laser_oldp_2</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>6</chargedFrame>
+	<fireFrame>7</fireFrame>
+	<firePoint x="34" y="42" />
+	<mountPoint x="5" y="54" />
+</weaponAnim>
+
+<animSheet name="aea_laser_oldp_3" w="560" h="100" fw="56" fh="100">weapon_old/aea_laser_oldp_3.png</animSheet>
+<weaponAnim name="aea_laser_oldp_3">
+	<sheet>aea_laser_oldp_3</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>6</chargedFrame>
+	<fireFrame>7</fireFrame>
+	<firePoint x="35" y="50" />
+	<mountPoint x="5" y="56" />
+</weaponAnim>
+
+</FTL>
+
+<FTL>
+
+<animSheet name="aea_resist_shield_ui" w="35" h="35" fw="35" fh="35">effects/aea_resist_shield_ui.png</animSheet>
+<anim name="aea_resist_shield_ui">	
+	<sheet>aea_resist_shield_ui</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_1x4" w="35" h="140" fw="35" fh="140">effects/aea_armour_1x4.png</animSheet>
+<anim name="aea_armour_1x4">	
+	<sheet>aea_armour_1x4</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_top_1x4" w="35" h="140" fw="35" fh="140">effects/aea_armour_top_1x4.png</animSheet>
+<anim name="aea_armour_top_1x4">
+	<sheet>aea_armour_top_1x4</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_bot_1x4" w="35" h="140" fw="35" fh="140">effects/aea_armour_bot_1x4.png</animSheet>
+<anim name="aea_armour_bot_1x4">
+	<sheet>aea_armour_bot_1x4</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_top_1x3" w="35" h="105" fw="35" fh="105">effects/aea_armour_top_1x3.png</animSheet>
+<anim name="aea_armour_top_1x3">
+	<sheet>aea_armour_top_1x3</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_bot_1x3" w="35" h="105" fw="35" fh="105">effects/aea_armour_bot_1x3.png</animSheet>
+<anim name="aea_armour_bot_1x3">
+	<sheet>aea_armour_bot_1x3</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_4x1" w="140" h="35" fw="140" fh="35">effects/aea_armour_4x1.png</animSheet>
+<anim name="aea_armour_4x1">
+	<sheet>aea_armour_4x1</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_lef_4x1" w="140" h="35" fw="140" fh="35">effects/aea_armour_lef_4x1.png</animSheet>
+<anim name="aea_armour_lef_4x1">
+	<sheet>aea_armour_lef_4x1</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_rig_4x1" w="140" h="35" fw="140" fh="35">effects/aea_armour_rig_4x1.png</animSheet>
+<anim name="aea_armour_rig_4x1">
+	<sheet>aea_armour_rig_4x1</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_lef_2x1" w="70" h="35" fw="70" fh="35">effects/aea_armour_lef_2x1.png</animSheet>
+<anim name="aea_armour_lef_2x1">
+	<sheet>aea_armour_lef_2x1</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_rig_2x1" w="70" h="35" fw="70" fh="35">effects/aea_armour_rig_2x1.png</animSheet>
+<anim name="aea_armour_rig_2x1">
+	<sheet>aea_armour_rig_2x1</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_2x1" w="70" h="35" fw="70" fh="35">effects/aea_armour_2x1.png</animSheet>
+<anim name="aea_armour_2x1">
+	<sheet>aea_armour_2x1</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_1x1" w="35" h="35" fw="35" fh="35">effects/aea_armour_1x1.png</animSheet>
+<anim name="aea_armour_1x1">
+	<sheet>aea_armour_1x1</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_r_1x1" w="35" h="35" fw="35" fh="35">effects/aea_armour_r_1x1.png</animSheet>
+<anim name="aea_armour_r_1x1">
+	<sheet>aea_armour_r_1x1</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_1x2" w="35" h="70" fw="35" fh="70">effects/aea_armour_1x2.png</animSheet>
+<anim name="aea_armour_1x2">
+	<sheet>aea_armour_1x2</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_up_1x2" w="35" h="70" fw="35" fh="70">effects/aea_armour_up_1x2.png</animSheet>
+<anim name="aea_armour_up_1x2">
+	<sheet>aea_armour_up_1x2</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_down_1x2" w="35" h="70" fw="35" fh="70">effects/aea_armour_down_1x2.png</animSheet>
+<anim name="aea_armour_down_1x2">
+	<sheet>aea_armour_down_1x2</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+
+<animSheet name="aea_armour_up_2x1" w="70" h="35" fw="70" fh="35">effects/aea_armour_up_2x1.png</animSheet>
+<anim name="aea_armour_up_2x1">
+	<sheet>aea_armour_up_2x1</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_armour_down_2x1" w="70" h="35" fw="70" fh="35">effects/aea_armour_down_2x1.png</animSheet>
+<anim name="aea_armour_down_2x1">
+	<sheet>aea_armour_down_2x1</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+</FTL>
+
+<FTL>
+
+<!-- 
+<animSheet name="aea_acid_soldier" w="350" h="455" fw="35" fh="35">people/aea_acid_soldier_base.png</animSheet>
+<anim name="aea_acid_soldier_clone">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_death_right">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="5" x="3" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_death_left">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="5" x="3" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_walk_down">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_walk_right">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_walk_up">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_walk_left">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_shoot_down">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_shoot_right">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="3" x="4" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_shoot_up">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="3" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_shoot_left">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="3" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_fire_down">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="9" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_fire_right">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="9" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_fire_up">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="9" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_fire_left">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="9" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_repair">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="8" x="0" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_punch_up">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="3" x="3" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_punch_down">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="3" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_teleport">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="7" x="0" y="3" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_acid_soldier_type_right">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="0" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_soldier_type_left">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="4" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_soldier_type_up">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_soldier_type_down">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_soldier_portrait">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+
+<animSheet name="aea_acid_captain" w="350" h="455" fw="35" fh="35">people/aea_acid_captain_base.png</animSheet>
+<anim name="aea_acid_captain_clone">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_death_right">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="5" x="3" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_death_left">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="5" x="3" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_walk_down">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_walk_right">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_walk_up">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_walk_left">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_shoot_down">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_shoot_right">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="3" x="4" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_shoot_up">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="3" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_shoot_left">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="3" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_fire_down">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="9" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_fire_right">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="9" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_fire_up">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="9" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_fire_left">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="9" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_repair">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="8" x="0" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_punch_up">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="3" x="3" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_punch_down">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="3" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_teleport">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="7" x="0" y="3" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_acid_captain_type_right">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="0" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_captain_type_left">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="4" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_captain_type_up">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_captain_type_down">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_captain_portrait">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_acid_bill" w="350" h="455" fw="35" fh="35">people/aea_acid_bill_base.png</animSheet>
+<anim name="aea_acid_bill_clone">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_death_right">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="5" x="3" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_death_left">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="5" x="3" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_walk_down">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_walk_right">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_walk_up">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_walk_left">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_shoot_down">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_shoot_right">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="3" x="4" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_shoot_up">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="3" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_shoot_left">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="3" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_fire_down">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="9" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_fire_right">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="9" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_fire_up">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="9" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_fire_left">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="9" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_repair">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="8" x="0" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_punch_up">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="3" x="3" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_punch_down">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="3" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_teleport">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="7" x="0" y="3" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_acid_bill_type_right">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="0" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_bill_type_left">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="4" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_bill_type_up">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_bill_type_down">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_bill_portrait">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+
+<-->
+</FTL>
+
+<FTL>
+	
+<animSheet name="aea_spell_01" w="32" h="32" fw="32" fh="32">aea_spells/spell_01.png</animSheet>
+<anim name="aea_spell_01">
+    <sheet>aea_spell_01</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+	
+<animSheet name="aea_spell_02" w="32" h="32" fw="32" fh="32">aea_spells/spell_02.png</animSheet>
+<anim name="aea_spell_02">
+    <sheet>aea_spell_02</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+	
+<animSheet name="aea_spell_03" w="32" h="32" fw="32" fh="32">aea_spells/spell_03.png</animSheet>
+<anim name="aea_spell_03">
+    <sheet>aea_spell_03</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+	
+<animSheet name="aea_spell_04" w="32" h="32" fw="32" fh="32">aea_spells/spell_04.png</animSheet>
+<anim name="aea_spell_04">
+    <sheet>aea_spell_04</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+	
+<animSheet name="aea_spell_05" w="46" h="32" fw="46" fh="32">aea_spells/spell_05.png</animSheet>
+<anim name="aea_spell_05">
+    <sheet>aea_spell_05</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+	
+<animSheet name="aea_spell_06" w="32" h="32" fw="32" fh="32">aea_spells/spell_06.png</animSheet>
+<anim name="aea_spell_06">
+    <sheet>aea_spell_06</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+	
+<animSheet name="aea_spell_07" w="32" h="32" fw="32" fh="32">aea_spells/spell_07.png</animSheet>
+<anim name="aea_spell_07">
+    <sheet>aea_spell_07</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+	
+<animSheet name="aea_spell_08" w="32" h="32" fw="32" fh="32">aea_spells/spell_08.png</animSheet>
+<anim name="aea_spell_08">
+    <sheet>aea_spell_08</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+	
+<animSheet name="aea_spell_09" w="32" h="32" fw="32" fh="32">aea_spells/spell_09.png</animSheet>
+<anim name="aea_spell_09">
+    <sheet>aea_spell_09</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+	
+<animSheet name="aea_spell_10" w="32" h="32" fw="32" fh="32">aea_spells/spell_10.png</animSheet>
+<anim name="aea_spell_10">
+    <sheet>aea_spell_10</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+	
+<animSheet name="aea_spell_11" w="32" h="32" fw="32" fh="32">aea_spells/spell_11.png</animSheet>
+<anim name="aea_spell_11">
+    <sheet>aea_spell_11</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+	
+<animSheet name="aea_spell_12" w="32" h="32" fw="32" fh="32">aea_spells/spell_12.png</animSheet>
+<anim name="aea_spell_12">
+    <sheet>aea_spell_12</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+	
+<animSheet name="aea_spell_13" w="32" h="32" fw="32" fh="32">aea_spells/spell_13.png</animSheet>
+<anim name="aea_spell_13">
+    <sheet>aea_spell_13</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+	
+<animSheet name="aea_spell_14" w="32" h="32" fw="32" fh="32">aea_spells/spell_14.png</animSheet>
+<anim name="aea_spell_14">
+    <sheet>aea_spell_14</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+	
+<animSheet name="aea_spell_15" w="32" h="32" fw="32" fh="32">aea_spells/spell_15.png</animSheet>
+<anim name="aea_spell_15">
+    <sheet>aea_spell_15</sheet>
+    <desc length="1" x="0" y="0" />
+    <time>1</time>
+</anim>
+</FTL>
+
+<FTL>
+<!--
+*********************************************************************************************************
+                   BATTLE MK 1
+*********************************************************************************************************
+-->
+<animSheet name="aea_acid_soldier" w="350" h="350" fw="35" fh="35">people/aea_acid_soldier_base.png</animSheet>
+<anim name="aea_acid_soldier_death_right">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="5" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_death_left">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="5" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_walk_down">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="0" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_walk_right">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="4" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_walk_up">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_walk_left">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_punch_down">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="3" x="0" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_punch_right">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="3" x="3" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_punch_up">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="3" x="2" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_punch_left">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="3" x="5" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_shoot_down">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="3" x="0" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_shoot_right">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="3" x="3" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_shoot_up">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="3" x="2" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_shoot_left">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="3" x="5" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_teleport">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_acid_soldier_portrait">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_soldier_type_right">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="0" y="7" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_soldier_type_left">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="4" y="7" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_soldier_type_up">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="0" y="6" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_soldier_type_down">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="4" x="4" y="6" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_soldier_fire_down">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="9" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_fire_right">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="9" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_fire_up">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="9" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_fire_left">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="9" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_soldier_repair">
+	<sheet>aea_acid_soldier</sheet>
+	<desc length="8" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+
+
+<!-- 
+*********************************************************************************************************
+                   BATTLE MK 2
+*********************************************************************************************************
+-->
+
+<animSheet name="aea_acid_captain" w="350" h="350" fw="35" fh="35">people/aea_acid_captain_base.png</animSheet>
+<anim name="aea_acid_captain_death_right">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="5" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_death_left">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="5" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_walk_down">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="0" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_walk_right">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="4" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_walk_up">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_walk_left">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_punch_down">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="3" x="0" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_punch_right">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="3" x="3" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_punch_up">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="3" x="2" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_punch_left">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="3" x="5" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_shoot_down">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="3" x="0" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_shoot_right">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="3" x="3" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_shoot_up">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="3" x="2" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_shoot_left">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="3" x="5" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_teleport">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_acid_captain_portrait">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_captain_type_right">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="0" y="7" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_captain_type_left">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="4" y="7" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_captain_type_up">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="0" y="6" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_captain_type_down">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="4" x="4" y="6" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_captain_fire_down">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="9" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_fire_right">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="9" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_fire_up">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="9" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_fire_left">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="9" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_captain_repair">
+	<sheet>aea_acid_captain</sheet>
+	<desc length="8" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+
+<!-- 
+*********************************************************************************************************
+                   BATTLE MK 2
+*********************************************************************************************************
+-->
+
+<animSheet name="aea_acid_bill" w="350" h="350" fw="35" fh="35">people/aea_acid_bill_base.png</animSheet>
+<anim name="aea_acid_bill_death_right">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="5" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_death_left">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="5" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_walk_down">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="0" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_walk_right">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="4" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_walk_up">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_walk_left">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_punch_down">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="3" x="0" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_punch_right">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="3" x="3" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_punch_up">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="3" x="2" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_punch_left">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="3" x="5" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_shoot_down">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="3" x="0" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_shoot_right">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="3" x="3" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_shoot_up">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="3" x="2" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_shoot_left">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="3" x="5" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_teleport">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_acid_bill_portrait">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_bill_type_right">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="0" y="7" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_bill_type_left">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="4" y="7" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_bill_type_up">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="0" y="6" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_bill_type_down">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="4" x="4" y="6" />
+	<time>1</time>
+</anim>
+<anim name="aea_acid_bill_fire_down">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="9" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_fire_right">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="9" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_fire_up">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="9" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_fire_left">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="9" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_acid_bill_repair">
+	<sheet>aea_acid_bill</sheet>
+	<desc length="8" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+
+<!-- 
+*********************************************************************************************************
+                   ENGI
+*********************************************************************************************************
+-->
+
+<animSheet name="aea_necro_engi" w="315" h="455" fw="35" fh="35">people/aea_necro_engi_base.png</animSheet>
+<anim name="aea_necro_engi_clone">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="6" x="0" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_death_right">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="8" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_death_left">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="8" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_walk_down">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_walk_right">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_walk_up">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_walk_left">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_shoot_down">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_shoot_right">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="3" x="3" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_shoot_up">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="3" x="6" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_shoot_left">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="3" x="6" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_fire_down">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_fire_right">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_fire_up">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_fire_left">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_repair">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="9" x="0" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_punch_up">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="6" x="2" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_punch_down">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="6" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_engi_teleport">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="9" x="0" y="3" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_necro_engi_type_right">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="4" x="0" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_necro_engi_type_left">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="4" x="4" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_necro_engi_type_up">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_necro_engi_type_down">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_necro_engi_portrait">
+	<sheet>aea_necro_engi</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+
+<animSheet name="aea_cursed" w="112" h="14" fw="14" fh="14">people/aea_cursed.png</animSheet>
+<anim name="aea_cursed">
+	<sheet>aea_cursed</sheet>
+	<desc length="8" x="0" y="0" />
+	<time>1.0</time>
+</anim>
+
+
+<animSheet name="aea_necro_lich" w="315" h="455" fw="35" fh="35">people/aea_necro_lich_base.png</animSheet>
+<anim name="aea_necro_lich_clone">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="6" x="0" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_death_right">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="8" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_death_left">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="8" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_walk_down">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_walk_right">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_walk_up">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_walk_left">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_shoot_down">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_shoot_right">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="3" x="3" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_shoot_up">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="3" x="6" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_shoot_left">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="3" x="6" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_fire_down">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_fire_right">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_fire_up">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_fire_left">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_repair">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="9" x="0" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_punch_up">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="6" x="2" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_punch_down">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="6" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_lich_teleport">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="9" x="0" y="3" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_necro_lich_type_right">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="4" x="0" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_necro_lich_type_left">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="4" x="4" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_necro_lich_type_up">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_necro_lich_type_down">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_necro_lich_portrait">
+	<sheet>aea_necro_lich</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_necro_king" w="315" h="455" fw="35" fh="35">people/aea_necro_king_base.png</animSheet>
+<anim name="aea_necro_king_clone">
+	<sheet>aea_necro_king</sheet>
+	<desc length="6" x="0" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_death_right">
+	<sheet>aea_necro_king</sheet>
+	<desc length="8" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_death_left">
+	<sheet>aea_necro_king</sheet>
+	<desc length="8" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_walk_down">
+	<sheet>aea_necro_king</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_walk_right">
+	<sheet>aea_necro_king</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_walk_up">
+	<sheet>aea_necro_king</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_walk_left">
+	<sheet>aea_necro_king</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_shoot_down">
+	<sheet>aea_necro_king</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_shoot_right">
+	<sheet>aea_necro_king</sheet>
+	<desc length="3" x="3" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_shoot_up">
+	<sheet>aea_necro_king</sheet>
+	<desc length="3" x="6" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_shoot_left">
+	<sheet>aea_necro_king</sheet>
+	<desc length="3" x="6" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_fire_down">
+	<sheet>aea_necro_king</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_fire_right">
+	<sheet>aea_necro_king</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_fire_up">
+	<sheet>aea_necro_king</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_fire_left">
+	<sheet>aea_necro_king</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_repair">
+	<sheet>aea_necro_king</sheet>
+	<desc length="9" x="0" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_punch_up">
+	<sheet>aea_necro_king</sheet>
+	<desc length="6" x="2" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_punch_down">
+	<sheet>aea_necro_king</sheet>
+	<desc length="6" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_necro_king_teleport">
+	<sheet>aea_necro_king</sheet>
+	<desc length="9" x="0" y="3" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_necro_king_type_right">
+	<sheet>aea_necro_king</sheet>
+	<desc length="4" x="0" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_necro_king_type_left">
+	<sheet>aea_necro_king</sheet>
+	<desc length="4" x="4" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_necro_king_type_up">
+	<sheet>aea_necro_king</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_necro_king_type_down">
+	<sheet>aea_necro_king</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_necro_king_portrait">
+	<sheet>aea_necro_king</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+
+
+<!-- 
+*********************************************************************************************************
+                   GANA
+*********************************************************************************************************
+-->
+
+<animSheet name="aea_old_1" w="560" h="420" fw="35" fh="35">people/aea_old_1_base.png</animSheet>
+<anim name="aea_old_1_death_right">
+	<sheet>aea_old_1</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_old_1_death_left">
+	<sheet>aea_old_1</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_old_1_walk_down">
+	<sheet>aea_old_1</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_1_walk_right">
+	<sheet>aea_old_1</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_1_walk_up">
+	<sheet>aea_old_1</sheet>
+	<desc length="4" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_1_walk_left">
+	<sheet>aea_old_1</sheet>
+	<desc length="4" x="4" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_1_shoot_down">
+	<sheet>aea_old_1</sheet>
+	<desc length="3" x="0" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_1_shoot_right">
+	<sheet>aea_old_1</sheet>
+	<desc length="3" x="3" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_1_shoot_up">
+	<sheet>aea_old_1</sheet>
+	<desc length="3" x="9" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_1_shoot_left">
+	<sheet>aea_old_1</sheet>
+	<desc length="3" x="6" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_1_fire_down">
+	<sheet>aea_old_1</sheet>
+	<desc length="4" x="0" y="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_1_fire_right">
+	<sheet>aea_old_1</sheet>
+	<desc length="4" x="4" y="6" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_1_fire_up">
+	<sheet>aea_old_1</sheet>
+	<desc length="4" x="0" y="6" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_1_fire_left">
+	<sheet>aea_old_1</sheet>
+	<desc length="4" x="4" y="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_1_repair">
+	<sheet>aea_old_1</sheet>
+	<desc length="9" x="7" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_1_punch_up">
+	<sheet>aea_old_1</sheet>
+	<desc length="6" x="0" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_1_punch_down">
+	<sheet>aea_old_1</sheet>
+	<desc length="6" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_1_type_right">
+	<sheet>aea_old_1</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_1_type_left">
+	<sheet>aea_old_1</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_1_type_up">
+	<sheet>aea_old_1</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_1_type_down">
+	<sheet>aea_old_1</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_1_teleport">
+	<sheet>aea_old_1</sheet>
+	<desc length="7" x="2" y="0" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_1_portrait">
+	<sheet>aea_old_1</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+
+<animSheet name="aea_old_unique_1" w="560" h="420" fw="35" fh="35">people/aea_old_unique_1_base.png</animSheet>
+<anim name="aea_old_unique_1_death_right">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_old_unique_1_death_left">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_old_unique_1_walk_down">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_1_walk_right">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_1_walk_up">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="4" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_1_walk_left">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="4" x="4" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_1_shoot_down">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="3" x="0" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_1_shoot_right">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="3" x="3" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_1_shoot_up">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="3" x="9" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_1_shoot_left">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="3" x="6" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_1_fire_down">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="4" x="0" y="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_1_fire_right">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="4" x="4" y="6" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_1_fire_up">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="4" x="0" y="6" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_1_fire_left">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="4" x="4" y="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_1_repair">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="9" x="7" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_1_punch_up">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="6" x="0" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_1_punch_down">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="6" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_1_type_right">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_1_type_left">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_1_type_up">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_1_type_down">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_1_teleport">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="7" x="2" y="0" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_1_portrait">
+	<sheet>aea_old_unique_1</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_old_unique_2" w="560" h="420" fw="35" fh="35">people/aea_old_unique_2_base.png</animSheet>
+<anim name="aea_old_unique_2_death_right">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_old_unique_2_death_left">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_old_unique_2_walk_down">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_2_walk_right">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_2_walk_up">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="4" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_2_walk_left">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="4" x="4" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_2_shoot_down">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="3" x="0" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_2_shoot_right">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="3" x="3" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_2_shoot_up">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="3" x="9" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_2_shoot_left">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="3" x="6" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_2_fire_down">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="4" x="0" y="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_2_fire_right">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="4" x="4" y="6" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_2_fire_up">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="4" x="0" y="6" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_2_fire_left">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="4" x="4" y="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_2_repair">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="9" x="7" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_2_punch_up">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="6" x="0" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_2_punch_down">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="6" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_2_type_right">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_2_type_left">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_2_type_up">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_2_type_down">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_2_teleport">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="7" x="2" y="0" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_2_portrait">
+	<sheet>aea_old_unique_2</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_old_unique_3" w="560" h="420" fw="35" fh="35">people/aea_old_unique_3_base.png</animSheet>
+<anim name="aea_old_unique_3_death_right">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_old_unique_3_death_left">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_old_unique_3_walk_down">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_3_walk_right">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_3_walk_up">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="4" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_3_walk_left">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="4" x="4" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_3_shoot_down">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="3" x="0" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_3_shoot_right">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="3" x="3" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_3_shoot_up">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="3" x="9" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_3_shoot_left">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="3" x="6" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_3_fire_down">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="4" x="0" y="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_3_fire_right">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="4" x="4" y="6" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_3_fire_up">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="4" x="0" y="6" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_3_fire_left">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="4" x="4" y="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_3_repair">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="9" x="7" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_3_punch_up">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="6" x="0" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_3_punch_down">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="6" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_3_type_right">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_3_type_left">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_3_type_up">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_3_type_down">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_3_teleport">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="7" x="2" y="0" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_3_portrait">
+	<sheet>aea_old_unique_3</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_old_unique_4" w="560" h="420" fw="35" fh="35">people/aea_old_unique_4_base.png</animSheet>
+<anim name="aea_old_unique_4_death_right">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_old_unique_4_death_left">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_old_unique_4_walk_down">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_4_walk_right">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_4_walk_up">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="4" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_4_walk_left">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="4" x="4" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_4_shoot_down">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="3" x="0" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_4_shoot_right">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="3" x="3" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_4_shoot_up">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="3" x="9" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_4_shoot_left">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="3" x="6" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_4_fire_down">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="4" x="0" y="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_4_fire_right">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="4" x="4" y="6" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_4_fire_up">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="4" x="0" y="6" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_4_fire_left">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="4" x="4" y="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_4_repair">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="9" x="7" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_4_punch_up">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="6" x="0" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_4_punch_down">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="6" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_4_type_right">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_4_type_left">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_4_type_up">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_4_type_down">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_4_teleport">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="7" x="2" y="0" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_4_portrait">
+	<sheet>aea_old_unique_4</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_old_unique_5" w="560" h="420" fw="35" fh="35">people/aea_old_unique_5_base.png</animSheet>
+<anim name="aea_old_unique_5_death_right">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_old_unique_5_death_left">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_old_unique_5_walk_down">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_5_walk_right">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_5_walk_up">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="4" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_5_walk_left">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="4" x="4" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_5_shoot_down">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="3" x="0" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_5_shoot_right">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="3" x="3" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_5_shoot_up">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="3" x="9" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_5_shoot_left">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="3" x="6" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_5_fire_down">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="4" x="0" y="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_5_fire_right">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="4" x="4" y="6" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_5_fire_up">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="4" x="0" y="6" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_5_fire_left">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="4" x="4" y="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_5_repair">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="9" x="7" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_5_punch_up">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="6" x="0" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_5_punch_down">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="6" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_5_type_right">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_5_type_left">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_5_type_up">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_5_type_down">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_old_unique_5_teleport">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="7" x="2" y="0" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_old_unique_5_portrait">
+	<sheet>aea_old_unique_5</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<!--BIRDS-->
+
+<animSheet name="laser_bio_aea_left" w="60" h="30" fw="60" fh="30">projectiles/laser_bio_aea_left.png</animSheet>
+<anim name="laser_bio_aea_left">
+	<sheet>laser_bio_aea_left</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>0.3</time>
+</anim>
+<animSheet name="laser_bio_aea_left" w="60" h="30" fw="60" fh="30">projectiles/laser_bio_aea_right.png</animSheet>
+<anim name="laser_bio_aea_left">
+	<sheet>laser_bio_aea_left</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>0.3</time>
+</anim>
+
+<animSheet fh="35" fw="35" h="455" w="350" name="aea_bird_avali">people/aea_bird_avali_base.png</animSheet>
+<anim name="aea_bird_avali_clone">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="2" x="0" length="7" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_avali_death_right">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="0" x="3" length="5" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_avali_death_left">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="2" x="0" length="5" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_avali_walk_down">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="12" x="0" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_avali_walk_right">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="12" x="4" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_avali_walk_up">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="11" x="0" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_avali_walk_left">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="11" x="4" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_avali_shoot_down">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="10" x="0" length="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_avali_shoot_right">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="10" x="3" length="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_avali_shoot_up">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="10" x="6" length="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_avali_shoot_left">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="1" x="0" length="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_avali_fire_down">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="9" x="0" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_avali_fire_right">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="9" x="4" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_avali_fire_up">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="8" x="0" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_avali_fire_left">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="8" x="4" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_avali_repair">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="7" x="0" length="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_avali_punch_up">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="1" x="3" length="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_avali_punch_down">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="6" x="0" length="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_avali_teleport">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="3" x="0" length="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_bird_avali_type_right">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="5" x="0" length="4" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_avali_type_left">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="5" x="4" length="4" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_avali_type_up">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="4" x="0" length="4" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_avali_type_down">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="4" x="4" length="4" />
+	<time>0.75</time>
+</anim>
+<anim name="crewLaser">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="0" x="1" length="1" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_bird_avali_portrait">
+	<sheet>aea_bird_avali</sheet>
+	<desc y="0" x="0" length="1" />
+	<time>1</time>
+</anim>
+
+<!--skygirr-->
+<animSheet fh="35" fw="35" h="455" w="350" name="aea_bird_unique">people/aea_bird_unique_base.png</animSheet>
+<anim name="aea_bird_unique_clone">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="2" x="0" length="7" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_unique_death_right">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="0" x="3" length="5" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_unique_death_left">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="2" x="0" length="5" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_unique_walk_down">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="12" x="0" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_unique_walk_right">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="12" x="4" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_unique_walk_up">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="11" x="0" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_unique_walk_left">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="11" x="4" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_unique_shoot_down">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="10" x="0" length="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_unique_shoot_right">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="10" x="3" length="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_unique_shoot_up">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="10" x="6" length="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_unique_shoot_left">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="1" x="0" length="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_unique_fire_down">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="9" x="0" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_unique_fire_right">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="9" x="4" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_unique_fire_up">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="8" x="0" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_unique_fire_left">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="8" x="4" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_unique_repair">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="7" x="0" length="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_unique_punch_up">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="1" x="3" length="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_unique_punch_down">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="6" x="0" length="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_unique_teleport">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="3" x="0" length="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_bird_unique_type_right">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="5" x="0" length="4" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_unique_type_left">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="5" x="4" length="4" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_unique_type_up">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="4" x="0" length="4" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_unique_type_down">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="4" x="4" length="4" />
+	<time>0.75</time>
+</anim>
+<anim name="crewLaser">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="0" x="1" length="1" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_bird_unique_portrait">
+	<sheet>aea_bird_unique</sheet>
+	<desc y="0" x="0" length="1" />
+	<time>1</time>
+</anim>
+
+<!--illuminant-->
+<animSheet fh="35" fw="35" h="455" w="350" name="aea_bird_illuminant">people/aea_bird_illuminant_base.png</animSheet>
+<anim name="aea_bird_illuminant_clone">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="2" x="0" length="7" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_illuminant_death_right">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="0" x="3" length="5" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_illuminant_death_left">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="2" x="0" length="5" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_illuminant_walk_down">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="12" x="0" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_illuminant_walk_right">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="12" x="4" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_illuminant_walk_up">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="11" x="0" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_illuminant_walk_left">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="11" x="4" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_illuminant_shoot_down">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="10" x="0" length="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_illuminant_shoot_right">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="10" x="3" length="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_illuminant_shoot_up">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="10" x="6" length="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_illuminant_shoot_left">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="1" x="0" length="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_illuminant_fire_down">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="9" x="0" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_illuminant_fire_right">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="9" x="4" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_illuminant_fire_up">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="8" x="0" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_illuminant_fire_left">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="8" x="4" length="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_illuminant_repair">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="7" x="0" length="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_illuminant_punch_up">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="1" x="3" length="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_illuminant_punch_down">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="6" x="0" length="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_bird_illuminant_teleport">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="3" x="0" length="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_bird_illuminant_type_right">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="5" x="0" length="4" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_illuminant_type_left">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="5" x="4" length="4" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_illuminant_type_up">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="4" x="0" length="4" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_bird_illuminant_type_down">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="4" x="4" length="4" />
+	<time>0.75</time>
+</anim>
+<anim name="crewLaser">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="0" x="1" length="1" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_bird_illuminant_portrait">
+	<sheet>aea_bird_illuminant</sheet>
+	<desc y="0" x="0" length="1" />
+	<time>1</time>
+</anim>
+
+<!-- 
+*********************************************************************************************************
+                   CULTIVATORS
+*********************************************************************************************************
+-->
+
+<animSheet name="aea_cult_vampbig" w="490" h="805" fw="35" fh="35">people/aea_cult_vampbig_base.png</animSheet>
+<anim name="aea_cult_vampbig_walk_down">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="4" x="0" y="22" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_vampbig_walk_left">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="4" x="0" y="21" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_vampbig_walk_right">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="4" x="0" y="20" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_vampbig_walk_up">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="4" x="0" y="19" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_vampbig_repair">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="9" x="0" y="18" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_vampbig_type_down">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="4" x="0" y="17" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_vampbig_type_left">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="4" x="0" y="16" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_vampbig_type_right">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="4" x="0" y="15" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_vampbig_type_up">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="4" x="0" y="14" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_vampbig_fire_down">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="4" x="0" y="13" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_vampbig_fire_left">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_vampbig_fire_right">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_vampbig_fire_up">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="4" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_vampbig_punch_down">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="11" x="0" y="9" />
+	<time>2.0</time>
+</anim>
+<anim name="aea_cult_vampbig_punch_up">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="11" x="0" y="8" />
+	<time>2.0</time>
+</anim>
+<anim name="aea_cult_vampbig_shoot_down">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="5" x="0" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_vampbig_shoot_left">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="5" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_vampbig_shoot_right">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="5" x="0" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_vampbig_shoot_up">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="5" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_vampbig_teleport">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="9" x="0" y="3" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_vampbig_death_right">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="9" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_vampbig_clone">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="7" x="0" y="1" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_vampbig_portrait">
+	<sheet>aea_cult_vampbig</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<!-- 
+*********************************************************************************************************
+                   PRAETOR
+*********************************************************************************************************
+-->
+
+<animSheet name="aea_cult_orcbig" w="490" h="805" fw="35" fh="35">people/aea_cult_orcbig_base.png</animSheet>
+<anim name="aea_cult_orcbig_walk_down">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="4" x="0" y="22" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_orcbig_walk_left">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="4" x="0" y="21" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_orcbig_walk_right">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="4" x="0" y="20" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_orcbig_walk_up">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="4" x="0" y="19" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_orcbig_repair">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="9" x="0" y="18" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_orcbig_type_down">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="4" x="0" y="17" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_orcbig_type_left">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="4" x="0" y="16" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_orcbig_type_right">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="4" x="0" y="15" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_orcbig_type_up">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="4" x="0" y="14" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_orcbig_fire_down">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="4" x="0" y="13" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_orcbig_fire_left">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_orcbig_fire_right">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_orcbig_fire_up">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="4" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_orcbig_punch_down">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="14" x="0" y="9" />
+	<time>2.0</time>
+</anim>
+<anim name="aea_cult_orcbig_punch_up">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="14" x="0" y="8" />
+	<time>2.0</time>
+</anim>
+<anim name="aea_cult_orcbig_shoot_down">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="5" x="0" y="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_orcbig_shoot_left">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="5" x="0" y="6" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_orcbig_shoot_right">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="5" x="0" y="5" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_orcbig_shoot_up">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="5" x="0" y="4" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_orcbig_teleport">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="9" x="0" y="3" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_orcbig_death_right">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="9" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_orcbig_clone">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="7" x="0" y="1" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_orcbig_portrait">
+	<sheet>aea_cult_orcbig</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<!-- 
+*********************************************************************************************************
+                   WIZARD
+*********************************************************************************************************
+-->
+
+<!--<animSheet name="aea_cult_wizard" w="315" h="805" fw="35" fh="35">people/aea_cult_wizard_base.png</animSheet>
+<anim name="aea_cult_wizard_walk_down">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="22" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_walk_left">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="21" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_walk_right">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="20" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_walk_up">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="19" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_repair">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="9" x="0" y="18" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_type_down">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="17" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_wizard_type_left">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="16" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_wizard_type_right">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="15" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_wizard_type_up">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="14" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_wizard_fire_down">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="13" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_fire_left">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_fire_right">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_fire_up">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_punch_down">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="6" x="0" y="4" />
+	<time>2.0</time>
+</anim>
+<anim name="aea_cult_wizard_punch_up">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="6" x="0" y="3" />
+	<time>2.0</time>
+</anim>
+<anim name="aea_cult_wizard_shoot_down">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="3" x="0" y="6" />
+	<time>0.25</time>
+</anim>
+<anim name="aea_cult_wizard_shoot_up">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="3" x="3" y="6" />
+	<time>0.25</time>
+</anim>
+<anim name="aea_cult_wizard_shoot_right">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="3" x="0" y="5" />
+	<time>0.25</time>
+</anim>
+<anim name="aea_cult_wizard_shoot_left">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="3" x="3" y="5" />
+	<time>0.25</time>
+</anim>
+<anim name="aea_cult_wizard_teleport">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="7" x="0" y="9" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_wizard_death_right">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="9" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_clone">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="7" x="0" y="1" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_wizard_portrait">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>-->
+
+
+
+
+<!-- 
+*********************************************************************************************************
+                   CULTIVATORS
+*********************************************************************************************************
+-->
+
+<animSheet name="aea_cult_wizard" w="490" h="805" fw="35" fh="35">people/aea_cult_wizard_base.png</animSheet>
+<anim name="aea_cult_wizard_walk_down">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="22" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_walk_left">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="21" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_walk_right">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="20" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_walk_up">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="19" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_repair">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="9" x="0" y="18" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_type_down">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="17" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_wizard_type_left">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="16" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_wizard_type_right">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="15" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_wizard_type_up">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="14" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_wizard_fire_down">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="13" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_fire_left">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_fire_right">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_fire_up">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="4" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_punch_down">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="8" x="0" y="9" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_wizard_punch_up">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="8" x="0" y="8" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_wizard_shoot_down">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="8" x="0" y="7" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_wizard_shoot_left">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="8" x="0" y="6" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_wizard_shoot_right">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="8" x="0" y="5" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_wizard_shoot_up">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="8" x="0" y="4" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_wizard_teleport">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="9" x="0" y="3" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_wizard_death_right">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="8" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_wizard_clone">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="7" x="0" y="1" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_wizard_portrait">
+	<sheet>aea_cult_wizard</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<!-- 
+*********************************************************************************************************
+                   CULTIVATORS
+*********************************************************************************************************
+-->
+
+<animSheet name="aea_cult_priest" w="490" h="805" fw="35" fh="35">people/aea_cult_priest_base.png</animSheet>
+<anim name="aea_cult_priest_walk_down">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="4" x="0" y="22" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_priest_walk_left">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="4" x="0" y="21" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_priest_walk_right">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="4" x="0" y="20" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_priest_walk_up">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="4" x="0" y="19" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_priest_repair">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="9" x="0" y="18" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_priest_type_down">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="4" x="0" y="17" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_priest_type_left">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="4" x="0" y="16" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_priest_type_right">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="4" x="0" y="15" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_priest_type_up">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="4" x="0" y="14" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_priest_fire_down">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="4" x="0" y="13" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_priest_fire_left">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_priest_fire_right">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_priest_fire_up">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="4" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_priest_punch_down">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="8" x="0" y="9" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_priest_punch_up">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="8" x="0" y="8" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_priest_shoot_down">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="8" x="0" y="7" />
+	<time>0.25</time>
+</anim>
+<anim name="aea_cult_priest_shoot_left">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="8" x="0" y="6" />
+	<time>0.25</time>
+</anim>
+<anim name="aea_cult_priest_shoot_right">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="8" x="0" y="5" />
+	<time>0.25</time>
+</anim>
+<anim name="aea_cult_priest_shoot_up">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="8" x="0" y="4" />
+	<time>0.25</time>
+</anim>
+<anim name="aea_cult_priest_teleport">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="9" x="0" y="3" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_priest_death_right">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="8" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_priest_clone">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="7" x="0" y="1" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_priest_portrait">
+	<sheet>aea_cult_priest</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_summon" w="140" h="35" fw="35" fh="35">effects/aea_summon.png</animSheet>
+<anim name="aea_summon">
+	<sheet>aea_summon</sheet>
+	<desc length="4" x="0" y="0" />
+	<time>1.0</time>
+</anim>
+
+<!-- 
+*********************************************************************************************************
+                   SEED
+*********************************************************************************************************
+-->
+
+<animSheet name="aea_seed" w="280" h="455" fw="35" fh="35">people/aea_seed_base.png</animSheet>
+<anim name="aea_seed_clone">
+	<sheet>aea_seed</sheet>
+	<desc length="8" x="0" y="1" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_seed_death_right">
+	<sheet>aea_seed</sheet>
+	<desc length="5" x="3" y="0" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_seed_death_left">
+	<sheet>aea_seed</sheet>
+	<desc length="5" x="0" y="2" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_seed_walk_down">
+	<sheet>aea_seed</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_seed_walk_right">
+	<sheet>aea_seed</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_seed_walk_up">
+	<sheet>aea_seed</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_seed_walk_left">
+	<sheet>aea_seed</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_seed_shoot_down">
+	<sheet>aea_seed</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_seed_shoot_right">
+	<sheet>aea_seed</sheet>
+	<desc length="3" x="3" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_seed_shoot_up">
+	<sheet>aea_seed</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_seed_shoot_left">
+	<sheet>aea_seed</sheet>
+	<desc length="3" x="0" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_seed_fire_down">
+	<sheet>aea_seed</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_seed_fire_right">
+	<sheet>aea_seed</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_seed_fire_up">
+	<sheet>aea_seed</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_seed_fire_left">
+	<sheet>aea_seed</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_seed_repair">
+	<sheet>aea_seed</sheet>
+	<desc length="8" x="0" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_seed_punch_up">
+	<sheet>aea_seed</sheet>
+	<desc length="6" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_seed_punch_down">
+	<sheet>aea_seed</sheet>
+	<desc length="6" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_seed_teleport">
+	<sheet>aea_seed</sheet>
+	<desc length="8" x="0" y="3" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_seed_type_right">
+	<sheet>aea_seed</sheet>
+	<desc length="4" x="0" y="5" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_seed_type_left">
+	<sheet>aea_seed</sheet>
+	<desc length="4" x="4" y="5" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_seed_type_up">
+	<sheet>aea_seed</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_seed_type_down">
+	<sheet>aea_seed</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_seed_portrait">
+	<sheet>aea_seed</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_cult_tiny" w="490" h="805" fw="35" fh="35">people/aea_cult_tiny_base.png</animSheet>
+<anim name="aea_cult_tiny_walk_down">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="4" x="0" y="22" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_tiny_walk_left">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="4" x="0" y="21" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_tiny_walk_right">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="4" x="0" y="20" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_tiny_walk_up">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="4" x="0" y="19" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_tiny_repair">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="9" x="0" y="18" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_tiny_type_down">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="4" x="0" y="17" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_tiny_type_left">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="4" x="0" y="16" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_tiny_type_right">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="4" x="0" y="15" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_tiny_type_up">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="4" x="0" y="14" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_tiny_fire_down">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="4" x="0" y="13" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_tiny_fire_left">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_tiny_fire_right">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_tiny_fire_up">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="4" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_tiny_punch_down">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="8" x="0" y="9" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_tiny_punch_up">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="8" x="0" y="8" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_tiny_shoot_down">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="8" x="0" y="7" />
+	<time>0.33</time>
+</anim>
+<anim name="aea_cult_tiny_shoot_left">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="8" x="0" y="6" />
+	<time>0.33</time>
+</anim>
+<anim name="aea_cult_tiny_shoot_right">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="8" x="0" y="5" />
+	<time>0.33</time>
+</anim>
+<anim name="aea_cult_tiny_shoot_up">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="8" x="0" y="4" />
+	<time>0.33</time>
+</anim>
+<anim name="aea_cult_tiny_teleport">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="9" x="0" y="3" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_cult_tiny_death_right">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="8" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_cult_tiny_clone">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="7" x="0" y="1" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_cult_tiny_portrait">
+	<sheet>aea_cult_tiny</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+
+<animSheet name="aea_cult_laser_random" w="460" h="70" fw="46" fh="70">weapon_cult/aea_cult_laser_random.png</animSheet>
+<weaponAnim name="aea_cult_laser_random">
+	<sheet>aea_cult_laser_random</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="27" y="13" />
+	<mountPoint x="10" y="44" />
+	<chargeImage>weapon_cult/aea_cult_laser_random_glow.png</chargeImage>
+</weaponAnim>
+
+<animSheet name="aea_cult_laser_loot" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_loot.png</animSheet>
+<weaponAnim name="aea_cult_laser_loot">
+	<sheet>aea_cult_laser_loot</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+
+<animSheet name="aea_cult_laser" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser.png</animSheet>
+<weaponAnim name="aea_cult_laser">
+	<sheet>aea_cult_laser</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_base_glow.png</chargeImage>
+</weaponAnim>
+
+<animSheet name="aea_cult_laser_1" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_1.png</animSheet>
+<weaponAnim name="aea_cult_laser_1">
+	<sheet>aea_cult_laser_1</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+<animSheet name="aea_cult_laser_2" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_2.png</animSheet>
+<weaponAnim name="aea_cult_laser_2">
+	<sheet>aea_cult_laser_2</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+<animSheet name="aea_cult_laser_3" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_3.png</animSheet>
+<weaponAnim name="aea_cult_laser_3">
+	<sheet>aea_cult_laser_3</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+<animSheet name="aea_cult_laser_4" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_4.png</animSheet>
+<weaponAnim name="aea_cult_laser_4">
+	<sheet>aea_cult_laser_4</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+<animSheet name="aea_cult_laser_5" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_5.png</animSheet>
+<weaponAnim name="aea_cult_laser_5">
+	<sheet>aea_cult_laser_5</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+<animSheet name="aea_cult_laser_6" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_6.png</animSheet>
+<weaponAnim name="aea_cult_laser_6">
+	<sheet>aea_cult_laser_6</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+<animSheet name="aea_cult_laser_7" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_7.png</animSheet>
+<weaponAnim name="aea_cult_laser_7">
+	<sheet>aea_cult_laser_7</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+<animSheet name="aea_cult_laser_8" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_8.png</animSheet>
+<weaponAnim name="aea_cult_laser_8">
+	<sheet>aea_cult_laser_8</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+<animSheet name="aea_cult_laser_9" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_9.png</animSheet>
+<weaponAnim name="aea_cult_laser_9">
+	<sheet>aea_cult_laser_9</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+<animSheet name="aea_cult_laser_10" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_10.png</animSheet>
+<weaponAnim name="aea_cult_laser_10">
+	<sheet>aea_cult_laser_10</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+<animSheet name="aea_cult_laser_11" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_11.png</animSheet>
+<weaponAnim name="aea_cult_laser_11">
+	<sheet>aea_cult_laser_11</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+<animSheet name="aea_cult_laser_12" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_12.png</animSheet>
+<weaponAnim name="aea_cult_laser_12">
+	<sheet>aea_cult_laser_12</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+<animSheet name="aea_cult_laser_13" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_13.png</animSheet>
+<weaponAnim name="aea_cult_laser_13">
+	<sheet>aea_cult_laser_13</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+<animSheet name="aea_cult_laser_14" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_14.png</animSheet>
+<weaponAnim name="aea_cult_laser_14">
+	<sheet>aea_cult_laser_14</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+<animSheet name="aea_cult_laser_15" w="400" h="57" fw="40" fh="57">weapon_cult/aea_cult_laser_15.png</animSheet>
+<weaponAnim name="aea_cult_laser_15">
+	<sheet>aea_cult_laser_15</sheet>
+	<desc length="10" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>9</fireFrame>
+	<firePoint x="22" y="10" />
+	<mountPoint x="7" y="33" />
+	<chargeImage>weapon_cult/aea_cult_laser_glow.png</chargeImage>
+</weaponAnim>
+
+</FTL>
+
+<FTL>
+
+<animSheet name="aea_shleg_gas_tile" w="35" h="35" fw="35" fh="35">effects/aea_shleg_gas_tile.png</animSheet>
+<anim name="aea_shleg_gas_tile">
+	<sheet>aea_shleg_gas_tile</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="aea_shleg_gas_extreme_tile" w="35" h="35" fw="35" fh="35">effects/aea_shleg_gas_extreme_tile.png</animSheet>
+<anim name="aea_shleg_gas_extreme_tile">
+	<sheet>aea_shleg_gas_extreme_tile</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="bomblauncher_aea_shleg_gas" w="528" h="41" fw="33" fh="41">weapon_shleg/bomblauncher_aea_shleg_gas.png</animSheet>
+<weaponAnim name="bomblauncher_aea_shleg_gas">
+	<sheet>bomblauncher_aea_shleg_gas</sheet>
+	<desc length="15" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>12</fireFrame>
+	<firePoint x="19" y="20" />
+	<mountPoint x="2" y="24" />
+	<chargeImage>weapon_shleg/bomblauncher_aea_shleg_gas_glow.png</chargeImage>
+</weaponAnim>
+<animSheet name="missile_aea_shleg_gas" w="32" h="85" fw="32" fh="85">projectiles/missile_aea_shleg_gas.png</animSheet>
+<anim name="missile_aea_shleg_gas">
+	<sheet>missile_aea_shleg_gas</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+<animSheet name="missiles_aea_shleg_gas" w="341" h="63" fw="31" fh="63">weapon_shleg/missiles_aea_shleg_gas.png</animSheet>
+<weaponAnim name="missiles_aea_shleg_gas">
+	<sheet>missiles_aea_shleg_gas</sheet>
+	<desc length="11" x="0" y="0" />
+	<chargedFrame>9</chargedFrame>
+	<fireFrame>10</fireFrame>
+	<firePoint x="18" y="22" />
+	<mountPoint x="5" y="43" />
+</weaponAnim>
+<animSheet name="missiles_aea_shleg_gas_loot" w="341" h="63" fw="31" fh="63">weapon_shleg/missiles_aea_shleg_gas_loot.png</animSheet>
+<weaponAnim name="missiles_aea_shleg_gas_loot">
+	<sheet>missiles_aea_shleg_gas_loot</sheet>
+	<desc length="11" x="0" y="0" />
+	<chargedFrame>9</chargedFrame>
+	<fireFrame>10</fireFrame>
+	<firePoint x="18" y="22" />
+	<mountPoint x="5" y="43" />
+</weaponAnim>
+
+<!-- 
+*********************************************************************************************************
+                   SHLEG SHELLS
+*********************************************************************************************************
+-->
+
+<animSheet name="aea_shleg_shell" w="385" h="455" fw="35" fh="35">people/aea_shleg_shell_base.png</animSheet>
+<anim name="aea_shleg_shell_portrait">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_crewLaser">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="1" x="1" y="0" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_shleg_shell_clone">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="6" x="2" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_death_right">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="7" x="0" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_teleport">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="9" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_shleg_shell_repair">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="9" x="0" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_punch_down">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="5" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_punch_up">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="5" x="5" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_fire_right">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="4" x="0" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_fire_left">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="4" x="4" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_shoot_left">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="3" x="8" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_fire_down">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="4" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_fire_up">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="4" x="4" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_shoot_right">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="3" x="8" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_type_right">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="4" x="0" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_type_left">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="4" x="4" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_shoot_up">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="3" x="8" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_type_down">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_type_up">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_shoot_down">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="3" x="8" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_shell_walk_left">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="11" x="0" y="9" />
+	<time>0.25</time>
+</anim>
+<anim name="aea_shleg_shell_walk_right">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="11" x="0" y="10" />
+	<time>0.25</time>
+</anim>
+<anim name="aea_shleg_shell_walk_up">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="11" x="0" y="11" />
+	<time>0.25</time>
+</anim>
+<anim name="aea_shleg_shell_walk_down">
+	<sheet>aea_shleg_shell</sheet>
+	<desc length="11" x="0" y="12" />
+	<time>0.25</time>
+</anim>
+
+<!-- 
+*********************************************************************************************************
+                   SHLEG SLUGS
+*********************************************************************************************************
+-->
+<animSheet name="aea_shleg_slug" w="315" h="455" fw="35" fh="35">people/aea_shleg_slug_base.png</animSheet>
+
+<anim name="aea_shleg_slug_clone">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="6" x="0" y="1" />
+	<time>0.75</time>
+</anim>
+
+<anim name="aea_shleg_slug_death_right">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="7" x="2" y="0" />
+	<time>0.75</time>
+</anim>
+
+<anim name="aea_shleg_slug_walk_down">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>0.75</time>
+</anim>
+
+<anim name="aea_shleg_slug_walk_right">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>0.75</time>
+</anim>
+
+<anim name="aea_shleg_slug_walk_up">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>0.75</time>
+</anim>
+
+<anim name="aea_shleg_slug_walk_left">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>0.75</time>
+</anim>
+
+<anim name="aea_shleg_slug_shoot_down">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_slug_shoot_right">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="3" x="3" y="10" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_slug_shoot_up">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="3" x="6" y="10" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_slug_shoot_left">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="3" x="6" y="6" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_slug_fire_down">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_slug_fire_right">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_slug_fire_up">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_slug_fire_left">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_slug_repair">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="9" x="0" y="7" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_slug_punch_up">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="6" x="0" y="5" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_slug_punch_down">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="6" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_slug_teleport">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="9" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+
+<anim name="aea_shleg_slug_type_right">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_shleg_slug_type_left">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_shleg_slug_type_up">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="4" x="0" y="3" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_shleg_slug_type_down">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="4" x="4" y="3" />
+	<time>0.75</time>
+</anim>
+
+
+<anim name="aea_shleg_slug_portrait">
+	<sheet>aea_shleg_slug</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+
+<!-- 
+*********************************************************************************************************
+                   SHLEG SLUGS
+*********************************************************************************************************
+-->
+<animSheet name="aea_shleg_sickle" w="315" h="455" fw="35" fh="35">people/aea_shleg_sickle_base.png</animSheet>
+
+<anim name="aea_shleg_sickle_clone">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="6" x="0" y="1" />
+	<time>0.75</time>
+</anim>
+
+<anim name="aea_shleg_sickle_death_right">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="7" x="2" y="0" />
+	<time>0.75</time>
+</anim>
+
+<anim name="aea_shleg_sickle_walk_down">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>0.75</time>
+</anim>
+
+<anim name="aea_shleg_sickle_walk_right">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>0.75</time>
+</anim>
+
+<anim name="aea_shleg_sickle_walk_up">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>0.75</time>
+</anim>
+
+<anim name="aea_shleg_sickle_walk_left">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>0.75</time>
+</anim>
+
+<anim name="aea_shleg_sickle_shoot_down">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="3" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_sickle_shoot_right">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="3" x="3" y="10" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_sickle_shoot_up">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="3" x="6" y="10" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_sickle_shoot_left">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="3" x="6" y="6" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_sickle_fire_down">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_sickle_fire_right">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_sickle_fire_up">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_sickle_fire_left">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_sickle_repair">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="9" x="0" y="7" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_sickle_punch_up">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="6" x="0" y="5" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_sickle_punch_down">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="6" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+
+<anim name="aea_shleg_sickle_teleport">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="9" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+
+<anim name="aea_shleg_sickle_type_right">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_shleg_sickle_type_left">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_shleg_sickle_type_up">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="4" x="0" y="3" />
+	<time>0.75</time>
+</anim>
+<anim name="aea_shleg_sickle_type_down">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="4" x="4" y="3" />
+	<time>0.75</time>
+</anim>
+
+
+<anim name="aea_shleg_sickle_portrait">
+	<sheet>aea_shleg_sickle</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<!-- 
+*********************************************************************************************************
+                   SHLEG SHELLS
+*********************************************************************************************************
+-->
+
+<animSheet name="aea_shleg_sorrow" w="385" h="455" fw="35" fh="35">people/aea_shleg_sorrow_base.png</animSheet>
+<anim name="aea_shleg_sorrow_portrait">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_crewLaser">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="1" x="1" y="0" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_shleg_sorrow_clone">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="6" x="2" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_death_right">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="7" x="0" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_teleport">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="9" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_shleg_sorrow_repair">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="9" x="0" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_punch_down">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="5" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_punch_up">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="5" x="5" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_fire_right">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="4" x="0" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_fire_left">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="4" x="4" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_shoot_left">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="3" x="8" y="5" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_fire_down">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="4" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_fire_up">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="4" x="4" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_shoot_right">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="3" x="8" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_type_right">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="4" x="0" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_type_left">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="4" x="4" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_shoot_up">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="3" x="8" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_type_down">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="4" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_type_up">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="4" x="4" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_shoot_down">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="3" x="8" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shleg_sorrow_walk_left">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="11" x="0" y="9" />
+	<time>0.25</time>
+</anim>
+<anim name="aea_shleg_sorrow_walk_right">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="11" x="0" y="10" />
+	<time>0.25</time>
+</anim>
+<anim name="aea_shleg_sorrow_walk_up">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="11" x="0" y="11" />
+	<time>0.25</time>
+</anim>
+<anim name="aea_shleg_sorrow_walk_down">
+	<sheet>aea_shleg_sorrow</sheet>
+	<desc length="11" x="0" y="12" />
+	<time>0.25</time>
+</anim>
+
+</FTL>
+
+<FTL>
+<!-- 
+*********************************************************************************************************
+                   Breaker
+*********************************************************************************************************
+-->
+
+<animSheet name="aea_shard_breaker" w="350" h="455" fw="35" fh="35">people/aea_shard_breaker_base.png</animSheet>
+<animSheet name="explosion_aea_shard_breaker_death" w="288" h="48" fw="48" fh="48">effects/explosion_aea_shard_breaker.png</animSheet>
+<anim name="aea_shard_breaker_death_right">
+	<sheet>explosion_aea_shard_breaker_death</sheet>
+	<desc length="6" x="0" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_death_left">
+	<sheet>explosion_aea_shard_breaker_death</sheet>
+	<desc length="6" x="0" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_clone">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="6" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_walk_down">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_walk_right">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_walk_up">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_walk_left">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_shoot_down">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="4" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_shoot_right">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="4" x="4" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_shoot_up">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_shoot_left">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_fire_down">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="10" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_fire_right">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="10" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_fire_up">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="10" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_fire_left">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="10" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_repair">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="8" x="0" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_punch_up">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="6" x="3" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_punch_down">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="6" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_breaker_teleport">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="9" x="0" y="3" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_shard_breaker_type_right">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="4" x="0" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_shard_breaker_type_left">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="4" x="4" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_shard_breaker_type_up">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_shard_breaker_type_down">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_shard_breaker_portrait">
+	<sheet>aea_shard_breaker</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<!-- 
+*********************************************************************************************************
+                   SMASHER
+*********************************************************************************************************
+-->
+
+<animSheet name="aea_shard_smasher" w="700" h="455" fw="35" fh="35">people/aea_shard_smasher_base.png</animSheet>
+<anim name="aea_shard_smasher_clone">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="6" x="0" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_death_right">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="7" x="3" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_death_left">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="7" x="3" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_walk_down">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_walk_up">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_walk_left">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="4" x="8" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_walk_right">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="4" x="12" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_shoot_left">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="20" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_shoot_right">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="20" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_shoot_down">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="20" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_shoot_up">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="20" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_fire_down">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="14" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_fire_right">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="14" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_fire_up">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="14" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_fire_left">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="14" x="0" y="4" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_repair">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="8" x="0" y="3" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_punch_up">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="10" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_punch_down">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="10" x="0" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_smasher_teleport">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="7" x="0" y="2" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_shard_smasher_type_down">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="4" x="0" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_shard_smasher_type_up">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="4" x="4" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_shard_smasher_type_right">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="4" x="8" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_shard_smasher_type_left">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="4" x="12" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_shard_smasher_portrait">
+	<sheet>aea_shard_smasher</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<!-- 
+*********************************************************************************************************
+                   DAWN
+*********************************************************************************************************
+-->
+
+<animSheet name="aea_shard_dawn" w="350" h="455" fw="35" fh="35">people/aea_shard_dawn_base.png</animSheet>
+<anim name="aea_shard_dawn_clone">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="6" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_death_right">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="6" x="3" y="0" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_death_left">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="6" x="0" y="2" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_walk_down">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="4" x="0" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_walk_right">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="4" x="4" y="12" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_walk_up">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="4" x="0" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_walk_left">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="4" x="4" y="11" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_shoot_down">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="4" x="0" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_shoot_right">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="4" x="4" y="10" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_shoot_up">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="4" x="0" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_shoot_left">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="4" x="4" y="9" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_fire_down">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="10" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_fire_right">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="10" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_fire_up">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="10" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_fire_left">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="10" x="0" y="8" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_repair">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="8" x="0" y="7" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_punch_up">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="6" x="3" y="1" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_punch_down">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="6" x="0" y="6" />
+	<time>1.0</time>
+</anim>
+<anim name="aea_shard_dawn_teleport">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="9" x="0" y="3" />
+	<time>0.5</time>
+</anim>
+<anim name="aea_shard_dawn_type_right">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="4" x="0" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_shard_dawn_type_left">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="4" x="4" y="5" />
+	<time>1</time>
+</anim>
+<anim name="aea_shard_dawn_type_up">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="4" x="0" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_shard_dawn_type_down">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="4" x="4" y="4" />
+	<time>1</time>
+</anim>
+<anim name="aea_shard_dawn_portrait">
+	<sheet>aea_shard_dawn</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+</FTL>
+
+<FTL>
+	
+<animSheet name="aea_crystal_spike" w="35" h="35" fw="35" fh="35">effects/aea_crystal_spike.png</animSheet>
+<anim name="aea_crystal_spike">
+	<sheet>aea_crystal_spike</sheet>
+	<desc length="1" x="0" y="0" />
+	<time>1</time>
+</anim>
+
+<animSheet name="beam_aea_long" w="1100" h="94" fw="55" fh="94">weapons_arc/beam_aea_long.png</animSheet>
+<weaponAnim name="beam_aea_long">
+	<sheet>beam_aea_long</sheet>
+	<desc length="20" x="0" y="0" />
+	<chargedFrame>10</chargedFrame>
+	<fireFrame>11</fireFrame>
+	<firePoint x="35" y="42" />
+	<mountPoint x="5" y="62" />
+</weaponAnim>
+
+<animSheet name="artillery_broadside_pierce" w="462" h="66" fw="33" fh="66">weapons_aea/artillery_broadside_pierce.png</animSheet>
+<weaponAnim name="artillery_broadside_pierce">
+	<sheet>artillery_broadside_pierce</sheet>
+	<desc length="14" x="0" y="0" />
+	<chargedFrame>10</chargedFrame>
+	<fireFrame>12</fireFrame>
+	<firePoint x="16" y="39" />
+	<mountPoint x="16" y="52" />
+</weaponAnim>
+
+<animSheet name="artillery_broadside_pierce_enemy" w="462" h="66" fw="33" fh="66">weapons_aea/artillery_broadside_pierce_enemy.png</animSheet>
+<weaponAnim name="artillery_broadside_pierce_enemy">
+	<sheet>artillery_broadside_pierce_enemy</sheet>
+	<desc length="14" x="0" y="0" />
+	<chargedFrame>10</chargedFrame>
+	<fireFrame>12</fireFrame>
+	<firePoint x="16" y="39" />
+	<mountPoint x="16" y="52" />
+</weaponAnim>
+
+<animSheet name="artillery_broadside_focus" w="297" h="66" fw="33" fh="66">weapons_aea/artillery_broadside_focus.png</animSheet>
+<weaponAnim name="artillery_broadside_focus">
+	<sheet>artillery_broadside_focus</sheet>
+	<desc length="9" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint x="16" y="39" />
+	<mountPoint x="16" y="52" />
+	<chargeImage>weapons_aea/artillery_broadside_focus_glow.png</chargeImage>
+</weaponAnim>
+
+<animSheet name="artillery_broadside_missile" w="165" h="66" fw="33" fh="66">weapons_aea/artillery_broadside_missile.png</animSheet>
+<weaponAnim name="artillery_broadside_missile">
+	<sheet>artillery_broadside_missile</sheet>
+	<desc length="5" x="0" y="0" />
+	<chargedFrame>3</chargedFrame>
+	<fireFrame>4</fireFrame>
+	<firePoint x="16" y="39" />
+	<mountPoint x="16" y="52" />
+</weaponAnim>
+
+<animSheet name="artillery_broadside_mine" w="99" h="66" fw="33" fh="66">weapons_aea/artillery_broadside_mine.png</animSheet>
+<weaponAnim name="artillery_broadside_mine">
+	<sheet>artillery_broadside_mine</sheet>
+	<desc length="3" x="0" y="0" />
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint x="16" y="39" />
+	<mountPoint x="16" y="52" />
+	<chargeImage>weapons_aea/artillery_broadside_mine_glow.png</chargeImage>
+</weaponAnim>
+</FTL>
+

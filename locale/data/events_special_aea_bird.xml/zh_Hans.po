@@ -1,0 +1,488 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_aea_bird.xml:15
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:16
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:17
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:31
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"START_AEA_BIRD\"]/choice[@req=\"rep_comb_federation\""
+" and @lvl=\"-999\"]/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_bird.xml:35
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"START_AEA_BIRD\"]/choice[@req=\"rep_comb_federation\""
+" and @lvl=\"3\"]/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_bird.xml:41
+msgid "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:44
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[1]/text"
+msgstr "请求援助。"
+
+#: src-en/data/events_special_aea_bird.xml:48
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[2]/text"
+msgstr "攻击守卫。"
+
+#: src-en/data/events_special_aea_bird.xml:50
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[2]/event/text"
+msgstr "守卫舰的队长对你背叛他们感到震惊。\"你一定是叛军的间谍！我们不会掉以轻心的！\""
+
+#: src-en/data/events_special_aea_bird.xml:53
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[2]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_bird.xml:59
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[3]/text"
+msgstr "无视守卫。"
+
+#: src-en/data/events_special_aea_bird.xml:61
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[3]/event/text"
+msgstr "现在有时间管理一下星舰。"
+
+#: src-en/data/events_special_aea_bird.xml:63
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[3]/event/choice[1]/text"
+msgstr "星舰管理。"
+
+#: src-en/data/events_special_aea_bird.xml:67
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[3]/event/choice[2]/text"
+msgstr "跳过。"
+
+#: src-en/data/events_special_aea_bird.xml:75
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:77
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_bird.xml:79
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:82
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/choice/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_bird.xml:90
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/text"
+msgstr "守卫将你与附近的一艘支援舰接入加密通讯线路，支援舰等待你的命令。"
+
+#: src-en/data/events_special_aea_bird.xml:92
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[1]/text"
+msgstr "维修。"
+
+#: src-en/data/events_special_aea_bird.xml:94
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[1]/event/text"
+msgstr "数架维修无人机被派来维修你。"
+
+#: src-en/data/events_special_aea_bird.xml:99
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[2]/text"
+msgstr "燃料。"
+
+#: src-en/data/events_special_aea_bird.xml:101
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[2]/event/text"
+msgstr "一架补给无人机被派来为你的星舰进行燃料补给。"
+
+#: src-en/data/events_special_aea_bird.xml:108
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[3]/text"
+msgstr "弹药。"
+
+#: src-en/data/events_special_aea_bird.xml:110
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[3]/event/text"
+msgstr "一架补给无人机被派去为你的星舰进行补给。"
+
+#: src-en/data/events_special_aea_bird.xml:117
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[4]/text"
+msgstr "无人机部件。"
+
+#: src-en/data/events_special_aea_bird.xml:119
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[4]/event/text"
+msgstr "一架补给无人机被派去为你的星舰进行补给。"
+
+#: src-en/data/events_special_aea_bird.xml:134
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DESTROY\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:137
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DESTROY\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_bird.xml:142
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DEADCREW\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:146
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DEADCREW\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_bird.xml:159
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_FOLLOWUP\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:162
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_FOLLOWUP\"]/choice[1]/text"
+msgstr "星舰管理。"
+
+#: src-en/data/events_special_aea_bird.xml:166
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_FOLLOWUP\"]/choice[2]/text"
+msgstr "跳过。"
+
+#: src-en/data/events_special_aea_bird.xml:174
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/beaconType/unvisitedTooltip"
+msgstr "未探索的信标。"
+
+#: src-en/data/events_special_aea_bird.xml:175
+#, fuzzy
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/beaconType/visitedTooltip"
+msgstr "已探索的信标，没什么值得注意。"
+
+#: src-en/data/events_special_aea_bird.xml:176
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/beaconType/undiscoveredTooltip"
+msgstr "未探索的信标。"
+
+#: src-en/data/events_special_aea_bird.xml:178
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:182
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_bird.xml:199
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:200
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:201
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:215
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"START_AEA_BIRD_UNIQUE\"]/choice[@req=\"rep_comb_federation\""
+" and @lvl=\"-999\"]/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_bird.xml:219
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"START_AEA_BIRD_UNIQUE\"]/choice[@req=\"rep_comb_federation\""
+" and @lvl=\"3\"]/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_bird.xml:271
+msgid ""
+"data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_TRANSPORT_LOOT\"]/escape/text"
+msgstr "对方看起来不想战斗而是想逃跑。"
+
+#: src-en/data/events_special_aea_bird.xml:282
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr "未探索的信标。"
+
+#: src-en/data/events_special_aea_bird.xml:283
+#, fuzzy
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/beaconType/visitedTooltip"
+msgstr "已探索的信标，没什么值得注意。"
+
+#: src-en/data/events_special_aea_bird.xml:284
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr "未探索的信标。"
+
+#: src-en/data/events_special_aea_bird.xml:286
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:289
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[1]/text"
+msgstr "命令对方交出物资。"
+
+#: src-en/data/events_special_aea_bird.xml:291
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[1]/event/text"
+msgstr "你决定武力夺取物资。"
+
+#: src-en/data/events_special_aea_bird.xml:294
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[1]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_bird.xml:300
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:302
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/text"
+msgstr ""
+"你的船员与对方舰长对话，向其解释我方任务的重要性。运输舰舰长若有所思，同时提到自己携带的货物对同一个任务也至关重要。如果你愿意付款以提供补偿的话，他们愿意破例一次。"
+
+#: src-en/data/events_special_aea_bird.xml:304
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[1]/text"
+msgstr "购买货物。"
+
+#: src-en/data/events_special_aea_bird.xml:306
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[1]/event/text"
+msgstr "交易完毕，这件设备看上去大有用处。"
+
+#: src-en/data/events_special_aea_bird.xml:313
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[1]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_bird.xml:321
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[2]/text"
+msgstr "拒绝并攻击运输舰。"
+
+#: src-en/data/events_special_aea_bird.xml:323
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[2]/event/text"
+msgstr "你决定武力夺取物资。"
+
+#: src-en/data/events_special_aea_bird.xml:326
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[2]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_bird.xml:332
+#, fuzzy
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[3]/text"
+msgstr "算了。"
+
+#: src-en/data/events_special_aea_bird.xml:334
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[3]/event/text"
+msgstr "运输舰舰长耸了耸肩，继续上路。"
+
+#: src-en/data/events_special_aea_bird.xml:336
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[3]/event/choice[1]/text"
+msgstr "星舰管理。"
+
+#: src-en/data/events_special_aea_bird.xml:340
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[3]/event/choice[2]/text"
+msgstr "跳过。"
+
+#: src-en/data/events_special_aea_bird.xml:348
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[3]/text"
+msgstr "避开这艘船。"
+
+#: src-en/data/events_special_aea_bird.xml:350
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[3]/event/text"
+msgstr "他们保持在你的武器射程外，最后跃迁走了。"
+
+#: src-en/data/events_special_aea_bird.xml:352
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[3]/event/choice[1]/text"
+msgstr "星舰管理。"
+
+#: src-en/data/events_special_aea_bird.xml:356
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[3]/event/choice[2]/text"
+msgstr "跳过。"
+
+#: src-en/data/events_special_aea_bird.xml:363
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_BIRD\"]/text"
+msgstr "对方船员都死了，留给你一艘空船。他们的货物任由你处置。船上就是预想当中的特殊科技，你将它带回星舰。"
+
+#: src-en/data/events_special_aea_bird.xml:382
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[1]"
+msgstr "“求救！求救！求–”联邦舰长绝望的呼救声突然被他们的飞船摧毁所淹没。"
+
+#: src-en/data/events_special_aea_bird.xml:383
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[2]"
+msgstr "当未来有飞船遇到这个残骸时，人们很可能会认为这是叛军或海盗干的。但所有线索最终都会指向你。"
+
+#: src-en/data/events_special_aea_bird.xml:384
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[3]"
+msgstr "真是可惜，联邦这么快就出动了新型舰。当联邦推动制造新设计时，想的应该要对付叛军…但没想到还有他们雇用的变元者。"
+
+#: src-en/data/events_special_aea_bird.xml:385
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[4]"
+msgstr "当你看着一艘联邦飞船被摧毁时，你有一种怪异的感觉。但至少不是你被摧毁。"
+
+#: src-en/data/events_special_aea_bird.xml:386
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[5]"
+msgstr "最后的一次爆炸标志着联邦舰长的命运，他们的飞船被炸得四分五裂。"
+
+#: src-en/data/events_special_aea_bird.xml:394
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[1]"
+msgstr "最后一名联邦船员倒下。当你搜刮他们的舰体时，你注意到他们的无线电仍然活跃，指挥中心仍在呼叫他们试图询问发生了什么。你关闭无线电并继续。"
+
+#: src-en/data/events_special_aea_bird.xml:395
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[2]"
+msgstr "“有人受伤！有人受伤！啊！”船员的呼喊声并没有被已经倒下船员听到。"
+
+#: src-en/data/events_special_aea_bird.xml:396
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[3]"
+msgstr ""
+"“我的死亡意味着联邦的死亡。”垂死的舰长停了下来，因为后台有人对他大喊大叫。“我并没有反应过激！该死……你就不能让我的最后时刻帅一点吗……”"
+
+#: src-en/data/events_special_aea_bird.xml:397
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[4]"
+msgstr "“我的名字将被铭刻在纪念碑上，以纪念我对多元宇宙的贡献…你的名字将永远被写在精神错乱罪犯的监视名单上……”"
+
+#: src-en/data/events_special_aea_bird.xml:398
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[5]"
+msgstr "“我甚至没有…得到过升职！我还没准备好去死！”联邦舰长在自己的手中哭泣，他的船员一个接一个死去，最后只剩下他自己。"
+
+#: src-en/data/events_special_aea_bird.xml:404
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"SURRENDER_AEA_BIRD\"]/choice[1]/text"
+msgstr "接受他们的投降。"
+
+#: src-en/data/events_special_aea_bird.xml:417
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[1]"
+msgstr "“不要再继续发疯了—我们是同一边的！”"
+
+#: src-en/data/events_special_aea_bird.xml:418
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[2]"
+msgstr "联邦飞船已经破烂不堪。现在你也许可以通过谈判让他们投降。"
+
+#: src-en/data/events_special_aea_bird.xml:419
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[3]"
+msgstr "“求你了，我们不必这么做！只要你放我们走，我们什么都愿意给你！”"
+
+#: src-en/data/events_special_aea_bird.xml:420
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[4]"
+msgstr "“不要毁灭我们！我们都是联邦！至少让我们投降吧！”"
+
+#: src-en/data/events_special_aea_bird.xml:421
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[5]"
+msgstr "“带上我们所有的东西，离开这里，这样就不用再流血了！”"
+
+#: src-en/data/events_special_aea_bird.xml:422
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[6]"
+msgstr "这艘船反复呼叫你，恳求你停止攻击，让他们离开。"
+
+#: src-en/data/events_special_aea_bird.xml:430
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[1]"
+msgstr "“求救！求救！求–”联邦站长绝望的呼救声突然被他们的空间站摧毁所淹没。"
+
+#: src-en/data/events_special_aea_bird.xml:431
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[2]"
+msgstr "当未来有飞船遇到这个残骸时，人们很可能会认为这是叛军或海盗干的。但所有线索最终都会指向你。"
+
+#: src-en/data/events_special_aea_bird.xml:432
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[3]"
+msgstr "真是可惜，联邦这么快就出动了新型舰。当联邦推动制造新设计时，想的应该要对付叛军…但没想到还有他们雇用的变元者。"
+
+#: src-en/data/events_special_aea_bird.xml:436
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:439
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_bird.xml:441
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:497
+msgid ""
+"data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:500
+msgid ""
+"data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/destroyed/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_bird.xml:505
+msgid ""
+"data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:508
+msgid ""
+"data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/deadCrew/choice/text"
+msgstr "继续。"

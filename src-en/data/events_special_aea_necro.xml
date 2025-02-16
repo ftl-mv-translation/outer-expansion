@@ -1,0 +1,754 @@
+<FTL>
+
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+					GUARD
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->	
+<textList name="TEXT_START_AEA_NECRO">
+	<text>The Engi Heretics are a group Separatists outcast from Separatist society due to their inablity to empathise with or general hatred of organic life.</text>
+	<text>This sector is home to the Engi Heretics, due to being hated by so many other factions the sector is constantly under attack. This has forced the Engi Heretics to resort to less conventional methods of defending themselves.</text>
+	<text>Although disliked by both the Harmony and Separatists, the Engi Heretics don't actually dislike either faction, the only factions they hate are the organic lifeforms.</text>
+</textList>
+<event name="START_AEA_NECRO">
+	<metaVariable name="juke_aea_necro" op="set" val="1" />
+	<preventQuest />
+	<beaconType id="map_icon_start" global="false">
+		<color r="120" g="99" b="84" a="1"/>
+	</beaconType>
+	<text load="TEXT_START_AEA_NECRO" />
+    <modifyPursuit amount="-1" />
+	<changeBackground>BACK_SECTOR_AEA_NECRO</changeBackground>
+	<playSound>lightspeed</playSound>
+	<ship load="SHIP_GUARD_AEA_NECRO" hostile="false" />
+	<customFleet right="false" firing="true" autoDarkening="true">CUSTOM_FLEET_AEA_NECRO</customFleet>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event load="GUARD_AEA_NECRO" />
+	</choice>
+</event>
+
+<event name="GUARD_AEA_NECRO">
+	<text>You're hailed by a strange engi vessel. "Welcome to our domain, please turn over all organics to us."</text>
+	<choice hidden="true">
+		<text>Fight your way through!.</text>
+		<event>
+			<text>You mute the ship and prepare for combat.</text>
+			<ship hostile="true" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="COMBAT_CHECK" />
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="LIST_CREW_ORGANIC_AEA_NECRO" blue="false">
+		<text>Undergo Inspection.</text>
+		<event>
+			<text>The engi immediately pickup on your organic crew and their vessel moves into an attack position.</text>
+			<ship hostile="true" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="COMBAT_CHECK" />
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="LIST_CREW_ORGANIC_AEA_NECRO" lvl="0" max_lvl="0" blue="false">
+		<text>Undergo Inspection.</text>
+		<event>
+			<text>You submit to inspection by the Engi Heretics and they find no organic life onboard. You're able to enter their sector freely without any conflict.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="LIST_CREW_AEA_NECRO">
+		<text>(Heretic Crew) Request Supplies.</text>
+		<event>
+			<text>The guard, seeing another Heretic onboard your ship, agrees and transfers over some supplies.</text>
+			<autoReward level="MED">stuff</autoReward>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="mind">
+		<text>(Mind Control) Convince the guard to leave you alone.</text>
+		<event load="GUARD_CLOAK" />
+	</choice>
+	<choice hidden="true" req="cloaking">
+		<text>(Cloaking) Cloak and try to escape.</text>
+		<event load="GUARD_CLOAK" />
+	</choice>
+	<choice hidden="true" req="engines" lvl="5">
+		<text>(Adv. Engines) Try to escape the guard.</text>
+		<event load="GUARD_ESCAPE" />
+	</choice>
+	<choice hidden="true" req="pilot" lvl="3">
+		<text>(Adv. Piloting) Activate the auto-pilot to try and escape.</text>
+		<event load="GUARD_ESCAPE" />
+	</choice>
+</event>
+
+<ship name="SHIP_GUARD_AEA_NECRO" auto_blueprint="AEA_NECRO_GUARD">
+	<surrender min="5" max="6" load="GUARD_SIGNAL" />
+	<destroyed load="GUARD_AEA_NECRO_DESTROY" />
+	<deadCrew load="GUARD_AEA_NECRO_DEADCREW" />
+</ship>
+
+<event name="GUARD_AEA_NECRO_DESTROY">
+	<text>You have defeated the Heretic guard. Whatever might have been in its cargo has for certain been destroyed, but you can at least salvage some supplies from the ship.</text>
+	<autoReward level="MED">standard</autoReward>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event load="GUARD_AEA_NECRO_FOLLOWUP" />
+	</choice>
+</event>
+<event name="GUARD_AEA_NECRO_DEADCREW">
+	<text>You have defeated the Heretic guard. Without any of the Engi Heretics on board to stop you, you can investigate their cargo. You find a weapon to bring back to the ship, and move on to scrap their hull.</text>
+	<autoReward level="MED">standard_no_item</autoReward>
+	<weapon name="GIFTLIST_WEAPONS_NECRO" />
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event load="GUARD_AEA_NECRO_FOLLOWUP" />
+	</choice>
+</event>
+
+<ship name="SHIP_AEA_NECRO_REINFORCEMENTS" auto_blueprint="LIST_SHIPS_AEA_NECRO_FIGHT">
+	<destroyed load="DESTROYED_REINFORCEMENTS" />
+	<deadCrew load="DEADCREW_REINFORCEMENTS" />
+</ship>
+<event name="GUARD_AEA_NECRO_FOLLOWUP">
+	<noQuestText />
+	<removeHazards />
+	<clearCustomFleet />
+	<text>By killing the Heretic guard, you have no doubt caused them to dispatch reinforcements to track you down. Watch your step as you explore the sector.</text>
+	<quest event="REINFORCEMENTS_AEA_NECRO">
+		<nextSector>false</nextSector>
+		<aggressive>2</aggressive>
+	</quest>
+	<choice>
+		<text>Do something onboard the ship.</text>
+		<event load="STORAGE_CHECK" />
+	</choice>
+	<choice>
+		<text>Do nothing.</text>
+		<event />
+	</choice>
+</event>
+<event name="REINFORCEMENTS_AEA_NECRO">
+	<preventQuest />
+	<beaconType id="map_icon_reinforcements" global="true" req="LOOT_COMPASS">
+		<color r="120" g="99" b="84" a="1"/>
+		<unvisitedTooltip>An unvisited location.</unvisitedTooltip>
+		<visitedTooltip>Explored location. Nothing left of interest.</visitedTooltip>
+		<undiscoveredTooltip>An unvisited location.</undiscoveredTooltip>
+	</beaconType>
+	<text>The Engi Heretics have not taken your less than friendly entry to the sector well and it appears it has dispatched a ship specifically to stop you.</text>
+	<ship load="SHIP_AEA_NECRO_REINFORCEMENTS" hostile="true" />
+	<environment type="PDS" target="player" />
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event load="COMBAT_CHECK" />
+	</choice>
+</event>
+
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+					GUARD
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->	
+<event name="START_AEA_NECRO_UNIQUE">
+	<metaVariable name="juke_aea_necro" op="set" val="1" />
+	<preventQuest />
+	<beaconType id="map_icon_start" global="false">
+		<color r="120" g="99" b="84" a="1"/>
+	</beaconType>
+	<text>You've arrived in the center of Heretic operations. This sector is constantly under threat of collapse due to the constant attacks from the various enemies of the Heretics, as such it's also one of the most well defended heretic sectors.</text>
+	<variable name="loc_unique_sectors" op="add" val="1" />
+    <modifyPursuit amount="-1" />
+	<changeBackground>BACK_SECTOR_AEA_NECRO</changeBackground>
+	<playSound>lightspeed</playSound>
+	<ship load="SHIP_GUARD_AEA_NECRO_UNIQUE" hostile="false" />
+	<customFleet right="false" firing="true" autoDarkening="true">CUSTOM_FLEET_AEA_NECRO</customFleet>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event load="GUARD_AEA_NECRO" />
+	</choice>
+</event>
+
+<event name="GUARD_AEA_NECRO">
+	<text>You're hailed by a strange engi vessel. "Only those without organics are allowed past, please prepare for inspection."</text>
+	<choice hidden="true">
+		<text>Fight your way through!.</text>
+		<event>
+			<text>You mute the ship and prepare for combat.</text>
+			<ship hostile="true" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="COMBAT_CHECK" />
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="LIST_CREW_ORGANIC_AEA_NECRO" blue="false">
+		<text>Undergo Inspection.</text>
+		<event>
+			<text>The engi immediately pickup on your organic crew and their vessel moves into an attack position.</text>
+			<ship hostile="true" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="COMBAT_CHECK" />
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="LIST_CREW_ORGANIC_AEA_NECRO" lvl="0" max_lvl="0" blue="false">
+		<text>Undergo Inspection.</text>
+		<event>
+			<text>You submit to inspection by the Engi Heretics and they find no organic life onboard. You're able to enter their sector freely without any conflict.</text>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="LIST_CREW_AEA_NECRO">
+		<text>(Heretic Crew) Request Supplies.</text>
+		<event>
+			<text>The guard, seeing another Heretic onboard your ship, agrees and transfers over some supplies.</text>
+			<autoReward level="MED">stuff</autoReward>
+			<choice>
+				<text>Continue...</text>
+				<event/>
+			</choice>
+		</event>
+	</choice>
+	<choice hidden="true" req="mind">
+		<text>(Mind Control) Convince the guard to leave you alone.</text>
+		<event load="GUARD_CLOAK" />
+	</choice>
+	<choice hidden="true" req="cloaking">
+		<text>(Cloaking) Cloak and try to escape.</text>
+		<event load="GUARD_CLOAK" />
+	</choice>
+	<choice hidden="true" req="engines" lvl="5">
+		<text>(Adv. Engines) Try to escape the guard.</text>
+		<event load="GUARD_ESCAPE" />
+	</choice>
+	<choice hidden="true" req="pilot" lvl="3">
+		<text>(Adv. Piloting) Activate the auto-pilot to try and escape.</text>
+		<event load="GUARD_ESCAPE" />
+	</choice>
+</event>
+
+<ship name="SHIP_GUARD_AEA_NECRO_UNIQUE" auto_blueprint="AEA_NECRO_GUARD">
+	<surrender min="5" max="6" load="GUARD_SIGNAL" />
+	<destroyed load="GUARD_AEA_NECRO_DESTROY_UNIQUE" />
+	<deadCrew load="GUARD_AEA_NECRO_DEADCREW_UNIQUE" />
+</ship>
+
+<event name="GUARD_AEA_NECRO_DESTROY_UNIQUE">
+	<text>You have defeated the Heretic guard. Whatever might have been in its cargo has for certain been destroyed, but you can at least salvage some supplies from the ship.</text>
+	<autoReward level="MED">standard</autoReward>
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event load="GUARD_AEA_NECRO_FOLLOWUP_UNIQUE" />
+	</choice>
+</event>
+<event name="GUARD_AEA_NECRO_DEADCREW_UNIQUE">
+	<text>You have defeated the Heretic guard. Without any of the Engi Heretics on board to stop you, you can investigate their cargo. You find a weapon to bring back to the ship, and move on to scrap their hull.</text>
+	<autoReward level="MED">standard_no_item</autoReward>
+	<weapon name="GIFTLIST_WEAPONS_NECRO" />
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event load="GUARD_AEA_NECRO_FOLLOWUP_UNIQUE" />
+	</choice>
+</event>
+
+<ship name="SHIP_AEA_NECRO_REINFORCEMENTS_UNIQUE" auto_blueprint="LIST_SHIPS_AEA_NECRO_FIGHT">
+	<destroyed load="DESTROYED_REINFORCEMENTS" />
+	<deadCrew load="DEADCREW_REINFORCEMENTS" />
+</ship>
+<event name="GUARD_AEA_NECRO_FOLLOWUP_UNIQUE">
+	<noQuestText />
+	<removeHazards />
+	<clearCustomFleet />
+	<text>By killing the Heretic guard, you have no doubt caused them to dispatch reinforcements to track you down. Watch your step as you explore the sector.</text>
+	<quest event="REINFORCEMENTS_AEA_NECRO_UNIQUE">
+		<nextSector>false</nextSector>
+		<createNebula>false</createNebula>
+		<aggressive>2</aggressive>
+	</quest>
+	<choice>
+		<text>Do something onboard the ship.</text>
+		<event load="STORAGE_CHECK" />
+	</choice>
+	<choice>
+		<text>Do nothing.</text>
+		<event />
+	</choice>
+</event>
+<event name="REINFORCEMENTS_AEA_NECRO_UNIQUE">
+	<preventQuest />
+	<beaconType id="map_icon_reinforcements" global="true" req="LOOT_COMPASS">
+		<color r="120" g="99" b="84" a="1"/>
+		<unvisitedTooltip>An unvisited location.</unvisitedTooltip>
+		<visitedTooltip>Explored location. Nothing left of interest.</visitedTooltip>
+		<undiscoveredTooltip>An unvisited location.</undiscoveredTooltip>
+	</beaconType>
+	<text>The Engi Heretics have not taken your less than friendly entry to the sector well and it appears it has dispatched a ship specifically to stop you.</text>
+	<ship load="SHIP_AEA_NECRO_REINFORCEMENTS_UNIQUE" hostile="true" />
+	<environment type="PDS" target="player" />
+	<choice hidden="true">
+		<text>Continue...</text>
+		<event load="COMBAT_CHECK" />
+	</choice>
+</event>
+
+
+<!--
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+					EVENTS
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->	
+<eventList name="STORELIST_AEA_NECRO">
+	<event load="STOREEVENT_DAMAGED" />
+	<event load="STOREEVENT_WEATHER_STUCK" />
+
+	<event load="STOREEVENT_FED_AUTO" />
+	
+	<event load="STOREEVENT_SEPARATIST_UNLOADING" />
+
+	<event load="STOREEVENT_CRYSTAL_COLLECTOR" />
+	
+	<event load="STOREEVENT_AUTO_VENDER" />
+
+	<event load="STOREEVENT_PIRATE_ODDSHOP" />
+	<event load="STOREEVENT_PIRATE_AWKWARD" />
+	<event load="STOREEVENT_PIRATE_REFUELING" />
+	
+	<event load="STOREEVENT_LANIUS_METAL" />
+</eventList>
+
+<ship name="SHIP_AEA_NECRO_TRANSPORT_LOOT" auto_blueprint="AEA_NECRO_TRANSPORT">
+	<escape timer="40" min="999" max="999">
+		<text>They look like they don't want to fight. They are trying to escape.</text>
+		<ship hostile="true" />
+	</escape>
+	<destroyed load="TRANSPORT_DESTROYED" />
+	<deadCrew load="TRANSPORT_CAPTURE_AEA_NECRO" />
+</ship>
+
+<event name="TRANSPORT_AEA_NECRO_LOOT" unique="true">
+	<preventQuest />
+	<beaconType id="map_icon_transport" global="true" req="LOOT_COMPASS">
+		<color r="120" g="99" b="84" a="1"/>
+		<unvisitedTooltip>An unvisited location.</unvisitedTooltip>
+		<visitedTooltip>Explored location. Nothing left of interest.</visitedTooltip>
+		<undiscoveredTooltip>An unvisited location.</undiscoveredTooltip>
+	</beaconType>
+	<text>This beacon hosts a Heretic transport. It's safe to bet the ship is most likely carrying some special tech. If you can kill the crew onboard, the cargo will be yours.</text>
+	<ship load="SHIP_AEA_NECRO_TRANSPORT_LOOT" hostile="false" />
+	<choice>
+		<text>Demand the surrender of the goods.</text>
+		<event>
+			<text>You prepare to secure the cargo by force.</text>
+			<ship hostile="true" />
+			<choice hidden="true">
+				<text>Continue...</text>
+				<event load="COMBAT_CHECK" />
+			</choice>
+		</event>
+	</choice>
+	<choice>
+        <text>Avoid the ship.</text>
+        <event>
+            <text>The ship stays outside your weapons range, and eventually jumps away.</text>
+			<choice hidden="true">
+				<text>Do something onboard the ship.</text>
+				<event load="STORAGE_CHECK" />
+			</choice>
+			<choice hidden="true">
+				<text>Do nothing.</text>
+				<event />
+			</choice>
+        </event>
+    </choice>
+</event>
+<event name="TRANSPORT_CAPTURE_AEA_NECRO" unique="true">
+	<text>The crew is dead, leaving you with the ship. Its cargo is yours for the taking. Aboard is the special tech you expected, which you bring back to your ship.</text>
+	<autoReward level="MED">standard_no_item</autoReward>
+	<weapon name="LIST_LOOT_AEA_NECRO" />
+	<variable name="ach_trans_aea_acid" op="set" val="1" />
+	<achievement>ACH_TRANS_AEA_NECRO</achievement>
+</event>
+
+<eventList name="DESTROYED_AEA_NECRO">
+	<event load="DESTROYED_AEA_NECRO_GENERIC" />
+	<event load="DESTROYED_AEA_NECRO_GENERIC" />
+	<event load="DESTROYED_AEA_NECRO_GENERIC" />
+	<event load="DESTROYED_AEA_NECRO_GENERIC" />
+	
+	<event load="DESTROYED_AEA_NECRO_NECRO_DRONE" />
+</eventList>
+<event name="DESTROYED_AEA_NECRO_GENERIC">
+	<text load="TEXT_DESTROYED_AEA_NECRO" />
+	<autoReward level="MED">standard</autoReward>
+</event>
+<textList name="TEXT_DESTROYED_AEA_NECRO">
+	<text>Destroying Heretic ships is perhaps one of the best things you can do for this universe, there is no question they would think the same about destroying organic life.</text>
+	<text>The Heretic ship has been destroyed. You've probably saved countless human lives, let alone other organic life.</text>
+	<text>You wonder if the Heretics finally feel anything when they're consumed by the explosions of their ships. Perhaps in their last moments they understand the torment they inflict upon organic life.</text>
+</textList>
+<event name="DESTROYED_AEA_NECRO_NECRO_DRONE">
+	<text>To your surprise, one of the Heretic's drones survived the explosion. It's a little crisp from the explosion but with a few repairs you can salvage it.</text>
+	<autoReward level="MED">standard_no_item</autoReward>
+	<drone name="GIFTLIST_DRONES_NECRO" />
+</event>
+
+<eventList name="DEAD_CREW_AEA_NECRO">
+	<event load="DEAD_CREW_AEA_NECRO_GENERIC" />
+	<event load="DEAD_CREW_AEA_NECRO_GENERIC" />
+	<event load="DEAD_CREW_AEA_NECRO_GENERIC" />
+	<event load="DEAD_CREW_AEA_NECRO_GENERIC" />
+	
+	<event load="DEAD_CREW_AEA_NECRO_NECRO_DRONE" />
+</eventList>
+<event name="DEAD_CREW_AEA_NECRO_GENERIC">
+	<text load="TEXT_DEAD_CREW_AEA_NECRO" />
+	<autoReward level="HIGH">standard</autoReward>
+</event>
+<textList name="TEXT_DEAD_CREW_AEA_NECRO">
+	<text>As you stalk amongst the remains of the Heretic's vessel you wonder if eventually some other Engi Heretic will come by and revive them...</text>
+	<text>The Engi Heretics are now broken on the floor, much in the same way they've done to hundreds of organic life forms before.</text>
+	<text>You aren't guilty about destroying these Engi Heretics, they've done more then enough to deserve everything done to them.</text>
+	<text>It's still unknown to you whether the Engi Heretics have ever felt the pain they inflict upon others, perhaps you've finally given that to them today.</text>
+</textList>
+<event name="DEAD_CREW_AEA_NECRO_NECRO_DRONE">
+	<text>Now emptied of crew, you find one of the Heretic's drones on board. You take it back with you before scrapping the ship.</text>
+	<autoReward level="MED">standard_no_item</autoReward>
+	<drone name="GIFTLIST_DRONES_NECRO" />
+</event>
+
+<event name="ESCAPE_AEA_NECRO">
+	<text load="TEXT_ESCAPE_AEA_NECRO" />
+</event>
+<textList name="TEXT_ESCAPE_AEA_NECRO">
+	<text>The Heretic ship powers up its engines and swerves away from you. It's trying to escape!.</text>
+	<text>You detect high spikes in engine power on the Heretic ship. It's trying to escape.</text>
+</textList>
+
+<eventList name="GOTAWAY_AEA_NECRO">
+	<event load="GOTAWAY_AEA_NECRO_GENERIC" />
+	<event load="GOTAWAY_AEA_NECRO_GENERIC" />
+	
+	<event load="GOTAWAY_AEA_NECRO_REMAINS" />
+</eventList>
+<event name="GOTAWAY_AEA_NECRO_GENERIC">
+	<text load="TEXT_GOTAWAY_AEA_NECRO" />
+</event>
+<textList name="TEXT_GOTAWAY_AEA_NECRO">
+	<text>The Heretic ship escapes. If this weren't the engi heretics you'd hope that this would make them less hostile.</text>
+	<text>The Heretic ship jumps away. You wonder if the Engi Heretics onboard felt fear as they escaped, you aren't even sure if they feel anything at all.</text>
+	<text>The Heretic ship's engine power spikes even higher and the ship jumps away.</text>
+</textList>
+<event name="GOTAWAY_AEA_NECRO_REMAINS">
+	<text>As the Heretic ship jumps away you notice a trail of scrap left behind from the broken ship. At least you'll have something to scrap.</text>
+	<autoReward level="LOW">scrap_only</autoReward>
+</event>
+
+<event name="SURRENDER_AEA_NECRO">
+	<text load="TEXT_SURRENDER_AEA_NECRO" />
+	<choice>
+		<text>Accept their surrender.</text>
+		<event load="SURRENDER_AEA_NECRO_ACCEPT" />
+	</choice>
+	<choice req="aea_necro_engi">
+		<text>(Engi Heretic) Negotiate a different deal.</text>
+		<event name="SURRENDER_AEA_NECRO_STONKS">
+			<ship hostile="false" />
+			<autoReward level="RANDOM">stuff</autoReward>
+		</event>
+	</choice>
+	<choice req="aea_necro_lich">
+		<text>(Engi Lich) Demand more from them.</text>
+		<event>
+			<ship hostile="false" />
+			<autoReward level="HIGH">stuff</autoReward>
+		</event>
+	</choice>
+	<choice>
+		<text load="GENERIC_SURRENDER_CHOICE_NOMERCY" />
+		<event />
+	</choice>
+</event>
+<textList name="TEXT_SURRENDER_AEA_NECRO">
+	<text>"Our damage levels are high. I hope this [offer] satisfies your lust for scrap."</text>
+	<text>The Heretic ship surrenders. They offer some supplies if you'll let them live.</text>
+	<text>"Your attempts at destroying us have been [considerable]. I request you do not kill us."</text>
+	<text>"Greed &gt; Murder." The Heretic ship offers some supplies if you let them live.</text>
+	<text>"Our desire to [survive] outweighs your desire to [kill] us. Let us go."</text>
+</textList>
+
+<event name="SURRENDER_AEA_NECRO_ACCEPT">
+	<ship hostile="false" />
+	<autoReward level="RANDOM">stuff</autoReward>
+</event>
+
+
+
+<event name="AEA_NECRO_TEST_FIGHT">
+    <text>TEST.</text>
+    <ship load="SHIP_AEA_NECRO_ALL" hostile="true"/>
+    <choice hidden="true">
+        <text>Continue...</text>
+        <event load="COMBAT_CHECK"/>
+    </choice>
+</event>
+
+
+<ship name="SHIP_AEA_NECRO_ALL" auto_blueprint="LIST_SHIPS_AEA_NECRO_ALL">
+	<surrender chance="0.5" min="2" max="3" load="SURRENDER_AEA_NECRO" />
+	<escape chance="0.5" min="3" max="4" load="ESCAPE_AEA_NECRO" />
+	<gotaway load="GOTAWAY_AEA_NECRO" />
+	<destroyed load="DESTROYED_AEA_NECRO" />
+	<deadCrew load="DEAD_CREW_AEA_NECRO" />
+</ship>
+
+<ship name="SHIP_AEA_NECRO_GENERIC" auto_blueprint="LIST_SHIPS_AEA_NECRO_GENERIC">
+	<surrender chance="0.5" min="2" max="3" load="SURRENDER_AEA_NECRO" />
+	<escape chance="0.5" min="3" max="4" load="ESCAPE_AEA_NECRO" />
+	<gotaway load="GOTAWAY_AEA_NECRO" />
+	<destroyed load="DESTROYED_AEA_NECRO" />
+	<deadCrew load="DEAD_CREW_AEA_NECRO" />
+</ship>
+
+<ship name="SHIP_AEA_NECRO_FIGHT" auto_blueprint="LIST_SHIPS_AEA_NECRO_FIGHT">
+	<surrender chance="0.5" min="2" max="3" load="SURRENDER_AEA_NECRO" />
+	<escape chance="0.5" min="3" max="4" load="ESCAPE_AEA_NECRO" />
+	<gotaway load="GOTAWAY_AEA_NECRO" />
+	<destroyed load="DESTROYED_AEA_NECRO" />
+	<deadCrew load="DEAD_CREW_AEA_NECRO" />
+</ship>
+
+
+<ship name="SHIP_AEA_NECRO_UNION_CHOICE" auto_blueprint="LIST_SHIPS_UNION_FIGHT">
+	<destroyed load="AEA_NECRO_UNION_CHOICE_WIN" />
+	<deadCrew load="AEA_NECRO_UNION_CHOICE_WIN" />
+</ship>
+<ship name="SHIP_AEA_NECRO_ENGI_CHOICE" auto_blueprint="LIST_SHIPS_AEA_NECRO_FIGHT">
+	<destroyed load="AEA_NECRO_ENGI_CHOICE_WIN" />
+	<deadCrew load="AEA_NECRO_ENGI_CHOICE_WIN" />
+</ship>
+
+
+<ship name="SHIP_AUTO_AEA_NECRO" auto_blueprint="LIST_SHIPS_AUTO_FIGHT">
+	<escape timer="40" min="999" max="999">
+		<text>You notice the Auto's engines begin to glow even brighter. The Heretics warn you that it is trying to escape, and that you must kill it before it can.</text>
+		<ship hostile="true" />
+	</escape>
+	<gotaway>
+		<text>The Auto jumps away before you can get in the finishing blow. You know that it will alert the fleet, and that the Heretics won't be happy.</text>
+		<modifyPursuit amount="1" />
+		<choice hidden="true">
+			<text>Contact the Separatists.</text>
+			<event load="AEA_NECRO_FLEET_DELAY_LOSE" />
+		</choice>
+	</gotaway>
+	<destroyed>
+		<text>You salvage what you can from the broken ship.</text>
+		<autoReward level="MED">scrap_only</autoReward>
+		<choice hidden="true">
+			<text>Contact the Heretics.</text>
+			<event load="AEA_NECRO_FLEET_DELAY_WIN" />
+		</choice>
+	</destroyed>
+</ship>
+
+<ship name="SHIP_AEA_NECRO_PIRATE" auto_blueprint="LIST_SHIPS_AEA_NECRO_FIGHT">
+    <surrender chance="1" min="2" max="3">
+		<text>"You win, please just let us live."</text>
+		<choice hidden="true">
+			<text>Work something out between the Pirates and the Heretic.</text>
+			<event>
+				<text>The Pirates are adament on keeping the ship, eventually the Engi Heretic capitulates requests to join your ship instead.</text>
+				<crewMember amount="1" class="aea_necro_engi"/>
+				<ship hostile="false" />
+			</event>
+		</choice>
+		<choice>
+			<text load="GENERIC_SURRENDER_CHOICE_NOMERCY" />
+			<event />
+		</choice>
+    </surrender>
+    <destroyed>
+		<text>You've destroyed the ship against the wishes of the Heretic. The yield is decent, at least.</text>
+		<autoReward level="MED">standard_no_item</autoReward>
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event load="DISTRESS_AEA_NECRO_PIRATE_DESTROYED" />
+		</choice>
+    </destroyed>
+    <deadCrew>
+		<text>With all the Ghosts dead, the Heretic is able to reclaim their vessel. "Much gratitude. My [ship] is intact. The interlopers left something, take it [with] you."</text>
+		<weapon name="RANDOM" />
+		<autoReward level="MED">standard</autoReward>
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event/>
+		</choice>
+    </deadCrew>
+	<crew>
+		<crewMember type="orchid" prop="0.25" />
+		<crewMember type="rock" prop="0.25" />
+		<crewMember type="human" prop="0.25" />
+		<crewMember type="leech" prop="0.25" />
+    </crew>
+</ship>
+
+<ship name="SHIP_AEA_NECRO_PIRATE_PLATFORM" auto_blueprint="MU_MILITIA_GUN_STATION">
+	<destroyed>
+		<text>You've destroyed the ship against the wishes of the Heretics. The yield is decent, at least. The Heretics although disapointed with the complete destruction send you the reward anyway.</text>
+		<autoReward level="MED">standard_no_item</autoReward>
+		<drone name="GIFTLIST_DRONES_NECRO" />
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event/>
+		</choice>
+    </destroyed>
+    <deadCrew>
+		<text>With the pirates all dead the Heretics contact you. "That was [very] impressive Captain, your skills in dealing with these organics are to be admired, I wish to join you so that in the future I may participate in your fights with the organics."</text>
+		<crewMember amount="1" class="aea_necro_lich"/>
+		<autoReward level="HIGH">standard_no_item</autoReward>
+		<drone name="GIFTLIST_DRONES_NECRO" />
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event/>
+		</choice>
+    </deadCrew>
+	<crew>
+		<crewMember type="orchid" prop="0.25" />
+		<crewMember type="rock" prop="0.25" />
+		<crewMember type="human" prop="0.25" />
+		<crewMember type="leech" prop="0.25" />
+    </crew>
+</ship>
+
+<ship name="SHIP_REBEL_AUTO_FIGHT_AEA_NECRO" auto_blueprint="LIST_SHIPS_AUTO_FIGHT">
+	<destroyed load="ENCOUNTER_REBEL_AUTO_AEA_NECRO_KILL" />
+</ship>
+
+<ship name="SHIP_ZOLTAN_AUTO_FIGHT_AEA_NECRO" auto_blueprint="LIST_SHIPS_ZOLTAN_AUTO">
+	<destroyed>
+		<text>The Auto vessel has been destroyed. You scrap the remains but don't find anything interesting.</text>
+		<autoReward level="LOW">standard</autoReward>
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event/>
+		</choice>
+	</destroyed>
+</ship>
+
+<ship name="SHIP_AEA_NECRO_MFK" auto_blueprint="LIST_SHIPS_REBEL_SELITE_FIGHT">
+	<destroyed load="HARMONY_LINK_AEA_NECRO_MFK_WIN" />
+	<deadCrew load="HARMONY_LINK_AEA_NECRO_MFK_WIN" />
+	<crew>
+		<crewMember type="LIST_CREW_REBEL_RANDOM" prop="0.5" />
+		<crewMember type="human_soldier" prop="0.5" />
+	</crew>
+</ship>
+
+<ship name="SHIP_AEA_NECRO_FED" auto_blueprint="LIST_SHIPS_FED_ELITE_FIGHT">
+	<destroyed load="HARMONY_LINK_AEA_NECRO_FED_WIN" />
+	<deadCrew load="HARMONY_LINK_AEA_NECRO_FED_WIN" />
+	<crew>
+		<crewMember type="LIST_CREW_REBEL_RANDOM" prop="0.5" />
+		<crewMember type="human_soldier" prop="0.5" />
+	</crew>
+</ship>
+
+<ship name="SHIP_AEA_NECRO_BOSS" auto_blueprint="AEA_NECRO_BOSS">
+	<destroyed>
+		<text>You've destroyed the Heretic cruiser, as you're searching through the huge wreck created by it's defeat you find an intact databank, and on it the schematics for a ship.</text>
+		<autoReward level="HIGH">standard_no_item</autoReward>
+		<unlockCustomShip silent="false">PLAYER_SHIP_AEA_NECRO_SEPA</unlockCustomShip>
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event load="LINK_AEA_NECRO_WHALE_FINISH"/>
+		</choice>
+	</destroyed>
+	<deadCrew>
+		<text>You've cleared the large Heretic cruiser of it's crew, as you're searching through the huge carcass created by it's defeat you find an intact databank, and on it the schematics for a ship.</text>
+		<autoReward level="HIGH">standard_no_item</autoReward>
+		<weapon name="RANDOM"/>
+		<unlockCustomShip silent="false">PLAYER_SHIP_AEA_NECRO_SEPA</unlockCustomShip>
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event load="LINK_AEA_NECRO_WHALE_FINISH"/>
+		</choice>
+	</deadCrew>
+</ship>
+
+<ship name="SHIP_AEA_NECRO_SANCTUM" auto_blueprint="AEA_NECRO_MOTHERSHIP">
+	<destroyed>
+		<text load="TEXT_DESTROYED_AEA_NECRO" />
+		<autoReward level="MED">standard</autoReward>
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event load="AEA_NECRO_SANCTUM_WIN"/>
+		</choice>
+	</destroyed>
+	<deadCrew>
+		<text load="TEXT_DESTROYED_AEA_NECRO" />
+		<autoReward level="HIGH">standard</autoReward>
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event load="AEA_NECRO_SANCTUM_WIN"/>
+		</choice>
+	</deadCrew>
+</ship>
+
+<ship name="SHIP_AEA_NECRO_ANGEL" auto_blueprint="MU_ANGEL_DEATH">
+	<destroyed>
+		<text>You've destroyed the Angelic cruiser, you begin salvaging the vessel.</text>
+		<autoReward level="HIGH">standard_no_item</autoReward>
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event load="AEA_NECRO_SANCTUM_ANGEL_WIN"/>
+		</choice>
+	</destroyed>
+	<deadCrew>
+		<text>You've cleared the large Heretic cruiser of it's crew, you begin salvaging the vessel.</text>
+		<autoReward level="HIGH">standard_no_item</autoReward>
+		<weapon name="RANDOM"/>
+		<choice hidden="true">
+			<text>Continue...</text>
+			<event load="AEA_NECRO_SANCTUM_ANGEL_WIN"/>
+		</choice>
+	</deadCrew>
+</ship>
+
+<event name="AEA_TEST_SHIELDS">
+	<text>TEST SHIELDS REQ.</text>
+	<choice req="aea_can_upgrade_shields">
+		<text>SUCCESS.</text>
+		<event name="AEA_UPGRADE_SHIELDS">
+			<text>UPGRADE SHIELDS NOW.</text>
+		</event>
+	</choice>
+	<choice req="aea_can_upgrade_shields" lvl="0" max_lvl="0">
+		<text>FAILURE.</text>
+		<event/>
+	</choice>
+	<choice>
+		<text>CONTINUE...</text>
+		<event/>
+	</choice>
+</event>
+</FTL>
