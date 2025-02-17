@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 22:52+0000\n"
+"PO-Revision-Date: 2025-02-18 12:10+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datablueprintsxmlappend/ru/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:13
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_ACIDIC\"]/title"
-msgstr ""
+msgstr "Кислотный корабль"
 
 #: src-en/data/blueprints.xml.append:14
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_ACIDIC\"]/desc"
@@ -23,7 +23,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:21
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_WHALE\"]/title"
-msgstr ""
+msgstr "Китовый крейсер"
 
 #: src-en/data/blueprints.xml.append:22
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_WHALE\"]/desc"
@@ -31,7 +31,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:29
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_NECRO\"]/title"
-msgstr ""
+msgstr "Корабль Еретиков"
 
 #: src-en/data/blueprints.xml.append:30
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_NECRO\"]/desc"
@@ -39,7 +39,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:37
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_BIRD\"]/title"
-msgstr ""
+msgstr "Корабль Ги"
 
 #: src-en/data/blueprints.xml.append:38
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_BIRD\"]/desc"
@@ -56,7 +56,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:54
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_BROADSIDE\"]/title"
-msgstr ""
+msgstr "Крейсер Броадсайд"
 
 #: src-en/data/blueprints.xml.append:55
 msgid ""
@@ -1166,77 +1166,89 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3111
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_UNIA\"]/class"
-msgstr ""
+msgstr "Атонинг Юнифекс"
 
 #: src-en/data/blueprints.xml.append:3112
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_UNIA\"]/name"
-msgstr ""
+msgstr "Раскаяние"
 
 #: src-en/data/blueprints.xml.append:3113
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_UNIA\"]/desc"
 msgstr ""
+"Личный корабль Атонинга Юнифекса, хорошо вооруженный корабль, который "
+"пользуется слабыми местами, открывающимися благодаря возможности брать на "
+"абордаж и взламывать системы противника."
 
 #: src-en/data/blueprints.xml.append:3185
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_UNIA_2\"]/class"
-msgstr ""
+msgstr "Асимптотическая Сущность"
 
 #: src-en/data/blueprints.xml.append:3186
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_UNIA_2\"]/name"
-msgstr ""
+msgstr "Аспект"
 
 #: src-en/data/blueprints.xml.append:3187
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_UNIA_2\"]/desc"
 msgstr ""
+"Личный корабль Асимптотической Сущности - корабль, ориентированный на "
+"утилитарность, способный максимально использовать все системы, используя все "
+"их возможности."
 
 #: src-en/data/blueprints.xml.append:3260
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_UNIA_3\"]/class"
-msgstr "Эвпатический импульс"
+msgstr "Эвпатический Импульс"
 
 #: src-en/data/blueprints.xml.append:3261
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_UNIA_3\"]/name"
-msgstr ""
+msgstr "Мотив"
 
 #: src-en/data/blueprints.xml.append:3262
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_UNIA_3\"]/desc"
 msgstr ""
+"Личный корабль Эвпатического Импульса, ориентированный на абордаж, способный "
+"поджечь врага своими опасными способностями."
 
 #: src-en/data/blueprints.xml.append:3332
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_UNIB\"]/class"
-msgstr ""
+msgstr "Гомологичный Тренд"
 
 #: src-en/data/blueprints.xml.append:3333
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_UNIB\"]/name"
-msgstr ""
+msgstr "Тенденция"
 
 #: src-en/data/blueprints.xml.append:3334
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_UNIB\"]/desc"
 msgstr ""
+"Личный корабль Гомологического Тренда, защитный корабль, способный "
+"восстанавливать повреждения с помощью своих мощных способностей."
 
 #: src-en/data/blueprints.xml.append:3409
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_UNIB_2\"]/class"
-msgstr ""
+msgstr "Ноэтический Конкорданс"
 
 #: src-en/data/blueprints.xml.append:3410
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_UNIB_2\"]/name"
-msgstr ""
+msgstr "Гармония"
 
 #: src-en/data/blueprints.xml.append:3411
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_UNIB_2\"]/desc"
 msgstr ""
+"Личный корабль Ноэтического Конкорданса, созданный для использования его "
+"способностей создавать суперзащитные слои по желанию."
 
 #: src-en/data/blueprints.xml.append:3484
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_OLD_EVASION\"]/title"
@@ -1522,107 +1534,121 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4058
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_BIG\"]/class"
-msgstr ""
+msgstr "Крейсер Орел"
 
 #: src-en/data/blueprints.xml.append:4059
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_BIG\"]/name"
-msgstr ""
+msgstr "Клинохвост"
 
 #: src-en/data/blueprints.xml.append:4060
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_BIG\"]/desc"
 msgstr ""
+"Не имея системы вооружения, этот корабль вынужден полагаться на единственный "
+"умный дрон, чтобы уничтожить вражеские системы."
 
 #: src-en/data/blueprints.xml.append:4135
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_BIG_2\"]/class"
-msgstr ""
+msgstr "Крейсер Орел"
 
 #: src-en/data/blueprints.xml.append:4136
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_BIG_2\"]/name"
-msgstr ""
+msgstr "Кингфишер"
 
 #: src-en/data/blueprints.xml.append:4137
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_BIG_2\"]/desc"
 msgstr ""
+"Умный биологический дрон на борту этого корабля способен уничтожать не "
+"только экипаж, но и вражеские системы."
 
 #: src-en/data/blueprints.xml.append:4213
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_BIG_3\"]/class"
-msgstr ""
+msgstr "Крейсер Орел"
 
 #: src-en/data/blueprints.xml.append:4214
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_BIG_3\"]/name"
-msgstr ""
+msgstr "Черный ястреб"
 
 #: src-en/data/blueprints.xml.append:4215
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_BIG_3\"]/desc"
 msgstr ""
+"Благодаря наличию био и умного дрона этот корабль способен уничтожить любого "
+"врага."
 
 #: src-en/data/blueprints.xml.append:4292
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_TRAN\"]/class"
-msgstr ""
+msgstr "Крейсер Альбатрос"
 
 #: src-en/data/blueprints.xml.append:4293
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_TRAN\"]/name"
-msgstr ""
+msgstr "Короткохвостый"
 
 #: src-en/data/blueprints.xml.append:4294
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_TRAN\"]/desc"
 msgstr ""
+"Имея слабую систему вооружения, этот корабль полагается на свой импульсный "
+"дрон для быстрого уничтожения противника."
 
 #: src-en/data/blueprints.xml.append:4370
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_TRAN_2\"]/class"
-msgstr ""
+msgstr "Крейсер Альбатрос"
 
 #: src-en/data/blueprints.xml.append:4371
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_TRAN_2\"]/name"
-msgstr ""
+msgstr "Белолобый"
 
 #: src-en/data/blueprints.xml.append:4372
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_TRAN_2\"]/desc"
 msgstr ""
+"Лазеры и ионы - пара, созданная на небесах, ну, на самом деле, в Центральном "
+"инженерном объекте."
 
 #: src-en/data/blueprints.xml.append:4450
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_TRAN_3\"]/class"
-msgstr ""
+msgstr "Крейсер Альбатрос"
 
 #: src-en/data/blueprints.xml.append:4451
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_TRAN_3\"]/name"
-msgstr ""
+msgstr "Царский"
 
 #: src-en/data/blueprints.xml.append:4452
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BIRD_TRAN_3\"]/desc"
 msgstr ""
+"Этот корабль полагается на разрушение щитов дроном, чтобы обрушить свое "
+"оружие на вражеский корабль."
 
 #: src-en/data/blueprints.xml.append:4529
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW4\"]/class"
-msgstr ""
+msgstr "Корабль Сойки"
 
 #: src-en/data/blueprints.xml.append:4530
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW4\"]/name"
-msgstr ""
+msgstr "Голубая Сойка"
 
 #: src-en/data/blueprints.xml.append:4531
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW4\"]/desc"
 msgstr ""
+"Хотя никто из экипажа не может получить доступ к передней части корабля, "
+"Сойка и ее дроны с легкостью поддерживают его в рабочем состоянии."
 
 #: src-en/data/blueprints.xml.append:4610
 msgid ""
@@ -2387,12 +2413,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5611
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_1\"]/title"
-msgstr ""
+msgstr "Атонинг Юнифекс"
 
 #: src-en/data/blueprints.xml.append:5612
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_1\"]/short"
-msgstr ""
+msgstr "Атонинг Юнифекс"
 
 #: src-en/data/blueprints.xml.append:5615
 msgid ""
@@ -2457,12 +2483,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5657
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_2\"]/title"
-msgstr ""
+msgstr "Асимптотическая Сущность"
 
 #: src-en/data/blueprints.xml.append:5658
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_2\"]/short"
-msgstr ""
+msgstr "Асимптотическая Сущность"
 
 #: src-en/data/blueprints.xml.append:5661
 msgid ""
@@ -2502,12 +2528,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5674
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_3\"]/title"
-msgstr "Эвпатический импульс"
+msgstr "Эвпатический Импульс"
 
 #: src-en/data/blueprints.xml.append:5675
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_3\"]/short"
-msgstr "Эвпатический импульс"
+msgstr "Эвпатический Импульс"
 
 #: src-en/data/blueprints.xml.append:5678
 msgid ""
@@ -2547,12 +2573,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5690
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_4\"]/title"
-msgstr ""
+msgstr "Гомологичный Тренд"
 
 #: src-en/data/blueprints.xml.append:5691
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_4\"]/short"
-msgstr ""
+msgstr "Гомологичный Тренд"
 
 #: src-en/data/blueprints.xml.append:5694
 msgid ""
@@ -2592,12 +2618,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5706
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_5\"]/title"
-msgstr ""
+msgstr "Ноэтический Конкорданс"
 
 #: src-en/data/blueprints.xml.append:5707
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_5\"]/short"
-msgstr ""
+msgstr "Ноэтический Конкорданс"
 
 #: src-en/data/blueprints.xml.append:5710
 msgid ""
@@ -2632,24 +2658,27 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5722
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_avali\"]/desc"
 msgstr ""
+"Пернатая раса, одержимая технологиями, прежде всего дронами. Особенно сильны "
+"при ремонте."
 
 #: src-en/data/blueprints.xml.append:5724
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_avali\"]/title"
-msgstr ""
+msgstr "Ги"
 
 #: src-en/data/blueprints.xml.append:5725
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_avali\"]/short"
-msgstr ""
+msgstr "Ги"
 
 #: src-en/data/blueprints.xml.append:5728
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_avali\"]/powerList/power[1]"
-msgstr ""
+msgstr "Автоматически ремонтирует текущую систему с 0.5х скоростью."
 
 #: src-en/data/blueprints.xml.append:5729
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_avali\"]/powerList/power[2]"
 msgstr ""
+"Скорость передвижения увеличена до 2x, если в отсеке нету вражеского экипажа"
 
 #: src-en/data/blueprints.xml.append:5779
 msgid ""
@@ -2680,10 +2709,13 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_illuminant\"]/powerList/power[3]"
 msgstr ""
+"Скорость передвижения увеличена до 2x, если в отсеке нету вражеского экипажа"
 
 #: src-en/data/blueprints.xml.append:5792
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_unique\"]/desc"
 msgstr ""
+"Главный инженер Ги, ответственный за создание мощных дронов, которые "
+"используют Авали."
 
 #: src-en/data/blueprints.xml.append:5794
 msgid ""
@@ -2719,6 +2751,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_unique\"]/powerList/power[5]"
 msgstr ""
+"Скорость передвижения увеличена до 2x, если в отсеке нету вражеского экипажа"
 
 #: src-en/data/blueprints.xml.append:5807
 msgid ""
@@ -4129,17 +4162,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8491
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD\"]/class"
-msgstr ""
+msgstr "Крейсер Бутона"
 
 #: src-en/data/blueprints.xml.append:8492
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD\"]/name"
-msgstr ""
+msgstr "Лепестки"
 
 #: src-en/data/blueprints.xml.append:8493
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD\"]/desc"
 msgstr ""
+"Хотя сам корабль не представляет собой ничего особенного, экипаж способен "
+"использовать силу своего бога, чтобы уничтожать врагов."
 
 #: src-en/data/blueprints.xml.append:8569
 msgid ""
@@ -4164,32 +4199,34 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8587
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD_2\"]/class"
-msgstr ""
+msgstr "Крейсер Бутона"
 
 #: src-en/data/blueprints.xml.append:8588
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD_2\"]/name"
-msgstr ""
+msgstr "Лозы"
 
 #: src-en/data/blueprints.xml.append:8589
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD_2\"]/desc"
 msgstr ""
+"Здешний экипаж особенно хорошо умеет расправляться с вражеской командой, "
+"похищая ее на свой корабль."
 
 #: src-en/data/blueprints.xml.append:8663
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD_3\"]/class"
-msgstr ""
+msgstr "Крейсер Бутона"
 
 #: src-en/data/blueprints.xml.append:8664
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD_3\"]/name"
-msgstr ""
+msgstr "Корни"
 
 #: src-en/data/blueprints.xml.append:8665
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD_3\"]/desc"
-msgstr ""
+msgstr "Не имея системы щитов, экипаж научился другим способам защиты корабля."
 
 #: src-en/data/blueprints.xml.append:8741
 msgid ""
@@ -4199,12 +4236,14 @@ msgstr "Крейсер Цветения"
 #: src-en/data/blueprints.xml.append:8742
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BLOOM\"]/name"
-msgstr ""
+msgstr "Листва"
 
 #: src-en/data/blueprints.xml.append:8743
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BLOOM\"]/desc"
 msgstr ""
+"Этот корабль напрямую использует силу Бутона для наложения заклинаний на "
+"вражеский корабль."
 
 #: src-en/data/blueprints.xml.append:8817
 msgid ""
@@ -4214,12 +4253,15 @@ msgstr "Крейсер Цветения"
 #: src-en/data/blueprints.xml.append:8818
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BLOOM_2\"]/name"
-msgstr ""
+msgstr "Ствол"
 
 #: src-en/data/blueprints.xml.append:8819
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BLOOM_2\"]/desc"
 msgstr ""
+"Этот корабль защищает себя с помощью опытного экипажа и прототипа "
+"генератора, который создает барьеры в отсеках каждый раз, когда вы стреляете "
+"из оружия."
 
 #: src-en/data/blueprints.xml.append:8896
 msgid ""
@@ -4244,31 +4286,31 @@ msgstr "Крейсер Цветения"
 #: src-en/data/blueprints.xml.append:8912
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BLOOM_3\"]/name"
-msgstr ""
+msgstr "Семена"
 
 #: src-en/data/blueprints.xml.append:8913
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BLOOM_3\"]/desc"
-msgstr ""
+msgstr "Мощный абордажный корабль с опасным экипажем."
 
 #: src-en/data/blueprints.xml.append:8988
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_WHALE\"]/class"
-msgstr ""
+msgstr "Космический кит"
 
 #: src-en/data/blueprints.xml.append:8989
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_WHALE\"]/name"
-msgstr ""
+msgstr "OOOoooooOOOoooOoo"
 
 #: src-en/data/blueprints.xml.append:8990
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_WHALE\"]/desc"
-msgstr ""
+msgstr "Огромный космический кит, который присоединился к Федерации."
 
 #: src-en/data/blueprints.xml.append:9063
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_AUG_WHALE\"]/title"
-msgstr ""
+msgstr "Космический кит"
 
 #: src-en/data/blueprints.xml.append:9064
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_AUG_WHALE\"]/desc"
@@ -4277,17 +4319,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9075
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW3\"]/class"
-msgstr ""
+msgstr "Корабль Крошки"
 
 #: src-en/data/blueprints.xml.append:9076
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW3\"]/name"
-msgstr ""
+msgstr "Росток"
 
 #: src-en/data/blueprints.xml.append:9077
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW3\"]/desc"
-msgstr ""
+msgstr "Большое приключение Крошки, связанное с дружбой и волшебством."
 
 #: src-en/data/blueprints.xml.append:9155
 msgid ""
@@ -5398,107 +5440,121 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10032
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GEL\"]/class"
-msgstr ""
+msgstr "Крейсер Анархии"
 
 #: src-en/data/blueprints.xml.append:10033
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GEL\"]/name"
-msgstr ""
+msgstr "Падение"
 
 #: src-en/data/blueprints.xml.append:10034
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GEL\"]/desc"
 msgstr ""
+"Этот корабль оснащен мощным артиллерийским лучом, который повреждает системы "
+"и наполняет помещения газом, контролирующим сознание."
 
 #: src-en/data/blueprints.xml.append:10110
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GEL_2\"]/class"
-msgstr ""
+msgstr "Крейсер Анархии"
 
 #: src-en/data/blueprints.xml.append:10111
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GEL_2\"]/name"
-msgstr ""
+msgstr "Поздний Капитализм"
 
 #: src-en/data/blueprints.xml.append:10112
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GEL_2\"]/desc"
 msgstr ""
+"Экипаж этого корабля использует свои способности, чтобы брать на абордаж и "
+"уничтожать врагов."
 
 #: src-en/data/blueprints.xml.append:10187
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GEL_3\"]/class"
-msgstr ""
+msgstr "Крейсер Анархии"
 
 #: src-en/data/blueprints.xml.append:10188
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GEL_3\"]/name"
-msgstr ""
+msgstr "Провидец"
 
 #: src-en/data/blueprints.xml.append:10189
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GEL_3\"]/desc"
 msgstr ""
+"Изначально построенный Анархистами-слизнями, этот корабль был захвачен "
+"Клептократией и теперь выполняет их задачи."
 
 #: src-en/data/blueprints.xml.append:10263
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GAS\"]/class"
-msgstr "Крейсер Раздор"
+msgstr "Крейсер Раздора"
 
 #: src-en/data/blueprints.xml.append:10264
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GAS\"]/name"
-msgstr ""
+msgstr "Мятеж"
 
 #: src-en/data/blueprints.xml.append:10265
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GAS\"]/desc"
 msgstr ""
+"Этот корабль защищает себя от вражеских абордажников с помощью мощного газа, "
+"который контролирует разум врагов."
 
 #: src-en/data/blueprints.xml.append:10341
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GAS_2\"]/class"
-msgstr "Крейсер Раздор"
+msgstr "Крейсер Раздора"
 
 #: src-en/data/blueprints.xml.append:10342
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GAS_2\"]/name"
-msgstr ""
+msgstr "Социалист"
 
 #: src-en/data/blueprints.xml.append:10343
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GAS_2\"]/desc"
 msgstr ""
+"Экипаж этого корабля может действовать сообща на борту вражеского корабля, "
+"чтобы быстро зачистить вражескую команду."
 
 #: src-en/data/blueprints.xml.append:10418
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GAS_3\"]/class"
-msgstr "Крейсер Раздор"
+msgstr "Крейсер Раздора"
 
 #: src-en/data/blueprints.xml.append:10419
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GAS_3\"]/name"
-msgstr ""
+msgstr "Непоследовательность"
 
 #: src-en/data/blueprints.xml.append:10420
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHLEG_GAS_3\"]/desc"
 msgstr ""
+"Этот корабль способен как уничтожить вражеский экипаж, так и полностью "
+"разрушить судно."
 
 #: src-en/data/blueprints.xml.append:10499
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW5\"]/class"
-msgstr ""
+msgstr "Корабль Скорби и Серпа"
 
 #: src-en/data/blueprints.xml.append:10500
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW5\"]/name"
-msgstr ""
+msgstr "Ируканджи"
 
 #: src-en/data/blueprints.xml.append:10501
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW5\"]/desc"
 msgstr ""
+"Вместе Серп и Скорбь невероятно эффективны против врагов, уязвимых к газу, "
+"но могут не справиться с теми, кто невосприимчив к нему."
 
 #: src-en/data/blueprints.xml.append:10576
 msgid ""
@@ -5645,47 +5701,50 @@ msgstr "Наносит 0.8х урона в бою с экипажем"
 #: src-en/data/blueprints.xml.append:10743
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE\"]/class"
-msgstr ""
+msgstr "Крейсер Ломатель Осколков"
 
 #: src-en/data/blueprints.xml.append:10744
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE\"]/name"
-msgstr ""
+msgstr "Осколок Рассвета"
 
 #: src-en/data/blueprints.xml.append:10745
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE\"]/desc"
-msgstr ""
+msgstr "Этот корабль совершенно лишен какого-либо описания!"
 
 #: src-en/data/blueprints.xml.append:10821
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_SCOUT\"]/class"
-msgstr ""
+msgstr "Крейсер Призыватель Осколков"
 
 #: src-en/data/blueprints.xml.append:10822
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_SCOUT\"]/name"
-msgstr ""
+msgstr "Осколоносец"
 
 #: src-en/data/blueprints.xml.append:10823
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_SCOUT\"]/desc"
-msgstr ""
+msgstr "Этот корабль совершенно лишен какого-либо описания!"
 
 #: src-en/data/blueprints.xml.append:10901
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE\"]/class"
-msgstr ""
+msgstr "Мятежный Броадсайд"
 
 #: src-en/data/blueprints.xml.append:10902
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE\"]/name"
-msgstr ""
+msgstr "Броадсайд"
 
 #: src-en/data/blueprints.xml.append:10903
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE\"]/desc"
 msgstr ""
+"Мощный корабль, созданный на основе широкоугольной артиллерии. "
+"Артиллерийская система корабля модульная, что позволяет использовать "
+"несколько различных комбинаций артиллерии."
 
 #: src-en/data/blueprints.xml.append:10987
 msgid ""
@@ -5838,17 +5897,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11225
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE_2\"]/class"
-msgstr ""
+msgstr "Мятежный Броадсайд"
 
 #: src-en/data/blueprints.xml.append:11226
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE_2\"]/name"
-msgstr ""
+msgstr "Боковая Панель"
 
 #: src-en/data/blueprints.xml.append:11227
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE_2\"]/desc"
 msgstr ""
+"Мощный корабль, созданный на основе широкоугольной артиллерии. "
+"Артиллерийская система корабля модульная, что позволяет использовать "
+"несколько различных комбинаций артиллерии."
 
 #: src-en/data/blueprints.xml.append:11304
 msgid ""
@@ -5963,14 +6025,16 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11529
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_LANIUS_BATTLE\"]/class"
-msgstr ""
+msgstr "Боевой крейсер ланиусов"
 
 #: src-en/data/blueprints.xml.append:11530
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_LANIUS_BATTLE\"]/name"
-msgstr ""
+msgstr "Сорока"
 
 #: src-en/data/blueprints.xml.append:11531
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_LANIUS_BATTLE\"]/desc"
 msgstr ""
+"Этот корабль разрезает противника мощным адаптивным точечным лучом, который "
+"усиливает лучи по мере создания цепей."
