@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-02-17 13:46+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Null <dim122050@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_birdxml/ru/>\n"
 "Language: ru\n"
@@ -1172,7 +1172,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:906
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_SPIN\"]/choice[1]/text"
-msgstr ""
+msgstr "Войти в червоточину."
 
 #: src-en/data/events_sector_aea_bird.xml:910
 msgid ""
@@ -1183,6 +1183,9 @@ msgstr "Струсить."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_LIST_PLAYER\"]/loadEventList/event[2]/text"
 msgstr ""
+"Вы входите в червоточину, но ещё до того как вылететь оттуда слышен "
+"отчётливый хруст, корпус твоего корабля оказался поврежден. Ты проиграл, "
+"капитан Gi заметил это и теперь ждет выжидающие ждет."
 
 #: src-en/data/events_sector_aea_bird.xml:923
 msgid ""
