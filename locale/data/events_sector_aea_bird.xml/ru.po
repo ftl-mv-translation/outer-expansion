@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-02-17 13:24+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Null <dim122050@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_birdxml/ru/>\n"
 "Language: ru\n"
@@ -1045,7 +1045,7 @@ msgstr "Вы отдаете лом, но капитан Ги предлагае�
 #: src-en/data/events_sector_aea_bird.xml:825
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_LOSE\"]/choice[1]/text"
-msgstr ""
+msgstr "Сыграть снова."
 
 #: src-en/data/events_sector_aea_bird.xml:831
 msgid ""
@@ -1056,6 +1056,8 @@ msgstr "Уйти."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_LOSE\"]/choice[2]/event/text"
 msgstr ""
+"Корабль Gi ждет несколько мгновений, а после совершает прыжок оставляя вас у "
+"маяка в одиночестве."
 
 #: src-en/data/events_sector_aea_bird.xml:840
 msgid ""
