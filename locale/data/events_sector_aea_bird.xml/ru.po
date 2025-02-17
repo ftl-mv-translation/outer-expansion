@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-02-18 12:10+0000\n"
-"Last-Translator: Null <dim122050@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_birdxml/ru/>\n"
 "Language: ru\n"
@@ -1367,7 +1367,7 @@ msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
 "Вам удается вернуть всех членов колонии живыми, они невероятно благодарны и "
-"награждают вас большим количеством лома и боевым дроном из своего магазина."
+"награждают вас большим количеством лома и боевым дроном из своих складов."
 
 #: src-en/data/events_sector_aea_bird.xml:1050
 msgid ""
@@ -1538,9 +1538,9 @@ msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[@req=\"aea_bird_medicine\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
-"После передачи лекарства медицинский персонал колонии немедленно приступает "
-"к его распределению. Жители колонии весьма признательны за вашу помощь и "
-"передают в награду большое количество лома а также дрон со своих складов."
+"После передачи лекарства, медицинский персонал колонии немедленно приступает "
+"к работе. Жители колонии весьма признательны за вашу помощь и передают в "
+"награду большое количество лома, а также дрон со своих складов."
 
 #: src-en/data/events_sector_aea_bird.xml:1194
 msgid ""
@@ -2137,7 +2137,7 @@ msgstr "Добро пожаловать на борт!"
 #: src-en/data/events_sector_aea_bird.xml:1746
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[1]/event/crewMember"
-msgstr ""
+msgstr "Сойка"
 
 #: src-en/data/events_sector_aea_bird.xml:1750
 msgid ""
