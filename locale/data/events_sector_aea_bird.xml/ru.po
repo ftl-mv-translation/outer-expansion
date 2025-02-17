@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 12:27+0000\n"
+"PO-Revision-Date: 2025-02-17 12:28+0000\n"
 "Last-Translator: Null <dim122050@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_birdxml/ru/>\n"
@@ -634,12 +634,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:536
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Предоставить лом."
 
 #: src-en/data/events_sector_aea_bird.xml:538
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Вы загружаете лом в изготовитель и тот с легким жужжанием начинает "
+"превращать его в полезные припасы."
 
 #: src-en/data/events_sector_aea_bird.xml:543
 msgid ""
@@ -649,7 +651,7 @@ msgstr "Продолжить."
 #: src-en/data/events_sector_aea_bird.xml:545
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "Машина выплевывает изготовленные припасы."
 
 #: src-en/data/events_sector_aea_bird.xml:552
 msgid ""
