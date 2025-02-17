@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 14:59+0000\n"
+"PO-Revision-Date: 2025-02-17 15:00+0000\n"
 "Last-Translator: Null <dim122050@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_birdxml/ru/>\n"
@@ -1456,12 +1456,22 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1128
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[1]/text"
-msgstr ""
+msgstr "Пристыковаться и попробовать связаться с экипажем."
 
 #: src-en/data/events_sector_aea_bird.xml:1130
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[1]/event/text"
 msgstr ""
+"К вам тут же подбегает экипаж Ги. \"Быстрее, нам нужно срочно доставить это "
+"лекарство в колонию, на кону спасение множества жизней.\" Похоже что "
+"спрашивать ваше согласие никто не собирается, они уже начали погрузку своего "
+"груза на борт. Времени на погрузку экипажа нет доставка лекарства "
+"первостепенная задача, поэтому большая часть Ги решает дождаться другого "
+"судна которое сможет их забрать, кроме одного который собирается лететь с "
+"вами чтоб передать лекарство по адресу.\n"
+"\n"
+"Он сообщает что срок годности лекарства стремительно истекает, и вам нужно "
+"поторопится чтоб доставить его до того как оно испортиться."
 
 #: src-en/data/events_sector_aea_bird.xml:1137
 msgid ""
