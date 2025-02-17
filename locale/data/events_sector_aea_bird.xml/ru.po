@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-17 13:56+0000\n"
+"PO-Revision-Date: 2025-02-17 13:58+0000\n"
 "Last-Translator: Null <dim122050@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_birdxml/ru/>\n"
@@ -1274,12 +1274,19 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1011
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Продолжить исследовать колонию."
 
 #: src-en/data/events_sector_aea_bird.xml:1013
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"В конце концов вам удается найти члена колонии спрятавшегося в запертой "
+"комнате. После того как вы заверили его в безопасности он выходит. \"Думаю "
+"вам интересно что произошло здесь, мне жаль но я почти ничего не могу "
+"рассказать. Обычно я просто сплю в этой комнате взаперти, но сегодня я "
+"проснулся от того что кто то колотил в дверь, я испугался и оставил её "
+"закрытой. Я так и не понял что произошло, просто решил дистанционно "
+"запустить аварийный маяк оставаясь тут.\""
 
 #: src-en/data/events_sector_aea_bird.xml:1015
 msgid ""
