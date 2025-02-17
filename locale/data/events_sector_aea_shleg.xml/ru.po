@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-17 14:55+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_sector_aea_shlegxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_sector_aea_shleg.xml:29
 msgid ""
@@ -561,7 +569,7 @@ msgstr "Потребовать, чтобы они предоставили ва�
 #: src-en/data/events_sector_aea_shleg.xml:485
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_HIDDEN_COLONY\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на колонию."
 
 #: src-en/data/events_sector_aea_shleg.xml:491
 msgid ""
