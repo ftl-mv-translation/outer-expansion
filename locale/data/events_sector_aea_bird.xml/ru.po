@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-02-17 13:56+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Null <dim122050@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_birdxml/ru/>\n"
 "Language: ru\n"
@@ -1262,12 +1262,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1006
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/text"
-msgstr ""
+msgstr "Спустится на поверхность."
 
 #: src-en/data/events_sector_aea_bird.xml:1009
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/text"
 msgstr ""
+"Приземлившись вы обнаруживаете колонию полностью заброшенной, однако никаких "
+"следов битвы или чего либо ещё найти не удаётся."
 
 #: src-en/data/events_sector_aea_bird.xml:1011
 msgid ""
