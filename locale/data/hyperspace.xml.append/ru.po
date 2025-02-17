@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 19:41+0000\n"
+"PO-Revision-Date: 2025-02-18 12:10+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datahyperspace-xml-append/ru/>\n"
@@ -18,66 +18,104 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[2]/mod:findLike[1]/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
+"СИСТЕМА КИСЛОТНОЙ ФИЛЬТРАЦИИ:\n"
+"Кислородная система на этом корабле будет лечить всех членов экипажа и "
+"тушить пожары, но не обеспечивать кислородом."
 
 #: src-en/data/hyperspace.xml.append:22
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[2]/mod:findLike[1]/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
+"СЛАБАЯ КИСЛОТНАЯ СИСТЕМА ФИЛЬТРАЦИИ:\n"
+"Кислородная система обеспечит медленный лечебный эффект для всего экипажа."
 
 #: src-en/data/hyperspace.xml.append:27
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[2]/mod:findLike[1]/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
+"Импульсный ремонт Еретиков:\n"
+"Вражеский корабль восстанавливает 2 урона системы один раз за 5 ОЗ."
 
 #: src-en/data/hyperspace.xml.append:32
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[2]/mod:findLike[1]/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
+"Слабый импульсный ремонт Еретиков:\n"
+"Вражеский корабль восстанавливает 1 урона системы один раз за 5 ОЗ."
 
 #: src-en/data/hyperspace.xml.append:37
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[2]/mod:findLike[1]/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
+"Бронированные отсеки:\n"
+"Бронированные отсеки на вражеском корабле защищают его от летящих снарядов, "
+"таких как лазеры и ракеты.\n"
+"Броня поглощает 1 урон от попадающих в нее снарядов."
 
 #: src-en/data/hyperspace.xml.append:43
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[2]/mod:findLike[1]/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
+"Предсказуемое наведение:\n"
+"Вражеский корабль будет получать попадания под углом 60 градусов, пока "
+"уклонение выше 5%.\n"
+"Благодаря этому лазеры и ракеты с большей вероятностью попадут в броню "
+"корабля."
 
 #: src-en/data/hyperspace.xml.append:49
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[2]/mod:findLike[1]/mod-"
 "append:shipIcon[7]/tooltip"
 msgstr ""
+"Слабое предсказуемое наведение:\n"
+"Вражеский корабль будет получать попадания под углом 60 градусов, пока "
+"уклонение выше 10%.\n"
+"Благодаря этому лазеры и ракеты с большей вероятностью попадут в броню "
+"корабля."
 
 #: src-en/data/hyperspace.xml.append:55
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[2]/mod:findLike[1]/mod-"
 "append:shipIcon[8]/tooltip"
 msgstr ""
+"ТАИНСТВЕННЫЙ ЩИТ:\n"
+"Этот противник защищен более сильным, чем обычно, Энергетическим щитом."
 
 #: src-en/data/hyperspace.xml.append:60
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[2]/mod:findLike[1]/mod-"
 "append:shipIcon[9]/tooltip"
 msgstr ""
+"ТАИНСТВЕННЫЙ ЩИТ:\n"
+"Этот враг защищен Энергетическим щитом."
 
 #: src-en/data/hyperspace.xml.append:65
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[2]/mod:findLike[1]/mod-"
 "append:shipIcon[10]/tooltip"
 msgstr ""
+"ИНКУБАЦИОННЫЙ ГАЗ:\n"
+"Вражеский корабль наполнен смертоносным нейротоксином, который будет "
+"накапливаться в ваших членах экипажа и в конечном брать их разум под "
+"контроль в течение короткого периода времени, и наносить пассивный урон "
+"вашему экипажу со скоростью 3 ОЗ/с.\n"
+"Дроны, ракушки, вампсорняки, призраки и ланиусы невосприимчивы к газу."
 
 #: src-en/data/hyperspace.xml.append:71
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[2]/mod:findLike[1]/mod-"
 "append:shipIcon[11]/tooltip"
 msgstr ""
+"РЕМОНТНЫЙ ГЕЛЬ РАКУШЕК-СЛИЗНЕЙ:\n"
+"Пробоины на этом корабле будут автоматически заделываться даже при "
+"отсутствии экипажа. Также дает дружественному экипажу 3 ОЗ/с исцеления и "
+"истощает вражеский экипаж на 3 ОЗ/с в пустых отсеках.\n"
+"Дроны, ракушки, вампсорянки, призраки и ланиусы невосприимчивы к этому."
 
 #: src-en/data/hyperspace.xml.append:461
 msgid ""
@@ -186,13 +224,13 @@ msgstr "Сильван"
 msgid ""
 "data/hyperspace.xml.append$//aea_old_unique_1[@name=\"Atoning "
 "Unifex\"]/@name"
-msgstr ""
+msgstr "Атонинг Юнифекс"
 
 #: src-en/data/hyperspace.xml.append:1315
 msgid ""
 "data/hyperspace.xml.append$//aea_old_unique_2[@name=\"Asymptotic "
 "Essence\"]/@name"
-msgstr ""
+msgstr "Асимптотическая Сущность"
 
 #: src-en/data/hyperspace.xml.append:1316
 msgid ""
@@ -205,19 +243,19 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//aea_old_unique_3[@name=\"Eupathic "
 "Impulse\"]/@name"
-msgstr "Эвпатический импульс"
+msgstr "Эвпатический Импульс"
 
 #: src-en/data/hyperspace.xml.append:1348
 msgid ""
 "data/hyperspace.xml.append$//aea_old_unique_4[@name=\"Homologous "
 "Trend\"]/@name"
-msgstr ""
+msgstr "Гомологичный Тренд"
 
 #: src-en/data/hyperspace.xml.append:1365
 msgid ""
 "data/hyperspace.xml.append$//aea_old_unique_5[@name=\"Noetic "
 "Concordance\"]/@name"
-msgstr ""
+msgstr "Ноэтический Конкорданс"
 
 #: src-en/data/hyperspace.xml.append:2684
 msgid "data/hyperspace.xml.append$//unique_leah[@name=\"Leah\"]/@name"
