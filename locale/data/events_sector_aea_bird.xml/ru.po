@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-02-17 15:04+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Null <dim122050@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_birdxml/ru/>\n"
 "Language: ru\n"
@@ -1531,13 +1531,16 @@ msgstr "Вы прибыли в колонию, будем надеяться, ч
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[@req=\"aea_bird_medicine\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Передать лекарство."
 
 #: src-en/data/events_sector_aea_bird.xml:1187
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[@req=\"aea_bird_medicine\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"После передачи лекарства медицинский персонал колонии немедленно приступает "
+"к его распределению. Жители колонии весьма признательны за вашу помощь и "
+"передают в награду большое количество лома а также дрон со своих складов."
 
 #: src-en/data/events_sector_aea_bird.xml:1194
 msgid ""
