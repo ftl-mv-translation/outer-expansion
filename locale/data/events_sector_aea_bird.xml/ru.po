@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 12:14+0000\n"
+"PO-Revision-Date: 2025-02-18 12:16+0000\n"
 "Last-Translator: Null <dim122050@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_birdxml/ru/>\n"
@@ -1621,12 +1621,19 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1280
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_SURRENDER\"]/choice[1]/text"
-msgstr ""
+msgstr "Принять предложение."
 
 #: src-en/data/events_sector_aea_bird.xml:1282
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_SURRENDER\"]/choice[1]/event/text"
 msgstr ""
+"Вы деактивируете свое оружие и они присылают шаттл. Он стыкуется с вашим "
+"кораблем, но прежде чем вы успеваете его открыть происходит взрыв "
+"разрывающий корпус. Этот шаттл был заполнен взрывчаткой, и ты попался в "
+"ловушку.\n"
+"\n"
+"Каким то образом ты проглядел тот факт что этот корабль федерации был "
+"заполнен повстанцами."
 
 #: src-en/data/events_sector_aea_bird.xml:1290
 msgid ""
