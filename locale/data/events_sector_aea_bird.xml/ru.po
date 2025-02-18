@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-02-18 13:02+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Null <dim122050@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_birdxml/ru/>\n"
 "Language: ru\n"
@@ -2135,12 +2135,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1632
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[3]/choice/text"
-msgstr ""
+msgstr "Покинуть музей."
 
 #: src-en/data/events_sector_aea_bird.xml:1637
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[4]/text"
 msgstr ""
+"После завершения теста вы получаете свой результат\n"
+"РЕЗУЛЬТАТ: 0/4 (ПРОВАЛ)\n"
+"К сожалению но ты вообще не смог ответить ни на один вопрос."
 
 #: src-en/data/events_sector_aea_bird.xml:1641
 msgid ""
