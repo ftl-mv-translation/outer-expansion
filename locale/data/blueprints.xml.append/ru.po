@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 12:38+0000\n"
+"PO-Revision-Date: 2025-02-19 17:13+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datablueprintsxmlappend/ru/>\n"
@@ -1068,8 +1068,8 @@ msgstr "Статуя"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_OLD_ARMOUR_2\"]/desc"
 msgstr ""
-"Когда корабль обелисков попал в пространство Лилмика, им удалось захватить "
-"крейсер Лилмика и сбежать с его помощью."
+"Когда корабль обелисков попал в пространство Лилмиков, им удалось захватить "
+"крейсер Лилмиков и сбежать с его помощью."
 
 #: src-en/data/blueprints.xml.append:2772
 msgid ""
@@ -4013,6 +4013,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_08\"]/desc"
 msgstr ""
+"Накладывает заклинание, которое пробивает все щиты в выбранном отсеке и "
+"переносит весь экипаж в этом отсеке в случайный отсек на противоположном "
+"корабле\n"
+"\tЗадержка накладывания: 8 секунд\n"
+"\tВремя зарядки: 20 секунд"
 
 #: src-en/data/blueprints.xml.append:8314
 msgid ""
