@@ -1,0 +1,9 @@
+<FTL>
+
+
+<mod:findLike type="nameList">
+    <mod:selector sex="male"/>
+	<mod-append:name>Арк</mod-append:name>
+	<mod-append:name>Лиззард</mod-append:name>
+</mod:findLike>
+</FTL>
