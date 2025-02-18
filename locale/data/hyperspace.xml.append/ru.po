@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 14:11+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-02-19 17:13+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -807,6 +807,13 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_slug\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 50с  ДЛИТЕЛЬНОСТЬ: 10с]\n"
+"\t\t\t\tРазмещает Токсиновую бомбу, которая действует 30 секунд, вражеский "
+"экипаж в отсеке будет накапливать статусный эффект со скоростью 5 ОЗ/с.\n"
+"\t\t\t\tСтатусный эффект будет контролировать разум вражеского экипажа, как "
+"только накопление достигнет их текущего здоровья.\n"
+"\t\t\t\tВременно маскируется и прекращает двигаться и атаковать на 10 "
+"секунд, скрываясь от вражеского экипажа и исцеляясь со скоростью 2 ОЗ/с."
 
 #: src-en/data/hyperspace.xml.append:4097
 msgid ""
@@ -819,6 +826,13 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_sickle\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 40с  ДЛИТЕЛЬНОСТЬ: 10с]\n"
+"Размещает Токсиновую бомбу, которая действует 1 минуту, вражеский экипаж в "
+"отсеке будет накапливать статусный эффект со скоростью 10 ОЗ/с.\n"
+"Статусный эффект будет контролировать разум вражеского экипажа, когда "
+"накопление достигнет текущего уровня здоровья.\n"
+"Временно маскируется со снижением урона и скорости передвижения вдвое, "
+"прячется от вражеского экипажа."
 
 #: src-en/data/hyperspace.xml.append:4160
 msgid ""
@@ -831,162 +845,242 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_sorrow\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 15с  ДЛИТЕЛЬНОСТЬ: 10с  -60 ОЗ]\n"
+"Убивает всех вражеских членов экипажа в отсеке, которые находятся под "
+"контролем разума. Наносит 30 ед. урона другим членам экипажа. Регенерирует "
+"60 ОЗ."
 
 #: src-en/data/hyperspace.xml.append:4208
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Заклинание"
 
 #: src-en/data/hyperspace.xml.append:4209
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Накладывает заклинание в текущем отсеке, которое ничего не делает.\n"
+"\tДлительность накладывания: 5с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон"
 
 #: src-en/data/hyperspace.xml.append:4249
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a01\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Защита"
 
 #: src-en/data/hyperspace.xml.append:4250
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a01\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Накладывает заклинание, которое защищает текущий отсек от урона корпуса и "
+"систем на 10 секунд.\n"
+"\tДлительность накладывания: 1с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:4289
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a02\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Маяк"
 
 #: src-en/data/hyperspace.xml.append:4290
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a02\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Накладывает заклинание, которое перенацеливает все вражеские снаряды на "
+"экране на текущий отсек.\n"
+"\tДлительность накладывания: 1с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:4329
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s03\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Био-болт"
 
 #: src-en/data/hyperspace.xml.append:4330
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s03\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Накладывает заклинание, которое пробивает все обычные щиты в выбранном "
+"отсеке, нанося 45 единиц урона экипажу.\n"
+"\tДлительность накладывания: 3с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:4369
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s04\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Болт"
 
 #: src-en/data/hyperspace.xml.append:4370
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s04\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Накладывает заклинание, которое пробивает все обычные щиты в выбранном "
+"отсеке, нанося 1 ед. урона.\n"
+"\tДлительность накладывания: 8с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:4409
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s05\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Импульсный болт"
 
 #: src-en/data/hyperspace.xml.append:4410
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s05\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Накладывает 3 заклинания, которые пробивают все обычные щиты в выбранном "
+"отсеке, нанося 1 ед. урона.\n"
+"\tДлительность накладывания: 20с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:4449
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s06\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Противокорпусный болт"
 
 #: src-en/data/hyperspace.xml.append:4450
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s06\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Накладывает заклинание, которое пробивает все обычные щиты в выбранном "
+"отсеке, нанося 3 повреждения корпусу, но не нанося урону системе и экипажу.\n"
+"\tДлительность накладывания: 10с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:4489
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a07\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Варп"
 
 #: src-en/data/hyperspace.xml.append:4490
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a07\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Накладывает заклинание в текущем отсеке, которое перемещает весь экипаж в "
+"текущем отсеке в случайный отсек на противоположном корабле.\n"
+"\tДлительность накладывания: 6с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:4528
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s08\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Варп-болт"
 
 #: src-en/data/hyperspace.xml.append:4529
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s08\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Накладывает заклинание, которое пробивает все щиты в выбранном отсеке и "
+"переносит весь экипаж в этом отсеке в случайный отсек на противоположном "
+"корабле\n"
+"\tДлительность накладывания: 8с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:4567
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s09\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Исцеляющий болт"
 
 #: src-en/data/hyperspace.xml.append:4568
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s09\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Накладывает заклинание, пробивающее все щиты в выбранном отсеке и исцеляющее "
+"весь дружественный экипаж на 75 ОЗ.\n"
+"\tДлительность накладывания: 2с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:4609
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a10\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Исцеляющая аура"
 
 #: src-en/data/hyperspace.xml.append:4610
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a10\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Накладывает заклинание в текущем отсеке, которое исцеляет весь дружественных "
+"экипажей в отсеке на 45 ОЗ.\n"
+"\tДлительность накладывания: 5с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:4648
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a11\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Дрон"
 
 #: src-en/data/hyperspace.xml.append:4649
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a11\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Порождает Консервативный боевой дрон вокруг вражеского корабля\n"
+"\tДлительность накладывания: 10с\n"
+"\tБудет прервано во время каста, если экипаж получит урон или переместится"
 
 #: src-en/data/hyperspace.xml.append:4688
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s12\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Барьер"
 
 #: src-en/data/hyperspace.xml.append:4689
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s12\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, "
+"которое порождает барьер, способный блокировать 2 снаряда, одновременно "
+"могут быть активны не более 8.\n"
+"\tДлительность накладывания: 2с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:4728
 msgid ""
@@ -999,54 +1093,84 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s13\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, на "
+"который наложен эффект запирания\n"
+"\tДлительность накладывания: 4с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:4768
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s14\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Союзник"
 
 #: src-en/data/hyperspace.xml.append:4769
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s14\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, в "
+"котором появляется случайный союзник.\n"
+"\tДлительность накладывания: 7с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:4808
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s15\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Болт разума"
 
 #: src-en/data/hyperspace.xml.append:4809
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s15\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, "
+"которое контролирует разум противника в течение 20 секунд\n"
+"\tДлительность накладывания: 8с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:4848
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_sup\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Поддержка"
 
 #: src-en/data/hyperspace.xml.append:4849
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_sup\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 13с]\n"
+"Накладывает случайное заклинание поддержки, которое пробивает все обычные "
+"щиты в выбранном отсеке\n"
+"\tДлительность накладывания: 1с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:4886
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_off\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Нападение"
 
 #: src-en/data/hyperspace.xml.append:4887
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_off\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает случайное атакующее заклинание, которое пробивает все обычные "
+"щиты в выбранном отсеке\n"
+"\tДлительность накладывания: 4с\n"
+"\tБудет прервано во время произнесения, если экипаж получит урон или "
+"переместится"
 
 #: src-en/data/hyperspace.xml.append:4924
 msgid ""
@@ -1059,162 +1183,244 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_bor\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 12с]\n"
+"Накладывает случайное заклинание поддержки при абордаже, которое пробивает "
+"все обычные щиты в выбранном отсеке\n"
+"\tДлительность накладывания: 2с\n"
+"\tБудет прервано во время произнесения, если экипаж получит урон или "
+"переместится"
 
 #: src-en/data/hyperspace.xml.append:5015
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Заклинание"
 
 #: src-en/data/hyperspace.xml.append:5016
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает заклинание в текущем отсеке, которое ничего не делает.\n"
+"\tДлительность накладывания: 2.5с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон"
 
 #: src-en/data/hyperspace.xml.append:5058
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a01\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Защита"
 
 #: src-en/data/hyperspace.xml.append:5059
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a01\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает заклинание, которое защищает текущую комнату от повреждений "
+"корпуса и системы на 10 секунд.\n"
+"\tДлительность накладывания: 1с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:5098
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a02\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Маяк"
 
 #: src-en/data/hyperspace.xml.append:5099
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a02\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает заклинание, которое перенацеливает все вражеские снаряды на "
+"экране на выбранный отсек.\n"
+"\tДлительность накладывания: 1с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:5138
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s03\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Био-болт"
 
 #: src-en/data/hyperspace.xml.append:5139
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s03\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке и "
+"наносящее 45 единиц урона экипажу.\n"
+"\tДлительность накладывания: 3с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:5178
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s04\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Болт"
 
 #: src-en/data/hyperspace.xml.append:5179
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s04\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает заклинание, которое пробивает все обычные щиты в выбранном "
+"отсеке, нанося 1 урон\n"
+"\tДлительность накладывания: 8с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:5218
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s05\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Импульсный болт"
 
 #: src-en/data/hyperspace.xml.append:5219
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s05\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает 3 заклинания, которые пробивают все обычные щиты в выбранном "
+"отсеке, нанося 1 урон\n"
+"\tДлительность накладывания: 20с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:5258
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s06\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Противокорпусный болт"
 
 #: src-en/data/hyperspace.xml.append:5259
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s06\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает заклинание, которое пробивает все обычные щиты в выбранном "
+"отсеке, нанося 3 урона корпусу, но не повреждая систему и экипаж.\n"
+"\tДлительность накладывания: 10с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:5298
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a07\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Варп"
 
 #: src-en/data/hyperspace.xml.append:5299
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a07\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает заклинание в текущем отсеке, которое перемещает весь экипаж в "
+"текущем отсеке в случайный отсек на противоположном корабле.\n"
+"\tДлительность накладывания: 6с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:5338
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s08\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Варп-болт"
 
 #: src-en/data/hyperspace.xml.append:5339
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s08\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает заклинание, которое пробивает все щиты в выбранном отсеке и "
+"переносит весь экипаж в этом отсеке в случайный отсек на противоположном "
+"корабле\n"
+"\tДлительность накладывания: 8с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:5378
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s09\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Исцеляющий болт"
 
 #: src-en/data/hyperspace.xml.append:5379
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s09\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает заклинание, пробивающее все щиты в выбранном отсеке и исцеляющее "
+"весь дружественный экипаж на 75 ОЗ.\n"
+"\tДлительность накладывания: 2с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:5420
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a10\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Исцеляющая аура"
 
 #: src-en/data/hyperspace.xml.append:5421
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a10\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает заклинание в текущем отсеке, которое исцеляет весь дружественный "
+"экипаж в отсеке на 45 ОЗ\n"
+"\tДлительность накладывания: 5с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:5460
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a11\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Дрон"
 
 #: src-en/data/hyperspace.xml.append:5461
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a11\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Порождает Консервативный боевой дрон вокруг вражеского корабля\n"
+"\tДлительность накладывания: 10с\n"
+"\tБудет прервано во время каста, если экипаж получит урон или переместится"
 
 #: src-en/data/hyperspace.xml.append:5500
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s12\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Барьер"
 
 #: src-en/data/hyperspace.xml.append:5501
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s12\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, "
+"которое порождает барьер, способный блокировать 2 снаряда, одновременно "
+"могут быть активны не более 8.\n"
+"\tДлительность накладывания: 2с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:5540
 msgid ""
@@ -1227,78 +1433,111 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s13\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, на "
+"который наложен эффект запирания\n"
+"\tДлительность накладывания: 4с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:5580
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s14\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Союзник"
 
 #: src-en/data/hyperspace.xml.append:5581
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s14\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, в "
+"котором появляется случайный союзник.\n"
+"\tДлительность накладывания: 7с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:5620
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s15\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Болт разума"
 
 #: src-en/data/hyperspace.xml.append:5621
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s15\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 10с]\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, "
+"которое контролирует разум противника в течение 20 секунд\n"
+"\tДлительность накладывания: 8с\n"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
+"или переместится"
 
 #: src-en/data/hyperspace.xml.append:5677
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_breaker\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАСПАД"
 
 #: src-en/data/hyperspace.xml.append:5678
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_breaker\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 38с  -25 ОЗ]\n"
+"\t\t\t\tЗапирает занятый отсек на 12 секунд, не позволяя экипажу "
+"перемещаться в нем.\n"
+"\t\t\t\tВражеский экипаж в отсеке получает 5 ОЗ/с урона.\n"
+"\t\t\t\tВ течение этого времени нельзя атаковать вражеский экипаж."
 
 #: src-en/data/hyperspace.xml.append:5750
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_smasher\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАСПАД"
 
 #: src-en/data/hyperspace.xml.append:5751
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_smasher\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 38с  -7ОЗ]\n"
+"\t\t\t\tЗапирает занятый отсек на 12 секунд, не позволяя экипажу "
+"перемещаться в нем.\n"
+"\t\t\t\tВражеский экипаж в отсеке получает 5 ОЗ/с урона.\n"
+"\t\t\t\tВ течение этого времени нельзя атаковать вражеский экипаж."
 
 #: src-en/data/hyperspace.xml.append:5823
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_dawn\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАСПАД"
 
 #: src-en/data/hyperspace.xml.append:5824
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_dawn\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 38с  -7ОЗ]\n"
+"\t\t\t\tЗапирает занятый отсек на 12 секунд, не позволяя экипажу "
+"перемещаться в нем.\n"
+"\t\t\t\tВражеский экипаж в отсеке получает 5 ОЗ/с урона.\n"
+"\t\t\t\tВ течение этого времени нельзя атаковать вражеский экипаж."
 
 #: src-en/data/hyperspace.xml.append:7274
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[5]/mod-"
 "append:aea_old_win/name"
-msgstr ""
+msgstr "\\1Конец карантина"
 
 #: src-en/data/hyperspace.xml.append:7275
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[5]/mod-"
 "append:aea_old_win/description"
-msgstr ""
+msgstr "Побег из карантина Лилмиков на борту любого корабля \\1"
 
 #: src-en/data/hyperspace.xml.append:7277
 msgid ""
@@ -1310,7 +1549,7 @@ msgstr "\\1 ????? концовка"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[5]/mod-"
 "append:aea_old_win/secretDescription"
-msgstr ""
+msgstr "Вырвитесь из лап могущественной расы на борту любого типа \\1"
 
 #: src-en/data/hyperspace.xml.append:7498
 msgid ""
@@ -1345,12 +1584,12 @@ msgstr "ДОПОЛНИТЕЛЬНЫЕ СИСТЕМЫ"
 #: src-en/data/hyperspace.xml.append:7700
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[1]/customTitle"
-msgstr ""
+msgstr "РАСПРОДАЖА [СКИДКА 25%]"
 
 #: src-en/data/hyperspace.xml.append:7715
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[2]/customTitle"
-msgstr ""
+msgstr "РАСПРОДАЖА [СКИДКА 25%]"
 
 #: src-en/data/hyperspace.xml.append:7730
 msgid ""
@@ -1365,17 +1604,17 @@ msgstr "ДОПОЛНИТЕЛЬНЫЕ СИСТЕМЫ"
 #: src-en/data/hyperspace.xml.append:7781
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ЗАКЛИНАНИЯ"
 
 #: src-en/data/hyperspace.xml.append:7800
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ЗАКЛИНАНИЯ"
 
 #: src-en/data/hyperspace.xml.append:7819
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[3]/customTitle"
-msgstr ""
+msgstr "КУЛЬТ ВОЛШЕБНИКОВ"
 
 #: src-en/data/hyperspace.xml.append:7852
 msgid ""
@@ -1395,9 +1634,9 @@ msgstr "ДОПОЛНИТЕЛЬНЫЕ СИСТЕМЫ"
 #: src-en/data/hyperspace.xml.append:7904
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_COMMUNION\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ЗАКЛИНАНИЯ"
 
 #: src-en/data/hyperspace.xml.append:7923
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_COMMUNION\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ЗАКЛИНАНИЯ"
