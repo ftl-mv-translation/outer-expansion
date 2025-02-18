@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-02-18 12:38+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Null <dim122050@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_birdxml/ru/>\n"
 "Language: ru\n"
@@ -1793,12 +1793,20 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1398
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Отправится к следующему экспонату."
 
 #: src-en/data/events_sector_aea_bird.xml:1400
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Следующий экспонат посвящен Burst Drone.\n"
+"\"Burst Drone был ещё одной из первых разработок данного объекта. Этот дрон "
+"был создан по новой технологии адаптивного источника энергии, который мог "
+"весьма значительно увеличить мощность орудия, однако поскольку эта "
+"технология на тот момент была ещё не доработана до совершенства ценой "
+"увеличения мощности орудий стало падение скорости самого дрона. Тем не менее "
+"сама технология все ещё оставалась весьма энергоэффективной и в будущем эта "
+"конструкция реактора послужила основой для дальнейших разработок.\""
 
 #: src-en/data/events_sector_aea_bird.xml:1403
 msgid ""
