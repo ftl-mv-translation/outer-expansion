@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-19 17:13+0000\n"
+"PO-Revision-Date: 2025-02-20 18:13+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_old_2xml/ru/>\n"
@@ -1349,7 +1349,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:1016
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[7]/text"
-msgstr ""
+msgstr "Посетить магазин \"Салат-латук\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:1018
 msgid ""
@@ -1367,7 +1367,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:1027
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[8]/text"
-msgstr ""
+msgstr "Посетить магазин \"Эфирная пища\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:1029
 msgid ""
@@ -1385,7 +1385,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:1038
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[9]/text"
-msgstr ""
+msgstr "Посетить магазин \"Свалка Грегса\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:1040
 msgid ""
@@ -1408,12 +1408,12 @@ msgstr "Уйти."
 #: src-en/data/events_sector_aea_old_2.xml:1055
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на это мероприятие."
 
 #: src-en/data/events_sector_aea_old_2.xml:1057
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы начинаете заряжать свой ССД."
 
 #: src-en/data/events_sector_aea_old_2.xml:1059
 msgid ""
@@ -1429,16 +1429,19 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/text"
 msgstr ""
+"Прибыв на маяк, вы столкнулись лицом к лицу с... самим собой? Данные о "
+"местонахождении искажаются, но, насколько могут судить ваши сенсоры, перед "
+"вами точная копия вашего корабля, со всеми признаками жизни."
 
 #: src-en/data/events_sector_aea_old_2.xml:1074
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[1]/text"
-msgstr ""
+msgstr "Уйти как можно быстрее."
 
 #: src-en/data/events_sector_aea_old_2.xml:1076
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы отлетаете на безопасное расстояние и начинаете заряжать свой ССД."
 
 #: src-en/data/events_sector_aea_old_2.xml:1078
 msgid ""
@@ -1453,12 +1456,16 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_aea_old_2.xml:1088
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[2]/text"
-msgstr ""
+msgstr "Открыть огонь по этому кораблю."
 
 #: src-en/data/events_sector_aea_old_2.xml:1090
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[2]/event/text"
 msgstr ""
+"Вы попали прямо в цель, но таинственный зеркальный корабль открыл огонь в то "
+"же время и нанес ответный удар. Более того, вы заметили, что повреждения на "
+"их корпусе совпадают с вашими. Вы решаете, что лучше все-таки покинуть это "
+"место."
 
 #: src-en/data/events_sector_aea_old_2.xml:1093
 msgid ""
@@ -1476,6 +1483,11 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[@req=\"UPG_AETHER_SCANNERS\"]/event/text"
 msgstr ""
+"Ваши сканеры, усиленные эфиром, выяснили, в чем дело: некое устройство "
+"искривляет пространство, скрывая тайник. Любая попытка добраться до него "
+"приводит обратно к исходной точке, а сам вход расположен на гораздо более "
+"сложном и запутанном маршруте. Теперь, обладая этим знанием, вы можете "
+"добраться до его содержимого."
 
 #: src-en/data/events_sector_aea_old_2.xml:1104
 msgid ""
@@ -1486,16 +1498,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/text"
 msgstr ""
+"Маяк находится внутри астериодного поля, неподалеку вы видите автоматический "
+"корабль Лилмиков, зажатый между двумя скалами. Автоматический корабль, "
+"похоже, отключен."
 
 #: src-en/data/events_sector_aea_old_2.xml:1115
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[1]/text"
-msgstr ""
+msgstr "Взорвать корабль."
 
 #: src-en/data/events_sector_aea_old_2.xml:1117
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы проделываете в корабле дыру, прежде чем его разобрать."
 
 #: src-en/data/events_sector_aea_old_2.xml:1120
 msgid ""
@@ -1505,12 +1520,18 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:1126
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[2]/text"
-msgstr ""
+msgstr "Попытаться включить автоматический корабль."
 
 #: src-en/data/events_sector_aea_old_2.xml:1128
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[2]/event/text"
 msgstr ""
+"Корабль включается и пытается освободиться, он начинает разрушать скалы, "
+"между которыми застрял, разбрасывая повсюду шрапнель, вы отступаете, но не "
+"можете избежать легких повреждений.\n"
+"Вместо того чтобы освободиться, автоматический корабль умудряется разбить "
+"большой кусок скалы, который уничтожает центральный процессор корабля. Вы "
+"разбираете останки на лом."
 
 #: src-en/data/events_sector_aea_old_2.xml:1133
 msgid ""
@@ -1525,7 +1546,7 @@ msgstr "Не обращать внимания на корабль."
 #: src-en/data/events_sector_aea_old_2.xml:1141
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Вы отлетаете на безопасное расстояние и начинаете заряжать свой ССД."
 
 #: src-en/data/events_sector_aea_old_2.xml:1143
 msgid ""
@@ -1541,31 +1562,37 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/text"
 msgstr ""
+"Прибыв на место, вы обнаруживаете небольшую мастерскую по ремонту автоматов. "
+"Возможно, вы сможете пробраться внутрь в надежде, что вас отремонтируют "
+"бесплатно, но, похоже, вы также сможете заплатить за ремонтные работы."
 
 #: src-en/data/events_sector_aea_old_2.xml:1159
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[1]/text"
-msgstr ""
+msgstr "Пробраться в очередь."
 
 #: src-en/data/events_sector_aea_old_2.xml:1163
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[2]/text"
-msgstr ""
+msgstr "Отремонтировать 10 ед. корпуса за 20 лома."
 
 #: src-en/data/events_sector_aea_old_2.xml:1165
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[2]/event/text"
 msgstr ""
+"Вы проводите операцию и внимательно наблюдаете за тем, как машины латают "
+"корпус. Похоже, все в порядке. Как только они заканчивают, вы готовитесь к "
+"прыжку."
 
 #: src-en/data/events_sector_aea_old_2.xml:1173
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[3]/text"
-msgstr ""
+msgstr "Избегать ремонтную мастерскую."
 
 #: src-en/data/events_sector_aea_old_2.xml:1175
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку."
 
 #: src-en/data/events_sector_aea_old_2.xml:1177
 msgid ""
@@ -1581,6 +1608,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[1]/text"
 msgstr ""
+"В тот момент, когда вы думаете, что вот-вот получите бесплатный ремонт, из "
+"очереди за вами выдвигается корабль и активирует свое оружие."
 
 #: src-en/data/events_sector_aea_old_2.xml:1192
 msgid ""
@@ -1590,7 +1619,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:1197
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[2]/text"
-msgstr ""
+msgstr "Вы добираетесь до конца очереди и получаете бесплатный ремонт."
 
 #: src-en/data/events_sector_aea_old_2.xml:1200
 msgid ""
@@ -1601,6 +1630,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[2]/choice/event/text"
 msgstr ""
+"Как только вы думаете, что вам удастся избежать наказания, вас перехватывает "
+"расстроенное судно с другого конца очереди."
 
 #: src-en/data/events_sector_aea_old_2.xml:1205
 msgid ""
@@ -1610,7 +1641,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:1212
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[3]/text"
-msgstr ""
+msgstr "Вы добираетесь до конца очереди и получаете бесплатный ремонт."
 
 #: src-en/data/events_sector_aea_old_2.xml:1215
 msgid ""
@@ -1621,6 +1652,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[3]/choice/event/text"
 msgstr ""
+"Как только вы думаете, что вам удастся избежать наказания, вас перехватывает "
+"расстроенное судно с другого конца очереди."
 
 #: src-en/data/events_sector_aea_old_2.xml:1220
 msgid ""
@@ -1631,20 +1664,35 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[3]/choice/event/choice/event/text"
 msgstr ""
+"Однако судно продолжает лететь мимо вас, похоже, что они не собирались на "
+"вас нападать."
 
 #: src-en/data/events_sector_aea_old_2.xml:1248
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/text"
 msgstr ""
+"Наши сенсоры засекли сигнатуру автоматического корабля Лилмиков. Похоже, он "
+"очень долго разгонялся в одном и том же направлении и в результате накопил "
+"огромную скорость. Вы не уверены, что это - какой-то эксперимент по проверке "
+"жизнеспособности субсветовых путешествий или просто неисправность, но "
+"гораздо важнее то, что ваш корабль случайно вышел из гиперпространства прямо "
+"на его пути."
 
 #: src-en/data/events_sector_aea_old_2.xml:1250
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[1]/text"
-msgstr ""
+msgstr "Приготовиться к удару!"
 
 #: src-en/data/events_sector_aea_old_2.xml:1252
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[1]/event/text"
 msgstr ""
+"Из всех кораблей, с которыми можно столкнуться на большой скорости, корабль "
+"производства Лилмиков был, пожалуй, худшим из возможных исходов, учитывая их "
+"любовь к тяжелой броне. От огромной массы обманчиво маленького "
+"автоматического корабля ваш корабль начинает вращаться в пространстве, и вы "
+"теряете сознание. Когда все приходят в себя, отчет о повреждениях показывает "
+"множество зияющих дыр в корпусе от удара. Просто чудо, что никто не "
+"провалился в одну из них."
 
 #: src-en/data/events_sector_aea_old_2.xml:1257
 msgid ""
@@ -1654,12 +1702,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:1263
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "(Улучш. Двигатели) Маневр уклонения!"
 
 #: src-en/data/events_sector_aea_old_2.xml:1265
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"engines\"]/event/text"
 msgstr ""
+"К счастью, двигатели достаточно мощные, чтобы успеть увести корабль с дороги "
+"до столкновения. Весь экипаж с облегчением наблюдает за пролетающим мимо "
+"демоном скорости."
 
 #: src-en/data/events_sector_aea_old_2.xml:1267
 msgid ""
@@ -1669,12 +1720,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:1273
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "(Улучш. Оружие) Заставить его остановиться, так или иначе."
 
 #: src-en/data/events_sector_aea_old_2.xml:1275
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"weapons\"]/event/text"
 msgstr ""
+"Корабли Лилмиков известны своей очень эффективной броней, но у каждого "
+"корабля есть слабое место. Несколькими меткими выстрелами вам удается "
+"вывести из строя несколько движителей, что приводит к изменению курса "
+"автоматического корабля, и последующий шквал ваших орудий превращает "
+"неуправляемое судно в облако лома, который вы и собираете."
 
 #: src-en/data/events_sector_aea_old_2.xml:1278
 msgid ""
@@ -1684,12 +1740,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:1284
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"shields\"]/text"
-msgstr ""
+msgstr "(Улучш. Щиты) Перенаправить всю энергию на щиты!"
 
 #: src-en/data/events_sector_aea_old_2.xml:1286
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"shields\"]/event/text"
 msgstr ""
+"Ваши щиты приняли на себя основную силу удара, автоматический корабль был "
+"наполовину разрушен и отброшен в сторону, оставив значительное количество "
+"обломков. К сожалению, удар перегрузил конденсаторы щита, и они взорвались."
 
 #: src-en/data/events_sector_aea_old_2.xml:1291
 msgid ""
