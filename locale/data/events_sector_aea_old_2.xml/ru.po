@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-18 12:10+0000\n"
+"PO-Revision-Date: 2025-02-19 17:13+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_old_2xml/ru/>\n"
@@ -17,6 +17,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/text"
 msgstr ""
+"Вы прибыли в Ядро Лилмиков, густонаселенную зону, полную как Лилмиков, так и "
+"богатых или влиятельных капитанов. Теперь, когда вы здесь, вам нужно "
+"связаться с Советом, а для того, чтобы связаться с Советом, вам нужен "
+"куратор."
 
 #: src-en/data/events_sector_aea_old_2.xml:25
 msgid ""
@@ -27,71 +31,76 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/text"
 msgstr ""
+"Вы обращаетесь к местной публичной базе данных, В ней пять разных членов "
+"Совета. У них даже есть система бронирования встреч с ними 1 на 1, однако в "
+"любой момент времени можно заказать встречу только с одним куратором."
 
 #: src-en/data/events_sector_aea_old_2.xml:29
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_1\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Обратиться за поддержкой к Атонингу Юнифексу."
 
 #: src-en/data/events_sector_aea_old_2.xml:33
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_1\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Обратиться за поддержкой к Атонингу Юнифексу. [НЕДОСТУПЕН]"
 
 #: src-en/data/events_sector_aea_old_2.xml:37
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_2\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Обратиться за поддержкой к Асимптотической Сущности."
 
 #: src-en/data/events_sector_aea_old_2.xml:41
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_2\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Обратиться за поддержкой к Асимптотической Сущности. [НЕДОСТУПНА]"
 
 #: src-en/data/events_sector_aea_old_2.xml:45
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_3\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Обратиться за поддержкой к Эвпатическому Импульсу."
 
 #: src-en/data/events_sector_aea_old_2.xml:49
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_3\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Обратиться за поддержкой к Эвпатическому Импульсу. [НЕДОСТУПЕН]"
 
 #: src-en/data/events_sector_aea_old_2.xml:53
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_4\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Обратиться за поддержкой к Гомологичному Тренду."
 
 #: src-en/data/events_sector_aea_old_2.xml:57
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_4\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Обратиться за поддержкой к Гомологичному Тренду. [НЕДОСТУПЕН]"
 
 #: src-en/data/events_sector_aea_old_2.xml:61
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_5\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Обратиться за поддержкой к Ноэтическому Конкордансу."
 
 #: src-en/data/events_sector_aea_old_2.xml:65
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_5\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Обратиться за поддержкой к Ноэтическому Конкордансу. [НЕДОСТУПЕН]"
 
 #: src-en/data/events_sector_aea_old_2.xml:73
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/text"
 msgstr ""
+"Вы назначаете встречу с Атонингом Юнифексом, вам нужно будет договориться с "
+"ним, прежде чем вы сможете предстать перед Советом."
 
 #: src-en/data/events_sector_aea_old_2.xml:77
 msgid ""
@@ -102,6 +111,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 25%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:85
 msgid ""
@@ -112,6 +125,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/choice/event/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 50%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:93
 msgid ""
@@ -122,6 +139,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 75%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:101
 msgid ""
@@ -132,6 +153,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 100%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:108
 msgid ""
@@ -142,6 +167,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/text"
 msgstr ""
+"Вы назначаете встречу с Асимптотической Сущностью, вам нужно будет "
+"договориться с ней, прежде чем вы сможете предстать перед Советом."
 
 #: src-en/data/events_sector_aea_old_2.xml:126
 msgid ""
@@ -152,6 +179,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 25%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:134
 msgid ""
@@ -162,6 +193,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/choice/event/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 50%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:142
 msgid ""
@@ -172,6 +207,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 75%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:150
 msgid ""
@@ -182,6 +221,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 100%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:157
 msgid ""
@@ -192,6 +235,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/text"
 msgstr ""
+"Вы назначаете встречу с Эвпатическим Импульсом, вам нужно будет договориться "
+"с ним, прежде чем вы сможете предстать перед Советом."
 
 #: src-en/data/events_sector_aea_old_2.xml:175
 msgid ""
@@ -202,6 +247,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 25%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:183
 msgid ""
@@ -212,6 +261,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/choice/event/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 50%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:191
 msgid ""
@@ -222,6 +275,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 75%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:199
 msgid ""
@@ -232,6 +289,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 100%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:206
 msgid ""
@@ -242,6 +303,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/text"
 msgstr ""
+"Вы назначаете встречу с Гомологичным Трендом, вам нужно будет договориться с "
+"ним, прежде чем вы сможете предстать перед Советом."
 
 #: src-en/data/events_sector_aea_old_2.xml:224
 msgid ""
@@ -252,6 +315,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 25%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:232
 msgid ""
@@ -262,6 +329,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/choice/event/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 50%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:240
 msgid ""
@@ -272,6 +343,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 75%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:248
 msgid ""
@@ -282,6 +357,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 100%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:255
 msgid ""
@@ -292,6 +371,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/text"
 msgstr ""
+"Вы назначаете встречу с Ноэтическим Конкордансом, вам нужно будет "
+"договориться с ним, прежде чем вы сможете предстать перед Советом."
 
 #: src-en/data/events_sector_aea_old_2.xml:273
 msgid ""
@@ -302,6 +383,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 25%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:281
 msgid ""
@@ -312,6 +397,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/choice/event/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 50%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:289
 msgid ""
@@ -322,6 +411,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 75%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:297
 msgid ""
@@ -332,6 +425,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы также загружаете местоположение других членов совета, это может "
+"пригодиться.\n"
+"\n"
+"[СКАЧИВАНИЕ: 100%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:304
 msgid ""
@@ -342,6 +439,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_CONTINUE\"]/text"
 msgstr ""
+"Как раз в тот момент, когда заканчивается скачивание, прибывает новое судно. "
+"\"Эй, что вы здесь делаете, это место закрыто для таких, как вы!\" Похоже, "
+"вам здесь не очень рады."
 
 #: src-en/data/events_sector_aea_old_2.xml:321
 msgid ""
@@ -352,31 +452,42 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"GUARD_AEA_OLD_2_DESTROY\"]/text"
 msgstr ""
+"Вы разобрались с сторожевым кораблем Лилмиков. Все, что могло быть в их "
+"грузе, наверняка уничтожено, но вы можете хотя бы собрать некоторые припасы "
+"с корабля."
 
 #: src-en/data/events_sector_aea_old_2.xml:337
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"GUARD_AEA_OLD_2_DEADCREW\"]/text"
 msgstr ""
+"Вы победили сторожевой корабль Лилмиков. Если на борту нет экипажа, который "
+"мог бы вас остановить, вы можете осмотреть их груз. Вы находите оружие, "
+"которое поднимаете на корабль, и приступаете к разбору их обшивки."
 
 #: src-en/data/events_sector_aea_old_2.xml:348
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_DESTROY\"]/text"
 msgstr ""
+"Вы победили корабль элиты, но объект полностью заблокирован. Теперь вы никак "
+"не сможете попасть внутрь."
 
 #: src-en/data/events_sector_aea_old_2.xml:358
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местоположение члена Совета."
 
 #: src-en/data/events_sector_aea_old_2.xml:359
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_FIGHT\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "Местоположение члена Совета."
 
 #: src-en/data/events_sector_aea_old_2.xml:362
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_FIGHT\"]/text"
 msgstr ""
+"Вы прибыли к месту нахождения одного из членов Совета, его охраняет элитный "
+"корабль Лилмиков. Как только вы приближаетесь, начинают срабатывать сигналы "
+"тревоги, и элита переходит в атаку."
 
 #: src-en/data/events_sector_aea_old_2.xml:365
 msgid ""
@@ -386,17 +497,20 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:375
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местоположение члена Совета."
 
 #: src-en/data/events_sector_aea_old_2.xml:376
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_FIGHT\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "Местоположение члена Совета."
 
 #: src-en/data/events_sector_aea_old_2.xml:379
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_FIGHT\"]/text"
 msgstr ""
+"Вы прибыли к месту нахождения одного из членов Совета, его охраняет элитный "
+"корабль Лилмиков. Как только вы приближаетесь, начинают срабатывать сигналы "
+"тревоги, и элита переходит в атаку."
 
 #: src-en/data/events_sector_aea_old_2.xml:382
 msgid ""
@@ -406,17 +520,20 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:392
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местоположение члена Совета."
 
 #: src-en/data/events_sector_aea_old_2.xml:393
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_FIGHT\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "Местоположение члена Совета."
 
 #: src-en/data/events_sector_aea_old_2.xml:396
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_FIGHT\"]/text"
 msgstr ""
+"Вы прибыли к месту нахождения одного из членов Совета, его охраняет элитный "
+"корабль Лилмиков. Как только вы приближаетесь, начинают срабатывать сигналы "
+"тревоги, и элита переходит в атаку."
 
 #: src-en/data/events_sector_aea_old_2.xml:399
 msgid ""
@@ -426,17 +543,20 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:409
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местоположение члена Совета."
 
 #: src-en/data/events_sector_aea_old_2.xml:410
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_FIGHT\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "Местоположение члена Совета."
 
 #: src-en/data/events_sector_aea_old_2.xml:413
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_FIGHT\"]/text"
 msgstr ""
+"Вы прибыли к месту нахождения одного из членов Совета, его охраняет элитный "
+"корабль Лилмиков. Как только вы приближаетесь, начинают срабатывать сигналы "
+"тревоги, и элита переходит в атаку."
 
 #: src-en/data/events_sector_aea_old_2.xml:416
 msgid ""
@@ -446,17 +566,20 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:426
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местоположение члена Совета."
 
 #: src-en/data/events_sector_aea_old_2.xml:427
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_FIGHT\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "Местоположение члена Совета."
 
 #: src-en/data/events_sector_aea_old_2.xml:430
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_FIGHT\"]/text"
 msgstr ""
+"Вы прибыли к месту нахождения одного из членов Совета, его охраняет элитный "
+"корабль Лилмиков. Как только вы приближаетесь, начинают срабатывать сигналы "
+"тревоги, и элита переходит в атаку."
 
 #: src-en/data/events_sector_aea_old_2.xml:433
 msgid ""
@@ -467,15 +590,22 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"Местонахождение члена Совета, к которому вы обращаетесь за поддержкой "
+"куратора."
 
 #: src-en/data/events_sector_aea_old_2.xml:444
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/beaconType/visitedTooltip"
 msgstr ""
+"Местонахождение члена Совета, к которому вы обращаетесь за поддержкой "
+"куратора."
 
 #: src-en/data/events_sector_aea_old_2.xml:448
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/text"
 msgstr ""
+"Вы прибыли к месту нахождения одного из членов Совета, его охраняет элитный "
+"корабль Лилмиков. Благодаря назначенной встрече вы сможете приземлиться и "
+"встретиться с Атонингом Юнифексом."
 
 #: src-en/data/events_sector_aea_old_2.xml:450
 msgid ""
@@ -486,6 +616,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/choice/event/text"
 msgstr ""
+"\"Капитан, кажется, я уже знаю, почему вы здесь. У нас бывали такие, как вы, "
+"которые разрушали все на своем пути. Они неизбежно хотят уйти, и мы "
+"позволяем им это сделать, но сначала они, то есть вы, должны кое-что сделать "
+"для нас\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:454
 msgid ""
@@ -496,6 +630,10 @@ msgstr "Конечно."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Мое задание для вас относительно простое: в наших секторах бесчинствуют "
+"еще одни такие же, как вы, и если вы их устраните, то сможете уйти, но если "
+"они устранят вас, то смогут уйти они. Я отправлюсь с вами, чтобы самому "
+"увидеть это действие\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:457
 msgid ""
@@ -505,21 +643,28 @@ msgstr "Атонинг Юнифекс"
 #: src-en/data/events_sector_aea_old_2.xml:459
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Отправиться в указанное место."
 
 #: src-en/data/events_sector_aea_old_2.xml:473
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"Местонахождение члена Совета, к которому вы обращаетесь за поддержкой "
+"куратора."
 
 #: src-en/data/events_sector_aea_old_2.xml:474
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/beaconType/visitedTooltip"
 msgstr ""
+"Местонахождение члена Совета, к которому вы обращаетесь за поддержкой "
+"куратора."
 
 #: src-en/data/events_sector_aea_old_2.xml:478
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/text"
 msgstr ""
+"Вы прибыли к месту нахождения одного из членов Совета, его охраняет элитный "
+"корабль Лилмиков. Благодаря назначенной встрече вы сможете приземлиться и "
+"встретиться с Асимптотической Сущностью."
 
 #: src-en/data/events_sector_aea_old_2.xml:480
 msgid ""
@@ -530,6 +675,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/choice/event/text"
 msgstr ""
+"\"Капитан, кажется, я уже знаю, почему вы здесь. У нас бывали такие, как вы, "
+"которые разрушали все на своем пути. Они неизбежно хотят уйти, и мы "
+"позволяем им это сделать, но сначала они, то есть вы, должны кое-что сделать "
+"для нас\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:484
 msgid ""
@@ -540,6 +689,10 @@ msgstr "Конечно."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Мое задание для вас относительно простое: в наших секторах бесчинствуют "
+"еще одни такие же, как вы, и если вы их устраните, то сможете уйти, но если "
+"они устранят вас, то смогут уйти они. Я отправлюсь с вами, чтобы самому "
+"увидеть это действие\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:487
 msgid ""
@@ -549,21 +702,28 @@ msgstr "Асимптотическая Сущность"
 #: src-en/data/events_sector_aea_old_2.xml:489
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Отправиться в указанное место."
 
 #: src-en/data/events_sector_aea_old_2.xml:503
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"Местонахождение члена Совета, к которому вы обращаетесь за поддержкой "
+"куратора."
 
 #: src-en/data/events_sector_aea_old_2.xml:504
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/beaconType/visitedTooltip"
 msgstr ""
+"Местонахождение члена Совета, к которому вы обращаетесь за поддержкой "
+"куратора."
 
 #: src-en/data/events_sector_aea_old_2.xml:508
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/text"
 msgstr ""
+"Вы прибыли к месту нахождения одного из членов Совета, его охраняет элитный "
+"корабль Лилмиков. Благодаря назначенной встрече вы сможете приземлиться и "
+"встретиться с Эвпатическим Импульсом."
 
 #: src-en/data/events_sector_aea_old_2.xml:510
 msgid ""
@@ -574,6 +734,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/choice/event/text"
 msgstr ""
+"\"Капитан, кажется, я уже знаю, почему вы здесь. У нас бывали такие, как вы, "
+"которые разрушали все на своем пути. Они неизбежно хотят уйти, и мы "
+"позволяем им это сделать, но сначала они, то есть вы, должны кое-что сделать "
+"для нас\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:514
 msgid ""
@@ -584,6 +748,10 @@ msgstr "Конечно."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Мое задание для вас относительно простое: в наших секторах бесчинствуют "
+"еще одни такие же, как вы, и если вы их устраните, то сможете уйти, но если "
+"они устранят вас, то смогут уйти они. Я отправлюсь с вами, чтобы самому "
+"увидеть это действие\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:517
 msgid ""
@@ -593,21 +761,28 @@ msgstr "Эвпатический Импульс"
 #: src-en/data/events_sector_aea_old_2.xml:519
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Отправиться в указанное место."
 
 #: src-en/data/events_sector_aea_old_2.xml:533
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"Местонахождение члена Совета, к которому вы обращаетесь за поддержкой "
+"куратора."
 
 #: src-en/data/events_sector_aea_old_2.xml:534
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/beaconType/visitedTooltip"
 msgstr ""
+"Местонахождение члена Совета, к которому вы обращаетесь за поддержкой "
+"куратора."
 
 #: src-en/data/events_sector_aea_old_2.xml:538
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/text"
 msgstr ""
+"Вы прибыли к месту нахождения одного из членов Совета, его охраняет элитный "
+"корабль Лилмиков. Благодаря назначенной встрече вы сможете приземлиться и "
+"встретиться с Гомологичным Трендом."
 
 #: src-en/data/events_sector_aea_old_2.xml:540
 msgid ""
@@ -618,6 +793,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/choice/event/text"
 msgstr ""
+"\"Капитан, кажется, я уже знаю, почему вы здесь. У нас бывали такие, как вы, "
+"которые разрушали все на своем пути. Они неизбежно хотят уйти, и мы "
+"позволяем им это сделать, но сначала они, то есть вы, должны кое-что сделать "
+"для нас\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:544
 msgid ""
@@ -628,6 +807,10 @@ msgstr "Конечно."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Мое задание для вас относительно простое: в наших секторах бесчинствуют "
+"еще одни такие же, как вы, и если вы их устраните, то сможете уйти, но если "
+"они устранят вас, то смогут уйти они. Я отправлюсь с вами, чтобы самому "
+"увидеть это действие\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:547
 msgid ""
@@ -637,21 +820,28 @@ msgstr "Гомологичный Тренд"
 #: src-en/data/events_sector_aea_old_2.xml:549
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Отправиться в указанное место."
 
 #: src-en/data/events_sector_aea_old_2.xml:563
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"Местонахождение члена Совета, к которому вы обращаетесь за поддержкой "
+"куратора."
 
 #: src-en/data/events_sector_aea_old_2.xml:564
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/beaconType/visitedTooltip"
 msgstr ""
+"Местонахождение члена Совета, к которому вы обращаетесь за поддержкой "
+"куратора."
 
 #: src-en/data/events_sector_aea_old_2.xml:568
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/text"
 msgstr ""
+"Вы прибыли к месту нахождения одного из членов Совета, его охраняет элитный "
+"корабль Лилмиков. Благодаря назначенной встрече вы сможете приземлиться и "
+"встретиться с Ноэтическим Конкордансом."
 
 #: src-en/data/events_sector_aea_old_2.xml:570
 msgid ""
@@ -662,6 +852,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/choice/event/text"
 msgstr ""
+"\"Капитан, кажется, я уже знаю, почему вы здесь. У нас бывали такие, как вы, "
+"которые разрушали все на своем пути. Они неизбежно хотят уйти, и мы "
+"позволяем им это сделать, но сначала они, то есть вы, должны кое-что сделать "
+"для нас\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:574
 msgid ""
@@ -672,6 +866,10 @@ msgstr "Конечно."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/choice/event/choice/event/text"
 msgstr ""
+"\"Мое задание для вас относительно простое: в наших секторах бесчинствуют "
+"еще одни такие же, как вы, и если вы их устраните, то сможете уйти, но если "
+"они устранят вас, то смогут уйти они. Я отправлюсь с вами, чтобы самому "
+"увидеть это действие\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:577
 msgid ""
@@ -681,17 +879,19 @@ msgstr "Ноэтический Конкорданс"
 #: src-en/data/events_sector_aea_old_2.xml:579
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Отправиться в указанное место."
 
 #: src-en/data/events_sector_aea_old_2.xml:593
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местоположение цели, которую дал вам Атонинг Юнифекс."
 
 #: src-en/data/events_sector_aea_old_2.xml:598
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_QUEST\"]/text"
 msgstr ""
+"Цель вашего куратора находится неподалеку от маяка. Когда вы приближаетесь, "
+"их оружие и дроны включаются и вступают с вами в бой."
 
 #: src-en/data/events_sector_aea_old_2.xml:601
 msgid ""
@@ -702,6 +902,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_BOUNTY_DESTROY\"]/text"
 msgstr ""
+"Вы победили корабль элиты, ваш куратор выглядит довольным и соглашается "
+"поддержать вас в Совете."
 
 #: src-en/data/events_sector_aea_old_2.xml:618
 msgid ""
@@ -711,7 +913,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:620
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_BOUNTY_DESTROY\"]/choice/event/text"
-msgstr ""
+msgstr "Среди обломков вы находите второй дрон."
 
 #: src-en/data/events_sector_aea_old_2.xml:623
 msgid ""
@@ -721,12 +923,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:635
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местоположение цели, которую дала вам Асимптотическая Сущность."
 
 #: src-en/data/events_sector_aea_old_2.xml:640
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_QUEST\"]/text"
 msgstr ""
+"Цель вашего куратора находится неподалеку от маяка. Когда вы приближаетесь, "
+"их оружие и дроны включаются и вступают с вами в бой."
 
 #: src-en/data/events_sector_aea_old_2.xml:642
 msgid ""
@@ -737,6 +941,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_BOUNTY_DESTROY\"]/text"
 msgstr ""
+"Вы победили корабль элиты, ваш куратор выглядит довольным и соглашается "
+"поддержать вас в Совете."
 
 #: src-en/data/events_sector_aea_old_2.xml:659
 msgid ""
@@ -746,12 +952,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:669
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местоположение цели, которую дал вам Эвпатический Импульс."
 
 #: src-en/data/events_sector_aea_old_2.xml:674
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_QUEST\"]/text"
 msgstr ""
+"Цель вашего куратора находится неподалеку от маяка. Когда вы приближаетесь, "
+"их оружие и дроны включаются и вступают с вами в бой."
 
 #: src-en/data/events_sector_aea_old_2.xml:676
 msgid ""
@@ -762,6 +970,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_BOUNTY_DESTROY\"]/text"
 msgstr ""
+"Вы победили корабль элиты, ваш куратор выглядит довольным и соглашается "
+"поддержать вас в Совете."
 
 #: src-en/data/events_sector_aea_old_2.xml:693
 msgid ""
@@ -771,12 +981,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:703
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местоположение цели, которую дал вам Гомологичный Тренд."
 
 #: src-en/data/events_sector_aea_old_2.xml:707
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_QUEST\"]/text"
 msgstr ""
+"Цель вашего куратора находится неподалеку от маяка. Когда вы приближаетесь, "
+"их оружие и дроны включаются и вступают с вами в бой."
 
 #: src-en/data/events_sector_aea_old_2.xml:709
 msgid ""
@@ -787,6 +999,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_BOUNTY_DESTROY\"]/text"
 msgstr ""
+"Вы победили корабль элиты, ваш куратор выглядит довольным и соглашается "
+"поддержать вас в Совете."
 
 #: src-en/data/events_sector_aea_old_2.xml:726
 msgid ""
@@ -796,12 +1010,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:736
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местоположение цели, которую дал вам Ноэтический Конкорданс."
 
 #: src-en/data/events_sector_aea_old_2.xml:741
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_QUEST\"]/text"
 msgstr ""
+"Цель вашего куратора находится неподалеку от маяка. Когда вы приближаетесь, "
+"их оружие и дроны включаются и вступают с вами в бой."
 
 #: src-en/data/events_sector_aea_old_2.xml:743
 msgid ""
@@ -812,6 +1028,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_BOUNTY_DESTROY\"]/text"
 msgstr ""
+"Вы победили корабль элиты, ваш куратор выглядит довольным и соглашается "
+"поддержать вас в Совете."
 
 #: src-en/data/events_sector_aea_old_2.xml:760
 msgid ""
@@ -831,18 +1049,23 @@ msgstr "Здесь находится здание администрации С
 #: src-en/data/events_sector_aea_old_2.xml:783
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/text"
 msgstr ""
+"Вы прибыли в здание администрации Совета. Здесь регулярно проходят заседания "
+"Совета, на которых решаются вопросы секторов, в которых такие как вы "
+"помещены в карантин."
 
 #: src-en/data/events_sector_aea_old_2.xml:785
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[@req=\"aea_old_completed_sponsor\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Войти вместе с членом Совета-куратором."
 
 #: src-en/data/events_sector_aea_old_2.xml:787
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[@req=\"aea_old_completed_sponsor\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Вы входите в огромное здание, пройдя множество поворотов и коридоров, вы "
+"наконец оказываетесь лицом к лицу с другими членами Совета."
 
 #: src-en/data/events_sector_aea_old_2.xml:789
 msgid ""
@@ -855,6 +1078,10 @@ msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[@req=\"aea_old_completed_sponsor\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
+"Это занимает некоторое время, но Совет почти не нуждается в вашем "
+"присутствии. Вы особенно удивлены тем, как подробно было зафиксировано ваше "
+"присутствие здесь: у них есть свидетельства почти всех битв, которые вы "
+"провели в их пространстве."
 
 #: src-en/data/events_sector_aea_old_2.xml:793
 msgid ""
@@ -866,12 +1093,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[@req=\"aea_old_completed_sponsor\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Вам нужно будет вернуться позже, когда вы найдете куратора."
 
 #: src-en/data/events_sector_aea_old_2.xml:805
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[3]/text"
-msgstr ""
+msgstr "Зайти позже."
 
 #: src-en/data/events_sector_aea_old_2.xml:815
 msgid ""
@@ -887,11 +1114,16 @@ msgstr "Здесь находится здание администрации С
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/text"
 msgstr ""
+"В конце концов вы получите вердикт, и вам разрешат уйти. Они рассказывают "
+"вам о секретных вратах, похожих на те, что вы активировали в Узле 17.\n"
+"\n"
+"Из-за расположения врат вас должен будет сопроводить туда ваш куратор, а "
+"перед уходом вам следует уладить все незавершенные дела."
 
 #: src-en/data/events_sector_aea_old_2.xml:825
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/choice[1]/text"
-msgstr ""
+msgstr "Немедленно отправиться к вратам."
 
 #: src-en/data/events_sector_aea_old_2.xml:832
 msgid ""
@@ -901,12 +1133,14 @@ msgstr "Дайте мне время, чтобы подготовиться."
 #: src-en/data/events_sector_aea_old_2.xml:838
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/choice[3]/text"
-msgstr ""
+msgstr "Мы вернемся сюда позже."
 
 #: src-en/data/events_sector_aea_old_2.xml:857
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/text"
 msgstr ""
+"Удивительно, но на торговца-Лилмика напала хорошо вооруженная элита. Если вы "
+"хотите торговать с ним, вам придется разобраться с элитой."
 
 #: src-en/data/events_sector_aea_old_2.xml:860
 msgid ""
@@ -931,7 +1165,7 @@ msgstr "Не обращать внимания на торговца."
 #: src-en/data/events_sector_aea_old_2.xml:873
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "К счастью, элита по-прежнему не замечает вашего присутствия."
 
 #: src-en/data/events_sector_aea_old_2.xml:875
 msgid ""
@@ -947,16 +1181,21 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/text"
 msgstr ""
+"Вдали виднеется маленькая населенная луна, у магазина оживленное движение. "
+"Может, стоит приблизится?"
 
 #: src-en/data/events_sector_aea_old_2.xml:919
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/choice[1]/text"
-msgstr ""
+msgstr "Встать в очередь на посадку."
 
 #: src-en/data/events_sector_aea_old_2.xml:921
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/choice[1]/event/text"
 msgstr ""
+"В конце концов вам удается приземлиться в их ограниченном пространстве и "
+"попасть в магазин. Невероятно, но оказывается, что на все товары в нем "
+"действует распродажа."
 
 #: src-en/data/events_sector_aea_old_2.xml:926
 msgid ""
@@ -967,6 +1206,8 @@ msgstr "Не обращать внимания на луну."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/choice[2]/event/text"
 msgstr ""
+"В ожидании зарядки ССД, вы замечаете пролетающий мимо рекламный корабль: "
+"очевидно, в большом магазине внизу проходит распродажа."
 
 #: src-en/data/events_sector_aea_old_2.xml:930
 msgid ""
@@ -981,26 +1222,34 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_aea_old_2.xml:944
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/text"
 msgstr ""
+"Вы прибываете на маяк, и вас тут же забрасывают многочисленными объявлениями "
+"о какой-то планетарной ярмарке. Кажется, что люди приехали со всего сектора, "
+"чтобы поесть и показать свои продукты."
 
 #: src-en/data/events_sector_aea_old_2.xml:946
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/text"
-msgstr ""
+msgstr "Спуститься вниз и осмотреться."
 
 #: src-en/data/events_sector_aea_old_2.xml:948
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/text"
 msgstr ""
+"Вы прибываете на планету и начинаете исследовать ярмарку. Здесь есть "
+"множество различных объектов на выбор."
 
 #: src-en/data/events_sector_aea_old_2.xml:950
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Посетить магазин \"Зеленые яйца и ветчина\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:952
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Вы подходите к прилавку, но, к сожалению, в нем совсем нет еды. Что еще "
+"хуже, человек, работающий за прилавком, был брошен своим кораблем, и он "
+"предлагает присоединиться к вашей команде."
 
 #: src-en/data/events_sector_aea_old_2.xml:955
 msgid ""
@@ -1010,12 +1259,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:961
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Посетить магазин \"Мягкий свет\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:963
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Вы подходите к прилавку, но, к сожалению, в нем совсем нет еды. Что еще "
+"хуже, человек, работающий за прилавком, был брошен своим кораблем, и он "
+"предлагает присоединиться к вашей команде."
 
 #: src-en/data/events_sector_aea_old_2.xml:966
 msgid ""
@@ -1025,12 +1277,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:972
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Посетить магазин \"Нектар природы\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:974
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Вы подходите к прилавку, но, к сожалению, в нем совсем нет еды. Что еще "
+"хуже, человек, работающий за прилавком, был брошен своим кораблем, и он "
+"предлагает присоединиться к вашей команде."
 
 #: src-en/data/events_sector_aea_old_2.xml:977
 msgid ""
@@ -1040,12 +1295,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:983
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "Посетить магазин \"Кишки Боба\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:985
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"Вы подходите к прилавку, но, к сожалению, в нем совсем нет еды. Что еще "
+"хуже, человек, работающий за прилавком, был брошен своим кораблем, и он "
+"предлагает присоединиться к вашей команде."
 
 #: src-en/data/events_sector_aea_old_2.xml:988
 msgid ""
@@ -1055,12 +1313,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:994
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "Посетить магазин \"Перегиб\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:996
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[5]/event/text"
 msgstr ""
+"Вы подходите к прилавку, но, к сожалению, в нем совсем нет еды. Что еще "
+"хуже, человек, работающий за прилавком, был брошен своим кораблем, и он "
+"предлагает присоединиться к вашей команде."
 
 #: src-en/data/events_sector_aea_old_2.xml:999
 msgid ""
@@ -1070,12 +1331,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_old_2.xml:1005
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[6]/text"
-msgstr ""
+msgstr "Посетить магазин \"Горячий камень\"."
 
 #: src-en/data/events_sector_aea_old_2.xml:1007
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[6]/event/text"
 msgstr ""
+"Вы подходите к прилавку, но, к сожалению, в нем совсем нет еды. Что еще "
+"хуже, человек, работающий за прилавком, был брошен своим кораблем, и он "
+"предлагает присоединиться к вашей команде."
 
 #: src-en/data/events_sector_aea_old_2.xml:1010
 msgid ""
@@ -1091,6 +1355,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[7]/event/text"
 msgstr ""
+"Вы подходите к прилавку, но, к сожалению, в нем совсем нет еды. Что еще "
+"хуже, человек, работающий за прилавком, был брошен своим кораблем, и он "
+"предлагает присоединиться к вашей команде."
 
 #: src-en/data/events_sector_aea_old_2.xml:1021
 msgid ""
@@ -1106,6 +1373,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[8]/event/text"
 msgstr ""
+"Вы подходите к прилавку, но, к сожалению, в нем совсем нет еды. Что еще "
+"хуже, человек, работающий за прилавком, был брошен своим кораблем, и он "
+"предлагает присоединиться к вашей команде."
 
 #: src-en/data/events_sector_aea_old_2.xml:1032
 msgid ""
@@ -1121,6 +1391,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[9]/event/text"
 msgstr ""
+"Вы подходите к прилавку, но, к сожалению, в нем совсем нет еды. Что еще "
+"хуже, человек, работающий за прилавком, был брошен своим кораблем, и он "
+"предлагает присоединиться к вашей команде."
 
 #: src-en/data/events_sector_aea_old_2.xml:1043
 msgid ""
@@ -1432,18 +1705,27 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[1]"
 msgstr ""
+"К вам приближается большое судно, похоже, они хотят заполучить все новые "
+"технологии, которые есть на вашем корабле."
 
 #: src-en/data/events_sector_aea_old_2.xml:1334
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[2]"
 msgstr ""
+"Очевидно, что корабль, который атакует вас, продержался так долго только "
+"потому, что был невероятно опасен."
 
 #: src-en/data/events_sector_aea_old_2.xml:1335
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[3]"
 msgstr ""
+"Единственный способ выжить в этой части Мультивселенной - отбирать ресурсы у "
+"других, и сейчас к вам приближаются выжившие."
 
 #: src-en/data/events_sector_aea_old_2.xml:1336
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[4]"
 msgstr ""
+"Хотя Лилмики и против убийства друг друга, они ничего не делают для того, "
+"чтобы граждане их государства не убивали друг друга. В этот момент один из "
+"граждан переходит в атакующую позицию."
