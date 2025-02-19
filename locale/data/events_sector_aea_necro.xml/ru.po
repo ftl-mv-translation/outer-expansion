@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-19 17:13+0000\n"
+"PO-Revision-Date: 2025-02-20 18:13+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_necroxml/ru/>\n"
@@ -32,6 +32,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/text"
 msgstr ""
+"Вы находите заброшенный корабль Еретиков на орбите вокруг луны. На корабле "
+"нет абсолютно никаких признаков активности."
 
 #: src-en/data/events_sector_aea_necro.xml:59
 msgid ""
@@ -42,6 +44,10 @@ msgstr "Подняться на борт корабля."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi_defender\"]/event/text"
 msgstr ""
+"Когда вы поднимаетесь на борт корабля, вы обнаруживаете жуткую сцену: когда "
+"ваш элитный энджи осматривал место происшествия, он начал биться в "
+"конвульсиях. Похоже, он прикоснулся к телу энджи-Еретика и был заражен каким-"
+"то вирусом. Теперь ваш энджи превратился в элитного энджи-Еретика."
 
 #: src-en/data/events_sector_aea_necro.xml:64
 msgid ""
@@ -57,6 +63,10 @@ msgstr "Подняться на борт корабля."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi\"]/event/text"
 msgstr ""
+"Когда вы поднимаетесь на борт корабля, вы обнаруживаете жуткую сцену: когда "
+"ваш энджи осматривал место происшествия, он начал биться в конвульсиях. "
+"Похоже, он прикоснулся к телу энджи-Еретика и был заражен каким-то вирусом. "
+"Теперь ваш энджи превратился в энджи-Еретика."
 
 #: src-en/data/events_sector_aea_necro.xml:75
 msgid ""
@@ -72,6 +82,10 @@ msgstr "Подняться на борт корабля."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi_separatist\"]/event/text"
 msgstr ""
+"Когда вы поднимаетесь на борт корабля, вы обнаруживаете жуткую сцену: когда "
+"ваш энджи осматривал место происшествия, он начал биться в конвульсиях. "
+"Похоже, он прикоснулся к телу энджи-Еретика и был заражен каким-то вирусом. "
+"Теперь ваш энджи превратился в энджи-Еретика."
 
 #: src-en/data/events_sector_aea_necro.xml:86
 msgid ""
@@ -87,6 +101,10 @@ msgstr "Подняться на борт корабля."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi_separatist_nano\"]/event/text"
 msgstr ""
+"Когда вы поднимаетесь на борт корабля, вы обнаруживаете жуткую сцену: когда "
+"ваш энджи осматривал место происшествия, он начал биться в конвульсиях. "
+"Похоже, он прикоснулся к телу энджи-Еретика и был заражен каким-то вирусом. "
+"Теперь ваш энджи превратился в энджи-Еретика."
 
 #: src-en/data/events_sector_aea_necro.xml:97
 msgid ""
@@ -171,34 +189,42 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/text"
 msgstr ""
+"Вы прибываете на маяк и обнаруживаете поврежденное судно Еретиков, "
+"дрейфующее в пустоте. Вас вызывает энджи-Еретик. \"Ренегат, мне нужно [новое]"
+" судно, а вам нужен [новый] экипаж?\""
 
 #: src-en/data/events_sector_aea_necro.xml:157
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Принять его на свой корабль."
 
 #: src-en/data/events_sector_aea_necro.xml:159
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Энджи-Еретик осматривает ваш экипаж во время подъема на борт, но, не найдя "
+"органического экипажа, удовлетворенный вашим экипажем, он охотно подчиняется "
+"вам."
 
 #: src-en/data/events_sector_aea_necro.xml:164
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Принять его на свой корабль."
 
 #: src-en/data/events_sector_aea_necro.xml:168
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[3]/text"
-msgstr ""
+msgstr "Отказаться от его предложения."
 
 #: src-en/data/events_sector_aea_necro.xml:170
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[3]/event/text"
 msgstr ""
+"Энджи-Еретик, похоже, слегка рассержен вашим отказом, но, заметив на заднем "
+"фоне органических членов экипажа, он испытывает облегчение."
 
 #: src-en/data/events_sector_aea_necro.xml:172
 msgid ""
@@ -214,6 +240,10 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_FREE_CREW_ORGANIC\"]/event[1]/text"
 msgstr ""
+"Когда энджи-Еретик поднимается на борт вашего корабля, он осматривает ваш "
+"экипаж. Он замечает ваш органический экипаж: \"[Органика] отвратительна, "
+"однако необходимость в [новом] корабле перевешивает мое презрение к вашей "
+"[отвратительной] органике\"."
 
 #: src-en/data/events_sector_aea_necro.xml:187
 msgid ""
@@ -224,6 +254,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_FREE_CREW_ORGANIC\"]/event[2]/text"
 msgstr ""
+"Когда энджи-Еретик поднимается на борт вашего корабля, он осматривает ваш "
+"экипаж. Он замечает ваш органический экипаж: \"[Органика] отвратительна, я "
+"вернусь на свой [поврежденный] корабль\"."
 
 #: src-en/data/events_sector_aea_necro.xml:194
 msgid ""
@@ -234,6 +267,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/text"
 msgstr ""
+"Прибыв на маяк, вы обнаруживаете обломки большого корабля Еретиков, "
+"разорванного шквалом астероидов."
 
 #: src-en/data/events_sector_aea_necro.xml:207
 msgid ""
@@ -244,16 +279,25 @@ msgstr "Подняться на борт корабля."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/text"
 msgstr ""
+"Когда вы поднимаетесь на борт корабля, вам постоянно напоминают о себе "
+"астероиды, врезающиеся в корпус, и эти звуки эхом разносятся по пустым "
+"коридорам.\n"
+"\n"
+"Вы доходите до перекрестка в коридоре, вероятно, вам не хватит времени, "
+"чтобы обыскать все три пути. Вы читаете надписи над каждым направлением."
 
 #: src-en/data/events_sector_aea_necro.xml:213
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Отправиться в инженерный отсек."
 
 #: src-en/data/events_sector_aea_necro.xml:215
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Вы входите в инженерный отсек, помещение в руинах, однако вам удается "
+"забрать одного из немногих оставшихся дронов, прежде чем эвакуироваться "
+"обратно на свой корабль."
 
 #: src-en/data/events_sector_aea_necro.xml:218
 msgid ""
@@ -263,12 +307,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:224
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Отправиться на капитанский мостик."
 
 #: src-en/data/events_sector_aea_necro.xml:226
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Вы входите на мостик корабля, и становится ясно, что экипаж этого корабля "
+"давно покинула гибнущее судно. Вам удается получить доступ к их компьютерам "
+"и загрузить полную карту сектора, прежде чем вы будет вынуждены вернуться "
+"обратно."
 
 #: src-en/data/events_sector_aea_necro.xml:229
 msgid ""
@@ -278,12 +326,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:235
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Отправиться в грузовой отсек."
 
 #: src-en/data/events_sector_aea_necro.xml:237
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Грузовой отсек относительно пуст, но в глаза бросается большая клетка в "
+"углу, внутри которой находится пленник, желающий присоединиться к вашему "
+"экипажу, если вы только выпустите его."
 
 #: src-en/data/events_sector_aea_necro.xml:240
 msgid ""
@@ -314,21 +365,27 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ORGANICS_HATE\"]/text"
 msgstr ""
+"Прибыв на маяк, вы обнаружили на орбите неподалеку корабль Еретиков. Они "
+"связываются с вами. \"У вас случайно нет подопытного? Нам нужна органика\"."
 
 #: src-en/data/events_sector_aea_necro.xml:274
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ORGANICS_HATE\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\"]/text"
 msgstr ""
+"(Органический член экипажа) Передать органического члена экипажа энджи-"
+"Еретикам для испытаний."
 
 #: src-en/data/events_sector_aea_necro.xml:278
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ORGANICS_HATE\"]/choice[2]/text"
-msgstr ""
+msgstr "Сказать, что ничем не можете помочь."
 
 #: src-en/data/events_sector_aea_necro.xml:280
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ORGANICS_HATE\"]/choice[2]/event/text"
 msgstr ""
+"Энджи-Еретик, похоже, слегка рассержен вашим отказом, но, заметив на заднем "
+"фоне органических членов экипажа, он испытывает облегчение."
 
 #: src-en/data/events_sector_aea_necro.xml:282
 msgid ""
@@ -344,6 +401,10 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_ORGANICS_HATE_LIST\"]/event[1]/text"
 msgstr ""
+"Вы передаете своего члена экипажа Еретикам. Подождав некоторое время, вы уже "
+"собираетесь потребовать своего члена экипажа обратно, когда Еретики "
+"связываются с вами и сообщают, что они закончили. Они быстро возвращают вам "
+"члена экипажа и уходят в прыжок."
 
 #: src-en/data/events_sector_aea_necro.xml:297
 msgid ""
@@ -354,11 +415,17 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_ORGANICS_HATE_LIST\"]/event[1]/choice/event/text"
 msgstr ""
+"Ваш член экипажа ведет себя немного странно, зато у него с собой куча лома, "
+"так что вам не на что жаловаться."
 
 #: src-en/data/events_sector_aea_necro.xml:305
 msgid ""
 "data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_ORGANICS_HATE_LIST\"]/event[2]/text"
 msgstr ""
+"Вы передаете своего члена экипажа Еретикам. Подождав некоторое время, вы уже "
+"собираетесь потребовать своего члена экипажа обратно, когда Еретики "
+"связываются с вами и сообщают, что они закончили. Они быстро возвращают вам "
+"члена экипажа и уходят в прыжок."
 
 #: src-en/data/events_sector_aea_necro.xml:307
 msgid ""
@@ -369,6 +436,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_ORGANICS_HATE_LIST\"]/event[2]/choice/event/text"
 msgstr ""
+"Выясняется, что они, должно быть, прислали не того члена экипажа, но они уже "
+"ушли в прыжок, прежде чем вы успели с ними связаться."
 
 #: src-en/data/events_sector_aea_necro.xml:314
 msgid ""
@@ -379,6 +448,8 @@ msgstr "."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/text"
 msgstr ""
+"Корабль Еретиков вступил в бой с кораблем Союза. Судя по всему, бой зашел в "
+"тупик, и ни один из кораблей не одерживает верх над другим."
 
 #: src-en/data/events_sector_aea_necro.xml:339
 msgid ""
@@ -389,16 +460,20 @@ msgstr "Связаться с кораблями."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[1]/event/text"
 msgstr ""
+"Энджи-Еретики объясняют, что тела людей нужны им для военных операций, а "
+"корабль Союза возражает им, объясняя, что они не хотят умирать."
 
 #: src-en/data/events_sector_aea_necro.xml:343
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Встать на сторону Еретиков."
 
 #: src-en/data/events_sector_aea_necro.xml:345
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Корабль Союза возмущен вашим предательством. Еретики, обрадованные "
+"поддержкой, отступают, чтобы дать вам возможность вступить в бой."
 
 #: src-en/data/events_sector_aea_necro.xml:348
 msgid ""
@@ -408,12 +483,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:354
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Встать на сторону гражданских."
 
 #: src-en/data/events_sector_aea_necro.xml:356
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"\"Ренегат, надеюсь, вы знакомы с их тактикой, они не очень-то честно "
+"сражаются\"."
 
 #: src-en/data/events_sector_aea_necro.xml:359
 msgid ""
@@ -446,6 +523,10 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE_WIN\"]/text"
 msgstr ""
+"\"Вам сопутствовал успех. Вы доказали, что вполне способны справиться с "
+"этими органическими существами, возможно, вы примете меня на свой корабль?\" "
+"Остальные Еретики отправляются к останкам корабля Союза, и вы с содроганием "
+"думаете, что они там собираются делать."
 
 #: src-en/data/events_sector_aea_necro.xml:386
 msgid ""
@@ -456,6 +537,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ENGI_CHOICE_WIN\"]/text"
 msgstr ""
+"\"Ренегат, мы благодарны вам за то, что вы спасли нас, пожалуйста, возьмите "
+"этот дрон в качестве награды\"."
 
 #: src-en/data/events_sector_aea_necro.xml:395
 msgid ""
@@ -466,26 +549,43 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/text"
 msgstr ""
+"Прибыв на место, вы обнаруживаете, что корабль еретиков готовится к "
+"нападению на близлежащее поселение. Вы слышите, как лидер поселения пытается "
+"уговорить их.\n"
+"\n"
+"\"Вы ошибаетесь, нам нужны ваши тела для военных операций\".\n"
+"\n"
+"\"Пожалуйста, это все неправильно. Вы не должны нас убивать, лучше "
+"используйте дронов или что-то еще, это жестоко!\"\n"
+"\n"
+"\"Мы не понимаем, зачем создавать роботов, чтобы они выполняли работу "
+"органиков, ведь так будет эффективнее?\"\n"
+"\n"
+"\"Роль органиков не в том, чтобы умирать и воскресать ради вашего дела, у "
+"нас есть жизни, семьи, чувства, мы существуем вне ваших сражений. "
+"Пожалуйста, не впутывайте нас в это\"."
 
 #: src-en/data/events_sector_aea_necro.xml:411
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/text"
-msgstr ""
+msgstr "Призвать Еретиков энджи использовать дроны."
 
 #: src-en/data/events_sector_aea_necro.xml:413
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "\"Но у нас их нет, здесь полно людей, которых можно использовать\"."
 
 #: src-en/data/events_sector_aea_necro.xml:415
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG_DEFEND\"]/text"
-msgstr ""
+msgstr "Передать им Боевого дрона."
 
 #: src-en/data/events_sector_aea_necro.xml:417
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG_DEFEND\"]/event/text"
 msgstr ""
+"\"Возможно, органики правы, это может послужить нашим целям. Возможно, мы "
+"ошибались насчет органиков...\""
 
 #: src-en/data/events_sector_aea_necro.xml:420
 msgid ""
@@ -495,12 +595,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:426
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG_BOARDER\"]/text"
-msgstr ""
+msgstr "Передать им Боевого дрона."
 
 #: src-en/data/events_sector_aea_necro.xml:428
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG_BOARDER\"]/event/text"
 msgstr ""
+"\"Возможно, органики правы, это может послужить нашим целям. Возможно, мы "
+"ошибались насчет органиков...\""
 
 #: src-en/data/events_sector_aea_necro.xml:431
 msgid ""
@@ -510,12 +612,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:437
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG2_DEFEND\"]/text"
-msgstr ""
+msgstr "Передать им Боевого дрона мод. II."
 
 #: src-en/data/events_sector_aea_necro.xml:439
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG2_DEFEND\"]/event/text"
 msgstr ""
+"\"Возможно, органики правы, это может послужить нашим целям. Возможно, мы "
+"ошибались насчет органиков...\""
 
 #: src-en/data/events_sector_aea_necro.xml:442
 msgid ""
@@ -525,12 +629,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:448
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG2_BOARDER\"]/text"
-msgstr ""
+msgstr "Передать им Боевого дрона мод. II."
 
 #: src-en/data/events_sector_aea_necro.xml:450
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG2_BOARDER\"]/event/text"
 msgstr ""
+"\"Возможно, органики правы, это может послужить нашим целям. Возможно, мы "
+"ошибались насчет органиков...\""
 
 #: src-en/data/events_sector_aea_necro.xml:453
 msgid ""
@@ -541,11 +647,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[5]/text"
 msgstr ""
+"Подсказать им расположение ближайшего магазина, где они смогут купить все "
+"необходимые им дроны."
 
 #: src-en/data/events_sector_aea_necro.xml:461
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[5]/event/text"
 msgstr ""
+"Возможно, вы правы, мы попробуем дроны, прежде чем использовать эту органику."
 
 #: src-en/data/events_sector_aea_necro.xml:463
 msgid ""
@@ -555,7 +664,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:465
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[5]/event/choice/event/text"
-msgstr ""
+msgstr "Поселенец благодарит вас и предлагает небольшое вознаграждение."
 
 #: src-en/data/events_sector_aea_necro.xml:468
 msgid ""
@@ -566,13 +675,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сказать Еретикам, чтобы они делали то, что им нужно."
 
 #: src-en/data/events_sector_aea_necro.xml:480
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "\"Вы правы, вы также обладаете органикой, мы возьмем ее для дела\"."
 
 #: src-en/data/events_sector_aea_necro.xml:483
 msgid ""
@@ -584,13 +693,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Сказать Еретикам, чтобы они делали то, что им нужно."
 
 #: src-en/data/events_sector_aea_necro.xml:491
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"\"Вы правы, органики - это наш выбор. Примите это [дрон] в знак нашей помощи "
+"в вашем собственном походе против органиков, известных как повстанцы\"."
 
 #: src-en/data/events_sector_aea_necro.xml:494
 msgid ""
@@ -607,6 +718,7 @@ msgstr "Не вмешиваться."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[4]/event/text"
 msgstr ""
+"Вы стараетесь не слушать, как Еретики энджи открывают огонь по поселению."
 
 #: src-en/data/events_sector_aea_necro.xml:504
 msgid ""
@@ -622,6 +734,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL_REWARD\"]/text"
 msgstr ""
+"Поселение обращается к вам, чтобы выразить свою благодарность за то, что вы "
+"заставили Еретиков энджи мирно уйти, они предлагают вам большую награду и "
+"дрон."
 
 #: src-en/data/events_sector_aea_necro.xml:519
 msgid ""
@@ -632,6 +747,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL_REWARD2\"]/text"
 msgstr ""
+"Поселение обращается к вам, чтобы выразить свою благодарность за то, что вы "
+"заставили Еретиков энджи мирно уйти, они предлагают вам большую награду и "
+"дрон."
 
 #: src-en/data/events_sector_aea_necro.xml:528
 msgid ""
@@ -642,6 +760,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/text"
 msgstr ""
+"Мимо маяка пролетает корабль, он выглядит сильно поврежденным, некоторые "
+"следы от пожара еще горячие."
 
 #: src-en/data/events_sector_aea_necro.xml:536
 msgid ""
@@ -652,16 +772,22 @@ msgstr "Подняться на борт корабля."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/text"
 msgstr ""
+"Вы быстро обыскиваете корабль, находите членов экипажа, но все они мертвы. "
+"Тот, кто это сделал, наверняка был намерен убить их всех."
 
 #: src-en/data/events_sector_aea_necro.xml:540
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Похоронить тела на ближайшей планете."
 
 #: src-en/data/events_sector_aea_necro.xml:542
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Когда вы закапываете тела, неподалеку появляется большой корабль Еретиков, "
+"они замечают вас и то, что вы делаете.\n"
+"\t\t\t\n"
+"\"Это наши, нам придется забрать ваши\"."
 
 #: src-en/data/events_sector_aea_necro.xml:547
 msgid ""
@@ -671,12 +797,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:553
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимание на трупы."
 
 #: src-en/data/events_sector_aea_necro.xml:555
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Вернувшись на корабль, вы обнаруживаете, что к вам приближается корабль "
+"Еретиков.\n"
+"\n"
+"\"Эта органика наша, оставьте ее нам\"."
 
 #: src-en/data/events_sector_aea_necro.xml:560
 msgid ""
@@ -687,6 +817,7 @@ msgstr "Атаковать корабль."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[2]/event/choice[1]/event/text"
 msgstr ""
+"Экипаж корабля не дожил до этого момента, но вы все равно отомстите за них."
 
 #: src-en/data/events_sector_aea_necro.xml:565
 msgid ""
@@ -696,12 +827,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:571
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Объяснить, что у вас не было намерения трогать тела."
 
 #: src-en/data/events_sector_aea_necro.xml:573
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"\"Хорошо, нам нужна только органика, вы можете взять все остальное\". Вы "
+"сможете разграбить судно после того, как еретики заберут свои трофеи."
 
 #: src-en/data/events_sector_aea_necro.xml:576
 msgid ""
@@ -716,7 +849,7 @@ msgstr "Улететь."
 #: src-en/data/events_sector_aea_necro.xml:588
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы не собираетесь вмешиваться во все, что происходит с этим кораблем."
 
 #: src-en/data/events_sector_aea_necro.xml:590
 msgid ""
@@ -927,6 +1060,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/text"
 msgstr ""
+"Вас вызывает корабль Еретиков. \"Ваша ситуация с флотом известна. У нас есть "
+"предложение. Помогите нам уничтожить вражеский корабль, и мы задержим флот\"."
 
 #: src-en/data/events_sector_aea_necro.xml:727
 msgid ""
@@ -937,6 +1072,8 @@ msgstr "Выслушать их предложение."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[1]/event/text"
 msgstr ""
+"\"Автоматические корабли повстанцев, хотя и не органические, но "
+"контролируются органикой. С ним трудно справиться. Вы поможете?\""
 
 #: src-en/data/events_sector_aea_necro.xml:731
 msgid ""
@@ -946,7 +1083,7 @@ msgstr "Согласиться уничтожить авто-корабль."
 #: src-en/data/events_sector_aea_necro.xml:733
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Еретики указывают вам местонахождение автоматического корабля."
 
 #: src-en/data/events_sector_aea_necro.xml:736
 msgid ""
@@ -962,6 +1099,8 @@ msgstr "Отказаться от их предложения."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"\"Я -недоволен- вашим ответом, но готов стерпеть. Постарайтесь не умереть, "
+"капитан\"."
 
 #: src-en/data/events_sector_aea_necro.xml:746
 msgid ""
@@ -981,7 +1120,7 @@ msgstr "Нет, спасибо."
 #: src-en/data/events_sector_aea_necro.xml:760
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"Разочаровывает. Постарайтесь не умереть\"."
 
 #: src-en/data/events_sector_aea_necro.xml:762
 msgid ""
@@ -997,6 +1136,12 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY_WIN\"]/text"
 msgstr ""
+"\"Очень хорошо. Теперь о вознаграждении. Пожалуйста, не двигайте ваш "
+"[корабль]. Еретики сканируют ваш корабль, от чего у вас по всему телу "
+"пробегают мурашки. Еретики снова вызывают вас, на этот раз выглядя очень "
+"похожими на вас. \"Моя мощность меньше 100%, но ничего не поделаешь. Я "
+"замаскировал вашу прыжковую сигнатуру. Флот теперь будет следовать за мной. "
+"Всего хорошего\"."
 
 #: src-en/data/events_sector_aea_necro.xml:777
 msgid ""
@@ -1007,11 +1152,15 @@ msgstr "\"Вы потерпели неудачу. Не пытайтесь сно
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_PIRATE\"]/text"
 msgstr ""
+"Вы обнаруживаете маяк бедствия: он принадлежит небольшой спасательной "
+"капсуле, которую пилотирует Еретик энджи. \"Органики захватили контроль над "
+"моим [кораблем], мы не знали, что они еще живы, иначе мы бы не взяли их на "
+"борт\"."
 
 #: src-en/data/events_sector_aea_necro.xml:806
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_PIRATE\"]/choice[1]/text"
-msgstr ""
+msgstr "Помочь Еретику."
 
 #: src-en/data/events_sector_aea_necro.xml:808
 msgid ""
@@ -1033,7 +1182,7 @@ msgstr "Не вмешиваться."
 #: src-en/data/events_sector_aea_necro.xml:819
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_PIRATE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Еретик выглядит раздраженным и сразу же отключает связь."
 
 #: src-en/data/events_sector_aea_necro.xml:821
 msgid ""
@@ -1049,16 +1198,21 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_necro.xml$//eventList[@name=\"DISTRESS_AEA_NECRO_PIRATE_DESTROYED\"]/event[1]/text"
 msgstr ""
+"\"Ого. [Ты] настоящий придурок, да? Что мне теперь [делать]?\" Еретик "
+"заканчивает общение с раздражением."
 
 #: src-en/data/events_sector_aea_necro.xml:837
 msgid ""
 "data/events_sector_aea_necro.xml$//eventList[@name=\"DISTRESS_AEA_NECRO_PIRATE_DESTROYED\"]/event[2]/text"
-msgstr ""
+msgstr "\"Вы уничтожили мою [собственность]. Я -отомщу-\"."
 
 #: src-en/data/events_sector_aea_necro.xml:844
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/text"
 msgstr ""
+"Необычно для сектора Еретиков энджи, но здесь, похоже, есть населенная "
+"планета. Сигнал бедствия поступает с корабля Еретиков, находящегося на "
+"орбите над ней."
 
 #: src-en/data/events_sector_aea_necro.xml:847
 msgid ""
@@ -1069,16 +1223,21 @@ msgstr "Связаться с ними."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/text"
 msgstr ""
+"\"Капитан, мы считаем, что вы можете нам помочь, мы пытались воскресить все "
+"население, но что-то пошло не так, и мы потеряли контроль над органикой, "
+"пожалуйста, исправьте это\"."
 
 #: src-en/data/events_sector_aea_necro.xml:852
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"mind\"]/text"
-msgstr ""
+msgstr "(Контроль разума) Вернуть население под контроль Еретиков энджи."
 
 #: src-en/data/events_sector_aea_necro.xml:854
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"mind\"]/event/text"
 msgstr ""
+"С помощью системы контроля разума вы возвращаете их всех под контроль "
+"Еретиков энджи."
 
 #: src-en/data/events_sector_aea_necro.xml:856
 msgid ""
@@ -1089,11 +1248,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"LIST_CREW_ENGI\"]/text"
 msgstr ""
+"(Член экипажа-энджи) Отправиться на планету и взаимодействовать с "
+"нано-ботами."
 
 #: src-en/data/events_sector_aea_necro.xml:864
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"LIST_CREW_ENGI\"]/event/text"
 msgstr ""
+"Ваш энджи сможет взаимодействовать с нано-ботами на поверхности и снова "
+"взять их под контроль Еретиков энджи."
 
 #: src-en/data/events_sector_aea_necro.xml:866
 msgid ""
@@ -1104,11 +1267,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"hacking\"]/text"
 msgstr ""
+"(Взломщик) Взломать нано-боты и вернуть контроль над ними Еретикам энджи."
 
 #: src-en/data/events_sector_aea_necro.xml:874
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"hacking\"]/event/text"
 msgstr ""
+"Вам удается взломать систему нано-ботов и отключить функцию, которая по "
+"неосторожности перехватила управление у Еретиков энджи."
 
 #: src-en/data/events_sector_aea_necro.xml:876
 msgid ""
@@ -1118,12 +1284,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:882
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"medbay\"]/text"
-msgstr ""
+msgstr "(Медотсек) Вылечить население."
 
 #: src-en/data/events_sector_aea_necro.xml:884
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"medbay\"]/event/text"
 msgstr ""
+"Вы можете использовать свой Медотсек, чтобы синтезировать лекарство от "
+"недуга людей на поверхности планеты."
 
 #: src-en/data/events_sector_aea_necro.xml:886
 msgid ""
@@ -1133,12 +1301,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:892
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"BOMB_HEAL\"]/text"
-msgstr ""
+msgstr "(Медицинская бомба) Вылечить население."
 
 #: src-en/data/events_sector_aea_necro.xml:894
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"BOMB_HEAL\"]/event/text"
 msgstr ""
+"Вы сможете использовать свою Медицинскую бомбу, чтобы синтезировать "
+"лекарство от недуга людей на поверхности планеты."
 
 #: src-en/data/events_sector_aea_necro.xml:896
 msgid ""
@@ -1148,12 +1318,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:902
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/text"
-msgstr ""
+msgstr "(Член экипажа-Медик) Вылечить население."
 
 #: src-en/data/events_sector_aea_necro.xml:904
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/text"
 msgstr ""
+"Ваш медицинский экипаж способен синтезировать лекарство от недуга, которым "
+"страдают люди на поверхности планеты."
 
 #: src-en/data/events_sector_aea_necro.xml:906
 msgid ""
@@ -1163,12 +1335,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:912
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[7]/text"
-msgstr ""
+msgstr "Вы ничем не можете помочь."
 
 #: src-en/data/events_sector_aea_necro.xml:914
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[7]/event/text"
-msgstr ""
+msgstr "Еретики энджи разочарованы, но возвращаются к наблюдению за планетой."
 
 #: src-en/data/events_sector_aea_necro.xml:916
 msgid ""
@@ -1184,11 +1356,16 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ZOMBIE_REWARD\"]/text"
 msgstr ""
+"\"Отличная работа, капитан, вот ваша награда за хорошо выполненную работу\". "
+"Еретик энджи поворачивается назад, чтобы продолжить наблюдение за планетой."
 
 #: src-en/data/events_sector_aea_necro.xml:933
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ZOMBIE_FAILURE\"]/text"
 msgstr ""
+"\"Что это значит, это какой-то подвох! Приготовьтесь умереть за свое "
+"предательство!\" Похоже, Еретики энджи не очень хорошо восприняли ваше "
+"уничтожение их планеты зомби."
 
 #: src-en/data/events_sector_aea_necro.xml:936
 msgid ""
@@ -1204,16 +1381,25 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_DISTRESS_AEA_NECRO_TRAP_BEACON\"]/text[1]"
 msgstr ""
+"Корабль, подающий сигнал бедствия, - это корабль Еретиков, они вызывают вас. "
+"\"Вы, органики, всегда попадаетесь на это, приготовьтесь умереть и стать "
+"моим рабом!\" Похоже, вы попались в ловушку Еретиков."
 
 #: src-en/data/events_sector_aea_necro.xml:952
 msgid ""
 "data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_DISTRESS_AEA_NECRO_TRAP_BEACON\"]/text[2]"
 msgstr ""
+"\"Капитан, вы должны были [догадаться], что это фальшивый маяк бедствия. "
+"Различные микроколебания и частоты гамма-узлов - это -явное- доказательство. "
+"Только органик мог пропустить что-то настолько очевидное, приготовся стать "
+"моим [рабом]!\""
 
 #: src-en/data/events_sector_aea_necro.xml:976
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE\"]/text"
 msgstr ""
+"Эскадра кораблей Еретиков собралась у этого маяка. Они не сразу атакуют вас, "
+"их оружие даже не включено."
 
 #: src-en/data/events_sector_aea_necro.xml:978
 msgid ""
@@ -1224,6 +1410,14 @@ msgstr "Выйти с ними на связь."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE\"]/choice[1]/event/text"
 msgstr ""
+"\"Запрос на контакт получен. Время удачное. У нас есть для вас предложение. "
+"Текущая цель: Уничтожить аванпост органиков. Органики установили мощную "
+"систему обороны для защиты своего форпоста. Остерегайтесь астероидного поля, "
+"предыдущие попытки были [неудачными], при входе в поле внезапно "
+"обнаруживалось, что [щиты] отключены\".\n"
+"\n"
+"\"Мы дадим дополнительную награду, если вам удастся сохранить аванпост в "
+"целости и сохранности\"."
 
 #: src-en/data/events_sector_aea_necro.xml:985
 msgid ""
@@ -1233,7 +1427,7 @@ msgstr "Согласиться."
 #: src-en/data/events_sector_aea_necro.xml:987
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Энджи передают информацию о местонахождении аванпоста."
 
 #: src-en/data/events_sector_aea_necro.xml:992
 msgid ""
@@ -1255,6 +1449,8 @@ msgstr "Не обращать на них внимания."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE\"]/choice[2]/event/text"
 msgstr ""
+"Корабли Еретиков, похоже, не беспокоит ваше присутствие, и вы оставляете их "
+"в покое."
 
 #: src-en/data/events_sector_aea_necro.xml:1004
 msgid ""
@@ -1269,12 +1465,16 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_aea_necro.xml:1017
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Пиратский аванпост, который вам поручено зачистить Еретиками."
 
 #: src-en/data/events_sector_aea_necro.xml:1021
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/text"
 msgstr ""
+"Подлетев к маяку, вы оказываетесь в огромном астероидном поле. Не прошло и "
+"минуты, как ваши щиты начали разрушаться. Вас взломали. Ваш экипаж говорит "
+"вам, что восстановление щитов займет всего 15 секунд, но до этого времени "
+"вам придется выживать в астероидном поле."
 
 #: src-en/data/events_sector_aea_necro.xml:1024
 msgid ""
@@ -1294,7 +1494,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:1035
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "(Взломщик) Восстановить свои щиты."
 
 #: src-en/data/events_sector_aea_necro.xml:1037
 msgid ""
@@ -1315,11 +1515,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[3]/event/text"
 msgstr ""
+"Не имея другого выбора, ваш экипаж готовится к столкновению с астероидами."
 
 #: src-en/data/events_sector_aea_necro.xml:1051
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Восстановление системы щитов..."
 
 #: src-en/data/events_sector_aea_necro.xml:1056
 msgid ""
@@ -1330,11 +1531,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_CONTINUE\"]/text"
 msgstr ""
+"Восстановив систему защиты, вы направляетесь к пиратскому аванпосту. По мере "
+"приближения вы понимаете, что это не обычная станция, а специализированная "
+"платформа для ополченцев, оснащенная мощным оружием. Это будет нелегкий бой."
 
 #: src-en/data/events_sector_aea_necro.xml:1066
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_CONTINUE\"]/choice/text"
-msgstr ""
+msgstr "Приготовиться к бою!"
 
 #: src-en/data/events_sector_aea_necro.xml:1094
 msgid ""
@@ -1345,6 +1549,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[1]"
 msgstr ""
+"По связи раздается короткий визг, за которым следует циклическое сообщение "
+"на двоичном языке. Вы не успеваете перевести его, как корабль Еретиков "
+"делает предупредительный выстрел, который рикошетом отскакивает от вашей "
+"защиты."
 
 #: src-en/data/events_sector_aea_necro.xml:1100
 msgid ""
@@ -1380,11 +1588,18 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[6]"
 msgstr ""
+"Вас вызывает корабль Сепаратистов, который начинает увлеченно рассказывать о "
+"творчестве какого-то мертвеца по имени Шекспир. Вдруг он резко прекращает "
+"свою речь и нападает!"
 
 #: src-en/data/events_sector_aea_necro.xml:1108
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_ENGI_AEA_NECRO\"]/text"
 msgstr ""
+"Корабль еретиков находится на орбите маяка, но прежде чем вы успеваете "
+"связаться с ними, они уходят в прыжок, и к вам приближается корабль "
+"Сепаратистов. \"Капитан, эти Еретики были изгнаны из рядов Сепаратистов не "
+"просто так, они опасны, поэтому вы тоже опасны, и с вами нужно разобраться\"."
 
 #: src-en/data/events_sector_aea_necro.xml:1111
 msgid ""
@@ -1395,6 +1610,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_REBEL_AUTO_AEA_NECRO\"]/text"
 msgstr ""
+"\"Мы советуем вам избегать автоматического корабля. Он сломан\". Вы "
+"замечаете, что корабль Сепаратистов, который вас вызвал, скрывается за "
+"крупными астероидами, а также автоматический корабль повстанцев, несущийся к "
+"вам!"
 
 #: src-en/data/events_sector_aea_necro.xml:1120
 msgid ""
@@ -1414,6 +1633,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_ZOLTAN_AUTO_AEA_NECRO\"]/text"
 msgstr ""
+"Вы прибываете на маяк и неожиданно сталкиваетесь с автоматическим кораблем "
+"золтан. Похоже, он заражен каким-то вирусом, потому что вот-вот начнет вас "
+"атаковать."
 
 #: src-en/data/events_sector_aea_necro.xml:1133
 msgid ""
@@ -1434,6 +1656,10 @@ msgstr "Здесь находится Канал связи Гармонии."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO\"]/text"
 msgstr ""
+"Похоже, вы обнаружили Связь Гармонии. Эти массивные структуры размером с "
+"планету состоят из триллионов наноботов и передают мощный сигнал всем энджи "
+"в секторе. Однако, похоже, эта структура была испорчена Еретиками, и теперь "
+"они используют наноботов для воскрешения тел своих врагов."
 
 #: src-en/data/events_sector_aea_necro.xml:1163
 msgid ""
@@ -1451,6 +1677,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_MFK\"]/text"
 msgstr ""
+"Наблюдая за Связью издалека, вы замечаете, что из нее появляется большой "
+"корабль, но вас удивляет тот факт, что это корабль асов МФК."
 
 #: src-en/data/events_sector_aea_necro.xml:1187
 msgid ""
@@ -1461,6 +1689,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_MFK\"]/choice/event/text"
 msgstr ""
+"Вас вызывают находящиеся неподалеку Еретики энджи. \"Капитан, вы подоспели "
+"как раз вовремя, чтобы испытать наш новейший проект\". С этими словами "
+"корабль асов MFK поворачивается к вам лицом."
 
 #: src-en/data/events_sector_aea_necro.xml:1191
 msgid ""
@@ -1471,11 +1702,17 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_MFK_WIN\"]/text"
 msgstr ""
+"\"Хмм, похоже, что органика, которую вы называете повстанцами, работает не "
+"лучшим образом, нам придется усовершенствовать процесс\". Еретики энджи, "
+"похоже, разочарованы вашей победой, но только потому, что их повстанцы "
+"потерпели неудачу."
 
 #: src-en/data/events_sector_aea_necro.xml:1203
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_FED\"]/text"
 msgstr ""
+"Наблюдая за Связью издалека, вы замечаете, что из нее появляется большой "
+"корабль, но вас удивляет тот факт, что это корабль элиты Федерации."
 
 #: src-en/data/events_sector_aea_necro.xml:1206
 msgid ""
@@ -1486,6 +1723,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_FED\"]/choice/event/text"
 msgstr ""
+"Вас вызывают находящиеся неподалеку Еретики энджи. \"Капитан, вы подоспели "
+"как раз вовремя, чтобы испытать наш новейший проект\". С этими словами "
+"корабль Федерации поворачивается к вам лицом."
 
 #: src-en/data/events_sector_aea_necro.xml:1210
 msgid ""
@@ -1496,6 +1736,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_FED_WIN\"]/text"
 msgstr ""
+"\"Хмм, похоже, что органика, которую вы называете Федерацией, работает не "
+"лучшим образом, нам придется усовершенствовать процесс\". Еретики энджи, "
+"похоже, разочарованы вашей победой, но только потому, что их зомби потерпели "
+"неудачу."
 
 #: src-en/data/events_sector_aea_necro.xml:1225
 msgid ""
@@ -1511,26 +1755,32 @@ msgstr "Здесь находится Канал связи Гармонии."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/text"
 msgstr ""
+"Похоже, вы обнаружили Связь Гармонии. Обычно это массивные структуры "
+"размером с планету, но эта была испорчена Еретиками энджи. Хуже того, они, "
+"похоже, используют ее для попытки воскресить огромного космического кита."
 
 #: src-en/data/events_sector_aea_necro.xml:1231
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/text"
-msgstr ""
+msgstr "Исследовать структуру."
 
 #: src-en/data/events_sector_aea_necro.xml:1233
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/text"
 msgstr ""
+"Когда вы приближаетесь, из Связи появляется огромный крейсер Еретиков, "
+"который, похоже, препятствует вам пройти. \"Уходите, это не для таких, как "
+"вы\"."
 
 #: src-en/data/events_sector_aea_necro.xml:1236
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Попытаться пройти мимо."
 
 #: src-en/data/events_sector_aea_necro.xml:1238
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Крейсер Еретиков активирует оружие: похоже, без боя вы не пройдете."
 
 #: src-en/data/events_sector_aea_necro.xml:1241
 msgid ""
@@ -1540,12 +1790,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:1247
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Отступить, как было рекомендовано."
 
 #: src-en/data/events_sector_aea_necro.xml:1249
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Крейсер Еретиков продолжает наблюдать за вами, пока вы отходите на "
+"безопасное расстояние."
 
 #: src-en/data/events_sector_aea_necro.xml:1251
 msgid ""
@@ -1566,6 +1818,8 @@ msgstr "Не обращать на них внимания."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[2]/event/text"
 msgstr ""
+"Корабли Еретиков, похоже, не беспокоит ваше присутствие, и вы оставляете их "
+"в покое."
 
 #: src-en/data/events_sector_aea_necro.xml:1267
 msgid ""
@@ -1581,6 +1835,10 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/text"
 msgstr ""
+"Теперь, когда вы разобрались с крейсером Еретиков, вы можете добраться до "
+"места воскрешения. В конце концов вы добираетесь до центра управления "
+"сооружением, а внутри обнаруживаете странное оружие, закрепленное на нем и "
+"направленное прямо на чудовище."
 
 #: src-en/data/events_sector_aea_necro.xml:1281
 msgid ""
@@ -1591,6 +1849,8 @@ msgstr "Взять оружие."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/choice[1]/event/text"
 msgstr ""
+"Вы вырываете оружие из корпуса и возвращаетесь на свой корабль. Энджи не "
+"сразу поймут, что что-то не так."
 
 #: src-en/data/events_sector_aea_necro.xml:1286
 msgid ""
@@ -1600,12 +1860,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:1292
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/choice[2]/text"
-msgstr ""
+msgstr "Вместо этого разобрать конструкцию."
 
 #: src-en/data/events_sector_aea_necro.xml:1294
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/choice[2]/event/text"
 msgstr ""
+"Вы хватаете все возможные фрагменты конструкции, прежде чем вернуться на "
+"свой корабль. Энджи не сразу поймут, что что-то не так."
 
 #: src-en/data/events_sector_aea_necro.xml:1297
 msgid ""
@@ -1625,16 +1887,21 @@ msgstr "Здесь находится Канал связи Гармонии."
 #: src-en/data/events_sector_aea_necro.xml:1319
 msgid "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/text"
 msgstr ""
+"Вы прибыли в святилище Еретиков, одно из самых важных мест для Еретиков. "
+"Именно здесь высшее командование Еретиков управляет своими силами, чтобы "
+"дать отпор многочисленным врагам."
 
 #: src-en/data/events_sector_aea_necro.xml:1322
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/text"
-msgstr ""
+msgstr "Приземлиться и исследовать."
 
 #: src-en/data/events_sector_aea_necro.xml:1324
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/text"
 msgstr ""
+"Похоже, на поверхности происходит какое-то событие: сотни Еретиков энджи "
+"собрались на открытой площади и, судя по всему, чего-то ждут."
 
 #: src-en/data/events_sector_aea_necro.xml:1327
 msgid ""
@@ -1645,6 +1912,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Пока вы наблюдаете, из соседнего здания появляется позолоченный Еретик, а за "
+"ним - пленник в цепях. Пленник, судя по всему, генерал повстанцев, хотя из-"
+"за грязи сложно различить униформу.\n"
+"\n"
+"Позолоченный энджи втаскивает генерала на возвышение, а затем достает "
+"большой клинок. Мгновение спустя генерал мертв, пронзенный мечом."
 
 #: src-en/data/events_sector_aea_necro.xml:1334
 msgid ""
@@ -1655,6 +1928,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"Позолоченный энджи еще не закончил с генералом, энджи засовывает руку в рану."
+"\n"
+"\n"
+"Мгновение спустя генерал снова жив, но на этот раз что-то изменилось. "
+"Генерал больше не борется с цепями, похоже, он находится под полным "
+"контролем позолоченного энджи."
 
 #: src-en/data/events_sector_aea_necro.xml:1340
 msgid ""
@@ -1664,7 +1943,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:1342
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Не прошло и минуты, как корабль Еретиков перебивает вас своим оружием."
 
 #: src-en/data/events_sector_aea_necro.xml:1345
 msgid ""
@@ -1679,7 +1958,7 @@ msgstr "Не обращать внимания."
 #: src-en/data/events_sector_aea_necro.xml:1359
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Не стоит рисковать и лезть в то, о чем вы ничего не знаете."
 
 #: src-en/data/events_sector_aea_necro.xml:1361
 msgid ""
@@ -1695,6 +1974,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/text"
 msgstr ""
+"После уничтожения корабля Еретиков вы получаете неожиданный сигнал с "
+"поверхности. \"Приветствую вас, капитан, вы очень эффективно уничтожили мой "
+"корабль, возможно, вы мне пригодитесь\"."
 
 #: src-en/data/events_sector_aea_necro.xml:1375
 msgid ""
@@ -1705,6 +1987,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/text"
 msgstr ""
+"\"Генерал, которого вы видели здесь, весьма ценен для повстанцев-органиков, "
+"мы засекли их слабую попытку спасти генерала на окраине сектора. Однако наши "
+"силы слишком ограничены, чтобы справиться с ним. Возможно, вы сможете это "
+"сделать, и если вы это сделаете, мы вас хорошо вознаградим\"."
 
 #: src-en/data/events_sector_aea_necro.xml:1379
 msgid ""
@@ -1715,6 +2001,8 @@ msgstr "Принять задание."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"\"Постарайтесь не умереть, капитан\". Координаты судна загружены в ваш "
+"компьютер."
 
 #: src-en/data/events_sector_aea_necro.xml:1384
 msgid ""
@@ -1724,12 +2012,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:1390
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Отказаться от задания."
 
 #: src-en/data/events_sector_aea_necro.xml:1392
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "\"Ну что ж, постарайтесь не умереть, капитан\"."
 
 #: src-en/data/events_sector_aea_necro.xml:1394
 msgid ""
@@ -1740,11 +2028,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_SANCTUM_QUEST\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"Опасное судно повстанцев, которое вам поручено уничтожить позолоченным энджи."
 
 #: src-en/data/events_sector_aea_necro.xml:1410
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_SANCTUM_QUEST\"]/text"
 msgstr ""
+"Прибыв к маяку, вы не обнаруживаете ничего поблизости. Однако на всякий "
+"случай вы готовитесь защищаться."
 
 #: src-en/data/events_sector_aea_necro.xml:1412
 msgid ""
@@ -1755,6 +2046,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_SANCTUM_QUEST\"]/choice/event/text"
 msgstr ""
+"Вскоре из-за астероида появляется корабль, но его первый залп легко "
+"отбивается вашей защитой."
 
 #: src-en/data/events_sector_aea_necro.xml:1417
 msgid ""
@@ -1765,6 +2058,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/text"
 msgstr ""
+"К маяку прибывает новое судно, и вас снова вызывает позолоченный энджи. "
+"\"Поздравляю с победой, капитан. Я должен официально представиться: меня "
+"зовут Л-0031, но некоторые называют меня Королем-Личем\"."
 
 #: src-en/data/events_sector_aea_necro.xml:1427
 msgid ""
@@ -1775,21 +2071,30 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/text"
 msgstr ""
+"\"Вы неплохо справились с этим врагом, и за это мы доставим вам схемы "
+"крейсера, который мы проектировали. Однако я пришел сюда, чтобы попросить "
+"вас кое о чем. Я слишком долго создавал Еретиков энджи, я прожил много лет, "
+"но не испытал многого. Вы - сильный корабль, возьмите меня на борт, и я "
+"помогу убить того, кого вы захотите. Это место прекрасно обойдется без меня\""
+"."
 
 #: src-en/data/events_sector_aea_necro.xml:1432
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Поприветствовать энджи на своем корабле."
 
 #: src-en/data/events_sector_aea_necro.xml:1434
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"Энджм поднимаются на борт вашего корабля, не исключено, что Л-0031 "
+"существует с самого начала существования энджи, возможно, он даже одним из "
+"первых отделился от Гармонии."
 
 #: src-en/data/events_sector_aea_necro.xml:1435
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[1]/event/crewMember"
-msgstr ""
+msgstr "Л-0031"
 
 #: src-en/data/events_sector_aea_necro.xml:1437
 msgid ""
@@ -1799,12 +2104,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_necro.xml:1443
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Отказаться от предложения."
 
 #: src-en/data/events_sector_aea_necro.xml:1445
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "\"Ну что ж, постарайтесь не умереть, капитан\"."
 
 #: src-en/data/events_sector_aea_necro.xml:1447
 msgid ""
