@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-20 18:13+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_sector_aea_cultxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_sector_aea_cult.xml:29
 msgid ""
@@ -23,26 +31,34 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_aea_cult.xml:60
 msgid "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/text"
 msgstr ""
+"Вы прибыли на планету для отдыха прямо в центре пространства культистов. Вы "
+"еще больше удивлены, когда вся реклама этого места направлена на культистов."
 
 #: src-en/data/events_sector_aea_cult.xml:63
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/choice[1]/text"
-msgstr ""
+msgstr "Уделить время отдыху на пляже."
 
 #: src-en/data/events_sector_aea_cult.xml:65
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/choice[1]/event/text"
 msgstr ""
+"Вы приземляетесь и позволяете своему экипажу отдохнуть на курорте. Здесь все "
+"относительно нормально, если не считать членов культа, но даже они оказались "
+"довольно спокойными, а один из них даже предложил присоединиться к вашей "
+"команде."
 
 #: src-en/data/events_sector_aea_cult.xml:67
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Принять его на борт."
 
 #: src-en/data/events_sector_aea_cult.xml:69
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Покидая планету, вы замечаете, что флот повстанцев приблизился к вам, пока "
+"вы отдыхали."
 
 #: src-en/data/events_sector_aea_cult.xml:75
 msgid ""
@@ -53,26 +69,32 @@ msgstr "Вежливо отказаться."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Покидая планету, вы замечаете, что флот повстанцев приблизился к вам, пока "
+"вы отдыхали."
 
 #: src-en/data/events_sector_aea_cult.xml:84
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/choice[2]/text"
-msgstr ""
+msgstr "Взять бесплатные закуски в холле."
 
 #: src-en/data/events_sector_aea_cult.xml:86
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/choice[2]/event/text"
 msgstr ""
+"Вы заглянули в холл и прихватили кое-какие припасы, прежде чем отправиться "
+"обратно."
 
 #: src-en/data/events_sector_aea_cult.xml:91
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/choice[3]/text"
-msgstr ""
+msgstr "Украсть что-нибудь из бюро находок."
 
 #: src-en/data/events_sector_aea_cult.xml:93
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/choice[3]/event/text"
 msgstr ""
+"Вы хватаете предмет из бюро находок и бежите оттуда, пока никто не успел вас "
+"догнать."
 
 #: src-en/data/events_sector_aea_cult.xml:96
 msgid ""
@@ -83,26 +105,31 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FOOD_DRIVE\"]/text"
 msgstr ""
+"Прибыв на маяк, вы обнаруживаете, что культ проводит акцию по раздаче "
+"продуктов, и к нему выстроилась длинная очередь из желающих получить "
+"бесплатную еду."
 
 #: src-en/data/events_sector_aea_cult.xml:106
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FOOD_DRIVE\"]/choice[1]/text"
-msgstr ""
+msgstr "Пожертвовать на это дело несколько предметов."
 
 #: src-en/data/events_sector_aea_cult.xml:108
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FOOD_DRIVE\"]/choice[1]/event/text"
 msgstr ""
+"Они охотно принимают вашу помощь и очень благодарны, а один из "
+"присутствующих даже предлагает присоединиться к вашей команде."
 
 #: src-en/data/events_sector_aea_cult.xml:115
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FOOD_DRIVE\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Принять его на борт."
 
 #: src-en/data/events_sector_aea_cult.xml:117
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FOOD_DRIVE\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Вы уходите, чувствуя себя намного лучше."
 
 #: src-en/data/events_sector_aea_cult.xml:122
 msgid ""
@@ -112,17 +139,17 @@ msgstr "Вежливо отказаться."
 #: src-en/data/events_sector_aea_cult.xml:124
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FOOD_DRIVE\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "Вы уходите, чувствуя себя намного лучше."
 
 #: src-en/data/events_sector_aea_cult.xml:130
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FOOD_DRIVE\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращайте внимания на продовольственные акции."
 
 #: src-en/data/events_sector_aea_cult.xml:132
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FOOD_DRIVE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку на следующий маяк."
 
 #: src-en/data/events_sector_aea_cult.xml:134
 msgid ""
@@ -138,16 +165,22 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MAGIC_GATE\"]/text"
 msgstr ""
+"На этом маяке происходит странное событие: похоже, культисты установили "
+"прототип прыжковых врат. Они утверждают, что с его помощью вы сможете "
+"прыгать на любой маяк в секторе, и просят вас принять участие в испытаниях."
 
 #: src-en/data/events_sector_aea_cult.xml:149
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MAGIC_GATE\"]/choice[1]/text"
-msgstr ""
+msgstr "Воспользоваться прыжковыми вратами."
 
 #: src-en/data/events_sector_aea_cult.xml:152
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MAGIC_GATE\"]/choice[1]/event/text"
 msgstr ""
+"Вы входите в прыжковые врата и оказываетесь в гиперпространстве, рядом с "
+"вами плавает несколько обломков, которые вы разбираете на запчасти. Похоже, "
+"культисты были правы: отсюда можно прыгнуть на любой маяк в секторе!"
 
 #: src-en/data/events_sector_aea_cult.xml:158
 msgid ""
@@ -157,7 +190,7 @@ msgstr "Вежливо отказаться."
 #: src-en/data/events_sector_aea_cult.xml:160
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MAGIC_GATE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку на следующий маяк."
 
 #: src-en/data/events_sector_aea_cult.xml:162
 msgid ""
@@ -173,56 +206,63 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/text"
 msgstr ""
+"Как только вы думаете, что никто ничего не заметил, корабль культистов "
+"перехватывает вас прежде, чем вы успеваете покинуть астероидное поле. Они "
+"явно видели, как вы забрали кристалл, и не настроены вести переговоры."
 
 #: src-en/data/events_sector_aea_cult.xml:189
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/text"
-msgstr ""
+msgstr "Следовать за голосом."
 
 #: src-en/data/events_sector_aea_cult.xml:191
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/event/text"
 msgstr ""
+"Вы следуете за слабым шепотом и в конце концов попадаете на маленькую, "
+"скрытую от глаз луну, покрытую светящимися цветами. На поверхности находится "
+"большое строение, похожее на огромный сад. Когда вы входите в сердце сада, "
+"голоса становятся сильнее, они спрашивают, что вы ищете..."
 
 #: src-en/data/events_sector_aea_cult.xml:193
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Припасы."
 
 #: src-en/data/events_sector_aea_cult.xml:195
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Из земли поднимается платформа, а на ней - россыпь различных припасов."
 
 #: src-en/data/events_sector_aea_cult.xml:200
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Оборудование."
 
 #: src-en/data/events_sector_aea_cult.xml:202
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "Из земли поднимается платформа, а на ней - дрон."
 
 #: src-en/data/events_sector_aea_cult.xml:207
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Оружие."
 
 #: src-en/data/events_sector_aea_cult.xml:209
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "Из земли поднимается платформа, а на ней - оружие."
 
 #: src-en/data/events_sector_aea_cult.xml:214
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "Покинуть сад."
 
 #: src-en/data/events_sector_aea_cult.xml:216
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/event/choice[4]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку на следующий маяк."
 
 #: src-en/data/events_sector_aea_cult.xml:218
 msgid ""
@@ -237,12 +277,12 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_aea_cult.xml:230
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на голоса."
 
 #: src-en/data/events_sector_aea_cult.xml:232
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку на следующий маяк."
 
 #: src-en/data/events_sector_aea_cult.xml:234
 msgid ""
@@ -257,16 +297,21 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_aea_cult.xml:264
 msgid "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FACTORY\"]/text"
 msgstr ""
+"На этом маяке находится фабрика, которую, похоже, охраняет один корабль "
+"культистов. Ваши сенсоры засекли пиратский корабль, прячущийся в астероидном "
+"поле неподалеку."
 
 #: src-en/data/events_sector_aea_cult.xml:266
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FACTORY\"]/choice[1]/text"
-msgstr ""
+msgstr "Атаковать сторожевой корабль и разграбить фабрику."
 
 #: src-en/data/events_sector_aea_cult.xml:268
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FACTORY\"]/choice[1]/event/text"
 msgstr ""
+"Вы приближаетесь и включаете оружие, а пиратское судно отходит назад, чтобы "
+"понаблюдать за схваткой."
 
 #: src-en/data/events_sector_aea_cult.xml:271
 msgid ""
@@ -276,12 +321,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_cult.xml:277
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FACTORY\"]/choice[2]/text"
-msgstr ""
+msgstr "Атаковать пиратов и защитить фабрику."
 
 #: src-en/data/events_sector_aea_cult.xml:279
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FACTORY\"]/choice[2]/event/text"
 msgstr ""
+"Вы вступаете в бой с пиратами, но, к сожалению, корабль культистов не спешит "
+"помогать вам."
 
 #: src-en/data/events_sector_aea_cult.xml:282
 msgid ""
@@ -296,7 +343,7 @@ msgstr "Не обращать внимания на ситуацию."
 #: src-en/data/events_sector_aea_cult.xml:290
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FACTORY\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку на следующий маяк."
 
 #: src-en/data/events_sector_aea_cult.xml:292
 msgid ""
@@ -312,36 +359,45 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/text"
 msgstr ""
+"Прибыв к маяку, вы обнаруживаете, что рядом с ним пылает корабль культистов. "
+"Сигнала бедствия нет, но, похоже, дела у них идут не слишком хорошо."
 
 #: src-en/data/events_sector_aea_cult.xml:307
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/choice[@req=\"BLUELIST_CREW_NOFIRE\"]/text"
 msgstr ""
+"(Огнеупорный экипаж) Пристыковаться к кораблю и отправить туда свой "
+"огнеупорный экипаж."
 
 #: src-en/data/events_sector_aea_cult.xml:311
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/choice[@req=\"BLUELIST_DRONES_REPAIR_CREW\"]/text"
 msgstr ""
+"(Ремонтный дрон) Пристыковаться к кораблю и отправить Ремонтный дрон в огонь."
 
 #: src-en/data/events_sector_aea_cult.xml:315
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/choice[@req=\"FIRE_EXTINGUISHERS\"]/text"
 msgstr ""
+"(Огнетушители) Пристыковаться к кораблю и использовать на нем свои средства "
+"пожаротушения."
 
 #: src-en/data/events_sector_aea_cult.xml:319
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/choice[@req=\"LIST_CHECK_ANY_CREW\"]/text"
-msgstr ""
+msgstr "Пристыковаться к кораблю и отправить свой экипаж на помощь."
 
 #: src-en/data/events_sector_aea_cult.xml:323
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/choice[5]/text"
-msgstr ""
+msgstr "Воспользоваться их положением и атаковать."
 
 #: src-en/data/events_sector_aea_cult.xml:325
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/choice[5]/event/text"
 msgstr ""
+"Вы активируете оружие и начинаете атаковать, они замечают ваши действия и "
+"отвечают своим оружием."
 
 #: src-en/data/events_sector_aea_cult.xml:332
 msgid ""
@@ -351,12 +407,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_cult.xml:338
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/choice[6]/text"
-msgstr ""
+msgstr "Вы не можете помочь, предоставить их судьбе."
 
 #: src-en/data/events_sector_aea_cult.xml:340
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку на следующий маяк."
 
 #: src-en/data/events_sector_aea_cult.xml:342
 msgid ""
@@ -372,11 +428,17 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE_SUCCEED_GOOD\"]/text"
 msgstr ""
+"\"О, слава цветку, что вы здесь, мы не знаем, что бы мы делали без вас!\n"
+"\n"
+"Примите этот лом в качестве благодарности\"."
 
 #: src-en/data/events_sector_aea_cult.xml:361
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE_SUCCEED_BAD\"]/text"
 msgstr ""
+"\"Ты разрушил круг призыва, этот огонь был контролируемым!\n"
+"\t\t\t\n"
+"Ты все разрушил, готовься к смерти!\""
 
 #: src-en/data/events_sector_aea_cult.xml:366
 msgid ""
@@ -387,41 +449,65 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_cult.xml$//eventList[@name=\"AEA_CULT_CULTIST_FIRE_LIST\"]/event[3]/text"
 msgstr ""
+"Ваш экипаж пытается потушить пожар, но он оказывается отрезанным, что "
+"заставляет их вернуться на борт собственного корабля, и вы едва успеваете "
+"отсоединиться, прежде чем огонь распространяется слишком сильно.\n"
+"\n"
+"Вы наблюдаете, как пылает корабль орхидей, и, как только обломки остывают, "
+"обыскиваете его в поисках полезных предметов."
 
 #: src-en/data/events_sector_aea_cult.xml:378
 msgid ""
 "data/events_sector_aea_cult.xml$//eventList[@name=\"AEA_CULT_CULTIST_FIRE_LIST\"]/event[4]/text"
 msgstr ""
+"Ваш экипаж прибывает на борт и обнаруживает огромный круг призыва, созданный "
+"из огня, и несколько орхидей, похоже, обращаются к нему.\n"
+"\n"
+"Вы замечаете, что одна из орхидей обратила свое внимание на ваш экипаж, и "
+"приказывает не приближаться. К сожалению, один из членов вашего экипажа "
+"попадает в огонь, и вы видите, как он сгорает в огненной вспышке.\n"
+"\n"
+"Вы только успеваете вернуться на свой корабль, как враг уходит в прыжок."
 
 #: src-en/data/events_sector_aea_cult.xml:386
 msgid ""
 "data/events_sector_aea_cult.xml$//eventList[@name=\"AEA_CULT_CULTIST_FIRE_LIST\"]/event[4]/removeCrew/text"
-msgstr ""
+msgstr "К счастью, у вас есть Клон-отсек, чтобы возродить экипаж."
 
 #: src-en/data/events_sector_aea_cult.xml:397
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_REQUEST\"]/text"
 msgstr ""
+"К вам обращается культист со скромной просьбой. Культистам вампсорняков "
+"нужен редкий ресурс - особый кристалл из близлежащего астероидного поля. Они "
+"утверждают, что кристалл будет использован в священной церемонии."
 
 #: src-en/data/events_sector_aea_cult.xml:400
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_REQUEST\"]/choice[1]/text"
-msgstr ""
+msgstr "Согласиться помочь им и отправиться на поиски кристалла."
 
 #: src-en/data/events_sector_aea_cult.xml:402
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_REQUEST\"]/choice[1]/event/text"
 msgstr ""
+"Вы начинаете сканировать астероидное поле и через некоторое время "
+"обнаруживаете что-то на краю поля. При ближайшем рассмотрении вы "
+"обнаруживаете кристалл, который ищут культисты, и более того, это не какой-"
+"то обычный кристалл, а алмаз размером с валуна."
 
 #: src-en/data/events_sector_aea_cult.xml:404
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_REQUEST\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Заберать кристалл, пока его не увидели культисты, и убраться отсюда."
 
 #: src-en/data/events_sector_aea_cult.xml:406
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_REQUEST\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Как только вы думаете, что никто ничего не заметил, корабль культистов "
+"перехватывает вас прежде, чем вы успеваете покинуть астероидное поле. Они "
+"явно видели, как вы забрали кристалл, и не настроены вести переговоры."
 
 #: src-en/data/events_sector_aea_cult.xml:412
 msgid ""
@@ -431,12 +517,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_cult.xml:418
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_REQUEST\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Сдержать обещание и принести им кристалл."
 
 #: src-en/data/events_sector_aea_cult.xml:420
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_REQUEST\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Вы возвращаетесь к орхидеям и отдаете кристалл, они невероятно благодарны "
+"вам за помощь и даже в благодарность дают больше лома, чем стоит кристалл."
 
 #: src-en/data/events_sector_aea_cult.xml:425
 msgid ""
@@ -451,7 +539,7 @@ msgstr "Вежливо отказаться."
 #: src-en/data/events_sector_aea_cult.xml:435
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_REQUEST\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку на следующий маяк."
 
 #: src-en/data/events_sector_aea_cult.xml:437
 msgid ""
@@ -466,16 +554,18 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_aea_cult.xml:449
 msgid "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/text"
 msgstr ""
+"Вы прибыли на маяк и обнаружили, что мимо него проплывает огромное стадо "
+"космических китов. Большой кит во главе стаи отделился и направился к вам."
 
 #: src-en/data/events_sector_aea_cult.xml:453
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[1]/text"
-msgstr ""
+msgstr "Защищаться."
 
 #: src-en/data/events_sector_aea_cult.xml:455
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы активируете свое оружие и переходите в атаку."
 
 #: src-en/data/events_sector_aea_cult.xml:458
 msgid ""
@@ -485,82 +575,99 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_cult.xml:464
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"AEA_CULTISTS_ALL\"]/text"
-msgstr ""
+msgstr "(Член экипажа-Культист) Пообщаться с китом."
 
 #: src-en/data/events_sector_aea_cult.xml:466
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"AEA_CULTISTS_ALL\"]/event/text"
 msgstr ""
+"Ваш культист начинает общаться с китом. Поняв ваши мирные намерения, кит "
+"обращается к вам с просьбой.\n"
+"\n"
+"Оказывается, приятель кита некоторое время назад потерялся в астероидном "
+"поле, и он хочет, чтобы вы отправились на его поиски."
 
 #: src-en/data/events_sector_aea_cult.xml:470
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"AEA_CULTISTS_ALL\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Согласиться найти приятеля кита."
 
 #: src-en/data/events_sector_aea_cult.xml:472
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"AEA_CULTISTS_ALL\"]/event/choice[1]/event/text"
 msgstr ""
+"Кит сообщает вашему культисту, где он потерял своего приятеля. Он также "
+"говорит вам, куда сопроводить приятеля, когда вы его найдете."
 
 #: src-en/data/events_sector_aea_cult.xml:477
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"AEA_CULTISTS_ALL\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Вежливо отказаться."
 
 #: src-en/data/events_sector_aea_cult.xml:479
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"AEA_CULTISTS_ALL\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "Кит выглядит разочарованным, но уходит, чтобы присоединиться к стаду."
 
 #: src-en/data/events_sector_aea_cult.xml:485
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"LIST_CREW_AEA_BIRD\"]/text"
-msgstr ""
+msgstr "(Член экипажа-Ги) Пообщаться с китом."
 
 #: src-en/data/events_sector_aea_cult.xml:487
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"LIST_CREW_AEA_BIRD\"]/event/text"
 msgstr ""
+"Ваш Ги начинает общаться с китом. Поняв ваши мирные намерения, кит "
+"обращается к вам с просьбой.\n"
+"\n"
+"Оказывается, приятель кита некоторое время назад потерялся в астероидном "
+"поле, и он хочет, чтобы вы отправились на его поиски."
 
 #: src-en/data/events_sector_aea_cult.xml:491
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"LIST_CREW_AEA_BIRD\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Согласиться найти приятеля кита."
 
 #: src-en/data/events_sector_aea_cult.xml:493
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"LIST_CREW_AEA_BIRD\"]/event/choice[1]/event/text"
 msgstr ""
+"Кит сообщает вашему культисту, где он потерял своего приятеля. Он также "
+"говорит вам, куда сопроводить приятеля, когда вы его найдете."
 
 #: src-en/data/events_sector_aea_cult.xml:498
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"LIST_CREW_AEA_BIRD\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Вежливо отказаться."
 
 #: src-en/data/events_sector_aea_cult.xml:500
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"LIST_CREW_AEA_BIRD\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "Кит выглядит разочарованным, но уходит, чтобы присоединиться к стаду."
 
 #: src-en/data/events_sector_aea_cult.xml:506
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"SHIP_AEA_WHALE\"]/text"
-msgstr ""
+msgstr "(Космический кит) Флиртовать с китом."
 
 #: src-en/data/events_sector_aea_cult.xml:508
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"SHIP_AEA_WHALE\"]/event/text"
 msgstr ""
+"Вы, как кит, пытаетесь соблазнить кита.\n"
+"К сожалению, кита не интересуют ваши ухаживания, и как только он понимает, "
+"что вы не принадлежите к стаду, он уходит."
 
 #: src-en/data/events_sector_aea_cult.xml:514
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[5]/text"
-msgstr ""
+msgstr "Отойти в сторону и избегать китов."
 
 #: src-en/data/events_sector_aea_cult.xml:516
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[5]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку на следующий маяк."
 
 #: src-en/data/events_sector_aea_cult.xml:518
 msgid ""
@@ -576,11 +683,14 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_FIELD\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"Местонахождение астероидного поля, где космический кот потерял приятеля."
 
 #: src-en/data/events_sector_aea_cult.xml:537
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_FIELD\"]/text"
 msgstr ""
+"Вы прибыли к маяку, где киты виделись в последний раз. Вы начинаете "
+"сканирование в поисках потерявшегося кита, но сразу ничего не обнаруживаете."
 
 #: src-en/data/events_sector_aea_cult.xml:539
 msgid ""
@@ -595,6 +705,8 @@ msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_FIELD\"]/choice[@req=\"sensors\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Вы проводите дополнительное, более тщательное сканирование и обнаруживаете "
+"заброшенную заправочную платформу."
 
 #: src-en/data/events_sector_aea_cult.xml:546
 msgid ""
@@ -615,6 +727,8 @@ msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_FIELD\"]/choice[@req=\"sensors\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
+"Вы проводите дополнительное, более тщательное сканирование и обнаруживаете "
+"заброшенную заправочную платформу."
 
 #: src-en/data/events_sector_aea_cult.xml:560
 msgid ""
@@ -633,6 +747,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_FIELD\"]/choice[@req=\"ADV_SCANNERS\"]/event/text"
 msgstr ""
+"Вы проводите дополнительное, более тщательное сканирование и обнаруживаете "
+"заброшенную заправочную платформу."
 
 #: src-en/data/events_sector_aea_cult.xml:574
 msgid ""
@@ -642,12 +758,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_cult.xml:580
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_FIELD\"]/choice[4]/text"
-msgstr ""
+msgstr "Продолжать искать кита, это может занять некоторое время."
 
 #: src-en/data/events_sector_aea_cult.xml:582
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_FIELD\"]/choice[4]/event/text"
 msgstr ""
+"Вы продолжаете поиски кита, проходит время, и флот повстанцев приближается к "
+"вам все ближе."
 
 #: src-en/data/events_sector_aea_cult.xml:585
 msgid ""
@@ -662,7 +780,7 @@ msgstr "Сдаться."
 #: src-en/data/events_sector_aea_cult.xml:593
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_FIELD\"]/choice[5]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку на следующий маяк."
 
 #: src-en/data/events_sector_aea_cult.xml:595
 msgid ""
@@ -678,26 +796,34 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_FIND\"]/text"
 msgstr ""
+"В конце концов вы обнаруживаете большой органический объект. При ближайшем "
+"рассмотрении вы обнаружите, что это кит, но, к сожалению, его атакует судно "
+"слизней."
 
 #: src-en/data/events_sector_aea_cult.xml:610
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_FIND\"]/choice/text"
-msgstr ""
+msgstr "Защитить этого кита!"
 
 #: src-en/data/events_sector_aea_cult.xml:616
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_SAVE\"]/text"
 msgstr ""
+"Ваш член экипажа начинает общаться с китом, который теперь находится в "
+"безопасности, и он соглашается следовать за вами до места встречи."
 
 #: src-en/data/events_sector_aea_cult.xml:623
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_MEETING\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Место встречи с китом."
 
 #: src-en/data/events_sector_aea_cult.xml:628
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_MEETING\"]/text"
 msgstr ""
+"Когда вы приближаетесь к маяку, вы оглядываетесь и видите, как ваш спутник-"
+"кит радостно несется вперед, похоже, что кит чувствует стадо впереди и "
+"своего приятеля."
 
 #: src-en/data/events_sector_aea_cult.xml:631
 msgid ""
@@ -708,6 +834,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_MEETING\"]/choice/event/text"
 msgstr ""
+"Даже вы можете проникнуться атмосферой, созданной возвращением кита. Вы "
+"ждете и наблюдаете за воссоединением китов, и через мгновение первый кит "
+"возвращается к вам.\n"
+"Кит выражает свою благодарность и просит вас следовать за ним."
 
 #: src-en/data/events_sector_aea_cult.xml:636
 msgid ""
@@ -718,6 +848,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_MEETING\"]/choice/event/choice/event/text"
 msgstr ""
+"В конце концов вы попадаете на соседнюю луну, и оказывается, что киты "
+"обнаружили спрятанный тайник с припасами повстанцев. Теперь кит, довольный "
+"тем, что отдал свой долг, возвращается к стаду."
 
 #: src-en/data/events_sector_aea_cult.xml:648
 msgid ""
@@ -727,7 +860,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_cult.xml:651
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_MEETING\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку на следующий маяк."
 
 #: src-en/data/events_sector_aea_cult.xml:653
 msgid ""
@@ -743,18 +876,24 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"DISTRESS_AEA_CULT_NO_MAGIC\"]/text"
 msgstr ""
+"Вы прибыли на маяк, где обнаруживаете корабль культистов. Они вызывают вас. "
+"\"Здравствуйте, возможно вы сможете нам помочь, мы перевозили несколько "
+"заклинаний, но нас задел астероид, и мы потеряли их неподалеку, наши сенсоры "
+"недостаточно сильны, чтобы их найти\"."
 
 #: src-en/data/events_sector_aea_cult.xml:696
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"DISTRESS_AEA_CULT_NO_MAGIC\"]/choice[@req=\"sensors\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "(Улучш. Сенсоры) Начать сканирование с максимальной чувствительностью."
 
 #: src-en/data/events_sector_aea_cult.xml:698
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"DISTRESS_AEA_CULT_NO_MAGIC\"]/choice[@req=\"sensors\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Вы проводите дополнительное, более тщательное сканирование и обнаруживаете "
+"заброшенную заправочную платформу."
 
 #: src-en/data/events_sector_aea_cult.xml:703
 msgid ""
@@ -766,13 +905,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"DISTRESS_AEA_CULT_NO_MAGIC\"]/choice[@req=\"sensors\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "(Продв. Сенсоры) Начать сканирование с максимальной чувствительностью."
 
 #: src-en/data/events_sector_aea_cult.xml:711
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"DISTRESS_AEA_CULT_NO_MAGIC\"]/choice[@req=\"sensors\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
+"Вы проводите дополнительное, более тщательное сканирование и обнаруживаете "
+"заброшенную заправочную платформу."
 
 #: src-en/data/events_sector_aea_cult.xml:717
 msgid ""
@@ -784,11 +925,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"DISTRESS_AEA_CULT_NO_MAGIC\"]/choice[@req=\"ADV_SCANNERS\"]/text"
 msgstr ""
+"(Сканеры дальнего действия) Начать сканирование с максимальной "
+"чувствительностью."
 
 #: src-en/data/events_sector_aea_cult.xml:725
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"DISTRESS_AEA_CULT_NO_MAGIC\"]/choice[@req=\"ADV_SCANNERS\"]/event/text"
 msgstr ""
+"Вы проводите дополнительное, более тщательное сканирование и обнаруживаете "
+"заброшенную заправочную платформу."
 
 #: src-en/data/events_sector_aea_cult.xml:731
 msgid ""
@@ -798,7 +943,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_cult.xml:737
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"DISTRESS_AEA_CULT_NO_MAGIC\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Ваши сенсоры недостаточно мощные."
 
 #: src-en/data/events_sector_aea_cult.xml:741
 msgid ""
@@ -808,7 +953,7 @@ msgstr "Вместо этого атаковать их."
 #: src-en/data/events_sector_aea_cult.xml:743
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"DISTRESS_AEA_CULT_NO_MAGIC\"]/choice[5]/event/text"
-msgstr ""
+msgstr "Вы включаете оружие и вступаете в бой с культистами."
 
 #: src-en/data/events_sector_aea_cult.xml:746
 msgid ""
@@ -823,7 +968,7 @@ msgstr "Отказаться."
 #: src-en/data/events_sector_aea_cult.xml:754
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"DISTRESS_AEA_CULT_NO_MAGIC\"]/choice[6]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку на следующий маяк."
 
 #: src-en/data/events_sector_aea_cult.xml:756
 msgid ""
@@ -839,6 +984,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MAGIC_FIND\"]/text"
 msgstr ""
+"В конце концов вы находите потерянные заклинания, возвращаете их культистам, "
+"и они предлагают вам лом и заклинания на выбор."
 
 #: src-en/data/events_sector_aea_cult.xml:770
 msgid ""
@@ -848,7 +995,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_cult.xml:772
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MAGIC_FIND\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Они передают лом и произносят заклинание."
 
 #: src-en/data/events_sector_aea_cult.xml:780
 msgid ""
@@ -858,7 +1005,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_cult.xml:782
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MAGIC_FIND\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Они передают лом и произносят заклинание."
 
 #: src-en/data/events_sector_aea_cult.xml:790
 msgid ""
@@ -868,7 +1015,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_cult.xml:792
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MAGIC_FIND\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Они передают лом и произносят заклинание."
 
 #: src-en/data/events_sector_aea_cult.xml:837
 msgid ""
@@ -888,11 +1035,20 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_CULT\"]/text[2]"
 msgstr ""
+"После войны между Федерацией и богомолами в ходе Кадахеллианского договора "
+"было решено, что Федерация и Конфедерация никогда не вступят в войну друг с "
+"другом. Несмотря на это, напряженность остается высокой, и, похоже, многие "
+"вампсорняки по-прежнему настроены против Федерации. Один особенно радикально "
+"настроенный корабль поблизости замечает вас!"
 
 #: src-en/data/events_sector_aea_cult.xml:844
 msgid ""
 "data/events_sector_aea_cult.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_CULT\"]/text[3]"
 msgstr ""
+"Вампсорняки, конечно, не ваши друзья, но для них не слишком типично вести "
+"себя столь агрессивно. Однако, судя по сканированию, экипаж соседнего "
+"корабля заразился каким-то паразитом, вызывающим иррациональное поведение. "
+"Приготовьтесь к бою!"
 
 #: src-en/data/events_sector_aea_cult.xml:845
 msgid ""
@@ -907,11 +1063,18 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_CULT\"]/text[5]"
 msgstr ""
+"К вам приближается судно пьяного рабочего фабрики вампсорняков. \"Эххх... "
+"тупица... Федералы в моем секторе? Ты пожалеешь об этом, слышишь меня!\" "
+"Несмотря на то, что капитан едва может составить связное предложение, он "
+"успевает приказать своему экипажу атаковать!"
 
 #: src-en/data/events_sector_aea_cult.xml:847
 msgid ""
 "data/events_sector_aea_cult.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_CULT\"]/text[6]"
 msgstr ""
+"Вампсорняки, как известно, очень любят выпить, и опьяневшие орхидеи здесь не "
+"редкость. К сожалению, побочные эффекты тяжелой выпивки обычно приводят к "
+"нерациональным решениям, таким как вступление в бой с Ренегатами!"
 
 #: src-en/data/events_sector_aea_cult.xml:848
 msgid ""
@@ -933,6 +1096,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"ENCOUNTER_AEA_CULT_STATION\"]/text"
 msgstr ""
+"\"Стоять! Этот сектор является безопасной зоной, военным судам Конфедерации "
+"запрещено входить в этот регион!\" Вы не помните, чтобы где-то были указаны "
+"подобные ограничения, но, похоже, у вас нет времени на споры. Приготовьтесь "
+"к бою!"
 
 #: src-en/data/events_sector_aea_cult.xml:856
 msgid ""
@@ -943,6 +1110,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"ENCOUNTER_AEA_CULT_ELITE\"]/text"
 msgstr ""
+"\"На территории Конфедерации не место Федерации или ее наемным убийцам! Ваше "
+"присутствие здесь нарушает основные права любого человека на мир и "
+"процветание без вторжения назойливых чужеземных правительств!\" Гордый "
+"Культиватор, утверждающий, что действует по доброй воле своего народа, "
+"активирует орудия и атакует ваш корабль!"
 
 #: src-en/data/events_sector_aea_cult.xml:886
 msgid ""
@@ -953,46 +1125,68 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/beaconType/unvisitedTooltip"
 msgstr ""
+"Местонахождение гигантского космического цветка, которому поклоняются "
+"культисты."
 
 #: src-en/data/events_sector_aea_cult.xml:908
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/text"
 msgstr ""
+"Вы прибыли на место, где находится Одноцветок. Вы видите огромный цветок на "
+"орбите над планетой, а также сотни кораблей, окружающих его."
 
 #: src-en/data/events_sector_aea_cult.xml:910
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/text"
-msgstr ""
+msgstr "Приблизится к цветку."
 
 #: src-en/data/events_sector_aea_cult.xml:912
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/text"
 msgstr ""
+"Вы приближаетесь к цветку и получаете вызов прямо от него. Похоже, что "
+"многие другие корабли также находятся на связи с цветком.\n"
+"\n"
+"Неорганический голос обращается к вам. \"А, Ренегат, я не часто вижу здесь "
+"таких, как вы. У меня есть для вас задание, если вы заинтересованы, точнее, "
+"два\"."
 
 #: src-en/data/events_sector_aea_cult.xml:916
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Выслушать."
 
 #: src-en/data/events_sector_aea_cult.xml:918
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"\"Первое задание очень простое: мне нужно, чтобы вы перевезли одно из моих "
+"семян в соседний сектор. Единственное, с чем вам придется быть осторожным, - "
+"это хрупкость семян, постарайтесь сохранить их в целости и сохранности\".\n"
+"\n"
+"\"Второе задание для вас более сложное: недавно мне стало известно о "
+"заговоре с целью уничтожить меня и заменить подделкой. Мне нужно, чтобы вы "
+"расследовали ситуацию и разрешили ее, а как вы это сделаете, зависит от вас\""
+"."
 
 #: src-en/data/events_sector_aea_cult.xml:922
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Согласиться выполнить оба задания."
 
 #: src-en/data/events_sector_aea_cult.xml:924
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Цветок передает координаты и желает вам удачи в выполнении заданий. Вы "
+"покидаете цветок и исследуете планету. Вы находите на планете большой "
+"магазин, многочисленные орхидеи машут покупателям, пытаясь привлечь их "
+"внимание, а любопытные покупатели разных видов смотрят по сторонам."
 
 #: src-en/data/events_sector_aea_cult.xml:932
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/event/choice[1]/event/crewMember"
-msgstr ""
+msgstr "Семена"
 
 #: src-en/data/events_sector_aea_cult.xml:934
 msgid ""
@@ -1012,17 +1206,21 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_cult.xml:947
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Согласиться выполнить первое задание."
 
 #: src-en/data/events_sector_aea_cult.xml:949
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Цветок передает координаты и желает вам удачи в выполнении задания. Вы "
+"покидаете цветок и исследуете планету. Вы находите на планете большой "
+"магазин, многочисленные орхидеи машут покупателям, пытаясь привлечь их "
+"внимание, а любопытные покупатели разных видов смотрят по сторонам."
 
 #: src-en/data/events_sector_aea_cult.xml:957
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/event/choice[2]/event/crewMember"
-msgstr ""
+msgstr "Семена"
 
 #: src-en/data/events_sector_aea_cult.xml:959
 msgid ""
@@ -1032,12 +1230,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_cult.xml:965
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Согласиться выполнить второе задание."
 
 #: src-en/data/events_sector_aea_cult.xml:967
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"Цветок передает координаты и желает вам удачи в выполнении задания. Вы "
+"покидаете цветок и исследуете планету. Вы находите на планете большой "
+"магазин, многочисленные орхидеи машут покупателям, пытаясь привлечь их "
+"внимание, а любопытные покупатели разных видов смотрят по сторонам."
 
 #: src-en/data/events_sector_aea_cult.xml:970
 msgid ""
@@ -1053,6 +1255,9 @@ msgstr "Вежливо отказаться."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/event/choice[4]/event/text"
 msgstr ""
+"Вы покидаете цветок и исследуете планету. Вы обнаруживаете на планете "
+"большой магазин, многочисленные орхидеи машут покупателям, пытаясь привлечь "
+"их внимание, а любопытные покупатели разных видов смотрят по сторонам."
 
 #: src-en/data/events_sector_aea_cult.xml:980
 msgid ""
@@ -1062,12 +1267,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_cult.xml:990
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на цветок и исследовать планету."
 
 #: src-en/data/events_sector_aea_cult.xml:992
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[2]/event/text"
 msgstr ""
+"Вы обнаруживаете на планете большой магазин, многочисленные орхидеи машут "
+"покупателям, пытаясь привлечь их внимание, а любопытные покупатели разных "
+"видов смотрят по сторонам."
 
 #: src-en/data/events_sector_aea_cult.xml:994
 msgid ""
@@ -1077,12 +1285,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_cult.xml:1000
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[3]/text"
-msgstr ""
+msgstr "Уйти, как только зарядится ваш ССД."
 
 #: src-en/data/events_sector_aea_cult.xml:1002
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку на следующий маяк."
 
 #: src-en/data/events_sector_aea_cult.xml:1004
 msgid ""
@@ -1097,35 +1305,41 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_aea_cult.xml:1018
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Планета на которую вам нужно доставить семена."
 
 #: src-en/data/events_sector_aea_cult.xml:1023
 msgid "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/text"
-msgstr ""
+msgstr "Вы прибыли в то место, куда Одноцветка попросил вас доставить семена."
 
 #: src-en/data/events_sector_aea_cult.xml:1025
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/choice[@req=\"aea_seed\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Доставить семена."
 
 #: src-en/data/events_sector_aea_cult.xml:1027
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/choice[@req=\"aea_seed\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Вы доставляете семена на планету и обнаруживаете на поверхности большой сад. "
+"В центре сада вы находите странное сооружение, похожее на постамент, куда "
+"можно положить семя."
 
 #: src-en/data/events_sector_aea_cult.xml:1029
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/choice[@req=\"aea_seed\""
 " and @lvl=\"1\"]/event/choice/text"
-msgstr ""
+msgstr "Положить на него семена."
 
 #: src-en/data/events_sector_aea_cult.xml:1031
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/choice[@req=\"aea_seed\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
+"Вы вставляете семя в конструкцию, она сдвигается и втягивается в землю. "
+"Мгновение спустя из земли прорастает крошечная орхидея. Похоже, она не умеет "
+"говорить, но жестом просит вас следовать за ней."
 
 #: src-en/data/events_sector_aea_cult.xml:1034
 msgid ""
@@ -1144,28 +1358,31 @@ msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/choice[@req=\"aea_seed\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
 msgstr ""
+"В конце концов она приводит вас к тайнику с припасами, помогает загрузить их "
+"на корабль, а затем поднимается на борт вместе с вами, похоже, что эта "
+"крошечная орхидея - новый член экипажа."
 
 #: src-en/data/events_sector_aea_cult.xml:1041
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/choice[@req=\"aea_seed\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "Крошка"
 
 #: src-en/data/events_sector_aea_cult.xml:1055
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/choice[@req=\"aea_seed\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Вы не можете доставить семя."
 
 #: src-en/data/events_sector_aea_cult.xml:1059
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/choice[3]/text"
-msgstr ""
+msgstr "Забыть об инструкциях Одноцветки и уйти."
 
 #: src-en/data/events_sector_aea_cult.xml:1061
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку на следующий маяк."
 
 #: src-en/data/events_sector_aea_cult.xml:1063
 msgid ""
@@ -1180,12 +1397,16 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_aea_cult.xml:1077
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CONSPIRACY\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Местонахождение тайника заговорщиков."
 
 #: src-en/data/events_sector_aea_cult.xml:1082
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CONSPIRACY\"]/text"
 msgstr ""
+"Вы прибыли на место, где скрываются заговорщики: они захватили заброшенную "
+"фабрику, но в целях сохранения секретности здесь нет охраны или других "
+"систем, выдающих их местоположение. Вам удастся приземлиться неподалеку и "
+"пробраться внутрь."
 
 #: src-en/data/events_sector_aea_cult.xml:1084
 msgid ""
@@ -1196,48 +1417,57 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CONSPIRACY_COMPOUND\"]/text"
 msgstr ""
+"Вы можете разглядеть несколько различных мест вокруг комплекса. Вот "
+"мастерская, внутри которой видны детали корабля. Складской двор с "
+"несколькими грузовыми контейнерами. Здание генератора, который, судя по "
+"всему, обеспечивает энергией все остальные объекты. С одной стороны - старый "
+"ангар, но внутри него ничего не видно. И наконец, главный командный пункт. "
+"Ваши сенсоры показывают, что именно здесь находятся заговорщики, но, похоже, "
+"все они сейчас спят."
 
 #: src-en/data/events_sector_aea_cult.xml:1095
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CONSPIRACY_COMPOUND\"]/choice[1]/text"
-msgstr ""
+msgstr "Обыскать мастерскую."
 
 #: src-en/data/events_sector_aea_cult.xml:1099
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CONSPIRACY_COMPOUND\"]/choice[2]/text"
-msgstr ""
+msgstr "Обыскать складской двор."
 
 #: src-en/data/events_sector_aea_cult.xml:1103
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CONSPIRACY_COMPOUND\"]/choice[3]/text"
-msgstr ""
+msgstr "Обыскать генератор."
 
 #: src-en/data/events_sector_aea_cult.xml:1107
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CONSPIRACY_COMPOUND\"]/choice[4]/text"
-msgstr ""
+msgstr "Обыскать ангар."
 
 #: src-en/data/events_sector_aea_cult.xml:1111
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CONSPIRACY_COMPOUND\"]/choice[5]/text"
-msgstr ""
+msgstr "Обыскать комплекс."
 
 #: src-en/data/events_sector_aea_cult.xml:1121
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_WORKSHOP\"]/text"
-msgstr ""
+msgstr "Вы приходите в мастерскую, и оказывается, что рабочие уже легли спать."
 
 #: src-en/data/events_sector_aea_cult.xml:1123
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_WORKSHOP\"]/choice[@req=\"aea_cult_visit_eng\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Обыскать мастерскую."
 
 #: src-en/data/events_sector_aea_cult.xml:1125
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_WORKSHOP\"]/choice[@req=\"aea_cult_visit_eng\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"В результате поисков вы не нашли ничего полезного, а единственное, что можно "
+"использовать, - это несколько дрон-комплектов."
 
 #: src-en/data/events_sector_aea_cult.xml:1131
 msgid ""
@@ -1249,7 +1479,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_WORKSHOP\"]/choice[@req=\"aea_cult_visit_eng\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Вы уже обыскали мастерскую."
 
 #: src-en/data/events_sector_aea_cult.xml:1141
 msgid ""
@@ -1260,18 +1490,23 @@ msgstr "Вернуться."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_STORAGE\"]/text"
 msgstr ""
+"Вы отправляетесь на складской двор, он пуст и безлюден, если не считать "
+"нескольких грузовых контейнеров."
 
 #: src-en/data/events_sector_aea_cult.xml:1153
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_STORAGE\"]/choice[@req=\"aea_cult_visit_str\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Обыскать грузовые контейнеры."
 
 #: src-en/data/events_sector_aea_cult.xml:1155
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_STORAGE\"]/choice[@req=\"aea_cult_visit_str\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Вы начинаете вскрывать грузовые контейнеры, большинство из которых пусты. "
+"Только в предпоследнем ящике вы обнаруживаете корабельный модуль. Больше вы "
+"ничего не находите."
 
 #: src-en/data/events_sector_aea_cult.xml:1159
 msgid ""
@@ -1283,7 +1518,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_STORAGE\"]/choice[@req=\"aea_cult_visit_str\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Вы уже обыскали складской двор."
 
 #: src-en/data/events_sector_aea_cult.xml:1169
 msgid ""
@@ -1294,16 +1529,25 @@ msgstr "Вернуться."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_GENERATOR\"]/text"
 msgstr ""
+"Вы попадаете в помещение генератора, доступ к которому перекрыт мощным "
+"пунктом охраны. Маловероятно, что вам удастся попасть внутрь генераторной."
 
 #: src-en/data/events_sector_aea_cult.xml:1181
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_GENERATOR\"]/choice[1]/text"
-msgstr ""
+msgstr "Обыскать вход в генераторную."
 
 #: src-en/data/events_sector_aea_cult.xml:1183
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_GENERATOR_CODE\"]/text"
 msgstr ""
+"Комната, в которой вы находитесь, довольно пустая, с одной стороны - окно из "
+"толстого стекла в комнату управления безопасностью, на другой стене - карта "
+"путей эвакуации, вероятно, оставшаяся с тех времен, когда это место не было "
+"заброшено.\n"
+"\n"
+"Вы ничего не можете найти в комнате, однако через стеклянное окно вы "
+"замечаете стикер с кодом: ."
 
 #: src-en/data/events_sector_aea_cult.xml:1187
 msgid ""
@@ -1319,11 +1563,13 @@ msgstr "Вернуться."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_HANGER\"]/text"
 msgstr ""
+"Вы отправляетесь в ангар, обыскиваете его по периметру, но не можете найти "
+"вход, все двери заперты или заблокированы."
 
 #: src-en/data/events_sector_aea_cult.xml:1201
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_HANGER\"]/choice[1]/text"
-msgstr ""
+msgstr "Вы не можете обыскать ангар, поскольку не можете найти путь внутрь."
 
 #: src-en/data/events_sector_aea_cult.xml:1205
 msgid ""
@@ -1334,84 +1580,89 @@ msgstr "Вернуться."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_COMPOUND\"]/text"
 msgstr ""
+"Вы ищете путь в комплекс, но, похоже, они очень тщательно его охраняют, и "
+"единственный путь внутрь - через главную дверь, к тому же она заперта на "
+"ключ, и вам нужно будет найти код, чтобы отпереть дверь."
 
 #: src-en/data/events_sector_aea_cult.xml:1213
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_COMPOUND\"]/choice[1]/text"
-msgstr ""
+msgstr "Попытаться отпереть дверь."
 
 #: src-en/data/events_sector_aea_cult.xml:1215
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_ENTER_CODE\"]/text"
-msgstr ""
+msgstr "Ввести код: XXXX."
 
 #: src-en/data/events_sector_aea_cult.xml:1217
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_ENTER_CODE\"]/choice[1]/text"
-msgstr ""
+msgstr "Ввести 1."
 
 #: src-en/data/events_sector_aea_cult.xml:1223
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_ENTER_CODE\"]/choice[2]/text"
-msgstr ""
+msgstr "Ввести 2."
 
 #: src-en/data/events_sector_aea_cult.xml:1229
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_ENTER_CODE\"]/choice[3]/text"
-msgstr ""
+msgstr "Ввести 3."
 
 #: src-en/data/events_sector_aea_cult.xml:1235
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_ENTER_CODE\"]/choice[4]/text"
-msgstr ""
+msgstr "Ввести 4."
 
 #: src-en/data/events_sector_aea_cult.xml:1241
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_ENTER_CODE\"]/choice[5]/text"
-msgstr ""
+msgstr "Ввести 5."
 
 #: src-en/data/events_sector_aea_cult.xml:1247
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_ENTER_CODE\"]/choice[6]/text"
-msgstr ""
+msgstr "Ввести 6."
 
 #: src-en/data/events_sector_aea_cult.xml:1253
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_ENTER_CODE\"]/choice[7]/text"
-msgstr ""
+msgstr "Ввести 7."
 
 #: src-en/data/events_sector_aea_cult.xml:1259
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_ENTER_CODE\"]/choice[8]/text"
-msgstr ""
+msgstr "Ввести 8."
 
 #: src-en/data/events_sector_aea_cult.xml:1265
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_ENTER_CODE\"]/choice[9]/text"
-msgstr ""
+msgstr "Ввести 9."
 
 #: src-en/data/events_sector_aea_cult.xml:1271
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_ENTER_CODE\"]/choice[10]/text"
-msgstr ""
+msgstr "Ввести 0."
 
 #: src-en/data/events_sector_aea_cult.xml:1277
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_ENTER_CODE\"]/choice[@req=\"aea_cult_code\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Подтвердить код."
 
 #: src-en/data/events_sector_aea_cult.xml:1281
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_ENTER_CODE\"]/choice[@req=\"aea_cult_code\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Подтвердить код."
 
 #: src-en/data/events_sector_aea_cult.xml:1283
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_ENTER_CODE\"]/choice[@req=\"aea_cult_code\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Вы вводите код, но оказывается, что вы ошиблись, и дверь посылает "
+"электрический импульс, который повреждает ваш корабль."
 
 #: src-en/data/events_sector_aea_cult.xml:1286
 msgid ""
@@ -1433,26 +1684,37 @@ msgstr "Неважно."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_INSIDE\"]/text"
 msgstr ""
+"Вам удается проникнуть внутрь и пробраться через комплекс, в конце концов вы "
+"натыкаетесь на пункт охраны комплекса."
 
 #: src-en/data/events_sector_aea_cult.xml:1306
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_INSIDE\"]/choice/text"
-msgstr ""
+msgstr "Запереть заговорщиков в их комнатах."
 
 #: src-en/data/events_sector_aea_cult.xml:1308
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_INSIDE\"]/choice/event/text"
 msgstr ""
+"Вам удается задержать заговорщиков, и вы оповещаете полицию культистов.\n"
+"\n"
+"Во время наблюдения вы замечаете, что комната одного из заговорщиков не "
+"заперта должным образом, и, более того, вы не можете найти тех, кто там "
+"находился. Перемотав запись, вы видите, как они убегают в сторону ангара."
 
 #: src-en/data/events_sector_aea_cult.xml:1312
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_INSIDE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "За ними!"
 
 #: src-en/data/events_sector_aea_cult.xml:1314
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_INSIDE\"]/choice/event/choice/event/text"
 msgstr ""
+"Когда вы возвращаетесь с базы, то видите, как в воздух поднимается странное "
+"судно, похожее на Одноцветок, но что-то в нем не так. Вы не успеваете ничего "
+"понять, как оно начинает вас атаковать. Вы только успеваете вернуться на "
+"свой корабль."
 
 #: src-en/data/events_sector_aea_cult.xml:1317
 msgid ""
@@ -1463,6 +1725,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_FLOWER_DEAD\"]/text"
 msgstr ""
+"Корабль взрывается, и при его разрушении открывается внутреннее пространство "
+"корабля. Оказывается, цветок на самом деле был усовершенствованным "
+"автоматическим кораблем, который построили заговорщики.\n"
+"\n"
+"Вам удается разобрать фрагменты корабля и обнаружить среди обломков оружие."
 
 #: src-en/data/events_sector_aea_cult.xml:1333
 msgid ""
@@ -1473,15 +1740,24 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_FLOWER_DEAD\"]/choice/event/text"
 msgstr ""
+"Разобравшись с автоматическим кораблем, вы успеваете схватить последнего "
+"заговорщика как раз к тому моменту, когда прибывает полиция культистов и "
+"арестовывает заговорщиков.\n"
+"\n"
+"Вы получаете сообщение от Одноцветка, в котором он благодарит вас за хорошо "
+"выполненную работу, а вы получаете вознаграждение в виде лома."
 
 #: src-en/data/events_sector_aea_cult.xml:1355
 msgid "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/text"
 msgstr ""
+"\"Ренегат, это запретная зона. Вы не заметили минное поле у этого маяка? Вам "
+"нельзя здесь находиться!\" Минер культистов следит за вашими передвижениями, "
+"явно надеясь, что вы уйдете, не вызвав лишнего шума."
 
 #: src-en/data/events_sector_aea_cult.xml:1358
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[1]/text"
-msgstr ""
+msgstr "Атаковать, мы можем украсть их минную технологию!"
 
 #: src-en/data/events_sector_aea_cult.xml:1360
 msgid ""
