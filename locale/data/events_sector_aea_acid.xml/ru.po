@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-16 19:41+0000\n"
+"PO-Revision-Date: 2025-02-20 18:13+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_acidxml/ru/>\n"
@@ -32,6 +32,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"ENCOUNTER_AEA_ACID_CLEARING\"]/text"
 msgstr ""
+"Кислотный рост необычно встречается за пределами своих туманностей. Однако, "
+"похоже, они решило, что вы представляете угрозу, и переходят в атаку!"
 
 #: src-en/data/events_sector_aea_acid.xml:63
 msgid ""
@@ -47,16 +49,24 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"TEXT_AEA_ACID_PIRATE_CLEARING\"]/text[1]"
 msgstr ""
+"Кажется, неподалеку находится пиратский корабль. Будьте начеку: тот, кто "
+"пытается поохотиться на Кислотной территории, либо грозный, либо очень глуп, "
+"а в этом пространстве и то, и другое может быть опасно."
 
 #: src-en/data/events_sector_aea_acid.xml:78
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"TEXT_AEA_ACID_PIRATE_CLEARING\"]/text[2]"
 msgstr ""
+"\"Мы знали, что любой, кто настолько глуп, чтобы попытаться пробраться через "
+"Кислотную туманность, будет держаться открытого пространства. Отдайте свой "
+"груз, и мы оставим вас в живых\". Вы прервали передачу вместо ответа."
 
 #: src-en/data/events_sector_aea_acid.xml:79
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"TEXT_AEA_ACID_PIRATE_CLEARING\"]/text[3]"
 msgstr ""
+"Не успели вы отдохнуть от постоянно присутствующих в этом секторе "
+"туманностей, как позади вас появляется пиратский корабль и открывает огонь."
 
 #: src-en/data/events_sector_aea_acid.xml:86
 msgid ""
@@ -67,21 +77,33 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"TEXT_AEA_ACID_REBEL_CLEARING\"]/text[1]"
 msgstr ""
+"Когда вы подлетаете к маяку, на ваших сканерах сразу же регистрируется "
+"враждебный корабль. Вы не ожидали увидеть повстанцев, расширяющих свои "
+"границы в неизвестных районах Кислотной территории. Заряжайте оружие!"
 
 #: src-en/data/events_sector_aea_acid.xml:92
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"TEXT_AEA_ACID_REBEL_CLEARING\"]/text[2]"
 msgstr ""
+"Вы прыгаете в пустое пространство и с облегчением видите, как оживают ваши "
+"сенсоры. Однако вам не так приятно видеть, как они сразу же регистрируют "
+"корабль повстанцев, который приближается к вам!"
 
 #: src-en/data/events_sector_aea_acid.xml:93
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"TEXT_AEA_ACID_REBEL_CLEARING\"]/text[3]"
 msgstr ""
+"Вы получаете сообщение с близлежащего корабля: \"Похоже, наша "
+"разведывательная информация оказалась верной! Вам не удастся скрыться от "
+"нас, путешествуя по неизвестной территории... Никто не может скрыться от "
+"Восстания!\""
 
 #: src-en/data/events_sector_aea_acid.xml:97
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"ENCOUNTER_AEA_ACID_ORCHID_CLEARING\"]/text"
 msgstr ""
+"Похоже, орхидеи серьезно относятся к своей обязанности единственного "
+"союзника Кислотного роста: они переходят в атаку чтобы уничтожить вас."
 
 #: src-en/data/events_sector_aea_acid.xml:100
 msgid ""
@@ -127,6 +149,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"REFUGEE_HAIL_LIST_AEA_ACID_MV\"]/event[2]/text"
 msgstr ""
+"Когда вы вызываете корабль беженцев, в систему прыгает корабль "
+"Кислотников... Он охотился за кораблем беженцев ради спортивного интереса, а "
+"теперь нашел вас!"
 
 #: src-en/data/events_sector_aea_acid.xml:138
 msgid ""
@@ -137,16 +162,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/text"
 msgstr ""
+"Судя по всему, сигнал бедствия исходит от корабля слизней, застигнутого в "
+"открытом космосе Кислотным судном. Они связываются с вами на аварийных "
+"частотах: \"Пожалуйссста, мы отдадим вам всссе, что у нассс есссть, есссли "
+"вы нассс ссспасссете!\""
 
 #: src-en/data/events_sector_aea_acid.xml:147
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[1]/text"
-msgstr ""
+msgstr "Атаковать Кислотный корабль."
 
 #: src-en/data/events_sector_aea_acid.xml:149
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы нацеливаете свои орудия на Кислотном корабле и вступаете в бой."
 
 #: src-en/data/events_sector_aea_acid.xml:152
 msgid ""
@@ -161,7 +190,7 @@ msgstr "Атаковать корабль слизней."
 #: src-en/data/events_sector_aea_acid.xml:160
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Вы движетесь, чтобы закончить начатое Кислотным ростом."
 
 #: src-en/data/events_sector_aea_acid.xml:163
 msgid ""
@@ -171,12 +200,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_acid.xml:169
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[3]/text"
-msgstr ""
+msgstr "Оставить Кислотный рост с их призом. Включить ССД."
 
 #: src-en/data/events_sector_aea_acid.xml:171
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[3]/event/text"
 msgstr ""
+"Можно подумать, что жадность слизней должна была закончится на границах "
+"Кислотного роста, но это не так."
 
 #: src-en/data/events_sector_aea_acid.xml:173
 msgid ""
@@ -192,6 +223,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_ACIDIC_SURRENDER\"]/event[1]/text"
 msgstr ""
+"Не похоже, что они смогут выдержать еще много повреждений. После нескольких "
+"выстрелов их корабль разваливается на части, и вы отправляетесь туда, чтобы "
+"разграбить останки."
 
 #: src-en/data/events_sector_aea_acid.xml:189
 msgid ""
@@ -205,21 +239,26 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/text"
 msgstr ""
+"Большое Кислотное судно бездействует. Через некоторое время оно вызывает "
+"вас, предлагая услуги в обмен на лом."
 
 #: src-en/data/events_sector_aea_acid.xml:228
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[1]/text"
-msgstr ""
+msgstr "Принять предложение."
 
 #: src-en/data/events_sector_aea_acid.xml:230
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[1]/event/text"
 msgstr ""
+"Вы отправляете свой лом, и вскоре на ваш корабль прибывает странный боевой "
+"дрон. Похоже, Кислотный рост позаимствовал эту технологию для собственного "
+"корабля."
 
 #: src-en/data/events_sector_aea_acid.xml:234
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "Кислотный солдат"
 
 #: src-en/data/events_sector_aea_acid.xml:236
 msgid ""
@@ -229,17 +268,20 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_acid.xml:242
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[@req=\"aea_acid_friendly\"]/text"
-msgstr ""
+msgstr "(Дружелюбность) Принять предложение со скидкой."
 
 #: src-en/data/events_sector_aea_acid.xml:244
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[@req=\"aea_acid_friendly\"]/event/text"
 msgstr ""
+"Вы отправляете свой лом, и вскоре на ваш корабль прибывает странный боевой "
+"дрон. Похоже, Кислотный рост позаимствовал эту технологию для собственного "
+"корабля."
 
 #: src-en/data/events_sector_aea_acid.xml:248
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[@req=\"aea_acid_friendly\"]/event/crewMember"
-msgstr ""
+msgstr "Кислотный солдат"
 
 #: src-en/data/events_sector_aea_acid.xml:250
 msgid ""
@@ -1709,7 +1751,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1399
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[1]/text"
-msgstr ""
+msgstr "Пробраться в очередь."
 
 #: src-en/data/events_sector_aea_acid.xml:1403
 msgid ""
@@ -1720,16 +1762,19 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[2]/event/text"
 msgstr ""
+"Вы проводите операцию и внимательно наблюдаете за тем, как машины латают "
+"корпус. Похоже, все в порядке. Как только они заканчивают, вы готовитесь к "
+"прыжку."
 
 #: src-en/data/events_sector_aea_acid.xml:1413
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[3]/text"
-msgstr ""
+msgstr "Избегать ремонтную мастерскую."
 
 #: src-en/data/events_sector_aea_acid.xml:1415
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Вы готовитесь к прыжку."
 
 #: src-en/data/events_sector_aea_acid.xml:1417
 msgid ""
@@ -1754,7 +1799,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_acid.xml:1437
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[2]/text"
-msgstr ""
+msgstr "Вы добираетесь до конца очереди и получаете бесплатный ремонт."
 
 #: src-en/data/events_sector_aea_acid.xml:1440
 msgid ""
@@ -1774,7 +1819,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_acid.xml:1452
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[3]/text"
-msgstr ""
+msgstr "Вы добираетесь до конца очереди и получаете бесплатный ремонт."
 
 #: src-en/data/events_sector_aea_acid.xml:1455
 msgid ""
@@ -1866,7 +1911,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1522
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_SLAVES\"]/event[2]/crewMember"
-msgstr ""
+msgstr "Кислотный солдат"
 
 #: src-en/data/events_sector_aea_acid.xml:1527
 msgid ""
@@ -2284,7 +2329,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1864
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_DISTRESS_QUESTION_TRUE\"]/crewMember"
-msgstr ""
+msgstr "Кислотный солдат"
 
 #: src-en/data/events_sector_aea_acid.xml:1867
 msgid ""
@@ -2334,7 +2379,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1909
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Отказаться от задания."
 
 #: src-en/data/events_sector_aea_acid.xml:1911
 msgid ""
