@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-19 17:13+0000\n"
+"PO-Revision-Date: 2025-02-21 19:13+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datablueprintsxmlappend/ru/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:13
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_ACIDIC\"]/title"
-msgstr "Кислотный корабль"
+msgstr "Корабль Кислотников"
 
 #: src-en/data/blueprints.xml.append:14
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_ACIDIC\"]/desc"
@@ -87,10 +87,10 @@ msgstr "Щелочный"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_ACID_ARTY\"]/desc"
 msgstr ""
-"Возникнув из Кислотного роста, сосуд позволил Росту распространить свое "
-"влияние за пределы туманностей, в которых он сформировался. Пока только "
-"орхидеи заключили мир с Кислотным ростом. На этом корабле установлена "
-"улучшенная кислородная установка."
+"Возникнув из Кислотного роста, этот корабль позволил ему выйти за пределы "
+"туманностей, в которых он сформировался. Пока только орхидеи заключили мир с "
+"Кислотным ростом. На этом корабле установлена улучшенная кислородная "
+"установка."
 
 #: src-en/data/blueprints.xml.append:145
 msgid ""
@@ -1668,7 +1668,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4676
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BURST_1\"]/title"
-msgstr ""
+msgstr "Импульсный дрон с усилителем"
 
 #: src-en/data/blueprints.xml.append:4677
 msgid ""
@@ -1683,7 +1683,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4696
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BURST_1_ENEMY\"]/title"
-msgstr ""
+msgstr "Импульсный дрон с усилителем"
 
 #: src-en/data/blueprints.xml.append:4697
 msgid ""
@@ -1698,7 +1698,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:4713
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BURST_2\"]/title"
-msgstr ""
+msgstr "Импульсный дрон с усилителем"
 
 #: src-en/data/blueprints.xml.append:4714
 msgid ""
@@ -1713,7 +1713,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4733
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BURST_2_ENEMY\"]/title"
-msgstr ""
+msgstr "Импульсный дрон с усилителем"
 
 #: src-en/data/blueprints.xml.append:4734
 msgid ""
@@ -1728,7 +1728,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:4750
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BURST_3\"]/title"
-msgstr ""
+msgstr "Импульсный дрон с усилителем"
 
 #: src-en/data/blueprints.xml.append:4751
 msgid ""
@@ -2158,7 +2158,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5479
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_captain\"]/title"
-msgstr ""
+msgstr "Кислотный Лидер"
 
 #: src-en/data/blueprints.xml.append:5480
 msgid ""
@@ -2761,7 +2761,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5808
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_vampbig\"]/short"
-msgstr "Культист"
+msgstr "Сектант"
 
 #: src-en/data/blueprints.xml.append:5809
 msgid ""
@@ -2791,7 +2791,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5824
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard\"]/short"
-msgstr "Культист"
+msgstr "Сектант"
 
 #: src-en/data/blueprints.xml.append:5825
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard\"]/desc"
