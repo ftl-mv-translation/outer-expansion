@@ -1,80 +1,95 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-21 19:13+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_special_storagexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Кислотная система фильтрации."
 
 #: src-en/data/events_special_storage.xml.append:9
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Кислотная система фильтрации."
 
 #: src-en/data/events_special_storage.xml.append:13
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Преобразователь Еретиков."
 
 #: src-en/data/events_special_storage.xml.append:17
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Сектанты."
 
 #: src-en/data/events_special_storage.xml.append:21
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "Крошечный сектант."
 
 #: src-en/data/events_special_storage.xml.append:25
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "Оружие секты."
 
 #: src-en/data/events_special_storage.xml.append:36
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ORCHID\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"Всп [Сектанты]: Древнее причастие. [Улучшение уже добавлено]\n"
+"\t\t[Вы можете покупать заклинания у пустых маяков]"
 
 #: src-en/data/events_special_storage.xml.append:41
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ORCHID\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Всп [Сектанты]: Древнее Причастие. [Цена: 35~, 4{]."
 
 #: src-en/data/events_special_storage.xml.append:48
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(Древнее причастие) Причастие."
 
 #: src-en/data/events_special_storage.xml.append:54
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(Древнее причастие) Причастие."
 
 #: src-en/data/events_special_storage.xml.append:63
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_COMMUNION\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию Древнее причастие.\n"
+"\t[Эффекты: Вы можете покупать заклинания у пустых маяков]\n"
+"\t\n"
+"\t[Внимание: Это повлияет только на экипаж сектантов. Вы сможете установить "
+"другие вспомогательные и основные модификации после этого]"
 
 #: src-en/data/events_special_storage.xml.append:68
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_COMMUNION\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Добавить модификацию. [ Цена: 35~, 4{]]."
 
 #: src-en/data/events_special_storage.xml.append:70
 msgid ""
@@ -102,7 +117,7 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:96
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/text"
-msgstr ""
+msgstr "Что вы хотите сделать?"
 
 #: src-en/data/events_special_storage.xml.append:99
 msgid ""
@@ -112,12 +127,14 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:103
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi\"]/text"
-msgstr ""
+msgstr "Преобразовать энджи Гармонии."
 
 #: src-en/data/events_special_storage.xml.append:105
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi\"]/event/text"
 msgstr ""
+"Вы видите, как на вашего энджи набрасывается облако нанитов, и это не очень "
+"приятно для энджи."
 
 #: src-en/data/events_special_storage.xml.append:111
 msgid ""
@@ -127,12 +144,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:117
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist\"]/text"
-msgstr ""
+msgstr "Преобразовать Сепаратиста энджи."
 
 #: src-en/data/events_special_storage.xml.append:119
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist\"]/event/text"
 msgstr ""
+"Вы видите, как на вашего энджи набрасывается облако нанитов, и это не очень "
+"приятно для энджи."
 
 #: src-en/data/events_special_storage.xml.append:125
 msgid ""
@@ -142,12 +161,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:131
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist_nano\"]/text"
-msgstr ""
+msgstr "Преобразовать Сепаратиста энджи."
 
 #: src-en/data/events_special_storage.xml.append:133
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist_nano\"]/event/text"
 msgstr ""
+"Вы видите, как на вашего энджи набрасывается облако нанитов, и это не очень "
+"приятно для энджи."
 
 #: src-en/data/events_special_storage.xml.append:139
 msgid ""
@@ -157,12 +178,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:145
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_defender\"]/text"
-msgstr ""
+msgstr "Преобразовать энджи Защитника."
 
 #: src-en/data/events_special_storage.xml.append:147
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_defender\"]/event/text"
 msgstr ""
+"Вы видите, как на вашего энджи набрасывается облако нанитов, и это не очень "
+"приятно для энджи."
 
 #: src-en/data/events_special_storage.xml.append:153
 msgid ""
@@ -173,120 +196,139 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[4]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Родные миры Кислотного роста)."
 
 #: src-en/data/events_special_storage.xml.append:168
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[5]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "(Родные миры Кислотного роста)."
 
 #: src-en/data/events_special_storage.xml.append:175
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"(Защитный дрон Еретиков мод. I) Настроить режим дрона. [Текущий режим: "
+"Противоракетный]."
 
 #: src-en/data/events_special_storage.xml.append:179
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
 msgstr ""
+"(Защитный дрон Еретиков мод. I) Настроить режим дрона. [Текущий режим: "
+"Анти-дрон]."
 
 #: src-en/data/events_special_storage.xml.append:184
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
+"(Защитный дрон Еретиков мод. II) Настроить режим дрона. [Текущий режим: "
+"Противоракетный]."
 
 #: src-en/data/events_special_storage.xml.append:188
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[4]/text"
 msgstr ""
+"(Защитный дрон Еретиков мод. II) Настроить режим дрона. [Текущий режим: "
+"Анти-дрон]."
 
 #: src-en/data/events_special_storage.xml.append:193
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[5]/text"
 msgstr ""
+"(Дрон \"Техномантия\" мод. I) Настроить режим дрона. [Текущий режим: Лазер]."
 
 #: src-en/data/events_special_storage.xml.append:197
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[6]/text"
 msgstr ""
+"(Дрон \"Техномантия\" мод. I) Настроить режим дрона. [Текущий режим: Луч]."
 
 #: src-en/data/events_special_storage.xml.append:202
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[7]/text"
 msgstr ""
+"(Дрон \"Техномантия\" мод. II) Настроить режим дрона. [Текущий режим: Лазер]."
 
 #: src-en/data/events_special_storage.xml.append:206
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[8]/text"
 msgstr ""
+"(Дрон \"Техномантия\" мод. II) Настроить режим дрона. [Текущий режим: Луч]."
 
 #: src-en/data/events_special_storage.xml.append:211
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[9]/text"
 msgstr ""
+"(Импульсный дрон с усилителем) Настроить режим дрона. [Текущая мощность: 2]."
 
 #: src-en/data/events_special_storage.xml.append:215
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[10]/text"
 msgstr ""
+"(Импульсный дрон с усилителем) Настроить режим дрона. [Текущая мощность: 3]."
 
 #: src-en/data/events_special_storage.xml.append:219
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[11]/text"
 msgstr ""
+"(Импульсный дрон с усилителем) Настроить режим дрона. [Текущая мощность: 4]."
 
 #: src-en/data/events_special_storage.xml.append:224
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[12]/text"
-msgstr ""
+msgstr "(Дрон-близнец мод. I) Настроить режим дрона. [Текущий режим: Лазер]"
 
 #: src-en/data/events_special_storage.xml.append:228
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[13]/text"
-msgstr ""
+msgstr "(Дрон-близнец мод. I) Настроить режим дрона. [Текущий режим: Луч]"
 
 #: src-en/data/events_special_storage.xml.append:233
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[14]/text"
-msgstr ""
+msgstr "(Дрон-близнец мод. II) Настроить режим дрона. [Текущий режим: Лазер]"
 
 #: src-en/data/events_special_storage.xml.append:237
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[15]/text"
-msgstr ""
+msgstr "(Дрон-близнец мод. II) Настроить режим дрона. [Текущий режим: Луч]"
 
 #: src-en/data/events_special_storage.xml.append:242
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[16]/text"
 msgstr ""
+"(Дрон-близнец мод. II [ДОБЫЧА ГИ]) Настроить режим дрона. [Текущий режим: "
+"Лазер]"
 
 #: src-en/data/events_special_storage.xml.append:246
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[17]/text"
 msgstr ""
+"(Дрон-близнец мод. II [ДОБЫЧА ГИ]) Настроить режим дрона. [Текущий режим: "
+"Луч]"
 
 #: src-en/data/events_special_storage.xml.append:252
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/text"
-msgstr ""
+msgstr "Что вы хотите сделать?"
 
 #: src-en/data/events_special_storage.xml.append:255
 msgid ""
@@ -297,16 +339,18 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[2]/text"
 msgstr ""
+"Перевести систему фильтрации в режим Огнетушителя (в настоящее время "
+"включено)."
 
 #: src-en/data/events_special_storage.xml.append:265
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[3]/text"
-msgstr ""
+msgstr "Перевести систему фильтрации в режим Кислорода."
 
 #: src-en/data/events_special_storage.xml.append:267
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[3]/event/text"
-msgstr ""
+msgstr "Ваша система фильтрации переключается на производство кислорода."
 
 #: src-en/data/events_special_storage.xml.append:270
 msgid ""
@@ -316,7 +360,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:272
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[3]/event/choice/event/text"
-msgstr ""
+msgstr "Подсистема жизнеобеспечения замедляется."
 
 #: src-en/data/events_special_storage.xml.append:275
 msgid ""
@@ -326,7 +370,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:286
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/text"
-msgstr ""
+msgstr "Что вы хотите сделать?"
 
 #: src-en/data/events_special_storage.xml.append:289
 msgid ""
@@ -336,12 +380,14 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:294
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[2]/text"
-msgstr ""
+msgstr "Перевести систему фильтрации в режим Огнетушителя."
 
 #: src-en/data/events_special_storage.xml.append:296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[2]/event/text"
 msgstr ""
+"Ваша система фильтрации переключается на производство средства для "
+"подавления огня."
 
 #: src-en/data/events_special_storage.xml.append:299
 msgid ""
@@ -351,7 +397,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:301
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "Подсистема жизнеобеспечения становится более эффективной."
 
 #: src-en/data/events_special_storage.xml.append:304
 msgid ""
@@ -362,11 +408,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[3]/text"
 msgstr ""
+"Перевести систему фильтрации в режим Кислорода (в настоящее время включено)."
 
 #: src-en/data/events_special_storage.xml.append:327
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_MISSILE\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_special_storage.xml.append:329
 msgid ""
@@ -401,7 +448,7 @@ msgstr "Вернуться в меню переключения."
 #: src-en/data/events_special_storage.xml.append:352
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_DRONE\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_special_storage.xml.append:354
 msgid ""
@@ -436,7 +483,7 @@ msgstr "Вернуться в меню переключения."
 #: src-en/data/events_special_storage.xml.append:385
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_MISSILE\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_special_storage.xml.append:387
 msgid ""
@@ -471,7 +518,7 @@ msgstr "Вернуться в меню переключения."
 #: src-en/data/events_special_storage.xml.append:410
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_DRONE\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_special_storage.xml.append:412
 msgid ""
@@ -506,7 +553,7 @@ msgstr "Вернуться в меню переключения."
 #: src-en/data/events_special_storage.xml.append:443
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_LASER\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_special_storage.xml.append:445
 msgid ""
@@ -541,7 +588,7 @@ msgstr "Вернуться в меню переключения."
 #: src-en/data/events_special_storage.xml.append:468
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_BEAM\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_special_storage.xml.append:470
 msgid ""
@@ -576,7 +623,7 @@ msgstr "Вернуться в меню переключения."
 #: src-en/data/events_special_storage.xml.append:500
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_LASER\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_special_storage.xml.append:502
 msgid ""
@@ -611,7 +658,7 @@ msgstr "Вернуться в меню переключения."
 #: src-en/data/events_special_storage.xml.append:525
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_BEAM\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_special_storage.xml.append:527
 msgid ""
@@ -1491,7 +1538,7 @@ msgstr "Вернуться в меню переключения."
 #: src-en/data/events_special_storage.xml.append:1287
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/text"
-msgstr ""
+msgstr "Что вы хотите сделать?"
 
 #: src-en/data/events_special_storage.xml.append:1290
 msgid ""
@@ -2041,7 +2088,7 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:1700
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/text"
-msgstr ""
+msgstr "Что вы хотите сделать?"
 
 #: src-en/data/events_special_storage.xml.append:1703
 msgid ""
@@ -2716,7 +2763,7 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:2179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/text"
-msgstr ""
+msgstr "Что вы хотите сделать?"
 
 #: src-en/data/events_special_storage.xml.append:2182
 msgid ""
@@ -3266,7 +3313,7 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:2595
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_LASER\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_special_storage.xml.append:2597
 msgid ""
@@ -3301,7 +3348,7 @@ msgstr "Вернуться в меню переключения."
 #: src-en/data/events_special_storage.xml.append:2620
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_BEAM\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_special_storage.xml.append:2622
 msgid ""
@@ -3336,7 +3383,7 @@ msgstr "Вернуться в меню переключения."
 #: src-en/data/events_special_storage.xml.append:2653
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LASER\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_special_storage.xml.append:2655
 msgid ""
@@ -3371,7 +3418,7 @@ msgstr "Вернуться в меню переключения."
 #: src-en/data/events_special_storage.xml.append:2678
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_BEAM\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_special_storage.xml.append:2680
 msgid ""
@@ -3406,7 +3453,7 @@ msgstr "Вернуться в меню переключения."
 #: src-en/data/events_special_storage.xml.append:2712
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_LASER\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_special_storage.xml.append:2714
 msgid ""
@@ -3441,7 +3488,7 @@ msgstr "Вернуться в меню переключения."
 #: src-en/data/events_special_storage.xml.append:2737
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_BEAM\"]/text"
-msgstr ""
+msgstr "Вы уверены, что хотите изменить настройки дрона?"
 
 #: src-en/data/events_special_storage.xml.append:2739
 msgid ""
