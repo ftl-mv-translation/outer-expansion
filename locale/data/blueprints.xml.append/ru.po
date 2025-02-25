@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 19:13+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-02-26 19:13+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -47,7 +47,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:45
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_OLD\"]/title"
-msgstr ""
+msgstr "Крейсер Лилмиков"
 
 #: src-en/data/blueprints.xml.append:46
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_OLD\"]/desc"
@@ -66,7 +66,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:62
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_BROADSIDE2\"]/title"
-msgstr ""
+msgstr "Крейсер Броадсайд"
 
 #: src-en/data/blueprints.xml.append:63
 msgid ""
@@ -198,17 +198,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:594
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_ARTILLERY_BEAM_ACID_1\"]/title"
-msgstr ""
+msgstr "Луч \"Гаста\""
 
 #: src-en/data/blueprints.xml.append:595
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_ARTILLERY_BEAM_ACID_1\"]/short"
-msgstr ""
+msgstr "Гаста"
 
 #: src-en/data/blueprints.xml.append:597
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_ARTILLERY_BEAM_ACID_1\"]/desc"
 msgstr ""
+"Разработан на основе Кислотного роста, это оружие продолжает разрушать "
+"систему противника после попадания."
 
 #: src-en/data/blueprints.xml.append:598
 msgid ""
@@ -218,17 +220,19 @@ msgstr "."
 #: src-en/data/blueprints.xml.append:638
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_ARTILLERY_BEAM_ACID_2\"]/title"
-msgstr ""
+msgstr "Луч \"Гаста\""
 
 #: src-en/data/blueprints.xml.append:639
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_ARTILLERY_BEAM_ACID_2\"]/short"
-msgstr ""
+msgstr "Гаста"
 
 #: src-en/data/blueprints.xml.append:641
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_ARTILLERY_BEAM_ACID_2\"]/desc"
 msgstr ""
+"Разработан на основе Кислотного роста, это оружие продолжает разрушать "
+"систему противника после попадания."
 
 #: src-en/data/blueprints.xml.append:642
 msgid ""
@@ -238,12 +242,12 @@ msgstr "."
 #: src-en/data/blueprints.xml.append:683
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BOMB_INVIS_ACID_1\"]/title"
-msgstr ""
+msgstr "КИСЛОТНЫЙ луч"
 
 #: src-en/data/blueprints.xml.append:684
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BOMB_INVIS_ACID_1\"]/short"
-msgstr ""
+msgstr "КИСЛОТА"
 
 #: src-en/data/blueprints.xml.append:686
 msgid ""
@@ -257,7 +261,7 @@ msgstr "."
 
 #: src-en/data/blueprints.xml.append:723
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_JUMPER\"]/title"
-msgstr ""
+msgstr "Кислотный ССД"
 
 #: src-en/data/blueprints.xml.append:724
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_JUMPER\"]/desc"
@@ -265,7 +269,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:732
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_O2SYS\"]/title"
-msgstr ""
+msgstr "Кислотная система фильтрации"
 
 #: src-en/data/blueprints.xml.append:733
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_O2SYS\"]/desc"
@@ -274,7 +278,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:745
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_O2SYS_OFF\"]/title"
-msgstr ""
+msgstr "Кислотная система фильтрации"
 
 #: src-en/data/blueprints.xml.append:746
 msgid ""
@@ -284,7 +288,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:758
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_O2SYS_ENEMY\"]/title"
-msgstr ""
+msgstr "Кислотная система фильтрации"
 
 #: src-en/data/blueprints.xml.append:759
 msgid ""
@@ -294,7 +298,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:767
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_O2SYS_ENEMY_WEAK\"]/title"
-msgstr ""
+msgstr "Кислотная система фильтрации"
 
 #: src-en/data/blueprints.xml.append:768
 msgid ""
@@ -304,72 +308,84 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:780
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_1\"]/title"
-msgstr ""
+msgstr "Кислотный лазер мод. I"
 
 #: src-en/data/blueprints.xml.append:781
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_1\"]/short"
-msgstr ""
+msgstr "Кислотный I"
 
 #: src-en/data/blueprints.xml.append:783
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_1\"]/desc"
 msgstr ""
+"Разработан на основе Кислотного роста, это оружие продолжает разрушать "
+"систему противника после попадания."
 
 #: src-en/data/blueprints.xml.append:784
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_1\"]/tooltip"
 msgstr ""
+"Выпускает 3 снаряда, каждый наносит 1 урон, 60% шанс оглушения, 60% шанс "
+"возгорания."
 
 #: src-en/data/blueprints.xml.append:834
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_2\"]/title"
-msgstr ""
+msgstr "Кислотный лазер мод. II"
 
 #: src-en/data/blueprints.xml.append:835
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_2\"]/short"
-msgstr ""
+msgstr "Кислотный II"
 
 #: src-en/data/blueprints.xml.append:837
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_2\"]/desc"
 msgstr ""
+"Разработан на основе Кислотного роста, это оружие продолжает разрушать "
+"систему противника после попадания."
 
 #: src-en/data/blueprints.xml.append:838
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_2\"]/tooltip"
 msgstr ""
+"Выпускает 3 снаряда, каждый наносит 1 урон, 60% шанс оглушения, 60% шанс "
+"возгорания."
 
 #: src-en/data/blueprints.xml.append:888
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_3\"]/title"
-msgstr ""
+msgstr "Кислотный лазер мод. III"
 
 #: src-en/data/blueprints.xml.append:889
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_3\"]/short"
-msgstr ""
+msgstr "Кислотный III"
 
 #: src-en/data/blueprints.xml.append:891
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_3\"]/desc"
 msgstr ""
+"Разработан на основе Кислотного роста, это оружие продолжает разрушать "
+"систему противника после попадания."
 
 #: src-en/data/blueprints.xml.append:892
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_3\"]/tooltip"
 msgstr ""
+"Выпускает 3 снаряда, каждый наносит 1 урон, 60% шанс оглушения, 60% шанс "
+"возгорания."
 
 #: src-en/data/blueprints.xml.append:942
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_SUPER\"]/title"
-msgstr ""
+msgstr "Кислотная лазерная пушка"
 
 #: src-en/data/blueprints.xml.append:943
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_SUPER\"]/short"
-msgstr ""
+msgstr "Кислотная л. п."
 
 #: src-en/data/blueprints.xml.append:945
 msgid ""
@@ -380,16 +396,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_SUPER\"]/tooltip"
 msgstr ""
+"Выпускает x снарядов, каждый наносит 1 урон, 60% шанс оглушения, 60% шанс "
+"возгорания."
 
 #: src-en/data/blueprints.xml.append:994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_SUPER_ENEMY\"]/title"
-msgstr ""
+msgstr "Кислотная лазерная пушка"
 
 #: src-en/data/blueprints.xml.append:995
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_SUPER_ENEMY\"]/short"
-msgstr ""
+msgstr "Кислотная л. п."
 
 #: src-en/data/blueprints.xml.append:997
 msgid ""
@@ -400,6 +418,8 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_SUPER_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает x снарядов, каждый наносит 1 урон, 60% шанс оглушения, 60% шанс "
+"возгорания."
 
 #: src-en/data/blueprints.xml.append:1047
 msgid ""
@@ -419,22 +439,24 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1050
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_SUPER_BASE\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:1067
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_ACID_1\"]/title"
-msgstr ""
+msgstr "Луч \"Трезубец\""
 
 #: src-en/data/blueprints.xml.append:1068
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_ACID_1\"]/short"
-msgstr ""
+msgstr "Трезубец"
 
 #: src-en/data/blueprints.xml.append:1070
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_ACID_1\"]/desc"
 msgstr ""
+"Разработан на основе Кислотного роста, это оружие продолжает разрушать "
+"систему противника после попадания."
 
 #: src-en/data/blueprints.xml.append:1071
 msgid ""
@@ -455,6 +477,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_ION_ACID_1\"]/desc"
 msgstr ""
+"Разработан на основе Кислотного роста, это оружие продолжает разрушать "
+"систему противника после попадания."
 
 #: src-en/data/blueprints.xml.append:1110
 msgid ""
@@ -475,6 +499,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_ION_ACID_1_LOOT\"]/desc"
 msgstr ""
+"Разработан на основе Кислотного роста, это оружие продолжает разрушать "
+"систему противника после попадания."
 
 #: src-en/data/blueprints.xml.append:1169
 msgid ""
@@ -484,12 +510,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1227
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_1_ENEMY\"]/title"
-msgstr ""
+msgstr "Кислотный лазер мод. I"
 
 #: src-en/data/blueprints.xml.append:1228
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_1_ENEMY\"]/short"
-msgstr ""
+msgstr "Кислотный I"
 
 #: src-en/data/blueprints.xml.append:1230
 msgid ""
@@ -500,16 +526,18 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_1_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает 3 снаряда, каждый наносит 1 урон, 60% шанс оглушения, 60% шанс "
+"возгорания."
 
 #: src-en/data/blueprints.xml.append:1281
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_2_ENEMY\"]/title"
-msgstr ""
+msgstr "Кислотный лазер мод. II"
 
 #: src-en/data/blueprints.xml.append:1282
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_2_ENEMY\"]/short"
-msgstr ""
+msgstr "Кислотный II"
 
 #: src-en/data/blueprints.xml.append:1284
 msgid ""
@@ -520,16 +548,18 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_2_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает 3 снаряда, каждый наносит 1 урон, 60% шанс оглушения, 60% шанс "
+"возгорания."
 
 #: src-en/data/blueprints.xml.append:1335
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_3_ENEMY\"]/title"
-msgstr ""
+msgstr "Кислотный лазер мод. III"
 
 #: src-en/data/blueprints.xml.append:1336
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_3_ENEMY\"]/short"
-msgstr ""
+msgstr "Кислотный III"
 
 #: src-en/data/blueprints.xml.append:1338
 msgid ""
@@ -540,16 +570,18 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_3_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает 3 снаряда, каждый наносит 1 урон, 60% шанс оглушения, 60% шанс "
+"возгорания."
 
 #: src-en/data/blueprints.xml.append:1389
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_ACID_1_ENEMY\"]/title"
-msgstr ""
+msgstr "Луч \"Трезубец\""
 
 #: src-en/data/blueprints.xml.append:1390
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_ACID_1_ENEMY\"]/short"
-msgstr ""
+msgstr "Трезубец"
 
 #: src-en/data/blueprints.xml.append:1392
 msgid ""
@@ -706,22 +738,24 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2020
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_NECRO_CONVERT\"]/title"
-msgstr ""
+msgstr "Преобразователь Еретиков"
 
 #: src-en/data/blueprints.xml.append:2021
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_NECRO_CONVERT\"]/desc"
 msgstr ""
+"Способен превращать различных энджи в Еретики энджи за счет дрон-комплектов."
 
 #: src-en/data/blueprints.xml.append:2029
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_NECRO_ENGI_SLOT_C\"]/title"
-msgstr ""
+msgstr "Преобразователь Еретиков"
 
 #: src-en/data/blueprints.xml.append:2030
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_NECRO_ENGI_SLOT_C\"]/desc"
 msgstr ""
+"Способен превращать различных энджи в Еретики энджи за счет дрон-комплектов."
 
 #: src-en/data/blueprints.xml.append:2038
 msgid ""
@@ -751,12 +785,12 @@ msgstr "Лазер дрона"
 #: src-en/data/blueprints.xml.append:2091
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_DEFENSE_NECRO_1_MISSILE\"]/title"
-msgstr ""
+msgstr "Защитный дрон Еретиков мод. I [Р]"
 
 #: src-en/data/blueprints.xml.append:2092
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_DEFENSE_NECRO_1_MISSILE\"]/short"
-msgstr ""
+msgstr "Еретик I [Р]"
 
 #: src-en/data/blueprints.xml.append:2093
 msgid ""
@@ -766,12 +800,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2111
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_DEFENSE_NECRO_1_DRONE\"]/title"
-msgstr ""
+msgstr "Защитный дрон Еретиков мод. I [Д]"
 
 #: src-en/data/blueprints.xml.append:2112
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_DEFENSE_NECRO_1_DRONE\"]/short"
-msgstr ""
+msgstr "Еретик I [Д]"
 
 #: src-en/data/blueprints.xml.append:2113
 msgid ""
@@ -781,12 +815,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2132
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_DEFENSE_NECRO_2_MISSILE\"]/title"
-msgstr ""
+msgstr "Защитный дрон Еретиков мод. II [Р]"
 
 #: src-en/data/blueprints.xml.append:2133
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_DEFENSE_NECRO_2_MISSILE\"]/short"
-msgstr ""
+msgstr "Еретик II [Р]"
 
 #: src-en/data/blueprints.xml.append:2134
 msgid ""
@@ -796,12 +830,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2153
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_DEFENSE_NECRO_2_DRONE\"]/title"
-msgstr ""
+msgstr "Защитный дрон Еретиков мод. II [Д]"
 
 #: src-en/data/blueprints.xml.append:2154
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_DEFENSE_NECRO_2_DRONE\"]/short"
-msgstr ""
+msgstr "Еретик II [Д]"
 
 #: src-en/data/blueprints.xml.append:2155
 msgid ""
@@ -816,17 +850,17 @@ msgstr "Лазер дрона"
 #: src-en/data/blueprints.xml.append:2201
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_NECRO_COMBAT\"]/title"
-msgstr ""
+msgstr "Лучевой дрон"
 
 #: src-en/data/blueprints.xml.append:2224
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_1_LASER\"]/title"
-msgstr ""
+msgstr "Дрон \"Техномантия\" мод. I [Лазер]"
 
 #: src-en/data/blueprints.xml.append:2225
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_1_LASER\"]/short"
-msgstr ""
+msgstr "Техномантия I [Л]"
 
 #: src-en/data/blueprints.xml.append:2226
 msgid ""
@@ -836,12 +870,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2241
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_1_BEAM\"]/title"
-msgstr ""
+msgstr "Дрон \"Техномантия\" мод. I [Луч]"
 
 #: src-en/data/blueprints.xml.append:2242
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_1_BEAM\"]/short"
-msgstr ""
+msgstr "Техномантия I [ЛУЧ]"
 
 #: src-en/data/blueprints.xml.append:2243
 msgid ""
@@ -851,12 +885,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2259
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_1_LASER_TEMP\"]/title"
-msgstr ""
+msgstr "Дрон \"Техномантия\" мод. I [Лазер]"
 
 #: src-en/data/blueprints.xml.append:2260
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_1_LASER_TEMP\"]/short"
-msgstr ""
+msgstr "Техномантия I [Л]"
 
 #: src-en/data/blueprints.xml.append:2261
 msgid ""
@@ -868,12 +902,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2276
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_1_BEAM_TEMP\"]/title"
-msgstr ""
+msgstr "Дрон \"Техномантия\" мод. I [Луч]"
 
 #: src-en/data/blueprints.xml.append:2277
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_1_BEAM_TEMP\"]/short"
-msgstr ""
+msgstr "Техномантия I [ЛУЧ]"
 
 #: src-en/data/blueprints.xml.append:2278
 msgid ""
@@ -885,12 +919,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2298
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_2_LASER\"]/title"
-msgstr ""
+msgstr "Дрон \"Техномантия\" мод. II [Лазер]"
 
 #: src-en/data/blueprints.xml.append:2299
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_2_LASER\"]/short"
-msgstr ""
+msgstr "Техномантия II [Л]"
 
 #: src-en/data/blueprints.xml.append:2300
 msgid ""
@@ -900,12 +934,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2315
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_2_BEAM\"]/title"
-msgstr ""
+msgstr "Дрон \"Техномантия\" мод. II [Луч]"
 
 #: src-en/data/blueprints.xml.append:2316
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_2_BEAM\"]/short"
-msgstr ""
+msgstr "Техномантия II [ЛУЧ]"
 
 #: src-en/data/blueprints.xml.append:2317
 msgid ""
@@ -920,12 +954,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2376
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_1\"]/title"
-msgstr ""
+msgstr "Осколочный лазер мод. I"
 
 #: src-en/data/blueprints.xml.append:2377
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_1\"]/short"
-msgstr ""
+msgstr "Оск. лазер I"
 
 #: src-en/data/blueprints.xml.append:2379
 msgid ""
@@ -940,12 +974,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2418
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_2\"]/title"
-msgstr ""
+msgstr "Осколочный лазер мод. II"
 
 #: src-en/data/blueprints.xml.append:2419
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_2\"]/short"
-msgstr ""
+msgstr "Оск. лазер II"
 
 #: src-en/data/blueprints.xml.append:2421
 msgid ""
@@ -960,12 +994,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2460
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_3\"]/title"
-msgstr ""
+msgstr "Осколочный лазер мод. III"
 
 #: src-en/data/blueprints.xml.append:2461
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_3\"]/short"
-msgstr ""
+msgstr "Оск. лазер III"
 
 #: src-en/data/blueprints.xml.append:2463
 msgid ""
@@ -980,12 +1014,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2502
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_2_LOOT\"]/title"
-msgstr ""
+msgstr "Осколочный лазер мод. II"
 
 #: src-en/data/blueprints.xml.append:2503
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_2_LOOT\"]/short"
-msgstr ""
+msgstr "Оск. лазер II"
 
 #: src-en/data/blueprints.xml.append:2505
 msgid ""
@@ -1000,12 +1034,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2544
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_CHARGE\"]/title"
-msgstr ""
+msgstr "Зарядный осколочный лазер"
 
 #: src-en/data/blueprints.xml.append:2545
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_CHARGE\"]/short"
-msgstr ""
+msgstr "Заряд. оск. лазер"
 
 #: src-en/data/blueprints.xml.append:2547
 msgid ""
@@ -1020,12 +1054,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2589
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_NECRO_1\"]/title"
-msgstr ""
+msgstr "Точечный луч \"Крис\""
 
 #: src-en/data/blueprints.xml.append:2590
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_NECRO_1\"]/short"
-msgstr ""
+msgstr "Крис"
 
 #: src-en/data/blueprints.xml.append:2591
 msgid ""
@@ -1252,7 +1286,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3484
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_OLD_EVASION\"]/title"
-msgstr ""
+msgstr "Предсказуемое наведение"
 
 #: src-en/data/blueprints.xml.append:3485
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_OLD_EVASION\"]/desc"
@@ -1261,7 +1295,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3500
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_OLD_SHIELD_REPAIR\"]/title"
-msgstr ""
+msgstr "Бронированные щиты"
 
 #: src-en/data/blueprints.xml.append:3501
 msgid ""
@@ -1271,12 +1305,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3509
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_OLD_ARMOUR_ALLOY\"]/title"
-msgstr ""
+msgstr "Сплав брони"
 
 #: src-en/data/blueprints.xml.append:3510
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_OLD_ARMOUR_ALLOY\"]/desc"
 msgstr ""
+"Этот корабль использует прототип сплава, который позволяет всему кораблю "
+"снижать урон от приближающихся снарядов на 1. Не работает с лучами."
 
 #: src-en/data/blueprints.xml.append:3520
 msgid ""
@@ -1301,7 +1337,7 @@ msgstr "."
 #: src-en/data/blueprints.xml.append:3560
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_OLD_NO_ARTY_REPAIR\"]/title"
-msgstr ""
+msgstr "НИКОГДА НЕ ВИДИТЕ ЭТО"
 
 #: src-en/data/blueprints.xml.append:3561
 msgid ""
@@ -1311,7 +1347,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:3569
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_OLD_EVASION_ENEMY\"]/title"
-msgstr ""
+msgstr "Предсказуемое наведение"
 
 #: src-en/data/blueprints.xml.append:3570
 msgid ""
@@ -1321,7 +1357,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:3578
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_OLD_EVASION_ENEMY_WEAK\"]/title"
-msgstr ""
+msgstr "Слабое предсказ. наведение"
 
 #: src-en/data/blueprints.xml.append:3579
 msgid ""
@@ -1330,7 +1366,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:3587
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_OLD_SHIELD\"]/title"
-msgstr ""
+msgstr "Таинственные щиты"
 
 #: src-en/data/blueprints.xml.append:3588
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_OLD_SHIELD\"]/desc"
@@ -1339,7 +1375,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:3596
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_OLD_SHIELD_WEAK\"]/title"
-msgstr ""
+msgstr "Таинственные щиты"
 
 #: src-en/data/blueprints.xml.append:3597
 msgid ""
@@ -1349,12 +1385,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:3611
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_COMPONENT_OLD\"]/title"
-msgstr ""
+msgstr "Высокотехнологичные компоненты"
 
 #: src-en/data/blueprints.xml.append:3612
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_COMPONENT_OLD\"]/short"
-msgstr ""
+msgstr "Высокотехнол. компоненты"
 
 #: src-en/data/blueprints.xml.append:3613
 msgid ""
@@ -1364,7 +1400,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3614
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_COMPONENT_OLD\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:3630
 msgid ""
@@ -1389,12 +1425,12 @@ msgstr "???"
 #: src-en/data/blueprints.xml.append:3671
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLD_1\"]/title"
-msgstr ""
+msgstr "Тяжелый лазер \"Булава\""
 
 #: src-en/data/blueprints.xml.append:3672
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLD_1\"]/short"
-msgstr ""
+msgstr "Булава"
 
 #: src-en/data/blueprints.xml.append:3674
 msgid ""
@@ -1404,12 +1440,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3712
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLD_2\"]/title"
-msgstr ""
+msgstr "Тяжелый лазер \"Цеп\""
 
 #: src-en/data/blueprints.xml.append:3713
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLD_2\"]/short"
-msgstr ""
+msgstr "Цеп"
 
 #: src-en/data/blueprints.xml.append:3715
 msgid ""
@@ -1419,12 +1455,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3753
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLD_3\"]/title"
-msgstr ""
+msgstr "Тяжелый лазер \"Сали\""
 
 #: src-en/data/blueprints.xml.append:3754
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLD_3\"]/short"
-msgstr ""
+msgstr "Сали"
 
 #: src-en/data/blueprints.xml.append:3756
 msgid ""
@@ -1434,12 +1470,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3794
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLER_AEA_OLD_BEAM\"]/title"
-msgstr ""
+msgstr "Артиллерия Лилмиков"
 
 #: src-en/data/blueprints.xml.append:3795
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLER_AEA_OLD_BEAM\"]/short"
-msgstr ""
+msgstr "Артиллерия Лилмиков"
 
 #: src-en/data/blueprints.xml.append:3797
 msgid ""
@@ -1454,12 +1490,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3837
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLER_AEA_OLD_BEAM_HARD\"]/title"
-msgstr ""
+msgstr "Артиллерия Лилмиков"
 
 #: src-en/data/blueprints.xml.append:3838
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLER_AEA_OLD_BEAM_HARD\"]/short"
-msgstr ""
+msgstr "Артиллерия Лилмиков"
 
 #: src-en/data/blueprints.xml.append:3840
 msgid ""
@@ -1474,12 +1510,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3881
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLDP_1\"]/title"
-msgstr ""
+msgstr "Импульсный лазер \"Мачете\""
 
 #: src-en/data/blueprints.xml.append:3882
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLDP_1\"]/short"
-msgstr ""
+msgstr "Мачете"
 
 #: src-en/data/blueprints.xml.append:3884
 msgid ""
@@ -1489,12 +1525,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3925
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLDP_2\"]/title"
-msgstr ""
+msgstr "Импульсный лазер \"Шотель\""
 
 #: src-en/data/blueprints.xml.append:3926
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLDP_2\"]/short"
-msgstr ""
+msgstr "Шотель"
 
 #: src-en/data/blueprints.xml.append:3928
 msgid ""
@@ -1504,12 +1540,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3969
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLDP_3\"]/title"
-msgstr ""
+msgstr "Импульсный лазер \"Нагамаки\""
 
 #: src-en/data/blueprints.xml.append:3970
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLDP_3\"]/short"
-msgstr ""
+msgstr "Нагамаки"
 
 #: src-en/data/blueprints.xml.append:3972
 msgid ""
@@ -1519,12 +1555,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4013
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLDP_3_LOOT\"]/title"
-msgstr ""
+msgstr "Импульсный лазер \"Нагамаки\""
 
 #: src-en/data/blueprints.xml.append:4014
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLDP_3_LOOT\"]/short"
-msgstr ""
+msgstr "Нагамаки"
 
 #: src-en/data/blueprints.xml.append:4016
 msgid ""
@@ -1653,17 +1689,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4610
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_BIRD_BURST_1\"]/title"
-msgstr ""
+msgstr "Лучевой дрон"
 
 #: src-en/data/blueprints.xml.append:4630
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_BIRD_BURST_2\"]/title"
-msgstr ""
+msgstr "Лучевой дрон"
 
 #: src-en/data/blueprints.xml.append:4650
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_BIRD_BURST_3\"]/title"
-msgstr ""
+msgstr "Лучевой дрон"
 
 #: src-en/data/blueprints.xml.append:4676
 msgid ""
@@ -1673,7 +1709,7 @@ msgstr "Импульсный дрон с усилителем"
 #: src-en/data/blueprints.xml.append:4677
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BURST_1\"]/short"
-msgstr ""
+msgstr "Импульс [2]"
 
 #: src-en/data/blueprints.xml.append:4678
 msgid ""
@@ -1688,7 +1724,7 @@ msgstr "Импульсный дрон с усилителем"
 #: src-en/data/blueprints.xml.append:4697
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BURST_1_ENEMY\"]/short"
-msgstr ""
+msgstr "Импульс [2]"
 
 #: src-en/data/blueprints.xml.append:4698
 msgid ""
@@ -1703,7 +1739,7 @@ msgstr "Импульсный дрон с усилителем"
 #: src-en/data/blueprints.xml.append:4714
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BURST_2\"]/short"
-msgstr ""
+msgstr "Импульс [3]"
 
 #: src-en/data/blueprints.xml.append:4715
 msgid ""
@@ -1718,7 +1754,7 @@ msgstr "Импульсный дрон с усилителем"
 #: src-en/data/blueprints.xml.append:4734
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BURST_2_ENEMY\"]/short"
-msgstr ""
+msgstr "Импульс [3]"
 
 #: src-en/data/blueprints.xml.append:4735
 msgid ""
@@ -1733,7 +1769,7 @@ msgstr "Импульсный дрон с усилителем"
 #: src-en/data/blueprints.xml.append:4751
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BURST_3\"]/short"
-msgstr ""
+msgstr "Импульс [4]"
 
 #: src-en/data/blueprints.xml.append:4752
 msgid ""
@@ -1753,12 +1789,12 @@ msgstr "Лазер дрона"
 #: src-en/data/blueprints.xml.append:4859
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BIO_1\"]/title"
-msgstr ""
+msgstr "Био-дрон мод. I"
 
 #: src-en/data/blueprints.xml.append:4860
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BIO_1\"]/short"
-msgstr ""
+msgstr "Био I"
 
 #: src-en/data/blueprints.xml.append:4861
 msgid ""
@@ -1768,12 +1804,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4877
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BIO_2\"]/title"
-msgstr ""
+msgstr "Био-дрон мод. II"
 
 #: src-en/data/blueprints.xml.append:4878
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BIO_2\"]/short"
-msgstr ""
+msgstr "Био II"
 
 #: src-en/data/blueprints.xml.append:4879
 msgid ""
@@ -1783,12 +1819,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4895
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BIO_1_ENEMY\"]/title"
-msgstr ""
+msgstr "Био-дрон мод. I"
 
 #: src-en/data/blueprints.xml.append:4896
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BIO_1_ENEMY\"]/short"
-msgstr ""
+msgstr "Био I"
 
 #: src-en/data/blueprints.xml.append:4897
 msgid ""
@@ -1798,12 +1834,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:4913
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BIO_2_ENEMY\"]/title"
-msgstr ""
+msgstr "Био-дрон мод. II"
 
 #: src-en/data/blueprints.xml.append:4914
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BIO_2_ENEMY\"]/short"
-msgstr ""
+msgstr "Био II"
 
 #: src-en/data/blueprints.xml.append:4915
 msgid ""
@@ -1813,12 +1849,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:4931
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BIO_3\"]/title"
-msgstr ""
+msgstr "Био-дрон мод. III"
 
 #: src-en/data/blueprints.xml.append:4932
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BIO_3\"]/short"
-msgstr ""
+msgstr "Био III"
 
 #: src-en/data/blueprints.xml.append:4933
 msgid ""
@@ -1828,22 +1864,22 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4949
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_BIRD_DELETE\"]/title"
-msgstr ""
+msgstr "Лучевой дрон"
 
 #: src-en/data/blueprints.xml.append:4970
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_BIRD_SWEEP\"]/title"
-msgstr ""
+msgstr "Лучевой дрон"
 
 #: src-en/data/blueprints.xml.append:4985
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SWEEP\"]/title"
-msgstr ""
+msgstr "Дрон Орел"
 
 #: src-en/data/blueprints.xml.append:4986
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SWEEP\"]/short"
-msgstr ""
+msgstr "Орел"
 
 #: src-en/data/blueprints.xml.append:4987
 msgid ""
@@ -1853,12 +1889,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5003
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SWEEP_DELETE\"]/title"
-msgstr ""
+msgstr "Дрон Орел"
 
 #: src-en/data/blueprints.xml.append:5004
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SWEEP_DELETE\"]/short"
-msgstr ""
+msgstr "Орел"
 
 #: src-en/data/blueprints.xml.append:5005
 msgid ""
@@ -1873,7 +1909,7 @@ msgstr "Лазер дрона"
 #: src-en/data/blueprints.xml.append:5049
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_DRONE_BEAM_COMBAT_MULTI\"]/title"
-msgstr ""
+msgstr "Лучевой дрон"
 
 #: src-en/data/blueprints.xml.append:5066
 msgid ""
@@ -1883,12 +1919,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5109
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_1_LASER\"]/title"
-msgstr ""
+msgstr "Дрон-близнец мод. I [Лазер]"
 
 #: src-en/data/blueprints.xml.append:5110
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_1_LASER\"]/short"
-msgstr ""
+msgstr "Близнец I [Л]"
 
 #: src-en/data/blueprints.xml.append:5111
 msgid ""
@@ -1898,12 +1934,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5126
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_1_BEAM\"]/title"
-msgstr ""
+msgstr "Дрон-близнец мод. I [Луч]"
 
 #: src-en/data/blueprints.xml.append:5127
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_1_BEAM\"]/short"
-msgstr ""
+msgstr "Близнец I [ЛУЧ]"
 
 #: src-en/data/blueprints.xml.append:5128
 msgid ""
@@ -1913,12 +1949,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5143
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_LASER\"]/title"
-msgstr ""
+msgstr "Дрон-близнец мод. II [Лазер]"
 
 #: src-en/data/blueprints.xml.append:5144
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_LASER\"]/short"
-msgstr ""
+msgstr "Близнец II [Л]"
 
 #: src-en/data/blueprints.xml.append:5145
 msgid ""
@@ -1928,12 +1964,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5160
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_BEAM\"]/title"
-msgstr ""
+msgstr "Дрон-близнец мод. II [Луч]"
 
 #: src-en/data/blueprints.xml.append:5161
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_BEAM\"]/short"
-msgstr ""
+msgstr "Близнец II [ЛУЧ]"
 
 #: src-en/data/blueprints.xml.append:5162
 msgid ""
@@ -1943,12 +1979,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5177
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_1_LASER_ENEMY\"]/title"
-msgstr ""
+msgstr "Дрон-близнец мод. I [Лазер]"
 
 #: src-en/data/blueprints.xml.append:5178
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_1_LASER_ENEMY\"]/short"
-msgstr ""
+msgstr "Близнец I [Л]"
 
 #: src-en/data/blueprints.xml.append:5179
 msgid ""
@@ -1958,12 +1994,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:5194
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_1_BEAM_ENEMY\"]/title"
-msgstr ""
+msgstr "Дрон-близнец мод. I [Луч]"
 
 #: src-en/data/blueprints.xml.append:5195
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_1_BEAM_ENEMY\"]/short"
-msgstr ""
+msgstr "Близнец I [ЛУЧ]"
 
 #: src-en/data/blueprints.xml.append:5196
 msgid ""
@@ -1973,12 +2009,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:5211
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_LASER_ENEMY\"]/title"
-msgstr ""
+msgstr "Дрон-близнец мод. II [Лазер]"
 
 #: src-en/data/blueprints.xml.append:5212
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_LASER_ENEMY\"]/short"
-msgstr ""
+msgstr "Близнец II [Л]"
 
 #: src-en/data/blueprints.xml.append:5213
 msgid ""
@@ -1988,12 +2024,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:5228
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_BEAM_ENEMY\"]/title"
-msgstr ""
+msgstr "Дрон-близнец мод. II [Луч]"
 
 #: src-en/data/blueprints.xml.append:5229
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_BEAM_ENEMY\"]/short"
-msgstr ""
+msgstr "Близнец II [ЛУЧ]"
 
 #: src-en/data/blueprints.xml.append:5230
 msgid ""
@@ -2008,7 +2044,7 @@ msgstr "Лазер дрона"
 #: src-en/data/blueprints.xml.append:5274
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_DRONE_BEAM_COMBAT_MULTI_LOOT\"]/title"
-msgstr ""
+msgstr "Лучевой дрон"
 
 #: src-en/data/blueprints.xml.append:5291
 msgid ""
@@ -2018,12 +2054,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5329
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_LOOT_LASER\"]/title"
-msgstr ""
+msgstr "Дрон-близнец мод. II [Лазер]"
 
 #: src-en/data/blueprints.xml.append:5330
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_LOOT_LASER\"]/short"
-msgstr ""
+msgstr "Близнец II [Л]"
 
 #: src-en/data/blueprints.xml.append:5331
 msgid ""
@@ -2033,12 +2069,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5346
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_LOOT_BEAM\"]/title"
-msgstr ""
+msgstr "Дрон-близнец мод. II [Луч]"
 
 #: src-en/data/blueprints.xml.append:5347
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_LOOT_BEAM\"]/short"
-msgstr ""
+msgstr "Близнец II [ЛУЧ]"
 
 #: src-en/data/blueprints.xml.append:5348
 msgid ""
@@ -2053,12 +2089,12 @@ msgstr "Лазер дрона"
 #: src-en/data/blueprints.xml.append:5392
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SMART_1\"]/title"
-msgstr ""
+msgstr "Умный дрон мод. I"
 
 #: src-en/data/blueprints.xml.append:5393
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SMART_1\"]/short"
-msgstr ""
+msgstr "Умный I"
 
 #: src-en/data/blueprints.xml.append:5394
 msgid ""
@@ -2068,12 +2104,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5409
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SMART_2\"]/title"
-msgstr ""
+msgstr "Умный дрон мод. II"
 
 #: src-en/data/blueprints.xml.append:5410
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SMART_2\"]/short"
-msgstr ""
+msgstr "Умный II"
 
 #: src-en/data/blueprints.xml.append:5411
 msgid ""
@@ -2083,12 +2119,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5427
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SMART_1_ENEMY\"]/title"
-msgstr ""
+msgstr "Умный дрон мод. I"
 
 #: src-en/data/blueprints.xml.append:5428
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SMART_1_ENEMY\"]/short"
-msgstr ""
+msgstr "Умный I"
 
 #: src-en/data/blueprints.xml.append:5429
 msgid ""
@@ -2098,12 +2134,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:5444
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SMART_2_ENEMY\"]/title"
-msgstr ""
+msgstr "Умный дрон мод. II"
 
 #: src-en/data/blueprints.xml.append:5445
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SMART_2_ENEMY\"]/short"
-msgstr ""
+msgstr "Умный II"
 
 #: src-en/data/blueprints.xml.append:5446
 msgid ""
@@ -2118,12 +2154,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5463
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_soldier\"]/title"
-msgstr ""
+msgstr "Кислотный солдат"
 
 #: src-en/data/blueprints.xml.append:5464
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_soldier\"]/short"
-msgstr ""
+msgstr "Кислотный солдат"
 
 #: src-en/data/blueprints.xml.append:5469
 msgid ""
@@ -2138,12 +2174,12 @@ msgstr "Обучается бою на 25% быстрее"
 #: src-en/data/blueprints.xml.append:5471
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_soldier\"]/powerList/power[3]"
-msgstr ""
+msgstr "Ремонтирует со скоростью 1.25x"
 
 #: src-en/data/blueprints.xml.append:5472
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_soldier\"]/powerList/power[4]"
-msgstr ""
+msgstr "Передвигается со скоростью 0.75х"
 
 #: src-en/data/blueprints.xml.append:5473
 msgid ""
@@ -2163,7 +2199,7 @@ msgstr "Кислотный Лидер"
 #: src-en/data/blueprints.xml.append:5480
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_captain\"]/short"
-msgstr ""
+msgstr "Кислотный Лидер"
 
 #: src-en/data/blueprints.xml.append:5485
 msgid ""
@@ -2183,12 +2219,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5488
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_captain\"]/powerList/power[4]"
-msgstr ""
+msgstr "Ремонтирует со скоростью 1.5x"
 
 #: src-en/data/blueprints.xml.append:5489
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_captain\"]/powerList/power[5]"
-msgstr ""
+msgstr "Передвигается со скоростью 0.5х"
 
 #: src-en/data/blueprints.xml.append:5490
 msgid ""
@@ -2201,11 +2237,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:5496
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/title"
-msgstr ""
+msgstr "Кислотный изгой"
 
 #: src-en/data/blueprints.xml.append:5497
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/short"
-msgstr ""
+msgstr "Кислотный изгой"
 
 #: src-en/data/blueprints.xml.append:5502
 msgid ""
@@ -2230,12 +2266,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5506
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/powerList/power[5]"
-msgstr ""
+msgstr "Ремонтирует со скоростью 2x"
 
 #: src-en/data/blueprints.xml.append:5507
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/powerList/power[6]"
-msgstr ""
+msgstr "Передвигается со скоростью 0.5х"
 
 #: src-en/data/blueprints.xml.append:5508
 msgid ""
@@ -2248,11 +2284,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:5518
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_engi\"]/title"
-msgstr ""
+msgstr "Еретик энджи"
 
 #: src-en/data/blueprints.xml.append:5519
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_engi\"]/short"
-msgstr ""
+msgstr "Еретик"
 
 #: src-en/data/blueprints.xml.append:5522
 msgid ""
@@ -2285,11 +2321,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:5549
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/title"
-msgstr ""
+msgstr "Энджи Лич"
 
 #: src-en/data/blueprints.xml.append:5550
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/short"
-msgstr ""
+msgstr "Лич"
 
 #: src-en/data/blueprints.xml.append:5553
 msgid ""
@@ -2332,11 +2368,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:5580
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/title"
-msgstr ""
+msgstr "Король-Лич"
 
 #: src-en/data/blueprints.xml.append:5581
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/short"
-msgstr ""
+msgstr "Король-Лич"
 
 #: src-en/data/blueprints.xml.append:5584
 msgid ""
@@ -2351,7 +2387,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5586
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[3]"
-msgstr ""
+msgstr "Максимальное здоровье увеличено до 180"
 
 #: src-en/data/blueprints.xml.append:5587
 msgid ""
@@ -2361,7 +2397,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5588
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[5]"
-msgstr ""
+msgstr "1.5x урон в бою и 2x скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:5589
 msgid ""
@@ -2371,7 +2407,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5590
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[7]"
-msgstr ""
+msgstr "Невосприимчив к удушью"
 
 #: src-en/data/blueprints.xml.append:5595
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_1\"]/desc"
@@ -2379,11 +2415,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:5597
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_1\"]/title"
-msgstr ""
+msgstr "Лилмик"
 
 #: src-en/data/blueprints.xml.append:5598
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_1\"]/short"
-msgstr ""
+msgstr "Лилмик"
 
 #: src-en/data/blueprints.xml.append:5601
 msgid ""
@@ -2393,7 +2429,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5602
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_1\"]/powerList/power[2]"
-msgstr ""
+msgstr "Передвигается со скоростью 1.75х"
 
 #: src-en/data/blueprints.xml.append:5603
 msgid ""
@@ -2443,7 +2479,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5619
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_1\"]/powerList/power[5]"
-msgstr ""
+msgstr "Передвигается со скоростью 1.75х"
 
 #: src-en/data/blueprints.xml.append:5620
 msgid ""
@@ -2508,7 +2544,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5664
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_2\"]/powerList/power[4]"
-msgstr ""
+msgstr "Передвигается со скоростью 1.75х"
 
 #: src-en/data/blueprints.xml.append:5665
 msgid ""
@@ -2553,7 +2589,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5681
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_3\"]/powerList/power[4]"
-msgstr ""
+msgstr "Передвигается со скоростью 1.75х"
 
 #: src-en/data/blueprints.xml.append:5682
 msgid ""
@@ -2598,7 +2634,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5697
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_4\"]/powerList/power[4]"
-msgstr ""
+msgstr "Передвигается со скоростью 1.75х"
 
 #: src-en/data/blueprints.xml.append:5698
 msgid ""
@@ -2643,7 +2679,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5713
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_5\"]/powerList/power[4]"
-msgstr ""
+msgstr "Передвигается со скоростью 1.75х"
 
 #: src-en/data/blueprints.xml.append:5714
 msgid ""
@@ -2672,7 +2708,7 @@ msgstr "Ги"
 #: src-en/data/blueprints.xml.append:5728
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_avali\"]/powerList/power[1]"
-msgstr "Автоматически ремонтирует текущую систему с 0.5х скоростью."
+msgstr "Автоматически ремонтирует текущую систему с 0.5х скоростью"
 
 #: src-en/data/blueprints.xml.append:5729
 msgid ""
@@ -2688,7 +2724,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5781
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_illuminant\"]/title"
-msgstr ""
+msgstr "Техник Ги"
 
 #: src-en/data/blueprints.xml.append:5782
 msgid ""
@@ -2698,7 +2734,7 @@ msgstr "Техник"
 #: src-en/data/blueprints.xml.append:5785
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_illuminant\"]/powerList/power[1]"
-msgstr ""
+msgstr "Автоматически ремонтирует текущую систему с 1х скоростью"
 
 #: src-en/data/blueprints.xml.append:5786
 msgid ""
@@ -2720,7 +2756,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5794
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_unique\"]/title"
-msgstr ""
+msgstr "Главный инженер"
 
 #: src-en/data/blueprints.xml.append:5795
 msgid ""
@@ -2730,7 +2766,7 @@ msgstr "Инженер"
 #: src-en/data/blueprints.xml.append:5798
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_unique\"]/powerList/power[1]"
-msgstr ""
+msgstr "Максимальное здоровье увеличено до 140"
 
 #: src-en/data/blueprints.xml.append:5799
 msgid ""
@@ -2740,7 +2776,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5800
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_unique\"]/powerList/power[3]"
-msgstr ""
+msgstr "Автоматически ремонтирует текущую систему с 1.5х скоростью"
 
 #: src-en/data/blueprints.xml.append:5801
 msgid ""
@@ -2756,7 +2792,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5807
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_vampbig\"]/title"
-msgstr ""
+msgstr "Культиватор сектант"
 
 #: src-en/data/blueprints.xml.append:5808
 msgid ""
@@ -2786,7 +2822,7 @@ msgstr "Вражеский экипаж в том же отсеке лечитс
 #: src-en/data/blueprints.xml.append:5823
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard\"]/title"
-msgstr ""
+msgstr "Вампсорняк сектант"
 
 #: src-en/data/blueprints.xml.append:5824
 msgid ""
@@ -3302,7 +3338,7 @@ msgstr "Лазер дрона"
 #: src-en/data/blueprints.xml.append:6403
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_SPELL_ARTILLERY\"]/title"
-msgstr ""
+msgstr "Артиллерия заклинаний"
 
 #: src-en/data/blueprints.xml.append:6404
 msgid ""
@@ -3463,7 +3499,7 @@ msgstr "Пусковая установка бомб"
 #: src-en/data/blueprints.xml.append:7156
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_SPELL_14_OLD\"]/short"
-msgstr ""
+msgstr "Бомба"
 
 #: src-en/data/blueprints.xml.append:7158
 msgid ""
@@ -3485,7 +3521,7 @@ msgstr "Пусковая установка бомб"
 #: src-en/data/blueprints.xml.append:7207
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_SPELL_15_OLD\"]/short"
-msgstr ""
+msgstr "Бомба"
 
 #: src-en/data/blueprints.xml.append:7209
 msgid ""
@@ -3513,6 +3549,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT\"]/desc"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие."
 
 #: src-en/data/blueprints.xml.append:7292
 msgid ""
@@ -3533,6 +3572,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_LOOT\"]/desc"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие."
 
 #: src-en/data/blueprints.xml.append:7330
 msgid ""
@@ -3553,6 +3595,10 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_RANDOM\"]/desc"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Этот вариант не может использовать заклинания, но стреляет случайными "
+"заклинаниями с высокой скоростью."
 
 #: src-en/data/blueprints.xml.append:7373
 msgid ""
@@ -3573,6 +3619,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_03\"]/desc"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие."
 
 #: src-en/data/blueprints.xml.append:7410
 msgid ""
@@ -3583,11 +3632,38 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_03\"]/descriptionOverride"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие.\n"
+"\t\n"
+"\tХарактеристики:\n"
+"\tНеобходимая мощность: 2\n"
+"\tВремя перезарядки: 14 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 3\n"
+"\n"
+"\tУрон корпусу: 0\n"
+"\tУрон системам: 0\n"
+"\tУрон экипажу: 45\n"
+"\tПробивание щита: 16\n"
+"\t\n"
+"\tПокупка: 70~   -   Продажа: 35~"
 
 #: src-en/data/blueprints.xml.append:7427
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_03\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\tВремя перезарядки: 14 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 3\n"
+"\n"
+"\tУрон корпусу: 0\n"
+"\tУрон системам: 0\n"
+"\tУрон экипажу: 45\n"
+"\tПробивание щита: 16"
 
 #: src-en/data/blueprints.xml.append:7475
 msgid ""
@@ -3603,6 +3679,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_04\"]/desc"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие."
 
 #: src-en/data/blueprints.xml.append:7479
 msgid ""
@@ -3613,11 +3692,38 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_04\"]/descriptionOverride"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие.\n"
+"\t\n"
+"\tХарактеристики:\n"
+"\tНеобходимая мощность: 2\n"
+"\tВремя перезарядки: 18 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 2\n"
+"\n"
+"\tУрон корпусу: 1\n"
+"\tУрон системам: 1\n"
+"\tУрон экипажу: 15\n"
+"\tПробивание щита: 16\n"
+"\t\n"
+"\tПокупка: 70~   -   Продажа: 35~"
 
 #: src-en/data/blueprints.xml.append:7496
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_04\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\tВремя перезарядки: 18 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 2\n"
+"\n"
+"\tУрон корпусу: 1\n"
+"\tУрон системам: 1\n"
+"\tУрон экипажу: 15\n"
+"\tПробивание щита: 16"
 
 #: src-en/data/blueprints.xml.append:7544
 msgid ""
@@ -3633,6 +3739,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_05\"]/desc"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие."
 
 #: src-en/data/blueprints.xml.append:7548
 msgid ""
@@ -3643,11 +3752,38 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_05\"]/descriptionOverride"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие.\n"
+"\t\n"
+"\tХарактеристики:\n"
+"\tНеобходимая мощность: 2\n"
+"\tВремя перезарядки: 26 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 6\n"
+"\tЗаряды: 2\n"
+"\n"
+"\tУрон корпусу: 1\n"
+"\tУрон системам: 1\n"
+"\tУрон экипажу: 15\n"
+"\tПробивание щита: 16\n"
+"\t\n"
+"\tПокупка: 70~   -   Продажа: 35~"
 
 #: src-en/data/blueprints.xml.append:7565
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_05\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\tВремя перезарядки: 26 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 6\n"
+"\tЗаряды: 2\n"
+"\n"
+"\tУрон корпусу: 1\n"
+"\tУрон системам: 1\n"
+"\tУрон экипажу: 15\n"
+"\tПробивание щита: 16"
 
 #: src-en/data/blueprints.xml.append:7613
 msgid ""
@@ -3663,6 +3799,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_06\"]/desc"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие."
 
 #: src-en/data/blueprints.xml.append:7617
 msgid ""
@@ -3673,11 +3812,38 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_06\"]/descriptionOverride"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие.\n"
+"\t\n"
+"\tХарактеристики:\n"
+"\tНеобходимая мощность: 2\n"
+"\tВремя перезарядки: 20 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 2\n"
+"\n"
+"\tУрон корпусу: 3\n"
+"\tУрон системам: 0\n"
+"\tУрон экипажу: 0\n"
+"\tПробивание щита: 16\n"
+"\t\n"
+"\tПокупка: 70~   -   Продажа: 35~"
 
 #: src-en/data/blueprints.xml.append:7634
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_06\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\tВремя перезарядки: 20 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 2\n"
+"\n"
+"\tУрон корпусу: 3\n"
+"\tУрон системам: 0\n"
+"\tУрон экипажу: 0\n"
+"\tПробивание щита: 16"
 
 #: src-en/data/blueprints.xml.append:7683
 msgid ""
@@ -3693,6 +3859,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_08\"]/desc"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие."
 
 #: src-en/data/blueprints.xml.append:7687
 msgid ""
@@ -3703,11 +3872,36 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_08\"]/descriptionOverride"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие.\n"
+"\t\n"
+"\tХарактеристики:\n"
+"\tНеобходимая мощность: 2\n"
+"\tВремя перезарядки: 18 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: Бесконечные\n"
+"\n"
+"\tПри попадании телепортирует всех членов экипажа в случайный отсек на "
+"вражеском корабле\n"
+"\tПробивание щита: 16\n"
+"\t\n"
+"\tПокупка: 70~   -   Продажа: 35~"
 
 #: src-en/data/blueprints.xml.append:7702
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_08\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\tВремя перезарядки: 18 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: Бесконечные\n"
+"\n"
+"\tПри попадании телепортирует всех членов экипажа в случайный отсек на "
+"вражеском корабле\n"
+"\tПробивание щита: 16"
 
 #: src-en/data/blueprints.xml.append:7743
 msgid ""
@@ -3723,6 +3917,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_09\"]/desc"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие."
 
 #: src-en/data/blueprints.xml.append:7747
 msgid ""
@@ -3733,11 +3930,38 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_09\"]/descriptionOverride"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие.\n"
+"\t\n"
+"\tХарактеристики:\n"
+"\tНеобходимая мощность: 2\n"
+"\tВремя перезарядки: 13 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 3\n"
+"\n"
+"\tУрон корпусу: 0\n"
+"\tУрон системам: 0\n"
+"\tУрон экипажу: -75\n"
+"\tПробивание щита: 16\n"
+"\t\n"
+"\tПокупка: 70~   -   Продажа: 35~"
 
 #: src-en/data/blueprints.xml.append:7764
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_09\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\tВремя перезарядки: 13 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 3\n"
+"\n"
+"\tУрон корпусу: 0\n"
+"\tУрон системам: 0\n"
+"\tУрон экипажу: -75\n"
+"\tПробивание щита: 16"
 
 #: src-en/data/blueprints.xml.append:7812
 msgid ""
@@ -3753,6 +3977,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_12\"]/desc"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие."
 
 #: src-en/data/blueprints.xml.append:7816
 msgid ""
@@ -3763,11 +3990,36 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_12\"]/descriptionOverride"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие.\n"
+"\t\n"
+"\tХарактеристики:\n"
+"\tНеобходимая мощность: 2\n"
+"\tВремя перезарядки: 13 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 3\n"
+"\n"
+"\tСоздает барьер, способный блокировать 2 снаряда при попадании\n"
+"\tМаксимально 8 барьеров могут быть активны одновременно\n"
+"\tПробивание щита: 16\n"
+"\t\n"
+"\tПокупка: 70~   -   Продажа: 35~"
 
 #: src-en/data/blueprints.xml.append:7832
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_12\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\tВремя перезарядки: 13 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 3\n"
+"\n"
+"\tСоздает барьер, способный блокировать 2 снаряда при попадании\n"
+"\tМаксимально 8 барьеров могут быть активны одновременно\n"
+"\tПробивание щита: 16"
 
 #: src-en/data/blueprints.xml.append:7879
 msgid ""
@@ -3783,6 +4035,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_13\"]/desc"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие."
 
 #: src-en/data/blueprints.xml.append:7883
 msgid ""
@@ -3793,11 +4048,34 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_13\"]/descriptionOverride"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие.\n"
+"\t\n"
+"\tХарактеристики:\n"
+"\tНеобходимая мощность: 2\n"
+"\tВремя перезарядки: 14 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 3\n"
+"\n"
+"\tЗапирает отсеки при попадании\n"
+"\tПробивание щита: 16\n"
+"\t\n"
+"\tПокупка: 70~   -   Продажа: 35~"
 
 #: src-en/data/blueprints.xml.append:7898
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_13\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\tВремя перезарядки: 14 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 3\n"
+"\n"
+"\tЗапирает отсеки при попадании\n"
+"\tПробивание щита: 16"
 
 #: src-en/data/blueprints.xml.append:7945
 msgid ""
@@ -3813,6 +4091,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_14\"]/desc"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие."
 
 #: src-en/data/blueprints.xml.append:7949
 msgid ""
@@ -3823,11 +4104,34 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_14\"]/descriptionOverride"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие.\n"
+"\t\n"
+"\tХарактеристики:\n"
+"\tНеобходимая мощность: 2\n"
+"\tВремя перезарядки: 17 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 2\n"
+"\n"
+"\tСоздает случайного союзника при попадании\n"
+"\tПробивание щита: 16\n"
+"\t\n"
+"\tПокупка: 70~   -   Продажа: 35~"
 
 #: src-en/data/blueprints.xml.append:7964
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_14\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\tВремя перезарядки: 17 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 2\n"
+"\n"
+"\tСоздает случайного союзника при попадании\n"
+"\tПробивание щита: 16"
 
 #: src-en/data/blueprints.xml.append:8033
 msgid ""
@@ -3843,16 +4147,42 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_15\"]/desc"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие."
 
 #: src-en/data/blueprints.xml.append:8037
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_15\"]/descriptionOverride"
 msgstr ""
+"Смертоносное частично органическое бомбовое оружие производства Вампсорняков "
+"Сектантов, способно использовать заклинания и выстреливать ими во врага. "
+"Заклинания, не стреляющие снарядами, не могут быть установлены на оружие.\n"
+"\t\n"
+"\tХарактеристики:\n"
+"\tНеобходимая мощность: 2\n"
+"\tВремя перезарядки: 18 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 3\n"
+"\n"
+"\tКонтролирует разум вражеского экипажа при попадании\n"
+"\tПробивание щита: 16\n"
+"\t\n"
+"\tПокупка: 70~   -   Продажа: 35~"
 
 #: src-en/data/blueprints.xml.append:8051
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_15\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 2\n"
+"\tВремя перезарядки: 18 сек.\n"
+"\n"
+"\tВыстрелов в очереди: 2\n"
+"\tЗаряды: 3\n"
+"\n"
+"\tКонтролирует разум вражеского экипажа при попадании\n"
+"\tПробивание щита: 16"
 
 #: src-en/data/blueprints.xml.append:8059
 msgid ""
@@ -3877,7 +4207,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8155
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_01\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:8171
 msgid ""
@@ -3897,7 +4227,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8177
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_02\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:8193
 msgid ""
@@ -3917,7 +4247,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8200
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_03\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:8217
 msgid ""
@@ -3937,7 +4267,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8224
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_04\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:8240
 msgid ""
@@ -3957,7 +4287,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8247
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_05\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:8263
 msgid ""
@@ -3977,7 +4307,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8270
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_06\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:8286
 msgid ""
@@ -3997,7 +4327,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8292
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_07\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:8308
 msgid ""
@@ -4022,7 +4352,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8314
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_08\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:8330
 msgid ""
@@ -4042,7 +4372,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8337
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_09\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:8353
 msgid ""
@@ -4062,7 +4392,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8359
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_10\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:8375
 msgid ""
@@ -4082,7 +4412,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8382
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_11\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:8398
 msgid ""
@@ -4102,7 +4432,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8405
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_12\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:8421
 msgid ""
@@ -4122,7 +4452,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8428
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_13\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:8444
 msgid ""
@@ -4142,7 +4472,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8451
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_14\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:8467
 msgid ""
@@ -4162,7 +4492,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8474
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_15\"]/tooltip"
-msgstr ""
+msgstr "Складское оружие"
 
 #: src-en/data/blueprints.xml.append:8491
 msgid ""
@@ -4184,22 +4514,28 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8569
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_ORCHID_AEA_COMMUNION\"]/title"
-msgstr ""
+msgstr "Древнее причастие"
 
 #: src-en/data/blueprints.xml.append:8570
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_ORCHID_AEA_COMMUNION\"]/desc"
-msgstr ""
+msgstr "Вы можете покупать заклинания у пустых маяков."
 
 #: src-en/data/blueprints.xml.append:8577
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_ORCHID_AEA_COMMUNION\"]/title"
-msgstr ""
+msgstr "[Л] Древнее причастие"
 
 #: src-en/data/blueprints.xml.append:8578
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_ORCHID_AEA_COMMUNION\"]/desc"
 msgstr ""
+"Вы можете покупать заклинания у пустых маяков\n"
+"\t\n"
+"\t[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, "
+"но занимает слот модуля. Оно не может быть преобразовано во внутреннее "
+"лабораторное улучшение, но не занимает его основной слот. Не суммируется с "
+"самим собой."
 
 #: src-en/data/blueprints.xml.append:8587
 msgid ""
@@ -4271,7 +4607,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8896
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_BARRIER_RELAY\"]/title"
-msgstr ""
+msgstr "Генератор барьеров"
 
 #: src-en/data/blueprints.xml.append:8897
 msgid ""
@@ -4281,7 +4617,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8903
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_CULT_MAGIC_BOOST\"]/title"
-msgstr ""
+msgstr "МАГИЧЕСКИЙ ПРЫЖОК"
 
 #: src-en/data/blueprints.xml.append:8911
 msgid ""
@@ -4450,11 +4786,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:9237
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/title"
-msgstr ""
+msgstr "Крошечный сектант Вампсорняков"
 
 #: src-en/data/blueprints.xml.append:9238
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/short"
-msgstr ""
+msgstr "Крошечный сектант"
 
 #: src-en/data/blueprints.xml.append:9239
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/desc"
@@ -4468,7 +4804,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9247
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9248
 msgid ""
@@ -4513,7 +4849,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9270
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a01\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9271
 msgid ""
@@ -4558,7 +4894,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9295
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a02\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9296
 msgid ""
@@ -4603,7 +4939,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9320
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s03\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9321
 msgid ""
@@ -4648,7 +4984,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9345
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s04\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9346
 msgid ""
@@ -4693,7 +5029,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9370
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s05\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9371
 msgid ""
@@ -4738,7 +5074,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9395
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s06\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9396
 msgid ""
@@ -4783,7 +5119,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9420
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a07\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9421
 msgid ""
@@ -4828,7 +5164,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9445
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s08\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9446
 msgid ""
@@ -4873,7 +5209,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9470
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s09\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9471
 msgid ""
@@ -4918,7 +5254,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9495
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a10\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9496
 msgid ""
@@ -4963,7 +5299,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9520
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a11\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9521
 msgid ""
@@ -5008,7 +5344,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9545
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s12\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9546
 msgid ""
@@ -5053,7 +5389,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9570
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s13\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9571
 msgid ""
@@ -5098,7 +5434,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9595
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s14\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9596
 msgid ""
@@ -5143,7 +5479,7 @@ msgstr "Максимальное здоровье снижено до 75"
 #: src-en/data/blueprints.xml.append:9620
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s15\"]/powerList/power[2]"
-msgstr ""
+msgstr "1.5х скорость передвижения"
 
 #: src-en/data/blueprints.xml.append:9621
 msgid ""
@@ -5168,12 +5504,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9637
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_shell\"]/title"
-msgstr ""
+msgstr "Ракушка-анархист"
 
 #: src-en/data/blueprints.xml.append:9638
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_shell\"]/short"
-msgstr ""
+msgstr "Ракушка-анархист"
 
 #: src-en/data/blueprints.xml.append:9639
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_shell\"]/desc"
@@ -5192,12 +5528,12 @@ msgstr "Максимальное здоровье снижено до 80"
 #: src-en/data/blueprints.xml.append:9646
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_shell\"]/powerList/power[3]"
-msgstr ""
+msgstr "Получает 1.8х урон от удушья"
 
 #: src-en/data/blueprints.xml.append:9647
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_shell\"]/powerList/power[4]"
-msgstr ""
+msgstr "Получает 0.6x урона в бою с экипажем"
 
 #: src-en/data/blueprints.xml.append:9652
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_slug\"]/desc"
@@ -5205,11 +5541,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:9653
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_slug\"]/title"
-msgstr ""
+msgstr "Слизень-анархист"
 
 #: src-en/data/blueprints.xml.append:9654
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_slug\"]/short"
-msgstr ""
+msgstr "Слизень-анархист"
 
 #: src-en/data/blueprints.xml.append:9659
 msgid ""
@@ -5236,12 +5572,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9684
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_sickle\"]/title"
-msgstr ""
+msgstr "Серп"
 
 #: src-en/data/blueprints.xml.append:9685
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_sickle\"]/short"
-msgstr ""
+msgstr "Серп"
 
 #: src-en/data/blueprints.xml.append:9690
 msgid ""
@@ -5256,7 +5592,7 @@ msgstr "Максимальное здоровье увеличено до 150"
 #: src-en/data/blueprints.xml.append:9692
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_sickle\"]/powerList/power[3]"
-msgstr ""
+msgstr "Наносит 1.6х урона в бою с экипажем"
 
 #: src-en/data/blueprints.xml.append:9693
 msgid ""
@@ -5271,12 +5607,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9701
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_sorrow\"]/title"
-msgstr ""
+msgstr "Скорбь"
 
 #: src-en/data/blueprints.xml.append:9702
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_sorrow\"]/short"
-msgstr ""
+msgstr "Скорбь"
 
 #: src-en/data/blueprints.xml.append:9707
 msgid ""
@@ -5297,7 +5633,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9714
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHLEG_MIND_GAS\"]/title"
-msgstr ""
+msgstr "Инкубационный газ"
 
 #: src-en/data/blueprints.xml.append:9715
 msgid ""
@@ -5307,7 +5643,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9725
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_AEA_SHLEG_MIND_GAS\"]/title"
-msgstr ""
+msgstr "Инкубационный газ"
 
 #: src-en/data/blueprints.xml.append:9726
 msgid ""
@@ -5317,7 +5653,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9736
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_AEA_SHLEG_MIND_GAS_PLUS\"]/title"
-msgstr ""
+msgstr "Инкубационный газ+"
 
 #: src-en/data/blueprints.xml.append:9737
 msgid ""
@@ -5345,12 +5681,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9776
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_BOMB_FAKE\"]/title"
-msgstr ""
+msgstr "Инкубационная бомба"
 
 #: src-en/data/blueprints.xml.append:9777
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_BOMB_FAKE\"]/short"
-msgstr ""
+msgstr "Инк. бомба"
 
 #: src-en/data/blueprints.xml.append:9779
 msgid ""
@@ -5365,12 +5701,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9819
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_BOMB_FAKE_SHORT\"]/title"
-msgstr ""
+msgstr "Инкубационная бомба"
 
 #: src-en/data/blueprints.xml.append:9820
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_BOMB_FAKE_SHORT\"]/short"
-msgstr ""
+msgstr "Инк. бомба"
 
 #: src-en/data/blueprints.xml.append:9822
 msgid ""
@@ -5385,12 +5721,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9863
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_BOMB\"]/title"
-msgstr ""
+msgstr "Инкубационная бомба"
 
 #: src-en/data/blueprints.xml.append:9864
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_BOMB\"]/short"
-msgstr ""
+msgstr "Инк. бомба"
 
 #: src-en/data/blueprints.xml.append:9866
 msgid ""
@@ -5405,12 +5741,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9913
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_MISSILES\"]/title"
-msgstr ""
+msgstr "Ракетная установка \"Гипнос\""
 
 #: src-en/data/blueprints.xml.append:9914
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_MISSILES\"]/short"
-msgstr ""
+msgstr "Гипнос"
 
 #: src-en/data/blueprints.xml.append:9915
 msgid ""
@@ -5425,12 +5761,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9972
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_MISSILES_LOOT\"]/title"
-msgstr ""
+msgstr "Ракетная установка \"Гипнос\""
 
 #: src-en/data/blueprints.xml.append:9973
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_MISSILES_LOOT\"]/short"
-msgstr ""
+msgstr "Гипнос"
 
 #: src-en/data/blueprints.xml.append:9974
 msgid ""
@@ -5564,12 +5900,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10576
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHLEG_1\"]/title"
-msgstr ""
+msgstr "Инкубационная лучевая артиллерия"
 
 #: src-en/data/blueprints.xml.append:10577
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHLEG_1\"]/short"
-msgstr ""
+msgstr "Инкубационная лучевая артиллерия"
 
 #: src-en/data/blueprints.xml.append:10578
 msgid ""
@@ -5584,12 +5920,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10624
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHLEG_1_ENEMY\"]/title"
-msgstr ""
+msgstr "Инкубационная лучевая артиллерия"
 
 #: src-en/data/blueprints.xml.append:10625
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHLEG_1_ENEMY\"]/short"
-msgstr ""
+msgstr "Инкубационная лучевая артиллерия"
 
 #: src-en/data/blueprints.xml.append:10626
 msgid ""
@@ -5609,12 +5945,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10674
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/title"
-msgstr ""
+msgstr "Ломатель Осколков"
 
 #: src-en/data/blueprints.xml.append:10675
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/short"
-msgstr ""
+msgstr "Ломатель Осколков"
 
 #: src-en/data/blueprints.xml.append:10680
 msgid ""
@@ -5644,12 +5980,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10702
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/title"
-msgstr ""
+msgstr "Разбиватель осколков"
 
 #: src-en/data/blueprints.xml.append:10703
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/short"
-msgstr ""
+msgstr "Разбиватель осколков"
 
 #: src-en/data/blueprints.xml.append:10708
 msgid ""
@@ -5677,11 +6013,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:10730
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/title"
-msgstr ""
+msgstr "Осколок Рассвета"
 
 #: src-en/data/blueprints.xml.append:10731
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/short"
-msgstr ""
+msgstr "Осколок Рассвета"
 
 #: src-en/data/blueprints.xml.append:10736
 msgid ""
@@ -5754,12 +6090,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10987
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE\"]/title"
-msgstr ""
+msgstr "Пронзающая лазерная артиллерия"
 
 #: src-en/data/blueprints.xml.append:10988
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE\"]/short"
-msgstr ""
+msgstr "Артиллерия"
 
 #: src-en/data/blueprints.xml.append:10989
 msgid ""
@@ -5774,12 +6110,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11021
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE_ENEMY\"]/title"
-msgstr ""
+msgstr "Пронзающая лазерная артиллерия"
 
 #: src-en/data/blueprints.xml.append:11022
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE_ENEMY\"]/short"
-msgstr ""
+msgstr "Артиллерия"
 
 #: src-en/data/blueprints.xml.append:11023
 msgid ""
@@ -5794,12 +6130,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11055
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE_ENEMY_OFFSET\"]/title"
-msgstr ""
+msgstr "Пронзающая лазерная артиллерия"
 
 #: src-en/data/blueprints.xml.append:11056
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE_ENEMY_OFFSET\"]/short"
-msgstr ""
+msgstr "Артиллерия"
 
 #: src-en/data/blueprints.xml.append:11057
 msgid ""
@@ -5819,12 +6155,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11097
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_FOCUS\"]/short[1]"
-msgstr ""
+msgstr "Артиллерия"
 
 #: src-en/data/blueprints.xml.append:11098
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_FOCUS\"]/short[2]"
-msgstr ""
+msgstr "Артиллерия"
 
 #: src-en/data/blueprints.xml.append:11099
 msgid ""
@@ -5862,12 +6198,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11148
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MISSILE\"]/title"
-msgstr ""
+msgstr "Дуэльная ракетная артиллерия"
 
 #: src-en/data/blueprints.xml.append:11149
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MISSILE\"]/short"
-msgstr ""
+msgstr "Артиллерия"
 
 #: src-en/data/blueprints.xml.append:11150
 msgid ""
@@ -5882,12 +6218,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11186
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MINE\"]/title"
-msgstr ""
+msgstr "Ионная минометная артиллерия"
 
 #: src-en/data/blueprints.xml.append:11187
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MINE\"]/short"
-msgstr ""
+msgstr "Артиллерия"
 
 #: src-en/data/blueprints.xml.append:11188
 msgid ""
@@ -5920,12 +6256,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11304
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_LASER\"]/title"
-msgstr ""
+msgstr "Лазерная установка МФК"
 
 #: src-en/data/blueprints.xml.append:11305
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_LASER\"]/short"
-msgstr ""
+msgstr "Лазерная установка МФК"
 
 #: src-en/data/blueprints.xml.append:11306
 msgid ""
@@ -5960,12 +6296,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11390
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_BEAM\"]/title"
-msgstr ""
+msgstr "Лучевая установка МФК"
 
 #: src-en/data/blueprints.xml.append:11391
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_BEAM\"]/short"
-msgstr ""
+msgstr "Лучевая установка МФК"
 
 #: src-en/data/blueprints.xml.append:11392
 msgid ""
@@ -5980,12 +6316,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11419
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_ION\"]/title"
-msgstr ""
+msgstr "Ионная установка МФК"
 
 #: src-en/data/blueprints.xml.append:11420
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_ION\"]/short"
-msgstr ""
+msgstr "Ионная установка МФК"
 
 #: src-en/data/blueprints.xml.append:11422
 msgid ""
@@ -6000,12 +6336,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11469
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_MULTI\"]/title"
-msgstr ""
+msgstr "Луч \"Хокояри\""
 
 #: src-en/data/blueprints.xml.append:11470
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_MULTI\"]/short"
-msgstr ""
+msgstr "Хокояри"
 
 #: src-en/data/blueprints.xml.append:11471
 msgid ""
@@ -6021,11 +6357,43 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_MULTI\"]/descriptionOverride"
 msgstr ""
+"Адаптирующееся к среде лучевое оружие с невероятным потенциалом. Количество "
+"параллельных лучей увеличивается за каждый выстрел без верхнего предела.\n"
+"\n"
+"Характеристики:\n"
+"Необходимая мощность: 3\n"
+"Время перезарядки: 13 сек.\n"
+"Эффект цепи: увеличение количество лучей на 1\n"
+"Макс. лучей в цепи: 999 лучей (1000 урона)\n"
+"\n"
+"Длина луча: 60\n"
+"Скорость луча: 5\n"
+"\n"
+"Урон корпусу: 1\n"
+"Урон системам: 1\n"
+"Урон экипажу: 15\n"
+"\n"
+"Вероятность пробоины: 20% (Скорректировано 20%)\n"
+"\n"
+"Покупка: 80~   -   Продажа: 40~"
 
 #: src-en/data/blueprints.xml.append:11492
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_MULTI\"]/tooltipOverride"
 msgstr ""
+"Необходимая мощность: 3\n"
+"Время перезарядки: 13 сек.\n"
+"Эффект цепи: увеличение количество лучей на 1\n"
+"Макс. лучей в цепи: 999 лучей (1000 урона)\n"
+"\n"
+"Длина луча: 60\n"
+"Скорость луча: 5\n"
+"\n"
+"Урон корпусу: 1\n"
+"Урон системам: 1\n"
+"Урон экипажу: 15\n"
+"\n"
+"Вероятность пробоины: 20% (Скорректировано 20%)"
 
 #: src-en/data/blueprints.xml.append:11529
 msgid ""
