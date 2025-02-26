@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 19:13+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-02-26 19:13+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -41,7 +41,7 @@ msgstr "Сектанты."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[5]/text"
-msgstr "Крошечный сектант."
+msgstr "Крошечные сектанты."
 
 #: src-en/data/events_special_storage.xml.append:25
 msgid ""
@@ -733,7 +733,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/choice[@req=\"LIST_CREW_AEA_NECRO\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 20~]."
 
 #: src-en/data/events_special_storage.xml.append:584
 msgid ""
@@ -978,13 +978,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:799
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:803
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/choice[@req=\"aea_can_upgrade_shields\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:805
 msgid ""
@@ -1017,13 +1017,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:834
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:838
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/choice[@req=\"aea_can_upgrade_engines\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:840
 msgid ""
@@ -1056,13 +1056,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:869
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:873
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/choice[@req=\"aea_can_upgrade_weapons\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:875
 msgid ""
@@ -1095,13 +1095,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:904
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:908
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/choice[@req=\"aea_can_upgrade_drones\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:910
 msgid ""
@@ -1134,13 +1134,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:939
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:943
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/choice[@req=\"aea_can_upgrade_cloaking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:945
 msgid ""
@@ -1173,13 +1173,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:974
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:978
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/choice[@req=\"aea_can_upgrade_mind\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:980
 msgid ""
@@ -1212,13 +1212,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1009
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:1013
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/choice[@req=\"aea_can_upgrade_hacking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:1015
 msgid ""
@@ -1251,13 +1251,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1044
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:1048
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/choice[@req=\"aea_can_upgrade_medbay\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:1050
 msgid ""
@@ -1290,13 +1290,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1080
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:1084
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/choice[@req=\"aea_can_upgrade_clonebay\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 120~, Высокотехнологичный компонент]."
 
 #: src-en/data/events_special_storage.xml.append:1086
 msgid ""
@@ -1330,7 +1330,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/choice[@req=\"aea_can_upgrade_reactor\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 50~]."
 
 #: src-en/data/events_special_storage.xml.append:1118
 msgid ""
@@ -1359,11 +1359,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/text"
 msgstr ""
+"На какой уровень мощности вы хотите настроить данный дрон?\n"
+"\tТекущие характеристики; [снаряды: 2, скорость: 10]."
 
 #: src-en/data/events_special_storage.xml.append:1155
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/choice[1]/text"
-msgstr ""
+msgstr "Настроить дрон на мощность 3. [снаряды: 3, скорость: 8]."
 
 #: src-en/data/events_special_storage.xml.append:1157
 msgid ""
@@ -1388,7 +1390,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1173
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/choice[2]/text"
-msgstr ""
+msgstr "Настроить дрон на мощность 4. [снаряды: 4, скорость: 6]."
 
 #: src-en/data/events_special_storage.xml.append:1175
 msgid ""
@@ -1419,11 +1421,13 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/text"
 msgstr ""
+"На какой уровень мощности вы хотите настроить данный дрон?\n"
+"\tТекущие характеристики; [снаряды: 3, скорость: 8]."
 
 #: src-en/data/events_special_storage.xml.append:1199
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Настроить дрон на мощность 2. [снаряды: 2, скорость: 10]."
 
 #: src-en/data/events_special_storage.xml.append:1201
 msgid ""
@@ -1448,7 +1452,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1217
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/choice[2]/text"
-msgstr ""
+msgstr "Настроить дрон на мощность 4. [снаряды: 4, скорость: 6]."
 
 #: src-en/data/events_special_storage.xml.append:1219
 msgid ""
@@ -1479,11 +1483,13 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/text"
 msgstr ""
+"На какой уровень мощности вы хотите настроить данный дрон?\n"
+"\tТекущие характеристики; [снаряды: 4, скорость: 6]."
 
 #: src-en/data/events_special_storage.xml.append:1243
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/choice[1]/text"
-msgstr ""
+msgstr "Настроить дрон на мощность 2. [снаряды: 2, скорость: 10]."
 
 #: src-en/data/events_special_storage.xml.append:1245
 msgid ""
@@ -1508,7 +1514,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1261
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/choice[2]/text"
-msgstr ""
+msgstr "Настроить дрон на мощность 3. [снаряды: 3, скорость: 8]."
 
 #: src-en/data/events_special_storage.xml.append:1263
 msgid ""
@@ -1723,7 +1729,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1428
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a01\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1430
 msgid ""
@@ -1748,7 +1754,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1446
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a02\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1448
 msgid ""
@@ -1773,7 +1779,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1464
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s03\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1466
 msgid ""
@@ -1798,7 +1804,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1482
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s04\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1484
 msgid ""
@@ -1823,7 +1829,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1500
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s05\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1502
 msgid ""
@@ -1848,7 +1854,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1518
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s06\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1520
 msgid ""
@@ -1873,7 +1879,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1536
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a07\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1538
 msgid ""
@@ -1898,7 +1904,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1554
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s08\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1556
 msgid ""
@@ -1923,7 +1929,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1572
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s09\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1574
 msgid ""
@@ -1948,7 +1954,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1590
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a10\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1592
 msgid ""
@@ -1973,7 +1979,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1608
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a11\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1610
 msgid ""
@@ -1998,7 +2004,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1626
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s12\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1628
 msgid ""
@@ -2023,7 +2029,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1644
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s13\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1646
 msgid ""
@@ -2048,7 +2054,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1662
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s14\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1664
 msgid ""
@@ -2073,7 +2079,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1680
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s15\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1682
 msgid ""
@@ -2323,7 +2329,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1871
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1873
 msgid ""
@@ -2368,7 +2374,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1902
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1904
 msgid ""
@@ -2413,7 +2419,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1933
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1935
 msgid ""
@@ -2458,7 +2464,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1964
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1966
 msgid ""
@@ -2503,7 +2509,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1995
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:1997
 msgid ""
@@ -2548,7 +2554,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2026
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2028
 msgid ""
@@ -2593,7 +2599,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2057
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2059
 msgid ""
@@ -2638,7 +2644,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2088
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2090
 msgid ""
@@ -2683,7 +2689,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2119
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2121
 msgid ""
@@ -2728,7 +2734,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2150
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2152
 msgid ""
@@ -2948,7 +2954,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2320
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a01\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2322
 msgid ""
@@ -2973,7 +2979,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2338
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a02\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2340
 msgid ""
@@ -2998,7 +3004,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2356
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s03\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2358
 msgid ""
@@ -3023,7 +3029,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2374
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s04\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2376
 msgid ""
@@ -3048,7 +3054,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2392
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s05\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2394
 msgid ""
@@ -3073,7 +3079,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2410
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s06\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2412
 msgid ""
@@ -3098,7 +3104,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2428
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a07\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2430
 msgid ""
@@ -3123,7 +3129,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2446
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s08\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2448
 msgid ""
@@ -3148,7 +3154,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2464
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s09\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2466
 msgid ""
@@ -3173,7 +3179,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2482
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a10\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2484
 msgid ""
@@ -3198,7 +3204,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2500
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a11\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2502
 msgid ""
@@ -3223,7 +3229,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2518
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s12\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2520
 msgid ""
@@ -3248,7 +3254,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2536
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s13\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2538
 msgid ""
@@ -3273,7 +3279,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2554
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s14\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2556
 msgid ""
@@ -3298,7 +3304,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2572
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s15\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Сбросить."
 
 #: src-en/data/events_special_storage.xml.append:2574
 msgid ""
