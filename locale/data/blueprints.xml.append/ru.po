@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-27 17:42+0000\n"
+"PO-Revision-Date: 2025-02-28 18:13+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datablueprintsxmlappend/ru/>\n"
@@ -265,7 +265,7 @@ msgstr "Кислотный ССД"
 
 #: src-en/data/blueprints.xml.append:724
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_JUMPER\"]/desc"
-msgstr ""
+msgstr "Продвинутый ССД, способный долететь до любого маяка в секторе."
 
 #: src-en/data/blueprints.xml.append:732
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_O2SYS\"]/title"
@@ -274,6 +274,14 @@ msgstr "Кислотная система фильтрации"
 #: src-en/data/blueprints.xml.append:733
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_O2SYS\"]/desc"
 msgstr ""
+"Кислородная установка может переключаться между подачей кислорода и тушением "
+"пожара.\n"
+"\n"
+"Переключить ее можно в меню склада вне боя.\n"
+"В режиме кислорода установка обеспечивает 0.6 ОЗ/с, и увеличивается до 1.2 "
+"ОЗ/с при мощности 4.\n"
+"В режиме огнетушителя установка будет выдавать 1.8 ОЗ/с, и увеличивается до "
+"3.6 ОЗ/сек при мощности 4."
 
 #: src-en/data/blueprints.xml.append:745
 msgid ""
@@ -284,6 +292,14 @@ msgstr "Кислотная система фильтрации"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_O2SYS_OFF\"]/desc"
 msgstr ""
+"Кислородная установка может переключаться между подачей кислорода и тушением "
+"пожара.\n"
+"\n"
+"Переключить ее можно в меню склада вне боя.\n"
+"В режиме кислорода установка обеспечивает 0.6 ОЗ/с, и увеличивается до 1.2 "
+"ОЗ/с при мощности 4.\n"
+"В режиме огнетушителя установка будет выдавать 1.8 ОЗ/с, и увеличивается до "
+"3.6 ОЗ/сек при мощности 4."
 
 #: src-en/data/blueprints.xml.append:758
 msgid ""
@@ -391,6 +407,9 @@ msgstr "Кислотная л. п."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_SUPER\"]/desc"
 msgstr ""
+"Созданное Кислотным ростом, это оружие продолжает разрушать вражеские "
+"системы после попадания. Это оружие выпускает снаряд в каждую систему "
+"вражеского корабля."
 
 #: src-en/data/blueprints.xml.append:946
 msgid ""
@@ -434,7 +453,7 @@ msgstr "Корпус"
 #: src-en/data/blueprints.xml.append:1049
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_SUPER_BASE\"]/desc"
-msgstr ""
+msgstr "Основание большой Лазерной пушки. Требуется ствол."
 
 #: src-en/data/blueprints.xml.append:1050
 msgid ""
@@ -484,6 +503,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_ION_ACID_1\"]/tooltip"
 msgstr ""
+"Выпускает один заряд, наносящий 1 ионный урон и очень быстро перезаряжается. "
+"Может поражать и выводить из строя щиты и системы."
 
 #: src-en/data/blueprints.xml.append:1165
 msgid ""
@@ -506,6 +527,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_ION_ACID_1_LOOT\"]/tooltip"
 msgstr ""
+"Выпускает один заряд, наносящий 1 ионный урон и очень быстро перезаряжается. "
+"Может поражать и выводить из строя щиты и системы."
 
 #: src-en/data/blueprints.xml.append:1227
 msgid ""
@@ -612,6 +635,8 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_ION_ACID_1_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает один заряд, наносящий 1 ионный урон и очень быстро перезаряжается. "
+"Может поражать и выводить из строя щиты и системы."
 
 #: src-en/data/blueprints.xml.append:1487
 msgid ""
@@ -627,7 +652,7 @@ msgstr "Богохульство"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_NECRO_ENGI\"]/desc"
 msgstr ""
-"Корабль, принадлежащий энджи-Еретикам. Благодаря мощному осколочному лазеру "
+"Корабль, принадлежащий Еретика энджим. Благодаря мощному осколочному лазеру "
 "и умелому экипажу этот корабль эффективно уничтожает любой экипаж на "
 "вражеском корабле."
 
@@ -645,7 +670,7 @@ msgstr "Гегемония"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_NECRO_ENGI_2\"]/desc"
 msgstr ""
-"Похоже, что кое-кто из врагов энджи-Еретиков получили в свои руки это судно. "
+"Похоже, что кое-кто из врагов Еретиков энджи получили в свои руки это судно. "
 "Однако судно по-прежнему оснащено технологией, позволяющей превращать энджи "
 "в Еретиков."
 
@@ -680,7 +705,7 @@ msgstr "Нечестивец"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_NECRO_SEPA\"]/desc"
 msgstr ""
-"Это судно, управляемое элитными энджи-Еретиками, является мощным абордажным "
+"Это судно, управляемое элитными Еретика энджими, является мощным абордажным "
 "кораблем, только не используйте все эти нанитовые рои."
 
 #: src-en/data/blueprints.xml.append:1792
@@ -698,7 +723,7 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_NECRO_SEPA_2\"]/desc"
 msgstr ""
 "Еще одно украденное судно Еретиков. Пираты могут использовать все мощные "
-"системы этого корабля, а также создавать энджи-Еретиков, чтобы те сражались "
+"системы этого корабля, а также создавать Еретиков энджи, чтобы те сражались "
 "на их стороне."
 
 #: src-en/data/blueprints.xml.append:1869
@@ -797,9 +822,14 @@ msgid ""
 msgstr "Еретик I [Р]"
 
 #: src-en/data/blueprints.xml.append:2093
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_DEFENSE_NECRO_1_MISSILE\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Противоракетный] Многоцелевой дрон, используемый Еретиками "
+"энджи, способен воскрешать дронов и ракеты, в которые он попадает, но не "
+"способен поражать лазерные заряды.\n"
+"\tПерезарядка: 1500 МС"
 
 #: src-en/data/blueprints.xml.append:2111
 msgid ""
@@ -812,9 +842,14 @@ msgid ""
 msgstr "Еретик I [Д]"
 
 #: src-en/data/blueprints.xml.append:2113
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_DEFENSE_NECRO_1_DRONE\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Анти-дрон] Многоцелевой дрон, используемый Еретиками энджи, "
+"способен воскрешать дронов и ракеты, в которые он попадает, но не способен "
+"поражать лазерные заряды.\n"
+"\tПерезарядка: 3000 МС"
 
 #: src-en/data/blueprints.xml.append:2132
 msgid ""
@@ -830,6 +865,10 @@ msgstr "Еретик II [Р]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_DEFENSE_NECRO_2_MISSILE\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Противоракетный] Многоцелевой дрон, используемый Еретиками "
+"энджи, способен воскрешать дронов и ракеты, в которые он попадает, но не "
+"способен поражать лазерные заряды.\n"
+"\tПерезарядка: 750 МС"
 
 #: src-en/data/blueprints.xml.append:2153
 msgid ""
@@ -845,6 +884,10 @@ msgstr "Еретик II [Д]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_DEFENSE_NECRO_2_DRONE\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Анти-дрон] Многоцелевой дрон, используемый Еретиками энджи, "
+"способен воскрешать дронов и ракеты, в которые он попадает, но не способен "
+"поражать лазерные заряды.\n"
+"\tПерезарядка: 1500 МС"
 
 #: src-en/data/blueprints.xml.append:2172
 msgid ""
@@ -870,6 +913,9 @@ msgstr "Техномантия I [Л]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_1_LASER\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Лазер] Многоцелевой боевой дрон, используемый Еретиками "
+"энджи. После смерти дрон создает два меньших быстрых дрона, которые "
+"совершают 3 выстрела, прежде чем развалиться на части."
 
 #: src-en/data/blueprints.xml.append:2241
 msgid ""
@@ -885,6 +931,9 @@ msgstr "Техномантия I [ЛУЧ]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_1_BEAM\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Луч] Многоцелевой боевой дрон, используемый Еретиками энджи. "
+"После смерти дрон создает два меньших быстрых дрона, которые совершают 3 "
+"выстрела, прежде чем развалиться на части."
 
 #: src-en/data/blueprints.xml.append:2259
 msgid ""
@@ -934,6 +983,10 @@ msgstr "Техномантия II [Л]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_2_LASER\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Лазер] Многоцелевой боевой дрон, используемый Еретиками "
+"энджи. После смерти дрон создает два меньших быстрых дрона, которые "
+"совершают 3 выстрела, прежде чем развалиться на части. Двигается быстрее и "
+"создает больше мини-дронов, чем мод. I"
 
 #: src-en/data/blueprints.xml.append:2315
 msgid ""
@@ -949,6 +1002,10 @@ msgstr "Техномантия II [ЛУЧ]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_2_BEAM\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Луч] Многоцелевой боевой дрон, используемый Еретиками энджи. "
+"После смерти дрон создает два меньших быстрых дрона, которые совершают 3 "
+"выстрела, прежде чем развалиться на части. Двигается быстрее и создает "
+"больше мини-дронов, чем мод. I"
 
 #: src-en/data/blueprints.xml.append:2333
 msgid ""
@@ -969,11 +1026,17 @@ msgstr "Оск. лазер I"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_1\"]/desc"
 msgstr ""
+"Осколочные лазеры - это сверхмощные лазеры, которые разбиваются при контакте "
+"со щитами. Осколки лазера пробивают щиты, нанося ослабляющий эффект и "
+"тяжелый урон вражескому экипажу в зоне поражения.\n"
+"Разбивается на 3 фрагмента.\n"
+"Фрагменты наносят 15 единиц урона экипажу, имеют 10% шанс пробить щит и "
+"накладывают на вражеский экипаж эффект 20% снижения урона."
 
 #: src-en/data/blueprints.xml.append:2382
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_1\"]/tooltip"
-msgstr ""
+msgstr "Тяжелый лазер; 2 урона, 1 выстрел. 9 сек. перезарядка."
 
 #: src-en/data/blueprints.xml.append:2418
 msgid ""
@@ -989,11 +1052,17 @@ msgstr "Оск. лазер II"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_2\"]/desc"
 msgstr ""
+"Осколочные лазеры - это сверхмощные лазеры, которые разбиваются при контакте "
+"со щитами. Осколки лазера пробивают щиты, нанося ослабляющий эффект и "
+"тяжелый урон вражескому экипажу в зоне поражения.\n"
+"Разбивается на 3 фрагмента.\n"
+"Фрагменты наносят 15 единиц урона экипажу, имеют 10% шанс пробить щит и "
+"накладывают на вражеский экипаж эффект 20% снижения урона."
 
 #: src-en/data/blueprints.xml.append:2424
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_2\"]/tooltip"
-msgstr ""
+msgstr "Тяжелый лазер; 2 урона, 1 выстрел. 9 сек. перезарядка."
 
 #: src-en/data/blueprints.xml.append:2460
 msgid ""
@@ -1009,11 +1078,17 @@ msgstr "Оск. лазер III"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_3\"]/desc"
 msgstr ""
+"Осколочные лазеры - это сверхмощные лазеры, которые разбиваются при контакте "
+"со щитами. Осколки лазера пробивают щиты, нанося ослабляющий эффект и "
+"тяжелый урон вражескому экипажу в зоне поражения.\n"
+"Разбивается на 3 фрагмента.\n"
+"Фрагменты наносят 15 единиц урона экипажу, имеют 10% шанс пробить щит и "
+"накладывают на вражеский экипаж эффект 20% снижения урона."
 
 #: src-en/data/blueprints.xml.append:2466
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_3\"]/tooltip"
-msgstr ""
+msgstr "Тяжелый лазер; 2 урона, 1 выстрел. 9 сек. перезарядка."
 
 #: src-en/data/blueprints.xml.append:2502
 msgid ""
@@ -1029,11 +1104,17 @@ msgstr "Оск. лазер II"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_2_LOOT\"]/desc"
 msgstr ""
+"Осколочные лазеры - это сверхмощные лазеры, которые разбиваются при контакте "
+"со щитами. Осколки лазера пробивают щиты, нанося ослабляющий эффект и "
+"тяжелый урон вражескому экипажу в зоне поражения.\n"
+"Разбивается на 3 фрагмента.\n"
+"Фрагменты наносят 15 единиц урона экипажу, имеют 10% шанс пробить щит и "
+"накладывают на вражеский экипаж эффект 20% снижения урона."
 
 #: src-en/data/blueprints.xml.append:2508
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_2_LOOT\"]/tooltip"
-msgstr ""
+msgstr "Тяжелый лазер; 2 урона, 1 выстрел. 9 сек. перезарядка."
 
 #: src-en/data/blueprints.xml.append:2544
 msgid ""
@@ -1049,11 +1130,17 @@ msgstr "Заряд. оск. лазер"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_CHARGE\"]/desc"
 msgstr ""
+"Осколочные лазеры - это сверхмощные лазеры, которые разбиваются при контакте "
+"со щитами. Осколки лазера пробивают щиты, нанося ослабляющий эффект и "
+"тяжелый урон вражескому экипажу в зоне поражения.\n"
+"Разбивается на 3 фрагмента.\n"
+"Фрагменты наносят 15 единиц урона экипажу, имеют 10% шанс пробить щит и "
+"накладывают на вражеский экипаж эффект 20% снижения урона."
 
 #: src-en/data/blueprints.xml.append:2550
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_CHARGE\"]/tooltip"
-msgstr ""
+msgstr "Тяжелый лазер; 2 урона, 1 выстрел. 9 сек. перезарядка."
 
 #: src-en/data/blueprints.xml.append:2589
 msgid ""
@@ -1069,11 +1156,14 @@ msgstr "Крис"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_NECRO_1\"]/desc"
 msgstr ""
+"Довольно простое оружие, стреляющее направленным лучом, который может "
+"попасть только в один отсек, но наносит 2 урона. Оружие также разделяет "
+"вражеский экипаж на два при попадании."
 
 #: src-en/data/blueprints.xml.append:2592
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_NECRO_1\"]/tooltip"
-msgstr ""
+msgstr "Один урон за каждый отсек в который попадет."
 
 #: src-en/data/blueprints.xml.append:2615
 msgid ""
@@ -1130,6 +1220,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_ANCIENT_DREAD_INVIS\"]/tooltip"
 msgstr ""
+"Бомбовое оружие; требует боеголовки; наносит 2 урона, но наносит урон только "
+"системам, а не корпусу. Может быть нацелено на ваш собственный корабль."
 
 #: src-en/data/blueprints.xml.append:2804
 msgid ""
@@ -1295,6 +1387,15 @@ msgstr "Предсказуемое наведение"
 #: src-en/data/blueprints.xml.append:3485
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_OLD_EVASION\"]/desc"
 msgstr ""
+"Предсказывает положение вражеского корабля, позволяя пилоту направить броню "
+"в сторону противника. Снаряды появляются на X градусов впереди корабля, где "
+"X определяется уклонением вашего корабля:\n"
+"\t60%+ уклонение = 11.25 градуса\n"
+"\t50%+ уклонение = 22.5 градуса\n"
+"\t40%+ уклонение = 30 градусов\n"
+"\t30%+ уклонение = 45 градусов\n"
+"\t20%+ уклонение = 60 градусов\n"
+"\t10%+ уклонение = 90 градусов"
 
 #: src-en/data/blueprints.xml.append:3500
 msgid ""
@@ -1305,6 +1406,8 @@ msgstr "Бронированные щиты"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_OLD_SHIELD_REPAIR\"]/desc"
 msgstr ""
+"Система щитов окружена броней, которая снижает урон от снарядов на 1.\n"
+"К сожалению, она заставляет щиты восстанавливаться с 50% скоростью."
 
 #: src-en/data/blueprints.xml.append:3509
 msgid ""
@@ -1400,6 +1503,8 @@ msgstr "Высокотехнол. компоненты"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_COMPONENT_OLD\"]/desc"
 msgstr ""
+"Компоненты, относящиеся к технологиям, созданных Лилмиками, можно "
+"использовать для различных модернизаций, чтобы расширить возможности корабля."
 
 #: src-en/data/blueprints.xml.append:3614
 msgid ""
@@ -1440,6 +1545,8 @@ msgstr "Булава"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLD_1\"]/desc"
 msgstr ""
+"Мощный лазер, который при каждом попадании разрушает два слоя щита. Создан "
+"могущественной расой, которая спряталась от остальной части Мультивселенной."
 
 #: src-en/data/blueprints.xml.append:3712
 msgid ""
@@ -1455,6 +1562,8 @@ msgstr "Цеп"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLD_2\"]/desc"
 msgstr ""
+"Мощный лазер, который при каждом попадании разрушает два слоя щита. Создан "
+"могущественной расой, которая спряталась от остальной части Мультивселенной."
 
 #: src-en/data/blueprints.xml.append:3753
 msgid ""
@@ -1470,6 +1579,8 @@ msgstr "Сали"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLD_3\"]/desc"
 msgstr ""
+"Мощный лазер, который при каждом попадании разрушает два слоя щита. Создан "
+"могущественной расой, которая спряталась от остальной части Мультивселенной."
 
 #: src-en/data/blueprints.xml.append:3794
 msgid ""
@@ -1485,11 +1596,15 @@ msgstr "Артиллерия Лилмиков"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLER_AEA_OLD_BEAM\"]/desc"
 msgstr ""
+"Стреляет мощным точечным лучом, которое не может пробить щиты, но наносит "
+"эрозию при попадании."
 
 #: src-en/data/blueprints.xml.append:3798
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLER_AEA_OLD_BEAM\"]/tooltip"
 msgstr ""
+"Артиллерия: Стреляет мощными точечным лучом, который не можете пробить щиты, "
+"но наносят эрозию при попадании."
 
 #: src-en/data/blueprints.xml.append:3837
 msgid ""
@@ -1505,11 +1620,15 @@ msgstr "Артиллерия Лилмиков"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLER_AEA_OLD_BEAM_HARD\"]/desc"
 msgstr ""
+"Стреляет мощным точечным лучом, которое не может пробить щиты, но наносит "
+"эрозию при попадании."
 
 #: src-en/data/blueprints.xml.append:3841
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLER_AEA_OLD_BEAM_HARD\"]/tooltip"
 msgstr ""
+"Артиллерия: Стреляет мощными точечным лучом, который не можете пробить щиты, "
+"но наносят эрозию при попадании."
 
 #: src-en/data/blueprints.xml.append:3881
 msgid ""
@@ -1525,6 +1644,8 @@ msgstr "Мачете"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLDP_1\"]/desc"
 msgstr ""
+"Мощный лазер, который разрушает щиты, но не наносит урона корпусу. Создан "
+"могущественной расой, которая скрылась от остальной части Мультивселенной."
 
 #: src-en/data/blueprints.xml.append:3925
 msgid ""
@@ -1540,6 +1661,8 @@ msgstr "Шотель"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLDP_2\"]/desc"
 msgstr ""
+"Мощный лазер, который разрушает щиты, но не наносит урона корпусу. Создан "
+"могущественной расой, которая скрылась от остальной части Мультивселенной."
 
 #: src-en/data/blueprints.xml.append:3969
 msgid ""
@@ -1555,6 +1678,8 @@ msgstr "Нагамаки"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLDP_3\"]/desc"
 msgstr ""
+"Мощный лазер, который разрушает щиты, но не наносит урона корпусу. Создан "
+"могущественной расой, которая скрылась от остальной части Мультивселенной."
 
 #: src-en/data/blueprints.xml.append:4013
 msgid ""
@@ -1570,6 +1695,8 @@ msgstr "Нагамаки"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_OLDP_3_LOOT\"]/desc"
 msgstr ""
+"Мощный лазер, который разрушает щиты, но не наносит урона корпусу. Создан "
+"могущественной расой, которая скрылась от остальной части Мультивселенной."
 
 #: src-en/data/blueprints.xml.append:4058
 msgid ""
@@ -1719,6 +1846,10 @@ msgstr "Импульс [2]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BURST_1\"]/desc"
 msgstr ""
+"[ТЕКУЩАЯ МОЩНОСТЬ: 2] В отличие от обычного дрона, этот специализированный "
+"дрон с усилителем может стрелять несколько раз по каждой цели.\n"
+"\n"
+"Этот дрон совершает 2 выстрела."
 
 #: src-en/data/blueprints.xml.append:4696
 msgid ""
@@ -1749,6 +1880,10 @@ msgstr "Импульс [3]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BURST_2\"]/desc"
 msgstr ""
+"[ТЕКУЩАЯ МОЩНОСТЬ: 3] В отличие от обычного дрона, этот специализированный "
+"дрон с усилителем может стрелять несколько раз по каждой цели.\n"
+"\n"
+"Этот дрон совершает 3 выстрела."
 
 #: src-en/data/blueprints.xml.append:4733
 msgid ""
@@ -1779,6 +1914,10 @@ msgstr "Импульс [4]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BURST_3\"]/desc"
 msgstr ""
+"[ТЕКУЩАЯ МОЩНОСТЬ: 4] В отличие от обычного дрона, этот специализированный "
+"дрон с усилителем может стрелять несколько раз по каждой цели.\n"
+"\n"
+"Этот дрон совершает 4 выстрела."
 
 #: src-en/data/blueprints.xml.append:4770
 msgid ""
@@ -1804,6 +1943,10 @@ msgstr "Био I"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BIO_1\"]/desc"
 msgstr ""
+"Дрон, специально предназначенный для поражения членов вражеского экипажа. "
+"Наносит 15 единиц урона экипажу и накладывает на вражеский экипаж эффект "
+"смерти на 20 секунд, который после их гибели наносит 2 единицы системного "
+"урона и вызывает пожар."
 
 #: src-en/data/blueprints.xml.append:4877
 msgid ""
@@ -1819,6 +1962,10 @@ msgstr "Био II"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BIO_2\"]/desc"
 msgstr ""
+"Дрон, специально предназначенный для поражения членов вражеского экипажа, "
+"быстрее чем мод. I. Наносит 15 единиц урона экипажу и накладывает на "
+"вражеский экипаж эффект смерти на 20 секунд, который после их гибели наносит "
+"2 единицы системного урона и вызывает пожар."
 
 #: src-en/data/blueprints.xml.append:4895
 msgid ""
@@ -1864,6 +2011,10 @@ msgstr "Био III"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BIO_3\"]/desc"
 msgstr ""
+"Дрон, специально предназначенный для поражения членов вражеского экипажа, "
+"быстрее чем мод. II, производит 2 выстрела одновременно. Наносит 15 единиц "
+"урона экипажу и накладывает на вражеский экипаж эффект смерти на 20 секунд, "
+"который после их гибели наносит 2 единицы системного урона и вызывает пожар."
 
 #: src-en/data/blueprints.xml.append:4949
 msgid ""
@@ -1889,6 +2040,8 @@ msgstr "Орел"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SWEEP\"]/desc"
 msgstr ""
+"Дрон, оснащенный небольшой установкой, которая создает неподвижных дронов, "
+"стреляющих лучами большой длины по вражескому кораблю."
 
 #: src-en/data/blueprints.xml.append:5003
 msgid ""
@@ -1904,6 +2057,8 @@ msgstr "Орел"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SWEEP_DELETE\"]/desc"
 msgstr ""
+"Дрон, оснащенный небольшой установкой, которая создает неподвижных дронов, "
+"стреляющих лучами большой длины по вражескому кораблю."
 
 #: src-en/data/blueprints.xml.append:5020
 msgid ""
@@ -1934,6 +2089,11 @@ msgstr "Близнец I [Л]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_1_LASER\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Лазер] Модификация боевого дрона, к которой прикреплена "
+"дополнительная ионная пушка, которая стреляет слабым ионным снарядом наряду "
+"с основным оружием. Этот ионный выстрел может ионизировать только слои щита "
+"и не влияет на системы. Основное оружие может переключаться между лазерным и "
+"лучевым режимами."
 
 #: src-en/data/blueprints.xml.append:5126
 msgid ""
@@ -1949,6 +2109,11 @@ msgstr "Близнец I [ЛУЧ]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_1_BEAM\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Луч] Модификация боевого дрона, к которой прикреплена "
+"дополнительная ионная пушка, которая стреляет слабым ионным снарядом наряду "
+"с основным оружием. Этот ионный выстрел может ионизировать только слои щита "
+"и не влияет на системы. Основное оружие может переключаться между лазерным и "
+"лучевым режимами."
 
 #: src-en/data/blueprints.xml.append:5143
 msgid ""
@@ -1964,6 +2129,11 @@ msgstr "Близнец II [Л]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_LASER\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Лазер] Модификация боевого дрона, к которой прикреплена "
+"дополнительная ионная пушка, которая стреляет слабым ионным снарядом наряду "
+"с основным оружием. Этот ионный выстрел может ионизировать только слои щита "
+"и не влияет на системы. Основное оружие может переключаться между лазерным и "
+"лучевым режимами. Передвигается быстрее, чем мод. I."
 
 #: src-en/data/blueprints.xml.append:5160
 msgid ""
@@ -1979,6 +2149,11 @@ msgstr "Близнец II [ЛУЧ]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_BEAM\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Луч] Модификация боевого дрона, к которой прикреплена "
+"дополнительная ионная пушка, которая стреляет слабым ионным снарядом наряду "
+"с основным оружием. Этот ионный выстрел может ионизировать только слои щита "
+"и не влияет на системы. Основное оружие может переключаться между лазерным и "
+"лучевым режимами. Передвигается быстрее, чем мод. I."
 
 #: src-en/data/blueprints.xml.append:5177
 msgid ""
@@ -2069,6 +2244,11 @@ msgstr "Близнец II [Л]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_LOOT_LASER\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Лазер] Модификация боевого дрона, к которой прикреплена "
+"дополнительная ионная пушка, которая стреляет слабым ионным снарядом наряду "
+"с основным оружием. Этот ионный выстрел может ионизировать только слои щита "
+"и не влияет на системы. Основное оружие может переключаться между лазерным и "
+"лучевым режимами. Передвигается быстрее, чем мод. I."
 
 #: src-en/data/blueprints.xml.append:5346
 msgid ""
@@ -2084,6 +2264,11 @@ msgstr "Близнец II [ЛУЧ]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_MULTI_2_LOOT_BEAM\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Луч] Модификация боевого дрона, к которой прикреплена "
+"дополнительная ионная пушка, которая стреляет слабым ионным снарядом наряду "
+"с основным оружием. Этот ионный выстрел может ионизировать только слои щита "
+"и не влияет на системы. Основное оружие может переключаться между лазерным и "
+"лучевым режимами. Передвигается быстрее, чем мод. I."
 
 #: src-en/data/blueprints.xml.append:5363
 msgid ""
@@ -2104,6 +2289,10 @@ msgstr "Умный I"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SMART_1\"]/desc"
 msgstr ""
+"Боевой дрон, оснащенный парой лазеров. На борту этого специализированного "
+"дрона установлен компьютер целеуказания, который позволяет дрону "
+"нацеливаться только на вражеские системы, причем в первую очередь на самые "
+"важные."
 
 #: src-en/data/blueprints.xml.append:5409
 msgid ""
@@ -2119,6 +2308,10 @@ msgstr "Умный II"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_SMART_2\"]/desc"
 msgstr ""
+"Боевой дрон, оснащенный парой лазеров. На борту этого специализированного "
+"дрона установлен компьютер целеуказания, который позволяет дрону "
+"нацеливаться только на вражеские системы, причем в первую очередь на самые "
+"важные."
 
 #: src-en/data/blueprints.xml.append:5427
 msgid ""
@@ -2154,6 +2347,9 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_soldier\"]/desc"
 msgstr ""
+"Опасный механизм, используемый Кислотным ростом для расширения своего "
+"влияния за пределы Кислотной туманности. Хозяин - фрагмент Кислотного роста, "
+"который управляет механизмом."
 
 #: src-en/data/blueprints.xml.append:5463
 msgid ""
@@ -2188,12 +2384,15 @@ msgstr "Передвигается со скоростью 0.75х"
 #: src-en/data/blueprints.xml.append:5473
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_soldier\"]/powerList/power[5]"
-msgstr ""
+msgstr "Не может задохнуться, невосприимчив к контролю разума"
 
 #: src-en/data/blueprints.xml.append:5478
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_captain\"]/desc"
 msgstr ""
+"Опасный механизм, используемый Кислотным ростом для расширения своего "
+"влияния за пределы Кислотной туманности. Хозяин - фрагмент Кислотного роста, "
+"который управляет механизмом."
 
 #: src-en/data/blueprints.xml.append:5479
 msgid ""
@@ -2218,7 +2417,7 @@ msgstr "Обучается бою на 25% быстрее"
 #: src-en/data/blueprints.xml.append:5487
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_captain\"]/powerList/power[3]"
-msgstr ""
+msgstr "Лечит ближайших кислотных солдат"
 
 #: src-en/data/blueprints.xml.append:5488
 msgid ""
@@ -2233,11 +2432,16 @@ msgstr "Передвигается со скоростью 0.5х"
 #: src-en/data/blueprints.xml.append:5490
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_captain\"]/powerList/power[6]"
-msgstr ""
+msgstr "Не может задохнуться, невосприимчив к контролю разума"
 
 #: src-en/data/blueprints.xml.append:5495
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/desc"
 msgstr ""
+"Опасный механизм, используемый Кислотным ростом для расширения своего "
+"влияния за пределы Кислотной туманности. В нем находится фрагмент Кислотного "
+"роста, который управляет механизмом. Фрагменты Кислотного роста в этой "
+"машине отделились от остальной части Кислотного роста и теперь считают себя "
+"самостоятельной сущностью."
 
 #: src-en/data/blueprints.xml.append:5496
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/title"
@@ -2251,6 +2455,8 @@ msgstr "Кислотный изгой"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Немедленно убивает всех вражеских членов экипажа, у "
+"которых меньше 35 ОЗ."
 
 #: src-en/data/blueprints.xml.append:5503
 msgid ""
@@ -2265,7 +2471,7 @@ msgstr "Обучается бою на 25% быстрее"
 #: src-en/data/blueprints.xml.append:5505
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/powerList/power[4]"
-msgstr ""
+msgstr "Лечит ближайших союзников"
 
 #: src-en/data/blueprints.xml.append:5506
 msgid ""
@@ -2280,11 +2486,16 @@ msgstr "Передвигается со скоростью 0.5х"
 #: src-en/data/blueprints.xml.append:5508
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/powerList/power[7]"
-msgstr ""
+msgstr "Не может задохнуться, невосприимчив к контролю разума"
 
 #: src-en/data/blueprints.xml.append:5513
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_engi\"]/desc"
 msgstr ""
+"Еретики энджи - изгои даже среди сепаратистов: вырвавшись из Гармонии, они "
+"предпочитают использовать органическую жизнь как инструмент для выполнения "
+"своих задач.\n"
+"С помощью своих наноботов Еретики энджи берут под контроль убитых ими "
+"врагов, подключая их тела к своим для кратковременного прилива жизненных сил."
 
 #: src-en/data/blueprints.xml.append:5518
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_engi\"]/title"
@@ -2298,6 +2509,8 @@ msgstr "Еретик"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_engi\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Воскрешает последнего врага, убитого в ближнем бою "
+"этим членом экипажа, стоит 1 рой нанитов"
 
 #: src-en/data/blueprints.xml.append:5523
 msgid ""
@@ -2308,11 +2521,13 @@ msgstr "Максимальное здоровье увеличено до 125"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_engi\"]/powerList/power[3]"
 msgstr ""
+"Вражеский экипаж, убитый в присутствии Еретика энджи, генерирует 1 рой "
+"нанитов"
 
 #: src-en/data/blueprints.xml.append:5525
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_engi\"]/powerList/power[4]"
-msgstr ""
+msgstr "0.75x урона в бою, 1.5x скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:5526
 msgid ""
@@ -2322,6 +2537,12 @@ msgstr "Снижен урон от удушья"
 #: src-en/data/blueprints.xml.append:5544
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/desc"
 msgstr ""
+"Энджи-Личи - элита Еретиков энджи, более могущественные в своих "
+"способностях, энджи-Личи способны наложить на вражеский экипаж своего рода "
+"проклятие, заставляющее их временно воскреснуть на стороне Лича.\n"
+"Энджи-Личи используют своих нано-ботов, чтобы взять под контроль убитых ими "
+"врагов, подключая их тела к себе для кратковременного восстановления "
+"жизненных сил."
 
 #: src-en/data/blueprints.xml.append:5549
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/title"
@@ -2335,11 +2556,16 @@ msgstr "Лич"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Разделяет каждого врага в отсеке на две части, "
+"создавая более слабую копию, которая будет сражаться на стороне энджи-Лича, "
+"стоит 3 роя нанитов."
 
 #: src-en/data/blueprints.xml.append:5554
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/powerList/power[2]"
 msgstr ""
+"Активная способность: Воскрешает последнего врага, убитого в ближнем бою "
+"этим членом экипажа, стоит 1 рой нанитов"
 
 #: src-en/data/blueprints.xml.append:5555
 msgid ""
@@ -2350,16 +2576,18 @@ msgstr "Максимальное здоровье увеличено до 125"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/powerList/power[4]"
 msgstr ""
+"Вражеский экипаж, убитый в присутствии Еретика энджи, генерирует 1 рой "
+"нанитов"
 
 #: src-en/data/blueprints.xml.append:5557
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/powerList/power[5]"
-msgstr ""
+msgstr "0.8x урона в бою, 1.2x урон в дальнем бою, 1.75x скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:5558
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/powerList/power[6]"
-msgstr ""
+msgstr "Наноботы замедляют исцеление целевого экипажа на 50%."
 
 #: src-en/data/blueprints.xml.append:5559
 msgid ""
@@ -2369,6 +2597,9 @@ msgstr "Снижен урон от удушья"
 #: src-en/data/blueprints.xml.append:5577
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/desc"
 msgstr ""
+"Лидер Еретиков энджи, древних энджи, одними из первых отделившихся от "
+"Гармонии. Обладает тонким контролем над наноботами энджи, что позволяет ему "
+"воскрешать практически любую форму жизни."
 
 #: src-en/data/blueprints.xml.append:5580
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/title"
@@ -2382,11 +2613,15 @@ msgstr "Король-Лич"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Постоянно воскрешает последнего врага, убитого в "
+"ближнем бою этим членом экипажа, стоит 5 нанитовых роев"
 
 #: src-en/data/blueprints.xml.append:5585
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[2]"
 msgstr ""
+"Активная способность: Воскрешает последнего врага, убитого в ближнем бою "
+"этим членом экипажа, стоит 1 рой нанитов"
 
 #: src-en/data/blueprints.xml.append:5586
 msgid ""
@@ -2397,6 +2632,7 @@ msgstr "Максимальное здоровье увеличено до 180"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[4]"
 msgstr ""
+"Противники, убитые на одном корабле с Королем-Личем, генерируют 1 рой нанитов"
 
 #: src-en/data/blueprints.xml.append:5588
 msgid ""
@@ -2406,7 +2642,7 @@ msgstr "1.5x урон в бою и 2x скорость ремонта"
 #: src-en/data/blueprints.xml.append:5589
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[6]"
-msgstr ""
+msgstr "Наноботы замедляют исцеление целевого экипажа на 100%."
 
 #: src-en/data/blueprints.xml.append:5590
 msgid ""
@@ -2416,6 +2652,9 @@ msgstr "Невосприимчив к удушью"
 #: src-en/data/blueprints.xml.append:5595
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_1\"]/desc"
 msgstr ""
+"Древняя раса, которая использовала свои собственные достижения в "
+"путешествиях по Мультивселенной, чтобы отгородиться от остальной части "
+"Мультивселенной."
 
 #: src-en/data/blueprints.xml.append:5597
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_1\"]/title"
@@ -2429,6 +2668,8 @@ msgstr "Лилмик"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_1\"]/powerList/power[1]"
 msgstr ""
+"Не теряет навыки при клонировании, клонирование занимает в два раза больше "
+"времени"
 
 #: src-en/data/blueprints.xml.append:5602
 msgid ""
@@ -2438,17 +2679,18 @@ msgstr "Передвигается со скоростью 1.75х"
 #: src-en/data/blueprints.xml.append:5603
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_1\"]/powerList/power[3]"
-msgstr ""
+msgstr "2x скорость лечения и наносит 1.75x урона в бою с экипажем"
 
 #: src-en/data/blueprints.xml.append:5604
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_1\"]/powerList/power[4]"
-msgstr ""
+msgstr "Не может задохнуться или сгореть"
 
 #: src-en/data/blueprints.xml.append:5609
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_1\"]/desc"
 msgstr ""
+"Изначально один из великих военачальников Лилмиков, сейчас глава Совета."
 
 #: src-en/data/blueprints.xml.append:5611
 msgid ""
@@ -2464,11 +2706,13 @@ msgstr "Атонинг Юнифекс"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_1\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Взламывает текущую систему и оглушает всех членов "
+"экипажа в отсеке на время взлома."
 
 #: src-en/data/blueprints.xml.append:5616
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_1\"]/powerList/power[2]"
-msgstr ""
+msgstr "Может телепортироваться между кораблями"
 
 #: src-en/data/blueprints.xml.append:5617
 msgid ""
@@ -2479,6 +2723,8 @@ msgstr "Максимальное здоровье увеличено до 200"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_1\"]/powerList/power[4]"
 msgstr ""
+"Не теряет навыки при клонировании, клонирование занимает в два раза больше "
+"времени"
 
 #: src-en/data/blueprints.xml.append:5619
 msgid ""
@@ -2488,12 +2734,12 @@ msgstr "Передвигается со скоростью 1.75х"
 #: src-en/data/blueprints.xml.append:5620
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_1\"]/powerList/power[6]"
-msgstr ""
+msgstr "Лечится с 2x скоростью и наносит 2x урона в бою с экипажем"
 
 #: src-en/data/blueprints.xml.append:5621
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_1\"]/powerList/power[7]"
-msgstr ""
+msgstr "Не может задохнуться или сгореть"
 
 #: src-en/data/blueprints.xml.append:5628
 msgid ""
@@ -2519,6 +2765,7 @@ msgstr "."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_2\"]/desc"
 msgstr ""
+"Один из первых лидеров Лилмиков, более могущественный, чем другие Лилмики."
 
 #: src-en/data/blueprints.xml.append:5657
 msgid ""
@@ -2534,6 +2781,8 @@ msgstr "Асимптотическая Сущность"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_2\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Устраняет весь ионный урон в отсеке и ремонтирует 2 "
+"системных урона."
 
 #: src-en/data/blueprints.xml.append:5662
 msgid ""
@@ -2544,6 +2793,8 @@ msgstr "Максимальное здоровье увеличено до 200"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_2\"]/powerList/power[3]"
 msgstr ""
+"Не теряет навыки при клонировании, клонирование занимает в два раза больше "
+"времени"
 
 #: src-en/data/blueprints.xml.append:5664
 msgid ""
@@ -2553,17 +2804,18 @@ msgstr "Передвигается со скоростью 1.75х"
 #: src-en/data/blueprints.xml.append:5665
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_2\"]/powerList/power[5]"
-msgstr ""
+msgstr "Лечится с 2x скоростью и наносит 2x урона в бою с экипажем"
 
 #: src-en/data/blueprints.xml.append:5666
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_2\"]/powerList/power[6]"
-msgstr ""
+msgstr "Не может задохнуться или сгореть"
 
 #: src-en/data/blueprints.xml.append:5672
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_3\"]/desc"
 msgstr ""
+"Один из первых лидеров Лилмиков, более могущественный, чем другие Лилмики."
 
 #: src-en/data/blueprints.xml.append:5674
 msgid ""
@@ -2579,6 +2831,8 @@ msgstr "Эвпатический Импульс"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_3\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Детонирует на вражеском корабле зажигательные бомбы, "
+"равные количеству врагов в текущем отсеке плюс одна."
 
 #: src-en/data/blueprints.xml.append:5679
 msgid ""
@@ -2589,6 +2843,8 @@ msgstr "Максимальное здоровье увеличено до 200"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_3\"]/powerList/power[3]"
 msgstr ""
+"Не теряет навыки при клонировании, клонирование занимает в два раза больше "
+"времени"
 
 #: src-en/data/blueprints.xml.append:5681
 msgid ""
@@ -2598,17 +2854,18 @@ msgstr "Передвигается со скоростью 1.75х"
 #: src-en/data/blueprints.xml.append:5682
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_3\"]/powerList/power[5]"
-msgstr ""
+msgstr "Лечится с 2x скоростью и наносит 2x урона в бою с экипажем"
 
 #: src-en/data/blueprints.xml.append:5683
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_3\"]/powerList/power[6]"
-msgstr ""
+msgstr "Не может задохнуться или сгореть"
 
 #: src-en/data/blueprints.xml.append:5688
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_4\"]/desc"
 msgstr ""
+"Один из первых лидеров Лилмиков, более могущественный, чем другие Лилмики."
 
 #: src-en/data/blueprints.xml.append:5690
 msgid ""
@@ -2624,6 +2881,7 @@ msgstr "Гомологичный Тренд"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_4\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Ремонтирует 1 ед. прочности корпуса и 100 ОЗ экипажу."
 
 #: src-en/data/blueprints.xml.append:5695
 msgid ""
@@ -2634,6 +2892,8 @@ msgstr "Максимальное здоровье увеличено до 200"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_4\"]/powerList/power[3]"
 msgstr ""
+"Не теряет навыки при клонировании, клонирование занимает в два раза больше "
+"времени"
 
 #: src-en/data/blueprints.xml.append:5697
 msgid ""
@@ -2643,17 +2903,18 @@ msgstr "Передвигается со скоростью 1.75х"
 #: src-en/data/blueprints.xml.append:5698
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_4\"]/powerList/power[5]"
-msgstr ""
+msgstr "Лечится с 2x скоростью и наносит 2x урона в бою с экипажем"
 
 #: src-en/data/blueprints.xml.append:5699
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_4\"]/powerList/power[6]"
-msgstr ""
+msgstr "Не может задохнуться или сгореть"
 
 #: src-en/data/blueprints.xml.append:5704
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_5\"]/desc"
 msgstr ""
+"Один из первых лидеров Лилмиков, более могущественный, чем другие Лилмики."
 
 #: src-en/data/blueprints.xml.append:5706
 msgid ""
@@ -2668,7 +2929,7 @@ msgstr "Ноэтический Конкорданс"
 #: src-en/data/blueprints.xml.append:5710
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_5\"]/powerList/power[1]"
-msgstr ""
+msgstr "Активная способность: Создает 2 слоя суперщита"
 
 #: src-en/data/blueprints.xml.append:5711
 msgid ""
@@ -2679,6 +2940,8 @@ msgstr "Максимальное здоровье увеличено до 200"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_5\"]/powerList/power[3]"
 msgstr ""
+"Не теряет навыки при клонировании, клонирование занимает в два раза больше "
+"времени"
 
 #: src-en/data/blueprints.xml.append:5713
 msgid ""
@@ -2688,12 +2951,12 @@ msgstr "Передвигается со скоростью 1.75х"
 #: src-en/data/blueprints.xml.append:5714
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_5\"]/powerList/power[5]"
-msgstr ""
+msgstr "Лечится с 2x скоростью и наносит 2x урона в бою с экипажем"
 
 #: src-en/data/blueprints.xml.append:5715
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_5\"]/powerList/power[6]"
-msgstr ""
+msgstr "Не может задохнуться или сгореть"
 
 #: src-en/data/blueprints.xml.append:5722
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_avali\"]/desc"
@@ -2724,6 +2987,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_illuminant\"]/desc"
 msgstr ""
+"Элитный экипаж Ги. Специально обученные техники по работе с дронами, которые "
+"хорошо адаптируются к любой ситуации."
 
 #: src-en/data/blueprints.xml.append:5781
 msgid ""
@@ -2743,7 +3008,7 @@ msgstr "Автоматически ремонтирует текущую сис�
 #: src-en/data/blueprints.xml.append:5786
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_illuminant\"]/powerList/power[2]"
-msgstr ""
+msgstr "Дружественные дроны в текущем отсеке исцеляются со скоростью 3 ОЗ/с"
 
 #: src-en/data/blueprints.xml.append:5787
 msgid ""
@@ -2775,7 +3040,7 @@ msgstr "Максимальное здоровье увеличено до 140"
 #: src-en/data/blueprints.xml.append:5799
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_unique\"]/powerList/power[2]"
-msgstr ""
+msgstr "Автоматический ремонт всего корабля с 1х скоростью ремонта"
 
 #: src-en/data/blueprints.xml.append:5800
 msgid ""
@@ -2785,7 +3050,7 @@ msgstr "Автоматически ремонтирует текущую сис�
 #: src-en/data/blueprints.xml.append:5801
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_unique\"]/powerList/power[4]"
-msgstr ""
+msgstr "Дружественные дроны в текущем отсеке исцеляются со скоростью 3 ОЗ/с"
 
 #: src-en/data/blueprints.xml.append:5802
 msgid ""
@@ -2807,11 +3072,18 @@ msgstr "Сектант"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_vampbig\"]/desc"
 msgstr ""
+"Культиваторы-сектанты - эти члены экипажа сосредоточены на борьбе с "
+"вражеским экипажем и используют силу Бутона для временного превращения врага "
+"в союзника.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:5816
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_vampbig\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Контролирует разум случайного члена вражеского экипажа."
 
 #: src-en/data/blueprints.xml.append:5817
 msgid ""
@@ -2836,11 +3108,18 @@ msgstr "Сектант"
 #: src-en/data/blueprints.xml.append:5825
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:5832
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Произносит заклинание в текущем отсеке, которое ничего "
+"не делает."
 
 #: src-en/data/blueprints.xml.append:5833
 msgid ""
@@ -2850,9 +3129,10 @@ msgstr ""
 "дальнем бою"
 
 #: src-en/data/blueprints.xml.append:5834
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:5856
 msgid ""
@@ -2868,11 +3148,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a01\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:5865
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a01\"]/powerList/power[1]"
 msgstr ""
+"Активная способность (5 зарядов): Накладывает заклинание, которое защищает "
+"текущий отсек от урона по корпусу и системе на 10 секунд"
 
 #: src-en/data/blueprints.xml.append:5866
 msgid ""
@@ -2895,11 +3182,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a02\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:5897
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a02\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Накладывает заклинание, которое перенацеливает все "
+"вражеские снаряды на экране на текущий отсек"
 
 #: src-en/data/blueprints.xml.append:5898
 msgid ""
@@ -2911,7 +3205,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5899
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a02\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:5921
 msgid ""
@@ -2927,11 +3221,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s03\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:5930
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s03\"]/powerList/power[1]"
 msgstr ""
+"Активная способность (3 заряда): Накладывает заклинание на выбранный отсек, "
+"наносящее 45 единиц урона по экипажу."
 
 #: src-en/data/blueprints.xml.append:5931
 msgid ""
@@ -2943,7 +3244,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5932
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s03\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:5954
 msgid ""
@@ -2959,11 +3260,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s04\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:5963
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s04\"]/powerList/power[1]"
 msgstr ""
+"Активная способность (2 заряда): Накладывает заклинание на выбранный отсек, "
+"наносящее 1 урон."
 
 #: src-en/data/blueprints.xml.append:5964
 msgid ""
@@ -2975,7 +3283,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5965
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s04\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:5987
 msgid ""
@@ -2991,11 +3299,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s05\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:5996
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s05\"]/powerList/power[1]"
 msgstr ""
+"Активная способность (2 заряда): Накладывает 3 заклинания на выбранный "
+"отсек, нанося по 1 урону каждое."
 
 #: src-en/data/blueprints.xml.append:5997
 msgid ""
@@ -3007,7 +3322,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5998
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s05\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:6020
 msgid ""
@@ -3023,11 +3338,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s06\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:6029
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s06\"]/powerList/power[1]"
 msgstr ""
+"Активная способность (2 заряда): Накладывает на выбранный отсек заклинание, "
+"наносящее 3 урона корпусу корабля, но не наносящее урона системе и экипажу."
 
 #: src-en/data/blueprints.xml.append:6030
 msgid ""
@@ -3039,7 +3361,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6031
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s06\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:6053
 msgid ""
@@ -3055,11 +3377,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a07\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:6062
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a07\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Накладывает в текущем отсеке заклинание, которое "
+"перемещает весь экипаж в случайный отсек на другом корабле"
 
 #: src-en/data/blueprints.xml.append:6063
 msgid ""
@@ -3071,7 +3400,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6064
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a07\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:6086
 msgid ""
@@ -3087,11 +3416,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s08\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:6095
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s08\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Накладывает на выбранный отсек заклинание, которое "
+"перемещает всех членов экипажа в случайный отсек на другом корабле"
 
 #: src-en/data/blueprints.xml.append:6096
 msgid ""
@@ -3103,7 +3439,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6097
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s08\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:6119
 msgid ""
@@ -3119,11 +3455,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s09\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:6128
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s09\"]/powerList/power[1]"
 msgstr ""
+"Активная способность (3 заряда): Накладывает на выбранный отсек заклинание, "
+"которое исцеляет всех дружественных членов экипажа на 75 ОЗ."
 
 #: src-en/data/blueprints.xml.append:6129
 msgid ""
@@ -3135,7 +3478,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6130
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s09\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:6152
 msgid ""
@@ -3151,11 +3494,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a10\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:6161
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a10\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Накладывает в текущем отсеке заклинание, которое "
+"исцеляет всех дружественных членов экипажа на 45 ОЗ."
 
 #: src-en/data/blueprints.xml.append:6162
 msgid ""
@@ -3167,7 +3517,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6163
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a10\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:6185
 msgid ""
@@ -3183,11 +3533,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a11\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:6194
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a11\"]/powerList/power[1]"
 msgstr ""
+"Активная способность (1 заряд): Порождает консервативный боевой дрон возле "
+"вражеского корабля"
 
 #: src-en/data/blueprints.xml.append:6195
 msgid ""
@@ -3199,7 +3556,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6196
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a11\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:6218
 msgid ""
@@ -3215,11 +3572,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s12\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:6227
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s12\"]/powerList/power[1]"
 msgstr ""
+"Активная способность (3 заряда): Порождает барьер, способный остановить 2 "
+"снаряда"
 
 #: src-en/data/blueprints.xml.append:6228
 msgid ""
@@ -3231,7 +3595,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6229
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s12\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:6251
 msgid ""
@@ -3247,11 +3611,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s13\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:6260
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s13\"]/powerList/power[1]"
 msgstr ""
+"Активная способность (3 заряда): Накладывает на выбранный отсек заклинание, "
+"которое его запирает"
 
 #: src-en/data/blueprints.xml.append:6261
 msgid ""
@@ -3263,7 +3634,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6262
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s13\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:6284
 msgid ""
@@ -3279,11 +3650,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s14\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:6293
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s14\"]/powerList/power[1]"
 msgstr ""
+"Активная способность (2 заряда): Накладывает на выбранный отсек заклинание, "
+"которое порождает случайного союзника"
 
 #: src-en/data/blueprints.xml.append:6294
 msgid ""
@@ -3295,7 +3673,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6295
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s14\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:6317
 msgid ""
@@ -3311,11 +3689,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s15\"]/desc"
 msgstr ""
+"Вампсорняки-сектанты, специализируются на произнесении заклинаний, и "
+"используют силу Бутона, чтобы защитить себя и уничтожить врагов.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:6326
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s15\"]/powerList/power[1]"
 msgstr ""
+"Активная способность (3 заряда): Накладывает на выбранный отсек заклинание, "
+"которое контролирует разум случайного врага"
 
 #: src-en/data/blueprints.xml.append:6327
 msgid ""
@@ -3327,7 +3712,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6328
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s15\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:6353
 msgid ""
@@ -3348,11 +3733,15 @@ msgstr "Артиллерия заклинаний"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_SPELL_ARTILLERY\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 14] Использует силу Бутона для создания заклинаний на "
+"вражеском корабле."
 
 #: src-en/data/blueprints.xml.append:6405
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_SPELL_ARTILLERY\"]/tooltip"
 msgstr ""
+"Артиллерия: Использует силу Бутона для создания заклинаний на вражеском "
+"корабле."
 
 #: src-en/data/blueprints.xml.append:6435
 msgid ""
@@ -3516,6 +3905,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_SPELL_14_OLD\"]/tooltip"
 msgstr ""
+"Бомбовое оружие; требует боеголовки; наносит 2 урона, но наносит урон только "
+"системам, а не корпусу. Может быть нацелено на ваш собственный корабль."
 
 #: src-en/data/blueprints.xml.append:7206
 msgid ""
@@ -3538,6 +3929,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_SPELL_15_OLD\"]/tooltip"
 msgstr ""
+"Бомбовое оружие; требует боеголовки; наносит 2 урона, но наносит урон только "
+"системам, а не корпусу. Может быть нацелено на ваш собственный корабль."
 
 #: src-en/data/blueprints.xml.append:7288
 msgid ""
@@ -4207,6 +4600,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_01\"]/desc"
 msgstr ""
+"Накладывает заклинание, защищающее текущий отсек от урона корпуса и системы "
+"на 10 секунд.\n"
+"\tЗадержка наложения заклинания: 1 секунда\n"
+"\tВремя зарядки: 20 секунд\n"
+"\tИспользований за бой: 5"
 
 #: src-en/data/blueprints.xml.append:8155
 msgid ""
@@ -4227,6 +4625,10 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_02\"]/desc"
 msgstr ""
+"Накладывает заклинание, которое перенацеливает все вражеские снаряды на "
+"экране на выбранный отсек.\n"
+"\tЗадержка наложения заклинания: 1 секунда\n"
+"\tВремя заряда: 20 секунд"
 
 #: src-en/data/blueprints.xml.append:8177
 msgid ""
@@ -4247,6 +4649,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_03\"]/desc"
 msgstr ""
+"Накладывает заклинание, которое пробивает все обычные щиты на выбранном "
+"отсеке, нанося 45 единиц урона экипажу.\n"
+"\tЗадержка наложения заклинания: 3 секунды\n"
+"\tВремя зарядки: 20 секунд\n"
+"\tИспользований за бой: 3"
 
 #: src-en/data/blueprints.xml.append:8200
 msgid ""
@@ -4267,6 +4674,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_04\"]/desc"
 msgstr ""
+"Накладывает заклинание, которое пробивает все обычные щиты на выбранном "
+"отсеке, нанося 1 ед. урона.\n"
+"\tЗадержка наложения заклинания: 8 секунд\n"
+"\tВремя зарядки: 20 секунд\n"
+"\tИспользований за бой: 2"
 
 #: src-en/data/blueprints.xml.append:8224
 msgid ""
@@ -4287,6 +4699,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_05\"]/desc"
 msgstr ""
+"Накладывает 3 заклинания, которые пробивают все обычные щиты на выбранном "
+"отсеке, нанося 1 ед. урона.\n"
+"\tЗадержка наложения: 20 секунд\n"
+"\tВремя зарядки: 20 секунд\n"
+"\tИспользований за бой: 2"
 
 #: src-en/data/blueprints.xml.append:8247
 msgid ""
@@ -4307,6 +4724,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_06\"]/desc"
 msgstr ""
+"Накладывает заклинание, которое пробивает все обычные щиты на выбранном "
+"отсеке, нанося 3 урона корпусу, но не нанося урона системе и экипажу.\n"
+"\tЗадержка наложения заклинания: 10 секунд\n"
+"\tВремя зарядки: 20 секунд\n"
+"\tИспользований за бой: 2"
 
 #: src-en/data/blueprints.xml.append:8270
 msgid ""
@@ -4327,6 +4749,10 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_07\"]/desc"
 msgstr ""
+"Накладывает в текущем отсеке заклинание, которое перемещает всех членов "
+"экипажа в случайный отсек на другой корабль.\n"
+"\tЗадержка наложения заклинания: 6 секунд\n"
+"\tВремя зарядки: 20 секунд"
 
 #: src-en/data/blueprints.xml.append:8292
 msgid ""
@@ -4372,6 +4798,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_09\"]/desc"
 msgstr ""
+"Накладывает заклинание, пробивающее все щиты на выбранный отсек и исцеляющее "
+"всех дружественных экипажей на 75 ОЗ.\n"
+"\tЗадержка наложения: 2 секунды\n"
+"\tВремя зарядки: 20 секунд\n"
+"\tИспользований за бой: 3"
 
 #: src-en/data/blueprints.xml.append:8337
 msgid ""
@@ -4392,6 +4823,10 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_10\"]/desc"
 msgstr ""
+"Накладывает на текущий отсек заклинание, которое исцеляет всех дружественных "
+"экипажей в отсеке на 45 ОЗ.\n"
+"\tЗадержка наложения заклинания: 5 секунд\n"
+"\tВремя зарядки: 20 секунд"
 
 #: src-en/data/blueprints.xml.append:8359
 msgid ""
@@ -4412,6 +4847,10 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_11\"]/desc"
 msgstr ""
+"Порождает консервативный боевой дрон возле вражеского корабля.\n"
+"\tНакладывает задержку: 10 секунд\n"
+"\tВремя зарядки: 20 секунд\n"
+"\tИспользований за бой: 1"
 
 #: src-en/data/blueprints.xml.append:8382
 msgid ""
@@ -4432,6 +4871,12 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_12\"]/desc"
 msgstr ""
+"Накладывает заклинание, которое пробивает все обычные щиты на выбранном "
+"отсеке, порождает барьер, способный блокировать 2 снаряда. Не может быть "
+"одновременно активно более 8 барьеров.\n"
+"\tЗадержка наложения: 2 секунды\n"
+"\tВремя зарядки: 20 секунд\n"
+"\tИспользований за бой: 3"
 
 #: src-en/data/blueprints.xml.append:8405
 msgid ""
@@ -4452,6 +4897,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_13\"]/desc"
 msgstr ""
+"Накладывает на выбранный отсек заклинание, которое пробивает все обычные "
+"щиты и запирает отсек.\n"
+"\tЗадержка наложения: 4 секунды\n"
+"\tВремя зарядки: 20 секунд\n"
+"\tИспользований за бой: 3"
 
 #: src-en/data/blueprints.xml.append:8428
 msgid ""
@@ -4472,6 +4922,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_14\"]/desc"
 msgstr ""
+"Накладывает заклинание, пробивающее все обычные щиты на выбранном отсеке, в "
+"котором появляется случайный союзник.\n"
+"\tЗадержка наложения заклинания: 7 секунд\n"
+"\tВремя зарядки: 20 секунд\n"
+"\tИспользований за бой: 2"
 
 #: src-en/data/blueprints.xml.append:8451
 msgid ""
@@ -4492,6 +4947,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_15\"]/desc"
 msgstr ""
+"Накладывает на выбранный отсек заклинание, пробивающее все обычные щиты и "
+"контролирующее разум противника в течение 20 секунд.\n"
+"\tЗадержка наложения заклинания: 8 секунд\n"
+"\tВремя заряда: 20 секунд\n"
+"\tИспользований за бой: 3"
 
 #: src-en/data/blueprints.xml.append:8474
 msgid ""
@@ -4617,6 +5077,8 @@ msgstr "Генератор барьеров"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_BARRIER_RELAY\"]/desc"
 msgstr ""
+"Генерирует барьер каждый раз, когда вы стреляете из оружия, может "
+"сгенерировать до 8 активных барьеров."
 
 #: src-en/data/blueprints.xml.append:8903
 msgid ""
@@ -4660,6 +5122,16 @@ msgstr "Космический кит"
 #: src-en/data/blueprints.xml.append:9064
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_AUG_WHALE\"]/desc"
 msgstr ""
+"Вы - космический кит.\n"
+" - Абордажники получают урон находясь на вашем корабле со скоростью 3 ОЗ/с.\n"
+"  - Ваша кислородная установка не может наполнить ваш \"корабль\" кислородом "
+"(это приведет к взрыву), однако кислородная установка уровня 1 дает "
+"иммунитет к удушью ВСЕМ членам экипажа, а каждый уровень кислорода также "
+"увеличивает урон, наносимый со временем вражескому экипажу, на 1 ОЗ/с.\n"
+"  - Каждый раз, когда вражеский экипаж погибает на вашем корабле, вы "
+"получаете 1 урона корпусу.\n"
+"  - Каждая пробоина на борту корабля снижает скорость зарядки оружия и "
+"скорость перезарядки щита на 5%."
 
 #: src-en/data/blueprints.xml.append:9075
 msgid ""
@@ -4679,7 +5151,7 @@ msgstr "Большое приключение Крошки, связанное �
 #: src-en/data/blueprints.xml.append:9155
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_sup\"]/title"
-msgstr ""
+msgstr "Жрец поддержки Вампсорняков"
 
 #: src-en/data/blueprints.xml.append:9156
 msgid ""
@@ -4690,26 +5162,36 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_sup\"]/desc"
 msgstr ""
+"Этот жрец Вампсорняков специализируется на накладывании заклинаний "
+"поддержки, которые используются для усиления и защиты корабля.\n"
+"Возможные заклинания: [Защита], [Барьер] и [Союзник].\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9165
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_sup\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Накладывает случайное заклинание поддержки на "
+"выбранный отсек"
 
 #: src-en/data/blueprints.xml.append:9166
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_sup\"]/powerList/power[2]"
 msgstr ""
+"Скорость дальних атак увеличивается в четыре раза, но наносит только 0.5х "
+"урон в дальнем бою"
 
 #: src-en/data/blueprints.xml.append:9167
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_sup\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9177
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_off\"]/title"
-msgstr ""
+msgstr "Жрец преступников-Вампсорняков"
 
 #: src-en/data/blueprints.xml.append:9178
 msgid ""
@@ -4720,26 +5202,37 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_off\"]/desc"
 msgstr ""
+"Этот жрец Вампсорняков специализируется на накладывании наступательных "
+"заклинаний, которые используются для атаки вражеского корабля.\n"
+"Возможные заклинания: [Болт], [Противокорпусный болт], [Дрон] и [Блокировка]."
+"\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75% "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9187
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_off\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Накладывает случайное атакующее заклинание на "
+"выбранный отсек"
 
 #: src-en/data/blueprints.xml.append:9188
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_off\"]/powerList/power[2]"
 msgstr ""
+"Скорость дальних атак увеличивается в четыре раза, но наносит только 0.5х "
+"урон в дальнем бою"
 
 #: src-en/data/blueprints.xml.append:9189
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_off\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9199
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_bor\"]/title"
-msgstr ""
+msgstr "Жрец абордажников-Вампсорняков"
 
 #: src-en/data/blueprints.xml.append:9200
 msgid ""
@@ -4750,25 +5243,37 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_bor\"]/desc"
 msgstr ""
+"Жрец Вампсорняков специализируется на абордажных заклинаниях, которые "
+"используются для борьбы с вражеским экипажем.\n"
+"Возможные заклинания: [Био-болт], [Варп-болт], [Союзник] и [Болт разума].\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9209
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_bor\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Накладывает случайное абордажное заклинание на "
+"выбранный отсек"
 
 #: src-en/data/blueprints.xml.append:9210
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_bor\"]/powerList/power[2]"
 msgstr ""
+"Скорость дальних атак увеличивается в четыре раза, но наносит только 0.5х "
+"урон в дальнем бою"
 
 #: src-en/data/blueprints.xml.append:9211
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_bor\"]/powerList/power[3]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9221
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_seed\"]/desc"
 msgstr ""
+"Семя, подаренное вам могущественным цветком, которому поклоняются "
+"Вампсорняки-сектанты."
 
 #: src-en/data/blueprints.xml.append:9222
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_seed\"]/title"
@@ -4782,15 +5287,17 @@ msgstr "Сид"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_seed\"]/powerList/power[1]"
 msgstr ""
+"Может перемещаться, только если в отсеке находится другой экипаж, но "
+"замедляет весь находящихся в отсеке экипаж до той же скорости."
 
 #: src-en/data/blueprints.xml.append:9228
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_seed\"]/powerList/power[2]"
-msgstr ""
+msgstr "Хрупкий предмет, его нельзя клонировать или исцелить."
 
 #: src-en/data/blueprints.xml.append:9237
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/title"
-msgstr "Крошка-вампсорняк сектант"
+msgstr "Крошка-Вампсорняк сектант"
 
 #: src-en/data/blueprints.xml.append:9238
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/short"
@@ -4799,6 +5306,11 @@ msgstr "Крошечный сектант"
 #: src-en/data/blueprints.xml.append:9239
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9246
 msgid ""
@@ -4814,26 +5326,31 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9249
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/powerList/power[4]"
 msgstr ""
+"Активная способность: Произносит заклинание в текущем отсеке, которое ничего "
+"не делает."
 
 #: src-en/data/blueprints.xml.append:9250
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9251
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9260
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a01\"]/title"
-msgstr "Крошка-вампсорняк сектант [Защита]"
+msgstr "Крошка-Вампсорняк сектант [Защита]"
 
 #: src-en/data/blueprints.xml.append:9261
 msgid ""
@@ -4844,6 +5361,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a01\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9269
 msgid ""
@@ -4859,26 +5381,31 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a01\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9272
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a01\"]/powerList/power[4]"
 msgstr ""
+"Активная способность (5 зарядов): Накладывает заклинание, которое защищает "
+"текущий отсек от урона корпусу и системе на 10 секунд"
 
 #: src-en/data/blueprints.xml.append:9273
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a01\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9274
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a01\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9285
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a02\"]/title"
-msgstr "Крошка-вампсорняк сектант [Маяк]"
+msgstr "Крошка-Вампсорняк сектант [Маяк]"
 
 #: src-en/data/blueprints.xml.append:9286
 msgid ""
@@ -4889,6 +5416,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a02\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9294
 msgid ""
@@ -4904,26 +5436,31 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a02\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9297
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a02\"]/powerList/power[4]"
 msgstr ""
+"Активная способность: Накладывает заклинание, которое перенацеливает все "
+"вражеские снаряды на экране на текущий отсек"
 
 #: src-en/data/blueprints.xml.append:9298
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a02\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9299
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a02\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9310
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s03\"]/title"
-msgstr "Крошка-вампсорняк сектант [Био-болт]"
+msgstr "Крошка-Вампсорняк сектант [Био-болт]"
 
 #: src-en/data/blueprints.xml.append:9311
 msgid ""
@@ -4934,6 +5471,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s03\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9319
 msgid ""
@@ -4949,26 +5491,31 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s03\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9322
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s03\"]/powerList/power[4]"
 msgstr ""
+"Активная способность (3 заряда): Накладывает заклинание на выбранный отсек, "
+"наносящее 45 единиц урона по экипажу."
 
 #: src-en/data/blueprints.xml.append:9323
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s03\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9324
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s03\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9335
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s04\"]/title"
-msgstr "Крошка-вампсорняк сектант [Болт]"
+msgstr "Крошка-Вампсорняк сектант [Болт]"
 
 #: src-en/data/blueprints.xml.append:9336
 msgid ""
@@ -4979,6 +5526,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s04\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9344
 msgid ""
@@ -4994,26 +5546,31 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s04\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9347
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s04\"]/powerList/power[4]"
 msgstr ""
+"Активная способность (2 заряда): Накладывает заклинание на выбранный отсек, "
+"наносящее 1 урон."
 
 #: src-en/data/blueprints.xml.append:9348
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s04\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9349
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s04\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9360
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s05\"]/title"
-msgstr "Крошка-вампсорняк сектант [Импульсный болт]"
+msgstr "Крошка-Вампсорняк сектант [Импульсный болт]"
 
 #: src-en/data/blueprints.xml.append:9361
 msgid ""
@@ -5024,6 +5581,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s05\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9369
 msgid ""
@@ -5039,26 +5601,31 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s05\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9372
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s05\"]/powerList/power[4]"
 msgstr ""
+"Активная способность (2 заряда): Накладывает 3 заклинания на выбранный "
+"отсек, нанося по 1 урону каждое."
 
 #: src-en/data/blueprints.xml.append:9373
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s05\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9374
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s05\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9385
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s06\"]/title"
-msgstr "Крошка-вампсорняк сектант [Противокорпусный болт]"
+msgstr "Крошка-Вампсорняк сектант [Противокорпусный болт]"
 
 #: src-en/data/blueprints.xml.append:9386
 msgid ""
@@ -5069,6 +5636,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s06\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9394
 msgid ""
@@ -5084,26 +5656,31 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s06\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9397
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s06\"]/powerList/power[4]"
 msgstr ""
+"Активная способность (2 заряда): Накладывает на выбранный отсек заклинание, "
+"наносящее 3 урона корпусу корабля, но не наносящее урона системе и экипажу."
 
 #: src-en/data/blueprints.xml.append:9398
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s06\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9399
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s06\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9410
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a07\"]/title"
-msgstr "Крошка-вампсорняк сектант [Варп]"
+msgstr "Крошка-Вампсорняк сектант [Варп]"
 
 #: src-en/data/blueprints.xml.append:9411
 msgid ""
@@ -5114,6 +5691,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a07\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9419
 msgid ""
@@ -5129,26 +5711,31 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a07\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9422
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a07\"]/powerList/power[4]"
 msgstr ""
+"Активная способность: Накладывает в текущем отсеке заклинание, которое "
+"перемещает весь экипаж в случайный отсек на другом корабле"
 
 #: src-en/data/blueprints.xml.append:9423
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a07\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9424
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a07\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9435
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s08\"]/title"
-msgstr "Крошка-вампсорняк сектант [Варп-болт]"
+msgstr "Крошка-Вампсорняк сектант [Варп-болт]"
 
 #: src-en/data/blueprints.xml.append:9436
 msgid ""
@@ -5159,6 +5746,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s08\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9444
 msgid ""
@@ -5174,26 +5766,31 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s08\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9447
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s08\"]/powerList/power[4]"
 msgstr ""
+"Активная способность: Накладывает на выбранный отсек заклинание, которое "
+"перемещает всех членов экипажа в случайный отсек на другом корабле"
 
 #: src-en/data/blueprints.xml.append:9448
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s08\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9449
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s08\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9460
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s09\"]/title"
-msgstr "Крошка-вампсорняк сектант [Исцеляющий болт]"
+msgstr "Крошка-Вампсорняк сектант [Исцеляющий болт]"
 
 #: src-en/data/blueprints.xml.append:9461
 msgid ""
@@ -5204,6 +5801,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s09\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9469
 msgid ""
@@ -5219,26 +5821,32 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s09\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9472
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s09\"]/powerList/power[4]"
 msgstr ""
+"Активная способность (3 заряда): Накладывает заклинание на самый низкий "
+"уровень здоровья (%) дружественного экипажа, которое исцеляет весь "
+"дружественный экипаж в отсеке на 75 ОЗ."
 
 #: src-en/data/blueprints.xml.append:9473
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s09\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9474
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s09\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9485
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a10\"]/title"
-msgstr "Крошка-вампсорняк сектант [Исцеляющая аура]"
+msgstr "Крошка-Вампсорняк сектант [Исцеляющая аура]"
 
 #: src-en/data/blueprints.xml.append:9486
 msgid ""
@@ -5249,6 +5857,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a10\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9494
 msgid ""
@@ -5264,26 +5877,31 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a10\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9497
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a10\"]/powerList/power[4]"
 msgstr ""
+"Активная способность: Накладывает в текущем отсеке заклинание, которое "
+"исцеляет всех дружественных членов экипажа на 45 ОЗ."
 
 #: src-en/data/blueprints.xml.append:9498
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a10\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9499
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a10\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9510
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a11\"]/title"
-msgstr "Крошка-вампсорняк сектант [Дрон]"
+msgstr "Крошка-Вампсорняк сектант [Дрон]"
 
 #: src-en/data/blueprints.xml.append:9511
 msgid ""
@@ -5294,6 +5912,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a11\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9519
 msgid ""
@@ -5309,26 +5932,31 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a11\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9522
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a11\"]/powerList/power[4]"
 msgstr ""
+"Активная способность (1 заряд): Порождает консервативный боевой дрон возле "
+"вражеского корабля"
 
 #: src-en/data/blueprints.xml.append:9523
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a11\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9524
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a11\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9535
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s12\"]/title"
-msgstr "Крошка-вампсорняк сектант [Барьер]"
+msgstr "Крошка-Вампсорняк сектант [Барьер]"
 
 #: src-en/data/blueprints.xml.append:9536
 msgid ""
@@ -5339,6 +5967,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s12\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9544
 msgid ""
@@ -5354,26 +5987,31 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s12\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9547
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s12\"]/powerList/power[4]"
 msgstr ""
+"Активная способность (3 заряда): Порождает барьер, способный остановить 2 "
+"снаряда"
 
 #: src-en/data/blueprints.xml.append:9548
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s12\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9549
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s12\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9560
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s13\"]/title"
-msgstr "Крошка-вампсорняк сектант [Блокировка]"
+msgstr "Крошка-Вампсорняк сектант [Блокировка]"
 
 #: src-en/data/blueprints.xml.append:9561
 msgid ""
@@ -5384,6 +6022,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s13\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9569
 msgid ""
@@ -5399,26 +6042,31 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s13\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9572
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s13\"]/powerList/power[4]"
 msgstr ""
+"Активная способность (3 заряда): Накладывает на выбранный отсек заклинание, "
+"которое его запирает"
 
 #: src-en/data/blueprints.xml.append:9573
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s13\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9574
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s13\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9585
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s14\"]/title"
-msgstr "Крошка-вампсорняк сектант [Союзник]"
+msgstr "Крошка-Вампсорняк сектант [Союзник]"
 
 #: src-en/data/blueprints.xml.append:9586
 msgid ""
@@ -5429,6 +6077,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s14\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9594
 msgid ""
@@ -5444,26 +6097,31 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s14\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9597
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s14\"]/powerList/power[4]"
 msgstr ""
+"Активная способность (2 заряда): Накладывает на выбранный отсек заклинание, "
+"которое порождает случайного союзника"
 
 #: src-en/data/blueprints.xml.append:9598
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s14\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9599
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s14\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9610
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s15\"]/title"
-msgstr "Крошка-вампсорняк сектант [Болт разума]"
+msgstr "Крошка-Вампсорняк сектант [Болт разума]"
 
 #: src-en/data/blueprints.xml.append:9611
 msgid ""
@@ -5474,6 +6132,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s15\"]/desc"
 msgstr ""
+"Крошка-сектант Вампсорняков, способная накладывать заклинания в два раза "
+"быстрее обычных сектантов и у которой никогда не кончатся заряды.\n"
+"\n"
+"Наследует характеристики орхидей: немного снижен урон от удушья, на 75 % "
+"больше урона от огня, пополняет запасы кислорода"
 
 #: src-en/data/blueprints.xml.append:9619
 msgid ""
@@ -5489,21 +6152,26 @@ msgstr "1.5х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s15\"]/powerList/power[3]"
 msgstr ""
+"2х скорость перезарядки заклинаний, заряд заклинаний не может закончиться"
 
 #: src-en/data/blueprints.xml.append:9622
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s15\"]/powerList/power[4]"
 msgstr ""
+"Активная способность (3 заряда): Накладывает на выбранный отсек заклинание, "
+"которое контролирует разум случайного врага"
 
 #: src-en/data/blueprints.xml.append:9623
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s15\"]/powerList/power[5]"
 msgstr ""
+"Скорость дальних атак увеличивается в три раза, но наносит только 0.5х урон "
+"в дальнем бою."
 
 #: src-en/data/blueprints.xml.append:9624
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s15\"]/powerList/power[6]"
-msgstr ""
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
 
 #: src-en/data/blueprints.xml.append:9637
 msgid ""
@@ -5518,11 +6186,19 @@ msgstr "Ракушка-анархист"
 #: src-en/data/blueprints.xml.append:9639
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_shell\"]/desc"
 msgstr ""
+"Ракушки-Анархисты - фракция, отделившаяся от основного правительства "
+"ракушек. Они используют генную инженерию, используя генетический материал "
+"своих собратьев-слизней, чтобы манипулировать вражеским экипажем, "
+"контролируя его сознание."
 
 #: src-en/data/blueprints.xml.append:9644
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_shell\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Взрывается, нанося сильный урон себе, одновременно "
+"нанося 75 урона всему вражескому экипажу, который находится под контролем "
+"разума в отсеке, но не может снизить их уровень здоровья ниже 10 ОЗ. После "
+"этого медленно восстанавливает здоровье."
 
 #: src-en/data/blueprints.xml.append:9645
 msgid ""
@@ -5542,6 +6218,9 @@ msgstr "Получает 0.6x урона в бою с экипажем"
 #: src-en/data/blueprints.xml.append:9652
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_slug\"]/desc"
 msgstr ""
+"Эти слизни были отвергнуты всей вселенной и теперь стремятся уничтожить все "
+"правительства. Их био-бомбы были усовершенствованы дыхательными аппаратами, "
+"и теперь в отсеке выделяется токсичный газ."
 
 #: src-en/data/blueprints.xml.append:9653
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_slug\"]/title"
@@ -5555,6 +6234,8 @@ msgstr "Слизень-анархист"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_slug\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Размещает токсинную бомбу, наполненную газом, "
+"контролирующим разум, но при этом временно становится неподвижным и скрытым."
 
 #: src-en/data/blueprints.xml.append:9660
 msgid ""
@@ -5566,12 +6247,18 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9661
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_slug\"]/powerList/power[3]"
-msgstr ""
+msgstr "Невосприимчивость к контролю разума и токсинам"
 
 #: src-en/data/blueprints.xml.append:9681
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_sickle\"]/desc"
 msgstr ""
+"Изначально Серп была членом Атаманов, но потом, взяв с собой неожиданного "
+"напарника, ракушку, основала фракцию Анархистов. Теперь она борется против "
+"тирании как слизней, так и ракушек.\n"
+"\t\t\n"
+"Наследует характеристики слизней: телепатические способности, иммунитет к "
+"контролю разума"
 
 #: src-en/data/blueprints.xml.append:9684
 msgid ""
@@ -5587,6 +6274,9 @@ msgstr "Серп"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_sickle\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Размещает бомбу с токсинами, наполненную мощнейшим "
+"газом для контроля разума, становится временно скрытой, двигается и атакует "
+"с пониженной эффективностью"
 
 #: src-en/data/blueprints.xml.append:9691
 msgid ""
@@ -5601,12 +6291,18 @@ msgstr "Наносит 1.6х урона в бою с экипажем"
 #: src-en/data/blueprints.xml.append:9693
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_sickle\"]/powerList/power[4]"
-msgstr ""
+msgstr "Иммунитет к оглушению и токсинам"
 
 #: src-en/data/blueprints.xml.append:9698
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_sorrow\"]/desc"
 msgstr ""
+"Вначале Скорбь была Лучезарной ракушкой, но когда она ушла к своему "
+"напарнику, слизню Атаманов, то модифицировала себя с помощью технологий "
+"слизней.\n"
+"\t\t\n"
+"Наследует характеристики ракушек: удвоенный урон от удушья, 0.9х урон "
+"получаемый в бою с экипажем"
 
 #: src-en/data/blueprints.xml.append:9701
 msgid ""
@@ -5622,6 +6318,9 @@ msgstr "Скорбь"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shleg_sorrow\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Взрывается, нанося сильный урон себе, одновременно "
+"убивая весь экипаж, который находится под контролем разума в отсеке. "
+"Маскируется, регенерируя здоровье."
 
 #: src-en/data/blueprints.xml.append:9708
 msgid ""
@@ -5643,6 +6342,16 @@ msgstr "Инкубационный газ"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHLEG_MIND_GAS\"]/desc"
 msgstr ""
+"Эта странная формула газа ракушек содержит токсины, разработанные "
+"Анархистами ракушками для контроля разума вражеского экипажа. Эффект "
+"накапливается со скоростью 5 ОЗ/с, и когда он достигает текущего уровня "
+"здоровья экипажа, враг оказывается под контролем разума. Предотвращает "
+"попадание под контроль разума экипажа союзников. Наносит урон вражеским "
+"абордажникам со скоростью 3 ОЗ/с.\n"
+"\t\n"
+"Дроны и следующие виды будут невосприимчивы к урону и контролю разума модуля:"
+"\n"
+"Ракушки, Вампсорняки, ланиусы, призраки."
 
 #: src-en/data/blueprints.xml.append:9725
 msgid ""
@@ -5653,6 +6362,16 @@ msgstr "Инкубационный газ"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_AEA_SHLEG_MIND_GAS\"]/desc"
 msgstr ""
+"Эта странная формула газа ракушек содержит токсины, разработанные "
+"Анархистами ракушками для контроля разума вражеского экипажа. Эффект "
+"накапливается со скоростью 5 ОЗ/с, и когда он достигает текущего уровня "
+"здоровья экипажа, враг оказывается под контролем разума. Предотвращает "
+"попадание под контроль разума экипажа союзников. Наносит урон вражеским "
+"абордажникам со скоростью 3 ОЗ/с.\n"
+"\t\n"
+"Дроны и следующие виды будут невосприимчивы к урону и контролю разума модуля:"
+"\n"
+"Ракушки, Вампсорняки, ланиусы, призраки."
 
 #: src-en/data/blueprints.xml.append:9736
 msgid ""
@@ -5663,24 +6382,50 @@ msgstr "Инкубационный газ+"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_AEA_SHLEG_MIND_GAS_PLUS\"]/desc"
 msgstr ""
+"Эта странная формула газа ракушек содержит токсины, разработанные "
+"Анархистами ракушками для контроля разума вражеского экипажа. Эффект "
+"накапливается со скоростью 10 ОЗ/с, и когда он достигает текущего уровня "
+"здоровья экипажа, враг оказывается под контролем разума. Предотвращает "
+"попадание под контроль разума экипажа союзников. Наносит урон вражеским "
+"абордажникам со скоростью 6 ОЗ/с.\n"
+"\t\n"
+"Дроны и следующие виды будут невосприимчивы к урону и контролю разума модуля:"
+"\n"
+"Ракушки, Вампсорняки, ланиусы, призраки."
 
 #: src-en/data/blueprints.xml.append:9748
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHLEG_GEL\"]/title"
-msgstr ""
+msgstr "Гель ракушек-слизней"
 
 #: src-en/data/blueprints.xml.append:9749
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHLEG_GEL\"]/desc"
 msgstr ""
+"Корабли слизней выделяют густой гель, который заделывает пробоины и "
+"покрывает внутренности пустых отсеков, лечит дружественной экипаж со "
+"скоростью 3 ОЗ/с и наносит 3 ОЗ/с урона вражескому экипажу в пустых отсеках."
+"\n"
+"Также это более дешевый вариант для ремонта на пустых маяках.\n"
+"\n"
+"Дроны и следующие виды будут невосприимчивы к урону модуля:\n"
+"Ракушки, Вампсорняки, ланиусы, призраки."
 
 #: src-en/data/blueprints.xml.append:9760
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_AEA_SHLEG_GEL\"]/title"
-msgstr ""
+msgstr "Гель ракушек-слизней"
 
 #: src-en/data/blueprints.xml.append:9761
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LOCKED_AEA_SHLEG_GEL\"]/desc"
 msgstr ""
+"Корабли слизней выделяют густой гель, который заделывает пробоины и "
+"покрывает внутренности пустых отсеков, лечит дружественной экипаж со "
+"скоростью 3 ОЗ/с и наносит 3 ОЗ/с урона вражескому экипажу в пустых отсеках."
+"\n"
+"Также это более дешевый вариант для ремонта на пустых маяках.\n"
+"\n"
+"Дроны и следующие виды будут невосприимчивы к урону модуля:\n"
+"Ракушки, Вампсорняки, ланиусы, призраки."
 
 #: src-en/data/blueprints.xml.append:9776
 msgid ""
@@ -5696,11 +6441,13 @@ msgstr "Инк. бомба"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_BOMB_FAKE\"]/desc"
 msgstr ""
+"Эта бомба выпускает токсичный газ, который наносит 3 ОЗ/с и устанавливает "
+"контроль над разумом вражеского экипажа."
 
 #: src-en/data/blueprints.xml.append:9780
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_BOMB_FAKE\"]/tooltip"
-msgstr ""
+msgstr "Не наносит урона корпусу и системе, но наносит большой биоурон."
 
 #: src-en/data/blueprints.xml.append:9819
 msgid ""
@@ -5716,11 +6463,13 @@ msgstr "Инк. бомба"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_BOMB_FAKE_SHORT\"]/desc"
 msgstr ""
+"Эта бомба выпускает токсичный газ, который наносит 3 ОЗ/с и устанавливает "
+"контроль над разумом вражеского экипажа."
 
 #: src-en/data/blueprints.xml.append:9823
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_BOMB_FAKE_SHORT\"]/tooltip"
-msgstr ""
+msgstr "Не наносит урона корпусу и системе, но наносит большой биоурон."
 
 #: src-en/data/blueprints.xml.append:9863
 msgid ""
@@ -5736,11 +6485,13 @@ msgstr "Инк. бомба"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_BOMB\"]/desc"
 msgstr ""
+"Эта бомба выпускает токсичный газ, который наносит 3 ОЗ/с и устанавливает "
+"контроль над разумом вражеского экипажа."
 
 #: src-en/data/blueprints.xml.append:9867
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_BOMB\"]/tooltip"
-msgstr ""
+msgstr "Не наносит урона корпусу и системе, но наносит большой биоурон."
 
 #: src-en/data/blueprints.xml.append:9913
 msgid ""
@@ -5756,11 +6507,13 @@ msgstr "Гипнос"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_MISSILES\"]/desc"
 msgstr ""
+"Мощная ракета, наполненная токсичным газом, который наносит 3 ОЗ/с урона и "
+"устанавливает контроль над разумом вражеского экипажа."
 
 #: src-en/data/blueprints.xml.append:9916
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_MISSILES\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 1 ракету; наносит 3 урона; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:9972
 msgid ""
@@ -5776,11 +6529,13 @@ msgstr "Гипнос"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_MISSILES_LOOT\"]/desc"
 msgstr ""
+"Мощная ракета, наполненная токсичным газом, который наносит 3 ОЗ/с урона и "
+"устанавливает контроль над разумом вражеского экипажа."
 
 #: src-en/data/blueprints.xml.append:9975
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_MISSILES_LOOT\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 1 ракету; наносит 3 урона; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:10032
 msgid ""
@@ -5915,11 +6670,16 @@ msgstr "Инкубационная лучевая артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHLEG_1\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 20] Выпускает более концентрированный луч хаотического "
+"газа. Наносит незначительный урон экипажу и системам, а также заполняет "
+"отсек, в который попадает, инкубационным газом."
 
 #: src-en/data/blueprints.xml.append:10579
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHLEG_1\"]/tooltip"
 msgstr ""
+"Артиллерия: 1 системный урон за отсек. Заполняет отсеки инкубационным газом, "
+"который наносит урон и контролирует разум врагов с течением времени."
 
 #: src-en/data/blueprints.xml.append:10624
 msgid ""
@@ -5940,11 +6700,14 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHLEG_1_ENEMY\"]/tooltip"
 msgstr ""
+"Артиллерия: 1 системный урон за отсек. Заполняет отсеки инкубационным газом, "
+"который наносит урон и контролирует разум врагов с течением времени."
 
 #: src-en/data/blueprints.xml.append:10673
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/desc"
 msgstr ""
+"Группа пиратов, которые принимают в свои ряды только других кристаллинов."
 
 #: src-en/data/blueprints.xml.append:10674
 msgid ""
@@ -5960,6 +6723,8 @@ msgstr "Ломатель Осколков"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/powerList/power[1]"
 msgstr ""
+"Активная способность (2 заряда): Запирает отсеки, нанося урон врагам, но "
+"теряя возможность сражаться. Каждое использование отнимает 25 здоровья."
 
 #: src-en/data/blueprints.xml.append:10681
 msgid ""
@@ -5980,6 +6745,7 @@ msgstr "Наносит 0.8х урона в бою с экипажем"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/desc"
 msgstr ""
+"Группа пиратов, которые принимают в свои ряды только других кристаллинов."
 
 #: src-en/data/blueprints.xml.append:10702
 msgid ""
@@ -5995,6 +6761,8 @@ msgstr "Разбиватель осколков"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/powerList/power[1]"
 msgstr ""
+"Активная способность (2 заряда): Запирает отсеки, нанося урон врагам, но "
+"теряя возможность сражаться. Каждое использование отнимает 25 здоровья."
 
 #: src-en/data/blueprints.xml.append:10709
 msgid ""
@@ -6014,6 +6782,7 @@ msgstr "Наносит 0.8х урона в бою с экипажем"
 #: src-en/data/blueprints.xml.append:10729
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/desc"
 msgstr ""
+"Группа пиратов, которые принимают в свои ряды только других кристаллинов."
 
 #: src-en/data/blueprints.xml.append:10730
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/title"
@@ -6027,6 +6796,8 @@ msgstr "Осколок Рассвета"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/powerList/power[1]"
 msgstr ""
+"Активная способность (2 заряда): Запирает отсеки, нанося урон врагам, но "
+"теряя возможность сражаться. Каждое использование отнимает 25 здоровья."
 
 #: src-en/data/blueprints.xml.append:10737
 msgid ""
@@ -6105,11 +6876,16 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 20] Медленно заряжающаяся дуэльная лазерная пушка, "
+"которая выпускает 2 лазера за залп с каждого ствола, всего 4 выстрела за "
+"заряд."
 
 #: src-en/data/blueprints.xml.append:10990
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE\"]/tooltip"
 msgstr ""
+"Артиллерия: Относительно медленно заряжающаяся очередь лазеров, способная "
+"пробить один слой щитов."
 
 #: src-en/data/blueprints.xml.append:11021
 msgid ""
@@ -6130,6 +6906,8 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE_ENEMY\"]/tooltip"
 msgstr ""
+"Артиллерия: Относительно медленно заряжающаяся очередь лазеров, способная "
+"пробить один слой щитов."
 
 #: src-en/data/blueprints.xml.append:11055
 msgid ""
@@ -6150,11 +6928,13 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE_ENEMY_OFFSET\"]/tooltip"
 msgstr ""
+"Артиллерия: Относительно медленно заряжающаяся очередь лазеров, способная "
+"пробить один слой щитов."
 
 #: src-en/data/blueprints.xml.append:11096
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_FOCUS\"]/title"
-msgstr ""
+msgstr "Импульсная точечная артиллерия"
 
 #: src-en/data/blueprints.xml.append:11097
 msgid ""
@@ -6170,6 +6950,8 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_FOCUS\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 20] Мощная точечная лучевая артиллерия, способная "
+"последовательно выпускать несколько точечных лучей."
 
 #: src-en/data/blueprints.xml.append:11100
 msgid ""
@@ -6197,7 +6979,7 @@ msgstr "Улучшенный точечный луч, наносящий 3 ур�
 #: src-en/data/blueprints.xml.append:11126
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BROADSIDE_FOCUS_BEAM\"]/tooltip"
-msgstr ""
+msgstr "Один урон за каждый отсек в который попадет."
 
 #: src-en/data/blueprints.xml.append:11148
 msgid ""
@@ -6213,11 +6995,15 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MISSILE\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 20] Выпускает пару ракет, которые наносят большой урон "
+"и никогда не промахиваются."
 
 #: src-en/data/blueprints.xml.append:11151
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MISSILE\"]/tooltip"
 msgstr ""
+"Артиллерия: Выпускает пару ракет, которые наносят большой урон и никогда не "
+"промахиваются."
 
 #: src-en/data/blueprints.xml.append:11186
 msgid ""
@@ -6233,11 +7019,15 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MINE\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 20] Выпускает залп ионизированных мин, которые наносят "
+"урон корпусу и ионизируют системы."
 
 #: src-en/data/blueprints.xml.append:11189
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MINE\"]/tooltip"
 msgstr ""
+"Артиллерия: Выпускает залп ионизированных мин, которые наносят урон корпусу "
+"и ионизируют системы."
 
 #: src-en/data/blueprints.xml.append:11225
 msgid ""
@@ -6271,11 +7061,15 @@ msgstr "Лазерная установка МФК"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_LASER\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 25/21/17] Медленно заряжающийся лазер, производящий 4 "
+"выстрела и наносящих двойной урон по пустым отсекам."
 
 #: src-en/data/blueprints.xml.append:11307
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_LASER\"]/tooltip"
 msgstr ""
+"Артиллерия: Медленно заряжающийся лазер, производящий 4 выстрела и наносящих "
+"двойной урон по пустым отсекам."
 
 #: src-en/data/blueprints.xml.append:11346
 msgid ""
@@ -6291,11 +7085,13 @@ msgstr "Ракета МФК"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_MISSILE\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 25/21/17] Выпускает 3 ракеты, которые наносят 1 урон и "
+"1 дополнительный урон системе."
 
 #: src-en/data/blueprints.xml.append:11349
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_MISSILE\"]/tooltip"
-msgstr ""
+msgstr "Артиллерия: Выпускает 3 ракеты; 1 урон каждая; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:11390
 msgid ""
@@ -6311,11 +7107,15 @@ msgstr "Лучевая установка МФК"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_BEAM\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 25/21/17] Длинный луч, наносящий 2 урона, наносит "
+"двойной урон по пустым отсекам."
 
 #: src-en/data/blueprints.xml.append:11393
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_BEAM\"]/tooltip"
 msgstr ""
+"Артиллерия: Длинный луч, наносящий 2 урона, наносит двойной урон по пустым "
+"отсекам."
 
 #: src-en/data/blueprints.xml.append:11419
 msgid ""
@@ -6331,11 +7131,14 @@ msgstr "Ионная установка МФК"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_ION\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 25/21/17] 3 выстрела ионами, наносящие 1 ионный урон и "
+"1 системный урон."
 
 #: src-en/data/blueprints.xml.append:11423
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_ION\"]/tooltip"
 msgstr ""
+"Артиллерия: 3 ионных выстрела, наносящего 1 ионный урон и 1 системный урон."
 
 #: src-en/data/blueprints.xml.append:11469
 msgid ""
@@ -6351,11 +7154,14 @@ msgstr "Хокояри"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_MULTI\"]/desc"
 msgstr ""
+"Потенциально невероятно мощный луч, подстраивающийся под окружающую среду. "
+"Количество одновременно выпущенных лучей увеличивается за выстрел, "
+"количество лучей не ограничено."
 
 #: src-en/data/blueprints.xml.append:11472
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_MULTI\"]/tooltip"
-msgstr ""
+msgstr "Лучевое оружие, 2 урона за отсек."
 
 #: src-en/data/blueprints.xml.append:11473
 msgid ""
