@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-02-27 17:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -694,30 +694,32 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Технология Еретиков."
 
 #: src-en/data/events_special_storage.xml.append:557
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Таинственная технология."
 
 #: src-en/data/events_special_storage.xml.append:563
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO\"]/text"
 msgstr ""
+"Судя по тому, какую технологию использует ваш корабль, вы сможете провести "
+"дальнейшее улучшение, используя эту технологию."
 
 #: src-en/data/events_special_storage.xml.append:565
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO\"]/choice[@req=\"aea_p_has_repair\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Ремонтная бомба [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:569
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO\"]/choice[@req=\"aea_p_has_repair\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Ремонтная бомба. [Цена: 20~]"
 
 #: src-en/data/events_special_storage.xml.append:573
 msgid ""
@@ -728,6 +730,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию Ремонтная бомба.\n"
+"\t[Эффекты: Ремонтирует все системы, когда целостность корпуса падает до 5, "
+"расходуется при использовании, может быть куплено повторно]"
 
 #: src-en/data/events_special_storage.xml.append:582
 msgid ""
@@ -752,6 +757,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/choice[@req=\"LIST_CREW_AEA_NECRO\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Это улучшение недоступно. Для проведения модернизации вам необходим "
+"энджи-Еретик."
 
 #: src-en/data/events_special_storage.xml.append:599
 msgid ""
@@ -762,208 +769,210 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/text"
 msgstr ""
+"Судя по таинственным технологиям в вашем грузе, вы можете провести "
+"дополнительную модернизацию, используя эти технологии."
 
 #: src-en/data/events_special_storage.xml.append:612
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"shields\"]/text"
-msgstr ""
+msgstr "Улучшить щиты. [НЕТ СИСТЕМЫ]"
 
 #: src-en/data/events_special_storage.xml.append:616
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_shields_upgrades\"]/text"
-msgstr ""
+msgstr "Улучшить щиты. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:620
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[3]/text"
-msgstr ""
+msgstr "Улучшить щиты. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
 
 #: src-en/data/events_special_storage.xml.append:624
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_shields\"]/text"
-msgstr ""
+msgstr "Улучшить щиты. [Цена: 120~, Высокотехнологичный компонент]"
 
 #: src-en/data/events_special_storage.xml.append:630
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "Улучшить двигатели. [НЕТ СИСТЕМЫ]"
 
 #: src-en/data/events_special_storage.xml.append:634
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_engines_upgrades\"]/text"
-msgstr ""
+msgstr "Улучшить двигатели. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:638
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[7]/text"
-msgstr ""
+msgstr "Улучшить двигатели. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
 
 #: src-en/data/events_special_storage.xml.append:642
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_engines\"]/text"
-msgstr ""
+msgstr "Улучшить двигатели. [Цена: 120~, Высокотехнологичный компонент]"
 
 #: src-en/data/events_special_storage.xml.append:648
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "Улучшить оружие. [НЕТ СИСТЕМЫ]"
 
 #: src-en/data/events_special_storage.xml.append:652
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_weapons_upgrades\"]/text"
-msgstr ""
+msgstr "Улучшить оружие. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:656
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[11]/text"
-msgstr ""
+msgstr "Улучшить оружие. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
 
 #: src-en/data/events_special_storage.xml.append:660
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_weapons\"]/text"
-msgstr ""
+msgstr "Улучшить оружие. [Цена: 120~, Высокотехнологичный компонент]"
 
 #: src-en/data/events_special_storage.xml.append:666
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"drones\"]/text"
-msgstr ""
+msgstr "Улучшить дроны. [НЕТ СИСТЕМЫ]"
 
 #: src-en/data/events_special_storage.xml.append:670
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_drones_upgrades\"]/text"
-msgstr ""
+msgstr "Улучшить дроны. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:674
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[15]/text"
-msgstr ""
+msgstr "Улучшить дроны. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
 
 #: src-en/data/events_special_storage.xml.append:678
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_drones\"]/text"
-msgstr ""
+msgstr "Улучшить дроны. [Цена: 120~, Высокотехнологичный компонент]"
 
 #: src-en/data/events_special_storage.xml.append:684
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "Улучшить маскировку. [НЕТ СИСТЕМЫ]"
 
 #: src-en/data/events_special_storage.xml.append:688
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_cloaking_upgrades\"]/text"
-msgstr ""
+msgstr "Улучшить маскировку. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:692
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[19]/text"
-msgstr ""
+msgstr "Улучшить маскировку. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
 
 #: src-en/data/events_special_storage.xml.append:696
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_cloaking\"]/text"
-msgstr ""
+msgstr "Улучшить маскировку. [Цена: 120~, Высокотехнологичный компонент]"
 
 #: src-en/data/events_special_storage.xml.append:702
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"mind\"]/text"
-msgstr ""
+msgstr "Улучшить Контроль разума. [НЕТ СИСТЕМЫ]"
 
 #: src-en/data/events_special_storage.xml.append:706
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_mind_upgrades\"]/text"
-msgstr ""
+msgstr "Улучшить Контроль разума. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:710
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[23]/text"
-msgstr ""
+msgstr "Улучшить Контроль разума. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
 
 #: src-en/data/events_special_storage.xml.append:714
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_mind\"]/text"
-msgstr ""
+msgstr "Улучшить Контроль разума. [Цена: 120~, Высокотехнологичный компонент]"
 
 #: src-en/data/events_special_storage.xml.append:720
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"hacking\""
 " and @lvl=\"-1\"]/text"
-msgstr ""
+msgstr "Улучшить Взломщик. [НЕТ СИСТЕМЫ]"
 
 #: src-en/data/events_special_storage.xml.append:724
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Улучшить Взломщик. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:728
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_hacking_upgrades\"]/text"
-msgstr ""
+msgstr "Улучшить Взломщик. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:732
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[28]/text"
-msgstr ""
+msgstr "Улучшить Взломщик. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
 
 #: src-en/data/events_special_storage.xml.append:736
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_hacking\"]/text"
-msgstr ""
+msgstr "Улучшить Взломщик. [Цена: 120~, Высокотехнологичный компонент]"
 
 #: src-en/data/events_special_storage.xml.append:742
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"medbay\"]/text"
-msgstr ""
+msgstr "Улучшить Медотсек. [НЕТ СИСТЕМЫ]"
 
 #: src-en/data/events_special_storage.xml.append:746
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_medbay_upgrades\"]/text"
-msgstr ""
+msgstr "Улучшить Медотсек. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:750
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[32]/text"
-msgstr ""
+msgstr "Улучшить Медотсек. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
 
 #: src-en/data/events_special_storage.xml.append:754
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_medbay\"]/text"
-msgstr ""
+msgstr "Улучшить Медотсек. [Цена: 120~, Высокотехнологичный компонент]"
 
 #: src-en/data/events_special_storage.xml.append:760
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"clonebay\"]/text"
-msgstr ""
+msgstr "Улучшить Клон-отсек. [НЕТ СИСТЕМЫ]"
 
 #: src-en/data/events_special_storage.xml.append:764
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_clonebay_upgrades\"]/text"
-msgstr ""
+msgstr "Улучшить Клон-отсек. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:768
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[36]/text"
-msgstr ""
+msgstr "Улучшить Клон-отсек. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
 
 #: src-en/data/events_special_storage.xml.append:772
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_clonebay\"]/text"
-msgstr ""
+msgstr "Улучшить маскировку. [Цена: 120~, Высокотехнологичный компонент]"
 
 #: src-en/data/events_special_storage.xml.append:778
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_reactor_upgrades\"]/text"
-msgstr ""
+msgstr "Улучшить реактор. [НЕТ СИСТЕМЫ]"
 
 #: src-en/data/events_special_storage.xml.append:782
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[39]/text"
-msgstr ""
+msgstr "Улучшить реактор. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
 
 #: src-en/data/events_special_storage.xml.append:786
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_reactor\"]/text"
-msgstr ""
+msgstr "Улучшить реактор. [Цена: 50~]"
 
 #: src-en/data/events_special_storage.xml.append:790
 msgid ""
@@ -974,6 +983,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/text"
 msgstr ""
+"Вы собираетесь установить улучшение системы щитов.\n"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
+"более двух раз]"
 
 #: src-en/data/events_special_storage.xml.append:799
 msgid ""
@@ -1003,6 +1015,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/choice[@req=\"aea_can_upgrade_shields\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Это улучшение недоступно. Вам нужно довести свои щиты до естественного "
+"максимума."
 
 #: src-en/data/events_special_storage.xml.append:821
 msgid ""
@@ -1013,6 +1027,10 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/text"
 msgstr ""
+"Вы собираетесь установить улучшение системы двигателей.\n"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня. Каждый уровень выше "
+"8 добавляет еще 5 уклонения и 0.25х скорости зарядки ССД, не может быть "
+"улучшено более двух раз]"
 
 #: src-en/data/events_special_storage.xml.append:834
 msgid ""
@@ -1042,6 +1060,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/choice[@req=\"aea_can_upgrade_engines\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Это улучшение недоступно. Вам нужно довести свои двигатели до естественного "
+"максимума."
 
 #: src-en/data/events_special_storage.xml.append:856
 msgid ""
@@ -1052,6 +1072,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/text"
 msgstr ""
+"Вы собираетесь установить улучшение системы оружия.\n"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
+"более двух раз]"
 
 #: src-en/data/events_special_storage.xml.append:869
 msgid ""
@@ -1081,6 +1104,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/choice[@req=\"aea_can_upgrade_weapons\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Это улучшение недоступно. Вам нужно довести свое оружие до естественного "
+"максимума."
 
 #: src-en/data/events_special_storage.xml.append:891
 msgid ""
@@ -1091,6 +1116,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/text"
 msgstr ""
+"Вы собираетесь установить улучшение системы дронов.\n"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
+"более двух раз]"
 
 #: src-en/data/events_special_storage.xml.append:904
 msgid ""
@@ -1120,6 +1148,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/choice[@req=\"aea_can_upgrade_drones\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Это улучшение недоступно. Вам нужно довести свои дроны до естественного "
+"максимума."
 
 #: src-en/data/events_special_storage.xml.append:926
 msgid ""
@@ -1130,6 +1160,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/text"
 msgstr ""
+"Вы собираетесь установить улучшение системы маскировки.\n"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
+"больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
 
 #: src-en/data/events_special_storage.xml.append:939
 msgid ""
@@ -1159,6 +1192,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/choice[@req=\"aea_can_upgrade_cloaking\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Это улучшение недоступно. Вам нужно довести свою маскировку до естественного "
+"максимума."
 
 #: src-en/data/events_special_storage.xml.append:961
 msgid ""
@@ -1169,6 +1204,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/text"
 msgstr ""
+"Вы собираетесь установить улучшение системы Контроля разума.\n"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
+"больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
 
 #: src-en/data/events_special_storage.xml.append:974
 msgid ""
@@ -1198,6 +1236,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/choice[@req=\"aea_can_upgrade_mind\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Это улучшение недоступно. Вам нужно довести свой Контроль разума до "
+"естественного максимума."
 
 #: src-en/data/events_special_storage.xml.append:996
 msgid ""
@@ -1208,6 +1248,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/text"
 msgstr ""
+"Вы собираетесь установить улучшение Взломщика.\n"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
+"больше одного раза, нельзя повысить уровень щита выше 3 ур.]"
 
 #: src-en/data/events_special_storage.xml.append:1009
 msgid ""
@@ -1237,6 +1280,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/choice[@req=\"aea_can_upgrade_hacking\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Это улучшение недоступно. Вам нужно довести свой Взломщик до естественного "
+"максимума."
 
 #: src-en/data/events_special_storage.xml.append:1031
 msgid ""
@@ -1247,6 +1292,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/text"
 msgstr ""
+"Вы собираетесь установить улучшение Медотсек.\n"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
+"больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
 
 #: src-en/data/events_special_storage.xml.append:1044
 msgid ""
@@ -1276,6 +1324,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/choice[@req=\"aea_can_upgrade_medbay\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Это улучшение недоступно. Вам нужно довести свой Медотсек до естественного "
+"максимума."
 
 #: src-en/data/events_special_storage.xml.append:1066
 msgid ""
@@ -1286,6 +1336,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/text"
 msgstr ""
+"Вы собираетесь установить улучшение системы щитов.\n"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
+"больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
 
 #: src-en/data/events_special_storage.xml.append:1080
 msgid ""
@@ -1315,6 +1368,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/choice[@req=\"aea_can_upgrade_clonebay\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Это улучшение недоступно. Вам нужно довести свой Клон-отсек до естественного "
+"максимума."
 
 #: src-en/data/events_special_storage.xml.append:1102
 msgid ""
@@ -1325,6 +1380,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/text"
 msgstr ""
+"Вы собираетесь установить улучшение реактора.\n"
+"\t[Эффекты: Модернизирует реактор до максимального уровня, нельзя улучшить "
+"более 5 раз]"
 
 #: src-en/data/events_special_storage.xml.append:1116
 msgid ""
@@ -1349,6 +1407,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/choice[@req=\"aea_can_upgrade_reactor\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Это улучшение недоступно. Вам нужно довести свой реактор до естественного "
+"максимума."
 
 #: src-en/data/events_special_storage.xml.append:1133
 msgid ""
@@ -1554,12 +1614,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:1294
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/text"
-msgstr ""
+msgstr "(Необученный сектант) Выучить заклинание."
 
 #: src-en/data/events_special_storage.xml.append:1296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/text"
-msgstr ""
+msgstr "Ваш сектант способен изучать различные заклинания."
 
 #: src-en/data/events_special_storage.xml.append:1298
 msgid ""
@@ -1569,17 +1629,17 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:1302
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_01\"]/text"
-msgstr ""
+msgstr "Изучить [Защита]"
 
 #: src-en/data/events_special_storage.xml.append:1304
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_01\"]/event/text"
-msgstr ""
+msgstr "Ваш сектант накладывает новое заклинание на свой посох."
 
 #: src-en/data/events_special_storage.xml.append:1310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_02\"]/text"
-msgstr ""
+msgstr "Изучить [Маяк]"
 
 #: src-en/data/events_special_storage.xml.append:1312
 msgid ""
@@ -1589,7 +1649,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1318
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/text"
-msgstr ""
+msgstr "Изучить [Био-болт]"
 
 #: src-en/data/events_special_storage.xml.append:1320
 msgid ""
@@ -1599,7 +1659,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1326
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/text"
-msgstr ""
+msgstr "Изучить [Болт]"
 
 #: src-en/data/events_special_storage.xml.append:1328
 msgid ""
@@ -1609,7 +1669,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/text"
-msgstr ""
+msgstr "Изучить [Импульсный болт]"
 
 #: src-en/data/events_special_storage.xml.append:1336
 msgid ""
@@ -1619,7 +1679,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1342
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/text"
-msgstr ""
+msgstr "Изучить [Противокорпусный болт]"
 
 #: src-en/data/events_special_storage.xml.append:1344
 msgid ""
@@ -1629,7 +1689,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1350
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_07\"]/text"
-msgstr ""
+msgstr "Изучить [Варп]"
 
 #: src-en/data/events_special_storage.xml.append:1352
 msgid ""
@@ -1639,7 +1699,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1358
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/text"
-msgstr ""
+msgstr "Изучить [Варп-болт]"
 
 #: src-en/data/events_special_storage.xml.append:1360
 msgid ""
@@ -1649,7 +1709,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1366
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/text"
-msgstr ""
+msgstr "Изучить [Исцеляющий болт]"
 
 #: src-en/data/events_special_storage.xml.append:1368
 msgid ""
@@ -1659,7 +1719,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1374
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_10\"]/text"
-msgstr ""
+msgstr "Изучить [Исцеляющая аура]"
 
 #: src-en/data/events_special_storage.xml.append:1376
 msgid ""
@@ -1669,7 +1729,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1382
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_11\"]/text"
-msgstr ""
+msgstr "Изучить [Дроны]"
 
 #: src-en/data/events_special_storage.xml.append:1384
 msgid ""
@@ -1679,7 +1739,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1390
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/text"
-msgstr ""
+msgstr "Изучить [Барьер]"
 
 #: src-en/data/events_special_storage.xml.append:1392
 msgid ""
@@ -1689,7 +1749,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1398
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/text"
-msgstr ""
+msgstr "Изучить [Блокировка]"
 
 #: src-en/data/events_special_storage.xml.append:1400
 msgid ""
@@ -1699,7 +1759,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1406
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/text"
-msgstr ""
+msgstr "Изучить [Союзник]"
 
 #: src-en/data/events_special_storage.xml.append:1408
 msgid ""
@@ -1709,7 +1769,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1414
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/text"
-msgstr ""
+msgstr "Изучить [Болт разума]"
 
 #: src-en/data/events_special_storage.xml.append:1416
 msgid ""
@@ -2804,7 +2864,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2202
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_02\"]/text"
-msgstr ""
+msgstr "Изучить [Маяк]"
 
 #: src-en/data/events_special_storage.xml.append:2204
 msgid ""
