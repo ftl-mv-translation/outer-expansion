@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-02-28 18:13+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -269,7 +269,7 @@ msgstr "Продвинутый ССД, способный долететь до 
 
 #: src-en/data/blueprints.xml.append:732
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_O2SYS\"]/title"
-msgstr "Кислотная система фильтрации"
+msgstr "Кислотная сист. фильтрации"
 
 #: src-en/data/blueprints.xml.append:733
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_O2SYS\"]/desc"
@@ -286,7 +286,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:745
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_O2SYS_OFF\"]/title"
-msgstr "Кислотная система фильтрации"
+msgstr "Кислотная сист. фильтрации"
 
 #: src-en/data/blueprints.xml.append:746
 msgid ""
@@ -304,7 +304,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:758
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_O2SYS_ENEMY\"]/title"
-msgstr "Кислотная система фильтрации"
+msgstr "Кислотная сист. фильтрации"
 
 #: src-en/data/blueprints.xml.append:759
 msgid ""
@@ -314,7 +314,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:767
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_ACID_O2SYS_ENEMY_WEAK\"]/title"
-msgstr "Кислотная система фильтрации"
+msgstr "Кислотная сист. фильтрации"
 
 #: src-en/data/blueprints.xml.append:768
 msgid ""
@@ -490,7 +490,7 @@ msgstr "Залповая кислота"
 #: src-en/data/blueprints.xml.append:1107
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_ION_ACID_1\"]/short"
-msgstr ""
+msgstr "Залп. кислота"
 
 #: src-en/data/blueprints.xml.append:1109
 msgid ""
@@ -514,7 +514,7 @@ msgstr "Залповая кислота"
 #: src-en/data/blueprints.xml.append:1166
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_ION_ACID_1_LOOT\"]/short"
-msgstr ""
+msgstr "Залп. кислота"
 
 #: src-en/data/blueprints.xml.append:1168
 msgid ""
@@ -624,7 +624,7 @@ msgstr "Залповая кислота"
 #: src-en/data/blueprints.xml.append:1429
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_ION_ACID_1_ENEMY\"]/short"
-msgstr ""
+msgstr "Залп. кислота"
 
 #: src-en/data/blueprints.xml.append:1431
 msgid ""
@@ -3142,7 +3142,7 @@ msgstr "Вампсорняк сектант [Защита]"
 #: src-en/data/blueprints.xml.append:5857
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a01\"]/short"
-msgstr ""
+msgstr "Cultist [Protect]"
 
 #: src-en/data/blueprints.xml.append:5858
 msgid ""
@@ -3176,7 +3176,7 @@ msgstr "Вампсорняк сектант [Маяк]"
 #: src-en/data/blueprints.xml.append:5889
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a02\"]/short"
-msgstr ""
+msgstr "Cultist [Beacon]"
 
 #: src-en/data/blueprints.xml.append:5890
 msgid ""
@@ -3215,7 +3215,7 @@ msgstr "Вампсорняк сектант [Био-болт]"
 #: src-en/data/blueprints.xml.append:5922
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s03\"]/short"
-msgstr ""
+msgstr "Cultist [Bio Bolt]"
 
 #: src-en/data/blueprints.xml.append:5923
 msgid ""
@@ -3254,7 +3254,7 @@ msgstr "Вампсорняк сектант [Болт]"
 #: src-en/data/blueprints.xml.append:5955
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s04\"]/short"
-msgstr ""
+msgstr "Cultist [Bolt]"
 
 #: src-en/data/blueprints.xml.append:5956
 msgid ""
@@ -3293,7 +3293,7 @@ msgstr "Вампсорняк сектант [Импульсный болт]"
 #: src-en/data/blueprints.xml.append:5988
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s05\"]/short"
-msgstr ""
+msgstr "Cultist [Bolt Burst]"
 
 #: src-en/data/blueprints.xml.append:5989
 msgid ""
@@ -3332,7 +3332,7 @@ msgstr "Вампсорняк сектант [Противокорпусный б
 #: src-en/data/blueprints.xml.append:6021
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s06\"]/short"
-msgstr ""
+msgstr "Cultist [Hull Bolt]"
 
 #: src-en/data/blueprints.xml.append:6022
 msgid ""
@@ -3371,7 +3371,7 @@ msgstr "Вампсорняк сектант [Варп]"
 #: src-en/data/blueprints.xml.append:6054
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a07\"]/short"
-msgstr ""
+msgstr "Cultist [Warp]"
 
 #: src-en/data/blueprints.xml.append:6055
 msgid ""
@@ -3410,7 +3410,7 @@ msgstr "Вампсорняк сектант [Варп-болт]"
 #: src-en/data/blueprints.xml.append:6087
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s08\"]/short"
-msgstr ""
+msgstr "Cultist [Warp Bolt]"
 
 #: src-en/data/blueprints.xml.append:6088
 msgid ""
@@ -3449,7 +3449,7 @@ msgstr "Вампсорняк сектант [Исцеляющий болт]"
 #: src-en/data/blueprints.xml.append:6120
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s09\"]/short"
-msgstr ""
+msgstr "Cultist [Heal Bolt]"
 
 #: src-en/data/blueprints.xml.append:6121
 msgid ""
@@ -3488,7 +3488,7 @@ msgstr "Вампсорняк сектант [Исцеляющая аура]"
 #: src-en/data/blueprints.xml.append:6153
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a10\"]/short"
-msgstr ""
+msgstr "Cultist [Heal Aura]"
 
 #: src-en/data/blueprints.xml.append:6154
 msgid ""
@@ -3527,7 +3527,7 @@ msgstr "Вампсорняк сектант [Дрон]"
 #: src-en/data/blueprints.xml.append:6186
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a11\"]/short"
-msgstr ""
+msgstr "Cultist [Drone]"
 
 #: src-en/data/blueprints.xml.append:6187
 msgid ""
@@ -3566,7 +3566,7 @@ msgstr "Вампсорняк сектант [Барьер]"
 #: src-en/data/blueprints.xml.append:6219
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s12\"]/short"
-msgstr ""
+msgstr "Cultist [Barrier]"
 
 #: src-en/data/blueprints.xml.append:6220
 msgid ""
@@ -3605,7 +3605,7 @@ msgstr "Вампсорняк сектант [Блокировка]"
 #: src-en/data/blueprints.xml.append:6252
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s13\"]/short"
-msgstr ""
+msgstr "Cultist [Lockdown]"
 
 #: src-en/data/blueprints.xml.append:6253
 msgid ""
@@ -3644,7 +3644,7 @@ msgstr "Вампсорняк сектант [Союзник]"
 #: src-en/data/blueprints.xml.append:6285
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s14\"]/short"
-msgstr ""
+msgstr "Cultist [Ally]"
 
 #: src-en/data/blueprints.xml.append:6286
 msgid ""
@@ -3683,7 +3683,7 @@ msgstr "Вампсорняк сектант [Болт разума]"
 #: src-en/data/blueprints.xml.append:6318
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s15\"]/short"
-msgstr ""
+msgstr "Cultist [Mind Bolt]"
 
 #: src-en/data/blueprints.xml.append:6319
 msgid ""
@@ -3935,12 +3935,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7288
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT\"]/title"
-msgstr ""
+msgstr "Заклинающий споромет"
 
 #: src-en/data/blueprints.xml.append:7289
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT\"]/short"
-msgstr ""
+msgstr "Закл. споромет"
 
 #: src-en/data/blueprints.xml.append:7291
 msgid ""
@@ -3953,17 +3953,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7292
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT\"]/tooltip"
-msgstr ""
+msgstr "Заклинающий споромет."
 
 #: src-en/data/blueprints.xml.append:7326
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_LOOT\"]/title"
-msgstr ""
+msgstr "Заклинающий споромет"
 
 #: src-en/data/blueprints.xml.append:7327
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_LOOT\"]/short"
-msgstr ""
+msgstr "Закл. споромет"
 
 #: src-en/data/blueprints.xml.append:7329
 msgid ""
@@ -3976,17 +3976,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7330
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_LOOT\"]/tooltip"
-msgstr ""
+msgstr "Заклинающий споромет."
 
 #: src-en/data/blueprints.xml.append:7369
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_RANDOM\"]/title"
-msgstr ""
+msgstr "Тяжелый заклинающий споромет"
 
 #: src-en/data/blueprints.xml.append:7370
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_RANDOM\"]/short"
-msgstr ""
+msgstr "Тяж. закл. споромет"
 
 #: src-en/data/blueprints.xml.append:7372
 msgid ""
@@ -4000,17 +4000,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7373
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_RANDOM\"]/tooltip"
-msgstr ""
+msgstr "Заклинающий споромет."
 
 #: src-en/data/blueprints.xml.append:7406
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_03\"]/title"
-msgstr ""
+msgstr "Заклинающий споромет [Био-болт]"
 
 #: src-en/data/blueprints.xml.append:7407
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_03\"]/short"
-msgstr ""
+msgstr "[Био-болт]"
 
 #: src-en/data/blueprints.xml.append:7409
 msgid ""
@@ -4023,7 +4023,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7410
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_03\"]/tooltip"
-msgstr ""
+msgstr "Заклинающий споромет."
 
 #: src-en/data/blueprints.xml.append:7411
 msgid ""
@@ -4065,12 +4065,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7475
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_04\"]/title"
-msgstr ""
+msgstr "Заклинающий споромет [Болт]"
 
 #: src-en/data/blueprints.xml.append:7476
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_04\"]/short"
-msgstr ""
+msgstr "[Болт]"
 
 #: src-en/data/blueprints.xml.append:7478
 msgid ""
@@ -4083,7 +4083,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7479
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_04\"]/tooltip"
-msgstr ""
+msgstr "Заклинающий споромет."
 
 #: src-en/data/blueprints.xml.append:7480
 msgid ""
@@ -4125,12 +4125,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7544
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_05\"]/title"
-msgstr ""
+msgstr "Заклинающий споромет [Импульсный болт]"
 
 #: src-en/data/blueprints.xml.append:7545
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_05\"]/short"
-msgstr ""
+msgstr "[Имп. болт]"
 
 #: src-en/data/blueprints.xml.append:7547
 msgid ""
@@ -4143,7 +4143,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7548
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_05\"]/tooltip"
-msgstr ""
+msgstr "Заклинающий споромет."
 
 #: src-en/data/blueprints.xml.append:7549
 msgid ""
@@ -4185,12 +4185,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7613
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_06\"]/title"
-msgstr ""
+msgstr "Заклинающий споромет [Противокорпусный болт]"
 
 #: src-en/data/blueprints.xml.append:7614
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_06\"]/short"
-msgstr ""
+msgstr "[Противок. болт]"
 
 #: src-en/data/blueprints.xml.append:7616
 msgid ""
@@ -4203,7 +4203,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7617
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_06\"]/tooltip"
-msgstr ""
+msgstr "Заклинающий споромет."
 
 #: src-en/data/blueprints.xml.append:7618
 msgid ""
@@ -4245,12 +4245,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7683
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_08\"]/title"
-msgstr ""
+msgstr "Заклинающий споромет [Варп-болт]"
 
 #: src-en/data/blueprints.xml.append:7684
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_08\"]/short"
-msgstr ""
+msgstr "[Варп-болт]"
 
 #: src-en/data/blueprints.xml.append:7686
 msgid ""
@@ -4263,7 +4263,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7687
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_08\"]/tooltip"
-msgstr ""
+msgstr "Заклинающий споромет."
 
 #: src-en/data/blueprints.xml.append:7688
 msgid ""
@@ -4303,12 +4303,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7743
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_09\"]/title"
-msgstr ""
+msgstr "Заклинающий споромет [Исцеляющий болт]"
 
 #: src-en/data/blueprints.xml.append:7744
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_09\"]/short"
-msgstr ""
+msgstr "[Исцел. болт]"
 
 #: src-en/data/blueprints.xml.append:7746
 msgid ""
@@ -4321,7 +4321,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7747
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_09\"]/tooltip"
-msgstr ""
+msgstr "Заклинающий споромет."
 
 #: src-en/data/blueprints.xml.append:7748
 msgid ""
@@ -4363,12 +4363,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7812
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_12\"]/title"
-msgstr ""
+msgstr "Заклинающий споромет [Барьер]"
 
 #: src-en/data/blueprints.xml.append:7813
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_12\"]/short"
-msgstr ""
+msgstr "[Барьер]"
 
 #: src-en/data/blueprints.xml.append:7815
 msgid ""
@@ -4381,7 +4381,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7816
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_12\"]/tooltip"
-msgstr ""
+msgstr "Заклинающий споромет."
 
 #: src-en/data/blueprints.xml.append:7817
 msgid ""
@@ -4421,12 +4421,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7879
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_13\"]/title"
-msgstr ""
+msgstr "Заклинающий споромет [Блокировка]"
 
 #: src-en/data/blueprints.xml.append:7880
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_13\"]/short"
-msgstr ""
+msgstr "[Блокировка]"
 
 #: src-en/data/blueprints.xml.append:7882
 msgid ""
@@ -4439,7 +4439,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7883
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_13\"]/tooltip"
-msgstr ""
+msgstr "Заклинающий споромет."
 
 #: src-en/data/blueprints.xml.append:7884
 msgid ""
@@ -4477,12 +4477,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7945
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_14\"]/title"
-msgstr ""
+msgstr "Заклинающий споромет [Союзник]"
 
 #: src-en/data/blueprints.xml.append:7946
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_14\"]/short"
-msgstr ""
+msgstr "[Союзник]"
 
 #: src-en/data/blueprints.xml.append:7948
 msgid ""
@@ -4495,7 +4495,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7949
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_14\"]/tooltip"
-msgstr ""
+msgstr "Заклинающий споромет."
 
 #: src-en/data/blueprints.xml.append:7950
 msgid ""
@@ -4533,12 +4533,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8033
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_15\"]/title"
-msgstr ""
+msgstr "Заклинающий споромет [Болт разума]"
 
 #: src-en/data/blueprints.xml.append:8034
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_15\"]/short"
-msgstr ""
+msgstr "[Болт разума]"
 
 #: src-en/data/blueprints.xml.append:8036
 msgid ""
@@ -4584,17 +4584,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8059
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_15\"]/tooltip"
-msgstr ""
+msgstr "Заклинающий споромет."
 
 #: src-en/data/blueprints.xml.append:8148
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_01\"]/title"
-msgstr ""
+msgstr "Заклинание: [Защита]"
 
 #: src-en/data/blueprints.xml.append:8149
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_01\"]/short"
-msgstr ""
+msgstr "[Защита]"
 
 #: src-en/data/blueprints.xml.append:8150
 msgid ""
@@ -4614,12 +4614,12 @@ msgstr "Складское оружие"
 #: src-en/data/blueprints.xml.append:8171
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_02\"]/title"
-msgstr ""
+msgstr "Заклинание: [Маяк]"
 
 #: src-en/data/blueprints.xml.append:8172
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_02\"]/short"
-msgstr ""
+msgstr "[Маяк]"
 
 #: src-en/data/blueprints.xml.append:8173
 msgid ""
@@ -4638,12 +4638,12 @@ msgstr "Складское оружие"
 #: src-en/data/blueprints.xml.append:8193
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_03\"]/title"
-msgstr ""
+msgstr "Заклинание: [Био-болт]"
 
 #: src-en/data/blueprints.xml.append:8194
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_03\"]/short"
-msgstr ""
+msgstr "[Био-болт]"
 
 #: src-en/data/blueprints.xml.append:8195
 msgid ""
@@ -4663,12 +4663,12 @@ msgstr "Складское оружие"
 #: src-en/data/blueprints.xml.append:8217
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_04\"]/title"
-msgstr ""
+msgstr "Заклинание: [Болт]"
 
 #: src-en/data/blueprints.xml.append:8218
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_04\"]/short"
-msgstr ""
+msgstr "[Болт]"
 
 #: src-en/data/blueprints.xml.append:8219
 msgid ""
@@ -4688,12 +4688,12 @@ msgstr "Складское оружие"
 #: src-en/data/blueprints.xml.append:8240
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_05\"]/title"
-msgstr ""
+msgstr "Заклинание: [Импульсный болт]"
 
 #: src-en/data/blueprints.xml.append:8241
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_05\"]/short"
-msgstr ""
+msgstr "[Имп. болт]"
 
 #: src-en/data/blueprints.xml.append:8242
 msgid ""
@@ -4713,12 +4713,12 @@ msgstr "Складское оружие"
 #: src-en/data/blueprints.xml.append:8263
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_06\"]/title"
-msgstr ""
+msgstr "Заклинание: [Противокорпусный болт]"
 
 #: src-en/data/blueprints.xml.append:8264
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_06\"]/short"
-msgstr ""
+msgstr "[Противок. болт]"
 
 #: src-en/data/blueprints.xml.append:8265
 msgid ""
@@ -4738,12 +4738,12 @@ msgstr "Складское оружие"
 #: src-en/data/blueprints.xml.append:8286
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_07\"]/title"
-msgstr ""
+msgstr "Заклинание: [Варп]"
 
 #: src-en/data/blueprints.xml.append:8287
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_07\"]/short"
-msgstr ""
+msgstr "[Варп]"
 
 #: src-en/data/blueprints.xml.append:8288
 msgid ""
@@ -4762,12 +4762,12 @@ msgstr "Складское оружие"
 #: src-en/data/blueprints.xml.append:8308
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_08\"]/title"
-msgstr ""
+msgstr "Заклинание: [Варп-болт]"
 
 #: src-en/data/blueprints.xml.append:8309
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_08\"]/short"
-msgstr ""
+msgstr "[Варп-болт]"
 
 #: src-en/data/blueprints.xml.append:8310
 msgid ""
@@ -4787,12 +4787,12 @@ msgstr "Складское оружие"
 #: src-en/data/blueprints.xml.append:8330
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_09\"]/title"
-msgstr ""
+msgstr "Заклинание: [Исцеляющий болт]"
 
 #: src-en/data/blueprints.xml.append:8331
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_09\"]/short"
-msgstr ""
+msgstr "[Исцел. болт]"
 
 #: src-en/data/blueprints.xml.append:8332
 msgid ""
@@ -4812,12 +4812,12 @@ msgstr "Складское оружие"
 #: src-en/data/blueprints.xml.append:8353
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_10\"]/title"
-msgstr ""
+msgstr "Заклинание: [Исцеляющая аура]"
 
 #: src-en/data/blueprints.xml.append:8354
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_10\"]/short"
-msgstr ""
+msgstr "[Исцел. аура]"
 
 #: src-en/data/blueprints.xml.append:8355
 msgid ""
@@ -4836,12 +4836,12 @@ msgstr "Складское оружие"
 #: src-en/data/blueprints.xml.append:8375
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_11\"]/title"
-msgstr ""
+msgstr "Заклинание: [Дрон]"
 
 #: src-en/data/blueprints.xml.append:8376
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_11\"]/short"
-msgstr ""
+msgstr "[Дрон]"
 
 #: src-en/data/blueprints.xml.append:8377
 msgid ""
@@ -4860,12 +4860,12 @@ msgstr "Складское оружие"
 #: src-en/data/blueprints.xml.append:8398
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_12\"]/title"
-msgstr ""
+msgstr "Заклинание: [Барьер]"
 
 #: src-en/data/blueprints.xml.append:8399
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_12\"]/short"
-msgstr ""
+msgstr "[Барьер]"
 
 #: src-en/data/blueprints.xml.append:8400
 msgid ""
@@ -4886,12 +4886,12 @@ msgstr "Складское оружие"
 #: src-en/data/blueprints.xml.append:8421
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_13\"]/title"
-msgstr ""
+msgstr "Заклинание: [Блокировка]"
 
 #: src-en/data/blueprints.xml.append:8422
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_13\"]/short"
-msgstr ""
+msgstr "[Блокировка]"
 
 #: src-en/data/blueprints.xml.append:8423
 msgid ""
@@ -4911,12 +4911,12 @@ msgstr "Складское оружие"
 #: src-en/data/blueprints.xml.append:8444
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_14\"]/title"
-msgstr ""
+msgstr "Заклинание: [Союзник]"
 
 #: src-en/data/blueprints.xml.append:8445
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_14\"]/short"
-msgstr ""
+msgstr "[Союзник]"
 
 #: src-en/data/blueprints.xml.append:8446
 msgid ""
@@ -4936,12 +4936,12 @@ msgstr "Складское оружие"
 #: src-en/data/blueprints.xml.append:8467
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_15\"]/title"
-msgstr ""
+msgstr "Заклинание: [Болт разума]"
 
 #: src-en/data/blueprints.xml.append:8468
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_15\"]/short"
-msgstr ""
+msgstr "[Болт разума]"
 
 #: src-en/data/blueprints.xml.append:8469
 msgid ""
@@ -5156,7 +5156,7 @@ msgstr "Жрец поддержки Вампсорняков"
 #: src-en/data/blueprints.xml.append:9156
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_sup\"]/short"
-msgstr ""
+msgstr "Support Priest"
 
 #: src-en/data/blueprints.xml.append:9157
 msgid ""
@@ -5196,7 +5196,7 @@ msgstr "Жрец преступников-Вампсорняков"
 #: src-en/data/blueprints.xml.append:9178
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_off\"]/short"
-msgstr ""
+msgstr "Offence Priest"
 
 #: src-en/data/blueprints.xml.append:9179
 msgid ""
@@ -5237,7 +5237,7 @@ msgstr "Жрец абордажников-Вампсорняков"
 #: src-en/data/blueprints.xml.append:9200
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_bor\"]/short"
-msgstr ""
+msgstr "Boarding Priest"
 
 #: src-en/data/blueprints.xml.append:9201
 msgid ""
@@ -5355,7 +5355,7 @@ msgstr "Крошка-Вампсорняк сектант [Защита]"
 #: src-en/data/blueprints.xml.append:9261
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a01\"]/short"
-msgstr ""
+msgstr "Tiny Cultist [Protect]"
 
 #: src-en/data/blueprints.xml.append:9262
 msgid ""
@@ -5410,7 +5410,7 @@ msgstr "Крошка-Вампсорняк сектант [Маяк]"
 #: src-en/data/blueprints.xml.append:9286
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a02\"]/short"
-msgstr ""
+msgstr "Tiny Cultist [Beacon]"
 
 #: src-en/data/blueprints.xml.append:9287
 msgid ""
@@ -5465,7 +5465,7 @@ msgstr "Крошка-Вампсорняк сектант [Био-болт]"
 #: src-en/data/blueprints.xml.append:9311
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s03\"]/short"
-msgstr ""
+msgstr "Tiny Cultist [Bio Bolt]"
 
 #: src-en/data/blueprints.xml.append:9312
 msgid ""
@@ -5520,7 +5520,7 @@ msgstr "Крошка-Вампсорняк сектант [Болт]"
 #: src-en/data/blueprints.xml.append:9336
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s04\"]/short"
-msgstr ""
+msgstr "Tiny Cultist [Bolt]"
 
 #: src-en/data/blueprints.xml.append:9337
 msgid ""
@@ -5575,7 +5575,7 @@ msgstr "Крошка-Вампсорняк сектант [Импульсный �
 #: src-en/data/blueprints.xml.append:9361
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s05\"]/short"
-msgstr ""
+msgstr "Tiny Cultist [Bolt Burst]"
 
 #: src-en/data/blueprints.xml.append:9362
 msgid ""
@@ -5630,7 +5630,7 @@ msgstr "Крошка-Вампсорняк сектант [Противокорп
 #: src-en/data/blueprints.xml.append:9386
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s06\"]/short"
-msgstr ""
+msgstr "Tiny Cultist [Hull Bolt]"
 
 #: src-en/data/blueprints.xml.append:9387
 msgid ""
@@ -5685,7 +5685,7 @@ msgstr "Крошка-Вампсорняк сектант [Варп]"
 #: src-en/data/blueprints.xml.append:9411
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a07\"]/short"
-msgstr ""
+msgstr "Tiny Cultist [Warp]"
 
 #: src-en/data/blueprints.xml.append:9412
 msgid ""
@@ -5740,7 +5740,7 @@ msgstr "Крошка-Вампсорняк сектант [Варп-болт]"
 #: src-en/data/blueprints.xml.append:9436
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s08\"]/short"
-msgstr ""
+msgstr "Tiny Cultist [Warp Bolt]"
 
 #: src-en/data/blueprints.xml.append:9437
 msgid ""
@@ -5795,7 +5795,7 @@ msgstr "Крошка-Вампсорняк сектант [Исцеляющий �
 #: src-en/data/blueprints.xml.append:9461
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s09\"]/short"
-msgstr ""
+msgstr "Tiny Cultist [Heal Bolt]"
 
 #: src-en/data/blueprints.xml.append:9462
 msgid ""
@@ -5851,7 +5851,7 @@ msgstr "Крошка-Вампсорняк сектант [Исцеляющая �
 #: src-en/data/blueprints.xml.append:9486
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a10\"]/short"
-msgstr ""
+msgstr "Tiny Cultist [Heal Aura]"
 
 #: src-en/data/blueprints.xml.append:9487
 msgid ""
@@ -5906,7 +5906,7 @@ msgstr "Крошка-Вампсорняк сектант [Дрон]"
 #: src-en/data/blueprints.xml.append:9511
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a11\"]/short"
-msgstr ""
+msgstr "Tiny Cultist [Drone]"
 
 #: src-en/data/blueprints.xml.append:9512
 msgid ""
@@ -5961,7 +5961,7 @@ msgstr "Крошка-Вампсорняк сектант [Барьер]"
 #: src-en/data/blueprints.xml.append:9536
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s12\"]/short"
-msgstr ""
+msgstr "Tiny Cultist [Barrier]"
 
 #: src-en/data/blueprints.xml.append:9537
 msgid ""
@@ -6016,7 +6016,7 @@ msgstr "Крошка-Вампсорняк сектант [Блокировка]"
 #: src-en/data/blueprints.xml.append:9561
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s13\"]/short"
-msgstr ""
+msgstr "Tiny Cultist [Lockdown]"
 
 #: src-en/data/blueprints.xml.append:9562
 msgid ""
@@ -6071,7 +6071,7 @@ msgstr "Крошка-Вампсорняк сектант [Союзник]"
 #: src-en/data/blueprints.xml.append:9586
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s14\"]/short"
-msgstr ""
+msgstr "Tiny Cultist [Ally]"
 
 #: src-en/data/blueprints.xml.append:9587
 msgid ""
@@ -6126,7 +6126,7 @@ msgstr "Крошка-Вампсорняк сектант [Болт разума]
 #: src-en/data/blueprints.xml.append:9611
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s15\"]/short"
-msgstr ""
+msgstr "Tiny Cultist [Mind Bolt]"
 
 #: src-en/data/blueprints.xml.append:9612
 msgid ""
@@ -6847,7 +6847,7 @@ msgstr "Этот корабль совершенно лишен какого-л�
 #: src-en/data/blueprints.xml.append:10901
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE\"]/class"
-msgstr "Мятежный Броадсайд"
+msgstr "Броадсайд повстанцев"
 
 #: src-en/data/blueprints.xml.append:10902
 msgid ""
@@ -7032,7 +7032,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11225
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE_2\"]/class"
-msgstr "Мятежный Броадсайд"
+msgstr "Броадсайд повстанцев"
 
 #: src-en/data/blueprints.xml.append:11226
 msgid ""
