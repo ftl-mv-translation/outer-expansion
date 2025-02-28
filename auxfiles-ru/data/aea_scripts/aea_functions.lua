@@ -1160,7 +1160,7 @@ local xNText = xNPos + 51
 local yNText = yNPos + 15
 local widthN = 75
 local heightN = 40
-local naniteText = "Nanite Swarms, used by the Engi Heretics to perform various tasks.\nCurrent Last Kills:"
+local naniteText = "Нанитовые рои, используемые Еретиками энджи для выполнения различных задач.\nПоследние убийства:"
 local tempNanitImage = Hyperspace.Resources:CreateImagePrimitiveString(
 	"statusUI/aea_nanite_ui.png",
 	xNPos,
