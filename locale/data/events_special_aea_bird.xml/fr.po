@@ -1,21 +1,36 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-21 10:14+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_special_aea_birdxml/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_special_aea_bird.xml:15
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[1]"
 msgstr ""
+"Vous êtes arrivé dans l'espace Gi. Les Gi ne font peut-être pas partie de la "
+"Fédération, mais ils restent des alliés proches et sont fermement opposés à "
+"la Rébellion. Cette dernière aura du mal à s'infiltrer ici."
 
 #: src-en/data/events_special_aea_bird.xml:16
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[2]"
 msgstr ""
+"Vous êtes arrivé dans l'espace Gi. Vous y trouverez de nombreux visages "
+"amicaux, mais également une bonne dose de racaille rebelle en train "
+"d'envahir la zone."
 
 #: src-en/data/events_special_aea_bird.xml:17
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[3]"
 msgstr ""
+"Vous êtes arrivé dans l'espace Gi. Ce secteur regorge peut-être d'alliés, "
+"mais il ne manquera pas d'attirer de nombreux Rebelles."
 
 #: src-en/data/events_special_aea_bird.xml:31
 msgid ""
@@ -32,6 +47,9 @@ msgstr "Continuer..."
 #: src-en/data/events_special_aea_bird.xml:41
 msgid "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/text"
 msgstr ""
+"Ce secteur est protégé par une garde combinée de vaisseaux de la Fédération "
+"et des Gi. Plusieurs vaisseaux de soutien stationnent en arrière-plan, "
+"apportant leur aide aux autres vaisseaux alliés du district."
 
 #: src-en/data/events_special_aea_bird.xml:44
 msgid ""
@@ -82,6 +100,9 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/text"
 msgstr ""
+"Quelque chose semble anormal ici. D’ordinaire, les Gi ne prêteraient "
+"certainement pas attention à un vaisseau comme le vôtre, mais cette fois, "
+"vous captez des conversations suspectes à bord du vaisseau de garde."
 
 #: src-en/data/events_special_aea_bird.xml:77
 msgid ""
@@ -92,6 +113,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/choice/event/text"
 msgstr ""
+"Il semble que votre passé vous ait rattrapé. L'équipage du vaisseau de garde "
+"a entendu parler de vos crimes et n'a pas l'intention de vous laisser entrer "
+"dans le secteur !."
 
 #: src-en/data/events_special_aea_bird.xml:82
 msgid ""
@@ -152,6 +176,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DESTROY\"]/text"
 msgstr ""
+"Vous avez vaincu le vaisseau de garde Gi. Tout ce qui aurait pu se trouver "
+"dans leur soute est certainement détruit, mais au moins vous pouvez "
+"récupérer des ressources de leur vaisseau."
 
 #: src-en/data/events_special_aea_bird.xml:137
 msgid ""
@@ -162,6 +189,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DEADCREW\"]/text"
 msgstr ""
+"Vous avez vaincu le vaisseau de garde Gi. Sans équipage à bord pour vous "
+"arrêter, vous pouvez inspecter leur cargaison. Vous y trouvez une arme que "
+"vous rapportez à votre vaisseau, puis vous passez au démantèlement de la "
+"coque."
 
 #: src-en/data/events_special_aea_bird.xml:146
 msgid ""
@@ -172,6 +203,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_FOLLOWUP\"]/text"
 msgstr ""
+"En éliminant le vaisseau de garde Gi, vous avez sans aucun doute provoqué l’"
+"envoi de renforts pour vous traquer. Restez sur vos gardes en explorant le "
+"secteur."
 
 #: src-en/data/events_special_aea_bird.xml:162
 msgid ""
@@ -202,6 +236,10 @@ msgstr "Endroit non exploré."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/text"
 msgstr ""
+"Vous apercevez un rare Gi Élite, mais il ne semble pas ravi de vous voir. Le "
+"vaisseau se met en position d’attaque, et il ne vous faut pas longtemps pour "
+"comprendre qu’il fait partie des renforts envoyés par les gardes pour vous "
+"traquer après votre attaque."
 
 #: src-en/data/events_special_aea_bird.xml:182
 msgid ""
@@ -211,14 +249,22 @@ msgstr "Continuer..."
 #: src-en/data/events_special_aea_bird.xml:199
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[1]"
 msgstr ""
+"Vous êtes arrivé dans l'espace Gi. Les Gi ne font peut-être pas partie de la "
+"Fédération, mais ils restent des alliés proches et sont fermement opposés à "
+"la Rébellion. Cette dernière aura du mal à s'infiltrer ici."
 
 #: src-en/data/events_special_aea_bird.xml:200
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[2]"
 msgstr ""
+"Vous êtes arrivé dans l'espace Gi. Vous y trouverez de nombreux visages "
+"amicaux, mais également une bonne dose de racaille rebelle en train "
+"d'envahir la zone."
 
 #: src-en/data/events_special_aea_bird.xml:201
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[3]"
 msgstr ""
+"Vous êtes arrivé dans l'espace Gi. Ce secteur regorge peut-être d'alliés, "
+"mais il ne manquera pas d'attirer de nombreux Rebelles."
 
 #: src-en/data/events_special_aea_bird.xml:215
 msgid ""
@@ -256,6 +302,9 @@ msgstr "Endroit non exploré."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/text"
 msgstr ""
+"Cette balise abrite un transporteur Gi. Il y a fort à parier que le vaisseau "
+"transporte une technologie spéciale. Si vous parvenez à éliminer son "
+"équipage, sa cargaison sera à vous."
 
 #: src-en/data/events_special_aea_bird.xml:289
 msgid ""
@@ -276,6 +325,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/text"
 msgstr ""
+"(Gi ou Élite de la Fédération + Bonne réputation) Parler au transporteur."
 
 #: src-en/data/events_special_aea_bird.xml:302
 msgid ""
@@ -320,7 +370,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_aea_bird.xml:332
-#, fuzzy
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[3]/text"
 msgstr "Laisser tomber."
@@ -522,6 +571,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/text"
 msgstr ""
+"Éliminer des alliés de la Fédération, en particulier des Élites, est "
+"totalement contraire à votre mission, mais cela ne signifie pas que vous ne "
+"pouvez pas récupérer les débris."
 
 #: src-en/data/events_special_aea_bird.xml:439
 msgid ""
@@ -532,11 +584,15 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/choice/event/text"
 msgstr ""
+"Il semble que la cargaison du vaisseau d’élite Gi ait survécu au combat. À l’"
+"intérieur se trouve un drone fonctionnel, que vous rapportez à bord."
 
 #: src-en/data/events_special_aea_bird.xml:497
 msgid ""
 "data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/destroyed/text"
 msgstr ""
+"Vous avez détruit le vaisseau infecté par le champignon et récupérez tout ce "
+"qui peut être utile parmi les débris."
 
 #: src-en/data/events_special_aea_bird.xml:500
 msgid ""
@@ -547,6 +603,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/deadCrew/text"
 msgstr ""
+"Vous avez éliminé l'équipage du vaisseau infecté et le démontez pour en "
+"récupérer des pièces utiles."
 
 #: src-en/data/events_special_aea_bird.xml:508
 msgid ""
