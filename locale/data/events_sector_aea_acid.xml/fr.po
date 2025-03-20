@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-21 19:13+0000\n"
+"PO-Revision-Date: 2025-03-21 10:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_acidxml/fr/>\n"
@@ -233,7 +233,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:248
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[@req=\"aea_acid_friendly\"]/event/crewMember"
-msgstr ""
+msgstr "Soldat Acide"
 
 #: src-en/data/events_sector_aea_acid.xml:250
 msgid ""
@@ -1202,7 +1202,7 @@ msgstr "Exiger qu'il vous remette sa cargaison."
 #: src-en/data/events_sector_aea_acid.xml:1004
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORKIDS\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Vous vous préparez à sécuriser la cargaison par la force."
 
 #: src-en/data/events_sector_aea_acid.xml:1007
 msgid ""
@@ -3127,7 +3127,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:2540
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[1]/event/crewMember"
-msgstr ""
+msgstr "Bill"
 
 #: src-en/data/events_sector_aea_acid.xml:2542
 msgid ""
@@ -3463,12 +3463,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:2781
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[1]/text"
-msgstr ""
+msgstr "Exiger la remise des marchandises."
 
 #: src-en/data/events_sector_aea_acid.xml:2783
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Vous vous préparez à sécuriser la cargaison par la force."
 
 #: src-en/data/events_sector_aea_acid.xml:2786
 msgid ""
@@ -3484,6 +3484,7 @@ msgstr "Éviter le vaisseau."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[2]/event/text"
 msgstr ""
+"Le vaisseau reste hors de portée de vos armes, puis finit par sauter loin."
 
 #: src-en/data/events_sector_aea_acid.xml:2796
 msgid ""
