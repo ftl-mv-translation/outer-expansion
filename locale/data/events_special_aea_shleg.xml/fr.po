@@ -1,19 +1,36 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-21 10:14+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_special_aea_shlegxml/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_special_aea_shleg.xml:4
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_UPDATE_AEA_SHLEG\"]/text"
 msgstr ""
+"[MAUVAISE RÉPUTATION AUGMENTÉE - ANARCHISTE] \n"
+"\tVos actions ici, justifiables ou non, ne seront pas bien perçues aux yeux "
+"de la Géniocratie ou de ses citoyens. Si vous continuez à agir de la sorte, "
+"vous pourriez commencer à constater des réactions négatives de la part de la "
+"Anarchistes et de ses alliés."
 
 #: src-en/data/events_special_aea_shleg.xml:9
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_UPDATE_AEA_SHLEG_FIGHT\"]/text"
 msgstr ""
+"[MAUVAISE RÉPUTATION AUGMENTÉE - ANARCHISTE] \n"
+"\tVos actions ici, justifiables ou non, ne seront pas bien perçues aux yeux "
+"de la Géniocratie ou de ses citoyens. Si vous continuez à agir de la sorte, "
+"vous pourriez commencer à constater des réactions négatives de la part de la "
+"Anarchistes et de ses alliés."
 
 #: src-en/data/events_special_aea_shleg.xml:13
 msgid ""
@@ -24,21 +41,35 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_REMOVE_AEA_SHLEG\"]/text"
 msgstr ""
+"[MAUVAISE RÉPUTATION DIMINUÉE - ANARCHISTE] \n"
+"\tVous avez fait une bonne action aux yeux des Anarchistes. Si vous aviez "
+"acquis une certaine mauvaise réputation suite à vos actions passées, vous "
+"aurez plus de chances d'être pardonné désormais."
 
 #: src-en/data/events_special_aea_shleg.xml:37
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_START_AEA_SHLEG\"]/text[1]"
 msgstr ""
+"Vous êtes arrivé dans l’Espace Anarchiste. Les Anarchistes ne sont pas "
+"strictement opposés à la Fédération, mais ils n’en sont pas de grands "
+"adeptes non plus. Ils ont déjà fort à faire avec leur rébellion contre la "
+"Kleptocratie et la Géniocratie."
 
 #: src-en/data/events_special_aea_shleg.xml:38
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_START_AEA_SHLEG\"]/text[2]"
 msgstr ""
+"Vous êtes arrivé dans l'Espace Anarchiste. Beaucoup de gens ici regardent la "
+"Fédération avec méfiance, il serait plus prudent de rester discret."
 
 #: src-en/data/events_special_aea_shleg.xml:39
+#, fuzzy
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_START_AEA_SHLEG\"]/text[3]"
 msgstr ""
+"Vous êtes arrivé dans l'Espace Anarchiste. Vous ne trouverez pas beaucoup "
+"d'alliés ici, vous avez juste de la chance que les Limaces, les Coquilles et "
+"autres créatures du genre ne posent pas autant de problèmes à la Fédération."
 
 #: src-en/data/events_special_aea_shleg.xml:53
 msgid ""
@@ -68,6 +99,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_CRIMINAL\"]/text"
 msgstr ""
+"Il y a quelque chose d’étrange ici. D’ordinaire, les Anarchistes ne "
+"prêteraient pas attention à un vaisseau comme le vôtre, mais vous captez des "
+"échanges radio suspects en provenance du vaisseau de garde."
 
 #: src-en/data/events_special_aea_shleg.xml:86
 msgid ""
@@ -90,6 +124,10 @@ msgstr "Continuer..."
 #: src-en/data/events_special_aea_shleg.xml:99
 msgid "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG\"]/text"
 msgstr ""
+"Les Anarchistes accordent une grande importance aux défenses bien "
+"entretenues, non seulement sur leurs vaisseaux, mais aussi dans l’ensemble "
+"de leur secteur. Ainsi, un vaisseau de garde a été déployé pour protéger la "
+"balise d’entrée. Heureusement, il ne semble pas vous voir comme une menace."
 
 #: src-en/data/events_special_aea_shleg.xml:101
 msgid ""
@@ -139,6 +177,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_GUARD_AEA_SHLEG_CONTACT\"]/text[2]"
 msgstr ""
+"Le capitaine Limace est surpris de recevoir un appel de votre part. "
+"Néanmoins, il l’accepte."
 
 #: src-en/data/events_special_aea_shleg.xml:138
 msgid ""
@@ -158,7 +198,7 @@ msgstr "(Armes améliorées) Menacer le garde."
 #: src-en/data/events_special_aea_shleg.xml:150
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_INTERACT\"]/choice[@req=\"LIST_CREW_AEA_SHLEG\"]/text"
-msgstr ""
+msgstr "(Membre d'équipage Anarchiste) Demander de l’aide."
 
 #: src-en/data/events_special_aea_shleg.xml:152
 msgid ""
@@ -193,21 +233,29 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_REQUEST\"]/event[1]/text"
 msgstr ""
+"\"Dézzolé, mais je ne peux rien donner.\" L'Anarchiste coupe votre "
+"transmission."
 
 #: src-en/data/events_special_aea_shleg.xml:177
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_REQUEST\"]/event[2]/text"
 msgstr ""
+"\"Dézzolé, mais je ne peux rien donner.\" L'Anarchiste coupe votre "
+"transmission."
 
 #: src-en/data/events_special_aea_shleg.xml:180
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_REQUEST\"]/event[3]/text"
 msgstr ""
+"À votre surprise, les Anarchistes vous transfèrent des provisions. Vous vous "
+"demandez s'ils le font par bonté... ou par crainte."
 
 #: src-en/data/events_special_aea_shleg.xml:186
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_DEMAND\"]/event[1]/text"
 msgstr ""
+"Ce garde ne tolère pas vos exigences. Il allume ses armes, et vous feriez "
+"bien d'en faire autant."
 
 #: src-en/data/events_special_aea_shleg.xml:189
 msgid ""
@@ -218,6 +266,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_DEMAND\"]/event[2]/text"
 msgstr ""
+"Que ce soit par crainte de vous ou par pure générosité, les Anarchistes "
+"transfèrent volontiers les provisions."
 
 #: src-en/data/events_special_aea_shleg.xml:197
 msgid ""
@@ -228,6 +278,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_THREATEN\"]/event[1]/text"
 msgstr ""
+"Ce garde ne tolère pas vos exigences. Il allume ses armes, et vous feriez "
+"bien d'en faire autant."
 
 #: src-en/data/events_special_aea_shleg.xml:207
 msgid ""
@@ -238,6 +290,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_THREATEN\"]/event[2]/text"
 msgstr ""
+"Que ce soit par crainte de vous ou par pure générosité, les Anarchistes "
+"transfèrent volontiers les provisions."
 
 #: src-en/data/events_special_aea_shleg.xml:215
 msgid ""
@@ -248,6 +302,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_THREATEN\"]/event[3]/text"
 msgstr ""
+"Que ce soit par crainte de vous ou par pure générosité, les Anarchistes "
+"transfèrent volontiers les provisions."
 
 #: src-en/data/events_special_aea_shleg.xml:223
 msgid ""
@@ -258,6 +314,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_DESTROY\"]/text"
 msgstr ""
+"Vous avez vaincu le garde Anarchiste. Quoi qu’il ait pu y avoir dans leur "
+"cargaison, cela a certainement été détruit, mais vous pouvez au moins "
+"récupérer quelques ressources du vaisseau."
 
 #: src-en/data/events_special_aea_shleg.xml:239
 msgid ""
@@ -268,6 +327,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_DEADCREW\"]/text"
 msgstr ""
+"Vous avez vaincu le garde Anarchiste. Sans équipage à bord pour vous "
+"arrêter, vous pouvez inspecter leur cargaison. Vous y trouvez une arme que "
+"vous ramenez à votre vaisseau, puis vous passez au démantèlement de leur "
+"coque."
 
 #: src-en/data/events_special_aea_shleg.xml:248
 msgid ""
@@ -278,6 +341,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_FOLLOWUP\"]/text"
 msgstr ""
+"En éliminant le garde Anarchiste, vous avez sans doute provoqué l'envoi de "
+"renforts pour vous traquer. Restez sur vos gardes en explorant le secteur."
 
 #: src-en/data/events_special_aea_shleg.xml:270
 msgid ""
@@ -308,6 +373,10 @@ msgstr "Endroit non exploré."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"REINFORCEMENTS_AEA_SHLEG\"]/text"
 msgstr ""
+"Il faut beaucoup pour convaincre les Anarchistes d’abandonner leurs manières "
+"timides et de cibler un vaisseau de la Fédération comme le vôtre de front, "
+"mais que pouviez-vous attendre après avoir fait irruption dans ce secteur et "
+"éliminé leur garde ?"
 
 #: src-en/data/events_special_aea_shleg.xml:290
 msgid ""
@@ -333,6 +402,10 @@ msgstr "Endroit non exploré."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/text"
 msgstr ""
+"Il faut beaucoup pour convaincre les Anarchistes d’abandonner leurs manières "
+"timides et de cibler un vaisseau de la Fédération comme le vôtre de front, "
+"mais que pouviez-vous attendre après avoir fait irruption dans ce secteur et "
+"éliminé leur garde ?"
 
 #: src-en/data/events_special_aea_shleg.xml:308
 msgid ""
@@ -363,16 +436,19 @@ msgstr "Endroit non exploré."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/text"
 msgstr ""
+"Cette balise abrite un transporteur anarchiste. Il y a fort à parier que le "
+"vaisseau transporte une technologie spéciale. Si vous parvenez à éliminer "
+"l'équipage à bord, la cargaison sera à vous."
 
 #: src-en/data/events_special_aea_shleg.xml:372
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/text"
-msgstr ""
+msgstr "Exiger la remise des marchandises."
 
 #: src-en/data/events_special_aea_shleg.xml:374
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Vous vous préparez à sécuriser la cargaison par la force."
 
 #: src-en/data/events_special_aea_shleg.xml:377
 msgid ""
@@ -388,6 +464,7 @@ msgstr "Éviter le vaisseau."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/event/text"
 msgstr ""
+"Le vaisseau reste hors de portée de vos armes, puis finit par sauter loin."
 
 #: src-en/data/events_special_aea_shleg.xml:387
 msgid ""
@@ -510,7 +587,7 @@ msgstr "Accepter leur reddition."
 #: src-en/data/events_special_aea_shleg.xml:468
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"SURRENDER_AEA_SHLEG\"]/choice[@req=\"LIST_CREW_AEA_SHLEG\"]/text"
-msgstr ""
+msgstr "(Membre d'équipage Anarchiste) Négocier un autre accord."
 
 #: src-en/data/events_special_aea_shleg.xml:480
 msgid ""
