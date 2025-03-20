@@ -1,14 +1,21 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-03-21 10:14+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_special_aea_oldxml/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/events_special_aea_old.xml:3
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_POWER_CELL_CONTINUE\"]/text"
-msgstr ""
+msgstr "TEST TEST ."
 
 #: src-en/data/events_special_aea_old.xml:11
 msgid ""
@@ -24,6 +31,9 @@ msgstr "???"
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_POWER_CELL_GET\"]/text"
 msgstr ""
+"Il y a les restes d'une arme étrange à cette balise. Presque rien n'est "
+"récupérable. Vous parvenez néanmoins à extraire une arme mystérieuse des "
+"décombres."
 
 #: src-en/data/events_special_aea_old.xml:18
 msgid ""
@@ -33,16 +43,19 @@ msgstr "Continuer..."
 #: src-en/data/events_special_aea_old.xml:29
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "C'est l'emplacement d'une grande structure."
 
 #: src-en/data/events_special_aea_old.xml:30
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "C'est l'emplacement d'une grande structure."
 
 #: src-en/data/events_special_aea_old.xml:32
 msgid "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/text"
 msgstr ""
+"Un anneau massif est en orbite près de la balise, une structure imposante "
+"sans utilité apparente. Apparemment placé ici il y a longtemps, sa fonction "
+"reste un mystère à ce jour."
 
 #: src-en/data/events_special_aea_old.xml:34
 msgid ""
@@ -55,18 +68,22 @@ msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"L'étrange arme que vous avez récupérée plus tôt lors de votre voyage "
+"commence à briller à mesure que vous approchez la structure."
 
 #: src-en/data/events_special_aea_old.xml:38
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
 " and not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/text"
-msgstr ""
+msgstr "(Arme ???) Insérer l’arme dans la porte."
 
 #: src-en/data/events_special_aea_old.xml:40
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
 " and not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/text"
 msgstr ""
+"La porte commence à briller, puis, un instant plus tard, une faille s'ouvre "
+"en son centre, laissant émerger un grand croiseur."
 
 #: src-en/data/events_special_aea_old.xml:45
 msgid ""
@@ -81,6 +98,8 @@ msgid ""
 " and "
 "not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/choice/event/text"
 msgstr ""
+"L'arme que vous avez insérée dans la porte en est expulsée à nouveau, "
+"semblant avoir arraché une partie de la porte avec elle."
 
 #: src-en/data/events_special_aea_old.xml:50
 msgid ""
@@ -95,6 +114,9 @@ msgid ""
 " and "
 "not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Alors que vous récupérez les débris de la porte, vous remarquez que le grand "
+"croiseur fonce maintenant sur vous. Deux de ses armes sont en train de se "
+"charger, mais le reste de son impressionnant arsenal est encore hors ligne."
 
 #: src-en/data/events_special_aea_old.xml:59
 msgid ""
@@ -113,7 +135,7 @@ msgstr "L'ignorer."
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
 " and not(@lvl)]/event/choice[2]/event/text"
-msgstr ""
+msgstr "Vous admirez la structure pendant que votre moteur SPL se recharge."
 
 #: src-en/data/events_special_aea_old.xml:73
 msgid ""
@@ -137,7 +159,7 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "Vous admirez la structure pendant que votre moteur SPL se recharge."
 
 #: src-en/data/events_special_aea_old.xml:89
 msgid ""
@@ -155,11 +177,20 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_GATE_GUARD_BOSS\"]/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
+"Le Croiseur Mystérieux charge son moteur MV. Son artillerie semble être une "
+"arme étrange qui s'accroche à votre vaisseau et vous relie à lui. Vous serez "
+"probablement entraîné avec eux s'ils passent en hyperespace…"
 
 #: src-en/data/events_special_aea_old.xml:111
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_GATE_GUARD_BOSS\"]/destroyed/text"
 msgstr ""
+"Vous avez détruit le Croiseur Mystérieux et commencez à récupérer des "
+"matériaux sur l’épave. \n"
+"\n"
+"Vous vous demandez si quelque chose se serait produit si vous l’aviez laissé "
+"s’échapper en vous emmenant avec lui…\n"
+"\t\t."
 
 #: src-en/data/events_special_aea_old.xml:117
 msgid ""
@@ -170,11 +201,17 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"ESCAPE_AEA_OLD_GUARD_BOSS\"]/text"
 msgstr ""
+"Étonnamment, il semble que le croiseur tente de s’enfuir. Si vous ne faites "
+"pas attention, vous risquez d’être entraîné avec lui. \n"
+"\n"
+"Son artillerie semble être une sorte de grappins qui s’accrochent à votre "
+"vaisseau et vous lient à lui. Vous serez probablement emporté avec eux s’ils "
+"passent en hyperespace…"
 
 #: src-en/data/events_special_aea_old.xml:129
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"GOTAWAY_AEA_OLD_GUARD_BOSS\"]/text"
-msgstr ""
+msgstr "Le moteur de saut du vaisseau s’active et l’emporte au loin."
 
 #: src-en/data/events_special_aea_old.xml:132
 msgid ""
@@ -187,6 +224,8 @@ msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"GOTAWAY_AEA_OLD_GUARD_BOSS\"]/choice[@req=\"aea_old_gate_guard_attached\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Presque au même instant, vous êtes arraché du sol lorsque votre vaisseau est "
+"entraîné en hyperespace avec le croiseur."
 
 #: src-en/data/events_special_aea_old.xml:136
 msgid ""
@@ -204,6 +243,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE_GUARD_BOSS_ACTIVATE\"]/text"
 msgstr ""
+"Il semble que votre action ait suffisamment irrité le vaisseau pour qu’il "
+"active le reste de son arsenal."
 
 #: src-en/data/events_special_aea_old.xml:158
 msgid ""
@@ -214,6 +255,16 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_BEAM_MASTER\"]/text"
 msgstr ""
+"\"J’ai enfin compris ! La raison pour laquelle je perdais tout le temps, c’"
+"est parce que vous continuez à tirer sur mon vaisseau ! D’abord, je me suis "
+"dit : ‘Eh bien, pourquoi ne pas leur enlever leurs armes ?’ Mais mon "
+"équipage m’a dit que ce n’était pas vraiment faisable. Alors, j’ai réfléchi "
+"à ce que vous visez d’habitude… et Eurêka ! Vous tirez sur mes systèmes, n"
+"’est-ce pas ? Petit malin, le secret est dévoilé ! Mais maintenant, c’est "
+"fini. Ces Lylmiks trop cool m’ont vendu cette armure, et honnêtement, je les "
+"ai complètement arnaqués. Ça m’a juste coûté toutes mes autres armes, mais "
+"maintenant, je suis pratiquement invincible. Je suis devenu… le MAÎTRE DE L’"
+"ARMURE ! Bonne chance pour toucher quoi que ce soit, minable !\""
 
 #: src-en/data/events_special_aea_old.xml:174
 msgid ""
@@ -229,51 +280,75 @@ msgstr "(Rayon puissant) Montrer le rayon à Leah."
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[1]"
 msgstr ""
+"L’épave se désagrège en des milliers de morceaux de ferraille. "
+"Malheureusement, tous ne sont pas réellement utilisables."
 
 #: src-en/data/events_special_aea_old.xml:205
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[2]"
 msgstr ""
+"Alors que le vaisseau se désagrège, vous vous demandez combien de temps il "
+"faudra avant qu’un autre vaisseau du même type ne soit attiré dans ce "
+"segment du multivers."
 
 #: src-en/data/events_special_aea_old.xml:206
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[3]"
 msgstr ""
+"Les fonderies de vaisseaux dans l’espace Lylmik ne sont tout simplement pas "
+"aussi performantes que celles ayant accès au reste du multivers. En "
+"conséquence, il est peu probable que vous voyiez de sitôt un autre vaisseau "
+"comme celui qui vient d’exploser."
 
 #: src-en/data/events_special_aea_old.xml:207
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[4]"
 msgstr ""
+"Un autre ennemi puissant abattu. Cela ne vous a pas vraiment rapproché de "
+"votre évasion, mais au moins, vous avez récupéré un peu de ferraille."
 
 #: src-en/data/events_special_aea_old.xml:210
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"DESTROYED_AEA_OLD_MV_GUN\"]/text"
 msgstr ""
+"À votre surprise, une arme a survécu à l'explosion. Elle est un peu "
+"carbonisée, mais avec quelques réparations, vous pourrez la récupérer."
 
 #: src-en/data/events_special_aea_old.xml:228
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD_MV\"]/text[1]"
 msgstr ""
+"Avec des vaisseaux avancés comme celui-ci en si faible nombre, il ne faudra "
+"sans doute pas longtemps avant qu’il ne soit récupéré par d’autres âmes "
+"malchanceuses."
 
 #: src-en/data/events_special_aea_old.xml:229
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD_MV\"]/text[2]"
 msgstr ""
+"Avec l'équipage réduit à une simple tache rouge sur les murs du vaisseau, "
+"vous pouvez le démanteler en toute tranquillité."
 
 #: src-en/data/events_special_aea_old.xml:230
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD_MV\"]/text[3]"
 msgstr ""
+"Seuls les vaisseaux les plus dangereux survivent ici. Malheureusement pour l’"
+"équipage de ce vaisseau, vous êtes le plus dangereux de tous."
 
 #: src-en/data/events_special_aea_old.xml:233
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"DEAD_CREW_AEA_OLD_MV_GUN\"]/text"
 msgstr ""
+"Désormais vidé de son équipage, vous découvrez l'une de leurs armes à bord. "
+"Vous l'emportez avec vous avant de démanteler le vaisseau."
 
 #: src-en/data/events_special_aea_old.xml:245
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STATIONDEFEND\"]/destroyed/text"
 msgstr ""
+"Avec le vaisseau détruit, vous pouvez le démanteler et en tirer une "
+"récompense décente."
 
 #: src-en/data/events_special_aea_old.xml:248
 msgid ""
@@ -284,6 +359,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STATIONDEFEND\"]/deadCrew/text"
 msgstr ""
+"Avec le vaisseau vidé de son équipage, vous pouvez le démanteler et en tirer "
+"une récompense décente."
 
 #: src-en/data/events_special_aea_old.xml:256
 msgid ""
@@ -294,6 +371,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STORE_PROTECT\"]/destroyed/text"
 msgstr ""
+"Avec le vaisseau détruit, vous pouvez le démanteler et en tirer une "
+"récompense décente."
 
 #: src-en/data/events_special_aea_old.xml:267
 msgid ""
@@ -304,6 +383,8 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STORE_PROTECT\"]/deadCrew/text"
 msgstr ""
+"Avec le vaisseau vidé de son équipage, vous pouvez le démanteler et en tirer "
+"une récompense décente."
 
 #: src-en/data/events_special_aea_old.xml:275
 msgid ""
@@ -329,16 +410,19 @@ msgstr "Endroit non exploré."
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/text"
 msgstr ""
+"Cette balise abrite une station Lylmik. Il y a fort à parier que la station "
+"transporte une technologie spéciale. Si vous parvenez à éliminer l’équipage "
+"à bord, la cargaison sera à vous."
 
 #: src-en/data/events_special_aea_old.xml:297
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[1]/text"
-msgstr ""
+msgstr "Exiger la remise des marchandises."
 
 #: src-en/data/events_special_aea_old.xml:299
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Vous vous préparez à sécuriser la cargaison par la force."
 
 #: src-en/data/events_special_aea_old.xml:302
 msgid ""
@@ -354,6 +438,8 @@ msgstr "Éviter la station."
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[2]/event/text"
 msgstr ""
+"Vous restez en dehors de la portée de la station et vous vous préparez à "
+"sauter loin d'ici."
 
 #: src-en/data/events_special_aea_old.xml:312
 msgid ""
@@ -369,41 +455,62 @@ msgstr "Ne rien faire."
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_OLD\"]/text"
 msgstr ""
+"L’équipage est mort, vous laissant seul maître de la station. Sa cargaison "
+"est à vous. À bord, vous trouvez la technologie spéciale que vous espériez "
+"et la rapportez à votre vaisseau."
 
 #: src-en/data/events_special_aea_old.xml:339
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD\"]/text[1]"
 msgstr ""
+"Le vaisseau Lylmik explose en une multitude de fragments plus petits. Vous "
+"distinguez des morceaux d’armure, restés intacts malgré l’explosion. C’est "
+"étrangement satisfaisant, et vous contemplez votre œuvre avec une certaine "
+"fierté tandis que vous récupérez les débris."
 
 #: src-en/data/events_special_aea_old.xml:340
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD\"]/text[2]"
 msgstr ""
+"Vous vous demandez comment vous n'aviez jamais entendu parler des Lylmiks "
+"auparavant, puis vous vous rappelez cette histoire d'enlèvement."
 
 #: src-en/data/events_special_aea_old.xml:341
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD\"]/text[3]"
 msgstr ""
+"A chaque vaisseau Lylmik détruit, vous vous rapprochez un peu plus de votre "
+"évasion de leur quarantaine. Ce n'est pas grand-chose, mais c'est suffisant "
+"pour vous motiver à continuer."
 
 #: src-en/data/events_special_aea_old.xml:349
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[1]"
 msgstr ""
+"Alors que le dernier Lylmik s'effondre, il laisse échapper ces derniers mots "
+": \"Va... te faire...\""
 
 #: src-en/data/events_special_aea_old.xml:350
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[2]"
 msgstr ""
+"Vous avez rapidement éliminé ces aliens. Vous ne ressentez aucune "
+"culpabilité, après tout, ce ne sont pas vraiment des meurtres."
 
 #: src-en/data/events_special_aea_old.xml:351
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[3]"
 msgstr ""
+"Vous avez entendu dire que, plutôt que de mourir, les Lylmiks sont "
+"simplement redirigés vers un nouveau corps. Mieux vaut espérer que ces "
+"nouveaux corps ne se trouvent pas dans les parages."
 
 #: src-en/data/events_special_aea_old.xml:352
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[4]"
 msgstr ""
+"Vous n’éprouvez peut-être aucun remords pour les Lylmiks, mais leur équipage "
+"organique ne mérite pas toujours le même sort."
 
 #: src-en/data/events_special_aea_old.xml:357
 msgid ""
@@ -451,6 +558,8 @@ msgstr "Vous ne nous faites pas peur."
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_STATION_EXCLUSIVE\"]/surrender/text"
 msgstr ""
+"\"D'accord, d'accord, vous pouvez accéder à la station, mais ne nous tuez "
+"pas.\""
 
 #: src-en/data/events_special_aea_old.xml:428
 msgid ""
@@ -461,6 +570,8 @@ msgstr "Les laisser vivre."
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_STATION_EXCLUSIVE\"]/surrender/choice[1]/event/text"
 msgstr ""
+"Vous accédez à la station et découvrez qu’il ne s’agit en réalité que d’une "
+"immense boutique."
 
 #: src-en/data/events_special_aea_old.xml:436
 msgid ""
