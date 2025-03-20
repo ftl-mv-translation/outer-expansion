@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-27 17:42+0000\n"
+"PO-Revision-Date: 2025-03-21 10:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_aea_acidxml/fr/>\n"
@@ -145,22 +145,26 @@ msgstr ""
 #: src-en/data/events_special_aea_acid.xml:105
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"aea_acid_soldier\"]/text"
-msgstr ""
+msgstr "(Soldat Acide) Entrer librement."
 
 #: src-en/data/events_special_aea_acid.xml:107
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"aea_acid_soldier\"]/event/text"
 msgstr ""
+"La Croissance Acide se veut accueillante envers elle-même, vous êtes libre "
+"d’entrer."
 
 #: src-en/data/events_special_aea_acid.xml:112
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"aea_acid_captain\"]/text"
-msgstr ""
+msgstr "(Leader Acide) Entrer librement."
 
 #: src-en/data/events_special_aea_acid.xml:114
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"aea_acid_captain\"]/event/text"
 msgstr ""
+"La Croissance Acide se veut accueillante envers elle-même, vous êtes libre "
+"d’entrer."
 
 #: src-en/data/events_special_aea_acid.xml:119
 msgid ""
@@ -236,6 +240,9 @@ msgstr "(Pilotage de pointe) Activer l'auto-pilote et essayer de s'enfuir."
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID_DESTROY\"]/text"
 msgstr ""
+"Vous avez vaincu le Garde Acide. Tout ce qui aurait pu se trouver dans leur "
+"soute est certainement détruit, mais au moins vous pouvez récupérer des "
+"ressources de leur vaisseau."
 
 #: src-en/data/events_special_aea_acid.xml:181
 msgid ""
@@ -375,22 +382,26 @@ msgstr "Continuer..."
 #: src-en/data/events_special_aea_acid.xml:308
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_soldier\"]/text"
-msgstr ""
+msgstr "(Soldat Acide) Entrer librement."
 
 #: src-en/data/events_special_aea_acid.xml:310
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_soldier\"]/event/text"
 msgstr ""
+"La Croissance Acide se veut accueillante envers elle-même, vous êtes libre "
+"d’entrer."
 
 #: src-en/data/events_special_aea_acid.xml:315
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_captain\"]/text"
-msgstr ""
+msgstr "(Leader Acide) Entrer librement."
 
 #: src-en/data/events_special_aea_acid.xml:317
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_captain\"]/event/text"
 msgstr ""
+"La Croissance Acide se veut accueillante envers elle-même, vous êtes libre "
+"d’entrer."
 
 #: src-en/data/events_special_aea_acid.xml:322
 msgid ""
@@ -541,6 +552,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_DESTROY\"]/text"
 msgstr ""
+"Vous avez vaincu le Garde Acide. Tout ce qui aurait pu se trouver dans leur "
+"soute est certainement détruit, mais au moins vous pouvez récupérer des "
+"ressources de leur vaisseau."
 
 #: src-en/data/events_special_aea_acid.xml:446
 msgid ""
@@ -650,12 +664,12 @@ msgstr ""
 #: src-en/data/events_special_aea_acid.xml:577
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[1]/text"
-msgstr ""
+msgstr "Exiger la remise des marchandises."
 
 #: src-en/data/events_special_aea_acid.xml:579
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Vous vous préparez à sécuriser la cargaison par la force."
 
 #: src-en/data/events_special_aea_acid.xml:582
 msgid ""
@@ -671,6 +685,7 @@ msgstr "Éviter le vaisseau."
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[2]/event/text"
 msgstr ""
+"Le vaisseau reste hors de portée de vos armes, puis finit par sauter loin."
 
 #: src-en/data/events_special_aea_acid.xml:592
 msgid ""
