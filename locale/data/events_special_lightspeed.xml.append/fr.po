@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-21 10:14+0000\n"
+"PO-Revision-Date: 2025-03-22 11:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_lightspeedxmlappend/fr/>\n"
@@ -58,25 +58,25 @@ msgstr "Continuer vers le Secteur Gi."
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "Continuer vers les Terres de Nidification Gi."
 
 #: src-en/data/events_special_lightspeed.xml.append:36
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "Continuer vers le Secteur Anarchiste."
 
 #: src-en/data/events_special_lightspeed.xml.append:40
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU\"]/mod-"
 "append:choice[10]/text"
-msgstr ""
+msgstr "Continuer vers la Nébuleuse Centrale Anarchiste."
 
 #: src-en/data/events_special_lightspeed.xml.append:44
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU\"]/mod-"
 "append:choice[11]/text"
-msgstr ""
+msgstr "Continuer vers le Centre Lylmik."
 
 #: src-en/data/events_special_lightspeed.xml.append:51
 msgid ""
@@ -124,67 +124,67 @@ msgstr "Continuer vers le Secteur Gi."
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "Continuer vers les Terres de Nidification Gi."
 
 #: src-en/data/events_special_lightspeed.xml.append:83
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "Continuer vers le Secteur Anarchiste."
 
 #: src-en/data/events_special_lightspeed.xml.append:87
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[10]/text"
-msgstr ""
+msgstr "Continuer vers la Nébuleuse Centrale Anarchiste."
 
 #: src-en/data/events_special_lightspeed.xml.append:91
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[11]/text"
-msgstr ""
+msgstr "Continuer vers le Centre Lylmik."
 
 #: src-en/data/events_special_lightspeed.xml.append:98
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Accéder aux Origines Acides."
 
 #: src-en/data/events_special_lightspeed.xml.append:105
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_LASTSTAND\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Accéder aux Origines Acides."
 
 #: src-en/data/events_special_lightspeed.xml.append:112
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Aller aux Origines Acides."
 
 #: src-en/data/events_special_lightspeed.xml.append:116
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Aller au Centre Blasphématoire."
 
 #: src-en/data/events_special_lightspeed.xml.append:120
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Aller à la Demeure de l’Unifleur."
 
 #: src-en/data/events_special_lightspeed.xml.append:124
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Aller aux Terres de Nidification Gi."
 
 #: src-en/data/events_special_lightspeed.xml.append:128
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "Continuer vers la Nébuleuse Centrale Anarchiste."
 
 #: src-en/data/events_special_lightspeed.xml.append:148
 msgid ""
@@ -195,6 +195,16 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"AEA_ACID_WARP\"]/text"
 msgstr ""
+"Nom : Territoire Acide\n"
+"Type : Neutre (Nébuleuse)\n"
+"Unique : Faux\n"
+"Faction Dominante : La Croissance Acide\n"
+"Niveau de Menace Rebelle : Faible\n"
+"\n"
+"La Croissance Acide est une faction relativement méconnue, supposée être une "
+"forme d'esprit de ruche ou de croissance fongique. Elle a néanmoins réussi à "
+"développer sa propre technologie afin d’étendre ses frontières au-delà des "
+"nébuleuses où elle s’est formée."
 
 #: src-en/data/events_special_lightspeed.xml.append:161
 msgid ""
@@ -239,7 +249,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_lightspeed.xml.append:205
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AEA_BILL\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -262,7 +271,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_lightspeed.xml.append:227
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AEA_BILL_HAT\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -285,7 +293,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_lightspeed.xml.append:250
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AEA_BILL_BOSS\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -299,6 +306,16 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"AEA_NECRO_WARP\"]/text"
 msgstr ""
+"Nom : Territoire Hérétique\n"
+"Type : Hostile\n"
+"Unique : Faux\n"
+"Faction Dominante : Hérétiques Engi\n"
+"Niveau de Menace Rebelle : Faible\n"
+"\n"
+"Les Hérétiques Engi sont des parias, même parmi les séparatistes. Libérés de "
+"l’harmonie, ces Engi préfèrent utiliser la vie organique comme un simple "
+"outil à leur service. Vous devriez pouvoir circuler sans encombre… tant que "
+"vous n’avez pas d’équipage organique."
 
 #: src-en/data/events_special_lightspeed.xml.append:288
 msgid ""
@@ -343,7 +360,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_lightspeed.xml.append:332
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AEA_NECRO_HAT\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -357,6 +373,15 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"AEA_CULT_WARP\"]/text"
 msgstr ""
+"Nom : Secteur Sous Contrôle des Cultistes de la Confédération\n"
+"Type : Neutre\n"
+"Unique : Faux\n"
+"Faction Dominante : Culte des Vampiflores\n"
+"Niveau de Menace Rebelle : Moyenne-Faible\n"
+"\n"
+"Bien que ne faisant pas directement partie de la Confédération, le Culte "
+"entretient des liens étroits avec elle. Vos actions dans cet espace auront "
+"donc un impact sur votre réputation auprès de la Confédération."
 
 #: src-en/data/events_special_lightspeed.xml.append:371
 msgid ""
@@ -401,7 +426,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_lightspeed.xml.append:415
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AEA_CULT_HAT\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -415,6 +439,15 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"AEA_BIRD_WARP\"]/text"
 msgstr ""
+"Nom : Secteur Sous Contrôle Gi\n"
+"Type : Neutre\n"
+"Unique : Faux\n"
+"Faction Dominante : Fédération Gi\n"
+"Niveau de Menace Rebelle : Moyen (Flotte Neutre)\n"
+"\n"
+"Les Gi sont de proches alliés de la Fédération. Récemment découverts, ils "
+"n'ont pas encore officiellement rejoint la Fédération, mais ils sont en "
+"bonne voie. Une présence fédérale importante est établie dans ce secteur."
 
 #: src-en/data/events_special_lightspeed.xml.append:454
 msgid ""
@@ -459,7 +492,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_lightspeed.xml.append:498
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AEA_BIRD_HAT\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -473,6 +505,16 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"AEA_SHLEG_WARP\"]/text"
 msgstr ""
+"Nom : Secteur Sous Contrôle Anarchistes \n"
+"Type : Neutre (Nébuleuse) \n"
+"Unique : Faux  \n"
+"Faction Dominante : Coquilles et Limaces Anarchistes\n"
+"Niveau de Menace Rebelle : Moyen (Flotte Automatisée)  \n"
+"\n"
+"Les Anarchistes sont un groupe réunissant à la fois des Coquilles et des "
+"Limaces, unis dans leur lutte contre leurs gouvernements respectifs. Bien qu’"
+"ils ne soient pas en conflit direct avec la Fédération, ils ne l’apprécient "
+"pas particulièrement non plus. Restez sur vos gardes."
 
 #: src-en/data/events_special_lightspeed.xml.append:537
 msgid ""
@@ -517,7 +559,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_lightspeed.xml.append:581
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AEA_SHLEG_HAT\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -526,6 +567,8 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ENTER_AEA_OLD_1\"]/text"
 msgstr ""
+"Vous avez été entraîné en hypervitesse par le vaisseau mystérieux, et vous "
+"ne pouvez plus le localiser."
 
 #: src-en/data/events_special_lightspeed.xml.append:607
 msgid ""
@@ -536,6 +579,12 @@ msgstr "Continuer vers ???."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"AEA_OLD_1_WARP\"]/text"
 msgstr ""
+"Nom : ??? \n"
+"\tType : ???  \n"
+"\tFaction Dominante : ???  \n"
+"\tNiveau de Menace Rebelle : ???  \n"
+"\n"
+"\tAucune donnée sur le prochain secteur n'est disponible dans votre Atlas."
 
 #: src-en/data/events_special_lightspeed.xml.append:619
 msgid ""
@@ -561,6 +610,12 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"AEA_OLD_2_WARP\"]/text"
 msgstr ""
+"Nom : Centre Lylmik\n"
+"\tType : ???\n"
+"\tFaction Dominante : ???\n"
+"\tNiveau de Menace Rebelle : ???\n"
+"\n"
+"\tVotre Atlas ne contient que très peu de données sur le prochain secteur."
 
 #: src-en/data/events_special_lightspeed.xml.append:648
 msgid ""
@@ -586,6 +641,12 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"AEA_OLD_3_WARP\"]/text"
 msgstr ""
+"Nom : Passage de la Porte\n"
+"\tType : ???\n"
+"\tFaction Dominante : ???\n"
+"\tNiveau de Menace Rebelle : ???\n"
+"\n"
+"\tVotre Atlas ne contient que très peu de données sur le prochain secteur."
 
 #: src-en/data/events_special_lightspeed.xml.append:676
 msgid ""
