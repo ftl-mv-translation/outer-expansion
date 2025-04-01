@@ -35,6 +35,13 @@
 			<loadEvent>STORAGE_CHECK_JUKEBOX</loadEvent>
 		</event>
 	</mod-append:choice>
+	<mod-append:choice hidden="true" req="juke_aea_shard">
+		<text>OE: Shard.</text>
+		<event>
+			<playMusic>aea_shard</playMusic>
+			<loadEvent>STORAGE_CHECK_JUKEBOX</loadEvent>
+		</event>
+	</mod-append:choice>
 	<mod-append:choice hidden="true" req="juke_aea_old_1">
 		<text>OE: Lylmik.</text>
 		<event>
@@ -46,6 +53,13 @@
 		<text>OE: Lylmik Core.</text>
 		<event>
 			<playMusic>aea_lylmik_core</playMusic>
+			<loadEvent>STORAGE_CHECK_JUKEBOX</loadEvent>
+		</event>
+	</mod-append:choice>
+	<mod-append:choice hidden="true" req="juke_aea_old_3">
+		<text>OE: Lylmik Boss.</text>
+		<event>
+			<playMusic>aea_lylmik_boss</playMusic>
 			<loadEvent>STORAGE_CHECK_JUKEBOX</loadEvent>
 		</event>
 	</mod-append:choice>

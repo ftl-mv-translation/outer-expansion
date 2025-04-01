@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FTL>
-<version>^1.15.0</version>
+<version>^1.18.0</version>
 <mod:findLike type="scripts">
   <mod-append:script>data/aea_scripts/aea_functions.lua</mod-append:script>
   <!--mod-append:script>data/aea_scripts/aea_functions_test.lua</mod-append:script-->
   <mod-append:script>data/aea_scripts/aeaIcon.lua</mod-append:script>
   <mod-append:script>data/aea_scripts/arc_modathon_aea.lua</mod-append:script>
   <!--mod-append:script>data/aea_scripts/arc_test_light_nebula.lua</mod-append:script-->
+  <mod-append:script>data/aea_scripts/aea_main_menu.lua</mod-append:script>
+  <mod-append:script>data/aea_scripts/aea_super_shields.lua</mod-append:script>
+  <!--mod-append:script>data/aea_scripts/aea_clone_crime.lua</mod-append:script-->
 </mod:findLike>
-
+<dualMedical enabled="true"/>
+<mod:findLike type="customSystems">
+    <mod-append:customSystem id="aea_super_shields"/>
+    <mod-append:customSystem id="aea_clone_crime"/>
+	<mod-append:exclusivityGroup>
+        <medbay/>
+        <clonebay/>
+        <aea_clone_crime/>
+    </mod-append:exclusivityGroup>
+	<mod-append:exclusivityGroup>
+        <cloaking/>
+        <aea_super_shields/>
+    </mod-append:exclusivityGroup>
+</mod:findLike>
 <mod:findLike type="ships" limit="1">
 	
 	<mod:findLike type="shipIcons">
@@ -72,6 +88,16 @@ Drones, Shells, Vampweeds, Ghosts and Lanius are immune.</tooltip>
 Breaches on this enemy will automatically be repaired even in the absence of crew. Also provides friendly crew with 3hp/s of healing and drains enemy crew at 3hp/s in empty rooms.
 Drones, Shells, Vampweeds, Ghosts and Lanius are immune.</tooltip>
         </mod-append:shipIcon>
+		<mod-append:shipIcon>
+            <name>icon_aea_shard_armour</name>
+            <tooltip>Shard-Forged Armour:
+Every time you deal hull damage to this enemy with your weapons, there is a 25% chance that a shard will break off and fly towards your ship. It will not pierce any shields, but will do 1 damage to a random room if it hits.</tooltip>
+        </mod-append:shipIcon>
+		<mod-append:shipIcon>
+            <name>icon_aea_shard_shield</name>
+            <tooltip>Strong Auxiliary Shields:
+This enemy ship is equipped with a strong auxiliary shield generator, It starts out combat with 6 energy shield layers.</tooltip>
+        </mod-append:shipIcon>
 	</mod:findLike>
 
   	<mod:findLike type="shipOrder">
@@ -108,11 +134,12 @@ Drones, Shells, Vampweeds, Ghosts and Lanius are immune.</tooltip>
 		
 		<mod-append:empty/>
 		<mod-append:empty/>
-		<mod-append:ship>PLAYER_SHIP_AEA_SHARD_SCOUT</mod-append:ship>
+		<mod-append:ship>PLAYER_SHIP_AEA_SHARD_AUTO</mod-append:ship>
+		<!--mod-append:ship>PLAYER_SHIP_AEA_SHARD_SCOUT</mod-append:ship-->
 		<mod-append:ship>PLAYER_SHIP_AEA_SHARD_BATTLE</mod-append:ship>
 		
 		<mod-append:ship>PLAYER_SHIP_AEA_CREW5</mod-append:ship>
-		<mod-append:empty/>
+		<mod-append:ship>PLAYER_SHIP_AEA_CREW6</mod-append:ship>
 
 
 		<mod-append:ship>PLAYER_SHIP_AEA_CULT_WHALE</mod-append:ship>
@@ -167,17 +194,17 @@ Drones, Shells, Vampweeds, Ghosts and Lanius are immune.</tooltip>
             <shipReq>PLAYER_SHIP_AEA_ACID_LONG</shipReq>
         </unlock>
 	</mod-append:ship>
-	<mod-append:ship name="PLAYER_SHIP_AEA_CREW1" b="false" c="false" >
+	<mod-append:ship name="PLAYER_SHIP_AEA_CREW1" b="false" c="false" secret="true">
 		<unlock variant="a" silent="false">
 			<type>4</type>
 		</unlock>
 	</mod-append:ship>
-	<mod-append:ship name="PLAYER_SHIP_AEA_CREW3" b="false" c="false" >
+	<mod-append:ship name="PLAYER_SHIP_AEA_CREW3" b="false" c="false" secret="true">
 		<unlock variant="a" silent="false">
 			<type>4</type>
 		</unlock>
 	</mod-append:ship>
-	<mod-append:ship name="PLAYER_SHIP_AEA_CREW5" b="false" c="false" >
+	<mod-append:ship name="PLAYER_SHIP_AEA_CREW5" b="false" c="false" secret="true">
 		<unlock variant="a" silent="false">
 			<type>4</type>
 		</unlock>
@@ -225,12 +252,12 @@ Drones, Shells, Vampweeds, Ghosts and Lanius are immune.</tooltip>
             <shipReq>PLAYER_SHIP_AEA_NECRO_SEPA</shipReq>
         </unlock>
 	</mod-append:ship>
-	<mod-append:ship name="PLAYER_SHIP_AEA_CREW2" b="false" c="false" >
+	<mod-append:ship name="PLAYER_SHIP_AEA_CREW2" b="false" c="false" secret="true">
 		<unlock variant="a" silent="false">
 			<type>4</type>
 		</unlock>
 	</mod-append:ship>
-	<mod-append:ship name="PLAYER_SHIP_AEA_CREW4" b="false" c="false" >
+	<mod-append:ship name="PLAYER_SHIP_AEA_CREW4" b="false" c="false" secret="true">
 		<unlock variant="a" silent="false">
 			<type>4</type>
 		</unlock>
@@ -356,26 +383,75 @@ Drones, Shells, Vampweeds, Ghosts and Lanius are immune.</tooltip>
         </unlock>
 	</mod-append:ship>
 
-	<mod-append:ship name="PLAYER_SHIP_AEA_SHARD_BATTLE" b="false" c="false" secret="true">
+	<mod-append:ship name="PLAYER_SHIP_AEA_SHARD_BATTLE" b="true" c="true">
+		<unlock variant="a" silent="false">
+			<type>4</type>
+		</unlock>
+		<unlock variant="b" silent="false">
+            <type>1</type>
+            <shipReq>PLAYER_SHIP_AEA_SHARD_BATTLE</shipReq>
+            <value>5</value>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>1</type>
+            <shipReq>PLAYER_SHIP_AEA_SHARD_BATTLE_2</shipReq>
+            <value>5</value>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>2</type>
+            <shipReq>PLAYER_SHIP_AEA_SHARD_BATTLE</shipReq>
+        </unlock>
+	</mod-append:ship>
+
+	<mod-append:ship name="PLAYER_SHIP_AEA_CREW6" b="false" c="false" secret="true">
 		<unlock variant="a" silent="false">
 			<type>4</type>
 		</unlock>
 	</mod-append:ship>
 
-	<mod-append:ship name="PLAYER_SHIP_AEA_SHARD_SCOUT" b="false" c="false" secret="true">
+	<!--mod-append:ship name="PLAYER_SHIP_AEA_SHARD_SCOUT" b="false" c="false">
 		<unlock variant="a" silent="false">
 			<type>4</type>
 		</unlock>
+	</mod-append:ship-->
+
+	<mod-append:ship name="PLAYER_SHIP_AEA_SHARD_AUTO" b="true" c="true">
+		<unlock variant="a" silent="false">
+			<type>4</type>
+		</unlock>
+		<unlock variant="b" silent="false">
+            <type>1</type>
+            <shipReq>PLAYER_SHIP_AEA_SHARD_AUTO</shipReq>
+            <value>5</value>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>1</type>
+            <shipReq>PLAYER_SHIP_AEA_SHARD_AUTO_2</shipReq>
+            <value>5</value>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>2</type>
+            <shipReq>PLAYER_SHIP_AEA_SHARD_AUTO</shipReq>
+        </unlock>
 	</mod-append:ship>
 
-	<mod-append:ship name="PLAYER_SHIP_AEA_BROADSIDE" b="true" c="false" secret="true">
-		<!--unlock variant="a" silent="false">
+	<mod-append:ship name="PLAYER_SHIP_AEA_BROADSIDE" b="true" c="true" secret="true">
+		<unlock variant="a" silent="false">
 			<type>4</type>
-		</unlock-->
+		</unlock>
 		<unlock variant="b" silent="false">
             <type>1</type>
             <shipReq>PLAYER_SHIP_AEA_BROADSIDE</shipReq>
             <value>5</value>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>1</type>
+            <shipReq>PLAYER_SHIP_AEA_BROADSIDE_2</shipReq>
+            <value>5</value>
+        </unlock>
+		<unlock variant="c" silent="false">
+            <type>2</type>
+            <shipReq>PLAYER_SHIP_AEA_BROADSIDE</shipReq>
         </unlock>
 	</mod-append:ship>
 
@@ -1144,12 +1220,60 @@ Drones, Shells, Vampweeds, Ghosts and Lanius are immune.</tooltip>
 		<hiddenAug>SHIP_PIRATE</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 	</mod-append:customShip>
-	<mod-append:customShip name="PLAYER_SHIP_AEA_SHARD_SCOUT">
+	<mod-append:customShip name="PLAYER_SHIP_AEA_SHARD_BATTLE_2">
+		<hiddenAug>SHIP_PIRATE</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<exclusivityOverride>
+			<exclusivityGroup>
+				<cloaking/>
+				<aea_super_shields/>
+			</exclusivityGroup>
+		</exclusivityOverride>
+	</mod-append:customShip>
+	<mod-append:customShip name="PLAYER_SHIP_AEA_SHARD_BATTLE_3">
+		<hiddenAug>SHIP_PIRATE</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+	</mod-append:customShip>
+	<mod-append:customShip name="PLAYER_SHIP_AEA_CREW6">
+		<hiddenAug>SHIP_PIRATE</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crew>
+			<aea_shard_dawn name="King Onyx" room="2"/>
+			<aea_shard_breaker room="0"/>
+			<aea_shard_smasher room="1"/>
+		</crew>
+	</mod-append:customShip>
+
+	<!--mod-append:customShip name="PLAYER_SHIP_AEA_SHARD_SCOUT">
 		<hiddenAug>SHIP_PIRATE</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<crewLimit>11</crewLimit>
 		<customReactor maxLevel="35" />
 		<systemLimit>10</systemLimit>
+	</mod-append:customShip-->
+	<mod-append:customShip name="PLAYER_SHIP_AEA_SHARD_AUTO">
+		<hiddenAug>SHIP_PIRATE</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<systemLimit>9</systemLimit>
+	</mod-append:customShip>
+	<mod-append:customShip name="PLAYER_SHIP_AEA_SHARD_AUTO_2">
+		<hiddenAug>SHIP_PIRATE</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<exclusivityOverride>
+			<exclusivityGroup>
+				<medbay/>
+				<clonebay/>
+			</exclusivityGroup>
+			<exclusivityGroup>
+				<shields/>
+				<aea_super_shields/>
+			</exclusivityGroup>
+		</exclusivityOverride>
+	</mod-append:customShip>
+	<mod-append:customShip name="PLAYER_SHIP_AEA_SHARD_AUTO_3">
+		<hiddenAug>SHIP_PIRATE</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<autoShipForce>true</autoShipForce>
 	</mod-append:customShip>
 
 	<mod-append:customShip name="PLAYER_SHIP_AEA_BROADSIDE">
@@ -1162,6 +1286,13 @@ Drones, Shells, Vampweeds, Ghosts and Lanius are immune.</tooltip>
 	<mod-append:customShip name="PLAYER_SHIP_AEA_BROADSIDE_2">
 		<hiddenAug>SHIP_REBEL</hiddenAug>
 		<hiddenAug>SHIP_AEA_BROADSIDE2</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<systemLimit>10</systemLimit>
+		<customReactor maxLevel="35" />
+	</mod-append:customShip>
+	<mod-append:customShip name="PLAYER_SHIP_AEA_BROADSIDE_3">
+		<hiddenAug>SHIP_REBEL</hiddenAug>
+		<hiddenAug>SHIP_AEA_BROADSIDE3</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<systemLimit>10</systemLimit>
 		<customReactor maxLevel="35" />
@@ -2484,6 +2615,19 @@ Drones, Shells, Vampweeds, Ghosts and Lanius are immune.</tooltip>
 				</roomAnim>
 			</room>
 		</rooms>
+	</mod-append:customShip>
+	<mod-append:customShip name="AEA_SHARD_BOSS">
+		<noJump />
+		<shipIcons>
+			<shipIcon>icon_threat</shipIcon>
+		</shipIcons>
+	</mod-append:customShip>
+	<mod-append:customShip name="AEA_SHARD_AUTO">
+		<shipIcons>
+			<shipIcon>icon_auto</shipIcon>
+			<shipIcon>icon_no2</shipIcon>
+		</shipIcons>
+		<autoShipForce>true</autoShipForce>
 	</mod-append:customShip>
 
 	<mod-append:customShip name="AEA_OLD_GUARD_BOSS">
@@ -5661,7 +5805,7 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 		  <repairSound>rockThud3</repairSound>
 		</repairSounds>
 		<powerEffect>
-			<cooldown>38</cooldown>
+			<cooldown>12</cooldown>
 			<jumpCooldown>full</jumpCooldown>
 			<req>
 				<minHealth>20</minHealth>
@@ -5675,20 +5819,20 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 			</powerSounds>
 			<lockdown>true</lockdown>
 			<buttonText>BREAKDOWN</buttonText>
-			<tooltip>[COOLDOWN:38s  -25HP]
+			<tooltip>[COOLDOWN:12s  -25HP]
 				Locks down the occupied room for 12 seconds, preventing crew from moving in.
 				Enemy crew in the room take 5 damage per second.
 				Cannot attack enemy crew for the duration.
 			</tooltip>
 			<cooldownColor r="125" g="175" b="175" />
 			<effectAnim>explosion_crystal</effectAnim>
-			<powerCharges>2</powerCharges>
-			<initialCharges>2</initialCharges>
+			<powerCharges>1</powerCharges>
+			<initialCharges>1</initialCharges>
 			<chargesPerJump>1</chargesPerJump>
 			<selfHealth>-25</selfHealth>
 			<temporaryEffect>
 				<duration>12</duration>
-				<cooldownColor r="210" g="252" b="0188" />
+				<cooldownColor r="210" g="252" b="188" />
 				<canFight>false</canFight>
 			</temporaryEffect>
 			<roomStatBoosts>
@@ -5734,13 +5878,13 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 		<repairSound>rockThud3</repairSound>
 		</repairSounds>
 		<powerEffect>
-			<cooldown>38</cooldown>
+			<cooldown>6</cooldown>
 			<jumpCooldown>full</jumpCooldown>
 			<req>
-				<minHealth>20</minHealth>
+				<minHealth>30</minHealth>
 			</req>
 			<req type="enemy">
-				<maxHealth>115</maxHealth>
+				<maxHealth>140</maxHealth>
 			</req>
 			<powerSounds>
 				<powerSound>lockdown1</powerSound>
@@ -5748,20 +5892,20 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 			</powerSounds>
 			<lockdown>true</lockdown>
 			<buttonText>BREAKDOWN</buttonText>
-			<tooltip>[COOLDOWN:38s  -7HP]
+			<tooltip>[COOLDOWN:6s  -25HP]
 				Locks down the occupied room for 12 seconds, preventing crew from moving in.
 				Enemy crew in the room take 5 damage per second.
 				Cannot attack enemy crew for the duration.
 			</tooltip>
 			<cooldownColor r="125" g="175" b="175" />
 			<effectAnim>explosion_crystal</effectAnim>
-			<powerCharges>2</powerCharges>
-			<initialCharges>2</initialCharges>
-			<chargesPerJump>1</chargesPerJump>
+			<powerCharges>3</powerCharges>
+			<initialCharges>3</initialCharges>
+			<chargesPerJump>3</chargesPerJump>
 			<selfHealth>-25</selfHealth>
 			<temporaryEffect>
 				<duration>12</duration>
-				<cooldownColor r="210" g="252" b="0188" />
+				<cooldownColor r="210" g="252" b="188" />
 				<canFight>false</canFight>
 			</temporaryEffect>
 			<roomStatBoosts>
@@ -5786,7 +5930,7 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 	<mod-append:race name="aea_shard_dawn">
 		<maxHealth>200</maxHealth>
 		<damageMultiplier>0.8</damageMultiplier>
-		<suffocationModifier>0.5</suffocationModifier>
+		<suffocationModifier>0.25</suffocationModifier>
 		<animBase>rock</animBase>
 		<deathSounds>
 			<deathSound>crystalDeath</deathSound>
@@ -5807,13 +5951,13 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 		<repairSound>rockThud3</repairSound>
 		</repairSounds>
 		<powerEffect>
-			<cooldown>38</cooldown>
+			<cooldown>6</cooldown>
 			<jumpCooldown>full</jumpCooldown>
 			<req>
-				<minHealth>20</minHealth>
+				<minHealth>30</minHealth>
 			</req>
 			<req type="enemy">
-				<maxHealth>115</maxHealth>
+				<maxHealth>190</maxHealth>
 			</req>
 			<powerSounds>
 				<powerSound>lockdown1</powerSound>
@@ -5821,30 +5965,30 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 			</powerSounds>
 			<lockdown>true</lockdown>
 			<buttonText>BREAKDOWN</buttonText>
-			<tooltip>[COOLDOWN:38s  -7HP]
-				Locks down the occupied room for 12 seconds, preventing crew from moving in.
-				Enemy crew in the room take 5 damage per second.
+			<tooltip>[COOLDOWN:3s  -25HP]
+				Locks down the occupied room for 24 seconds, preventing crew from moving in.
+				Enemy crew in the room take 10 damage per second.
 				Cannot attack enemy crew for the duration.
 			</tooltip>
 			<cooldownColor r="125" g="175" b="175" />
 			<effectAnim>explosion_crystal</effectAnim>
-			<powerCharges>2</powerCharges>
-			<initialCharges>2</initialCharges>
-			<chargesPerJump>1</chargesPerJump>
+			<powerCharges>3</powerCharges>
+			<initialCharges>3</initialCharges>
+			<chargesPerJump>3</chargesPerJump>
 			<selfHealth>-25</selfHealth>
 			<temporaryEffect>
-				<duration>12</duration>
-				<cooldownColor r="210" g="252" b="0188" />
+				<duration>24</duration>
+				<cooldownColor r="210" g="252" b="188" />
 				<canFight>false</canFight>
 			</temporaryEffect>
 			<roomStatBoosts>
 				<statBoost name="trueHealAmount">
 					<boostType>FLAT</boostType>
-					<amount>-5</amount>
+					<amount>-10</amount>
 					<shipTarget>CURRENT_ROOM</shipTarget>
 					<crewTarget>ENEMIES</crewTarget>
 					<affectsSelf>false</affectsSelf>
-					<duration>12</duration>
+					<duration>24</duration>
 					<priority>999</priority>
 					<maxStacks id="aea_shard_floor">1</maxStacks>
 					<roomAnim renderLayer="0">
@@ -5855,10 +5999,158 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 			</roomStatBoosts>
 		</powerEffect>
 	</mod-append:race>
+
+
+	<mod-append:race name="aea_sac_human">
+		<animSheet>human</animSheet>
+		<suffocationModifier>0.83</suffocationModifier>
+		<fireDamageMultiplier>0.83</fireDamageMultiplier>
+		<maxHealth>75</maxHealth>
+		<animBase>human</animBase>
+		<deathSounds>
+			<deathSound>death1</deathSound>
+			<deathSound>death2</deathSound>
+		</deathSounds>
+		<skills>
+			<piloting req="13" />
+			<engines req="13" />
+			<shields req="50" />
+			<weapons req="58" />
+			<repair req="16" />
+			<combat req="7" />
+		</skills>
+	</mod-append:race>
+	<mod-append:race name="aea_sac_engi">
+		<animSheet>engi</animSheet>
+		<maxHealth>68</maxHealth>
+		<repairSpeed>2</repairSpeed>
+		<damageMultiplier>0.5</damageMultiplier>
+		<suffocationModifier>0.75</suffocationModifier>
+		<animBase>engi</animBase>
+		<deathSounds>
+			<deathSound>engiDeath</deathSound>
+		</deathSounds>
+	</mod-append:race>
+	<mod-append:race name="aea_sac_mantis">
+		<animSheet>mantis</animSheet>
+		<repairSpeed>0.5</repairSpeed>
+		<moveSpeedMultiplier>1.2</moveSpeedMultiplier>
+		<damageMultiplier>1.5</damageMultiplier>
+		<maxHealth>75</maxHealth>
+		<animBase>mantis</animBase>
+		<deathSounds>
+			<deathSound>mantisDeath</deathSound>
+		</deathSounds>
+		<shootingSounds>
+			<shootingSound>mantisSpit1</shootingSound>
+			<shootingSound>mantisSpit2</shootingSound>
+			<shootingSound>mantisSpit3</shootingSound>
+		</shootingSounds>
+	</mod-append:race>
+	<mod-append:race name="aea_sac_slug">
+		<animSheet>slug</animSheet>
+		<maxHealth>75</maxHealth>
+		<detectsLifeforms>true</detectsLifeforms>
+		<isTelepathic>true</isTelepathic>
+		<resistsMindControl>true</resistsMindControl>
+		<animBase>slug</animBase>
+	</mod-append:race>
+	<mod-append:race name="aea_sac_rock">
+		<animSheet>rock</animSheet>
+		<lowHealthThreshold>2500.0</lowHealthThreshold>
+		<lowHealthThresholdPercentage>0.25</lowHealthThresholdPercentage>
+		<maxHealth>131</maxHealth>
+		<canBurn>false</canBurn>
+		<fireRepairMultiplier>1.67</fireRepairMultiplier>
+		<moveSpeedMultiplier>0.5</moveSpeedMultiplier>
+		<stunMultiplier>0.5</stunMultiplier>
+		<animBase>rock</animBase>
+		<deathSounds>
+			<deathSound>rockDeath</deathSound>
+		</deathSounds>
+		<shootingSounds>
+			<shootingSound>rockThrow1</shootingSound>
+			<shootingSound>rockThrow2</shootingSound>
+			<shootingSound>rockThrow3</shootingSound>
+		</shootingSounds>
+		<repairSounds animSoundFrame="5">
+		  <repairSound>rockThud1</repairSound>
+		  <repairSound>rockThud2</repairSound>
+		  <repairSound>rockThud3</repairSound>
+		</repairSounds>
+	</mod-append:race>
 </mod:findLike>
 
 
 <augments>
+	<aug name="EX_AEA_LAB_CRYSTAL_SABOTAGE">
+    	<statBoosts>
+			<statBoost name="moveSpeedMultiplier">
+				<boostType>MULT</boostType>
+				<amount>0.50</amount>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<priority>999</priority>
+				<whiteList load="LIST_CREW_CRYSTAL" />
+			</statBoost>
+			<statBoost name="sabotageSpeedMultiplier">
+				<boostType>MULT</boostType>
+				<amount>1.75</amount>
+				<shipTarget>ALL</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<priority>999</priority>
+				<whiteList load="LIST_CREW_CRYSTAL" />
+			</statBoost>
+		</statBoosts>
+    </aug>
+	<aug name="BOON_AEA_SUPER_SHIELDS">
+		<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false" />
+		<superShield>
+			<add>1</add>
+			<color r="255" g="255" b="255" a="1" />
+			<shieldImage>ship/aea_shield_base_bubble_white.png</shieldImage>
+		</superShield>
+	</aug>
+	<aug name="AEA_SHARD_COOLER">
+		<function name="AUTO_COOLDOWN" value="0.05" warning="false" />
+	</aug>
+	<aug name="AEA_SHARD_ARMOUR">
+		<function name="CRYSTAL_SHARDS" value="0" useForReqs="true" warning="false" />
+		<crystalShard weapon="CRYSTAL_ARMOR_PROJ" value="0.5" stackable="false" />
+		<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false" />
+		<superShield>
+			<add>1</add>
+			<color r="255" g="255" b="255" a="1" />
+			<shieldImage>ship/aea_shield_base_bubble_white.png</shieldImage>
+		</superShield>
+		<locked />
+	</aug>
+	<aug name="AEA_SHARD_SHIELD">
+		<function name="CRYSTAL_SHARDS" value="0" useForReqs="true" warning="false" />
+		<crystalShard weapon="CRYSTAL_ARMOR_PROJ" value="1" stackable="false" />
+		<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false" />
+		<superShield>
+			<value>8</value>
+			<color r="180" g="230" b="255" a="1"/>
+			<shieldImage>ship/aea_shield_base_bubble_white.png</shieldImage>
+		</superShield>
+		<locked />
+	</aug>
+	<aug name="AEA_SHARD_ARMOUR_ENEMY">
+		<function name="CRYSTAL_SHARDS" value="0.25" useForReqs="true" warning="false" />
+		
+		<icon>icon_aea_shard_armour</icon>
+		<locked />
+	</aug>
+	<aug name="AEA_SHARD_SHIELD_ENEMY">
+		<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false" />
+		<superShield>
+			<value>6</value>
+			<color r="255" g="255" b="255" a="1" />
+			<shieldImage>ship/aea_shield_base_bubble_white.png</shieldImage>
+		</superShield>
+		<icon>icon_aea_shard_shield</icon>
+	</aug>
 	<aug name="AEA_SHLEG_GEL">
 		<function name="SLUG_GEL" value="1" useForReqs="true" warning="false" />
 		<statBoosts>
@@ -6400,12 +6692,22 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 </mod:findLike>
 
 <events>
+	<metaVariable name="aea_warning_message" op="set" val="0" />
 	<variable name="arc_test_light_nebula" op="set" val="0"/>
+
+	<metaVariable name="aea_super_shield_hotkey_enabled" op="set" val="0" />
+
+	<variable name="aea_broadside_enemy_fought" op="set" val="0"/>
 
 	<variable name="aea_broadside_missile_chosen" op="set" val="0"/>
 	<variable name="aea_broadside_slot1" op="set" val="1"/>
 	<variable name="aea_broadside_slot2" op="set" val="1"/>
 	<variable name="aea_broadside_slot3" op="set" val="1"/>
+
+	<variable name="aea_broadside_c_has_weapon" op="set" val="0"/>
+	<variable name="aea_broadside_c_slot1" op="set" val="0"/>
+	<variable name="aea_broadside_c_slot2" op="set" val="0"/>
+	<variable name="aea_broadside_c_slot3" op="set" val="0"/>
 
 	<variable name="aea_acid_o2sys_en" op="set" val="0"/>
 	<variable name="aea_acid_friendly" op="set" val="0" />
@@ -6457,8 +6759,16 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 	<variable name="aea_shleg_trading_station" op="set" val="0" />
 	<variable name="aea_shleg_radiant_dead" op="set" val="0" />
 
+	<metaVariable name="juke_aea_shard" op="set" val="0" />
+	<variable name="ach_trans_aea_shard" op="set" val="0" />
+	<variable name="prof_r_boon_aea_super_shields" op="set" val="0" />
+	<variable name="ach_boon_aea_super_shields" op="set" val="0" />
+	<variable name="aea_shard_quest_done" op="set" val="0" />
+	<variable name="aea_shard_quest_crewkill" op="set" val="0" />
+
 	<metaVariable name="juke_aea_old_1" op="set" val="0" />
 	<metaVariable name="juke_aea_old_2" op="set" val="0" />
+	<metaVariable name="juke_aea_old_3" op="set" val="0" />
 	<variable name="aea_old_has_cell" op="set" val="0" />
 	<variable name="aea_old_activated_cell" op="set" val="0" />
 	<variable name="aea_old_gate_guard_activated" op="set" val="0" />
@@ -7191,6 +7501,8 @@ Cast a spell that pierces all normal shields at a target room that mind controls
   	<eventFile>sector_aea_bird</eventFile>
   	<eventFile>special_aea_shleg</eventFile>
   	<eventFile>sector_aea_shleg</eventFile>
+  	<eventFile>special_aea_shard</eventFile>
+  	<eventFile>sector_aea_shard</eventFile>
 
   	<eventFile>special_aea_old</eventFile>
   	<eventFile>sector_aea_old_1</eventFile>
@@ -7267,6 +7579,9 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 	<bossShip yOffset="160">AEA_BIRD_TRANSPORT</bossShip>
 	<bossShip yOffset="160">AEA_BIRD_TRANSPORT_ELITE</bossShip>
 	<bossShip yOffset="140">AEA_BIRD_AUTO_BOSS</bossShip>
+
+	<bossShip>AEA_SHARD_BOSS</bossShip>
+	<bossShip>AEA_SHARD_AUTO</bossShip>
 </events>
 
 <mod:findLike type="victories"> <!-- adds the victory marker for lylmik ending -->
@@ -7979,6 +8294,13 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 				<icon>ach_trans_aea_shleg</icon>
 				<header>Loot Acquired</header>
 			</mod-append:achievement>
+			<mod-append:achievement name="ACH_TRANS_AEA_SHARD">
+				<name>Shard-Forged Transport</name>
+				<secretDescription>Obtain the loot from the Shard-Forged loot transport.</secretDescription>
+				<description>Obtain the Elite Crystal Burst MK II from the Shard-Forged loot transport.</description>
+				<icon>ach_trans_aea_shard</icon>
+				<header>Loot Acquired</header>
+			</mod-append:achievement>
 			<mod-append:achievement name="ACH_TRANS_AEA_OLD_1">
 				<name>Lylmik Station</name>
 				<secretName>Secret Transport</secretName>
@@ -7990,5 +8312,18 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 			</mod-append:achievement>
 		</mod:findLike>
 	</mod:findLike>
+	<mod-append:page>
+		<section text="Corby's Grants II" hidden="false">
+			<achievement name="ACH_BOON_AEA_SUPER_SHIELDS">
+				<name>Grant of Auxiliary Shielding</name>
+				<secretDescription>Receive the Grant of Auxiliary Shielding from Corby.</secretDescription>
+				<description>Show an upgraded Auxiliary Shields System to Corby. 
+				While in effect; Add 1 energy shield layer after jump.</description>
+				<header>Grant Received</header>
+				<icon>ach_boon_aea_super_shields</icon>
+				<multiDifficulty>false</multiDifficulty>
+			</achievement>
+		</section>
+	</mod-append:page>
 </mod:findLike>
 </FTL>

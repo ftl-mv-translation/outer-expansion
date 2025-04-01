@@ -12,24 +12,29 @@
 		"data/events_sector_aea_old_1.xml",
 		"data/events_sector_aea_old_2.xml",
 		"data/events_sector_aea_old_3.xml",
+		"data/events_sector_aea_shard.xml",
 		"data/events_sector_aea_shleg.xml",
 		"data/events_special_aea_acid.xml",
 		"data/events_special_aea_bird.xml",
 		"data/events_special_aea_cult.xml",
 		"data/events_special_aea_necro.xml",
 		"data/events_special_aea_old.xml",
+		"data/events_special_aea_shard.xml",
 		"data/events_special_aea_shleg.xml",
-
+		
 		"data/events_sector_laststand.xml.append",
 		"data/events_sector_showdown.xml.append",
+		"data/events_special_boons.xml.append",
 		"data/events_special_jukebox.xml.append",
 		"data/events_special_lightspeed.xml.append",
 		"data/events_special_main.xml.append",
+		"data/events_special_multiverse.xml.append",
 		"data/events_special_storage.xml.append",
 
 		"data/hyperspace.xml.append",
 		"data/sector_data.xml.append",
 		"data/text_misc.xml.append",
+		"data/text_tooltips.xml.append",
 
 		"mod-appendix/metadata.xml",
     ],
@@ -55,6 +60,8 @@
 		"//droneBlueprint/desc",
 		"//augBlueprint/title",
 		"//augBlueprint/desc",
+        "//systemBlueprint/title",
+        "//systemBlueprint/desc",
 
 		// events
 		"//text",
@@ -77,6 +84,12 @@
 		"//mod:findLike[@type='victories']//description",
 		"//mod:findLike[@type='victories']//secretName",
 		"//mod:findLike[@type='victories']//secretDescription",
+		"//mod-append:achievement/name",
+		"//mod-append:achievement/secretName",
+		"//mod-append:achievement/description",
+		"//mod-append:achievement/header",
+		"//mod-append:achievement/secretDescription",
+		"//mod-append:page/section/@text",
 		"//achievement/name",
 		"//achievement/description",
 		"//achievement/header",
@@ -116,9 +129,9 @@
 
     "packaging": {
         "fullOriginal": [
-            "https://github.com/ftl-mv-translation/outer-expansion/raw/outer-expansion-english/FTL_Outer_Expansion_6.0.7.zip",
+            "https://github.com/ftl-mv-translation/outer-expansion/raw/outer-expansion-english/FTL_Outer_Expansion_7.0.2.zip",
         ],
         "prefix": "Outer-Expansion",
-        "version": "6.0.7"
+        "version": "7.0.2"
     }
 }

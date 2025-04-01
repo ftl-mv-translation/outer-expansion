@@ -158,6 +158,40 @@ local function round(num, numDecimalPlaces)
 end
 
 local spawn_temp_drone = mods.multiverse.spawn_temp_drone
+
+local node_child_iter = mods.multiverse.node_child_iter
+local usedFTLman = false
+for _, file in ipairs(mods.multiverse.blueprintFiles) do
+	local doc = RapidXML.xml_document(file)
+	for node in node_child_iter(doc:first_node("FTL") or doc) do
+		if node:name() == "usedFTLman" then
+			usedFTLman = true
+		end
+	end
+	doc:clear()
+end
+--[[print("FTLman used for patching:"..tostring(usedFTLman))
+script.on_init(function() 
+	if not usedFTLman and Hyperspace.metaVariables.aea_warning_message == 2 then
+		Hyperspace.metaVariables.aea_warning_message = 0
+	elseif usedFTLman then
+	  Hyperspace.metaVariables.aea_warning_message = 2
+	end
+	print("init variable"..Hyperspace.metaVariables.aea_warning_message)
+	if not usedFTLman and Hyperspace.metaVariables.aea_warning_message == 0 then
+		Hyperspace.ErrorMessage("WARNING: It is recommended you use FTLman (FTL mod manager) instead of slipstream to patch your addons.\nThis will enable The Outer Expansion to give it's custom systems to ships not in The Outer Expansion.\nFTLman can be found here: https://github.com/afishhh/ftlman/releases/latest\nThis is completely optional,  if you're not comfortable switching ignore this message. This message can be disabled in the toggle menu.")
+	end
+end)]]
+script.on_render_event(Defines.RenderEvents.MAIN_MENU, function() end, function()
+    local menu = Hyperspace.Global.GetInstance():GetCApp().menu
+    if menu.shipBuilder.bOpen or usedFTLman then
+        return
+    end
+    Graphics.CSurface.GL_DrawRect(15, 540, 340, 165, Graphics.GL_Color(0, 0, 0, 0.8))
+    Graphics.freetype.easy_print(10, 20, 545, "WARNING: It is recommended you use FTLman \ninstead of slipstream to patch your addons.")
+    Graphics.freetype.easy_print(10, 20, 590, "This will enable The Outer Expansion to \ngive it's custom systems to non OE ships.")
+    Graphics.freetype.easy_print(10, 20, 635, "FTLman can be found here: \nhttps://github.com/afishhh/ftlman/releases/latest\nThis is completely optional, if you're not \ncomfortable switching, ignore this message.")
+end)
 --[[
 int iDamage;
 int iShieldPiercing;
@@ -214,7 +248,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
 	if log_events then
 		--log("SHIP_LOOP 1")
 	end
-	if shipManager:HasAugmentation("AEA_ACID_O2SYS") > 0 and shipManager:HasSystem(2) then
+	if shipManager:HasAugmentation("AEA_ACID_O2SYS") > 0 and shipManager:HasSystem(2) and not Hyperspace.App.menu.shipBuilder.bOpen then
 		local oxygen = shipManager.oxygenSystem
 		local refill = oxygen:GetRefillSpeed()
 
@@ -234,7 +268,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
 				end
 			end
 		end
-	elseif shipManager:HasAugmentation("AEA_ACID_O2SYS_ENEMY") > 0 and shipManager:HasSystem(2) then
+	elseif shipManager:HasAugmentation("AEA_ACID_O2SYS_ENEMY") > 0 and shipManager:HasSystem(2) and not Hyperspace.App.menu.shipBuilder.bOpen then
 		local oxygen = shipManager.oxygenSystem
 		local refill = oxygen:GetRefillSpeed()
 		--print("refill speed: "..tostring(refill))
@@ -811,7 +845,7 @@ script.on_internal_event(Defines.InternalEvents.CREW_LOOP, function(crewmem)
 	elseif crewmem.health.first > 0 and dead_crew[crewmem.extend.selfId] then
 		dead_crew[crewmem.extend.selfId] = nil
 	end
-	if zombieTable[crewmem.extend.selfId] then
+	--[[if zombieTable[crewmem.extend.selfId] then
 		local textString = Hyperspace.TextString()
 		textString.data = "ZOMBIE: "..tostring(math.floor(zombieTable[crewmem.extend.selfId]))
 		crewmem:SetName(textString, true)
@@ -822,7 +856,7 @@ script.on_internal_event(Defines.InternalEvents.CREW_LOOP, function(crewmem)
 			zombieTable[crewmem.extend.selfId] = nil
 			crewmem:Kill(true)
 		end
-	end
+	end]]
 end)
 
 local def0XCREWSLOT = Hyperspace.StatBoostDefinition()
@@ -985,7 +1019,7 @@ script.on_internal_event(Defines.InternalEvents.DAMAGE_BEAM, function(shipManage
 			end
 		end
 		for i, crewmem in ipairs(get_ship_crew_point(shipManager, location.x, location.y)) do
-			if not crewmem:IsDrone() and (not zombieTable[crewmem.extend.selfId]) then
+			if not crewmem:IsDrone() and ((not crewmem.extend.deathTimer) or (not crewmem.extend.deathTimer.running)) then
 				local rCrew = crewmem.type
 				local crewShip = Hyperspace.ships(crewmem.currentShipId)
 				local intruder = true
@@ -999,7 +1033,8 @@ script.on_internal_event(Defines.InternalEvents.DAMAGE_BEAM, function(shipManage
 				Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defHMHP), zombie)
 				Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defNOWARNING), zombie)
 				Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defHDMP), zombie)
-				zombieTable[zombie.extend.selfId] = 15
+				zombie.extend.deathTimer = Hyperspace.TimerHelper(false)
+    		zombie.extend.deathTimer:Start(15)
 			end
 		end
 	end
@@ -1046,7 +1081,8 @@ script.on_internal_event(Defines.InternalEvents.ACTIVATE_POWER, function(power, 
 			--Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defRMHP), zombie)
 			Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defNOWARNING), zombie)
 			--Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defRDMP), zombie)
-			zombieTable[zombie.extend.selfId] = 90
+			zombie.extend.deathTimer = Hyperspace.TimerHelper(false)
+    	zombie.extend.deathTimer:Start(90)
 		end
 	elseif crew and power.powerCooldown.second == 20 and (not crewmem.bMindControlled) then
 		local rCrew = enemyResurrections:GetItem()
@@ -1062,7 +1098,8 @@ script.on_internal_event(Defines.InternalEvents.ACTIVATE_POWER, function(power, 
 		Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defHMHP), zombie)
 		Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defNOWARNING), zombie)
 		Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defHDMP), zombie)
-		zombieTable[zombie.extend.selfId] = 20
+		zombie.extend.deathTimer = Hyperspace.TimerHelper(false)
+		zombie.extend.deathTimer:Start(20)
 	end
 
 
@@ -1090,7 +1127,7 @@ script.on_internal_event(Defines.InternalEvents.ACTIVATE_POWER, function(power, 
 			end
 			for enemyCrew in vter(crewShip.vCrewList) do
 				--print(enemyCrew.type)
-				if enemyCrew.iShipId ~= crewmem.iShipId and enemyCrew.iRoomId == crewmem.iRoomId and (not zombieTable[enemyCrew.extend.selfId]) and (not crewmem:IsDrone()) then
+				if enemyCrew.iShipId ~= crewmem.iShipId and enemyCrew.iRoomId == crewmem.iRoomId and ((not enemyCrew.extend.deathTimer) or (not enemyCrew.extend.deathTimer.running)) and (not crewmem:IsDrone()) then
 					--print("REND LOOP CREW")
 					local rCrew = enemyCrew.type
 					local intruder = false
@@ -1105,14 +1142,15 @@ script.on_internal_event(Defines.InternalEvents.ACTIVATE_POWER, function(power, 
 					Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defRMHP), zombie)
 					Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defNOWARNING), zombie)
 					Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defRDMP), zombie)
-					zombieTable[zombie.extend.selfId] = 30
+					zombie.extend.deathTimer = Hyperspace.TimerHelper(false)
+    			zombie.extend.deathTimer:Start(30)
 				end
 			end
 		end
 	elseif crew and power.powerCooldown.second == 30 and (not crewmem.bMindControlled) then
 		local crewShip = Hyperspace.ships(crewmem.currentShipId)
 		for enemyCrew in vter(crewShip.vCrewList) do
-			if enemyCrew.iShipId ~= crewmem.iShipId and enemyCrew.iRoomId == crewmem.iRoomId and (not zombieTable[enemyCrew.extend.selfId]) and not crewmem:IsDrone() then
+			if enemyCrew.iShipId ~= crewmem.iShipId and enemyCrew.iRoomId == crewmem.iRoomId and ((not enemyCrew.extend.deathTimer) or (not enemyCrew.extend.deathTimer.running)) and not crewmem:IsDrone() then
 				local rCrew = enemyCrew.type
 
 				local intruder = false
@@ -1126,7 +1164,8 @@ script.on_internal_event(Defines.InternalEvents.ACTIVATE_POWER, function(power, 
 				Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defHMHP), zombie)
 				Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defNOWARNING), zombie)
 				Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defHDMP), zombie)
-				zombieTable[zombie.extend.selfId] = 9
+				zombie.extend.deathTimer = Hyperspace.TimerHelper(false)
+    		zombie.extend.deathTimer:Start(9)
 			end
 		end
 	end
@@ -1225,25 +1264,30 @@ script.on_internal_event(Defines.InternalEvents.SHIELD_COLLISION, function(shipM
 		log("SHIELD_COLLISION 1")
 	end
 	local nData = nil
-	if pcall(function() nData = necro_lasers[Hyperspace.Get_Projectile_Extend(projectile).name] end) and nData and shipManager.shieldSystem.shields.power.super.first <= 0 then
+	if pcall(function() nData = necro_lasers[projectile.extend.name] end) and nData and shipManager.shieldSystem.shields.power.super.first <= 0 then
+
 		local spaceManager = Hyperspace.Global.GetInstance():GetCApp().world.space
-		local proj1 = spaceManager:CreateLaserBlast(
-			Hyperspace.Blueprints:GetWeaponBlueprint(nData),
-			projectile.position,
-			projectile.currentSpace,
-			projectile.ownerId,
-			get_random_point_in_radius(projectile.target, 25),
-			projectile.destinationSpace,
-			projectile.heading)
-		local proj2 = spaceManager:CreateLaserBlast(
-			Hyperspace.Blueprints:GetWeaponBlueprint(nData),
-			projectile.position,
-			projectile.currentSpace,
-			projectile.ownerId,
-			get_random_point_in_radius(projectile.target, 25),
-			projectile.destinationSpace,
-			projectile.heading)
-		if projectile.ownerId == 0 then
+		if projectile.ownerId == 0 and shipManager.shieldSystem.shields.power.first <= 2 then
+			local proj1 = spaceManager:CreateLaserBlast(
+				Hyperspace.Blueprints:GetWeaponBlueprint(nData),
+				projectile.position,
+				projectile.currentSpace,
+				projectile.ownerId,
+				get_random_point_in_radius(projectile.target, 25),
+				projectile.destinationSpace,
+				projectile.heading)
+		end
+		if shipManager.shieldSystem.shields.power.first <= 1 then
+			local proj2 = spaceManager:CreateLaserBlast(
+				Hyperspace.Blueprints:GetWeaponBlueprint(nData),
+				projectile.position,
+				projectile.currentSpace,
+				projectile.ownerId,
+				get_random_point_in_radius(projectile.target, 25),
+				projectile.destinationSpace,
+				projectile.heading)
+		end
+		if shipManager.shieldSystem.shields.power.first <= 0 then
 			local proj3 = spaceManager:CreateLaserBlast(
 				Hyperspace.Blueprints:GetWeaponBlueprint(nData),
 				projectile.position,
@@ -1599,8 +1643,8 @@ script.on_internal_event(Defines.InternalEvents.GET_DODGE_FACTOR, function(shipM
 	end
 	if shipManager:HasSystem(1) then
 		local engine = shipManager:GetSystem(1)
-		if engine.powerState.first + engine.iBonusPower >= 9 then
-			local powerExtra = engine.powerState.first + engine.iBonusPower + engine.iBatteryPower - 8
+		if engine:GetEffectivePower() >= 9 then
+			local powerExtra = engine:GetEffectivePower() - 8
 			local pilot = shipManager:GetSystem(6)
 			if pilot.bManned then
 				value = value + 35 + (5 * powerExtra)
@@ -1615,6 +1659,20 @@ script.on_internal_event(Defines.InternalEvents.GET_DODGE_FACTOR, function(shipM
 	end
 	return Defines.Chain.CONTINUE, value
 end)
+--Handles tooltips and mousever descriptions per level
+local function get_level_description_aea_engines(systemId, level, tooltip)
+    if systemId == Hyperspace.ShipSystem.NameToSystemId("engines") then
+        if level > 8 then
+        	if level%4 == 1 then
+	            return string.format("Dodge: %i / FTL: %ix", 5*level - 5, math.floor(0.75 + level/4))
+	        else
+	            return string.format("Dodge: %i / FTL: %sx", 5*level - 5, tostring(0.75 + level/4))
+	        end
+        end
+    end
+end
+
+script.on_internal_event(Defines.InternalEvents.GET_LEVEL_DESCRIPTION, get_level_description_aea_engines)
 
 --[[script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
 	if shipManager:HasSystem(6) then
@@ -3621,6 +3679,7 @@ allMagicCrew["aea_cult_tiny_s15"] = true
 script.on_internal_event(Defines.InternalEvents.PROJECTILE_PRE, function(projectile)
 	if projectile.bBroadcastTarget then return end
 	local shipManager = Hyperspace.ships(projectile.destinationSpace) 
+	if not shipManager then return end
 	local room = get_room_at_location(shipManager, projectile.target, true)
 	if projectile.ownerId ~= shipManager.iShipId then
 		for crewmem in vter(shipManager.vCrewList) do
@@ -3678,7 +3737,7 @@ script.on_internal_event(Defines.InternalEvents.ACTIVATE_POWER, function(power, 
 			enemyRoomsSlugEnemy[crewmem.iRoomId] = 30
 		end
 	elseif crewmem.type == "aea_shleg_sickle" then
-		print("sickle")
+		--print("sickle")
 		if crewmem.currentShipId == 0 and crewmem.iShipId == 0 then
 			playerRoomsSlugPlayer[crewmem.iRoomId] = 60
 		elseif crewmem.currentShipId == 0 and crewmem.iShipId == 1 then
@@ -3782,10 +3841,10 @@ script.on_internal_event(Defines.InternalEvents.CREW_LOOP, function(crewmem)
 			if crewmem.health.first < 1 then return end
 			shlegTable.amount = math.min(crewmem.health.first, shlegTable.amount + (Hyperspace.FPS.SpeedFactor/16 * 5))
 			if (crewmem.iShipId ~= crewmem.currentShipId and shipManager:HasAugmentation("LOCKED_AEA_SHLEG_MIND_GAS_PLUS") > 0) or
-				(crewmem.currentShipId == 0 and crewmem.iShipId == 0 and playerRoomsSlugEnemy[crewmem.iRoomId]) or
-				(crewmem.currentShipId == 0 and crewmem.iShipId == 1 and playerRoomsSlugPlayer[crewmem.iRoomId]) or
-				(crewmem.currentShipId == 1 and crewmem.iShipId == 0 and enemyRoomsSlugEnemy[crewmem.iRoomId]) or
-				(crewmem.currentShipId == 1 and crewmem.iShipId == 1 and enemyRoomsSlugPlayer[crewmem.iRoomId]) then
+				(crewmem.currentShipId == 0 and crewmem.iShipId == 0 and playerRoomsSlugEnemyUnique[crewmem.iRoomId]) or
+				(crewmem.currentShipId == 0 and crewmem.iShipId == 1 and playerRoomsSlugPlayerUnique[crewmem.iRoomId]) or
+				(crewmem.currentShipId == 1 and crewmem.iShipId == 0 and enemyRoomsSlugEnemyUnique[crewmem.iRoomId]) or
+				(crewmem.currentShipId == 1 and crewmem.iShipId == 1 and enemyRoomsSlugPlayerUnique[crewmem.iRoomId]) then
 				shlegTable.amount = math.min(crewmem.health.first, shlegTable.amount + (Hyperspace.FPS.SpeedFactor/16 * 5))
 			end
 			if shlegTable.amount >= crewmem.health.first then
@@ -3955,13 +4014,64 @@ end)]]
 local function setArtySlot(blueprintName, slot)
 	--print("FUNCTION SLOT:"..slot.." BLUEPRINT:"..blueprintName)
 	if Hyperspace.ships.player.artillerySystems[slot].projectileFactory.blueprint.name == blueprintName then return end
+	local shipManager = Hyperspace.ships.player
+	local weapons = {}
+	for weapon in vter(shipManager.weaponSystem.weapons) do
+		table.insert(weapons, weapon.blueprint.name)
+	end
+	for _, name in ipairs(weapons) do
+		--print("remove weapon:"..name)
+		shipManager.weaponSystem:RemoveWeapon(0)
+	end
 	--print("ACTUALLY SETTING")
 	local commandGui = Hyperspace.App.gui
 	local equipment = commandGui.equipScreen
 	local artyBlueprint = Hyperspace.Blueprints:GetWeaponBlueprint(blueprintName)
-	local shipManager = Hyperspace.ships.player
 	equipment:AddWeapon(artyBlueprint, true, false)
 	local artilleryWeapon = shipManager.weaponSystem.weapons[0]
+	artilleryWeapon.iAmmo = 99
+	shipManager.artillerySystems[slot].projectileFactory = artilleryWeapon
+	shipManager.weaponSystem:RemoveWeapon(0)
+	for _, name in ipairs(weapons) do
+		--print("add weapon:"..name)
+		local blueprint = Hyperspace.Blueprints:GetWeaponBlueprint(name)
+		equipment:AddWeapon(blueprint, true, false)
+	end
+end
+local allWeapons = {}
+--[[for blueprint in vter(Hyperspace.Blueprints:GetBlueprintList("LIST_WEAPONS_ALL")) do
+	table.insert(allWeapons, blueprint)
+end]]
+for _, file in ipairs(mods.multiverse.blueprintFiles) do
+	local doc = RapidXML.xml_document(file)
+	for node in node_child_iter(doc:first_node("FTL") or doc) do
+		if node:name() == "weaponBlueprint" then
+			--print(node:first_attribute("name"):value())
+			table.insert(allWeapons, node:first_attribute("name"):value())
+		end
+	end
+	doc:clear()
+end
+
+local function setArtySlotFromWeapon(slot)
+	local shipManager = Hyperspace.ships.player
+	local commandGui = Hyperspace.App.gui
+	local equipment = commandGui.equipScreen
+	local weaponName = shipManager.weaponSystem.weapons[0].blueprint.name
+	--print("SETTING SLOT:"..slot.." string:".."aea_broadside_c_slot"..math.floor(slot+1))
+	for i, name in ipairs(allWeapons) do
+		if name == weaponName then
+			Hyperspace.playerVariables["aea_broadside_c_slot"..math.floor(slot+1)] = i
+			break
+		else
+			Hyperspace.playerVariables["aea_broadside_c_slot"..math.floor(slot+1)] = 0
+		end
+	end
+	if Hyperspace.playerVariables["aea_broadside_c_slot"..math.floor(slot+1)] == 0 then
+		print("COULD NOT SAVE WEAPON: "..weaponName..", WILL NOT BE RETURNED AFTER A SAVE AND QUIT")
+	end
+	local artilleryWeapon = shipManager.weaponSystem.weapons[0]
+	artilleryWeapon.iAmmo = 99
 	shipManager.artillerySystems[slot].projectileFactory = artilleryWeapon
 	shipManager.weaponSystem:RemoveWeapon(0)
 end
@@ -4056,6 +4166,38 @@ script.on_init(function()
 	needSetArty = true
 end)
 
+script.on_internal_event(Defines.InternalEvents.PROJECTILE_FIRE, function(projectile, weapon)
+	--print("weapon is artillery:"..tostring(weapon.isArtillery))
+	if weapon.isArtillery and Hyperspace.ships(weapon.iShipId):HasAugmentation("SHIP_AEA_BROADSIDE3") > 0 then
+		if weapon.blueprint.typeName == "BEAM" then
+			projectile.sub_end = Hyperspace.Pointf(projectile.position.x, projectile.position.y - 300)
+		elseif weapon.blueprint.typeName ~= "BOMB" then
+			projectile.heading = -90
+			projectile.position.x = projectile.position.x - 20
+		end
+	end
+end)
+
+script.on_internal_event(Defines.InternalEvents.ON_TICK, function()
+	if Hyperspace.ships.player and Hyperspace.ships.player.weaponSystem then
+		if Hyperspace.ships.player.weaponSystem.weapons:size() > 0 then
+			Hyperspace.playerVariables.aea_broadside_c_has_weapon = 1
+		else
+			Hyperspace.playerVariables.aea_broadside_c_has_weapon = 0
+		end
+	end
+end)
+
+script.on_game_event("AEA_BROADSIDE_C_SLOT1", false, function()
+	setArtySlotFromWeapon(0)
+end)
+script.on_game_event("AEA_BROADSIDE_C_SLOT2", false, function()
+	setArtySlotFromWeapon(1)
+end)
+script.on_game_event("AEA_BROADSIDE_C_SLOT3", false, function()
+	setArtySlotFromWeapon(2)
+end)
+
 script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
 	if Hyperspace.ships.player and needSetArty and shipManager:HasAugmentation("SHIP_AEA_BROADSIDE") > 0 and Hyperspace.playerVariables.aea_broadside_slot1 > 0 then
 		--print("SET slot1:"..Hyperspace.playerVariables.aea_broadside_slot1.. " slot2:"..Hyperspace.playerVariables.aea_broadside_slot2.." slot3:"..Hyperspace.playerVariables.aea_broadside_slot3)
@@ -4116,6 +4258,21 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
 			setArtySlot("ARTILLERY_BROADSIDE2_MISSILE", 2)
 		elseif Hyperspace.playerVariables.aea_broadside_slot3 == 4 then
 			setArtySlot("ARTILLERY_BROADSIDE2_ION", 2)
+		end
+	elseif Hyperspace.ships.player and needSetArty and shipManager:HasAugmentation("SHIP_AEA_BROADSIDE3") > 0 and Hyperspace.playerVariables.aea_broadside_slot1 > 0 then
+		needSetArty = false
+		--print("LOAD ARTILLERY C 1:"..Hyperspace.playerVariables.aea_broadside_c_slot1.." 2:"..Hyperspace.playerVariables.aea_broadside_c_slot2.." 3:"..Hyperspace.playerVariables.aea_broadside_c_slot3)
+		if Hyperspace.playerVariables.aea_broadside_c_slot1 > 0 then
+			--print("LOAD SLOT 1")
+			setArtySlot(allWeapons[Hyperspace.playerVariables.aea_broadside_c_slot1], 0)
+		end
+		if Hyperspace.playerVariables.aea_broadside_c_slot2 > 0 then
+			--print("LOAD SLOT 2")
+			setArtySlot(allWeapons[Hyperspace.playerVariables.aea_broadside_c_slot2], 1)
+		end
+		if Hyperspace.playerVariables.aea_broadside_c_slot3 > 0 then
+			--print("LOAD SLOT 3")
+			setArtySlot(allWeapons[Hyperspace.playerVariables.aea_broadside_c_slot3], 2)
 		end
 	elseif Hyperspace.ships.player and needSetArty and shipManager.iShipId == 0 and Hyperspace.playerVariables.aea_broadside_slot1 > 0 then
 		--print("FAIL")
@@ -4214,3 +4371,83 @@ script.on_game_event("AEA_SHLEG_GAS_TIMER_START_SHORT", false, function()
 	gasRooms("AEA_SHLEG_BOMB_FAKE_SHORT")
 end)	
 
+
+script.on_internal_event(Defines.InternalEvents.DAMAGE_BEAM, function(shipManager, projectile, location, damage, realNewTile, beamHitType)
+	if projectile.extend.name == "ARTILLERY_SHARD_AUTO" and beamHitType == Defines.BeamHit.NEW_ROOM then
+		shipManager.ship:LockdownRoom(get_room_at_location(shipManager, location, true), location)		
+	end
+	return Defines.Chain.CONTINUE, beamHitType
+end)
+
+script.on_internal_event(Defines.InternalEvents.JUMP_ARRIVE, function(shipManager)
+	local map = Hyperspace.App.world.starMap
+	--print(map.worldLevel.. " World Level")
+	if map.worldLevel == 6 and Hyperspace.playerVariables.aea_broadside_enemy_fought == 0 then
+		local dangerCount = 0
+		local leftMost = nil
+		local leftMostX = nil
+		local broadsideFound = false
+		for location in vter(map.locations) do
+			--print("visited:"..location.visited)--.." known:"..location.known.." questLocation"..location.questLoc
+			if location.dangerZone then
+				dangerCount = dangerCount + 1
+				if ((not leftMost) or location.loc.x < leftMostX) and location.visited == 0 then
+					leftMost = location
+					leftMostX = location.loc.x
+				end
+			end
+			if location.event.eventName == "AEA_ENEMY_BROADSIDE_EVENT" then
+				broadsideFound = true
+				--print("BROADSIDE FOUND")
+			end
+		end
+
+		if dangerCount >= 5 and leftMost and not broadsideFound then
+			--print("CREATE BROADSIDE EVENT")
+			leftMost.event = Hyperspace.Event:CreateEvent("AEA_ENEMY_BROADSIDE_EVENT", 0, false)
+		end
+	end
+end)
+
+
+local shipImage = Hyperspace.Resources:CreateImagePrimitiveString("map/map_icon_aeap_broadside_enemy.png", -10, -32, 0, Graphics.GL_Color(1, 1, 1, 1), 1, false)
+shipImage.textureAntialias = true
+local angle = 0
+script.on_render_event(Defines.RenderEvents.GUI_CONTAINER, function() end, function()
+	local map = Hyperspace.App.world.starMap
+	if map.bOpen and not map.bChoosingNewSector then
+		for location in vter(map.locations) do
+			if location.event.eventName == "AEA_ENEMY_BROADSIDE_EVENT" and location.visited == 0 then
+				angle = angle + Hyperspace.FPS.SpeedFactor/16 * 18
+				if angle > 360 then angle = angle - 360 end
+				Graphics.CSurface.GL_PushMatrix()
+	      Graphics.CSurface.GL_Translate(location.loc.x + 385,location.loc.y + 122,0)
+	      Graphics.CSurface.GL_Rotate(angle, 0, 0, 1)
+	      Graphics.CSurface.GL_RenderPrimitive(shipImage)
+	      Graphics.CSurface.GL_PopMatrix()
+			end
+		end
+	end
+end)
+
+script.on_internal_event(Defines.InternalEvents.CREW_LOOP, function(crewmem)
+	if crewmem.type == "aea_shard_dawn" then
+		local shipManager = Hyperspace.ships(crewmem.currentShipId)
+		for power in vter(crewmem.extend.crewPowers) do
+			--print("enabled:"..tostring(power.enable).." active:"..tostring(power.temporaryPowerActive).." duration:"..power.temporaryPowerDuration.first)
+			if power.temporaryPowerActive then
+				local shardActive = false
+				for lockdownShard in vter(shipManager.ship.lockdowns) do
+					--print("arrive:"..tostring(lockdownShard.bArrived).." lockingRoom:"..lockdownShard.lockingRoom.." lifetime:"..lockdownShard.lifeTime.." crewRoom"..crewmem.iRoomId)
+					if lockdownShard.lockingRoom == crewmem.iRoomId then
+						shardActive = true
+					end
+				end
+				if not shardActive then
+					local crewPos = crewmem:GetPosition()
+					shipManager.ship:LockdownRoom(crewmem.iRoomId, Hyperspace.Pointf(crewPos.x, crewPos.y) )
+				end
+			end
+		end
+	end
+end)
