@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-01 15:50+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_sector_showdownxmlappend/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_sector_showdown.xml.append:4
 msgid ""
@@ -48,7 +41,13 @@ msgid ""
 "append:choice[6]/text"
 msgstr "Demander à Sorrow ce qu'il en pense."
 
-#: src-en/data/events_sector_showdown.xml.append:30
+#: src-en/data/events_sector_showdown.xml.append:28
+msgid ""
+"data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
+"append:choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:34
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_BILL\"]/text"
 msgstr ""
@@ -56,63 +55,73 @@ msgstr ""
 "j'étais. J'étais encore naïf et perdu. Ce que je suis devenu, c'est grâce à "
 "vous. Peu importe ce que vous choisissez, je serai à vos côtés.\""
 
-#: src-en/data/events_sector_showdown.xml.append:33
+#: src-en/data/events_sector_showdown.xml.append:37
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_BILL\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_showdown.xml.append:38
+#: src-en/data/events_sector_showdown.xml.append:42
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_KING\"]/text"
 msgstr ""
 "\"Cela pourrait mettre fin à la vie de centaines de milliers d'êtres "
 "organiques. Vous devriez l'utiliser.\""
 
-#: src-en/data/events_sector_showdown.xml.append:41
+#: src-en/data/events_sector_showdown.xml.append:45
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_KING\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_showdown.xml.append:46
+#: src-en/data/events_sector_showdown.xml.append:50
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_TINY\"]/text"
 msgstr ""
 "Tiny vous regarde simplement. Vous vous demandez s'il sait seulement ce "
 "qu'est le paragon."
 
-#: src-en/data/events_sector_showdown.xml.append:49
+#: src-en/data/events_sector_showdown.xml.append:53
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_TINY\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_showdown.xml.append:54
+#: src-en/data/events_sector_showdown.xml.append:58
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_JAY\"]/text"
 msgstr ""
-"\"Eh bien, si vous ne finissez pas par déclencher la bombe, puis-je au moins "
-"essayer de la désassembler ? Je veux comprendre comment elle fonctionne.\""
+"\"Eh bien, si vous ne finissez pas par déclencher la bombe, puis-je au moins"
+" essayer de la désassembler ? Je veux comprendre comment elle fonctionne.\""
 
-#: src-en/data/events_sector_showdown.xml.append:57
+#: src-en/data/events_sector_showdown.xml.append:61
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_JAY\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_showdown.xml.append:62
+#: src-en/data/events_sector_showdown.xml.append:66
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SICKLE\"]/text"
 msgstr "\"Faites-le, ce serait vraiment génial.\""
 
-#: src-en/data/events_sector_showdown.xml.append:65
+#: src-en/data/events_sector_showdown.xml.append:69
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SICKLE\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_showdown.xml.append:70
+#: src-en/data/events_sector_showdown.xml.append:74
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SORROW\"]/text"
 msgstr "\"Faites-le, ce serait vraiment génial.\""
 
-#: src-en/data/events_sector_showdown.xml.append:73
+#: src-en/data/events_sector_showdown.xml.append:77
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SORROW\"]/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_showdown.xml.append:82
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_ONYX\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:85
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_ONYX\"]/choice/text"
 msgstr "Continuer..."

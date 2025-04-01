@@ -1,0 +1,545 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_aea_old.xml:3
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_POWER_CELL_CONTINUE\"]/text"
+msgstr "TEST TEST ."
+
+#: src-en/data/events_special_aea_old.xml:11
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_POWER_CELL_GET\"]/beaconType/unvisitedTooltip"
+msgstr "???"
+
+#: src-en/data/events_special_aea_old.xml:12
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_POWER_CELL_GET\"]/beaconType/visitedTooltip"
+msgstr "???"
+
+#: src-en/data/events_special_aea_old.xml:14
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_POWER_CELL_GET\"]/text"
+msgstr ""
+"There's a strange weapon wreck at this beacon. Almost none of it is "
+"salvagable. You manage to recover a strange weapon from the wreckage."
+
+#: src-en/data/events_special_aea_old.xml:18
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_POWER_CELL_GET\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:29
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/beaconType/unvisitedTooltip"
+msgstr "This is the location of a large structure."
+
+#: src-en/data/events_special_aea_old.xml:30
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/beaconType/visitedTooltip"
+msgstr "This is the location of a large structure."
+
+#: src-en/data/events_special_aea_old.xml:32
+msgid "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/text"
+msgstr ""
+"A massive ring sits in orbit nearby the beacon, an imposing structure with "
+"no apparent use. Apparently having been put here long ago, the use of the "
+"ring remains a mystery to this day."
+
+#: src-en/data/events_special_aea_old.xml:34
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:36
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/event/text"
+msgstr ""
+"The strange weapon you collected earlier in your travels begins to glow as "
+"you near the structure."
+
+#: src-en/data/events_special_aea_old.xml:38
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/text"
+msgstr "(??? Weapon) Insert the weapon into the gate."
+
+#: src-en/data/events_special_aea_old.xml:40
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/text"
+msgstr ""
+"The gate begins to glow, a moment later a rift opens in the middle, and a "
+"large cruiser immerges."
+
+#: src-en/data/events_special_aea_old.xml:45
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and "
+"not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:47
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and "
+"not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/choice/event/text"
+msgstr ""
+"The weapon you put into the gate is spat out once again, it appears to have "
+"pulled part of the gate out with it."
+
+#: src-en/data/events_special_aea_old.xml:50
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and "
+"not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:52
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and "
+"not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/choice/event/choice/event/text"
+msgstr ""
+"As you collect the scrap from the gate you notice the large cruiser is now "
+"bearing down on your, you notice two weapons charging, however the rest of "
+"it's impressive arsenal is still offline."
+
+#: src-en/data/events_special_aea_old.xml:59
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and "
+"not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/choice/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:69
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/event/choice[2]/text"
+msgstr "Ignore it."
+
+#: src-en/data/events_special_aea_old.xml:71
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/event/choice[2]/event/text"
+msgstr "You admire the structure while your FTL drive changes."
+
+#: src-en/data/events_special_aea_old.xml:73
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/event/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_aea_old.xml:77
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/event/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_aea_old.xml:85
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and @lvl=\"0\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:87
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and @lvl=\"0\"]/event/text"
+msgstr "You admire the structure while your FTL drive changes."
+
+#: src-en/data/events_special_aea_old.xml:89
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_aea_old.xml:93
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and @lvl=\"0\"]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_aea_old.xml:106
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_GATE_GUARD_BOSS\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+"The Mysterious Cruiser is charging its MV drive. It's artillery appear to be"
+" a strange weapon which grab hold of your ship and tethers you to them. "
+"You'll probably be pulled away with them if they go into hyperspace..."
+
+#: src-en/data/events_special_aea_old.xml:111
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_GATE_GUARD_BOSS\"]/destroyed/text"
+msgstr ""
+"You've destroyed the Mysterious cruiser, you begin salvaging the vessel.\n"
+"\n"
+"You wonder if perhaps something would have happened if you let it escape and take you with it.\n"
+"\t\t."
+
+#: src-en/data/events_special_aea_old.xml:117
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_GATE_GUARD_BOSS\"]/destroyed/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:124
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"ESCAPE_AEA_OLD_GUARD_BOSS\"]/text"
+msgstr ""
+"Surprisingly it appears the cruiser is trying to run away, if you're not careful you might get pulled away with it.\n"
+"\n"
+"It's artillery appear to be some kind of hooks which grab hold of your ship and tether you to them. You'll probably be pulled away with them if they go into hyperspace..."
+
+#: src-en/data/events_special_aea_old.xml:129
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"GOTAWAY_AEA_OLD_GUARD_BOSS\"]/text"
+msgstr "The ship's jump drive initiates and pulls it away."
+
+#: src-en/data/events_special_aea_old.xml:132
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"GOTAWAY_AEA_OLD_GUARD_BOSS\"]/choice[@req=\"aea_old_gate_guard_attached\""
+" and not(@lvl)]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:134
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"GOTAWAY_AEA_OLD_GUARD_BOSS\"]/choice[@req=\"aea_old_gate_guard_attached\""
+" and not(@lvl)]/event/text"
+msgstr ""
+"Almost in the same instance you're pulled off your feet when the ship is "
+"ripped into Hyperspeed with the cruiser."
+
+#: src-en/data/events_special_aea_old.xml:136
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"GOTAWAY_AEA_OLD_GUARD_BOSS\"]/choice[@req=\"aea_old_gate_guard_attached\""
+" and not(@lvl)]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:145
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"GOTAWAY_AEA_OLD_GUARD_BOSS\"]/choice[@req=\"aea_old_gate_guard_attached\""
+" and @lvl=\"0\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:152
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE_GUARD_BOSS_ACTIVATE\"]/text"
+msgstr ""
+"It appears that whatever you've done has pissed the ship off enough to "
+"activate the rest of it's weapons."
+
+#: src-en/data/events_special_aea_old.xml:158
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE_GUARD_BOSS_ACTIVATE\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:170
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_BEAM_MASTER\"]/text"
+msgstr ""
+"\"I've finally figured it out, the reason why I kept losing is because you "
+"keep shooting at my ship! First I thought - 'Well, why don't I take away "
+"their guns?', but my crew told me it's not really feasible, so I though "
+"about what you usually shoot and Eureka! You aim for my systems, don't you? "
+"You sneaky bastard, the secret is out! And now - no more. These cool lylmik "
+"dudes sold me this armour stuff and I basically ripped them off, just cost "
+"me all my other guns, but now I am practically become invincible. Now I am "
+"the ARMOUR MASTER! Good luck hitting anything, beyatch!\""
+
+#: src-en/data/events_special_aea_old.xml:174
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_BEAM_MASTER\"]/choice[1]/text"
+msgstr "Here we go again."
+
+#: src-en/data/events_special_aea_old.xml:178
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_BEAM_MASTER\"]/choice[@req=\"BLUELIST_WEAPONS_BEAM_POWERFUL\"]/text"
+msgstr "(Powerful Beam) Show the Beam to Leah."
+
+#: src-en/data/events_special_aea_old.xml:204
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[1]"
+msgstr ""
+"The wreck breaks apart into thousands of pieces of scrap metal, "
+"Unfortunately not all of those are actually useful bits of scrap."
+
+#: src-en/data/events_special_aea_old.xml:205
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[2]"
+msgstr ""
+"As the ship breaks apart you wonder how long it will take another ship of "
+"the same kind to be pulled into this segment of the multiverse."
+
+#: src-en/data/events_special_aea_old.xml:206
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[3]"
+msgstr ""
+"The ship foundries in Lylmik space simply aren't as capable as the ones with"
+" access to the rest of the multiverse, and as a result you're unlikely to "
+"see another ship like the one that just blew up soon."
+
+#: src-en/data/events_special_aea_old.xml:207
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[4]"
+msgstr ""
+"Another powerful foe felled. It hasn't really gotten you much closer to "
+"escaping, but you did get some scrap out of it."
+
+#: src-en/data/events_special_aea_old.xml:210
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"DESTROYED_AEA_OLD_MV_GUN\"]/text"
+msgstr ""
+"To your surprise, a weapon managed to survive the explosion. It's a little "
+"crisp from the explosion but with a few touch ups you can salvage it."
+
+#: src-en/data/events_special_aea_old.xml:228
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD_MV\"]/text[1]"
+msgstr ""
+"With advanced ships like these in short supply, it probably won't take long "
+"for this one to be recovered by some other Unfortunate souls."
+
+#: src-en/data/events_special_aea_old.xml:229
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD_MV\"]/text[2]"
+msgstr ""
+"With the crew but a red smear on the walls of the ship, you're able to scrap"
+" the ship in peace."
+
+#: src-en/data/events_special_aea_old.xml:230
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD_MV\"]/text[3]"
+msgstr ""
+"Only the most dangerous ships survive out here. Unfortunately for the crew "
+"of this ship you're the most dangerous around."
+
+#: src-en/data/events_special_aea_old.xml:233
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"DEAD_CREW_AEA_OLD_MV_GUN\"]/text"
+msgstr ""
+"Now emptied of crew, you find one of their weapons on board. You take it "
+"back with you before scrapping the ship."
+
+#: src-en/data/events_special_aea_old.xml:245
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STATIONDEFEND\"]/destroyed/text"
+msgstr "With the ship destroyed you're able to scrap it for a decent reward."
+
+#: src-en/data/events_special_aea_old.xml:248
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STATIONDEFEND\"]/destroyed/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:253
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STATIONDEFEND\"]/deadCrew/text"
+msgstr ""
+"With the ship cleared of crew you're able to scrap it for a decent reward."
+
+#: src-en/data/events_special_aea_old.xml:256
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STATIONDEFEND\"]/deadCrew/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:264
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STORE_PROTECT\"]/destroyed/text"
+msgstr "With the ship destroyed you're able to scrap it for a decent reward."
+
+#: src-en/data/events_special_aea_old.xml:267
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STORE_PROTECT\"]/destroyed/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:272
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STORE_PROTECT\"]/deadCrew/text"
+msgstr ""
+"With the ship cleared of crew you're able to scrap it for a decent reward."
+
+#: src-en/data/events_special_aea_old.xml:275
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STORE_PROTECT\"]/deadCrew/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:290
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_old.xml:291
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_special_aea_old.xml:292
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_old.xml:294
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/text"
+msgstr ""
+"This beacon hosts Lylmik station. It's safe to bet the station is most "
+"likely carrying some special tech. If you can kill the crew onboard, the "
+"cargo will be yours."
+
+#: src-en/data/events_special_aea_old.xml:297
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[1]/text"
+msgstr "Demand the surrender of the goods."
+
+#: src-en/data/events_special_aea_old.xml:299
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[1]/event/text"
+msgstr "You prepare to secure the cargo by force."
+
+#: src-en/data/events_special_aea_old.xml:302
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_old.xml:308
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[2]/text"
+msgstr "Avoid the station."
+
+#: src-en/data/events_special_aea_old.xml:310
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[2]/event/text"
+msgstr "You stay outside of the station's range and prepare to jump away."
+
+#: src-en/data/events_special_aea_old.xml:312
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_aea_old.xml:316
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_aea_old.xml:323
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_OLD\"]/text"
+msgstr ""
+"The crew is dead, leaving you with the station. Its cargo is yours for the "
+"taking. Aboard is the special tech you expected, which you bring back to "
+"your ship."
+
+#: src-en/data/events_special_aea_old.xml:339
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD\"]/text[1]"
+msgstr ""
+"The Lylmik ship explodes into many smaller pieces, you can make out chunks "
+"of armour, still whole even after being exploded. It's oddly satisfying, and"
+" you reflect fondly on your handiwork as you scrap the remains."
+
+#: src-en/data/events_special_aea_old.xml:340
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD\"]/text[2]"
+msgstr ""
+"You wonder how you never heard about the Lylmiks before, but then you "
+"remember the whole being kidnapped thing."
+
+#: src-en/data/events_special_aea_old.xml:341
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD\"]/text[3]"
+msgstr ""
+"With every Lilmik ship destroyed you're one step closer to escaping their "
+"quarantine, it isn't a lot but it's enough to keep you going."
+
+#: src-en/data/events_special_aea_old.xml:349
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[1]"
+msgstr ""
+"As the last Lylmik collapses, it lets out two last words. \"Screw... "
+"you...\""
+
+#: src-en/data/events_special_aea_old.xml:350
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[2]"
+msgstr ""
+"You've made quick work of these aliens. You don't feel any guilt, afterall "
+"these aren't really murders anyway."
+
+#: src-en/data/events_special_aea_old.xml:351
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[3]"
+msgstr ""
+"You've heard that instead of dying the Lylmik just get redirected to a new "
+"body, better hope those new bodies aren't anywhere nearby."
+
+#: src-en/data/events_special_aea_old.xml:352
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[4]"
+msgstr ""
+"You may not feel bad about the lylmik, but their organic crew may not always"
+" deserve it."
+
+#: src-en/data/events_special_aea_old.xml:357
+msgid ""
+"data/events_special_aea_old.xml$//eventList[@name=\"AEA_OLD_SURRENDER_LIST\"]/event/text"
+msgstr ""
+"\"Good, I see you are smarter than most. Be grateful that we too have "
+"decided to show you mercy.\""
+
+#: src-en/data/events_special_aea_old.xml:360
+msgid ""
+"data/events_special_aea_old.xml$//eventList[@name=\"AEA_OLD_SURRENDER_LIST\"]/event/choice[1]/text"
+msgstr "Let them go."
+
+#: src-en/data/events_special_aea_old.xml:364
+msgid ""
+"data/events_special_aea_old.xml$//eventList[@name=\"AEA_OLD_SURRENDER_LIST\"]/event/choice[2]/text"
+msgstr "Finish these bastards off."
+
+#: src-en/data/events_special_aea_old.xml:366
+msgid ""
+"data/events_special_aea_old.xml$//eventList[@name=\"AEA_OLD_SURRENDER_LIST\"]/event/choice[2]/event/text"
+msgstr "\"Really? You dare try to try and fight us again? Hah, how laughable.\""
+
+#: src-en/data/events_special_aea_old.xml:376
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_ALL_SURRENDER\"]/surrender/text"
+msgstr ""
+"\"Mortal beings, you must not be aware of the consequences of your actions. "
+"We are not meant to die. Kill us, and you will suffer a terrible fate.\""
+
+#: src-en/data/events_special_aea_old.xml:378
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_ALL_SURRENDER\"]/surrender/choice[1]/text"
+msgstr "Let them go."
+
+#: src-en/data/events_special_aea_old.xml:382
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_ALL_SURRENDER\"]/surrender/choice[2]/text"
+msgstr "We aren't afraid of you."
+
+#: src-en/data/events_special_aea_old.xml:426
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_STATION_EXCLUSIVE\"]/surrender/text"
+msgstr "\"Fine, fine, you can have access to the station, just don't kill us.\""
+
+#: src-en/data/events_special_aea_old.xml:428
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_STATION_EXCLUSIVE\"]/surrender/choice[1]/text"
+msgstr "Let them live."
+
+#: src-en/data/events_special_aea_old.xml:431
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_STATION_EXCLUSIVE\"]/surrender/choice[1]/event/text"
+msgstr ""
+"You gain access to the station, and discover its basically just one big "
+"store."
+
+#: src-en/data/events_special_aea_old.xml:436
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_STATION_EXCLUSIVE\"]/surrender/choice[2]/text"
+msgstr "Finish them off."

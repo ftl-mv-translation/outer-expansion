@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-01 15:50+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Italian <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_sector_showdownxmlappend/it/>\n"
-"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_sector_showdown.xml.append:4
 msgid ""
@@ -48,62 +41,78 @@ msgid ""
 "append:choice[6]/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:30
+#: src-en/data/events_sector_showdown.xml.append:28
+msgid ""
+"data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
+"append:choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:34
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_BILL\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:33
+#: src-en/data/events_sector_showdown.xml.append:37
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_BILL\"]/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_sector_showdown.xml.append:38
+#: src-en/data/events_sector_showdown.xml.append:42
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_KING\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:41
+#: src-en/data/events_sector_showdown.xml.append:45
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_KING\"]/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_sector_showdown.xml.append:46
+#: src-en/data/events_sector_showdown.xml.append:50
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_TINY\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:49
+#: src-en/data/events_sector_showdown.xml.append:53
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_TINY\"]/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_sector_showdown.xml.append:54
+#: src-en/data/events_sector_showdown.xml.append:58
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_JAY\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:57
+#: src-en/data/events_sector_showdown.xml.append:61
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_JAY\"]/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_sector_showdown.xml.append:62
+#: src-en/data/events_sector_showdown.xml.append:66
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SICKLE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:65
+#: src-en/data/events_sector_showdown.xml.append:69
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SICKLE\"]/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_sector_showdown.xml.append:70
+#: src-en/data/events_sector_showdown.xml.append:74
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SORROW\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:73
+#: src-en/data/events_sector_showdown.xml.append:77
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SORROW\"]/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_sector_showdown.xml.append:82
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_ONYX\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:85
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_ONYX\"]/choice/text"
 msgstr "Continua..."

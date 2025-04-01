@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-01 15:50+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Japanese <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_aea_cultxml/ja/>\n"
-"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_aea_cult.xml:14
 msgid ""
@@ -562,134 +555,133 @@ msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[3]/event/choice[2]/text"
 msgstr "何もしない。"
 
-#: src-en/data/events_special_aea_cult.xml:515
+#: src-en/data/events_special_aea_cult.xml:516
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_CULT\"]/text"
 msgstr ""
-"敵クルーは死亡し、敵船が残されました。その貨物はあなたのものです。自船に持ち"
-"帰った貨物には、あなたが期待していた特別な技術が搭載されていました。"
+"敵クルーは死亡し、敵船が残されました。その貨物はあなたのものです。自船に持ち帰った貨物には、あなたが期待していた特別な技術が搭載されていました。"
 
-#: src-en/data/events_special_aea_cult.xml:534
+#: src-en/data/events_special_aea_cult.xml:536
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:535
+#: src-en/data/events_special_aea_cult.xml:537
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:536
+#: src-en/data/events_special_aea_cult.xml:538
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:537
+#: src-en/data/events_special_aea_cult.xml:539
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[4]"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:545
+#: src-en/data/events_special_aea_cult.xml:548
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_CULT\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:546
+#: src-en/data/events_special_aea_cult.xml:549
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_CULT\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:547
+#: src-en/data/events_special_aea_cult.xml:550
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_CULT\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:553
+#: src-en/data/events_special_aea_cult.xml:556
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"SURRENDER_AEA_CULT\"]/choice[1]/text"
 msgstr "降伏を受け入れる。"
 
-#: src-en/data/events_special_aea_cult.xml:562
+#: src-en/data/events_special_aea_cult.xml:565
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:563
+#: src-en/data/events_special_aea_cult.xml:566
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:564
+#: src-en/data/events_special_aea_cult.xml:567
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:565
+#: src-en/data/events_special_aea_cult.xml:568
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[4]"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:566
+#: src-en/data/events_special_aea_cult.xml:569
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[5]"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:570
+#: src-en/data/events_special_aea_cult.xml:573
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"AEA_CULT_TEST_FIGHT\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:573
+#: src-en/data/events_special_aea_cult.xml:576
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"AEA_CULT_TEST_FIGHT\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_special_aea_cult.xml:603
+#: src-en/data/events_special_aea_cult.xml:607
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_FACTORY\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:607
+#: src-en/data/events_special_aea_cult.xml:612
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_FACTORY\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:615
+#: src-en/data/events_special_aea_cult.xml:621
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:634
+#: src-en/data/events_special_aea_cult.xml:640
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"DEFEAT_VAMPWEED_ELITE\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:637
+#: src-en/data/events_special_aea_cult.xml:644
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"DEFEAT_VAMPWEED_ELITE\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_special_aea_cult.xml:639
+#: src-en/data/events_special_aea_cult.xml:646
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"DEFEAT_VAMPWEED_ELITE\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:647
+#: src-en/data/events_special_aea_cult.xml:655
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:650
+#: src-en/data/events_special_aea_cult.xml:658
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/destroyed/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_special_aea_cult.xml:655
+#: src-en/data/events_special_aea_cult.xml:664
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_cult.xml:658
+#: src-en/data/events_special_aea_cult.xml:667
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/deadCrew/choice/text"
 msgstr "次へ…"

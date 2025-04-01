@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-01 15:47+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-outer-expansion/dataevents_sector_aea_cultxml/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_sector_aea_cult.xml:29
 msgid ""
@@ -880,10 +873,7 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_cult.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_CULT\"]/text[1]"
 msgstr ""
-"\"联邦固守过去"
-"，但你们会发现这将造成你们自己的毁灭，因为你们把我们排除在外！当苡瓦看清真相"
-"并加入星联时，你们这些虚伪的领导人就会被消灭！在那之前，我们只能先干掉你们这"
-"些0号宇宙的变元者！\""
+"\"联邦固守过去，但你们会发现这将造成你们自己的毁灭，因为你们把我们排除在外！当苡瓦看清真相并加入星联时，你们这些虚伪的领导人就会被消灭！在那之前，我们只能先干掉你们这些0号宇宙的变元者！\""
 
 #: src-en/data/events_sector_aea_cult.xml:843
 msgid ""
@@ -898,8 +888,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_cult.xml:845
 msgid ""
 "data/events_sector_aea_cult.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_CULT\"]/text[4]"
-msgstr "\"所以果然真的，联邦终于派变元者来重启旧战了！来吧，我们不会不战而屈人之兵的"
-"，人渣！\"不幸的是，飞船拒绝听你解释，这意味着战斗不可避免。"
+msgstr "\"所以果然真的，联邦终于派变元者来重启旧战了！来吧，我们不会不战而屈人之兵的，人渣！\"不幸的是，飞船拒绝听你解释，这意味着战斗不可避免。"
 
 #: src-en/data/events_sector_aea_cult.xml:846
 msgid ""
@@ -914,14 +903,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_cult.xml:848
 msgid ""
 "data/events_sector_aea_cult.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_CULT\"]/text[7]"
-msgstr "\"在以前的战争中，我没有站在母巢一边。但现在呢？现在我觉得我应该这么做！联邦"
-"什么都没做，却在我们需要的时候抛弃我们，你会后悔的！\""
+msgstr "\"在以前的战争中，我没有站在母巢一边。但现在呢？现在我觉得我应该这么做！联邦什么都没做，却在我们需要的时候抛弃我们，你会后悔的！\""
 
 #: src-en/data/events_sector_aea_cult.xml:849
 msgid ""
 "data/events_sector_aea_cult.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_CULT\"]/text[8]"
-msgstr "\"苡瓦已经变得软弱无能，无法掩盖你们联邦的污秽！是时候起义了，播下起义的种子"
-"，让它开出星系之花，让你们的谎言不再腐蚀我们的青年！\""
+msgstr "\"苡瓦已经变得软弱无能，无法掩盖你们联邦的污秽！是时候起义了，播下起义的种子，让它开出星系之花，让你们的谎言不再腐蚀我们的青年！\""
 
 #: src-en/data/events_sector_aea_cult.xml:853
 msgid ""
@@ -1460,51 +1447,51 @@ msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_FLOWER_DEAD\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_cult.xml:1333
+#: src-en/data/events_sector_aea_cult.xml:1334
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_FLOWER_DEAD\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_cult.xml:1335
+#: src-en/data/events_sector_aea_cult.xml:1336
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_FLOWER_DEAD\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_cult.xml:1355
+#: src-en/data/events_sector_aea_cult.xml:1356
 msgid "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_cult.xml:1358
+#: src-en/data/events_sector_aea_cult.xml:1359
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_cult.xml:1360
+#: src-en/data/events_sector_aea_cult.xml:1361
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[1]/event/text"
 msgstr "你选择铤而走险，与这艘布雷舰作战。但愿你能在他们的炮火下坚持足够长的时间。"
 
-#: src-en/data/events_sector_aea_cult.xml:1363
+#: src-en/data/events_sector_aea_cult.xml:1364
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_cult.xml:1369
+#: src-en/data/events_sector_aea_cult.xml:1370
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[2]/text"
 msgstr "避开布雷舰。"
 
-#: src-en/data/events_sector_aea_cult.xml:1371
+#: src-en/data/events_sector_aea_cult.xml:1372
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[2]/event/text"
 msgstr "惹是生非到布雷舰头上不是一个好主意。"
 
-#: src-en/data/events_sector_aea_cult.xml:1373
+#: src-en/data/events_sector_aea_cult.xml:1374
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[2]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_aea_cult.xml:1377
+#: src-en/data/events_sector_aea_cult.xml:1378
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[2]/event/choice[2]/text"
 msgstr "跳过。"

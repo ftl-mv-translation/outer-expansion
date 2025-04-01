@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-01 15:44+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: German <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_sector_aea_old_3xml/de/>\n"
-"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_sector_aea_old_3.xml:18
 msgid ""
@@ -56,472 +49,477 @@ msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_SHOWDOWN_AUTO\"]/text"
 msgstr ""
 "Es scheint das Schiff ist auch mit einem verbesserten KI-System "
-"ausgestattet. Jetzt da die Crew tot ist, hat es die Kontrolle übernommen! Du "
-"bemerkst auch, dass die Sauerstoff-Level auf dem Flaggschiff sinken..."
+"ausgestattet. Jetzt da die Crew tot ist, hat es die Kontrolle übernommen! Du"
+" bemerkst auch, dass die Sauerstoff-Level auf dem Flaggschiff sinken..."
 
-#: src-en/data/events_sector_aea_old_3.xml:107
+#: src-en/data/events_sector_aea_old_3.xml:108
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_CASUAL\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:110
+#: src-en/data/events_sector_aea_old_3.xml:111
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_CASUAL\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:112
+#: src-en/data/events_sector_aea_old_3.xml:113
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_CASUAL\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:115
+#: src-en/data/events_sector_aea_old_3.xml:116
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_CASUAL\"]/choice/event/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:122
+#: src-en/data/events_sector_aea_old_3.xml:124
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_NORMAL\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:125
+#: src-en/data/events_sector_aea_old_3.xml:127
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_NORMAL\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:127
+#: src-en/data/events_sector_aea_old_3.xml:129
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_NORMAL\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:130
+#: src-en/data/events_sector_aea_old_3.xml:132
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_NORMAL\"]/choice/event/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:137
+#: src-en/data/events_sector_aea_old_3.xml:140
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_CHALLENGE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:140
+#: src-en/data/events_sector_aea_old_3.xml:143
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_CHALLENGE\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:142
+#: src-en/data/events_sector_aea_old_3.xml:145
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_CHALLENGE\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:145
+#: src-en/data/events_sector_aea_old_3.xml:148
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_CHALLENGE\"]/choice/event/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:152
+#: src-en/data/events_sector_aea_old_3.xml:156
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_EXTREME\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:155
+#: src-en/data/events_sector_aea_old_3.xml:159
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_EXTREME\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:157
+#: src-en/data/events_sector_aea_old_3.xml:161
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_EXTREME\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:160
+#: src-en/data/events_sector_aea_old_3.xml:164
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_EXTREME\"]/choice/event/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:173
+#: src-en/data/events_sector_aea_old_3.xml:177
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_SHOWDOWN_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:178
+#: src-en/data/events_sector_aea_old_3.xml:182
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_SHOWDOWN_WIN\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:191
+#: src-en/data/events_sector_aea_old_3.xml:195
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:192
+#: src-en/data/events_sector_aea_old_3.xml:196
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/beaconType/visitedTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:194
-msgid "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/text"
-msgstr ""
-
 #: src-en/data/events_sector_aea_old_3.xml:198
-msgid ""
-"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/choice[1]/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_old_3.xml:200
-msgid ""
-"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/choice[1]/event/text"
+msgid "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_old_3.xml:202
 msgid ""
+"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_3.xml:204
+msgid ""
+"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_3.xml:206
+msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/choice[1]/event/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:211
+#: src-en/data/events_sector_aea_old_3.xml:215
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/choice[@req=\"LIST_CREW_PARAGON_UNIQUE\"]/text"
 msgstr "Rede mit deiner Crew."
 
-#: src-en/data/events_sector_aea_old_3.xml:216
+#: src-en/data/events_sector_aea_old_3.xml:220
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/text"
 msgstr "Du schaust deine Crew an, welche alle deine Entscheidung abwarten."
 
-#: src-en/data/events_sector_aea_old_3.xml:219
+#: src-en/data/events_sector_aea_old_3.xml:223
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"aea_old_unique_1\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:223
+#: src-en/data/events_sector_aea_old_3.xml:227
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"aea_old_unique_2\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:227
+#: src-en/data/events_sector_aea_old_3.xml:231
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"aea_old_unique_3\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:231
+#: src-en/data/events_sector_aea_old_3.xml:235
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"aea_old_unique_4\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:235
+#: src-en/data/events_sector_aea_old_3.xml:239
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"aea_old_unique_5\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:240
+#: src-en/data/events_sector_aea_old_3.xml:244
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_haynes\"]/text"
 msgstr "Frage Haynes über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:244
+#: src-en/data/events_sector_aea_old_3.xml:248
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_tully\"]/text"
 msgstr "Frage Tully über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:248
+#: src-en/data/events_sector_aea_old_3.xml:252
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"LIST_A55\"]/text"
 msgstr "Frage A5540L3 über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:252
+#: src-en/data/events_sector_aea_old_3.xml:256
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
 msgstr "Frage Jerry über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:256
+#: src-en/data/events_sector_aea_old_3.xml:260
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_anurak\"]/text"
 msgstr "Frage Anurak über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:260
+#: src-en/data/events_sector_aea_old_3.xml:264
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_devorak\"]/text"
 msgstr "Frage Devorak über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:264
+#: src-en/data/events_sector_aea_old_3.xml:268
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_turzil\"]/text"
 msgstr "Frage Turzil über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:268
+#: src-en/data/events_sector_aea_old_3.xml:272
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_mayeb\"]/text"
 msgstr "Frage Mayeb danach."
 
-#: src-en/data/events_sector_aea_old_3.xml:272
+#: src-en/data/events_sector_aea_old_3.xml:276
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_ivar\"]/text"
 msgstr "Frag Ivar danach."
 
-#: src-en/data/events_sector_aea_old_3.xml:276
+#: src-en/data/events_sector_aea_old_3.xml:280
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_tyerel\"]/text"
 msgstr "Frag Ty E'Rel danach."
 
-#: src-en/data/events_sector_aea_old_3.xml:280
+#: src-en/data/events_sector_aea_old_3.xml:284
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_alkali\"]/text"
 msgstr "Frage Alkali über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:284
+#: src-en/data/events_sector_aea_old_3.xml:288
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_ooj\"]/text"
 msgstr "Frage OOJ MAJOO über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:288
+#: src-en/data/events_sector_aea_old_3.xml:292
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"LIST_CREW_ELLIE_COSTUME\"]/text"
 msgstr "Frage Ellie über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:292
+#: src-en/data/events_sector_aea_old_3.xml:296
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_ellie_stephan\"]/text"
 msgstr "Frage Stephan über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:296
+#: src-en/data/events_sector_aea_old_3.xml:300
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_nights\"]/text"
 msgstr "Frage Nights über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:300
+#: src-en/data/events_sector_aea_old_3.xml:304
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_slocknog\"]/text"
 msgstr "Frage Slocknog über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:304
+#: src-en/data/events_sector_aea_old_3.xml:308
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_irwin\"]/text"
 msgstr "Frage Irwin über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:308
+#: src-en/data/events_sector_aea_old_3.xml:312
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_alkram\"]/text"
 msgstr "Frage Alkram über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:312
+#: src-en/data/events_sector_aea_old_3.xml:316
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_tyrdeo\"]/text"
 msgstr "Frage Trydeo über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:316
+#: src-en/data/events_sector_aea_old_3.xml:320
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"LIST_CREW_FREDDY\"]/text"
 msgstr "Frage Freddy über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:320
+#: src-en/data/events_sector_aea_old_3.xml:324
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_kaz\"]/text"
 msgstr "Frage Kaz über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:324
+#: src-en/data/events_sector_aea_old_3.xml:328
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_ariadne\"]/text"
 msgstr "Frage Ariadne über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:328
+#: src-en/data/events_sector_aea_old_3.xml:332
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_ruwen\"]/text"
 msgstr "Frage Ruwen über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:332
+#: src-en/data/events_sector_aea_old_3.xml:336
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_dianesh\"]/text"
 msgstr "Frage Dianesh über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:336
+#: src-en/data/events_sector_aea_old_3.xml:340
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_tuco\"]/text"
 msgstr "Frage Tuco über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:340
+#: src-en/data/events_sector_aea_old_3.xml:344
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_eater\"]/text"
 msgstr "Frage den Signalpunkt Esser über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:344
+#: src-en/data/events_sector_aea_old_3.xml:348
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_anointed\"]/text"
 msgstr "Frage den Anointed über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:348
+#: src-en/data/events_sector_aea_old_3.xml:352
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_dessius\"]/text"
 msgstr "Frage Dessius über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:352
+#: src-en/data/events_sector_aea_old_3.xml:356
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_vortigon\"]/text"
 msgstr "Frage Vortigon über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:356
+#: src-en/data/events_sector_aea_old_3.xml:360
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_billy\"]/text"
 msgstr "Frage Billy über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:360
+#: src-en/data/events_sector_aea_old_3.xml:364
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_sylvan\"]/text"
 msgstr "Frage Sylvan über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:364
+#: src-en/data/events_sector_aea_old_3.xml:368
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"LIST_CREW_QUEEN\"]/text"
 msgstr "Frage die Spinnen Königin über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:368
+#: src-en/data/events_sector_aea_old_3.xml:372
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_obyn\"]/text"
 msgstr "Frage Obyn über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:372
+#: src-en/data/events_sector_aea_old_3.xml:376
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_symbiote\"]/text"
 msgstr "Frage Tintan und Rig über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:376
+#: src-en/data/events_sector_aea_old_3.xml:380
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_tonysr\"]/text"
 msgstr "Frage Tony Sr. über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:380
+#: src-en/data/events_sector_aea_old_3.xml:384
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_guntput\"]/text"
 msgstr "Frage Guntput über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:384
+#: src-en/data/events_sector_aea_old_3.xml:388
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_metyunt\"]/text"
 msgstr "Frage Metyunt über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:388
+#: src-en/data/events_sector_aea_old_3.xml:392
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"ORCHID_KIDS\"]/text"
 msgstr "Frage die Orchidkinder über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:392
+#: src-en/data/events_sector_aea_old_3.xml:396
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"unique_wither\"]/text"
 msgstr "Frage Aenwithe über das Ganze."
 
-#: src-en/data/events_sector_aea_old_3.xml:396
+#: src-en/data/events_sector_aea_old_3.xml:400
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"aea_acid_bill\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:400
+#: src-en/data/events_sector_aea_old_3.xml:404
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"aea_necro_king\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:404
+#: src-en/data/events_sector_aea_old_3.xml:408
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"AEA_TINY\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:408
+#: src-en/data/events_sector_aea_old_3.xml:412
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"aea_bird_unique\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:412
+#: src-en/data/events_sector_aea_old_3.xml:416
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"aea_shleg_sickle\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:416
+#: src-en/data/events_sector_aea_old_3.xml:420
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"aea_shleg_sorrow\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:422
+#: src-en/data/events_sector_aea_old_3.xml:424
+msgid ""
+"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/choice[@req=\"aea_shard_dawn\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_3.xml:430
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_DETECTIVE\"]/text"
 msgstr ""
 "\"Wir sind so weit gekommen, ja? Wenn man bedenkt, dass ich vor kurzer Zeit "
 "noch einen simplen Mordfall untersucht habe und dachte, dass das die größte "
 "Aufregung meines Lebens wäre, die ich jemals sehen werde! Und schau uns "
-"jetzt an! Ich muss sagen, es wäre eine Schande für meine Legende, wenn es so "
-"enden würde, aber egal was du entscheidest, ich stehe hinter dir.\""
+"jetzt an! Ich muss sagen, es wäre eine Schande für meine Legende, wenn es so"
+" enden würde, aber egal was du entscheidest, ich stehe hinter dir.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:425
+#: src-en/data/events_sector_aea_old_3.xml:433
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_DETECTIVE\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:430
+#: src-en/data/events_sector_aea_old_3.xml:438
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_TULLY\"]/text"
 msgstr ""
 "\"Um zu denken, dass ich mir Gedanken um einen Bürgerkrieg gemacht habe, "
 "wenn solche große Sachen hinter meinem Rücken passiert sind. Wie hätte ich "
-"zur Föderation zurückkehren können, obwohl ich weiß dass es für nichts wäre? "
-"Vance, mein ältester Freund, ist weg. Ich sollte mich schuldig fühlen, "
+"zur Föderation zurückkehren können, obwohl ich weiß dass es für nichts wäre?"
+" Vance, mein ältester Freund, ist weg. Ich sollte mich schuldig fühlen, "
 "jedoch war er schon lange vor diesem Konflikt weg. Lass mich nicht deine "
 "Entscheidung beeinflussen, ich habe kein Recht dazu. Du bist jetzt der "
 "Admiral, Kapitän.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:433
+#: src-en/data/events_sector_aea_old_3.xml:441
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_TULLY\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:438
+#: src-en/data/events_sector_aea_old_3.xml:446
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_A55\"]/text"
 msgstr ""
-"\"Arg mein Freund, es war spaßig mit dir zu dienen. Am Ende des Tages ist es "
-"egal, ob ich von den Rebellen geschaffen wurde oder nicht, da ich Teil "
+"\"Arg mein Freund, es war spaßig mit dir zu dienen. Am Ende des Tages ist es"
+" egal, ob ich von den Rebellen geschaffen wurde oder nicht, da ich Teil "
 "deiner Crew war, mein Freund. Es wäre eine Schande für den Piratenkönig so "
 "zu sterben, aber nur weil das hier eine großartige Geschichte ist, die ich "
 "nie erzählen könnte!\""
 
-#: src-en/data/events_sector_aea_old_3.xml:441
+#: src-en/data/events_sector_aea_old_3.xml:449
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_A55\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:446
+#: src-en/data/events_sector_aea_old_3.xml:454
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_JERRY\"]/text"
 msgstr ""
 "Jerry schaut runter auf seine Füße. \"Ich... ich glaube es ist gut, dass "
 "mein Onkel tot ist. Ich habe ihn nicht gehasst, aber es ist das Beste für "
-"das Multiversum. Ich glaube das macht mich zu dem Helden, wie Vance es immer "
-"wollte, nur auf eine Art die er nie erwartet hätte. Retter des Multiversums "
-"ist ein guter Titel! Ich bin froh, dass ich dich getroffen habe Kapitän. Ich "
-"werde mit dir bis zum Ende bleiben, egal ob es heute, morgen oder das Ende "
-"der Zeit sein wird.\""
+"das Multiversum. Ich glaube das macht mich zu dem Helden, wie Vance es immer"
+" wollte, nur auf eine Art die er nie erwartet hätte. Retter des Multiversums"
+" ist ein guter Titel! Ich bin froh, dass ich dich getroffen habe Kapitän. "
+"Ich werde mit dir bis zum Ende bleiben, egal ob es heute, morgen oder das "
+"Ende der Zeit sein wird.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:449
+#: src-en/data/events_sector_aea_old_3.xml:457
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_JERRY\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:454
+#: src-en/data/events_sector_aea_old_3.xml:462
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_ANURAK\"]/text"
 msgstr ""
 "\"Oh Gott, Shellskenbry! Das ist wirklich etwas! Ich weiß nicht... ich weiß "
 "nicht wie ich das Ganze händeln soll! Aber, du willst meine Meinung zu dem "
 "Ganzen? Oh, ich bin nicht sehr gut, was Entscheidungen angeht. Nein nein, "
-"überhaupt nicht! Uhm... oh... uh... uh... Ich weiß was du machen sollst! Die "
-"Bombe! Die Bombe... ist was du machen solltest. Ja. Uhm. Ich weiß nicht "
+"überhaupt nicht! Uhm... oh... uh... uh... Ich weiß was du machen sollst! Die"
+" Bombe! Die Bombe... ist was du machen solltest. Ja. Uhm. Ich weiß nicht "
 "wieso. Es ist einfach die erste Sache, an die ich denken muss. Ich denke, "
 "dass wenn ich es erklären müsste, würde ich meine Meinung ändern und ich "
 "will diese Unentschlossenheit im Moment nicht! Mach... mach es einfach "
 "schnell, okay? Ich hoffe, dass es nicht wehtut...\""
 
-#: src-en/data/events_sector_aea_old_3.xml:457
+#: src-en/data/events_sector_aea_old_3.xml:465
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_ANURAK\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:462
+#: src-en/data/events_sector_aea_old_3.xml:470
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_DEVORAK\"]/text"
 msgstr ""
@@ -533,29 +531,29 @@ msgstr ""
 "ziemlich passendes Ende für meine Geschichte zu sein. Ich habe meinen Zweck "
 "erfüllt - Ich werde euch nicht davon abhalten, den Zünder zu drücken.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:465
+#: src-en/data/events_sector_aea_old_3.xml:473
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_DEVORAK\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:470
+#: src-en/data/events_sector_aea_old_3.xml:478
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_TURZIL\"]/text"
 msgstr ""
 "\"Es ist keine [Tradition] für eine Engi Emotionen zu fühlen. Es scheint, "
-"dass meine -Logik- Rezeptoren blockiert sind, durch die Freude mit dir diese "
-"Reise gelebt zu haben. Das ist nicht die Mission, die ich bereit war zu "
+"dass meine -Logik- Rezeptoren blockiert sind, durch die Freude mit dir diese"
+" Reise gelebt zu haben. Das ist nicht die Mission, die ich bereit war zu "
 "vollbringen. Aber ich bereue es nicht. Ich muss dich [erinnern], dass meine "
 "Leute mich immernoch brauchen. Meine Abwesenheit würde -schlimme- "
 "Konsequenzen haben. Jedoch würde auch die Fortsetzung des Krieges diese "
 "haben. Ein Dillema. Sehr problematisch.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:473
+#: src-en/data/events_sector_aea_old_3.xml:481
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_TURZIL\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:478
+#: src-en/data/events_sector_aea_old_3.xml:486
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_MAYEB\"]/text"
 msgstr ""
@@ -563,16 +561,16 @@ msgstr ""
 "Schutz von Pflanzen, die sich nicht selbst verteidigen können. Diese "
 "Pflanzen, ganz zu schweigen von den meisten Lebewesen hier draußen, wissen "
 "nichts von Rebellen, Multiversen, Obelisken, interstellaren Kriegen... Ich "
-"will damit sagen, wenn wir unser Leben lassen müssen, damit all diese Leben, "
-"die nicht einmal diese Mächte verstehen können, ungestört weiterleben "
+"will damit sagen, wenn wir unser Leben lassen müssen, damit all diese Leben,"
+" die nicht einmal diese Mächte verstehen können, ungestört weiterleben "
 "können, dann bin ich voll hinter euch.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:481
+#: src-en/data/events_sector_aea_old_3.xml:489
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_MAYEB\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:486
+#: src-en/data/events_sector_aea_old_3.xml:494
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_IVAR\"]/text"
 msgstr ""
@@ -581,54 +579,48 @@ msgstr ""
 "kann es gefährlich sein, aber ich glaube nicht daran, uns aus Angst "
 "einzuschränken. Haha, aber hör nicht auch mich; Ich werde dir nicht sagen "
 "was du zu denken hast. Lass uns ein Glas trinken, bevor du deine "
-"Entscheidung triffst. Wenn du dich entscheidest, es zu beenden, gib mir eine "
-"Minute, um sicherzugehen, dass die Crew betrunken und glücklich ist, "
+"Entscheidung triffst. Wenn du dich entscheidest, es zu beenden, gib mir eine"
+" Minute, um sicherzugehen, dass die Crew betrunken und glücklich ist, "
 "verstanden?\""
 
-#: src-en/data/events_sector_aea_old_3.xml:489
+#: src-en/data/events_sector_aea_old_3.xml:497
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_IVAR\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:494
+#: src-en/data/events_sector_aea_old_3.xml:502
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_TYEREL\"]/text"
 msgstr ""
-"Ty E'Rel lehnt sich in seinem bequemen Sitz zurück, seine Wurzeln auf dem "
-"Ottoman. Der Schreibtisch ist aufgeräumt, alle Papiere liegen an ihrem "
-"Platz. Als sich eure Blicke treffen, weist er dir den Platz neben sich zu. "
-"Ihr zwei sitzt und entspannt euch nach einer langen, beschwerlichen Reise, "
-"ohne ein Wort zu sagen. Hier, in seiner Ruhe, wirkt er noch älter als sonst "
-"tut. Schließlich stehst du auf, um zu gehen, aber sobald du die Tür öffnest, "
-"fängt er endlich an zu reden.\n"
+"Ty E'Rel lehnt sich in seinem bequemen Sitz zurück, seine Wurzeln auf dem Ottoman. Der Schreibtisch ist aufgeräumt, alle Papiere liegen an ihrem Platz. Als sich eure Blicke treffen, weist er dir den Platz neben sich zu. Ihr zwei sitzt und entspannt euch nach einer langen, beschwerlichen Reise, ohne ein Wort zu sagen. Hier, in seiner Ruhe, wirkt er noch älter als sonst tut. Schließlich stehst du auf, um zu gehen, aber sobald du die Tür öffnest, fängt er endlich an zu reden.\n"
 "\n"
 "\"Du solltest es tun.\"\n"
 "\n"
 "Er sagt nichts weiteres."
 
-#: src-en/data/events_sector_aea_old_3.xml:501
+#: src-en/data/events_sector_aea_old_3.xml:509
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_TYEREL\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:506
+#: src-en/data/events_sector_aea_old_3.xml:514
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_ALKALI\"]/text"
 msgstr ""
 "\"Hahahah! Ich wusste es gibt nichts wie unsterbliche Demigott Aliens. Wir "
-"haben sicherlich die Angst vor Wissenschaft in diese Narzissten gepackt. Ich "
-"werde sehr enttäuscht sein, wenn ich meinen Sieg nicht in das Gesicht von "
+"haben sicherlich die Angst vor Wissenschaft in diese Narzissten gepackt. Ich"
+" werde sehr enttäuscht sein, wenn ich meinen Sieg nicht in das Gesicht von "
 "der Bitch Nerva reiben kann. Hah!... Erm. Entschuldigung. Du bist nett, "
 "Kind. Ich habe schlimmeres erwartet, als wir uns getroffen haben. Lass es "
-"dir nicht zu Kopf steigen- ,ich würde dich aber nicht verteufeln, wenn du es "
-"tun würdest.\""
+"dir nicht zu Kopf steigen- ,ich würde dich aber nicht verteufeln, wenn du es"
+" tun würdest.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:509
+#: src-en/data/events_sector_aea_old_3.xml:517
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_ALKALI\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:514
+#: src-en/data/events_sector_aea_old_3.xml:522
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_OOJ\"]/text"
 msgstr ""
@@ -637,12 +629,12 @@ msgstr ""
 "formt. Du gibst dem Blob eine große Umarmung, während er in deinen Armen "
 "wackelt."
 
-#: src-en/data/events_sector_aea_old_3.xml:517
+#: src-en/data/events_sector_aea_old_3.xml:525
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_OOJ\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:522
+#: src-en/data/events_sector_aea_old_3.xml:530
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_ELLIE\"]/text"
 msgstr ""
@@ -653,28 +645,28 @@ msgstr ""
 "Jage die Bombe nicht hoch Superfan, denke darüber nach, was du dem "
 "Multiversum nehmen würdest!\""
 
-#: src-en/data/events_sector_aea_old_3.xml:525
+#: src-en/data/events_sector_aea_old_3.xml:533
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_ELLIE\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:530
+#: src-en/data/events_sector_aea_old_3.xml:538
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_STEPHAN\"]/text"
 msgstr ""
 "\"Wir sind so weit gekommen! Vielleicht... vielleicht nach dem, bin ich "
 "wirklich ein Held. Etwas was dich Kinder als Vorbild sehen können... Selbst "
-"wenn sie nicht wissen, was wir getan haben. Ich weiß nicht... ich weiß nicht "
-"was als nächstes passiert und es ist mir egal. Du hast mir die Chance "
+"wenn sie nicht wissen, was wir getan haben. Ich weiß nicht... ich weiß nicht"
+" was als nächstes passiert und es ist mir egal. Du hast mir die Chance "
 "gegeben, für Erlösung und das ist alles was mir wichtig ist. Danke dir, "
 "Kapitän.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:533
+#: src-en/data/events_sector_aea_old_3.xml:541
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_STEPHAN\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:538
+#: src-en/data/events_sector_aea_old_3.xml:546
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_NIGHTS\"]/text"
 msgstr ""
@@ -688,12 +680,12 @@ msgstr ""
 "einem Freund haben wird. Hoffentlich meint er es nicht ernst, dass er dich "
 "umbringen wird."
 
-#: src-en/data/events_sector_aea_old_3.xml:541
+#: src-en/data/events_sector_aea_old_3.xml:549
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_NIGHTS\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:546
+#: src-en/data/events_sector_aea_old_3.xml:554
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_SLOCKNOG\"]/text"
 msgstr ""
@@ -703,12 +695,12 @@ msgstr ""
 "mich mal. Wenn du wissen willst, was ich denke, besser jag es hoch. Ich hab "
 "eh nirgends wo ich zurückkehren kann.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:549
+#: src-en/data/events_sector_aea_old_3.xml:557
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_SLOCKNOG\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:554
+#: src-en/data/events_sector_aea_old_3.xml:562
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_IRWIN\"]/text"
 msgstr ""
@@ -719,151 +711,151 @@ msgstr ""
 "ich keine gute Person werde. Das Multiversum ist eh dumm. Diese Bombe kann "
 "nur gutes tun.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:557
+#: src-en/data/events_sector_aea_old_3.xml:565
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_IRWIN\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:562
+#: src-en/data/events_sector_aea_old_3.xml:570
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_ALKRAM\"]/text"
 msgstr ""
-"Alkram grunzt und versucht so zu wirken, als ob diese Situation nichts neues "
-"wäre. \"Als wir uns das erste Mal getroffen haben, war für mich das "
+"Alkram grunzt und versucht so zu wirken, als ob diese Situation nichts neues"
+" wäre. \"Als wir uns das erste Mal getroffen haben, war für mich das "
 "Wichtigste Trydeo zu stürzen. Jetzt scheint das alles egal... ich bin ein "
 "Soldat, kein Sprecher. Lass meine Worte stumpf sein. Der einzige Weg wie "
 "irgend welche Leute lernen können, ist wenn sie sich nicht auf andere "
 "verlassen können, um ihre Probleme zu reparieren. Dieser Multiversum-Krieg "
 "hilft niemanden, Föderation, Rebellion, Coalition oder Gott weiß wer "
-"versucht wieder alles zu \"reparieren\". Ich bitte dich jage die Bombe hoch, "
-"für uns alle.\""
+"versucht wieder alles zu \"reparieren\". Ich bitte dich jage die Bombe hoch,"
+" für uns alle.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:565
+#: src-en/data/events_sector_aea_old_3.xml:573
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_ALKRAM\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:570
+#: src-en/data/events_sector_aea_old_3.xml:578
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_TYRDEO\"]/text"
 msgstr ""
 "\"Gute güte, ich fühle mich schwach. Ist es wahr? Sind wir am Leben? "
-"Erstaunlich. Du bist die erste Person, die ich nicht bezahle, die mit mir im "
-"Angesicht von solch einer Situation steht. Ich kann dir nicht genug danken, "
-"für all das was du für mich getan hast. Es scheint fehl am Platz zu sein, "
+"Erstaunlich. Du bist die erste Person, die ich nicht bezahle, die mit mir im"
+" Angesicht von solch einer Situation steht. Ich kann dir nicht genug danken,"
+" für all das was du für mich getan hast. Es scheint fehl am Platz zu sein, "
 "aber ich würde... gerne weiterleben. Und ich bin sicher du auch. Heh... Was "
-"glaubst du passiert wenn wir durch das Ding sterben? Sind wir für immer weg? "
-"Oh, ich möchte darüber nicht nachdenken.\""
+"glaubst du passiert wenn wir durch das Ding sterben? Sind wir für immer weg?"
+" Oh, ich möchte darüber nicht nachdenken.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:573
+#: src-en/data/events_sector_aea_old_3.xml:581
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_TYRDEO\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:578
+#: src-en/data/events_sector_aea_old_3.xml:586
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_FREDDY\"]/text"
 msgstr ""
-"\"Gute Arbeit Kollege, das ist wahrlich ein spektakulärer Moment und es gibt "
-"nichts besseres zu tun als am Ende der Zeit Tee zu trinken. Du erwägst die "
+"\"Gute Arbeit Kollege, das ist wahrlich ein spektakulärer Moment und es gibt"
+" nichts besseres zu tun als am Ende der Zeit Tee zu trinken. Du erwägst die "
 "Bombe hochzujagen, ja? Mach dir keine Sorgen um mich, die Free Mantis haben "
 "seit Jahren nicht meine Unterstützung gebraucht. Sie werden ängstlich sein, "
 "aber sie werden es schon schaffen. Kein Multiversum mehr bedeutet keine "
 "Rebellen mehr. Meine Tage waren eh gezählt. Als Mantis kannst du nur eine "
 "gewisse Zeit leben.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:581
+#: src-en/data/events_sector_aea_old_3.xml:589
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_FREDDY\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:586
+#: src-en/data/events_sector_aea_old_3.xml:594
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_KAZ\"]/text"
 msgstr ""
 "Kazaaak scheint unsicher, was er sagen soll. \"Erstes Mal ich nicht weiß, "
 "was ich sagen soll. Du großer Krieger, größer als ich jemals war. Aber wenn "
-"wir nicht Paragon sprengen, ich kann nach Hause und viel mehr erreichen! Wir "
-"größte Helden aller Zeiten! Wie kannst du die Chance entgehen lassen?\""
+"wir nicht Paragon sprengen, ich kann nach Hause und viel mehr erreichen! Wir"
+" größte Helden aller Zeiten! Wie kannst du die Chance entgehen lassen?\""
 
-#: src-en/data/events_sector_aea_old_3.xml:589
+#: src-en/data/events_sector_aea_old_3.xml:597
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_KAZ\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:594
+#: src-en/data/events_sector_aea_old_3.xml:602
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_ARIADNE\"]/text"
 msgstr ""
 "Selbst im Angesicht dieses Triumphes bleibt Ariadne stoisch, bis auf ein "
 "kleines Grinsen im Gesicht. \"Wenn ich dir meine Dienste angeboten habe "
-"Kapitän, hätte ich nie gedacht, dass du mich durch das Multiversum ziehst um "
-"die Rebellion in der Grube von Demigöttern zu zerstören. Aber - es war eine "
-"Ehre. Jedoch ist meine eigentliche Mission nicht zu Ende. Die Theocracy "
-"wurde noch nicht besiegt. Ich habe Angst, dass die Bombe nur wenig tun wird, "
-"um die Ältesten zu stoppen. Ich verstehe es ist nicht meine Entscheidung, "
+"Kapitän, hätte ich nie gedacht, dass du mich durch das Multiversum ziehst um"
+" die Rebellion in der Grube von Demigöttern zu zerstören. Aber - es war eine"
+" Ehre. Jedoch ist meine eigentliche Mission nicht zu Ende. Die Theocracy "
+"wurde noch nicht besiegt. Ich habe Angst, dass die Bombe nur wenig tun wird,"
+" um die Ältesten zu stoppen. Ich verstehe es ist nicht meine Entscheidung, "
 "aber ich hoffe du ziehst das in Betracht.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:597
+#: src-en/data/events_sector_aea_old_3.xml:605
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_ARIADNE\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:602
+#: src-en/data/events_sector_aea_old_3.xml:610
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_RUWEN\"]/text"
 msgstr ""
 "\"Ich fühle mich, als hätte ich eine viel größere Aufgabe erfüllt, als "
 "anfänglich gedacht. Du bist der tolleste, erfolgreichste Kapitän, welchen "
 "ich jemals treffen durfte. Du erinnerst mich an jemand, den lange vorher "
-"getroffen habe, einen anderen Föderationskapitän... Selbst der Kapitän kommt "
-"nicht an das hier heran! Aber ist die Zerstörung des Multiversums es wert? "
+"getroffen habe, einen anderen Föderationskapitän... Selbst der Kapitän kommt"
+" nicht an das hier heran! Aber ist die Zerstörung des Multiversums es wert? "
 "Denk an die Wunder die diese Technologie vollbringen kann. Es ist das "
 "gleiche wie für meine Leute - es wird am Anfang Chaos geben, aber ich bin "
 "mir sicher es wird sich alles ergeben. Kein Krieg kann wirklich für immer "
 "sein!\""
 
-#: src-en/data/events_sector_aea_old_3.xml:605
+#: src-en/data/events_sector_aea_old_3.xml:613
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_RUWEN\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:610
+#: src-en/data/events_sector_aea_old_3.xml:618
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_DIANESH\"]/text"
 msgstr ""
 "\"Wenn man bedenkt, dass ich diesem Schiff nur beigetreten bin um euch zu "
 "verurteilen. Es muss wohl nicht gesagt werden, aber du hast jeden Test "
-"bestanden. Ich wünschte ich könnte nochmal durch das Multiversum springen um "
-"es zu retten. Diese Multiversums-Technologie ist der Untergang einiger "
-"Zivilisationen aber auch Geburtsort der Retter von noch mehr Zivilisationen. "
-"Wenn du mich jeden anderen Tag gefragt hättest, ob du die Bombe zünden "
+"bestanden. Ich wünschte ich könnte nochmal durch das Multiversum springen um"
+" es zu retten. Diese Multiversums-Technologie ist der Untergang einiger "
+"Zivilisationen aber auch Geburtsort der Retter von noch mehr Zivilisationen."
+" Wenn du mich jeden anderen Tag gefragt hättest, ob du die Bombe zünden "
 "sollst hätte ich ja gesagt, aber heute kann ich nicht anders als mich zu "
 "wundern, was passiert wenn du es nicht tust...\""
 
-#: src-en/data/events_sector_aea_old_3.xml:613
+#: src-en/data/events_sector_aea_old_3.xml:621
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_DIANESH\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:618
+#: src-en/data/events_sector_aea_old_3.xml:626
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_TUCO\"]/text"
 msgstr ""
 "\"Diese ganze Reise hab ich mich betrunkener gefühlt, als jemals im Sky-"
 "Drifter. Es war ein wahnsinnig toller Ausflug. Immerhin kann ich zu diesem "
-"Sieg trinken!\" Tuco holt eine überraschend intakte Flasche mit Alkohol raus "
-"und ext sie in Sekunden. \"Meine ruhmreichen Tage sind lange vorbei. Das "
+"Sieg trinken!\" Tuco holt eine überraschend intakte Flasche mit Alkohol raus"
+" und ext sie in Sekunden. \"Meine ruhmreichen Tage sind lange vorbei. Das "
 "Multiversum braucht mich nicht und um ehrlich zu sein, niemand braucht das "
 "Multiversum. Falls wir das hier überleben, würde es mich freuen mit dir in "
 "der Zukunft einen Drink zu teilen, Freund.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:621
+#: src-en/data/events_sector_aea_old_3.xml:629
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_TUCO\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:626
+#: src-en/data/events_sector_aea_old_3.xml:634
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_EATER\"]/text"
 msgstr ""
@@ -875,28 +867,28 @@ msgstr ""
 "welche länger als das Obelisk Empire existierte, ist es nicht ungewöhnlich "
 "dass ihm sein eigenes Schicksal egal ist."
 
-#: src-en/data/events_sector_aea_old_3.xml:629
+#: src-en/data/events_sector_aea_old_3.xml:637
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_EATER\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:634
+#: src-en/data/events_sector_aea_old_3.xml:642
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_ANOINTED\"]/text"
 msgstr ""
 "\"Aus antiken Ruinen habe ich von dem Paragon gehört. Aber ich hätte es mir "
-"nie erträumt es zu finden! Wenn ich Anointed bin, dann bist du göttlich!"
-"\" Der Anointed beugt sich vor dir runter. \"Seit Jahrhunderten sehen meine "
+"nie erträumt es zu finden! Wenn ich Anointed bin, dann bist du göttlich!\" "
+"Der Anointed beugt sich vor dir runter. \"Seit Jahrhunderten sehen meine "
 "Leute die Obelisken als Götter an, jetzt weiß ich, dass sie in Wahrheit "
 "Monster sind. Ich könnte mir kein besseres Ende für das Empire vorstellen, "
 "als die Zerstörung des Multiversums.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:637
+#: src-en/data/events_sector_aea_old_3.xml:645
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_ANOINTED\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:642
+#: src-en/data/events_sector_aea_old_3.xml:650
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_DESSIUS\"]/text"
 msgstr ""
@@ -905,42 +897,42 @@ msgstr ""
 "dieser kurzen Zeit das geschafft, was die 16 Reaper niemals konnten. Was "
 "bist du? Ich wage es nicht dich mit solchen Fragen zu beleidigen. Aber wenn "
 "du meine bescheidene Meinung anhören willst, wäre ich geehrt. Dieses "
-"Paragon, eine faule Erfindung, ist ein Werkzeug der Obelisks. Eine Antithese "
-"zu ihrer Power, jedoch selbstgemacht. Findest du es nicht grausam, nach all "
-"der Zeit, das Universum mit ihrer Erfindung zu zerstören? Die Obelisks "
+"Paragon, eine faule Erfindung, ist ein Werkzeug der Obelisks. Eine Antithese"
+" zu ihrer Power, jedoch selbstgemacht. Findest du es nicht grausam, nach all"
+" der Zeit, das Universum mit ihrer Erfindung zu zerstören? Die Obelisks "
 "werden sterben, aber das Multiversum ist Teil unserer Existenz. Wäre es "
 "nicht traurig die Realität solch einer Schönheit zu entziehen und den "
 "grausamen Göttern wieder ihren Willen zu geben? Ich werde dich nicht "
 "aufhalten, aber behalte meine Worte im Hinterkopf.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:645
+#: src-en/data/events_sector_aea_old_3.xml:653
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_DESSIUS\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:650
+#: src-en/data/events_sector_aea_old_3.xml:658
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_VORTIGON\"]/text"
 msgstr ""
-"Du findest Vortigon nicht miot dem Rest deiner Crew, er hat sich als Ball in "
-"einer Ecke deines Schiffes zusammen gerollt. \"Oh du, allmächtiger Töter der "
-"Höllenfeuer Würfeldämonen, Retter des Multiversums und großartiger Lord des "
-"Lebens, alles was ich jemals wusste war eine Lüge. Ich hab die Ember Geister "
-"mit meinen eigenen Augen GESEHEN und getötet. Wie kann ein Gott bluten? "
-"Göttlichkeit ist eine Lüge. Ich kann damit nicht leben. Ich habe so viele "
-"Frauen und Männer fehlgeleitet und die Massen belogen. Ja, ich habe sie auch "
-"geglaubt, aber es war alles Teil meiner Hybris. Ich habe eine letzte Bitte "
-"an dich. Mir ist egal was du mit dem Paragon machst, es ist nicht meine "
-"Sorge. Wenn wir diesen Tag überleben, sieh zu dass ich niemals nach Hause "
-"zurück kehre. Schicke mich ins Exil, bevor du mich in die Augen meiner Opfer "
-"schauen lässt.\""
+"Du findest Vortigon nicht miot dem Rest deiner Crew, er hat sich als Ball in"
+" einer Ecke deines Schiffes zusammen gerollt. \"Oh du, allmächtiger Töter "
+"der Höllenfeuer Würfeldämonen, Retter des Multiversums und großartiger Lord "
+"des Lebens, alles was ich jemals wusste war eine Lüge. Ich hab die Ember "
+"Geister mit meinen eigenen Augen GESEHEN und getötet. Wie kann ein Gott "
+"bluten? Göttlichkeit ist eine Lüge. Ich kann damit nicht leben. Ich habe so "
+"viele Frauen und Männer fehlgeleitet und die Massen belogen. Ja, ich habe "
+"sie auch geglaubt, aber es war alles Teil meiner Hybris. Ich habe eine "
+"letzte Bitte an dich. Mir ist egal was du mit dem Paragon machst, es ist "
+"nicht meine Sorge. Wenn wir diesen Tag überleben, sieh zu dass ich niemals "
+"nach Hause zurück kehre. Schicke mich ins Exil, bevor du mich in die Augen "
+"meiner Opfer schauen lässt.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:653
+#: src-en/data/events_sector_aea_old_3.xml:661
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_VORTIGON\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:658
+#: src-en/data/events_sector_aea_old_3.xml:666
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_BILLY\"]/text"
 msgstr ""
@@ -953,17 +945,17 @@ msgstr ""
 "Hause gehen. Ich muss so viele Sachen reparieren und wenn meine Reise hier "
 "endet, werde ich nie die Chance dazu haben.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:661
+#: src-en/data/events_sector_aea_old_3.xml:669
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_BILLY\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:666
+#: src-en/data/events_sector_aea_old_3.xml:674
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_SYLVAN\"]/text"
 msgstr ""
-"Sylvan legt einen Tentakel auf deine Schulter. \"Fremder... in diesen vielen "
-"Jahren habe ich Wild im Multiversum gelebt. Ich habe allesssss gesehen, "
+"Sylvan legt einen Tentakel auf deine Schulter. \"Fremder... in diesen vielen"
+" Jahren habe ich Wild im Multiversum gelebt. Ich habe allesssss gesehen, "
 "wassss es zu sehen gibt. Oder zumindest, bis ich dich gefunden habe. Ab dem "
 "Moment wo ich dich das erste Mal sah, wusste ich du bist etwas. So viele "
 "Abenteuer, eh? Fühlt sich an wie Jahre, obwohl es nur ein paar Stunden "
@@ -972,12 +964,12 @@ msgstr ""
 "passiert, wir werden uns wieder sehen.\" Sylvan zwinkert dir zu und "
 "schlängelt sich weg."
 
-#: src-en/data/events_sector_aea_old_3.xml:668
+#: src-en/data/events_sector_aea_old_3.xml:676
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_SYLVAN\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:673
+#: src-en/data/events_sector_aea_old_3.xml:681
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_QUEEN\"]/text"
 msgstr ""
@@ -985,12 +977,12 @@ msgstr ""
 "dich. Du bist nicht sicher, ob sie genau weiß was passiert, aber es scheint "
 "ein Geste zu sein, welche von Herzen stammt."
 
-#: src-en/data/events_sector_aea_old_3.xml:676
+#: src-en/data/events_sector_aea_old_3.xml:684
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_QUEEN\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:681
+#: src-en/data/events_sector_aea_old_3.xml:689
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_OBYN\"]/text"
 msgstr ""
@@ -998,16 +990,16 @@ msgstr ""
 "Tag an dem wir uns getroffen haben, als du mir versprochen hast, ich würde "
 "ein Held der Föderation werden, hätte ich das hier nicht erwarte und du "
 "wahrscheinlich auch nicht! Meine Legende wurde erzählt, aber ihr fehlt ein "
-"Ende. Ich habe die Wahrheit angenommen. Meine Leute sind tot. Vielleicht ist "
-"es Zeit, dass ich ihnen folge, falls es das Jenseits gibt. Wenn du die Bombe "
-"aktivierst, wäre es für mich okay.\""
+"Ende. Ich habe die Wahrheit angenommen. Meine Leute sind tot. Vielleicht ist"
+" es Zeit, dass ich ihnen folge, falls es das Jenseits gibt. Wenn du die "
+"Bombe aktivierst, wäre es für mich okay.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:684
+#: src-en/data/events_sector_aea_old_3.xml:692
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_OBYN\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:689
+#: src-en/data/events_sector_aea_old_3.xml:697
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_SYMBIOTE\"]/text"
 msgstr ""
@@ -1020,12 +1012,12 @@ msgstr ""
 "Schanden, wenn diese Erleuchtung umsonst ist. Bist du sicher, dass das "
 "Paragaon alles lösen würde?\""
 
-#: src-en/data/events_sector_aea_old_3.xml:692
+#: src-en/data/events_sector_aea_old_3.xml:700
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_SYMBIOTE\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:697
+#: src-en/data/events_sector_aea_old_3.xml:705
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_TONY\"]/text"
 msgstr ""
@@ -1037,45 +1029,45 @@ msgstr ""
 "in diesem Universum. Sie sollten keinen Zugang zu dieser Technologie haben. "
 "Niemand sollte es.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:700
+#: src-en/data/events_sector_aea_old_3.xml:708
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_TONY\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:705
+#: src-en/data/events_sector_aea_old_3.xml:713
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_GUNTPUT\"]/text"
 msgstr ""
 "\"Auf dieser Reise habe ich beide Seiten von Technologie gesehen. Gut und "
 "schlecht. Du bist erkennbar gut. Du kämpfst für Recht, selbst wenn deine "
 "Aktionen manchmal kontroverse sind. Obelisks, sind die purrste Form der "
-"schlechten Technologie. Das Paragaon ist grau, also weder gut noch schlecht. "
-"Die böseste Waffe, aber auch gleichzeitig die Waffe, die alle bösen Waffen "
+"schlechten Technologie. Das Paragaon ist grau, also weder gut noch schlecht."
+" Die böseste Waffe, aber auch gleichzeitig die Waffe, die alle bösen Waffen "
 "ausschalten kann! Ich bin froh, dass ich nicht in deinen Schuhen stecken, "
 "die Entscheidung wäre zu viel für mich. Ich bin froh, dass ich dir eine "
 "zweite Chance gegeben habe.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:708
+#: src-en/data/events_sector_aea_old_3.xml:716
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_GUNTPUT\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:713
+#: src-en/data/events_sector_aea_old_3.xml:721
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_METYUNT\"]/text"
 msgstr ""
 "\"Ich habe nichts zu sagen... außer danke. Danke, dass du mir eine zweite "
-"Chance gegeben hast. Bevor wir uns getroffen haben, war ich nur ein Verräter "
-"und habe meine Leute gehasst, sie nur ausgenutzt. Auch wenn ich nicht die "
+"Chance gegeben hast. Bevor wir uns getroffen haben, war ich nur ein Verräter"
+" und habe meine Leute gehasst, sie nur ausgenutzt. Auch wenn ich nicht die "
 "Chance habe es wieder gut zu machen, kann ich wenigstens durch diese Reise "
 "mich von meinen Sünden befreien.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:716
+#: src-en/data/events_sector_aea_old_3.xml:724
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_METYUNT\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:721
+#: src-en/data/events_sector_aea_old_3.xml:729
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_WITHER\"]/text"
 msgstr ""
@@ -1084,160 +1076,170 @@ msgstr ""
 "Paragon muss gesprengt werden, um die Obelisks für immer zu besiegen. Ich "
 "verstehe du hast viel geopfert, um hier her zu kommen und glaub mir, ich "
 "will es auch nicht. Aber unsere Leben sind nur ein Tropfen auf dem heißen "
-"Stein, voller Leben die von Obelisks, Rebellen und selbst der Föderation mit "
-"Multiversums-Technologie zerstört wurden.\""
+"Stein, voller Leben die von Obelisks, Rebellen und selbst der Föderation mit"
+" Multiversums-Technologie zerstört wurden.\""
 
-#: src-en/data/events_sector_aea_old_3.xml:723
+#: src-en/data/events_sector_aea_old_3.xml:731
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_WITHER\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:728
+#: src-en/data/events_sector_aea_old_3.xml:736
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_CHILD\"]/text"
 msgstr "..."
 
-#: src-en/data/events_sector_aea_old_3.xml:730
+#: src-en/data/events_sector_aea_old_3.xml:738
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_CHILD\"]/choice/text"
 msgstr "..."
 
-#: src-en/data/events_sector_aea_old_3.xml:732
+#: src-en/data/events_sector_aea_old_3.xml:740
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_CHILD\"]/choice/event/text"
 msgstr "Die Kinder sind sehr still."
 
-#: src-en/data/events_sector_aea_old_3.xml:735
+#: src-en/data/events_sector_aea_old_3.xml:743
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_CHILD\"]/choice/event/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:742
+#: src-en/data/events_sector_aea_old_3.xml:750
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_BILL\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:745
+#: src-en/data/events_sector_aea_old_3.xml:753
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_BILL\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:750
+#: src-en/data/events_sector_aea_old_3.xml:758
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_KING\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:753
+#: src-en/data/events_sector_aea_old_3.xml:761
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_KING\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:758
+#: src-en/data/events_sector_aea_old_3.xml:766
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_TINY\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:761
+#: src-en/data/events_sector_aea_old_3.xml:769
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_TINY\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:766
+#: src-en/data/events_sector_aea_old_3.xml:774
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_JAY\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:769
+#: src-en/data/events_sector_aea_old_3.xml:777
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_JAY\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:774
+#: src-en/data/events_sector_aea_old_3.xml:782
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_SICKLE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:777
+#: src-en/data/events_sector_aea_old_3.xml:785
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_SICKLE\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:782
+#: src-en/data/events_sector_aea_old_3.xml:790
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_SORROW\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:785
+#: src-en/data/events_sector_aea_old_3.xml:793
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_SORROW\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:791
+#: src-en/data/events_sector_aea_old_3.xml:798
 msgid ""
-"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_1\"]/text"
+"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_ONYX\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:794
+#: src-en/data/events_sector_aea_old_3.xml:801
 msgid ""
-"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_1\"]/choice/text"
-msgstr "Fortfahren..."
-
-#: src-en/data/events_sector_aea_old_3.xml:799
-msgid ""
-"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_2\"]/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_old_3.xml:802
-msgid ""
-"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_2\"]/choice/text"
+"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_ONYX\"]/choice/text"
 msgstr "Fortfahren..."
 
 #: src-en/data/events_sector_aea_old_3.xml:807
 msgid ""
-"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_3\"]/text"
+"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_1\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_old_3.xml:810
 msgid ""
-"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_3\"]/choice/text"
+"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_1\"]/choice/text"
 msgstr "Fortfahren..."
 
 #: src-en/data/events_sector_aea_old_3.xml:815
 msgid ""
-"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_4\"]/text"
+"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_2\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_old_3.xml:818
 msgid ""
-"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_4\"]/choice/text"
+"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_2\"]/choice/text"
 msgstr "Fortfahren..."
 
 #: src-en/data/events_sector_aea_old_3.xml:823
 msgid ""
-"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_5\"]/text"
+"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_3\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_old_3.xml:826
 msgid ""
+"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_3\"]/choice/text"
+msgstr "Fortfahren..."
+
+#: src-en/data/events_sector_aea_old_3.xml:831
+msgid ""
+"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_4\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_3.xml:834
+msgid ""
+"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_4\"]/choice/text"
+msgstr "Fortfahren..."
+
+#: src-en/data/events_sector_aea_old_3.xml:839
+msgid ""
+"data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_5\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_3.xml:842
+msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW_AEA_OLD_UNIQUE_5\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:833
+#: src-en/data/events_sector_aea_old_3.xml:849
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_ENDING_START\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:836
+#: src-en/data/events_sector_aea_old_3.xml:852
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_ENDING_START\"]/choice/text"
 msgstr "Fortfahren..."
 
-#: src-en/data/events_sector_aea_old_3.xml:845
+#: src-en/data/events_sector_aea_old_3.xml:861
 msgid ""
 "data/events_sector_aea_old_3.xml$//ship[@name=\"AEA_OLD_ENDBOSS\"]/finalBoss/@text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_old_3.xml:848
+#: src-en/data/events_sector_aea_old_3.xml:864
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_ENDBOSS_WIN\"]/win/@text"
 msgstr ""

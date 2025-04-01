@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-01 15:44+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_aea_cultxml/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_aea_cult.xml:14
 msgid ""
@@ -29,8 +22,8 @@ msgstr ""
 "La Congrégation proteste depuis longtemps contre l'adhésion de la "
 "Confédération à la Fédération, mais le Premier ministre Ivar continue de "
 "faire pression en faveur de l'unification. Les Confédérés étant désormais "
-"divisés entre la Fédération et la Coalition, vous risquez d'être confronté à "
-"un mélange inhabituel d'alliés et d'ennemis."
+"divisés entre la Fédération et la Coalition, vous risquez d'être confronté à"
+" un mélange inhabituel d'alliés et d'ennemis."
 
 #: src-en/data/events_special_aea_cult.xml:16
 msgid ""
@@ -72,9 +65,9 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_CRIMINAL\"]/choice/event/text"
 msgstr ""
-"Il semble que votre passé vous ait rattrapé. L'équipage du vaisseau de garde "
-"a entendu parler de vos crimes et n'a pas l'intention de vous laisser entrer "
-"dans le secteur !."
+"Il semble que votre passé vous ait rattrapé. L'équipage du vaisseau de garde"
+" a entendu parler de vos crimes et n'a pas l'intention de vous laisser "
+"entrer dans le secteur !."
 
 #: src-en/data/events_special_aea_cult.xml:47
 msgid ""
@@ -88,14 +81,15 @@ msgstr ""
 "c'était la centième fois aujourd'hui qu'il devait les prononcer : \" "
 "Bienvenue à la Confédération. Au nom du premier ministre Ivar, nous "
 "accueillons tous les visiteurs qui viennent en paix. Cependant, afin "
-"d'assurer la stabilité et l'ordre de nos secteurs, nous demandons à tous les "
-"vaisseaux militaires tels que vous de se soumettre à une taxe mineure avant "
-"d'entrer.\""
+"d'assurer la stabilité et l'ordre de nos secteurs, nous demandons à tous les"
+" vaisseaux militaires tels que vous de se soumettre à une taxe mineure avant"
+" d'entrer.\""
 
 #: src-en/data/events_special_aea_cult.xml:57
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[1]/text"
-msgstr "Nous refusons de payer les frais, frayez-vous un chemin par la force !."
+msgstr ""
+"Nous refusons de payer les frais, frayez-vous un chemin par la force !."
 
 #: src-en/data/events_special_aea_cult.xml:59
 msgid ""
@@ -116,8 +110,8 @@ msgstr "Payer les frais."
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[2]/event/text"
 msgstr ""
-"Le Vampiflore acquiesce et passe la ferraille au peigne fin : "
-"\"Très bien. La sécurité vous laissera passer dans un instant.\""
+"Le Vampiflore acquiesce et passe la ferraille au peigne fin : \"Très bien. "
+"La sécurité vous laissera passer dans un instant.\""
 
 #: src-en/data/events_special_aea_cult.xml:77
 msgid ""
@@ -134,8 +128,8 @@ msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_ivar\"]/event/text"
 msgstr ""
 "Le garde a l'air honteux : \" Euh... Premier, je m'excuse ! Nous ne savions "
-"pas que vous veniez. Vous êtes... euh, assez imprévisible parfois. Les frais "
-"seront annulés, bien sûr.\" Le garde cligne des yeux : \"S'il vous plaît, "
+"pas que vous veniez. Vous êtes... euh, assez imprévisible parfois. Les frais"
+" seront annulés, bien sûr.\" Le garde cligne des yeux : \"S'il vous plaît, "
 "n'en parlez pas à mes supérieurs.\""
 
 #: src-en/data/events_special_aea_cult.xml:87
@@ -346,8 +340,8 @@ msgstr "(Pilotage de pointe) Activer l'auto-pilote et essayer de s'enfuir."
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/text"
 msgstr ""
-"\"Pourquoi devrais-je faire un geste ? Vous êtes un Renégats, n'est-ce pas ? "
-"Si vous ne le savez pas, la Confédération n'est pas soumise aux lois de la "
+"\"Pourquoi devrais-je faire un geste ? Vous êtes un Renégats, n'est-ce pas ?"
+" Si vous ne le savez pas, la Confédération n'est pas soumise aux lois de la "
 "Fédération et franchement, avoir des gens comme vous ici est un handicap. "
 "Nous devrions vous faire payer plus, pas moins.\""
 
@@ -375,27 +369,27 @@ msgstr "Payer les frais."
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/choice[2]/event/text"
 msgstr ""
-"Le Vampiflore acquiesce et passe la ferraille au peigne fin : "
-"\"Très bien. La sécurité vous laissera passer dans un instant.\""
+"Le Vampiflore acquiesce et passe la ferraille au peigne fin : \"Très bien. "
+"La sécurité vous laissera passer dans un instant.\""
 
 #: src-en/data/events_special_aea_cult.xml:264
 msgid ""
 "data/events_special_aea_cult.xml$//eventList[@name=\"GUARD_AEA_CULT_WAVER\"]/event[3]/text"
 msgstr ""
-"Le Vampiflore gratte les longs pétales de son visage avec ses lianes. \"Comme"
-" vous le savez sans doute, la Confédération n'est pas redevable des lois ou "
-"de la juridiction de la Fédération. Cela dit, je comprends que votre cause "
-"représente les meilleurs intérêts de tous ici. La Fédération n'est peut-être "
-"pas notre amie, mais la Rébellion est plus certainement notre ennemie. Je "
-"vous accorderai cette faveur, mais ne vous attendez pas à ce que tout le "
-"monde soit aussi généreux.\""
+"Le Vampiflore gratte les longs pétales de son visage avec ses lianes. "
+"\"Comme vous le savez sans doute, la Confédération n'est pas redevable des "
+"lois ou de la juridiction de la Fédération. Cela dit, je comprends que votre"
+" cause représente les meilleurs intérêts de tous ici. La Fédération n'est "
+"peut-être pas notre amie, mais la Rébellion est plus certainement notre "
+"ennemie. Je vous accorderai cette faveur, mais ne vous attendez pas à ce que"
+" tout le monde soit aussi généreux.\""
 
 #: src-en/data/events_special_aea_cult.xml:275
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_DESTROY\"]/text"
 msgstr ""
-"Vous avez vaincu le garde de la Fédération. Tout ce qui aurait pu se trouver "
-"dans leur soute est certainement détruit, mais au moins vous pouvez "
+"Vous avez vaincu le garde de la Fédération. Tout ce qui aurait pu se trouver"
+" dans leur soute est certainement détruit, mais au moins vous pouvez "
 "récupérer des ressources de leur vaisseau."
 
 #: src-en/data/events_special_aea_cult.xml:278
@@ -579,8 +573,8 @@ msgstr ""
 "Votre équipage parle au capitaine du transporteur, expliquant l'importance "
 "de votre mission. Le capitaine du transporteur semble comprendre, mais "
 "mentionne également que la cargaison qu'ils transportent est vitale pour "
-"cette même mission. Si vous pouvez les dédommager, ils sont disposés à faire "
-"une exception."
+"cette même mission. Si vous pouvez les dédommager, ils sont disposés à faire"
+" une exception."
 
 #: src-en/data/events_special_aea_cult.xml:456
 msgid ""
@@ -654,7 +648,7 @@ msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[3]/event/choice[2]/text"
 msgstr "Ne rien faire."
 
-#: src-en/data/events_special_aea_cult.xml:515
+#: src-en/data/events_special_aea_cult.xml:516
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_CULT\"]/text"
 msgstr ""
@@ -662,7 +656,7 @@ msgstr ""
 "vous appartient désormais. Vous y trouvez à bord la technologie à laquelle "
 "vous vous attendiez et vous la ramenez à votre vaisseau."
 
-#: src-en/data/events_special_aea_cult.xml:534
+#: src-en/data/events_special_aea_cult.xml:536
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[1]"
 msgstr ""
@@ -670,7 +664,7 @@ msgstr ""
 "moins, je meurs en fier industriel et démocrate, et non comme un boucher au "
 "service d'une bureaucratie corrompue ! GLOIRE À LA CONFÉDÉRATION !\""
 
-#: src-en/data/events_special_aea_cult.xml:535
+#: src-en/data/events_special_aea_cult.xml:537
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[2]"
 msgstr ""
@@ -678,21 +672,21 @@ msgstr ""
 "probablement coûteuse, est projetée loin dans les abysses, hors de portée, "
 "mais vous pouvez au moins récupérer les débris."
 
-#: src-en/data/events_special_aea_cult.xml:536
+#: src-en/data/events_special_aea_cult.xml:538
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[3]"
 msgstr ""
-"\"Noooo ! Je n'ai jamais... eu de pollen sur mon pistil... Va te faire voir, "
-"Renégat !\""
+"\"Noooo ! Je n'ai jamais... eu de pollen sur mon pistil... Va te faire voir,"
+" Renégat !\""
 
-#: src-en/data/events_special_aea_cult.xml:537
+#: src-en/data/events_special_aea_cult.xml:539
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[4]"
 msgstr ""
 "Avec la mort de ce vaisseau, les effectifs de la puissante économie "
 "confédérée sont désormais réduits de quelques travailleurs."
 
-#: src-en/data/events_special_aea_cult.xml:545
+#: src-en/data/events_special_aea_cult.xml:548
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_CULT\"]/text[1]"
 msgstr ""
@@ -701,7 +695,7 @@ msgstr ""
 "peut-être quelque chose de poétique là-dedans, mais vous êtes ici pour la "
 "ferraille, pas pour des réflexions profondes."
 
-#: src-en/data/events_special_aea_cult.xml:546
+#: src-en/data/events_special_aea_cult.xml:549
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_CULT\"]/text[2]"
 msgstr ""
@@ -709,7 +703,7 @@ msgstr ""
 "mais quand votre dernier souffle arrive, c'est un moment plutôt spirituel. "
 "Dieu... J'espère qu'il n'y a pas d'enfer...\""
 
-#: src-en/data/events_special_aea_cult.xml:547
+#: src-en/data/events_special_aea_cult.xml:550
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_CULT\"]/text[3]"
 msgstr ""
@@ -719,12 +713,12 @@ msgstr ""
 "nationalistes, mais devant un tribunal, vous n’êtes pas certain que cela "
 "suffise à constituer une défense en soi."
 
-#: src-en/data/events_special_aea_cult.xml:553
+#: src-en/data/events_special_aea_cult.xml:556
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"SURRENDER_AEA_CULT\"]/choice[1]/text"
 msgstr "Accepter leur reddition."
 
-#: src-en/data/events_special_aea_cult.xml:562
+#: src-en/data/events_special_aea_cult.xml:565
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[1]"
 msgstr ""
@@ -733,7 +727,7 @@ msgstr ""
 "donnerai tout ce que j'ai ET je te promets de me faire aider, d'accord ? "
 "D'accord ?\""
 
-#: src-en/data/events_special_aea_cult.xml:563
+#: src-en/data/events_special_aea_cult.xml:566
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[2]"
 msgstr ""
@@ -742,7 +736,7 @@ msgstr ""
 "paix comme elle le prétend... alors j'espère que vous trouverez en vous la "
 "clémence de m’épargner... malgré mes erreurs d’aujourd’hui.\""
 
-#: src-en/data/events_special_aea_cult.xml:564
+#: src-en/data/events_special_aea_cult.xml:567
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[3]"
 msgstr ""
@@ -750,7 +744,7 @@ msgstr ""
 "travail industrielle ! Si je ne suis pas là pour visser le bouchon sur "
 "chaque bouteille d'engrais Kardoche, alors qui d'autre le fera ?\""
 
-#: src-en/data/events_special_aea_cult.xml:565
+#: src-en/data/events_special_aea_cult.xml:568
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[4]"
 msgstr ""
@@ -759,7 +753,7 @@ msgstr ""
 "précisément ce genre d’attitude qui a déclenché l’ancienne guerre. J’espère "
 "que vous trouverez en vous la force de me pardonner.\""
 
-#: src-en/data/events_special_aea_cult.xml:566
+#: src-en/data/events_special_aea_cult.xml:569
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[5]"
 msgstr ""
@@ -767,31 +761,31 @@ msgstr ""
 "nom de toute son espèce pour les erreurs commises dans le passé et vous "
 "offre son salaire de ce mois à son usine pour que vous l'épargniez."
 
-#: src-en/data/events_special_aea_cult.xml:570
+#: src-en/data/events_special_aea_cult.xml:573
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"AEA_CULT_TEST_FIGHT\"]/text"
 msgstr "TEST."
 
-#: src-en/data/events_special_aea_cult.xml:573
+#: src-en/data/events_special_aea_cult.xml:576
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"AEA_CULT_TEST_FIGHT\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_aea_cult.xml:603
+#: src-en/data/events_special_aea_cult.xml:607
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_FACTORY\"]/destroyed/text"
 msgstr ""
 "Vous avez détruit le vaisseau cultiste et avez désormais accès à l’usine. "
 "Vous la pillez rapidement avant de repartir."
 
-#: src-en/data/events_special_aea_cult.xml:607
+#: src-en/data/events_special_aea_cult.xml:612
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_FACTORY\"]/deadCrew/text"
 msgstr ""
 "Vous avez éliminé les cultistes et avez désormais accès à l’usine. Vous la "
 "pillez rapidement avant de repartir."
 
-#: src-en/data/events_special_aea_cult.xml:615
+#: src-en/data/events_special_aea_cult.xml:621
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE\"]/destroyed/text"
 msgstr ""
@@ -799,26 +793,27 @@ msgstr ""
 "\n"
 "Monstre !"
 
-#: src-en/data/events_special_aea_cult.xml:634
+#: src-en/data/events_special_aea_cult.xml:640
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"DEFEAT_VAMPWEED_ELITE\"]/text"
 msgstr ""
 "Vous avez réussi à abattre un vaisseau cultiste élite, et ses débris sont "
 "désormais à vous pour la récupération."
 
-#: src-en/data/events_special_aea_cult.xml:637
+#: src-en/data/events_special_aea_cult.xml:644
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"DEFEAT_VAMPWEED_ELITE\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_aea_cult.xml:639
+#: src-en/data/events_special_aea_cult.xml:646
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"DEFEAT_VAMPWEED_ELITE\"]/choice/event/text"
 msgstr ""
-"Il semble que la cargaison du vaisseau cultiste élite ait survécu au combat. "
-"À l'intérieur, vous trouvez une arme fonctionnelle, que vous ramenez à bord."
+"Il semble que la cargaison du vaisseau cultiste élite ait survécu au combat."
+" À l'intérieur, vous trouvez une arme fonctionnelle, que vous ramenez à "
+"bord."
 
-#: src-en/data/events_special_aea_cult.xml:647
+#: src-en/data/events_special_aea_cult.xml:655
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/destroyed/text"
 msgstr ""
@@ -826,19 +821,19 @@ msgstr ""
 "reddition, mais ça n'est jamais arrivé. Au lieu de cela, votre coup final "
 "achève le vaisseau et vous le regardez exploser..."
 
-#: src-en/data/events_special_aea_cult.xml:650
+#: src-en/data/events_special_aea_cult.xml:658
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/destroyed/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_aea_cult.xml:655
+#: src-en/data/events_special_aea_cult.xml:664
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/deadCrew/text"
 msgstr ""
 "Vous avez réussi à neutraliser le vaisseau du Clan, ce qui vous permet de "
 "monter à bord pour réclamer votre butin."
 
-#: src-en/data/events_special_aea_cult.xml:658
+#: src-en/data/events_special_aea_cult.xml:667
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/deadCrew/choice/text"
 msgstr "Continuer..."

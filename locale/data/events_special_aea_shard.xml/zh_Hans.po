@@ -1,0 +1,433 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_aea_shard.xml:15
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_START_AEA_SHARD\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:16
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_START_AEA_SHARD\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:17
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_START_AEA_SHARD\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:30
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"START_AEA_SHARD\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_shard.xml:46
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"START_AEA_SHARD_UNIQUE\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_shard.xml:52
+msgid "data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:54
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD\"]/choice[1]/text"
+msgstr "无视守卫。"
+
+#: src-en/data/events_special_aea_shard.xml:56
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD\"]/choice[1]/event/text"
+msgstr "现在有时间管理一下星舰。"
+
+#: src-en/data/events_special_aea_shard.xml:58
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD\"]/choice[1]/event/choice[1]/text"
+msgstr "星舰管理。"
+
+#: src-en/data/events_special_aea_shard.xml:62
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD\"]/choice[1]/event/choice[2]/text"
+msgstr "跳过。"
+
+#: src-en/data/events_special_aea_shard.xml:68
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD\"]/choice[2]/text"
+msgstr "联系守卫。"
+
+#: src-en/data/events_special_aea_shard.xml:72
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD\"]/choice[3]/text"
+msgstr "攻击守卫。"
+
+#: src-en/data/events_special_aea_shard.xml:77
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD\"]/choice[3]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_shard.xml:85
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_GUARD_AEA_SHARD_CONTACT\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:90
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_INTERACT\"]/choice[1]/text"
+msgstr "请求物资。"
+
+#: src-en/data/events_special_aea_shard.xml:94
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_INTERACT\"]/choice[2]/text"
+msgstr "要求物资。"
+
+#: src-en/data/events_special_aea_shard.xml:98
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_INTERACT\"]/choice[@req=\"weapons\"]/text"
+msgstr "(高级武器系统)威胁守卫。"
+
+#: src-en/data/events_special_aea_shard.xml:102
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_INTERACT\"]/choice[4]/text"
+msgstr "算了，还是不理会守卫了。"
+
+#: src-en/data/events_special_aea_shard.xml:104
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_INTERACT\"]/choice[4]/event/text"
+msgstr "你表示歉意并结束了通讯。守卫没有试图进一步沟通。"
+
+#: src-en/data/events_special_aea_shard.xml:106
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_INTERACT\"]/choice[4]/event/choice[1]/text"
+msgstr "星舰管理。"
+
+#: src-en/data/events_special_aea_shard.xml:110
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_INTERACT\"]/choice[4]/event/choice[2]/text"
+msgstr "跳过。"
+
+#: src-en/data/events_special_aea_shard.xml:119
+msgid ""
+"data/events_special_aea_shard.xml$//eventList[@name=\"GUARD_AEA_SHARD_REQUEST\"]/event[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:122
+msgid ""
+"data/events_special_aea_shard.xml$//eventList[@name=\"GUARD_AEA_SHARD_REQUEST\"]/event[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:128
+msgid ""
+"data/events_special_aea_shard.xml$//eventList[@name=\"GUARD_AEA_SHARD_DEMAND\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:133
+msgid ""
+"data/events_special_aea_shard.xml$//eventList[@name=\"GUARD_AEA_SHARD_THREATEN\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:136
+msgid ""
+"data/events_special_aea_shard.xml$//eventList[@name=\"GUARD_AEA_SHARD_THREATEN\"]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_shard.xml:149
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_DESTROY\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:152
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_DESTROY\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_shard.xml:157
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_DEADCREW\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:161
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_DEADCREW\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_shard.xml:174
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_FOLLOWUP\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:183
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_FOLLOWUP\"]/choice[1]/text"
+msgstr "星舰管理。"
+
+#: src-en/data/events_special_aea_shard.xml:187
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_FOLLOWUP\"]/choice[2]/text"
+msgstr "跳过。"
+
+#: src-en/data/events_special_aea_shard.xml:195
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"REINFORCEMENTS_AEA_SHARD\"]/beaconType/unvisitedTooltip"
+msgstr "未探索的信标。"
+
+#: src-en/data/events_special_aea_shard.xml:196
+#, fuzzy
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"REINFORCEMENTS_AEA_SHARD\"]/beaconType/visitedTooltip"
+msgstr "已探索的信标，没什么值得注意。"
+
+#: src-en/data/events_special_aea_shard.xml:197
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"REINFORCEMENTS_AEA_SHARD\"]/beaconType/undiscoveredTooltip"
+msgstr "未探索的信标。"
+
+#: src-en/data/events_special_aea_shard.xml:199
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"REINFORCEMENTS_AEA_SHARD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:203
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"REINFORCEMENTS_AEA_SHARD\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_shard.xml:211
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHARD\"]/beaconType/unvisitedTooltip"
+msgstr "未探索的信标。"
+
+#: src-en/data/events_special_aea_shard.xml:212
+#, fuzzy
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHARD\"]/beaconType/visitedTooltip"
+msgstr "已探索的信标，没什么值得注意。"
+
+#: src-en/data/events_special_aea_shard.xml:213
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHARD\"]/beaconType/undiscoveredTooltip"
+msgstr "未探索的信标。"
+
+#: src-en/data/events_special_aea_shard.xml:215
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHARD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:221
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHARD\"]/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_shard.xml:268
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_OUTPOST_AEA_SHARD\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:269
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_OUTPOST_AEA_SHARD\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:286
+msgid ""
+"data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[@req=\"challenge_level\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:292
+msgid ""
+"data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:300
+msgid ""
+"data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:308
+msgid ""
+"data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:316
+msgid ""
+"data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:318
+msgid ""
+"data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[5]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:321
+msgid ""
+"data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[5]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_shard.xml:330
+msgid ""
+"data/events_special_aea_shard.xml$//ship[@name=\"SHIP_AEA_SHARD_TRANSPORT_LOOT\"]/escape/text"
+msgstr "对方看起来不想战斗而是想逃跑。"
+
+#: src-en/data/events_special_aea_shard.xml:342
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr "未探索的信标。"
+
+#: src-en/data/events_special_aea_shard.xml:343
+#, fuzzy
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/beaconType/visitedTooltip"
+msgstr "已探索的信标，没什么值得注意。"
+
+#: src-en/data/events_special_aea_shard.xml:344
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr "未探索的信标。"
+
+#: src-en/data/events_special_aea_shard.xml:346
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:349
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[1]/text"
+msgstr "命令对方交出物资。"
+
+#: src-en/data/events_special_aea_shard.xml:351
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[1]/event/text"
+msgstr "你决定武力夺取物资。"
+
+#: src-en/data/events_special_aea_shard.xml:354
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[1]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/events_special_aea_shard.xml:360
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[2]/text"
+msgstr "避开这艘船。"
+
+#: src-en/data/events_special_aea_shard.xml:362
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:364
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[2]/event/choice[1]/text"
+msgstr "星舰管理。"
+
+#: src-en/data/events_special_aea_shard.xml:368
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[2]/event/choice[2]/text"
+msgstr "跳过。"
+
+#: src-en/data/events_special_aea_shard.xml:375
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_SHARD\"]/text"
+msgstr "对方船员都死了，留给你一艘空船。他们的货物任由你处置。船上就是预想当中的特殊科技，你将它带回星舰。"
+
+#: src-en/data/events_special_aea_shard.xml:394
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHARD\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:395
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHARD\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:396
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHARD\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:404
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHARD\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:405
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHARD\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:406
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHARD\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:413
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_ESCAPE_AEA_SHARD\"]/text"
+msgstr "看来甲壳族船已经重新考虑过要留在这里完成这场战斗。他们正试图逃跑！"
+
+#: src-en/data/events_special_aea_shard.xml:426
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_SHARD\"]/text"
+msgstr "甲壳族飞船跃迁走了，把你留在了信标处。"
+
+#: src-en/data/events_special_aea_shard.xml:429
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"GOTAWAY_AEA_SHARD_REMAINS\"]/text"
+msgstr "甲壳族飞船跃迁走了。起初你很失望，但后来你发现战斗中留下了一部分废料。虽然不多，但它有助于减轻你失败的打击。"
+
+#: src-en/data/events_special_aea_shard.xml:436
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"SURRENDER_AEA_SHARD\"]/choice[1]/text"
+msgstr "接受他们的投降。"
+
+#: src-en/data/events_special_aea_shard.xml:445
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:446
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:447
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:448
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:449
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[5]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:452
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[6]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:453
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[7]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:454
+msgid ""
+"data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[8]"
+msgstr ""
+
+#: src-en/data/events_special_aea_shard.xml:463
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"AEA_SHARD_TEST_FIGHT\"]/text"
+msgstr "TEST."
+
+#: src-en/data/events_special_aea_shard.xml:466
+msgid ""
+"data/events_special_aea_shard.xml$//event[@name=\"AEA_SHARD_TEST_FIGHT\"]/choice/text"
+msgstr "继续。"

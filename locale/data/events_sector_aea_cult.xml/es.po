@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-01 15:50+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_sector_aea_cultxml/es/>\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_sector_aea_cult.xml:29
 msgid ""
@@ -1451,53 +1444,53 @@ msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_FLOWER_DEAD\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_cult.xml:1333
+#: src-en/data/events_sector_aea_cult.xml:1334
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_FLOWER_DEAD\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_cult.xml:1335
+#: src-en/data/events_sector_aea_cult.xml:1336
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_FLOWER_DEAD\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_cult.xml:1355
+#: src-en/data/events_sector_aea_cult.xml:1356
 msgid "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_cult.xml:1358
+#: src-en/data/events_sector_aea_cult.xml:1359
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_cult.xml:1360
+#: src-en/data/events_sector_aea_cult.xml:1361
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[1]/event/text"
 msgstr ""
 "Has tomado la riesgosa desición de combatir esta nave. Con suerte, puedes "
 "protegerte de su carga lo suficiente."
 
-#: src-en/data/events_sector_aea_cult.xml:1363
+#: src-en/data/events_sector_aea_cult.xml:1364
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_cult.xml:1369
+#: src-en/data/events_sector_aea_cult.xml:1370
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[2]/text"
 msgstr "Evitar el Trampero de Minas."
 
-#: src-en/data/events_sector_aea_cult.xml:1371
+#: src-en/data/events_sector_aea_cult.xml:1372
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[2]/event/text"
 msgstr "Meterse con un Trampero de Minas es una mala idea."
 
-#: src-en/data/events_sector_aea_cult.xml:1373
+#: src-en/data/events_sector_aea_cult.xml:1374
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[2]/event/choice[1]/text"
 msgstr "Hacer algo abordo de la nave."
 
-#: src-en/data/events_sector_aea_cult.xml:1377
+#: src-en/data/events_sector_aea_cult.xml:1378
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[2]/event/choice[2]/text"
 msgstr "No hacer nada."

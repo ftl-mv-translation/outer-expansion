@@ -1,809 +1,811 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-01 15:50+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataautoblueprintsxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
 
-#: src-en/data/autoBlueprints.xml.append:1026
+#: src-en/data/autoBlueprints.xml.append:1049
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_BOSS\"]/class"
 msgstr "Прототип Кислотного крейсера"
 
-#: src-en/data/autoBlueprints.xml.append:1055
+#: src-en/data/autoBlueprints.xml.append:1078
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_SCOUT\"]/class"
 msgstr "Кислотный разведчик"
 
-#: src-en/data/autoBlueprints.xml.append:1079
+#: src-en/data/autoBlueprints.xml.append:1102
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_OUTRIDER\"]/class"
 msgstr "Кислотный следопыт"
 
-#: src-en/data/autoBlueprints.xml.append:1104
+#: src-en/data/autoBlueprints.xml.append:1127
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_FIGHTER\"]/class"
 msgstr "Кислотный истребитель"
 
-#: src-en/data/autoBlueprints.xml.append:1128
+#: src-en/data/autoBlueprints.xml.append:1151
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_INSTIGATOR\"]/class"
 msgstr "Кислотный подстрекатель"
 
-#: src-en/data/autoBlueprints.xml.append:1160
+#: src-en/data/autoBlueprints.xml.append:1183
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_BOMBER\"]/class"
 msgstr "Кислотный бомбардировщик"
 
-#: src-en/data/autoBlueprints.xml.append:1185
+#: src-en/data/autoBlueprints.xml.append:1208
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_ASSUALT\"]/class"
 msgstr "Кислотный штурмовик"
 
-#: src-en/data/autoBlueprints.xml.append:1211
+#: src-en/data/autoBlueprints.xml.append:1234
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_TRANSPORT\"]/class"
 msgstr "Кислотный транспорт"
 
-#: src-en/data/autoBlueprints.xml.append:1237
+#: src-en/data/autoBlueprints.xml.append:1260
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_GUARD\"]/class"
 msgstr "Кислотный страж"
 
-#: src-en/data/autoBlueprints.xml.append:1265
+#: src-en/data/autoBlueprints.xml.append:1288
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_SCOUT_ELITE\"]/class"
 msgstr "Элитный Кислотный разведчик"
 
-#: src-en/data/autoBlueprints.xml.append:1289
+#: src-en/data/autoBlueprints.xml.append:1312
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_OUTRIDER_ELITE\"]/class"
 msgstr "Элитный Кислотный следопыт"
 
-#: src-en/data/autoBlueprints.xml.append:1315
+#: src-en/data/autoBlueprints.xml.append:1338
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_FIGHTER_ELITE\"]/class"
 msgstr "Элитный Кислотный истребитель"
 
-#: src-en/data/autoBlueprints.xml.append:1340
+#: src-en/data/autoBlueprints.xml.append:1363
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_INSTIGATOR_ELITE\"]/class"
 msgstr "Элитный Кислотный подстрекатель"
 
-#: src-en/data/autoBlueprints.xml.append:1372
+#: src-en/data/autoBlueprints.xml.append:1395
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_BOMBER_ELITE\"]/class"
 msgstr "Элитный Кислотный бомбардировщик"
 
-#: src-en/data/autoBlueprints.xml.append:1398
+#: src-en/data/autoBlueprints.xml.append:1421
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_TRANSPORT_ELITE\"]/class"
 msgstr "Элитный Кислотный транспорт"
 
-#: src-en/data/autoBlueprints.xml.append:1425
+#: src-en/data/autoBlueprints.xml.append:1448
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_ACID_GUARD_ELITE\"]/class"
 msgstr "Элитный Кислотный страж"
 
-#: src-en/data/autoBlueprints.xml.append:1700
+#: src-en/data/autoBlueprints.xml.append:1723
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_NECRO_BOSS\"]/class"
 msgstr "Крейсер Еретиков"
 
-#: src-en/data/autoBlueprints.xml.append:1736
+#: src-en/data/autoBlueprints.xml.append:1759
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_NECRO_BOMBER\"]/class"
 msgstr "Бомбардировщик Еретиков"
 
-#: src-en/data/autoBlueprints.xml.append:1762
+#: src-en/data/autoBlueprints.xml.append:1785
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_NECRO_DROPSHIP\"]/class"
 msgstr "Десантный корабль Еретиков"
 
-#: src-en/data/autoBlueprints.xml.append:1789
+#: src-en/data/autoBlueprints.xml.append:1812
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_NECRO_ENFORCER\"]/class"
 msgstr "Силовик Еретиков"
 
-#: src-en/data/autoBlueprints.xml.append:1815
+#: src-en/data/autoBlueprints.xml.append:1838
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_NECRO_FIGHTER\"]/class"
 msgstr "Истребитель Еретиков"
 
-#: src-en/data/autoBlueprints.xml.append:1840
+#: src-en/data/autoBlueprints.xml.append:1863
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_NECRO_GUARD\"]/class"
 msgstr "Страж Еретиков"
 
-#: src-en/data/autoBlueprints.xml.append:1867
+#: src-en/data/autoBlueprints.xml.append:1890
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_NECRO_MOTHERSHIP\"]/class"
 msgstr "Материнский корабль Еретиков"
 
-#: src-en/data/autoBlueprints.xml.append:1894
+#: src-en/data/autoBlueprints.xml.append:1917
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_NECRO_OUTRIDER\"]/class"
 msgstr "Следопыт Еретиков"
 
-#: src-en/data/autoBlueprints.xml.append:1919
+#: src-en/data/autoBlueprints.xml.append:1942
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_NECRO_PROTECTOR\"]/class"
 msgstr "Защитник Еретиков"
 
-#: src-en/data/autoBlueprints.xml.append:1945
+#: src-en/data/autoBlueprints.xml.append:1968
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_NECRO_RIGGER\"]/class"
 msgstr "Такелажник Еретиков"
 
-#: src-en/data/autoBlueprints.xml.append:1971
+#: src-en/data/autoBlueprints.xml.append:1994
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_NECRO_SCOUT\"]/class"
 msgstr "Разведчик Еретиков"
 
-#: src-en/data/autoBlueprints.xml.append:1996
+#: src-en/data/autoBlueprints.xml.append:2019
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_NECRO_STATION\"]/class"
 msgstr "Станция Еретиков"
 
-#: src-en/data/autoBlueprints.xml.append:2023
+#: src-en/data/autoBlueprints.xml.append:2046
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_NECRO_TRANSPORT\"]/class"
 msgstr "Транспорт Еретиков"
 
-#: src-en/data/autoBlueprints.xml.append:2050
+#: src-en/data/autoBlueprints.xml.append:2073
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_NECRO_TRAPPER\"]/class"
 msgstr "Минер Еретиков"
 
-#: src-en/data/autoBlueprints.xml.append:2078
+#: src-en/data/autoBlueprints.xml.append:2101
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_GUARD_BOSS\"]/class"
 msgstr "???"
 
-#: src-en/data/autoBlueprints.xml.append:2362
+#: src-en/data/autoBlueprints.xml.append:2385
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_BATTLESHIP\"]/class"
 msgstr "Линкор лилмиков"
 
-#: src-en/data/autoBlueprints.xml.append:2389
+#: src-en/data/autoBlueprints.xml.append:2412
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_PROTECTOR\"]/class"
 msgstr "Протектор лилмиков"
 
-#: src-en/data/autoBlueprints.xml.append:2417
+#: src-en/data/autoBlueprints.xml.append:2440
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_ASSAULT\"]/class"
 msgstr "Штурмовик лилмиков"
 
-#: src-en/data/autoBlueprints.xml.append:2445
+#: src-en/data/autoBlueprints.xml.append:2468
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_RIGGER\"]/class"
 msgstr "Такелажник лилмиков"
 
-#: src-en/data/autoBlueprints.xml.append:2473
+#: src-en/data/autoBlueprints.xml.append:2496
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_ENFORCER\"]/class"
 msgstr "Силовик лилмиков"
 
-#: src-en/data/autoBlueprints.xml.append:2499
+#: src-en/data/autoBlueprints.xml.append:2522
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_STATION\"]/class"
 msgstr "Станция лилмиков"
 
-#: src-en/data/autoBlueprints.xml.append:2524
+#: src-en/data/autoBlueprints.xml.append:2547
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BEAM_MASTER_OLD\"]/class"
 msgstr "Мастер брони"
 
-#: src-en/data/autoBlueprints.xml.append:2546
+#: src-en/data/autoBlueprints.xml.append:2569
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_PROTECTOR_ELITE\"]/class"
 msgstr "Протектор лилмиков"
 
-#: src-en/data/autoBlueprints.xml.append:2574
+#: src-en/data/autoBlueprints.xml.append:2597
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_ASSAULT_ELITE\"]/class"
 msgstr "Штурмовик лилмиков"
 
-#: src-en/data/autoBlueprints.xml.append:2602
+#: src-en/data/autoBlueprints.xml.append:2625
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_RIGGER_ELITE\"]/class"
 msgstr "Такелажник лилмиков"
 
-#: src-en/data/autoBlueprints.xml.append:2630
+#: src-en/data/autoBlueprints.xml.append:2653
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_ENFORCER_ELITE\"]/class"
 msgstr "Силовик лилмиков"
 
-#: src-en/data/autoBlueprints.xml.append:2656
+#: src-en/data/autoBlueprints.xml.append:2679
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_SPONSOR_1_BOUNTY\"]/class"
 msgstr "Крейсер Орел"
 
-#: src-en/data/autoBlueprints.xml.append:2700
+#: src-en/data/autoBlueprints.xml.append:2717
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_FINAL_BOSS_CASUAL\"]/class"
 msgstr "Флагман лилмиков"
 
-#: src-en/data/autoBlueprints.xml.append:2741
+#: src-en/data/autoBlueprints.xml.append:2758
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_FINAL_BOSS_NORMAL\"]/class"
 msgstr "Флагман лилмиков"
 
-#: src-en/data/autoBlueprints.xml.append:2782
+#: src-en/data/autoBlueprints.xml.append:2799
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_FINAL_BOSS_CHALLENGE\"]/class"
 msgstr "Флагман лилмиков"
 
-#: src-en/data/autoBlueprints.xml.append:2823
+#: src-en/data/autoBlueprints.xml.append:2840
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_FINAL_BOSS_EXTREME\"]/class"
 msgstr "Флагман лилмиков"
 
-#: src-en/data/autoBlueprints.xml.append:2866
+#: src-en/data/autoBlueprints.xml.append:2883
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_CULT_BOSS_FLOWER\"]/class"
 msgstr "Одноцветка"
 
-#: src-en/data/autoBlueprints.xml.append:2889
+#: src-en/data/autoBlueprints.xml.append:2906
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_CULT_BOSS_FLOWER_FAKE\"]/class"
 msgstr "Цветок-самозванец"
 
-#: src-en/data/autoBlueprints.xml.append:2913
+#: src-en/data/autoBlueprints.xml.append:2930
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_CULT_WHALE\"]/class"
 msgstr "Космический кит"
 
-#: src-en/data/autoBlueprints.xml.append:3051
+#: src-en/data/autoBlueprints.xml.append:3068
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_CULT_SCOUT\"]/class"
 msgstr "Разведчик сектантов"
 
-#: src-en/data/autoBlueprints.xml.append:3073
+#: src-en/data/autoBlueprints.xml.append:3090
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_CULT_OUTRIDER\"]/class"
 msgstr "Следопыт сектантов"
 
-#: src-en/data/autoBlueprints.xml.append:3097
+#: src-en/data/autoBlueprints.xml.append:3114
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_CULT_INTERCEPTOR\"]/class"
 msgstr "Перехватчик сектантов"
 
-#: src-en/data/autoBlueprints.xml.append:3119
+#: src-en/data/autoBlueprints.xml.append:3136
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_CULT_FIGHTER\"]/class"
 msgstr "Истребитель сектантов"
 
-#: src-en/data/autoBlueprints.xml.append:3142
+#: src-en/data/autoBlueprints.xml.append:3159
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_CULT_BOMBER\"]/class"
 msgstr "Бомбардировщик сектантов"
 
-#: src-en/data/autoBlueprints.xml.append:3167
+#: src-en/data/autoBlueprints.xml.append:3184
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_CULT_ASSAULT\"]/class"
 msgstr "Штурмовик сектантов"
 
-#: src-en/data/autoBlueprints.xml.append:3191
+#: src-en/data/autoBlueprints.xml.append:3208
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_CULT_BATTLESHIP\"]/class"
 msgstr "Линкор сектантов"
 
-#: src-en/data/autoBlueprints.xml.append:3217
+#: src-en/data/autoBlueprints.xml.append:3234
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_CULT_ESCORT\"]/class"
 msgstr "Эскорт сектантов"
 
-#: src-en/data/autoBlueprints.xml.append:3239
+#: src-en/data/autoBlueprints.xml.append:3256
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_CULT_TRANSPORT\"]/class"
 msgstr "Транспорт сектантов"
 
-#: src-en/data/autoBlueprints.xml.append:3263
+#: src-en/data/autoBlueprints.xml.append:3280
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_CULT_TRAPPER\"]/class"
 msgstr "Минер сектантов"
 
-#: src-en/data/autoBlueprints.xml.append:3285
+#: src-en/data/autoBlueprints.xml.append:3302
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_CULT_GUARD\"]/class"
 msgstr "Страж сектантов"
 
-#: src-en/data/autoBlueprints.xml.append:3309
+#: src-en/data/autoBlueprints.xml.append:3326
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_CULT_STATION\"]/class"
 msgstr "Станция сектантов"
 
-#: src-en/data/autoBlueprints.xml.append:3437
+#: src-en/data/autoBlueprints.xml.append:3454
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_BOMBER\"]/class"
 msgstr "Бомбардировщик ги"
 
-#: src-en/data/autoBlueprints.xml.append:3461
+#: src-en/data/autoBlueprints.xml.append:3478
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_ESCORT\"]/class"
 msgstr "Эскорт ги"
 
-#: src-en/data/autoBlueprints.xml.append:3486
+#: src-en/data/autoBlueprints.xml.append:3503
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_FIGHTER\"]/class"
 msgstr "Истребитель ги"
 
-#: src-en/data/autoBlueprints.xml.append:3510
+#: src-en/data/autoBlueprints.xml.append:3527
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_INTERCEPTOR\"]/class"
 msgstr "Перехватчик ги"
 
-#: src-en/data/autoBlueprints.xml.append:3534
+#: src-en/data/autoBlueprints.xml.append:3551
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_MOTHERSHIP\"]/class"
 msgstr "Материнский корабль ги"
 
-#: src-en/data/autoBlueprints.xml.append:3559
+#: src-en/data/autoBlueprints.xml.append:3576
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_OUTRIDER\"]/class"
 msgstr "Следопыт ги"
 
-#: src-en/data/autoBlueprints.xml.append:3583
+#: src-en/data/autoBlueprints.xml.append:3600
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_SCOUT\"]/class"
 msgstr "Разведчик ги"
 
-#: src-en/data/autoBlueprints.xml.append:3607
+#: src-en/data/autoBlueprints.xml.append:3624
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_STRIKE\"]/class"
 msgstr "Ударный истребитель ги"
 
-#: src-en/data/autoBlueprints.xml.append:3631
+#: src-en/data/autoBlueprints.xml.append:3648
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_TRANSPORT\"]/class"
 msgstr "Транспорт ги"
 
-#: src-en/data/autoBlueprints.xml.append:3656
+#: src-en/data/autoBlueprints.xml.append:3673
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_SHUTTLE\"]/class"
 msgstr "Шаттл ги"
 
-#: src-en/data/autoBlueprints.xml.append:3679
+#: src-en/data/autoBlueprints.xml.append:3696
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_SHUTTLE_DRONE\"]/class"
 msgstr "Дрон-шаттл ги"
 
-#: src-en/data/autoBlueprints.xml.append:3701
+#: src-en/data/autoBlueprints.xml.append:3718
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_BOMBER_ELITE\"]/class"
 msgstr "Элитный бомбардировщик ги"
 
-#: src-en/data/autoBlueprints.xml.append:3726
+#: src-en/data/autoBlueprints.xml.append:3743
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_ESCORT_ELITE\"]/class"
 msgstr "Элитный эскорт ги"
 
-#: src-en/data/autoBlueprints.xml.append:3752
+#: src-en/data/autoBlueprints.xml.append:3769
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_FIGHTER_ELITE\"]/class"
 msgstr "Элитный истребитель ги"
 
-#: src-en/data/autoBlueprints.xml.append:3777
+#: src-en/data/autoBlueprints.xml.append:3794
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_INTERCEPTOR_ELITE\"]/class"
 msgstr "Элитный перехватчик ги"
 
-#: src-en/data/autoBlueprints.xml.append:3802
+#: src-en/data/autoBlueprints.xml.append:3819
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_MOTHERSHIP_ELITE\"]/class"
 msgstr "Элитный материнский корабль ги"
 
-#: src-en/data/autoBlueprints.xml.append:3828
+#: src-en/data/autoBlueprints.xml.append:3845
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_OUTRIDER_ELITE\"]/class"
 msgstr "Элитный Следопыт ги"
 
-#: src-en/data/autoBlueprints.xml.append:3853
+#: src-en/data/autoBlueprints.xml.append:3870
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_SCOUT_ELITE\"]/class"
 msgstr "Разведчик ги"
 
-#: src-en/data/autoBlueprints.xml.append:3878
+#: src-en/data/autoBlueprints.xml.append:3895
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_STRIKE_ELITE\"]/class"
 msgstr "Элитный ударный истребитель ги"
 
-#: src-en/data/autoBlueprints.xml.append:3903
+#: src-en/data/autoBlueprints.xml.append:3920
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_TRANSPORT_ELITE\"]/class"
 msgstr "Элитный транспорт ги"
 
-#: src-en/data/autoBlueprints.xml.append:3929
+#: src-en/data/autoBlueprints.xml.append:3946
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BIRD_AUTO_BOSS\"]/class"
 msgstr "Авто-крейсер"
 
-#: src-en/data/autoBlueprints.xml.append:3952
+#: src-en/data/autoBlueprints.xml.append:3969
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_BROADSIDE_ENEMY\"]/class"
 msgstr "Броадсайд повстанцев"
 
-#: src-en/data/autoBlueprints.xml.append:4142
+#: src-en/data/autoBlueprints.xml.append:4159
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_ARTILLERY\"]/class"
 msgstr "Крейсер Анархистов класса А"
 
-#: src-en/data/autoBlueprints.xml.append:4167
+#: src-en/data/autoBlueprints.xml.append:4184
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_SCOUT_GEL\"]/class"
 msgstr "Разведчик Анархистов класса Е"
 
-#: src-en/data/autoBlueprints.xml.append:4193
+#: src-en/data/autoBlueprints.xml.append:4210
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_BOMBER_GEL\"]/class"
 msgstr "Бомбардировщик Анархистов класса Е"
 
-#: src-en/data/autoBlueprints.xml.append:4219
+#: src-en/data/autoBlueprints.xml.append:4236
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_FRIGATE_GEL\"]/class"
 msgstr "Фрегат Анархистов класса Е"
 
-#: src-en/data/autoBlueprints.xml.append:4246
+#: src-en/data/autoBlueprints.xml.append:4263
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_PROTECTOR_GEL\"]/class"
 msgstr "Протектор Анархистов класса Е"
 
-#: src-en/data/autoBlueprints.xml.append:4271
+#: src-en/data/autoBlueprints.xml.append:4288
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_ABDUCTOR_GEL\"]/class"
 msgstr "Похититель Анархистов класса Е"
 
-#: src-en/data/autoBlueprints.xml.append:4296
+#: src-en/data/autoBlueprints.xml.append:4313
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_TRANSPORT_GEL\"]/class"
 msgstr "Транспорт Анархистов класса Е"
 
-#: src-en/data/autoBlueprints.xml.append:4320
+#: src-en/data/autoBlueprints.xml.append:4337
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_GUARD_GEL\"]/class"
 msgstr "Страж Анархистов класса Е"
 
-#: src-en/data/autoBlueprints.xml.append:4344
+#: src-en/data/autoBlueprints.xml.append:4361
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_STATION_GEL\"]/class"
 msgstr "Станция Анархистов класса Е"
 
-#: src-en/data/autoBlueprints.xml.append:4374
+#: src-en/data/autoBlueprints.xml.append:4391
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_SCOUT_GAS\"]/class"
 msgstr "Разведчик Анархистов класса А"
 
-#: src-en/data/autoBlueprints.xml.append:4400
+#: src-en/data/autoBlueprints.xml.append:4417
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_BOMBER_GAS\"]/class"
 msgstr "Бомбардировщик Анархистов класса А"
 
-#: src-en/data/autoBlueprints.xml.append:4426
+#: src-en/data/autoBlueprints.xml.append:4443
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_FRIGATE_GAS\"]/class"
 msgstr "Фрегат Анархистов класса А"
 
-#: src-en/data/autoBlueprints.xml.append:4453
+#: src-en/data/autoBlueprints.xml.append:4470
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_PROTECTOR_GAS\"]/class"
 msgstr "Протектор Анархистов класса А"
 
-#: src-en/data/autoBlueprints.xml.append:4478
+#: src-en/data/autoBlueprints.xml.append:4495
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_ABDUCTOR_GAS\"]/class"
 msgstr "Похититель Анархистов класса А"
 
-#: src-en/data/autoBlueprints.xml.append:4503
+#: src-en/data/autoBlueprints.xml.append:4520
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_TRANSPORT_GAS\"]/class"
 msgstr "Транспорт Анархистов класса А"
 
-#: src-en/data/autoBlueprints.xml.append:4527
+#: src-en/data/autoBlueprints.xml.append:4544
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_GUARD_GAS\"]/class"
 msgstr "Страж Анархистов класса А"
 
-#: src-en/data/autoBlueprints.xml.append:4551
+#: src-en/data/autoBlueprints.xml.append:4568
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHLEG_STATION_GAS\"]/class"
 msgstr "Станция Анархистов класса А"
 
-#: src-en/data/autoBlueprints.xml.append:4625
+#: src-en/data/autoBlueprints.xml.append:4628
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_BOSS\"]/class"
+msgstr "Крейсер Ломатель Осколков"
+
+#: src-en/data/autoBlueprints.xml.append:4653
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_AUTO\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:4702
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_SCOUT\"]/class"
 msgstr "Ломатель Осколков-разведчик"
 
-#: src-en/data/autoBlueprints.xml.append:4648
+#: src-en/data/autoBlueprints.xml.append:4726
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_OUTRIDER\"]/class"
 msgstr "Ломатель Осколков-следопыт"
 
-#: src-en/data/autoBlueprints.xml.append:4674
+#: src-en/data/autoBlueprints.xml.append:4753
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_FIGHTER\"]/class"
 msgstr "Ломатель Осколков-истребитель"
 
-#: src-en/data/autoBlueprints.xml.append:4698
+#: src-en/data/autoBlueprints.xml.append:4778
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_ENFORCER\"]/class"
 msgstr "Ломатель Осколков-силовик"
 
-#: src-en/data/autoBlueprints.xml.append:4721
+#: src-en/data/autoBlueprints.xml.append:4803
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_BOMBER\"]/class"
 msgstr "Ломатель Осколков-бомбардировщик"
 
-#: src-en/data/autoBlueprints.xml.append:4744
+#: src-en/data/autoBlueprints.xml.append:4828
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_ASSAULT\"]/class"
 msgstr "Ломатель Осколков-штурмовик"
 
-#: src-en/data/autoBlueprints.xml.append:4768
+#: src-en/data/autoBlueprints.xml.append:4854
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_TRANSPORT\"]/class"
 msgstr "Ломатель Осколков-транспорт"
 
-#: src-en/data/autoBlueprints.xml.append:4794
+#: src-en/data/autoBlueprints.xml.append:4881
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_STATION\"]/class"
 msgstr "Станция Ломателей Осколков"
 
-#: src-en/data/autoBlueprints.xml.append:4817
+#: src-en/data/autoBlueprints.xml.append:4906
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_TRAPPER\"]/class"
 msgstr "Ломатель Осколков-минер"
 
-#: src-en/data/autoBlueprints.xml.append:4841
+#: src-en/data/autoBlueprints.xml.append:4932
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_GUARD\"]/class"
 msgstr "Ломатель Осколков-страж"
 
-#: src-en/data/autoBlueprints.xml.append:5008
+#: src-en/data/autoBlueprints.xml.append:5101
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_COALITION_ASSAULT_ELITE\"]/class"
 msgstr "Штурмовик ЭЭРЕ"
 
-#: src-en/data/autoBlueprints.xml.append:5036
+#: src-en/data/autoBlueprints.xml.append:5129
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_COALITION_DESTROYER_ELITE\"]/class"
 msgstr "Эсминец ЭЭРЕ"
 
-#: src-en/data/autoBlueprints.xml.append:5064
+#: src-en/data/autoBlueprints.xml.append:5157
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_COALITION_CEALAFORMER\"]/class"
 msgstr "Цеалаформер Коалиции"
 
-#: src-en/data/autoBlueprints.xml.append:5098
+#: src-en/data/autoBlueprints.xml.append:5191
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_CRYSTAL_ENFORCER_ELITE\"]/class"
 msgstr "Силовик Часовых"
 
-#: src-en/data/autoBlueprints.xml.append:5120
+#: src-en/data/autoBlueprints.xml.append:5213
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_CRYSTAL_BOMBER_ELITE\"]/class"
 msgstr "Бомбардировщик Часовых"
 
-#: src-en/data/autoBlueprints.xml.append:5145
+#: src-en/data/autoBlueprints.xml.append:5238
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_DUSK_BATTLESHIP_ELITE\"]/class"
 msgstr "Линкор Нового порядка"
 
-#: src-en/data/autoBlueprints.xml.append:5170
+#: src-en/data/autoBlueprints.xml.append:5263
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_DUSK_JAILER_ELITE\"]/class"
 msgstr "Тюремщик Нового порядка"
 
-#: src-en/data/autoBlueprints.xml.append:5197
+#: src-en/data/autoBlueprints.xml.append:5290
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_DYNASTY_ASSAULT_ELITE\"]/class"
 msgstr "Жнец-штурмовик"
 
-#: src-en/data/autoBlueprints.xml.append:5221
+#: src-en/data/autoBlueprints.xml.append:5314
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_DYNASTY_SCOUT_ELITE\"]/class"
 msgstr "Жнец-разведчик"
 
-#: src-en/data/autoBlueprints.xml.append:5246
+#: src-en/data/autoBlueprints.xml.append:5339
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_ENGI_ENFORCER_ELITE\"]/class"
 msgstr "Силовик Гармонии"
 
-#: src-en/data/autoBlueprints.xml.append:5272
+#: src-en/data/autoBlueprints.xml.append:5365
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_ENGI_MOTHERSHIP_ELITE\"]/class"
 msgstr "Материнский корабль Гармонии"
 
-#: src-en/data/autoBlueprints.xml.append:5297
+#: src-en/data/autoBlueprints.xml.append:5390
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_ENGI_BOMBER_ELITE\"]/class"
 msgstr "Бомбардировщик Гармонии"
 
-#: src-en/data/autoBlueprints.xml.append:5325
+#: src-en/data/autoBlueprints.xml.append:5418
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_FED_BOMBER_ELITE\"]/class"
 msgstr "Бомбардировщик Единства"
 
-#: src-en/data/autoBlueprints.xml.append:5373
+#: src-en/data/autoBlueprints.xml.append:5466
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_FREEMANTIS_BATTLESHIP_ELITE\"]/class"
 msgstr "Линкор Полководцев"
 
-#: src-en/data/autoBlueprints.xml.append:5399
+#: src-en/data/autoBlueprints.xml.append:5492
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_FREEMANTIS_INTERCEPTOR_ELITE\"]/class"
 msgstr "Перехватчик Полководцев"
 
-#: src-en/data/autoBlueprints.xml.append:5424
+#: src-en/data/autoBlueprints.xml.append:5517
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_KNIGHT_GUARD\"]/class"
 msgstr "Атаманский сторожевой корабль"
 
-#: src-en/data/autoBlueprints.xml.append:5450
+#: src-en/data/autoBlueprints.xml.append:5543
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_KNIGHT_DESTROYER\"]/class"
 msgstr "Атаманский эсминец"
 
-#: src-en/data/autoBlueprints.xml.append:5477
+#: src-en/data/autoBlueprints.xml.append:5570
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_KNIGHT_TRANSPORT\"]/class"
 msgstr "Атаманский транспортный корабль"
 
-#: src-en/data/autoBlueprints.xml.append:5505
+#: src-en/data/autoBlueprints.xml.append:5598
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_LANIUS_BATTLESHIP_ELITE\"]/class"
 msgstr "Линкор Роя"
 
-#: src-en/data/autoBlueprints.xml.append:5528
+#: src-en/data/autoBlueprints.xml.append:5621
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_LANIUS_MARAUDER_ELITE\"]/class"
 msgstr "Мародер Роя"
 
-#: src-en/data/autoBlueprints.xml.append:5550
+#: src-en/data/autoBlueprints.xml.append:5643
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_LANIUS_ASSAULT_ELITE\"]/class"
 msgstr "Штурмовик Роя"
 
-#: src-en/data/autoBlueprints.xml.append:5578
+#: src-en/data/autoBlueprints.xml.append:5671
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_LEECH_BATTLESHIP_ELITE\"]/class"
 msgstr "Линкор Амперов"
 
-#: src-en/data/autoBlueprints.xml.append:5602
+#: src-en/data/autoBlueprints.xml.append:5695
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_LEECH_PICKET_ELITE\"]/class"
 msgstr "Дозор Амперов"
 
-#: src-en/data/autoBlueprints.xml.append:5629
+#: src-en/data/autoBlueprints.xml.append:5722
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_LOSTSUN_BATTLESHIP\"]/class"
 msgstr "Линкор Затерянных Солнц"
 
-#: src-en/data/autoBlueprints.xml.append:5655
+#: src-en/data/autoBlueprints.xml.append:5748
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_LOSTSUN_GUARD\"]/class"
 msgstr "Сторожевой корабль Затерянных Солнц"
 
-#: src-en/data/autoBlueprints.xml.append:5683
+#: src-en/data/autoBlueprints.xml.append:5776
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_MILITIA_GUARD_ELITE\"]/class"
 msgstr "Сторожевой корабль ЭОК"
 
-#: src-en/data/autoBlueprints.xml.append:5708
+#: src-en/data/autoBlueprints.xml.append:5801
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_MILITIA_RIGGER_ELITE\"]/class"
 msgstr "Такелажник ЭОК"
 
-#: src-en/data/autoBlueprints.xml.append:5733
+#: src-en/data/autoBlueprints.xml.append:5826
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_ORCHID_BOMBER_ELITE\"]/class"
 msgstr "Бомбардировщик Преторов"
 
-#: src-en/data/autoBlueprints.xml.append:5755
+#: src-en/data/autoBlueprints.xml.append:5848
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_ORCHID_INSTIGATOR_ELITE\"]/class"
 msgstr "Подстрекатель Преторов"
 
-#: src-en/data/autoBlueprints.xml.append:5783
+#: src-en/data/autoBlueprints.xml.append:5876
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_MFK_GUNBOAT\"]/class"
 msgstr "Канонерка асов МФК"
 
-#: src-en/data/autoBlueprints.xml.append:5810
+#: src-en/data/autoBlueprints.xml.append:5903
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_REBEL_ASSAULT_SELITE\"]/class"
 msgstr "Штурмовик асов МФК"
 
-#: src-en/data/autoBlueprints.xml.append:5838
+#: src-en/data/autoBlueprints.xml.append:5931
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_REBEL_DESTROYER_SELITE\"]/class"
 msgstr "Эсминец асов МФК"
 
-#: src-en/data/autoBlueprints.xml.append:5864
+#: src-en/data/autoBlueprints.xml.append:5957
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_REBEL_GUARD_SELITE\"]/class"
 msgstr "Сторожевой корабль асов МФК"
 
-#: src-en/data/autoBlueprints.xml.append:5892
+#: src-en/data/autoBlueprints.xml.append:5985
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_ROCK_BATTLESHIP_SELITE\"]/class"
 msgstr "Линкор Паладинов"
 
-#: src-en/data/autoBlueprints.xml.append:5917
+#: src-en/data/autoBlueprints.xml.append:6010
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_ROCK_PICKET_SELITE\"]/class"
 msgstr "Дозор Паладинов"
 
-#: src-en/data/autoBlueprints.xml.append:5943
+#: src-en/data/autoBlueprints.xml.append:6036
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_ROCK_FIGHTER_SELITE\"]/class"
 msgstr "Истребитель Паладинов"
 
-#: src-en/data/autoBlueprints.xml.append:5970
+#: src-en/data/autoBlueprints.xml.append:6063
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_SHELL_ABDUCTOR_ELITE\"]/class"
 msgstr "Похититель Лучезарных"
 
-#: src-en/data/autoBlueprints.xml.append:5997
+#: src-en/data/autoBlueprints.xml.append:6090
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_SHELL_FIGHTER_ELITE\"]/class"
 msgstr "Истребитель Лучезарных"
 
-#: src-en/data/autoBlueprints.xml.append:6024
+#: src-en/data/autoBlueprints.xml.append:6117
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_SHELL_SKIRMISHER_ELITE\"]/class"
 msgstr "Застрельщик Лучезарных"
 
-#: src-en/data/autoBlueprints.xml.append:6053
+#: src-en/data/autoBlueprints.xml.append:6146
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_SUZERAIN_JAILER\"]/class"
 msgstr "Тюремщик Сюзеренов"
 
-#: src-en/data/autoBlueprints.xml.append:6081
+#: src-en/data/autoBlueprints.xml.append:6174
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_SUZERAIN_PREDATOR\"]/class"
 msgstr "Хищник Сюзеренов"
 
-#: src-en/data/autoBlueprints.xml.append:6106
+#: src-en/data/autoBlueprints.xml.append:6199
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_SUZERAIN_MOTHERSHIP\"]/class"
 msgstr "Материнский корабль Сюзеренов"
 
-#: src-en/data/autoBlueprints.xml.append:6137
+#: src-en/data/autoBlueprints.xml.append:6230
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_VAMPWEED_ESCORT_ELITE\"]/class"
 msgstr "Эскорт Культиваторов"
 
-#: src-en/data/autoBlueprints.xml.append:6159
+#: src-en/data/autoBlueprints.xml.append:6252
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_VAMPWEED_FIGHTER_ELITE\"]/class"
 msgstr "Истребитель Культиваторов"
 
-#: src-en/data/autoBlueprints.xml.append:6182
+#: src-en/data/autoBlueprints.xml.append:6275
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_VAMPWEED_OUTRIDER_ELITE\"]/class"
 msgstr "Конвоир Культиваторов"
 
-#: src-en/data/autoBlueprints.xml.append:6207
+#: src-en/data/autoBlueprints.xml.append:6300
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_ZOLTAN_DROPSHIP_ELITE\"]/class"
 msgstr "Челнок Миротворцев"
 
-#: src-en/data/autoBlueprints.xml.append:6231
+#: src-en/data/autoBlueprints.xml.append:6324
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_ZOLTAN_ABDUCTOR_ELITE\"]/class"
 msgstr "Похититель Миротворцев"
 
-#: src-en/data/autoBlueprints.xml.append:6253
+#: src-en/data/autoBlueprints.xml.append:6346
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_OLD_ZOLTAN_GUARD_ELITE\"]/class"
 msgstr "Сторожевой корабль Миротворцев"
