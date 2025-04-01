@@ -996,7 +996,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_1\"]/desc"
 msgstr ""
 "Shatter Lasers are heavy duty lasers which shatter on contact with shields, fragments of the laser pierce the shields inflicting a weakening effect and heavy damage to the enemy crew in the area.\n"
-"Shatters into 3 fragments.\n"
+"Shatters into 3 fragments on 1 shield layer, 2 on 2 layers, 1 on 3 layers, 0 otherwise.\n"
 "Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage reduction effect to enemy crew."
 
 #: src-en/data/blueprints.xml.append:2474
@@ -1019,7 +1019,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_2\"]/desc"
 msgstr ""
 "Shatter Lasers are heavy duty lasers which shatter on contact with shields, fragments of the laser pierce the shields inflicting a weakening effect and heavy damage to the enemy crew in the area.\n"
-"Shatters into 3 fragments.\n"
+"Shatters into 3 fragments on 1 shield layer, 2 on 2 layers, 1 on 3 layers, 0 otherwise.\n"
 "Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage reduction effect to enemy crew."
 
 #: src-en/data/blueprints.xml.append:2516
@@ -1042,7 +1042,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_3\"]/desc"
 msgstr ""
 "Shatter Lasers are heavy duty lasers which shatter on contact with shields, fragments of the laser pierce the shields inflicting a weakening effect and heavy damage to the enemy crew in the area.\n"
-"Shatters into 3 fragments.\n"
+"Shatters into 3 fragments on 1 shield layer, 2 on 2 layers, 1 on 3 layers, 0 otherwise.\n"
 "Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage reduction effect to enemy crew."
 
 #: src-en/data/blueprints.xml.append:2558
@@ -1065,7 +1065,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_2_LOOT\"]/desc"
 msgstr ""
 "Shatter Lasers are heavy duty lasers which shatter on contact with shields, fragments of the laser pierce the shields inflicting a weakening effect and heavy damage to the enemy crew in the area.\n"
-"Shatters into 3 fragments.\n"
+"Shatters into 3 fragments on 1 shield layer, 2 on 2 layers, 1 on 3 layers, 0 otherwise.\n"
 "Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage reduction effect to enemy crew."
 
 #: src-en/data/blueprints.xml.append:2600
@@ -1088,7 +1088,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_CHARGE\"]/desc"
 msgstr ""
 "Shatter Lasers are heavy duty lasers which shatter on contact with shields, fragments of the laser pierce the shields inflicting a weakening effect and heavy damage to the enemy crew in the area.\n"
-"Shatters into 3 fragments.\n"
+"Shatters into 3 fragments on 1 shield layer, 2 on 2 layers, 1 on 3 layers, 0 otherwise.\n"
 "Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage reduction effect to enemy crew."
 
 #: src-en/data/blueprints.xml.append:2642
@@ -6416,23 +6416,25 @@ msgstr "Pierces 1 shield; fires 3 crystals that deal 1 damage each."
 #: src-en/data/blueprints.xml.append:11021
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/desc"
-msgstr "A band of pirates who only allow other crystals into their ranks."
+msgstr ""
+"An ancient group of pirates, The Shard-Forged are primarily crystals who "
+"split off from the crystilline empire long ago."
 
 #: src-en/data/blueprints.xml.append:11022
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/title"
-msgstr "Shard-Breaker"
+msgstr "Shard-Forged"
 
 #: src-en/data/blueprints.xml.append:11023
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/short"
-msgstr "Shard-Breaker"
+msgstr "Shard-Forged"
 
 #: src-en/data/blueprints.xml.append:11028
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/powerList/power[1]"
 msgstr ""
-"Active Ability (2 charges): Locks down rooms damaging enemies but losing the"
+"Active Ability (1 charges): Locks down rooms damaging enemies but losing the"
 " ability to fight. Each cast costs 25 health."
 
 #: src-en/data/blueprints.xml.append:11029
@@ -6453,23 +6455,25 @@ msgstr "Inflicts 0.8x damage in crew combat"
 #: src-en/data/blueprints.xml.append:11049
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/desc"
-msgstr "A band of pirates who only allow other crystals into their ranks."
+msgstr ""
+"An ancient group of pirates, The Shard-Forged are primarily crystals who "
+"split off from the crystilline empire long ago."
 
 #: src-en/data/blueprints.xml.append:11050
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/title"
-msgstr "Shard-Smasher"
+msgstr "Shard-Forged Captain"
 
 #: src-en/data/blueprints.xml.append:11051
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/short"
-msgstr "Shard-Smasher"
+msgstr "Shard Captain"
 
 #: src-en/data/blueprints.xml.append:11056
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/powerList/power[1]"
 msgstr ""
-"Active Ability (2 charges): Locks down rooms damaging enemies but losing the"
+"Active Ability (3 charges): Locks down rooms damaging enemies but losing the"
 " ability to fight. Each cast costs 25 health."
 
 #: src-en/data/blueprints.xml.append:11057
@@ -6489,7 +6493,11 @@ msgstr "Inflicts 0.8x damage in crew combat"
 
 #: src-en/data/blueprints.xml.append:11077
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/desc"
-msgstr "A band of pirates who only allow other crystals into their ranks."
+msgstr ""
+"The Leader of the Shard-Forged through their possession of the Dawnshard. "
+"The Dawnshard grants them powerful abilities, but also puts a target on "
+"their back as the one who possesses the Dawnshard also possesses control of "
+"the Shard-Forged."
 
 #: src-en/data/blueprints.xml.append:11078
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/title"
@@ -6503,13 +6511,13 @@ msgstr "Dawnshard"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/powerList/power[1]"
 msgstr ""
-"Active Ability (2 charges): Locks down rooms damaging enemies but losing the"
+"Active Ability (3 charges): Locks down rooms damaging enemies but losing the"
 " ability to fight. Each cast costs 25 health."
 
 #: src-en/data/blueprints.xml.append:11085
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/powerList/power[2]"
-msgstr "Reduced suffocation damage"
+msgstr "Greatly reduced suffocation damage"
 
 #: src-en/data/blueprints.xml.append:11086
 msgid ""
@@ -6519,7 +6527,7 @@ msgstr "Max Health is increased to 200"
 #: src-en/data/blueprints.xml.append:11087
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/powerList/power[4]"
-msgstr "Inflicts 0.8x damage in crew combat"
+msgstr "Inflicts 0.5x damage in crew combat"
 
 #: src-en/data/blueprints.xml.append:11121
 msgid ""
@@ -6678,17 +6686,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11260
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE\"]/class"
-msgstr "Shard-Breaker Cruiser"
+msgstr "Shard-Shattered Cruiser"
 
 #: src-en/data/blueprints.xml.append:11261
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE\"]/name"
-msgstr "The Dawnshard"
+msgstr "The Citrine"
 
 #: src-en/data/blueprints.xml.append:11262
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE\"]/desc"
-msgstr "This ship is completely devoid of any description whatsoever!"
+msgstr ""
+"A boarding focused ship, the crystal crew onboard are able to quickly "
+"destroy systems while protected by a wall of crystal."
 
 #: src-en/data/blueprints.xml.append:11344
 msgid ""
@@ -7232,7 +7242,7 @@ msgstr "Max Health is increased to 200"
 #: src-en/data/blueprints.xml.append:12735
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[4]"
-msgstr "Inflicts 1.6x damage in crew combat"
+msgstr "Inflicts 1.5x damage in crew combat"
 
 #: src-en/data/blueprints.xml.append:12740
 msgid ""
@@ -7316,7 +7326,7 @@ msgstr "Inflict 1.5x damage in combat"
 #: src-en/data/blueprints.xml.append:12803
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_mantis\"]/powerList/power[2]"
-msgstr "1.5x move speed"
+msgstr "1.2x move speed"
 
 #: src-en/data/blueprints.xml.append:12804
 msgid ""
@@ -7342,7 +7352,7 @@ msgstr "Slug"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_slug\"]/powerList/power[1]"
 msgstr ""
-"Telepathic powers reveal rooms and lifeforms even when sensors are down"
+"Telepathic powers reveal rooms and lifeforms even when sensors are down."
 
 #: src-en/data/blueprints.xml.append:12827
 msgid ""

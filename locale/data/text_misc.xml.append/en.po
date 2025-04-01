@@ -245,7 +245,7 @@ msgstr ""
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_bird\"]"
 msgstr ""
 "Name: Gi Nesting Grounds\n"
-"Type: Allied\n"
+"Type: Friendly\n"
 "Unique: True\n"
 "Dominant Faction: Gi Federation\n"
 "Rebel Threat Level: Medium (Neutral Fleet)\n"
@@ -315,7 +315,7 @@ msgstr ""
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_UNI_unlock\"]"
 msgstr ""
-"Consult the advice of a certain Avian Engineer about a certain artifact to "
+"Consult the advice of a certain Pirate King about a certain artifact to "
 "unlock this ship."
 
 #: src-en/data/text_misc.xml.append:127
@@ -562,19 +562,20 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:181
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_unlock\"]"
-msgstr "Coming Soon."
+msgstr "Hunt down a strange crystal auto ship."
 
 #: src-en/data/text_misc.xml.append:182
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_2_unlock\"]"
-msgstr "Get to Sector 5 with the ??? Cruiser Type A to unlock this ship."
+msgstr ""
+"Get to Sector 5 with the Shard-Shattered Cruiser Type A to unlock this ship."
 
 #: src-en/data/text_misc.xml.append:183
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_3_unlock\"]"
 msgstr ""
-"Get to Sector 5 with the ??? Cruiser Type B or beat the game with the ??? "
-"Cruiser Type A to unlock this ship."
+"Get to Sector 5 with the Shard-Shattered Cruiser Type B or beat the game "
+"with the Shard-Shattered Cruiser Type A to unlock this ship."
 
 #: src-en/data/text_misc.xml.append:185
 msgid ""
@@ -615,7 +616,9 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:192
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BROADSIDE_unlock\"]"
-msgstr "Coming Soon."
+msgstr ""
+"Reports are coming out in the sectors closest to Node 17 (Sector 7) of a "
+"strange rebel ship patrolling their fleet."
 
 #: src-en/data/text_misc.xml.append:193
 msgid ""

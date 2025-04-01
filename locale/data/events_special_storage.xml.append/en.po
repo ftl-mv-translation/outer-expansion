@@ -147,7 +147,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:117
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_OVERCHARGER\"]/choice[1]/text"
-msgstr "Perform the upgrade. [Cost: 50~]."
+msgstr "Perform the upgrade. [Cost: 50~, 1{]"
 
 #: src-en/data/events_special_storage.xml.append:119
 msgid ""
@@ -337,17 +337,13 @@ msgstr "(Acidic Origins)."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
-"(Heretic Defense Drone I) Set the state of the drone. [Current mode: Anti-"
-"Missile]."
+msgstr "Disable hotkeys for Auxiliary Shields system."
 
 #: src-en/data/events_special_storage.xml.append:318
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
-"(Heretic Defense Drone I) Set the state of the drone. [Current mode: Anti-"
-"Drone]."
+msgstr "Enable hotkeys for Auxiliary Shields system."
 
 #: src-en/data/events_special_storage.xml.append:326
 msgid ""
