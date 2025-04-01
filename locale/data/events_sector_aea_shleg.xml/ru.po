@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-30 12:14+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-04-01 15:46+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_shlegxml/ru/>\n"
 "Language: ru\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_sector_aea_shleg.xml:29
 msgid ""
@@ -598,8 +598,7 @@ msgstr "Связаться с ракушками."
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_HIDDEN_COLONY\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Вы связываетесь с ракушками, находящимся в колонии. Они ждут, что вы "
-"скажете."
+"Вы связываетесь с ракушками, находящимся в колонии. Они ждут, что вы скажете."
 
 #: src-en/data/events_sector_aea_shleg.xml:461
 msgid ""
@@ -627,8 +626,8 @@ msgstr "Запросить торговлю."
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_HIDDEN_COLONY\"]/choice[1]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
-"Среди ракушек идет обсуждение, но, похоже, все согласны, что торговля с вами"
-" не принесет вреда."
+"Среди ракушек идет обсуждение, но, похоже, все согласны, что торговля с вами "
+"не принесет вреда."
 
 #: src-en/data/events_sector_aea_shleg.xml:479
 msgid ""
@@ -649,8 +648,8 @@ msgstr "Не обращать на них внимания."
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_HIDDEN_COLONY\"]/choice[2]/event/text"
 msgstr ""
-"Вы не знаете, что здесь происходит, но что бы ни делал этот одинокий корабль"
-" ракушек, это не имеет никакого значения для вашей миссии."
+"Вы не знаете, что здесь происходит, но что бы ни делал этот одинокий корабль "
+"ракушек, это не имеет никакого значения для вашей миссии."
 
 #: src-en/data/events_sector_aea_shleg.xml:495
 msgid ""
@@ -699,8 +698,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_shleg.xml:535
 msgid ""
 "data/events_sector_aea_shleg.xml$//eventList[@name=\"AEA_SHLEG_HIDDEN_COLONY_DEMAND\"]/event[2]/text"
-msgstr ""
-"Колония не реагирует на ваши требования. В ответ они применяют оружие!"
+msgstr "Колония не реагирует на ваши требования. В ответ они применяют оружие!"
 
 #: src-en/data/events_sector_aea_shleg.xml:538
 msgid ""
@@ -828,8 +826,8 @@ msgstr "Избегать корабль."
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_DISTRESS_AEA_SHLEG_GAS\"]/choice[3]/event/text"
 msgstr ""
-"К сожалению, стыковка с их кораблем, скорее всего, слишком опасна, поскольку"
-" корабли ракушек содержат нейротоксиновые газы. Вам лучше не вмешиваться."
+"К сожалению, стыковка с их кораблем, скорее всего, слишком опасна, поскольку "
+"корабли ракушек содержат нейротоксиновые газы. Вам лучше не вмешиваться."
 
 #: src-en/data/events_sector_aea_shleg.xml:644
 msgid ""
