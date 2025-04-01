@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-02 12:44+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/datablueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/blueprints.xml.append:13
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_ACIDIC\"]/title"
@@ -6543,14 +6551,17 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/desc"
 msgstr ""
-"Группа пиратов, которые принимают в свои ряды только других кристаллинов."
+"Древняя группа осколкорожденных пиратов состоящих в основном из "
+"кристаллинов, отколовшихся от империи кристиллинов давным-давно."
 
 #: src-en/data/blueprints.xml.append:11022
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/title"
 msgstr "Ломатель Осколков"
 
 #: src-en/data/blueprints.xml.append:11023
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/short"
 msgstr "Ломатель Осколков"
@@ -6581,14 +6592,17 @@ msgstr "Наносит 0.8х урона в бою с экипажем"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/desc"
 msgstr ""
-"Группа пиратов, которые принимают в свои ряды только других кристаллинов."
+"Древняя группа осколкорожденных пиратов состоящих в основном из "
+"кристаллинов, отколовшихся от империи кристиллинов давным-давно."
 
 #: src-en/data/blueprints.xml.append:11050
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/title"
 msgstr "Разбиватель осколков"
 
 #: src-en/data/blueprints.xml.append:11051
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/short"
 msgstr "Разбиватель осколков"
@@ -6618,7 +6632,10 @@ msgstr "Наносит 0.8х урона в бою с экипажем"
 #: src-en/data/blueprints.xml.append:11077
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/desc"
 msgstr ""
-"Группа пиратов, которые принимают в свои ряды только других кристаллинов."
+"Лидер осколкорожденных благодаря владению Осколка Рассвета. Этот артефакт "
+"наделяет его могущественными способностями, но также оставляет свой "
+"отпечаток: тот, кто владеет Осколком Рассвета, обретает власть над "
+"осколкорожденными."
 
 #: src-en/data/blueprints.xml.append:11078
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/title"
@@ -6638,7 +6655,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11085
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/powerList/power[2]"
-msgstr "Снижен урон от удушья"
+msgstr "Значительно снижен урон от удушья"
 
 #: src-en/data/blueprints.xml.append:11086
 msgid ""
@@ -6788,6 +6805,7 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:11260
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE\"]/class"
 msgstr "Крейсер Ломатель Осколков"
@@ -6795,12 +6813,14 @@ msgstr "Крейсер Ломатель Осколков"
 #: src-en/data/blueprints.xml.append:11261
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE\"]/name"
-msgstr "Осколок Рассвета"
+msgstr "Цитрин"
 
 #: src-en/data/blueprints.xml.append:11262
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE\"]/desc"
-msgstr "Этот корабль совершенно лишен какого-либо описания!"
+msgstr ""
+"Корабль, ориентированный на абордаж. Экипаж кристаллинов на его борту "
+"способен быстро уничтожать системы, будучи защищенным кристаллической стеной."
 
 #: src-en/data/blueprints.xml.append:11344
 msgid ""
