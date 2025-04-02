@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-02 15:05+0000\n"
+"PO-Revision-Date: 2025-04-03 08:52+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datablueprintsxmlappend/ru/>\n"
@@ -830,7 +830,9 @@ msgstr "Еретик I [Р]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_DEFENSE_NECRO_1_MISSILE\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Противоракетный] Многоцелевой дрон, используемый Еретиками энджи, способен воскрешать дронов и ракеты, в которые он попадает, но не способен поражать лазерные заряды.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Противоракетный] Многоцелевой дрон, используемый Еретиками "
+"энджи, способен воскрешать дроны и ракеты, в которые он попадает, но не "
+"способен поражать лазерные заряды.\n"
 "\tПерезарядка: 1500 МС"
 
 #: src-en/data/blueprints.xml.append:2203
@@ -848,7 +850,9 @@ msgstr "Еретик I [Д]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_DEFENSE_NECRO_1_DRONE\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Анти-дрон] Многоцелевой дрон, используемый Еретиками энджи, способен воскрешать дронов и ракеты, в которые он попадает, но не способен поражать лазерные заряды.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Анти-дрон] Многоцелевой дрон, используемый Еретиками энджи, "
+"способен воскрешать дроны и ракеты, в которые он попадает, но не способен "
+"поражать лазерные заряды.\n"
 "\tПерезарядка: 3000 МС"
 
 #: src-en/data/blueprints.xml.append:2224
@@ -1019,14 +1023,14 @@ msgid ""
 msgstr "Оск. лазер I"
 
 #: src-en/data/blueprints.xml.append:2471
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_1\"]/desc"
 msgstr ""
 "Осколочные лазеры - это сверхмощные лазеры, которые разбиваются при контакте "
 "со щитами. Осколки лазера пробивают щиты, нанося ослабляющий эффект и "
 "тяжелый урон вражескому экипажу в зоне поражения.\n"
-"Разбивается на 3 фрагмента.\n"
+"Разбивается на 3 фрагмента при 1 слое щита, на 2 при 2 слоях, на 1 при 3 "
+"слоях, и на 0 в остальных случаях.\n"
 "Фрагменты наносят 15 единиц урона экипажу, имеют 10% шанс пробить щит и "
 "накладывают на вражеский экипаж эффект 20% снижения урона."
 
@@ -1046,14 +1050,14 @@ msgid ""
 msgstr "Оск. лазер II"
 
 #: src-en/data/blueprints.xml.append:2513
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_2\"]/desc"
 msgstr ""
 "Осколочные лазеры - это сверхмощные лазеры, которые разбиваются при контакте "
 "со щитами. Осколки лазера пробивают щиты, нанося ослабляющий эффект и "
 "тяжелый урон вражескому экипажу в зоне поражения.\n"
-"Разбивается на 3 фрагмента.\n"
+"Разбивается на 3 фрагмента при 1 слое щита, на 2 при 2 слоях, на 1 при 3 "
+"слоях, и на 0 в остальных случаях.\n"
 "Фрагменты наносят 15 единиц урона экипажу, имеют 10% шанс пробить щит и "
 "накладывают на вражеский экипаж эффект 20% снижения урона."
 
@@ -1073,14 +1077,14 @@ msgid ""
 msgstr "Оск. лазер III"
 
 #: src-en/data/blueprints.xml.append:2555
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_3\"]/desc"
 msgstr ""
 "Осколочные лазеры - это сверхмощные лазеры, которые разбиваются при контакте "
 "со щитами. Осколки лазера пробивают щиты, нанося ослабляющий эффект и "
 "тяжелый урон вражескому экипажу в зоне поражения.\n"
-"Разбивается на 3 фрагмента.\n"
+"Разбивается на 3 фрагмента при 1 слое щита, на 2 при 2 слоях, на 1 при 3 "
+"слоях, и на 0 в остальных случаях.\n"
 "Фрагменты наносят 15 единиц урона экипажу, имеют 10% шанс пробить щит и "
 "накладывают на вражеский экипаж эффект 20% снижения урона."
 
@@ -1100,14 +1104,14 @@ msgid ""
 msgstr "Оск. лазер II"
 
 #: src-en/data/blueprints.xml.append:2597
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_2_LOOT\"]/desc"
 msgstr ""
 "Осколочные лазеры - это сверхмощные лазеры, которые разбиваются при контакте "
 "со щитами. Осколки лазера пробивают щиты, нанося ослабляющий эффект и "
 "тяжелый урон вражескому экипажу в зоне поражения.\n"
-"Разбивается на 3 фрагмента.\n"
+"Разбивается на 3 фрагмента при 1 слое щита, на 2 при 2 слоях, на 1 при 3 "
+"слоях, и на 0 в остальных случаях.\n"
 "Фрагменты наносят 15 единиц урона экипажу, имеют 10% шанс пробить щит и "
 "накладывают на вражеский экипаж эффект 20% снижения урона."
 
@@ -1127,14 +1131,14 @@ msgid ""
 msgstr "Заряд. оск. лазер"
 
 #: src-en/data/blueprints.xml.append:2639
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_CHARGE\"]/desc"
 msgstr ""
 "Осколочные лазеры - это сверхмощные лазеры, которые разбиваются при контакте "
 "со щитами. Осколки лазера пробивают щиты, нанося ослабляющий эффект и "
 "тяжелый урон вражескому экипажу в зоне поражения.\n"
-"Разбивается на 3 фрагмента.\n"
+"Разбивается на 3 фрагмента при 1 слое щита, на 2 при 2 слоях, на 1 при 3 "
+"слоях, и на 0 в остальных случаях.\n"
 "Фрагменты наносят 15 единиц урона экипажу, имеют 10% шанс пробить щит и "
 "накладывают на вражеский экипаж эффект 20% снижения урона."
 
@@ -6340,12 +6344,12 @@ msgstr "Не наносит урона корпусу и системе, но н
 #: src-en/data/blueprints.xml.append:10161
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_MISSILES\"]/title"
-msgstr "Ракетная установка \"Гипнос\""
+msgstr "Ракетная установка \"Гипноз\""
 
 #: src-en/data/blueprints.xml.append:10162
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_MISSILES\"]/short"
-msgstr "Гипнос"
+msgstr "Гипноз"
 
 #: src-en/data/blueprints.xml.append:10163
 msgid ""
@@ -6362,12 +6366,12 @@ msgstr "Выпускает 1 ракету; наносит 3 урона; проб
 #: src-en/data/blueprints.xml.append:10220
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_MISSILES_LOOT\"]/title"
-msgstr "Ракетная установка \"Гипнос\""
+msgstr "Ракетная установка \"Гипноз\""
 
 #: src-en/data/blueprints.xml.append:10221
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SHLEG_MISSILES_LOOT\"]/short"
-msgstr "Гипнос"
+msgstr "Гипноз"
 
 #: src-en/data/blueprints.xml.append:10222
 msgid ""
@@ -6550,22 +6554,24 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10965
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CRYSTAL_BURST_2_AEA_LOOT\"]/title"
-msgstr ""
+msgstr "Элитный залповый кристалл мод. II"
 
 #: src-en/data/blueprints.xml.append:10966
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CRYSTAL_BURST_2_AEA_LOOT\"]/short"
-msgstr ""
+msgstr "€ кристалл II"
 
 #: src-en/data/blueprints.xml.append:10967
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CRYSTAL_BURST_2_AEA_LOOT\"]/desc"
 msgstr ""
+"Модифицированное снарядное оружие, выпускающее 3 кристалла, пробивающих щит. "
+"Элитный вариант, который всегда запирает отсек и пробивает 2 щита."
 
 #: src-en/data/blueprints.xml.append:10968
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CRYSTAL_BURST_2_AEA_LOOT\"]/tooltip"
-msgstr ""
+msgstr "Пробивает 1 щит; выпускает 3 кристалла, наносящих по 1 урону каждый."
 
 #: src-en/data/blueprints.xml.append:11021
 msgid ""
@@ -6575,16 +6581,14 @@ msgstr ""
 "кристаллинов, отколовшихся от империи кристиллинов давным-давно."
 
 #: src-en/data/blueprints.xml.append:11022
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/title"
-msgstr "Ломатель Осколков"
+msgstr "Осколкорожденный"
 
 #: src-en/data/blueprints.xml.append:11023
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/short"
-msgstr "Ломатель Осколков"
+msgstr "Осколкорожденный"
 
 #: src-en/data/blueprints.xml.append:11028
 msgid ""
@@ -6616,16 +6620,14 @@ msgstr ""
 "кристаллинов, отколовшихся от империи кристиллинов давным-давно."
 
 #: src-en/data/blueprints.xml.append:11050
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/title"
-msgstr "Разбиватель осколков"
+msgstr "Капитан осколкорожденных"
 
 #: src-en/data/blueprints.xml.append:11051
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/short"
-msgstr "Разбиватель осколков"
+msgstr "Капитан осколкорожденных"
 
 #: src-en/data/blueprints.xml.append:11056
 msgid ""
@@ -6690,17 +6692,22 @@ msgstr "Наносит 0.5х урона в бою с экипажем"
 #: src-en/data/blueprints.xml.append:11121
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"aea_super_shields\"]/title"
-msgstr ""
+msgstr "Вспомогательные щиты"
 
 #: src-en/data/blueprints.xml.append:11122
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"aea_super_shields\"]/desc"
 msgstr ""
+"Генерирует слои суперщита. Несовместим с маскировкой. Максимальное "
+"количество щитов равно уровню обычных щитов.\n"
+"\n"
+"Может быть разогнан, чтобы мгновенно генерировать щиты до максимального "
+"уровня, но при этом становится заблокированным на 25 секунд."
 
 #: src-en/data/blueprints.xml.append:11149
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_AEA_SUPER_SHIELD_OVERCHARGER\"]/title"
-msgstr ""
+msgstr "Нагнетатель суперщитов"
 
 #: src-en/data/blueprints.xml.append:11150
 msgid ""
@@ -6710,7 +6717,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:11156
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_SUPER_SHIELD_OVERCHARGER\"]/title"
-msgstr ""
+msgstr "Вспомогательный нагнетатель"
 
 #: src-en/data/blueprints.xml.append:11157
 msgid ""
@@ -6720,7 +6727,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:11163
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_AEA_SUPER_SHIELD_LINKER\"]/title"
-msgstr ""
+msgstr "Синхронизация компьютеров"
 
 #: src-en/data/blueprints.xml.append:11164
 msgid ""
@@ -6730,17 +6737,20 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:11170
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_SUPER_SHIELD_LINKER\"]/title"
-msgstr ""
+msgstr "Синхронизация компьютеров"
 
 #: src-en/data/blueprints.xml.append:11171
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_SUPER_SHIELD_LINKER\"]/desc"
 msgstr ""
+"Нахождение в отсеке Вспомогательных щитов увеличивает эффективность системы "
+"Щитов на 50%, а нахождение в отсеке Щитов увеличивает эффективность "
+"Вспомогательных щитов на 50%."
 
 #: src-en/data/blueprints.xml.append:11177
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_AEA_SUPER_SHIELDS\"]/title"
-msgstr ""
+msgstr "Благо суперщитов"
 
 #: src-en/data/blueprints.xml.append:11178
 msgid ""
@@ -6750,7 +6760,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:11187
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHARD_AUTO\"]/title"
-msgstr ""
+msgstr "Осколочно-режущий луч"
 
 #: src-en/data/blueprints.xml.append:11188
 msgid ""
@@ -6761,16 +6771,20 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHARD_AUTO\"]/desc"
 msgstr ""
+"[БАЗОВАЯ ПЕРЕЗАРЯДКА: 25] Длинны луч, наносящий 2 урона, наносит двойной "
+"урон пустым отсекам, запирает отсеки при попадании."
 
 #: src-en/data/blueprints.xml.append:11190
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHARD_AUTO\"]/tooltip"
 msgstr ""
+"Артиллерия: Длинный луч, наносящий 2 урона, наносит двойной урон пустым "
+"отсекам, запирует отсеки при попадании"
 
 #: src-en/data/blueprints.xml.append:11215
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_COOLER\"]/title"
-msgstr ""
+msgstr "Блок охлаждения осколкорожденных"
 
 #: src-en/data/blueprints.xml.append:11216
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_COOLER\"]/desc"
@@ -6779,25 +6793,31 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:11222
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_ARMOUR\"]/title"
-msgstr ""
+msgstr "Броня осколкорожденных"
 
 #: src-en/data/blueprints.xml.append:11223
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_ARMOUR\"]/desc"
 msgstr ""
+"Каждый раз, когда ваш корабль получает урон, есть 50% шанс отколоть осколок, "
+"который полетит во врага. Создает один слой суперщита при прыжке, "
+"складывается с другими суперщитами."
 
 #: src-en/data/blueprints.xml.append:11229
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_SHIELD\"]/title"
-msgstr ""
+msgstr "Щиты осколкорожденных"
 
 #: src-en/data/blueprints.xml.append:11230
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_SHIELD\"]/desc"
 msgstr ""
+"Каждый раз, когда ваш корабль получает урон, с вероятностью 100% от него "
+"отлетает осколок, который летит во врага. При прыжке генерирует 7-слойный "
+"суперщит."
 
 #: src-en/data/blueprints.xml.append:11237
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_ARMOUR_ENEMY\"]/title"
-msgstr ""
+msgstr "Броня осколкорожденных"
 
 #: src-en/data/blueprints.xml.append:11238
 msgid ""
@@ -6807,7 +6827,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:11244
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_SHIELD_ENEMY\"]/title"
-msgstr ""
+msgstr "Щиты осколкорожденных"
 
 #: src-en/data/blueprints.xml.append:11245
 msgid ""
@@ -6817,18 +6837,24 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:11251
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_LAB_CRYSTAL_SABOTAGE\"]/title"
-msgstr ""
+msgstr "[Л] Закаленные кристаллы"
 
 #: src-en/data/blueprints.xml.append:11252
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_LAB_CRYSTAL_SABOTAGE\"]/desc"
 msgstr ""
+"Кристаллины наносят на 75% больше урона при саботаже, но теряют 50% скорости "
+"передвижения\n"
+"\n"
+"[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, но "
+"занимает слот модуля. Оно не может быть преобразовано во внутреннее "
+"лабораторное улучшение, но не занимает его основной слот. Не суммируется с "
+"самим собой."
 
 #: src-en/data/blueprints.xml.append:11260
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE\"]/class"
-msgstr "Крейсер Ломатель Осколков"
+msgstr "Крейсер осколкорожденных"
 
 #: src-en/data/blueprints.xml.append:11261
 msgid ""
@@ -6845,32 +6871,37 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11344
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE_2\"]/class"
-msgstr ""
+msgstr "Крейсер осколкорожденных"
 
 #: src-en/data/blueprints.xml.append:11345
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE_2\"]/name"
-msgstr ""
+msgstr "Момент Истины"
 
 #: src-en/data/blueprints.xml.append:11346
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE_2\"]/desc"
 msgstr ""
+"Имея Медотсек и Клон-отсек, этот корабль является впечатляющим абордажным "
+"судном, однако его возможности ограничены небольшим телепортом и "
+"ограниченным объемом систем."
 
 #: src-en/data/blueprints.xml.append:11426
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE_3\"]/class"
-msgstr ""
+msgstr "Крейсер осколкорожденных"
 
 #: src-en/data/blueprints.xml.append:11427
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE_3\"]/name"
-msgstr ""
+msgstr "Тот, кто несет тьму"
 
 #: src-en/data/blueprints.xml.append:11428
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE_3\"]/desc"
 msgstr ""
+"Благодаря наличию системы Щитов и системы Вспомогательных щитов, этот "
+"корабль обладает мощным защитным потенциалом."
 
 #: src-en/data/blueprints.xml.append:11507
 msgid ""
@@ -6890,42 +6921,48 @@ msgstr "Этот корабль совершенно лишен какого-л�
 #: src-en/data/blueprints.xml.append:11590
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO\"]/class"
-msgstr ""
+msgstr "Автоматический крейсер осколкорожденных"
 
 #: src-en/data/blueprints.xml.append:11591
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO\"]/name"
-msgstr ""
+msgstr "Стеклянный осколок"
 
 #: src-en/data/blueprints.xml.append:11592
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO\"]/desc"
 msgstr ""
+"Обладая мощным артиллерийским лучом, способным запирать отсеки, этот корабль "
+"грозен как в обороне, так и в нападении."
 
 #: src-en/data/blueprints.xml.append:11669
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO_2\"]/class"
-msgstr ""
+msgstr "Автоматический крейсер осколкорожденных"
 
 #: src-en/data/blueprints.xml.append:11670
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO_2\"]/name"
-msgstr ""
+msgstr "Монтажная плата"
 
 #: src-en/data/blueprints.xml.append:11671
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO_2\"]/desc"
 msgstr ""
+"В отличие от большинства кораблей, это судно может использовать систему "
+"Вспомогательных щитов наряду с системой маскировки, обеспечивая отличную "
+"защиту от некоторых кораблей, однако на корабль нельзя установить обычную "
+"систему щитов, не потеряв при этом Вспомогательные щиты."
 
 #: src-en/data/blueprints.xml.append:11750
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO_3\"]/class"
-msgstr ""
+msgstr "Автоматический крейсер осколкорожденных"
 
 #: src-en/data/blueprints.xml.append:11751
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO_3\"]/name"
-msgstr ""
+msgstr "Топаз"
 
 #: src-en/data/blueprints.xml.append:11752
 msgid ""
@@ -6938,17 +6975,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:11833
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW6\"]/class"
-msgstr ""
+msgstr "Корабль короля Оникса"
 
 #: src-en/data/blueprints.xml.append:11834
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW6\"]/name"
-msgstr ""
+msgstr "Радужный"
 
 #: src-en/data/blueprints.xml.append:11835
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW6\"]/desc"
 msgstr ""
+"С мощным экипажем и сильными защитными системами Осколок Рассвета может быть "
+"защищена от любых возможных узурпаторов."
 
 #: src-en/data/blueprints.xml.append:11916
 msgid ""
@@ -7254,12 +7293,15 @@ msgstr "Броадсайд повстанцев"
 #: src-en/data/blueprints.xml.append:12495
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE_3\"]/name"
-msgstr ""
+msgstr "Заграждение"
 
 #: src-en/data/blueprints.xml.append:12496
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE_3\"]/desc"
 msgstr ""
+"Мощный корабль, сконструированный вокруг бортовой артиллерии. Артиллерийские "
+"установки этого корабля специально разработаны для размещения любого типа "
+"вооружения."
 
 #: src-en/data/blueprints.xml.append:12579
 msgid ""
@@ -7345,22 +7387,24 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12726
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/title"
-msgstr ""
+msgstr "Темный Каратель"
 
 #: src-en/data/blueprints.xml.append:12727
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/short"
-msgstr ""
+msgstr "Темный Каратель"
 
 #: src-en/data/blueprints.xml.append:12732
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Совершает ритуальное жертвоприношение, выберите "
+"несколько союзников, которые будут принесены в жертву."
 
 #: src-en/data/blueprints.xml.append:12733
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[2]"
-msgstr ""
+msgstr "Невосприимчив к удушью и пожарам"
 
 #: src-en/data/blueprints.xml.append:12734
 msgid ""
@@ -7375,68 +7419,83 @@ msgstr "Наносит 1.5х урона в бою с экипажем"
 #: src-en/data/blueprints.xml.append:12740
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"aea_clone_crime\"]/title"
-msgstr ""
+msgstr "Модифицированный Клон-отсек"
 
 #: src-en/data/blueprints.xml.append:12741
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"aea_clone_crime\"]/desc"
 msgstr ""
+"Модифицированный и крайне нелегальный, этот Клон-отсек больше не клонирует "
+"мертвый экипаж, но вместо этого генерирует несколько сомнительных клонов при "
+"каждом прыжке. Благодаря питанию, таймеры смерти на корабле не могут "
+"срабатывать, в том числе и на клонах, созданных этой системой."
 
 #: src-en/data/blueprints.xml.append:12755
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_human\"]/desc"
 msgstr ""
+"Люди - распространенные и неинтересные, но очень умелые.\n"
+"\n"
+"Наследует характеристики клона: 0.75x ОЗ"
 
 #: src-en/data/blueprints.xml.append:12760
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_human\"]/title"
-msgstr ""
+msgstr "Клонированный человек"
 
 #: src-en/data/blueprints.xml.append:12761
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_human\"]/short"
-msgstr ""
+msgstr "Человек"
 
 #: src-en/data/blueprints.xml.append:12764
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_human\"]/powerList/power"
-msgstr ""
+msgstr "Навыки совершенствуются слегка быстрее"
 
 #: src-en/data/blueprints.xml.append:12779
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_engi\"]/desc"
 msgstr ""
+"Неясно, включают ли энджи в себя органические части или целиком состоят из "
+"механики. Тем не менее, известно, что из них получаются отличные инженеры.\n"
+"\n"
+"Наследует характеристики клона: 0.75x ОЗ"
 
 #: src-en/data/blueprints.xml.append:12784
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_engi\"]/title"
-msgstr ""
+msgstr "Клонированный энджи"
 
 #: src-en/data/blueprints.xml.append:12785
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_engi\"]/short"
-msgstr ""
+msgstr "Энджи"
 
 #: src-en/data/blueprints.xml.append:12788
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_engi\"]/powerList/power[1]"
-msgstr ""
+msgstr "Скорость ремонта удвоена"
 
 #: src-en/data/blueprints.xml.append:12789
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_engi\"]/powerList/power[2]"
-msgstr ""
+msgstr "Наносимый урон в бою уменьшен вдвое"
 
 #: src-en/data/blueprints.xml.append:12793
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_mantis\"]/desc"
 msgstr ""
+"Пренебрежение богомолов к жизням индивидов привело к их эволюции как "
+"жестокой расы воинов.\n"
+"\t\n"
+"Наследует характеристики клона: 0.75x ОЗ"
 
 #: src-en/data/blueprints.xml.append:12796
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_mantis\"]/title"
-msgstr ""
+msgstr "Клонированный богомол"
 
 #: src-en/data/blueprints.xml.append:12797
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_mantis\"]/short"
-msgstr ""
+msgstr "Богомол"
 
 #: src-en/data/blueprints.xml.append:12802
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_mantis\"]/powerList/power[1]"
-msgstr ""
+msgstr "Наносит 1.5х урона в бою"
 
 #: src-en/data/blueprints.xml.append:12803
 msgid ""
@@ -7446,19 +7505,23 @@ msgstr "1.2х скорость передвижения"
 #: src-en/data/blueprints.xml.append:12804
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_mantis\"]/powerList/power[3]"
-msgstr ""
+msgstr "Уменьшена вдвое скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:12817
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_slug\"]/desc"
 msgstr ""
+"Этих телепатических слизней сторонились в Галактической Федерации за их "
+"постоянное воровство и попытки манипуляции.\n"
+"\n"
+"Наследует характеристики клона: 0.75x ОЗ"
 
 #: src-en/data/blueprints.xml.append:12820
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_slug\"]/title"
-msgstr ""
+msgstr "Клонированный слизень"
 
 #: src-en/data/blueprints.xml.append:12821
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_slug\"]/short"
-msgstr ""
+msgstr "Слизень"
 
 #: src-en/data/blueprints.xml.append:12826
 msgid ""
@@ -7470,29 +7533,32 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12827
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_slug\"]/powerList/power[2]"
-msgstr ""
+msgstr "Невосприимчив к контролю разума."
 
 #: src-en/data/blueprints.xml.append:12841
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_rock\"]/desc"
 msgstr ""
+"Валуны с Врахоса IV встречаются редко и известны своей стойкостью.\n"
+"\n"
+"Наследует характеристики клона: 0.75x ОЗ"
 
 #: src-en/data/blueprints.xml.append:12844
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_rock\"]/title"
-msgstr ""
+msgstr "Клонированный валун"
 
 #: src-en/data/blueprints.xml.append:12845
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_rock\"]/short"
-msgstr ""
+msgstr "Валун"
 
 #: src-en/data/blueprints.xml.append:12851
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_rock\"]/powerList/power[1]"
-msgstr ""
+msgstr "Невосприимчив к огню"
 
 #: src-en/data/blueprints.xml.append:12852
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_rock\"]/powerList/power[2]"
-msgstr ""
+msgstr "Скорость передвижения уменьшена вдвое"
 
 #: src-en/data/blueprints.xml.append:12853
 msgid ""
