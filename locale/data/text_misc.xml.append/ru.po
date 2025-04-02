@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-04-02 12:44+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -253,13 +253,15 @@ msgstr ""
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_bird\"]"
 msgstr ""
 "Название: Места гнездования ги\n"
-"Тип: Союзник\n"
+"Тип: Союзный\n"
 "Уникальный: Да\n"
 "Доминирующая фракция: Федерация ги\n"
 "Уровень угрозы повстанцев: Средний (Нейтральный флот)\n"
 "Интересные места: Центральный инженерный комплекс\n"
 "    \n"
-"Ги - близкие союзники Федерации. Недавно открытая раса, они еще не успели присоединиться к Федерации, но уже на пути к этому и имеют большое представительство Федерации в секторе."
+"Ги - близкие союзники Федерации. Недавно открытая раса, они еще не успели "
+"присоединиться к Федерации, но уже на пути к этому и имеют большое "
+"представительство Федерации в секторе."
 
 #: src-en/data/text_misc.xml.append:104
 msgid "data/text_misc.xml.append$/dummyroot/FTL/text[46]"
@@ -591,11 +593,13 @@ msgstr ""
 "крейсере Раздор типа A, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_misc.xml.append:181
+#, fuzzy
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_unlock\"]"
 msgstr "Скоро."
 
 #: src-en/data/text_misc.xml.append:182
+#, fuzzy
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_2_unlock\"]"
 msgstr ""
@@ -603,11 +607,12 @@ msgstr ""
 "корабль."
 
 #: src-en/data/text_misc.xml.append:183
+#, fuzzy
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_3_unlock\"]"
 msgstr ""
-"Доберитесь до сектора 5 на крейсере ??? типа Б или пройдите игру на крейсере"
-" ??? типа А, чтобы разблокировать этот корабль."
+"Доберитесь до сектора 5 на крейсере ??? типа Б или пройдите игру на крейсере "
+"??? типа А, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_misc.xml.append:185
 msgid ""
@@ -644,6 +649,7 @@ msgstr ""
 "A, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_misc.xml.append:192
+#, fuzzy
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BROADSIDE_unlock\"]"
 msgstr "Скоро."
