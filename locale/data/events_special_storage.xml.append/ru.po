@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-02 15:05+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-04-03 08:52+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -53,7 +53,7 @@ msgstr "Оружие секты."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "Артиллерия Броадсайд."
 
 #: src-en/data/events_special_storage.xml.append:36
 msgid ""
@@ -66,35 +66,37 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_CRYSTAL_SABOTAGE\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Вы не можете установить эту лабораторную модификацию, так как у вас все еще "
+"есть внешняя версия."
 
 #: src-en/data/events_special_storage.xml.append:52
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELDS\"]/text"
-msgstr ""
+msgstr "Какое улучшение вы хотите установить?"
 
 #: src-en/data/events_special_storage.xml.append:54
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELDS\"]/choice[@req=\"UPG_AEA_SUPER_SHIELD_OVERCHARGER\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Вспомогательный нагнетатель. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:58
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELDS\"]/choice[@req=\"UPG_AEA_SUPER_SHIELD_OVERCHARGER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Вспомогательный нагнетатель. [Цена: 50~, 1{]"
 
 #: src-en/data/events_special_storage.xml.append:62
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELDS\"]/choice[@req=\"UPG_AEA_SUPER_SHIELD_LINKER\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Синхронизация компьютеров. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:66
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELDS\"]/choice[@req=\"UPG_AEA_SUPER_SHIELD_LINKER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Синхронизация компьютеров [Цена: 35~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:70
 msgid ""
@@ -105,7 +107,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_LINKER\"]/text"
 msgstr ""
-"Вы хотите добавить модификацию Компьютерная синхронизация.\n"
+"Вы хотите добавить модификацию Синхронизация компьютеров.\n"
 "\t[Эффекты: Нахождение в отсеке Вспомогательных щитов увеличивает "
 "эффективность системы Щитов на 50%, а нахождение в отсеке Щитов увеличивает "
 "эффективность Вспомогательных щитов на 50%]"
@@ -128,7 +130,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:92
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_LINKER\"]/choice[@req=\"EX_AEA_SUPER_SHIELD_LINKER\"]/text"
-msgstr ""
+msgstr "Преобразовать внешний модуль во внутренний."
 
 #: src-en/data/events_special_storage.xml.append:94
 msgid ""
@@ -149,6 +151,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_OVERCHARGER\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию Вспомогательный нагнетатель.\n"
+"\t[Эффекты: Дает все слои суперщита, которые система может генерировать при "
+"прыжке]"
 
 #: src-en/data/events_special_storage.xml.append:117
 msgid ""
@@ -168,7 +173,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:131
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_OVERCHARGER\"]/choice[@req=\"EX_AEA_SUPER_SHIELD_OVERCHARGER\"]/text"
-msgstr ""
+msgstr "Преобразовать внешний модуль во внутренний."
 
 #: src-en/data/events_special_storage.xml.append:133
 msgid ""
@@ -349,7 +354,7 @@ msgstr "Отключить горячие клавиши для системы �
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Включить горячие клавиши для системы Вспомогательных щитов."
 
 #: src-en/data/events_special_storage.xml.append:326
 msgid ""
