@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-04-02 12:44+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -149,7 +149,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:117
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_OVERCHARGER\"]/choice[1]/text"
-msgstr "Установить улучшение. [Цена: 50~]."
+msgstr "Установить улучшение. [Цена: 50~, 1{]"
 
 #: src-en/data/events_special_storage.xml.append:119
 msgid ""
@@ -336,20 +336,22 @@ msgid ""
 msgstr "(Родные миры Кислотного роста)."
 
 #: src-en/data/events_special_storage.xml.append:311
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
-"(Защитный дрон Еретиков мод. I) Настроить режим дрона. [Текущий режим: "
-"Противоракетный]."
+"(Защитный дрон Еретиков мод. I) Настроить режим дрона. "
+"[Текущий режим: Противоракетный]."
 
 #: src-en/data/events_special_storage.xml.append:318
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
 msgstr ""
-"(Защитный дрон Еретиков мод. I) Настроить режим дрона. [Текущий режим: Анти-"
-"дрон]."
+"(Защитный дрон Еретиков мод. I) Настроить режим дрона. "
+"[Текущий режим: Анти-дрон]."
 
 #: src-en/data/events_special_storage.xml.append:326
 msgid ""
