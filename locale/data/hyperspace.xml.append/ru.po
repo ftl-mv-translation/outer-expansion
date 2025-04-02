@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-02 15:05+0000\n"
+"PO-Revision-Date: 2025-04-03 08:52+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datahyperspace-xml-append/ru/>\n"
@@ -113,6 +113,11 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[12]/tooltip"
 msgstr ""
+"Броня осколкорожденных:\n"
+"Каждый раз, когда вы наносите этому противнику урон по корпусу своим "
+"оружием, есть 25% шанс, что от него отколется осколок и полетит в сторону "
+"вашего корабля. Он не пробивает щиты, но при попадании наносит 1 ед. урона "
+"случайному отсеку."
 
 #: src-en/data/hyperspace.xml.append:98
 msgid ""
@@ -224,7 +229,7 @@ msgstr "Скорбь"
 
 #: src-en/data/hyperspace.xml.append:1241
 msgid "data/hyperspace.xml.append$//aea_shard_dawn[@name=\"King Onyx\"]/@name"
-msgstr ""
+msgstr "Король Оникс"
 
 #: src-en/data/hyperspace.xml.append:1335
 msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Sylvan\"]/@name"
@@ -1577,19 +1582,19 @@ msgstr "Кислотный транспорт"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/secretDescription"
-msgstr ""
+msgstr "Получить добычу из транспорта кислотных."
 
 #: src-en/data/hyperspace.xml.append:8265
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/description"
-msgstr ""
+msgstr "Получить Залповую кислоту из добычи кислотного транспорта."
 
 #: src-en/data/hyperspace.xml.append:8267
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/header"
-msgstr ""
+msgstr "Полученная добыча"
 
 #: src-en/data/hyperspace.xml.append:8270
 msgid ""
@@ -1601,43 +1606,43 @@ msgstr "Транспорт Еретиков"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/secretDescription"
-msgstr ""
+msgstr "Получить добычу из транспорта Еретиков."
 
 #: src-en/data/hyperspace.xml.append:8272
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/description"
-msgstr ""
+msgstr "Получить Осколочный лазер мод. II из транспорта Еретиков."
 
 #: src-en/data/hyperspace.xml.append:8274
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/header"
-msgstr ""
+msgstr "Полученная добыча"
 
 #: src-en/data/hyperspace.xml.append:8277
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/name"
-msgstr ""
+msgstr "Транспорт Вампсорняков-сектантов"
 
 #: src-en/data/hyperspace.xml.append:8278
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/secretDescription"
-msgstr ""
+msgstr "Получить добычу из транспорта Вампсорняков-сектантов."
 
 #: src-en/data/hyperspace.xml.append:8279
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/description"
-msgstr ""
+msgstr "Получить Заклинающий споромет из транспорта Вампсорняков-сектантов."
 
 #: src-en/data/hyperspace.xml.append:8281
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/header"
-msgstr ""
+msgstr "Полученная добыча"
 
 #: src-en/data/hyperspace.xml.append:8284
 msgid ""
@@ -1649,67 +1654,68 @@ msgstr "Транспорт ги"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/secretDescription"
-msgstr ""
+msgstr "Получить добычу из транспорта ги."
 
 #: src-en/data/hyperspace.xml.append:8286
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/description"
-msgstr ""
+msgstr "Получить Дрон-близнец из транспорта ги."
 
 #: src-en/data/hyperspace.xml.append:8288
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/header"
-msgstr ""
+msgstr "Полученная добыча"
 
 #: src-en/data/hyperspace.xml.append:8291
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/name"
-msgstr ""
+msgstr "Транспорт Анархистов"
 
 #: src-en/data/hyperspace.xml.append:8292
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/secretDescription"
-msgstr ""
+msgstr "Получить добычу из транспорта Анархистов."
 
 #: src-en/data/hyperspace.xml.append:8293
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/description"
-msgstr ""
+msgstr "Получить ракетную установка \"Гипноз\" из транспорта Анархистов."
 
 #: src-en/data/hyperspace.xml.append:8295
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/header"
-msgstr ""
+msgstr "Полученная добыча"
 
 #: src-en/data/hyperspace.xml.append:8298
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/name"
-msgstr ""
+msgstr "Транспорт осколкорожденных"
 
 #: src-en/data/hyperspace.xml.append:8299
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/secretDescription"
-msgstr ""
+msgstr "Получить добычу из транспорта осколкорожденных."
 
 #: src-en/data/hyperspace.xml.append:8300
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/description"
 msgstr ""
+"Получить Элитный залповый кристалл мод. II из транспорта осколкорожденных."
 
 #: src-en/data/hyperspace.xml.append:8302
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/header"
-msgstr ""
+msgstr "Полученная добыча"
 
 #: src-en/data/hyperspace.xml.append:8305
 msgid ""
@@ -1721,31 +1727,31 @@ msgstr "Станция лилмиков"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretName"
-msgstr ""
+msgstr "Секретный транспорт"
 
 #: src-en/data/hyperspace.xml.append:8307
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/description"
-msgstr ""
+msgstr "Получить оружие лилмиков из станции с добычей лилмиков."
 
 #: src-en/data/hyperspace.xml.append:8308
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretDescription"
-msgstr ""
+msgstr "Получить добычу ??? из транспорта с добычей."
 
 #: src-en/data/hyperspace.xml.append:8311
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/header"
-msgstr ""
+msgstr "Полученная добыча"
 
 #: src-en/data/hyperspace.xml.append:8316
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:page/section/@text"
-msgstr ""
+msgstr "Дар Корби II"
 
 #: src-en/data/hyperspace.xml.append:8318
 msgid ""
@@ -1761,8 +1767,10 @@ msgstr "Получите дар дополнительного экраниро�
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/description"
 msgstr ""
+"Показать Корби улучшенную систему Вспомогательных щитов. \n"
+"\t\t\t\tПока действует; добавляет 1 слой энергетического щита после прыжка."
 
 #: src-en/data/hyperspace.xml.append:8322
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/header"
-msgstr ""
+msgstr "Дар получен"
