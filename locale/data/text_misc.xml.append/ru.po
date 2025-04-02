@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-02 12:44+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-04-03 08:52+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -68,11 +68,11 @@ msgstr "КОРАБЛЬ [!]"
 
 #: src-en/data/text_misc.xml.append:17
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shard_palace\"]"
-msgstr ""
+msgstr "ДВОРЕЦ [!]"
 
 #: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shard_auto\"]"
-msgstr ""
+msgstr "АВТО [!]"
 
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_gate\"]"
@@ -179,6 +179,8 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:60
 msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_shard_1\"]"
 msgstr ""
+"ДОБЫЧА ОСКОЛКОРОЖДЕННЫХ\n"
+"Накладывает эффект потери здоровья при попадании в отсек"
 
 #: src-en/data/text_misc.xml.append:63
 msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_old_unknown\"]"
@@ -280,6 +282,19 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:111
 msgid "data/text_misc.xml.append$/dummyroot/FTL/text[47]"
 msgstr ""
+"Название: Дворец осколкорожденных\n"
+"Тип: Дружественный\n"
+"Уникальный: Да\n"
+"Доминирующая фракция: Осколкорожденные пираты\n"
+"Уровень угрозы повстанцев: Низкий\n"
+"Интересные места: Дворец Рассвета\n"
+"\n"
+"Осколкорожденные, хотя и известны как пираты, пользуются большой "
+"популярностью у Федерации и ее союзников. Осколкорожденные существуют со "
+"времен расцвета Империи кристаллинов и зарекомендовали себя как надежные и "
+"достойные союзники для тех, кто может их к себе расположить. Во время "
+"недавнего конфликта между Восстанием и Федерацией осколкорожденные вступили "
+"в союз с Федерацией в борьбе с повстанцами."
 
 #: src-en/data/text_misc.xml.append:120
 msgid ""
@@ -303,12 +318,11 @@ msgstr ""
 "Вампсорняку по поводу определенного артефакта."
 
 #: src-en/data/text_misc.xml.append:123
-#, fuzzy
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_JAY_unlock\"]"
 msgstr ""
-"Чтобы разблокировать этот корабль, обратитесь за советом к определенному "
-"птичьему инженеру по поводу определенного артефакта."
+"Чтобы разблокировать этот корабль, обратитесь за советом к королю пиратов по "
+"поводу определенного артефакта."
 
 #: src-en/data/text_misc.xml.append:124
 msgid ""
@@ -318,12 +332,11 @@ msgstr ""
 "основателей Анархистов по поводу определенного артефакта."
 
 #: src-en/data/text_misc.xml.append:125
-#, fuzzy
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_UNI_unlock\"]"
 msgstr ""
-"Чтобы разблокировать этот корабль, обратитесь за советом к определенному "
-"птичьему инженеру по поводу определенного артефакта."
+"Чтобы разблокировать этот корабль, обратитесь за советом к королю пиратов по "
+"поводу определенного артефакта."
 
 #: src-en/data/text_misc.xml.append:127
 msgid ""
@@ -593,41 +606,43 @@ msgstr ""
 "крейсере Раздор типа A, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_misc.xml.append:181
-#, fuzzy
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_unlock\"]"
-msgstr "Скоро."
+msgstr "Отыщите странный кристаллический автоматический корабль."
 
 #: src-en/data/text_misc.xml.append:182
-#, fuzzy
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_2_unlock\"]"
 msgstr ""
-"Доберитесь до сектора 5 на крейсере ??? типа А, чтобы разблокировать этот "
-"корабль."
+"Доберитесь до сектора 5 на крейсере осколкорожденных типа А, чтобы "
+"разблокировать этот корабль."
 
 #: src-en/data/text_misc.xml.append:183
-#, fuzzy
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_3_unlock\"]"
 msgstr ""
-"Доберитесь до сектора 5 на крейсере ??? типа Б или пройдите игру на крейсере "
-"??? типа А, чтобы разблокировать этот корабль."
+"Доберитесь до сектора 5 на крейсере осколкорожденных типа Б или пройдите "
+"игру на крейсере осколкорожденных типа А, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_misc.xml.append:185
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_AUTO_unlock\"]"
-msgstr ""
+msgstr "Спасите короля из его собственного дворца."
 
 #: src-en/data/text_misc.xml.append:186
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_AUTO_2_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на автоматическом крейсере осколкорожденных типа A, "
+"чтобы разблокировать этот корабль."
 
 #: src-en/data/text_misc.xml.append:187
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_AUTO_3_unlock\"]"
 msgstr ""
+"Доберитесь до сектора 5 на автоматическом крейсере осколкорожденных типа Б "
+"или пройдите игру на автоматическом крейсере осколкорожденных типа A, чтобы "
+"разблокировать этот корабль."
 
 #: src-en/data/text_misc.xml.append:189
 msgid ""
@@ -649,10 +664,11 @@ msgstr ""
 "A, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_misc.xml.append:192
-#, fuzzy
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BROADSIDE_unlock\"]"
-msgstr "Скоро."
+msgstr ""
+"Из ближайших к Узлу 17 секторов (сектор 7) поступают сообщения о странном "
+"корабле повстанцев, наблюдающем за их флотом."
 
 #: src-en/data/text_misc.xml.append:193
 msgid ""
