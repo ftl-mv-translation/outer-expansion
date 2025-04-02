@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-02 12:44+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-04-02 15:05+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -59,7 +59,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Вспомогательные щиты."
 
 #: src-en/data/events_special_storage.xml.append:46
 msgid ""
@@ -105,6 +105,10 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_LINKER\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию Компьютерная синхронизация.\n"
+"\t[Эффекты: Нахождение в отсеке Вспомогательных щитов увеличивает "
+"эффективность системы Щитов на 50%, а нахождение в отсеке Щитов увеличивает "
+"эффективность Вспомогательных щитов на 50%]"
 
 #: src-en/data/events_special_storage.xml.append:78
 msgid ""
@@ -339,7 +343,7 @@ msgstr "(Родные миры Кислотного роста)."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Отключить горячие клавиши для системы Вспомогательных щитов."
 
 #: src-en/data/events_special_storage.xml.append:318
 #, fuzzy
