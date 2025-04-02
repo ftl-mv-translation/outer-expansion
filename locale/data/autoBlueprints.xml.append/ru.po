@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-02 12:44+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataautoblueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/autoBlueprints.xml.append:1049
 msgid ""
@@ -521,51 +529,61 @@ msgid ""
 msgstr ""
 
 #: src-en/data/autoBlueprints.xml.append:4702
+#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_SCOUT\"]/class"
 msgstr "Ломатель Осколков-разведчик"
 
 #: src-en/data/autoBlueprints.xml.append:4726
+#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_OUTRIDER\"]/class"
 msgstr "Ломатель Осколков-следопыт"
 
 #: src-en/data/autoBlueprints.xml.append:4753
+#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_FIGHTER\"]/class"
 msgstr "Ломатель Осколков-истребитель"
 
 #: src-en/data/autoBlueprints.xml.append:4778
+#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_ENFORCER\"]/class"
 msgstr "Ломатель Осколков-силовик"
 
 #: src-en/data/autoBlueprints.xml.append:4803
+#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_BOMBER\"]/class"
 msgstr "Ломатель Осколков-бомбардировщик"
 
 #: src-en/data/autoBlueprints.xml.append:4828
+#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_ASSAULT\"]/class"
 msgstr "Ломатель Осколков-штурмовик"
 
 #: src-en/data/autoBlueprints.xml.append:4854
+#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_TRANSPORT\"]/class"
 msgstr "Ломатель Осколков-транспорт"
 
 #: src-en/data/autoBlueprints.xml.append:4881
+#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_STATION\"]/class"
 msgstr "Станция Ломателей Осколков"
 
 #: src-en/data/autoBlueprints.xml.append:4906
+#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_TRAPPER\"]/class"
 msgstr "Ломатель Осколков-минер"
 
 #: src-en/data/autoBlueprints.xml.append:4932
+#, fuzzy
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AEA_SHARD_GUARD\"]/class"
 msgstr "Ломатель Осколков-страж"
