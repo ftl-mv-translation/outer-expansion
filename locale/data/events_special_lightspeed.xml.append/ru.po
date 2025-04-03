@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-03 08:52+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_special_lightspeedxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_lightspeed.xml.append:4
 msgid ""
@@ -69,13 +77,13 @@ msgstr "Перейти в Центральную туманность Анарх
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU\"]/mod-"
 "append:choice[11]/text"
-msgstr "Перейти в Ядро лилмиков."
+msgstr "Перейти сектор осколкорожденных."
 
 #: src-en/data/events_special_lightspeed.xml.append:48
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU\"]/mod-"
 "append:choice[12]/text"
-msgstr ""
+msgstr "Перейти в Дворец осколкорожденных."
 
 #: src-en/data/events_special_lightspeed.xml.append:52
 msgid ""
@@ -147,13 +155,13 @@ msgstr "Перейти в Центральную туманность Анарх
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[11]/text"
-msgstr "Перейти в Ядро лилмиков."
+msgstr "Перейти сектор осколкорожденных."
 
 #: src-en/data/events_special_lightspeed.xml.append:103
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[12]/text"
-msgstr ""
+msgstr "Перейти в Дворец осколкорожденных."
 
 #: src-en/data/events_special_lightspeed.xml.append:107
 msgid ""
@@ -207,7 +215,7 @@ msgstr "Перейти в Центральную туманность Анарх
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "Перейти в Дворец осколкорожденных."
 
 #: src-en/data/events_special_lightspeed.xml.append:168
 msgid ""
@@ -260,8 +268,8 @@ msgstr "Продолжить прыжок."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AEA_BILL\"]/choice[1]/event/text"
 msgstr ""
-"Вы готовитесь прыгнуть по новым координатам и меняете маршрут корабля "
-"соответствующим образом."
+"Вы готовитесь прыгнуть по новым координатам и соответствующим образом "
+"меняете маршрут полета."
 
 #: src-en/data/events_special_lightspeed.xml.append:219
 msgid ""
@@ -282,8 +290,8 @@ msgstr "Продолжить прыжок."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AEA_BILL_HAT\"]/choice[1]/event/text"
 msgstr ""
-"Вы готовитесь прыгнуть по новым координатам и меняете маршрут корабля "
-"соответствующим образом."
+"Вы готовитесь прыгнуть по новым координатам и соответствующим образом "
+"меняете маршрут полета."
 
 #: src-en/data/events_special_lightspeed.xml.append:241
 msgid ""
@@ -304,8 +312,8 @@ msgstr "Продолжить прыжок."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AEA_BILL_BOSS\"]/choice[1]/event/text"
 msgstr ""
-"Вы готовитесь прыгнуть по новым координатам и меняете маршрут корабля "
-"соответствующим образом."
+"Вы готовитесь прыгнуть по новым координатам и соответствующим образом "
+"меняете маршрут полета."
 
 #: src-en/data/events_special_lightspeed.xml.append:264
 msgid ""
@@ -368,8 +376,8 @@ msgstr "Продолжить прыжок."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AEA_NECRO_HAT\"]/choice[1]/event/text"
 msgstr ""
-"Вы готовитесь прыгнуть по новым координатам и меняете маршрут корабля "
-"соответствующим образом."
+"Вы готовитесь прыгнуть по новым координатам и соответствующим образом "
+"меняете маршрут полета."
 
 #: src-en/data/events_special_lightspeed.xml.append:346
 msgid ""
@@ -432,8 +440,8 @@ msgstr "Продолжить прыжок."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AEA_CULT_HAT\"]/choice[1]/event/text"
 msgstr ""
-"Вы готовитесь прыгнуть по новым координатам и меняете маршрут корабля "
-"соответствующим образом."
+"Вы готовитесь прыгнуть по новым координатам и соответствующим образом "
+"меняете маршрут полета."
 
 #: src-en/data/events_special_lightspeed.xml.append:429
 msgid ""
@@ -496,8 +504,8 @@ msgstr "Продолжить прыжок."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AEA_BIRD_HAT\"]/choice[1]/event/text"
 msgstr ""
-"Вы готовитесь прыгнуть по новым координатам и меняете маршрут корабля "
-"соответствующим образом."
+"Вы готовитесь прыгнуть по новым координатам и соответствующим образом "
+"меняете маршрут полета."
 
 #: src-en/data/events_special_lightspeed.xml.append:512
 msgid ""
@@ -560,8 +568,8 @@ msgstr "Продолжить прыжок."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AEA_SHLEG_HAT\"]/choice[1]/event/text"
 msgstr ""
-"Вы готовитесь прыгнуть по новым координатам и меняете маршрут корабля "
-"соответствующим образом."
+"Вы готовитесь прыгнуть по новым координатам и соответствующим образом "
+"меняете маршрут полета."
 
 #: src-en/data/events_special_lightspeed.xml.append:595
 msgid ""
@@ -582,6 +590,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"AEA_SHARD_WARP\"]/text"
 msgstr ""
+"Название: Сектор контролируемый осколкорожденными\n"
+"Тип: Дружественный\n"
+"Уникальный: Нет\n"
+"Доминирующая фракция: Осколкорожденные пираты\n"
+"Уровень угрозы повстанцев: Средний-низкий\n"
+"\n"
+"Осколкорожденные, хотя и известны как пираты, пользуются большой "
+"популярностью у Федерации и ее союзников. Осколкорожденные существуют со "
+"времен расцвета Империи кристаллинов и зарекомендовали себя как надежные и "
+"достойные союзники для тех, кто может их к себе расположить. Во время "
+"недавнего конфликта между Восстанием и Федерацией осколкорожденные вступили "
+"в союз с Федерацией в борьбе с повстанцами."
 
 #: src-en/data/events_special_lightspeed.xml.append:640
 msgid ""
@@ -617,8 +637,8 @@ msgstr "Продолжить прыжок."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_AEA_SHARD_HAT\"]/choice[1]/event/text"
 msgstr ""
-"Вы готовитесь прыгнуть по новым координатам и меняете маршрут корабля "
-"соответствующим образом."
+"Вы готовитесь прыгнуть по новым координатам и соответствующим образом "
+"меняете маршрут полета."
 
 #: src-en/data/events_special_lightspeed.xml.append:678
 msgid ""
