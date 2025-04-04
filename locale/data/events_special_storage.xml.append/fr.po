@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-04 12:40+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_special_storagexmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -228,8 +235,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_COMMUNION\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Vous devez disposer de l'amélioration du laboratoire pour cette "
-"modification."
+"Vous devez disposer de l'amélioration du laboratoire pour cette modification."
 
 #: src-en/data/events_special_storage.xml.append:208
 #, fuzzy
