@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-04 12:49+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Italian <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/datahyperspace-xml-append/it/>\n"
-"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/hyperspace.xml.append:33
 msgid ""
@@ -1221,316 +1214,328 @@ msgid ""
 "append:race[@name=\"aea_shard_dawn\"]/powerEffect/tooltip"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:7589
+#: src-en/data/hyperspace.xml.append:6015
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"aea_dark_justicier\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:6016
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"aea_dark_justicier\"]/powerEffect/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:7617
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:7590
+#: src-en/data/hyperspace.xml.append:7618
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:7592
+#: src-en/data/hyperspace.xml.append:7620
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/secretName"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:7593
+#: src-en/data/hyperspace.xml.append:7621
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:7813
+#: src-en/data/hyperspace.xml.append:7841
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[1]/customTitle"
 msgstr "ARMI DEL GIORNO [SALDI 33%]"
 
-#: src-en/data/hyperspace.xml.append:7833
+#: src-en/data/hyperspace.xml.append:7861
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[2]/customTitle"
 msgstr "DRONI DEL GIORNO [SALDI 33%]"
 
-#: src-en/data/hyperspace.xml.append:7853
+#: src-en/data/hyperspace.xml.append:7881
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[3]/customTitle"
 msgstr "ACCESSORI DEL GIORNO [SALDI 33%]"
 
-#: src-en/data/hyperspace.xml.append:7893
+#: src-en/data/hyperspace.xml.append:7921
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[7]/customTitle"
 msgstr "EQUIPAGGIO"
 
-#: src-en/data/hyperspace.xml.append:7901
+#: src-en/data/hyperspace.xml.append:7929
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[8]/customTitle"
 msgstr "SISTEMI ESSENZIALI"
 
-#: src-en/data/hyperspace.xml.append:7919
+#: src-en/data/hyperspace.xml.append:7947
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[9]/customTitle"
 msgstr "SISTEMI AUSILIARI"
 
-#: src-en/data/hyperspace.xml.append:8015
+#: src-en/data/hyperspace.xml.append:8043
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[1]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:8030
+#: src-en/data/hyperspace.xml.append:8058
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[2]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:8045
+#: src-en/data/hyperspace.xml.append:8073
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[3]/customTitle"
 msgstr "SISTEMI ESSENZIALI"
 
-#: src-en/data/hyperspace.xml.append:8063
+#: src-en/data/hyperspace.xml.append:8091
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[4]/customTitle"
 msgstr "SISTEMI AUSILIARI"
 
-#: src-en/data/hyperspace.xml.append:8096
+#: src-en/data/hyperspace.xml.append:8124
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[1]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:8115
+#: src-en/data/hyperspace.xml.append:8143
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[2]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:8134
+#: src-en/data/hyperspace.xml.append:8162
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[3]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:8167
+#: src-en/data/hyperspace.xml.append:8195
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[6]/customTitle"
 msgstr "EQUIPAGGIO"
 
-#: src-en/data/hyperspace.xml.append:8185
+#: src-en/data/hyperspace.xml.append:8213
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[8]/customTitle"
 msgstr "SISTEMI ESSENZIALI"
 
-#: src-en/data/hyperspace.xml.append:8203
+#: src-en/data/hyperspace.xml.append:8231
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[9]/customTitle"
 msgstr "SISTEMI AUSILIARI"
 
-#: src-en/data/hyperspace.xml.append:8219
+#: src-en/data/hyperspace.xml.append:8247
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_COMMUNION\"]/category[1]/customTitle"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:8238
+#: src-en/data/hyperspace.xml.append:8266
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_COMMUNION\"]/category[2]/customTitle"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8263
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/name"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8264
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/secretDescription"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8265
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/description"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8267
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/header"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8270
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/name"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8271
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/secretDescription"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8272
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/description"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8274
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/header"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8277
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/name"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8278
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/secretDescription"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8279
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/description"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8281
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/header"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8284
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/name"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8285
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/secretDescription"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8286
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/description"
-msgstr ""
-
-#: src-en/data/hyperspace.xml.append:8288
-msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/header"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:8291
 msgid ""
 "data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/name"
+"append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:8292
 msgid ""
 "data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/secretDescription"
+"append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:8293
 msgid ""
 "data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/description"
+"append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:8295
 msgid ""
 "data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/header"
+"append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/header"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:8298
 msgid ""
 "data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/name"
+"append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:8299
 msgid ""
 "data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/secretDescription"
+"append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:8300
 msgid ""
 "data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/description"
+"append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/description"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:8302
 msgid ""
 "data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/header"
+"append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/header"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:8305
 msgid ""
 "data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/name"
+"append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/name"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:8306
 msgid ""
 "data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretName"
+"append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/secretDescription"
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:8307
 msgid ""
 "data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8309
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8312
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8313
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8314
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8316
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8319
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8320
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8321
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8323
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8326
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8327
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8328
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8330
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8333
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8334
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretName"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:8335
+msgid ""
+"data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:8308
+#: src-en/data/hyperspace.xml.append:8336
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:8311
+#: src-en/data/hyperspace.xml.append:8339
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/header"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:8316
+#: src-en/data/hyperspace.xml.append:8344
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:page/section/@text"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:8318
+#: src-en/data/hyperspace.xml.append:8346
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/name"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:8319
+#: src-en/data/hyperspace.xml.append:8347
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/secretDescription"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:8320
+#: src-en/data/hyperspace.xml.append:8348
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/description"
 msgstr ""
 
-#: src-en/data/hyperspace.xml.append:8322
+#: src-en/data/hyperspace.xml.append:8350
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/header"
 msgstr ""

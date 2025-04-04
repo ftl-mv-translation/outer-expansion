@@ -1440,319 +1440,331 @@ msgstr ""
 "\t\t\t\tEnemy crew in the room take 10 damage per second.\n"
 "\t\t\t\tCannot attack enemy crew for the duration."
 
-#: src-en/data/hyperspace.xml.append:7589
+#: src-en/data/hyperspace.xml.append:6015
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"aea_dark_justicier\"]/powerEffect/buttonText"
+msgstr "RITUAL"
+
+#: src-en/data/hyperspace.xml.append:6016
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"aea_dark_justicier\"]/powerEffect/tooltip"
+msgstr "Perform a dark ritual, sacrifice a number of crew to perform it."
+
+#: src-en/data/hyperspace.xml.append:7617
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/name"
 msgstr "\\1 Quarantine Ending"
 
-#: src-en/data/hyperspace.xml.append:7590
+#: src-en/data/hyperspace.xml.append:7618
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/description"
 msgstr "Escape Lylmik Quarantine aboard any layout of the \\1"
 
-#: src-en/data/hyperspace.xml.append:7592
+#: src-en/data/hyperspace.xml.append:7620
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/secretName"
 msgstr "\\1 ????? Ending"
 
-#: src-en/data/hyperspace.xml.append:7593
+#: src-en/data/hyperspace.xml.append:7621
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/secretDescription"
 msgstr "Escape the clutches of a powerful race aboard any layout of the \\1"
 
-#: src-en/data/hyperspace.xml.append:7813
+#: src-en/data/hyperspace.xml.append:7841
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[1]/customTitle"
 msgstr "WEAPONS OF THE DAY [33% OFF]"
 
-#: src-en/data/hyperspace.xml.append:7833
+#: src-en/data/hyperspace.xml.append:7861
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[2]/customTitle"
 msgstr "DRONES OF THE DAY [33% OFF]"
 
-#: src-en/data/hyperspace.xml.append:7853
+#: src-en/data/hyperspace.xml.append:7881
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[3]/customTitle"
 msgstr "AUGMENTS OF THE DAY [33% OFF]"
 
-#: src-en/data/hyperspace.xml.append:7893
+#: src-en/data/hyperspace.xml.append:7921
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[7]/customTitle"
 msgstr "DECKHANDS"
 
-#: src-en/data/hyperspace.xml.append:7901
+#: src-en/data/hyperspace.xml.append:7929
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[8]/customTitle"
 msgstr "ESSENTIAL SYSTEMS"
 
-#: src-en/data/hyperspace.xml.append:7919
+#: src-en/data/hyperspace.xml.append:7947
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[9]/customTitle"
 msgstr "AUXILIARY SYSTEMS"
 
-#: src-en/data/hyperspace.xml.append:8015
+#: src-en/data/hyperspace.xml.append:8043
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[1]/customTitle"
 msgstr "CLEARANCE SALE [25% OFF]"
 
-#: src-en/data/hyperspace.xml.append:8030
+#: src-en/data/hyperspace.xml.append:8058
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[2]/customTitle"
 msgstr "CLEARANCE SALE [25% OFF]"
 
-#: src-en/data/hyperspace.xml.append:8045
+#: src-en/data/hyperspace.xml.append:8073
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[3]/customTitle"
 msgstr "ESSENTIAL SYSTEMS"
 
-#: src-en/data/hyperspace.xml.append:8063
+#: src-en/data/hyperspace.xml.append:8091
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[4]/customTitle"
 msgstr "AUXILIARY SYSTEMS"
 
-#: src-en/data/hyperspace.xml.append:8096
+#: src-en/data/hyperspace.xml.append:8124
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[1]/customTitle"
 msgstr "SPELLS"
 
-#: src-en/data/hyperspace.xml.append:8115
+#: src-en/data/hyperspace.xml.append:8143
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[2]/customTitle"
 msgstr "SPELLS"
 
-#: src-en/data/hyperspace.xml.append:8134
+#: src-en/data/hyperspace.xml.append:8162
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[3]/customTitle"
 msgstr "CULT WIZARDS"
 
-#: src-en/data/hyperspace.xml.append:8167
+#: src-en/data/hyperspace.xml.append:8195
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[6]/customTitle"
 msgstr "DECKHANDS"
 
-#: src-en/data/hyperspace.xml.append:8185
+#: src-en/data/hyperspace.xml.append:8213
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[8]/customTitle"
 msgstr "ESSENTIAL SYSTEMS"
 
-#: src-en/data/hyperspace.xml.append:8203
+#: src-en/data/hyperspace.xml.append:8231
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[9]/customTitle"
 msgstr "AUXILIARY SYSTEMS"
 
-#: src-en/data/hyperspace.xml.append:8219
+#: src-en/data/hyperspace.xml.append:8247
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_COMMUNION\"]/category[1]/customTitle"
 msgstr "SPELLS"
 
-#: src-en/data/hyperspace.xml.append:8238
+#: src-en/data/hyperspace.xml.append:8266
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_COMMUNION\"]/category[2]/customTitle"
 msgstr "SPELLS"
 
-#: src-en/data/hyperspace.xml.append:8263
+#: src-en/data/hyperspace.xml.append:8291
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/name"
 msgstr "Acidic Transport"
 
-#: src-en/data/hyperspace.xml.append:8264
+#: src-en/data/hyperspace.xml.append:8292
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/secretDescription"
 msgstr "Obtain the loot from the Acidic loot transport."
 
-#: src-en/data/hyperspace.xml.append:8265
+#: src-en/data/hyperspace.xml.append:8293
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/description"
 msgstr "Obtain the Acidic Barrage from the Acidic loot transport."
 
-#: src-en/data/hyperspace.xml.append:8267
+#: src-en/data/hyperspace.xml.append:8295
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/header"
 msgstr "Loot Acquired"
 
-#: src-en/data/hyperspace.xml.append:8270
+#: src-en/data/hyperspace.xml.append:8298
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/name"
 msgstr "Heretic Transport"
 
-#: src-en/data/hyperspace.xml.append:8271
+#: src-en/data/hyperspace.xml.append:8299
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/secretDescription"
 msgstr "Obtain the loot from the Heretic loot transport."
 
-#: src-en/data/hyperspace.xml.append:8272
+#: src-en/data/hyperspace.xml.append:8300
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/description"
 msgstr "Obtain the Shatter Laser II from the Heretic loot transport."
 
-#: src-en/data/hyperspace.xml.append:8274
+#: src-en/data/hyperspace.xml.append:8302
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/header"
 msgstr "Loot Acquired"
 
-#: src-en/data/hyperspace.xml.append:8277
+#: src-en/data/hyperspace.xml.append:8305
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/name"
 msgstr "Vampweed Cultist Transport"
 
-#: src-en/data/hyperspace.xml.append:8278
+#: src-en/data/hyperspace.xml.append:8306
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/secretDescription"
 msgstr "Obtain the loot from the Vampweed Cultist loot transport."
 
-#: src-en/data/hyperspace.xml.append:8279
+#: src-en/data/hyperspace.xml.append:8307
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/description"
 msgstr "Obtain the Spellspore from the Vampweed Cultist loot transport."
 
-#: src-en/data/hyperspace.xml.append:8281
+#: src-en/data/hyperspace.xml.append:8309
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/header"
 msgstr "Loot Acquired"
 
-#: src-en/data/hyperspace.xml.append:8284
+#: src-en/data/hyperspace.xml.append:8312
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/name"
 msgstr "Gi Transport"
 
-#: src-en/data/hyperspace.xml.append:8285
+#: src-en/data/hyperspace.xml.append:8313
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/secretDescription"
 msgstr "Obtain the loot from the Gi loot transport."
 
-#: src-en/data/hyperspace.xml.append:8286
+#: src-en/data/hyperspace.xml.append:8314
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/description"
 msgstr "Obtain the Twin Drone from the Gi loot transport."
 
-#: src-en/data/hyperspace.xml.append:8288
+#: src-en/data/hyperspace.xml.append:8316
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/header"
 msgstr "Loot Acquired"
 
-#: src-en/data/hyperspace.xml.append:8291
+#: src-en/data/hyperspace.xml.append:8319
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/name"
 msgstr "Anarchist Transport"
 
-#: src-en/data/hyperspace.xml.append:8292
+#: src-en/data/hyperspace.xml.append:8320
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/secretDescription"
 msgstr "Obtain the loot from the Anarchist loot transport."
 
-#: src-en/data/hyperspace.xml.append:8293
+#: src-en/data/hyperspace.xml.append:8321
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/description"
 msgstr "Obtain the 'Hypnos' Missile from the Anarchist loot transport."
 
-#: src-en/data/hyperspace.xml.append:8295
+#: src-en/data/hyperspace.xml.append:8323
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/header"
 msgstr "Loot Acquired"
 
-#: src-en/data/hyperspace.xml.append:8298
+#: src-en/data/hyperspace.xml.append:8326
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/name"
 msgstr "Shard-Forged Transport"
 
-#: src-en/data/hyperspace.xml.append:8299
+#: src-en/data/hyperspace.xml.append:8327
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/secretDescription"
 msgstr "Obtain the loot from the Shard-Forged loot transport."
 
-#: src-en/data/hyperspace.xml.append:8300
+#: src-en/data/hyperspace.xml.append:8328
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/description"
 msgstr ""
 "Obtain the Elite Crystal Burst MK II from the Shard-Forged loot transport."
 
-#: src-en/data/hyperspace.xml.append:8302
+#: src-en/data/hyperspace.xml.append:8330
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/header"
 msgstr "Loot Acquired"
 
-#: src-en/data/hyperspace.xml.append:8305
+#: src-en/data/hyperspace.xml.append:8333
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/name"
 msgstr "Lylmik Station"
 
-#: src-en/data/hyperspace.xml.append:8306
+#: src-en/data/hyperspace.xml.append:8334
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretName"
 msgstr "Secret Transport"
 
-#: src-en/data/hyperspace.xml.append:8307
+#: src-en/data/hyperspace.xml.append:8335
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/description"
 msgstr "Obtain a Lylmik weapon from the Lylmik loot station."
 
-#: src-en/data/hyperspace.xml.append:8308
+#: src-en/data/hyperspace.xml.append:8336
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretDescription"
 msgstr "Obtain the loot from the ??? loot transport."
 
-#: src-en/data/hyperspace.xml.append:8311
+#: src-en/data/hyperspace.xml.append:8339
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/header"
 msgstr "Loot Acquired"
 
-#: src-en/data/hyperspace.xml.append:8316
+#: src-en/data/hyperspace.xml.append:8344
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[8]/mod-"
 "append:page/section/@text"
 msgstr "Corby's Grants II"
 
-#: src-en/data/hyperspace.xml.append:8318
+#: src-en/data/hyperspace.xml.append:8346
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/name"
 msgstr "Grant of Auxiliary Shielding"
 
-#: src-en/data/hyperspace.xml.append:8319
+#: src-en/data/hyperspace.xml.append:8347
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/secretDescription"
 msgstr "Receive the Grant of Auxiliary Shielding from Corby."
 
-#: src-en/data/hyperspace.xml.append:8320
+#: src-en/data/hyperspace.xml.append:8348
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/description"
 msgstr ""
 "Show an upgraded Auxiliary Shields System to Corby. \n"
 "\t\t\t\tWhile in effect; Add 1 energy shield layer after jump."
 
-#: src-en/data/hyperspace.xml.append:8322
+#: src-en/data/hyperspace.xml.append:8350
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/header"
 msgstr "Grant Received"

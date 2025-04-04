@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-04 12:48+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: German <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_storagexmlappend/de/>\n"
-"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -179,6 +172,11 @@ msgstr "Fortfahren..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_OVERCHARGER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Doch nicht."
+
+#: src-en/data/events_special_storage.xml.append:154
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ORCHID\"]/mod:findWithChildLike/mod:selector"
+msgstr "Zurückgehen."
 
 #: src-en/data/events_special_storage.xml.append:158
 msgid ""

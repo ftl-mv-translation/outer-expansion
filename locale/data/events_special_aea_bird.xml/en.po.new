@@ -1,0 +1,584 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_aea_bird.xml:15
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[1]"
+msgstr ""
+"You have arrived in Gi space. The Gi may not be part of the federation, "
+"however they're still close allies and firmly against the rebellion. The "
+"Rebellion will still struggle to sneak its way into here."
+
+#: src-en/data/events_special_aea_bird.xml:16
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[2]"
+msgstr ""
+"You have arrived in Gi space. Lots of friendly faces will be here, but there"
+" will be plenty of Rebel scum invading as well."
+
+#: src-en/data/events_special_aea_bird.xml:17
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[3]"
+msgstr ""
+"You have arrived in Gi space. This may be a sector full of allies, but it is"
+" bound to attract plenty of Rebels too."
+
+#: src-en/data/events_special_aea_bird.xml:31
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"START_AEA_BIRD\"]/choice[@req=\"rep_comb_federation\""
+" and @lvl=\"-999\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_bird.xml:35
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"START_AEA_BIRD\"]/choice[@req=\"rep_comb_federation\""
+" and @lvl=\"3\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_bird.xml:41
+msgid "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/text"
+msgstr ""
+"This sector is protected by a combined guard of federation and Gi ships. "
+"Several support ships linger in the background, offering aid to other "
+"friendly ships in the district."
+
+#: src-en/data/events_special_aea_bird.xml:44
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[1]/text"
+msgstr "Request support."
+
+#: src-en/data/events_special_aea_bird.xml:48
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[2]/text"
+msgstr "Attack the guard."
+
+#: src-en/data/events_special_aea_bird.xml:50
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[2]/event/text"
+msgstr ""
+"The guard's captain is shocked that you've turned on them. \"You must be a "
+"Rebel spy! We won't take this lightly!\""
+
+#: src-en/data/events_special_aea_bird.xml:53
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_bird.xml:59
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[3]/text"
+msgstr "Ignore the guard."
+
+#: src-en/data/events_special_aea_bird.xml:61
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[3]/event/text"
+msgstr "You now have some time to do something on the ship."
+
+#: src-en/data/events_special_aea_bird.xml:63
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[3]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_aea_bird.xml:67
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[3]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_aea_bird.xml:75
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/text"
+msgstr ""
+"Something seems off here. Usually, the Gi would certainly not bat an eye at "
+"a ship like yours, but now, you catch suspicious chatter on the guard ship."
+
+#: src-en/data/events_special_aea_bird.xml:77
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_bird.xml:79
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/choice/event/text"
+msgstr ""
+"It seems your track record has caught up to you. The guard's crew have heard"
+" enough of the crimes you've been committing, and they don't intend to let "
+"you into the sector!."
+
+#: src-en/data/events_special_aea_bird.xml:82
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_bird.xml:90
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/text"
+msgstr ""
+"The guard puts you on a secure line with one of the nearby support ships, "
+"who awaits your command."
+
+#: src-en/data/events_special_aea_bird.xml:92
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[1]/text"
+msgstr "Repairs."
+
+#: src-en/data/events_special_aea_bird.xml:94
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[1]/event/text"
+msgstr "Several repair drones are dispatched to repair you."
+
+#: src-en/data/events_special_aea_bird.xml:99
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[2]/text"
+msgstr "Fuel."
+
+#: src-en/data/events_special_aea_bird.xml:101
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[2]/event/text"
+msgstr "A refueling drone is dispatched to refuel your ship."
+
+#: src-en/data/events_special_aea_bird.xml:108
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[3]/text"
+msgstr "Ammo."
+
+#: src-en/data/events_special_aea_bird.xml:110
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[3]/event/text"
+msgstr "A resupply drone is dispatched to resupply your ship."
+
+#: src-en/data/events_special_aea_bird.xml:117
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[4]/text"
+msgstr "Drone parts."
+
+#: src-en/data/events_special_aea_bird.xml:119
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[4]/event/text"
+msgstr "A resupply drone is dispatched to resupply your ship."
+
+#: src-en/data/events_special_aea_bird.xml:134
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DESTROY\"]/text"
+msgstr ""
+"You have defeated the Gi guard. Whatever might have been in their cargo has "
+"for certain been destroyed, but you can at least salvage some supplies from "
+"the ship."
+
+#: src-en/data/events_special_aea_bird.xml:137
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DESTROY\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_bird.xml:142
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DEADCREW\"]/text"
+msgstr ""
+"You have defeated the Gi guard. Without crew on board to stop you, you can "
+"investigate their cargo. You find a weapon to bring back to the ship, and "
+"move on to scrap their hull."
+
+#: src-en/data/events_special_aea_bird.xml:146
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DEADCREW\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_bird.xml:159
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_FOLLOWUP\"]/text"
+msgstr ""
+"By killing the Gi guard, you have no doubt caused them to dispatch "
+"reinforcements to track you down. Watch your step as you explore the sector."
+
+#: src-en/data/events_special_aea_bird.xml:162
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_FOLLOWUP\"]/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_aea_bird.xml:166
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_FOLLOWUP\"]/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_aea_bird.xml:174
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/beaconType/unvisitedTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_bird.xml:175
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_special_aea_bird.xml:176
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_bird.xml:178
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/text"
+msgstr ""
+"You catch sight of a rare Gi Elite, but they don't seem pleased to see you. "
+"The ship moves in to attack, and it doesn't take long for you to realize "
+"this is one of the ships sent by the guards to hunt you down for attacking."
+
+#: src-en/data/events_special_aea_bird.xml:182
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_bird.xml:199
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[1]"
+msgstr ""
+"You have arrived in Gi space. The Gi may not be part of the federation, "
+"however they're still close allies and firmly against the rebellion. The "
+"Rebellion will still struggle to sneak its way into here."
+
+#: src-en/data/events_special_aea_bird.xml:200
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[2]"
+msgstr ""
+"You have arrived in Gi space. Lots of friendly faces will be here, but there"
+" will be plenty of Rebel scum invading as well."
+
+#: src-en/data/events_special_aea_bird.xml:201
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[3]"
+msgstr ""
+"You have arrived in Gi space. This may be a sector full of allies, but it is"
+" bound to attract plenty of Rebels too."
+
+#: src-en/data/events_special_aea_bird.xml:215
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"START_AEA_BIRD_UNIQUE\"]/choice[@req=\"rep_comb_federation\""
+" and @lvl=\"-999\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_bird.xml:219
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"START_AEA_BIRD_UNIQUE\"]/choice[@req=\"rep_comb_federation\""
+" and @lvl=\"3\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_bird.xml:271
+msgid ""
+"data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_TRANSPORT_LOOT\"]/escape/text"
+msgstr "They look like they don't want to fight. They are trying to escape."
+
+#: src-en/data/events_special_aea_bird.xml:282
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_bird.xml:283
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_special_aea_bird.xml:284
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_bird.xml:286
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/text"
+msgstr ""
+"This beacon hosts a Gi transport. It's safe to bet the ship is most likely "
+"carrying some special tech. If you can kill its crew, their cargo will be "
+"yours."
+
+#: src-en/data/events_special_aea_bird.xml:289
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[1]/text"
+msgstr "Demand the surrender of their goods."
+
+#: src-en/data/events_special_aea_bird.xml:291
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[1]/event/text"
+msgstr "You prepare to secure their cargo by force."
+
+#: src-en/data/events_special_aea_bird.xml:294
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_bird.xml:300
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/text"
+msgstr "(Gi or Federation Elite + Good Reputation) Talk to the transport."
+
+#: src-en/data/events_special_aea_bird.xml:302
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/text"
+msgstr ""
+"Your crew speaks to the transport's captain, explaining the importance of "
+"your mission. The transport's captain seems to understand, but also mentions"
+" the cargo they're carrying is vital to that same mission. If you're willing"
+" to pay in compensation, they're willing to make an exception."
+
+#: src-en/data/events_special_aea_bird.xml:304
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[1]/text"
+msgstr "Buy the cargo."
+
+#: src-en/data/events_special_aea_bird.xml:306
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[1]/event/text"
+msgstr ""
+"The transaction is done. With the looks of it, this piece of equipment might"
+" prove useful."
+
+#: src-en/data/events_special_aea_bird.xml:313
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_bird.xml:321
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[2]/text"
+msgstr "Refuse and attack the transport."
+
+#: src-en/data/events_special_aea_bird.xml:323
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[2]/event/text"
+msgstr "You prepare to secure their cargo by force."
+
+#: src-en/data/events_special_aea_bird.xml:326
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_bird.xml:332
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[3]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_aea_bird.xml:334
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[3]/event/text"
+msgstr "The transport captain shrugs and continues on their way."
+
+#: src-en/data/events_special_aea_bird.xml:336
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[3]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_aea_bird.xml:340
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[3]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_aea_bird.xml:348
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[3]/text"
+msgstr "Avoid the ship."
+
+#: src-en/data/events_special_aea_bird.xml:350
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[3]/event/text"
+msgstr "They stay outside your weapons range, and eventually jump away."
+
+#: src-en/data/events_special_aea_bird.xml:352
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[3]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_aea_bird.xml:356
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[3]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_aea_bird.xml:363
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_BIRD\"]/text"
+msgstr ""
+"The crew is dead, leaving you with the ship. Its cargo is yours for the "
+"taking. Aboard is the special tech you expected, which you bring back to "
+"your ship."
+
+#: src-en/data/events_special_aea_bird.xml:382
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[1]"
+msgstr ""
+"\"MAYDAY! MAYDAY! MAY-\" The Federation captain's desperate cry for help is "
+"suddenly silenced by the destruction of their ship."
+
+#: src-en/data/events_special_aea_bird.xml:383
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[2]"
+msgstr ""
+"When future ships come across this wreck, it's likely people will assume "
+"this to be the job of Rebels or Pirates. But the trail will eventually lead "
+"to you."
+
+#: src-en/data/events_special_aea_bird.xml:384
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[3]"
+msgstr ""
+"It's a shame, seeing the brand new models of the Federation dispatched so "
+"quickly. When the Federation pushed to manufacture updated designs, they had"
+" conflict with Rebels in mind... but not necessarily their own hired "
+"Renegades."
+
+#: src-en/data/events_special_aea_bird.xml:385
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[4]"
+msgstr ""
+"You're struck by an eerie feeling as you watch a Federation ship get reduced"
+" to smithereens - but at least it wasn't your's."
+
+#: src-en/data/events_special_aea_bird.xml:386
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[5]"
+msgstr ""
+"One last explosion marks the Federation captain's fate as their ship is torn"
+" apart."
+
+#: src-en/data/events_special_aea_bird.xml:394
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[1]"
+msgstr ""
+"A Federation crew has been downed. As you scrap their hull, you notice their"
+" radios are active, with command calling out to them still trying to "
+"understand what's happening. You mute the radio and continue."
+
+#: src-en/data/events_special_aea_bird.xml:395
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[2]"
+msgstr ""
+"\"Man down, man down! Agh!\" The crewmate's shouts go unheard as he is put "
+"down with the rest of his crew."
+
+#: src-en/data/events_special_aea_bird.xml:396
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[3]"
+msgstr ""
+"\"This death of mine signifies the death of the Federation.\" The dying "
+"captain pauses as someone in the background shouts at him. \"I am NOT "
+"overreacting! God damn it... you just had to ruin my final moments...\""
+
+#: src-en/data/events_special_aea_bird.xml:397
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[4]"
+msgstr ""
+"\"My name will be etched in a memorial for my service to the Multiverse... "
+"yours will be forever inscribed on a watchlist for the criminally "
+"deranged...\""
+
+#: src-en/data/events_special_aea_bird.xml:398
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[5]"
+msgstr ""
+"\"I never even... got my promotion! I'm not ready to die!\" The Federation "
+"captain sobs into their hands as their crew fall one by one, ending with "
+"them."
+
+#: src-en/data/events_special_aea_bird.xml:404
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"SURRENDER_AEA_BIRD\"]/choice[1]/text"
+msgstr "Accept their surrender."
+
+#: src-en/data/events_special_aea_bird.xml:417
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[1]"
+msgstr ""
+"\"Continuing this any further would be madness - we're on the same side!\""
+
+#: src-en/data/events_special_aea_bird.xml:418
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[2]"
+msgstr ""
+"The Federation ship is in tatters. You could probably negotiate their "
+"surrender at this point."
+
+#: src-en/data/events_special_aea_bird.xml:419
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[3]"
+msgstr ""
+"\"Please, we don't have to do this! We're willing to give you anything to "
+"let us go!\""
+
+#: src-en/data/events_special_aea_bird.xml:420
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[4]"
+msgstr "\"Don't destroy us! We're Federation! At least let us surrender!\""
+
+#: src-en/data/events_special_aea_bird.xml:421
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[5]"
+msgstr ""
+"\"Take everything we have, just leave, and no more blood has to be spilt!\""
+
+#: src-en/data/events_special_aea_bird.xml:422
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[6]"
+msgstr ""
+"The ship repeatedly hails you, pleading for you to stop your assault and let"
+" them go."
+
+#: src-en/data/events_special_aea_bird.xml:430
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[1]"
+msgstr ""
+"\"MAYDAY! MAYDAY! MAY-\" The Federation captain's desperate cry for help is "
+"suddenly silenced by the destruction of the station."
+
+#: src-en/data/events_special_aea_bird.xml:431
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[2]"
+msgstr ""
+"When future ships come across this wreck, it's likely people will assume "
+"this to be the job of Rebels or Pirates. But the trail will eventually lead "
+"to you."
+
+#: src-en/data/events_special_aea_bird.xml:432
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[3]"
+msgstr ""
+"It's a shame, seeing the brand new models of the Federation dispatched so "
+"quickly. When the Federation pushed to manufacture updated designs, they had"
+" conflict with Rebels in mind... but not necessarily their own hired "
+"Renegades."
+
+#: src-en/data/events_special_aea_bird.xml:436
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/text"
+msgstr ""
+"Eliminating allies of the Federation, especially Elite ones, is highly "
+"contrary to your mission, but that doesn't mean you're beyond salvaging the "
+"remains."
+
+#: src-en/data/events_special_aea_bird.xml:439
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_bird.xml:441
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/choice/event/text"
+msgstr ""
+"It seems the cargo of the Elite Gi ship survived the fight. Inside is a "
+"functional drone, which you bring back on board."
+
+#: src-en/data/events_special_aea_bird.xml:497
+msgid ""
+"data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/destroyed/text"
+msgstr ""
+"You've destroyed the fungus infected ship and collect anything useful from "
+"the remains."
+
+#: src-en/data/events_special_aea_bird.xml:500
+msgid ""
+"data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/destroyed/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_bird.xml:505
+msgid ""
+"data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/deadCrew/text"
+msgstr ""
+"You've cleared the infected ship of it's crew and scrap it for useful parts."
+
+#: src-en/data/events_special_aea_bird.xml:508
+msgid ""
+"data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/deadCrew/choice/text"
+msgstr "Continue..."
