@@ -1770,10 +1770,8 @@ script.on_internal_event(Defines.InternalEvents.ACTIVATE_POWER, function(power, 
 end)
 
 local attachedTimer = 0
-script.on_internal_event(Defines.InternalEvents.DAMAGE_AREA_HIT, function(shipManager, projectile, location, damage, shipFriendlyFire)
-	if log_events then
-		log("DAMAGE_AREA_HIT 1")
-	end
+
+script.on_internal_event(Defines.InternalEvents.DAMAGE_BEAM, function(shipManager, projectile, location, damage, realNewTile, beamHitType)
 	if projectile then
 		if projectile.extend.name == "ARTILLERY_AEA_GRAPPLE" then
 			attachedTimer = 25
@@ -1781,17 +1779,11 @@ script.on_internal_event(Defines.InternalEvents.DAMAGE_AREA_HIT, function(shipMa
 	end
 end)
 
-script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
-	if log_events then
-		--log("SHIP_LOOP 6")
-	end
-	if shipManager.iShipId == 0 then
-		attachedTimer = attachedTimer - Hyperspace.FPS.SpeedFactor/16
-	end
-	if attachedTimer > 0 then
-		Hyperspace.playerVariables.aea_old_gate_guard_attached = 1
-	else
-		Hyperspace.playerVariables.aea_old_gate_guard_attached = 0
+script.on_internal_event(Defines.InternalEvents.SHIELD_COLLISION, function(shipManager, projectile, damage, response)
+	if projectile then
+		if projectile.extend.name == "ARTILLERY_AEA_GRAPPLE" then
+			shipManager.shieldSystem.shields.power.super.first = 0
+		end
 	end
 end)
 
