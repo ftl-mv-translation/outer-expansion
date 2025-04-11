@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-11 12:23+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_special_storagexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -75,7 +83,7 @@ msgstr "Вспомогательные щиты."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
 "append:choice[2]/text"
-msgstr "Модифицированный Клон-отсек"
+msgstr "Модифицированный Клон-отсек."
 
 #: src-en/data/events_special_storage.xml.append:62
 msgid ""
@@ -162,11 +170,13 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:130
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_OVERCHARGER\"]/text"
 msgstr ""
 "Вы хотите добавить модификацию Вспомогательный нагнетатель.\n"
-"\t[Эффекты: Дает все слои суперщита, которые система может генерировать при прыжке]"
+"\t[Эффекты: Дает все слои суперщита, которые система может генерировать при "
+"прыжке]"
 
 #: src-en/data/events_special_storage.xml.append:133
 msgid ""
@@ -249,6 +259,7 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:200
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_LIFETIME\"]/choice[1]/text"
 msgstr "Установить улучшение. [Цена: 50~, 1{]"
@@ -289,6 +300,7 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:239
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_BUFF\"]/choice[1]/text"
 msgstr "Установить улучшение. [Цена: 50~, 1{]"
