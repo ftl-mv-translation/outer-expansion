@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-04-11 14:50+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -6714,13 +6714,16 @@ msgid ""
 msgstr "Синхронизация компьютеров [В]"
 
 #: src-en/data/blueprints.xml.append:11178
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_SUPER_SHIELD_LINKER\"]/desc"
 msgstr ""
 "Нахождение в отсеке Вспомогательных щитов увеличивает эффективность системы "
 "Щитов на 50%, а нахождение в отсеке Щитов увеличивает эффективность "
-"Вспомогательных щитов на 50%."
+"Вспомогательных щитов на 50%.\n"
+"\n"
+"\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, "
+"но занимает слот модуля. Может быть бесплатно конвертировано во встроенную "
+"версию из категории Бортовых технологий меню Встроенных улучшений."
 
 #: src-en/data/blueprints.xml.append:11186
 msgid ""
@@ -6743,20 +6746,18 @@ msgid ""
 msgstr "Артиллерия"
 
 #: src-en/data/blueprints.xml.append:11198
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHARD_AUTO\"]/desc"
 msgstr ""
-"[БАЗОВАЯ ПЕРЕЗАРЯДКА: 25] Длинны луч, наносящий 2 урона, наносит двойной "
-"урон пустым отсекам, запирает отсеки при попадании."
+"[БАЗОВАЯ ПЕРЕЗАРЯДКА: 25] Длинны луч, пробивающий 2 щита, наносящий 2 урона, "
+"запирает отсеки при попадании."
 
 #: src-en/data/blueprints.xml.append:11199
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHARD_AUTO\"]/tooltip"
 msgstr ""
-"Артиллерия: Длинный луч, наносящий 2 урона, наносит двойной урон пустым "
-"отсекам, запирует отсеки при попадании"
+"Артиллерия: Длинный луч, пробивающий 2 щита, наносящий 2 урона, запирует "
+"отсеки при попадании"
 
 #: src-en/data/blueprints.xml.append:11223
 msgid ""
@@ -7364,19 +7365,20 @@ msgid ""
 msgstr "Модифицированный Клон-отсек"
 
 #: src-en/data/blueprints.xml.append:12735
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"aea_clone_crime\"]/desc"
 msgstr ""
 "Модифицированный и крайне нелегальный, этот Клон-отсек больше не клонирует "
 "мертвый экипаж, но вместо этого генерирует несколько сомнительных клонов при "
 "каждом прыжке. Благодаря питанию, таймеры смерти на корабле не могут "
-"срабатывать, в том числе и на клонах, созданных этой системой."
+"срабатывать, в том числе и на клонах, созданных этой системой. Клоны, "
+"созданные этой системой, имеют пониженное здоровье и не могут управлять "
+"системами."
 
 #: src-en/data/blueprints.xml.append:12748
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_AEA_CLONE_CRIME_LIFETIME\"]/title"
-msgstr ""
+msgstr "Уменьшение распада"
 
 #: src-en/data/blueprints.xml.append:12749
 msgid ""
@@ -7386,17 +7388,23 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:12756
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_CLONE_CRIME_LIFETIME\"]/title"
-msgstr ""
+msgstr "Уменьшение распада [В]"
 
 #: src-en/data/blueprints.xml.append:12757
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_CLONE_CRIME_LIFETIME\"]/desc"
 msgstr ""
+"Время жизни экипажа, созданного в модифицированном Клон-отсеке, "
+"увеличивается на 20 секунд.\n"
+"\n"
+"\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, "
+"но занимает слот модуля. Может быть бесплатно конвертировано во встроенную "
+"версию из категории Бортовых технологий меню Встроенных улучшений."
 
 #: src-en/data/blueprints.xml.append:12766
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"UPG_AEA_CLONE_CRIME_BUFF\"]/title"
-msgstr ""
+msgstr "Синтезированная мускулатура"
 
 #: src-en/data/blueprints.xml.append:12767
 msgid ""
@@ -7406,17 +7414,23 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:12773
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_CLONE_CRIME_BUFF\"]/title"
-msgstr ""
+msgstr "Синтезированная мускулатура [В]"
 
 #: src-en/data/blueprints.xml.append:12774
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_CLONE_CRIME_BUFF\"]/desc"
 msgstr ""
+"Экипажи, созданные в модифицированном Клон-отсеком, получают 20 ОЗ за каждую "
+"единицу энергии в системе.\n"
+"\n"
+"\tТак как это улучшение - [В]нешнее, оно предоставляет свой обычный эффект, "
+"но занимает слот модуля. Может быть бесплатно конвертировано во встроенную "
+"версию из категории Бортовых технологий меню Встроенных улучшений."
 
 #: src-en/data/blueprints.xml.append:12782
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_AEA_CLONE_CRIME\"]/title"
-msgstr ""
+msgstr "Благо модифицированного Клон-отсека"
 
 #: src-en/data/blueprints.xml.append:12783
 msgid ""
@@ -7426,12 +7440,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:12790
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_JUSTICE\"]/class"
-msgstr ""
+msgstr "Крейсер Юстициария"
 
 #: src-en/data/blueprints.xml.append:12791
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_JUSTICE\"]/name"
-msgstr ""
+msgstr "Темный Принц"
 
 #: src-en/data/blueprints.xml.append:12792
 msgid ""
@@ -7441,12 +7455,12 @@ msgstr "Этот корабль совершенно лишен какого-л�
 #: src-en/data/blueprints.xml.append:12876
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/title"
-msgstr "Темный Каратель"
+msgstr "Темный Юстициарий"
 
 #: src-en/data/blueprints.xml.append:12877
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/short"
-msgstr "Темный Каратель"
+msgstr "Темный Юстициарий"
 
 #: src-en/data/blueprints.xml.append:12882
 msgid ""
@@ -7605,12 +7619,12 @@ msgstr "Максимальное здоровье увеличено до 150"
 #: src-en/data/blueprints.xml.append:13003
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BOARDING_DRONE\"]/title"
-msgstr ""
+msgstr "ЗАКЛИНАНИЕ АБОРДАЖА"
 
 #: src-en/data/blueprints.xml.append:13004
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BOARDING_DRONE\"]/short"
-msgstr ""
+msgstr "ЗАКЛИНАНИЕ АБОРДАЖА"
 
 #: src-en/data/blueprints.xml.append:13005
 msgid ""
