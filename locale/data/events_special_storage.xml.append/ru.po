@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-04-11 14:50+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -59,19 +59,19 @@ msgstr "Артиллерия Броадсайд."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "Темный Юстициарий может модифицировать ваш Клон-отсек."
 
 #: src-en/data/events_special_storage.xml.append:37
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "Темный Юстициарий может модифицировать ваш Клон-отсек."
 
 #: src-en/data/events_special_storage.xml.append:41
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[10]/text"
-msgstr ""
+msgstr "(Темный Юстициарий) Обратиться к Книге Смерти."
 
 #: src-en/data/events_special_storage.xml.append:48
 msgid ""
@@ -131,8 +131,10 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_LINKER\"]/text"
 msgstr ""
-"Вы хотите добавить модификацию Синхронизация компьютеров.\n"
-"\t[Эффекты: Нахождение в отсеке Вспомогательных щитов увеличивает эффективность системы Щитов на 50%, а нахождение в отсеке Щитов увеличивает эффективность Вспомогательных щитов на 50%]"
+"Вы собираетесь установить Синхронизация компьютеров.\n"
+"\t[Эффекты: Нахождение в отсеке Вспомогательных щитов увеличивает "
+"эффективность системы Щитов на 50%, а нахождение в отсеке Щитов увеличивает "
+"эффективность Вспомогательных щитов на 50%]"
 
 #: src-en/data/events_special_storage.xml.append:94
 msgid ""
@@ -170,11 +172,10 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_storage.xml.append:130
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_OVERCHARGER\"]/text"
 msgstr ""
-"Вы хотите добавить модификацию Вспомогательный нагнетатель.\n"
+"Вы собираетесь установить Вспомогательный нагнетатель.\n"
 "\t[Эффекты: Дает все слои суперщита, которые система может генерировать при "
 "прыжке]"
 
@@ -223,30 +224,32 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME\"]/choice[@req=\"UPG_AEA_CLONE_CRIME_LIFETIME\""
 " and @lvl=\"2\"]/text"
 msgstr ""
+"Уменьшение распада. "
+"[НЕВОЗМОЖНО: у вас уже есть максимальный уровень этого улучшения]"
 
 #: src-en/data/events_special_storage.xml.append:176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME\"]/choice[@req=\"UPG_AEA_CLONE_CRIME_LIFETIME\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Уменьшение распада ур. 2. [Цена: 30~, 3{]"
 
 #: src-en/data/events_special_storage.xml.append:180
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME\"]/choice[@req=\"UPG_AEA_CLONE_CRIME_LIFETIME\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Уменьшение распада ур. 2. [Цена: 30~, 3{]"
 
 #: src-en/data/events_special_storage.xml.append:184
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME\"]/choice[@req=\"UPG_AEA_CLONE_CRIME_BUFF\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Синтезированная мускулатура. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:188
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME\"]/choice[@req=\"UPG_AEA_CLONE_CRIME_BUFF\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Синтезированная мускулатура. [Цена: 50~, 5{]"
 
 #: src-en/data/events_special_storage.xml.append:192
 msgid ""
@@ -257,6 +260,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_LIFETIME\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию Уменьшение распада.\n"
+"\t[Эффекты: Время жизни экипажей, произведенных в модифицированном Клон-"
+"отсеке, увеличивается на 20 секунд]"
 
 #: src-en/data/events_special_storage.xml.append:200
 msgid ""
@@ -297,6 +303,9 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_BUFF\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию Синтезированная мускулатура.\n"
+"\t[Эффекты: Экипажи, созданные модифицированным Клон-отсеком, получают 20 ОЗ "
+"за каждую единицу энергии в системе]"
 
 #: src-en/data/events_special_storage.xml.append:239
 msgid ""
