@@ -10,6 +10,7 @@
   <mod-append:script>data/aea_scripts/aea_main_menu.lua</mod-append:script>
   <mod-append:script>data/aea_scripts/aea_super_shields.lua</mod-append:script>
   <mod-append:script>data/aea_scripts/aea_clone_crime.lua</mod-append:script>
+  <!--mod-append:script>data/aea_scripts/aea_dark_justicier.lua</mod-append:script-->
 </mod:findLike>
 <dualMedical enabled="true"/>
 <mod:findLike type="customSystems">
@@ -149,7 +150,7 @@ This enemy ship is equipped with a strong auxiliary shield generator, It starts 
 			<!-- -->
 		<mod-append:ship>PLAYER_SHIP_AEA_OLD_ARMOUR</mod-append:ship>
 		<mod-append:empty/>
-		<mod-append:empty/>
+		<mod-append:ship>PLAYER_SHIP_AEA_JUSTICE</mod-append:ship>
 		<mod-append:ship>PLAYER_SHIP_AEA_BROADSIDE</mod-append:ship>
 
 		<mod-append:ship>PLAYER_SHIP_AEA_OLD_UNIA</mod-append:ship>
@@ -1281,21 +1282,34 @@ This enemy ship is equipped with a strong auxiliary shield generator, It starts 
 		<hiddenAug>SHIP_AEA_BROADSIDE</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<systemLimit>10</systemLimit>
-		<customReactor maxLevel="35" />
+		<customReactor maxLevel="30" />
 	</mod-append:customShip>
 	<mod-append:customShip name="PLAYER_SHIP_AEA_BROADSIDE_2">
 		<hiddenAug>SHIP_REBEL</hiddenAug>
 		<hiddenAug>SHIP_AEA_BROADSIDE2</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<systemLimit>10</systemLimit>
-		<customReactor maxLevel="35" />
+		<customReactor maxLevel="30" />
 	</mod-append:customShip>
 	<mod-append:customShip name="PLAYER_SHIP_AEA_BROADSIDE_3">
 		<hiddenAug>SHIP_REBEL</hiddenAug>
 		<hiddenAug>SHIP_AEA_BROADSIDE3</hiddenAug>
 		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
 		<systemLimit>10</systemLimit>
-		<customReactor maxLevel="35" />
+		<customReactor maxLevel="30" />
+	</mod-append:customShip>
+
+	<mod-append:ship name="PLAYER_SHIP_AEA_JUSTICE" b="false" c="false" secret="true">
+		<unlock variant="a" silent="false">
+			<type>4</type>
+		</unlock>
+	</mod-append:ship>
+	<mod-append:customShip name="PLAYER_SHIP_AEA_JUSTICE">
+		<hiddenAug>SHIP_PIRATE</hiddenAug>
+		<hiddenAug>FOR_MULTIVERSE</hiddenAug>
+		<crew>
+			<aea_dark_justicier name="The Dark Justicier" room="0"/>
+		</crew>
 	</mod-append:customShip>
 
 	
@@ -5783,7 +5797,7 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 
 	<mod-append:race name="aea_shard_breaker">
 		<maxHealth>125</maxHealth>
-		<damageMultiplier>0.65</damageMultiplier>
+		<damageMultiplier>0.6</damageMultiplier>
 		<suffocationModifier>0.5</suffocationModifier>
 		<animBase>rock</animBase>
 		<deathSounds>
@@ -5856,7 +5870,7 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 
 	<mod-append:race name="aea_shard_smasher">
 		<maxHealth>150</maxHealth>
-		<damageMultiplier>0.5</damageMultiplier>
+		<damageMultiplier>0.4</damageMultiplier>
 		<suffocationModifier>0.5</suffocationModifier>
 		<animBase>rock</animBase>
 		<deathSounds>
@@ -5928,8 +5942,9 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 	</mod-append:race>
 
 	<mod-append:race name="aea_shard_dawn">
+		<essential>1</essential>
 		<maxHealth>200</maxHealth>
-		<damageMultiplier>0.4</damageMultiplier>
+		<damageMultiplier>0.25</damageMultiplier>
 		<suffocationModifier>0.25</suffocationModifier>
 		<animBase>rock</animBase>
 		<deathSounds>
@@ -6013,10 +6028,19 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 			<cooldown>10</cooldown>
 			<jumpCooldown>full</jumpCooldown>
 			<buttonText>RITUAL</buttonText>
-			<tooltip>Perform a dark ritual, sacrifice a number of crew to perform it.</tooltip>
-			<effectAnim>unique_dessius_health</effectAnim>
-			<cooldownColor r="210" g="160" b="225" />
+			<tooltip>Perform a dark ritual, sacrifice a number of crew in specific positions to trigger different effects. Crew who survive being apart of the ritual will be weakened and lose 50% of their health for 5 jumps.
+Left click to select crew for sacrifice.
+Right click to attempt the ritual or cancel.
+			</tooltip>
+			<cooldownColor r="255" g="0" b="0" />
 			<friendlyFire>false</friendlyFire>
+			<temporaryEffect>
+				<duration>1</duration>
+				<cooldownColor r="200" g="0" b="0" />
+				<effectAnim>unique_dessius_health</effectAnim>
+				<canFight>false</canFight>
+				<canMove>false</canMove>
+			</temporaryEffect>
 		</powerEffect>
 	</mod-append:race>
 	<mod-append:race name="aea_sac_human">
@@ -6132,7 +6156,6 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 		</statBoosts>
     </aug>
 	<aug name="BOON_AEA_SUPER_SHIELDS">
-		<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false" />
 		<superShield>
 			<add>1</add>
 			<color r="255" g="255" b="255" a="1" />
@@ -6145,7 +6168,6 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 	<aug name="AEA_SHARD_ARMOUR">
 		<function name="CRYSTAL_SHARDS" value="0" useForReqs="true" warning="false" />
 		<crystalShard weapon="CRYSTAL_ARMOR_PROJ" value="0.5" stackable="false" />
-		<function name="ENERGY_SHIELD" value="0" useForReqs="true" warning="false" />
 		<superShield>
 			<add>1</add>
 			<color r="255" g="255" b="255" a="1" />
@@ -6668,10 +6690,12 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 	<mod:findName name="BLUELIST_CREW_NO2">
 		<mod-append:name>LIST_CREW_AEA_OLD</mod-append:name>
 		<mod-append:name>LIST_CREW_AEA_ACID</mod-append:name>
+		<mod-append:name>aea_dark_justicier</mod-append:name>
 	</mod:findName>
 	<mod:findName name="BLUELIST_CREW_NOFIRE">
 		<mod-append:name>LIST_CREW_AEA_OLD</mod-append:name>
 		<mod-append:name>LIST_CREW_AEA_ACID</mod-append:name>
+		<mod-append:name>aea_dark_justicier</mod-append:name>
 	</mod:findName>
 	<mod:findName name="LIST_CHECK_TOGGLES_AND_AMPS">
 		<mod:findLike type="req" limit="1">
@@ -6703,6 +6727,14 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 		<mod-append:name>LAB_ORCHID_AEA_COMMUNION</mod-append:name>
 		<mod-append:name>EX_LAB_ORCHID_AEA_COMMUNION</mod-append:name>
 	</mod:findName>
+	<mod:findName name="LIST_CHECK_ENERGY_SHIELD">
+		<mod-append:name>BOON_AEA_SUPER_SHIELDS</mod-append:name>
+		<mod-append:name>AEA_SHARD_ARMOUR</mod-append:name>
+		<mod-append:name>AEA_SHARD_SHIELD</mod-append:name>
+		<mod-append:name>AEA_SHARD_SHIELD_ENEMY</mod-append:name>
+		<mod-append:name>AEA_OLD_SHIELD</mod-append:name>
+		<mod-append:name>AEA_OLD_SHIELD_WEAK</mod-append:name>
+	</mod:findName>
 
 	<mod:findName name="COORDS">
 		<mod-append:name>coords_aea_bill</mod-append:name>
@@ -6721,6 +6753,7 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 
 <events>
 	<metaVariable name="aea_warning_message" op="set" val="0" />
+	<variable name="aea_test_variable" op="set" val="0"/>
 	<variable name="arc_test_light_nebula" op="set" val="0"/>
 
 	<metaVariable name="aea_super_shield_hotkey_enabled" op="set" val="0" />
@@ -6805,6 +6838,20 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 	<variable name="aea_old_completed_sponsor" op="set" val="0" />
 
 	<metaVariable name="aea_old_sponser_choice" op="set" val="0" />
+
+	<req name="AEA_REQ_MODIFY_CLONEBAY" type="all">
+		<name>aea_dark_justicier</name>
+		<name>clonebay</name>
+	</req>
+	<req name="AEA_REQ_MODIFY_CLONEBAY_NOCLONE" type="all">
+		<name>aea_dark_justicier</name>
+		<req lvl="0" max_lvl="0">
+			<name>clonebay</name>
+		</req>
+		<req lvl="0" max_lvl="0">
+			<name>aea_clone_crime</name>
+		</req>
+	</req>
 
 	<req name="AEA_CELL_SPAWN_CHECK">
 		<req lvl="0" max_lvl="0">
@@ -7518,6 +7565,7 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 		</req>
 	</req>
 
+	<eventFile>special_aea_justicier</eventFile>
 
   	<eventFile>special_aea_acid</eventFile>
   	<eventFile>sector_aea_acid</eventFile>
@@ -8283,6 +8331,24 @@ Cast a spell that pierces all normal shields at a target room that mind controls
 		</category>
     </customStore>
 </store>
+
+<mod:findLike type="boss" limit="1">
+	<mod-append:surgeBarrage name="AEA_SURGE_DARK_FIRE">
+		<weapon name="BOMB_FIRE" count="3"/>
+	</mod-append:surgeBarrage>
+	<mod-append:surgeDrones name="AEA_SURGE_DARK_DRONE">
+		<drone name="COMBAT_1_BEAM" count="3"/>
+	</mod-append:surgeDrones>
+	<mod-append:surgeBarrage name="AEA_SURGE_DARK_LOCKDOWN">
+		<weapon name="CRYSTAL_BURST_1_RED" count="3"/>
+	</mod-append:surgeBarrage>
+	<mod-append:surgeBarrage name="AEA_SURGE_DARK_PARTICLE">
+		<weapon name="LASER_PARTICLE" count="3"/>
+	</mod-append:surgeBarrage>
+	<mod-append:surgeBarrage name="AEA_SURGE_DARK_BOARDING">
+		<weapon name="AEA_BOARDING_DRONE" count="3"/>
+	</mod-append:surgeBarrage>
+</mod:findLike>
 
 <mod:findLike type="achievements">
 	<mod:findLike type="page" start="2" limit="1">
