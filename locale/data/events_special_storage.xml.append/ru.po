@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-11 11:43+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_storagexmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -132,9 +124,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_LINKER\"]/text"
 msgstr ""
 "Вы хотите добавить модификацию Синхронизация компьютеров.\n"
-"\t[Эффекты: Нахождение в отсеке Вспомогательных щитов увеличивает "
-"эффективность системы Щитов на 50%, а нахождение в отсеке Щитов увеличивает "
-"эффективность Вспомогательных щитов на 50%]"
+"\t[Эффекты: Нахождение в отсеке Вспомогательных щитов увеличивает эффективность системы Щитов на 50%, а нахождение в отсеке Щитов увеличивает эффективность Вспомогательных щитов на 50%]"
 
 #: src-en/data/events_special_storage.xml.append:94
 msgid ""
@@ -176,8 +166,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_OVERCHARGER\"]/text"
 msgstr ""
 "Вы хотите добавить модификацию Вспомогательный нагнетатель.\n"
-"\t[Эффекты: Дает все слои суперщита, которые система может генерировать при "
-"прыжке]"
+"\t[Эффекты: Дает все слои суперщита, которые система может генерировать при прыжке]"
 
 #: src-en/data/events_special_storage.xml.append:133
 msgid ""
@@ -372,8 +361,7 @@ msgstr ""
 "Вы хотите добавить модификацию Древнее причастие.\n"
 "\t[Эффекты: Вы можете покупать заклинания у пустых маяков]\n"
 "\t\n"
-"\t[Внимание: Это повлияет только на экипаж сектантов. Вы сможете установить "
-"другие вспомогательные и основные модификации после этого]"
+"\t[Внимание: Это повлияет только на экипаж сектантов. Вы сможете установить другие вспомогательные и основные модификации после этого]"
 
 #: src-en/data/events_special_storage.xml.append:312
 msgid ""
@@ -511,32 +499,32 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
-"(Защитный дрон Еретиков мод. I) Настроить режим дрона. "
-"[Текущий режим: Противоракетный]."
+"(Защитный дрон Еретиков мод. I) Настроить режим дрона. [Текущий режим: "
+"Противоракетный]."
 
 #: src-en/data/events_special_storage.xml.append:452
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[4]/text"
 msgstr ""
-"(Защитный дрон Еретиков мод. I) Настроить режим дрона. "
-"[Текущий режим: Анти-дрон]."
+"(Защитный дрон Еретиков мод. I) Настроить режим дрона. [Текущий режим: Анти-"
+"дрон]."
 
 #: src-en/data/events_special_storage.xml.append:457
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[5]/text"
 msgstr ""
-"(Защитный дрон Еретиков мод. II) Настроить режим дрона. "
-"[Текущий режим: Противоракетный]."
+"(Защитный дрон Еретиков мод. II) Настроить режим дрона. [Текущий режим: "
+"Противоракетный]."
 
 #: src-en/data/events_special_storage.xml.append:461
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[6]/text"
 msgstr ""
-"(Защитный дрон Еретиков мод. II) Настроить режим дрона. "
-"[Текущий режим: Анти-дрон]."
+"(Защитный дрон Еретиков мод. II) Настроить режим дрона. [Текущий режим: "
+"Анти-дрон]."
 
 #: src-en/data/events_special_storage.xml.append:466
 msgid ""
@@ -557,7 +545,8 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[9]/text"
 msgstr ""
-"(Дрон \"Техномантия\" мод. II) Настроить режим дрона. [Текущий режим: Лазер]."
+"(Дрон \"Техномантия\" мод. II) Настроить режим дрона. [Текущий режим: "
+"Лазер]."
 
 #: src-en/data/events_special_storage.xml.append:479
 msgid ""
@@ -616,16 +605,16 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[18]/text"
 msgstr ""
-"(Дрон-близнец мод. II [ДОБЫЧА ГИ]) Настроить режим дрона. "
-"[Текущий режим: Лазер]"
+"(Дрон-близнец мод. II [ДОБЫЧА ГИ]) Настроить режим дрона. [Текущий режим: "
+"Лазер]"
 
 #: src-en/data/events_special_storage.xml.append:519
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[19]/text"
 msgstr ""
-"(Дрон-близнец мод. II [ДОБЫЧА ГИ]) Настроить режим дрона. "
-"[Текущий режим: Луч]"
+"(Дрон-близнец мод. II [ДОБЫЧА ГИ]) Настроить режим дрона. [Текущий режим: "
+"Луч]"
 
 #: src-en/data/events_special_storage.xml.append:525
 msgid ""
@@ -1033,8 +1022,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/text"
 msgstr ""
 "Вы хотите добавить модификацию Ремонтная бомба.\n"
-"\t[Эффекты: Ремонтирует все системы, когда целостность корпуса падает до 5, "
-"расходуется при использовании, может быть куплено повторно]"
+"\t[Эффекты: Ремонтирует все системы, когда целостность корпуса падает до 5, расходуется при использовании, может быть куплено повторно]"
 
 #: src-en/data/events_special_storage.xml.append:855
 msgid ""
@@ -1286,8 +1274,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение системы щитов.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
-"более двух раз]"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить более двух раз]"
 
 #: src-en/data/events_special_storage.xml.append:1072
 msgid ""
@@ -1330,9 +1317,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение системы двигателей.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня. Каждый уровень выше "
-"8 добавляет еще 5 уклонения и 0.25х скорости зарядки ССД, не может быть "
-"улучшено более двух раз]"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня. Каждый уровень выше 8 добавляет еще 5 уклонения и 0.25х скорости зарядки ССД, не может быть улучшено более двух раз]"
 
 #: src-en/data/events_special_storage.xml.append:1107
 msgid ""
@@ -1375,8 +1360,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение системы оружия.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
-"более двух раз]"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить более двух раз]"
 
 #: src-en/data/events_special_storage.xml.append:1142
 msgid ""
@@ -1419,8 +1403,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение системы дронов.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
-"более двух раз]"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить более двух раз]"
 
 #: src-en/data/events_special_storage.xml.append:1177
 msgid ""
@@ -1463,8 +1446,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение системы маскировки.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
-"больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
 
 #: src-en/data/events_special_storage.xml.append:1212
 msgid ""
@@ -1494,8 +1476,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/choice[@req=\"aea_can_upgrade_cloaking\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Это улучшение недоступно. Вам нужно довести свою маскировку до естественного "
-"максимума."
+"Это улучшение недоступно. Вам нужно довести свою маскировку до естественного"
+" максимума."
 
 #: src-en/data/events_special_storage.xml.append:1234
 msgid ""
@@ -1507,8 +1489,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение системы Контроля разума.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
-"больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
 
 #: src-en/data/events_special_storage.xml.append:1247
 msgid ""
@@ -1551,8 +1532,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение Взломщика.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
-"больше одного раза, нельзя повысить уровень щита выше 3 ур.]"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить больше одного раза, нельзя повысить уровень щита выше 3 ур.]"
 
 #: src-en/data/events_special_storage.xml.append:1282
 msgid ""
@@ -1595,8 +1575,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение Медотсек.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
-"больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
 
 #: src-en/data/events_special_storage.xml.append:1317
 msgid ""
@@ -1639,8 +1618,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение системы щитов.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить "
-"больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
+"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
 
 #: src-en/data/events_special_storage.xml.append:1353
 msgid ""
@@ -1670,8 +1648,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/choice[@req=\"aea_can_upgrade_clonebay\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Это улучшение недоступно. Вам нужно довести свой Клон-отсек до естественного "
-"максимума."
+"Это улучшение недоступно. Вам нужно довести свой Клон-отсек до естественного"
+" максимума."
 
 #: src-en/data/events_special_storage.xml.append:1375
 msgid ""
@@ -1683,8 +1661,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение реактора.\n"
-"\t[Эффекты: Модернизирует реактор до максимального уровня, нельзя улучшить "
-"более 5 раз]"
+"\t[Эффекты: Модернизирует реактор до максимального уровня, нельзя улучшить более 5 раз]"
 
 #: src-en/data/events_special_storage.xml.append:1389
 msgid ""
