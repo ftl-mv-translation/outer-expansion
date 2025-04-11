@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-11 12:22+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Italian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/datablueprintsxmlappend/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/blueprints.xml.append:13
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_ACIDIC\"]/title"
@@ -5581,6 +5588,7 @@ msgid ""
 msgstr "Salute massima aumentata a 150"
 
 #: src-en/data/blueprints.xml.append:11066
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/powerList/power[4]"
 msgstr "Infligge danno 0,8x in combattimento"
@@ -5613,6 +5621,7 @@ msgid ""
 msgstr "Salute massima aumentata a 200"
 
 #: src-en/data/blueprints.xml.append:11094
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/powerList/power[4]"
 msgstr "Infligge danno 0,8x in combattimento"
