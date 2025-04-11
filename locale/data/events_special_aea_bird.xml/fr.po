@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-11 11:41+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_special_aea_birdxml/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_aea_bird.xml:15
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[1]"
@@ -58,9 +65,9 @@ msgstr "Attaquer le garde."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[2]/event/text"
 msgstr ""
-"Le capitaine du vaisseau est choqué que vous vous soyez retourné contre eux."
-" \"Vous devez être un espion Rebelle ! Nous ne prendrons pas cela à la "
-"légère !\""
+"Le capitaine du vaisseau est choqué que vous vous soyez retourné contre eux. "
+"\"Vous devez être un espion Rebelle ! Nous ne prendrons pas cela à la légère "
+"!\""
 
 #: src-en/data/events_special_aea_bird.xml:53
 msgid ""
@@ -140,8 +147,7 @@ msgstr "Carburant."
 #: src-en/data/events_special_aea_bird.xml:101
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[2]/event/text"
-msgstr ""
-"Un drone de ravitaillement est envoyé faire le plein de votre vaisseau."
+msgstr "Un drone de ravitaillement est envoyé faire le plein de votre vaisseau."
 
 #: src-en/data/events_special_aea_bird.xml:108
 msgid ""
@@ -327,8 +333,8 @@ msgstr ""
 "Votre équipage parle au capitaine du transporteur, expliquant l'importance "
 "de votre mission. Le capitaine du transporteur semble comprendre, mais "
 "mentionne également que la cargaison qu'ils transportent est vitale pour "
-"cette même mission. Si vous pouvez les dédommager, ils sont disposés à faire"
-" une exception."
+"cette même mission. Si vous pouvez les dédommager, ils sont disposés à faire "
+"une exception."
 
 #: src-en/data/events_special_aea_bird.xml:304
 msgid ""
@@ -415,8 +421,7 @@ msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[1]"
 msgstr ""
 "\"MAYDAY ! MAYDAY ! MAY-\" L'appel à l'aide désespéré du capitaine de la "
-"Fédération est soudain réduit au silence par la destruction de leur "
-"vaisseau."
+"Fédération est soudain réduit au silence par la destruction de leur vaisseau."
 
 #: src-en/data/events_special_aea_bird.xml:383
 msgid ""
@@ -470,8 +475,8 @@ msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[3]"
 msgstr ""
 "\"Cette mort signifie la mort de la Fédération.\" Le capitaine mourant "
-"marque une pause lorsque quelqu'un lui crie en arrière-plan : \"Je ne réagis"
-" PAS de manière excessive ! Bon sang... il fallait que vous gâchiez mes "
+"marque une pause lorsque quelqu'un lui crie en arrière-plan : \"Je ne réagis "
+"PAS de manière excessive ! Bon sang... il fallait que vous gâchiez mes "
 "derniers instants...\""
 
 #: src-en/data/events_special_aea_bird.xml:397
@@ -499,8 +504,8 @@ msgstr "Accepter leur reddition."
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[1]"
 msgstr ""
-"\"Poursuivre dans cette voie serait de la folie - nous sommes du même côté "
-"!\""
+"\"Poursuivre dans cette voie serait de la folie - nous sommes du même côté !"
+"\""
 
 #: src-en/data/events_special_aea_bird.xml:418
 msgid ""
