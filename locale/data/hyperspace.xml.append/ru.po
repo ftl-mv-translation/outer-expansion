@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-11 12:22+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-04-11 14:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -229,7 +229,7 @@ msgstr "Король Оникс"
 msgid ""
 "data/hyperspace.xml.append$//aea_dark_justicier[@name=\"The Dark "
 "Justicier\"]/@name"
-msgstr ""
+msgstr "Темный Каратель"
 
 #: src-en/data/hyperspace.xml.append:1349
 msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Sylvan\"]/@name"
@@ -1462,11 +1462,17 @@ msgid ""
 msgstr "РИТУАЛ"
 
 #: src-en/data/hyperspace.xml.append:6031
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_dark_justicier\"]/powerEffect/tooltip"
-msgstr "Совершить темный ритуал, принеся в жертву нескольких членов экипажа."
+msgstr ""
+"Проведите темный ритуал, принесите в жертву несколько членов экипажа в "
+"определенных местах, чтобы вызвать различные эффекты. Экипаж, выживший после "
+"участия в ритуале, будет ослаблен и потеряет 50% здоровья на 5 прыжков.\n"
+"\n"
+"Щелкните левой кнопкой мыши, чтобы выбрать экипаж для жертвоприношения.\n"
+"\n"
+"Щелкните правой кнопкой мыши, чтобы провести ритуал или отменить его."
 
 #: src-en/data/hyperspace.xml.append:7665
 msgid ""
