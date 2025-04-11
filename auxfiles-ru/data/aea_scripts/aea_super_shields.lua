@@ -25,7 +25,7 @@ local function get_level_description_aea_super_shields(systemId, level, tooltip)
         if level%4 == 1 then
             return string.format("Слои: %i / Скорость: %ix", 2 + math.ceil(level/2), math.floor(0.75 + level / 4))
         else
-            return string.format("Layers: %i / Speed: %sx", 2 + math.ceil(level/2), tostring(0.75 + level / 4))
+            return string.format("Слои: %i / Скорость: %sx", 2 + math.ceil(level/2), tostring(0.75 + level / 4))
         end
     end
 end
