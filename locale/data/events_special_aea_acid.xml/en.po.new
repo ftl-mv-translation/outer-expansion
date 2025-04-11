@@ -1,0 +1,1584 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_aea_acid.xml:3
+msgid "data/events_special_aea_acid.xml$//event[@name=\"ADDON_AEA\"]/text"
+msgstr ""
+"FTL: The Outer Expansion\n"
+"Developed by: Arc\n"
+"Currently Enabled.\n"
+"        \n"
+"Adds new races, sectors, ships, and weapons, currently implemented: The Acidic Growth, The Engi Heretics, and the Lylmik Quarantine.\n"
+"        \n"
+"To enable The Outer Expansion, go to the Multiverse Forums and visit the addon section!."
+
+#: src-en/data/events_special_aea_acid.xml:13
+msgid "data/events_special_aea_acid.xml$//event[@name=\"ADDON_RAD_INFO_2\"]/text"
+msgstr ""
+"R&D\n"
+"Developed by: Arc\n"
+"Currently Disabled.\n"
+"\n"
+"An addon designed around the use of Lua to create fun and unique gimmicks, this includes a variety of ships, weapons, crew, drones, and quests, although not entirely balanced they all try to introduce and focus on a unique gimmick you wouldn't find in MV otherwise.\n"
+"\n"
+"To enable R&D, go to the Multiverse Forums and visit the addon section!."
+
+#: src-en/data/events_special_aea_acid.xml:22
+msgid "data/events_special_aea_acid.xml$//event[@name=\"ADDON_AEA_2\"]/text"
+msgstr ""
+"FTL: The Outer Expansion\n"
+"Developed by: Arc\n"
+"Currently Disabled.\n"
+"        \n"
+"Adds new races, sectors, ships, and weapons, currently implemented: The Acidic Growth.\n"
+"        \n"
+"To enable The Outer Expansion, go to the Multiverse Forums and visit the addon section!."
+
+#: src-en/data/events_special_aea_acid.xml:31
+msgid "data/events_special_aea_acid.xml$//event[@name=\"ADDON_FISH_2\"]/text"
+msgstr ""
+"FTL: FISHIER THAN LIGHT\n"
+"Developed by: Arc\n"
+"Currently Disabled.\n"
+"      \n"
+"FTL Fishing, what more do I need to say. Over 60 fish, all with unique uses and effects.\n"
+"      \n"
+"To enable Fishier Than Light, go to the Multiverse Forums and visit the addon section!."
+
+#: src-en/data/events_special_aea_acid.xml:40
+msgid "data/events_special_aea_acid.xml$//event[@name=\"ADDON_GOF_2\"]/text"
+msgstr ""
+"FTL: GALAXY ON FIRE\n"
+"Developed by: Arc\n"
+"Currently Disabled.\n"
+"        \n"
+"Adds 3 ships, 40 new weapons, 2 new crew, and 1 new event based on the galaxy on fire franchise. All weapons function in completely new ways never seen before using brand new lua functions.\n"
+"        \n"
+"To enable Galaxy On Fire, go to the Multiverse Forums and visit the addon section!."
+
+#: src-en/data/events_special_aea_acid.xml:57
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_START_AEA_ACID\"]/text[1]"
+msgstr ""
+"The Acidic Growth is a relatively unknown faction, however what isn't "
+"unknown is how dangerous it is."
+
+#: src-en/data/events_special_aea_acid.xml:58
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_START_AEA_ACID\"]/text[2]"
+msgstr ""
+"This nebula is home to the Acidic Growth, it's still unknown whether it's a "
+"singular almost omnipresent entity or a hive mind of sorts, eitherway you "
+"probably don't wanna be on their bad side."
+
+#: src-en/data/events_special_aea_acid.xml:59
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_START_AEA_ACID\"]/text[3]"
+msgstr ""
+"You're told the Acidic Growth has expanded into this nebula, Unfortunately "
+"only the orchids are welcome in Acidic space."
+
+#: src-en/data/events_special_aea_acid.xml:60
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_START_AEA_ACID\"]/text[4]"
+msgstr ""
+"Not much is known about how the acidic growth lives and spends it's time, "
+"perhaps you'll find out, eitherway you'll be lucky to survive and tell the "
+"tale."
+
+#: src-en/data/events_special_aea_acid.xml:61
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_START_AEA_ACID\"]/text[5]"
+msgstr ""
+"The Acidic Growth formed within a nebula like this, although able to survive"
+" naked in the nebula, the Acidic Growth has created it's own ships and "
+"technology in order to interact with the wider universe."
+
+#: src-en/data/events_special_aea_acid.xml:76
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"START_AEA_ACID\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:82
+msgid "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/text"
+msgstr ""
+"You're hailed by an Acidic vessel. \"We do not know you, we do not know your"
+" intentions, please leave.\""
+
+#: src-en/data/events_special_aea_acid.xml:84
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[1]/text"
+msgstr "Fight your way through!."
+
+#: src-en/data/events_special_aea_acid.xml:86
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[1]/event/text"
+msgstr "You mute the ship and prepare for combat."
+
+#: src-en/data/events_special_aea_acid.xml:89
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:95
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[2]/text"
+msgstr "Convince it you only have good intentions."
+
+#: src-en/data/events_special_aea_acid.xml:97
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[2]/event/text"
+msgstr "The Acidic Growth recognises your donation and lets you pass."
+
+#: src-en/data/events_special_aea_acid.xml:105
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"aea_acid_soldier\"]/text"
+msgstr "(Acidic Soldier) Enter Freely."
+
+#: src-en/data/events_special_aea_acid.xml:107
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"aea_acid_soldier\"]/event/text"
+msgstr "The Acidic Growth is welcoming of itself, you're free to enter."
+
+#: src-en/data/events_special_aea_acid.xml:112
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"aea_acid_captain\"]/text"
+msgstr "(Acidic Leader) Enter Freely."
+
+#: src-en/data/events_special_aea_acid.xml:114
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"aea_acid_captain\"]/event/text"
+msgstr "The Acidic Growth is welcoming of itself, you're free to enter."
+
+#: src-en/data/events_special_aea_acid.xml:119
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"orchid\"]/text"
+msgstr "(Orchid Crew) Request passage."
+
+#: src-en/data/events_special_aea_acid.xml:121
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"orchid\"]/event/text"
+msgstr ""
+"Your Orchid hails the Acidic vessel, however before they can say anything "
+"they receive a response. \"Ah, one of the trusted, you are welcome into our "
+"space.\""
+
+#: src-en/data/events_special_aea_acid.xml:126
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"orchid_caretaker\"]/text"
+msgstr "(Caretaker Crew) Request passage."
+
+#: src-en/data/events_special_aea_acid.xml:128
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"orchid_caretaker\"]/event/text"
+msgstr ""
+"Your Orchid hails the Acidic vessel, however before they can say anything "
+"they receive a response. \"Ah, one of the trusted, you are welcome into our "
+"space.\""
+
+#: src-en/data/events_special_aea_acid.xml:133
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"orchid_praetor\"]/text"
+msgstr "(Praetor Crew) Request passage."
+
+#: src-en/data/events_special_aea_acid.xml:135
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"orchid_praetor\"]/event/text"
+msgstr ""
+"Your Orchid hails the Acidic vessel, however before they can say anything "
+"they receive a response. \"Ah, one of the trusted, you are welcome into our "
+"space.\""
+
+#: src-en/data/events_special_aea_acid.xml:140
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"unique_mayeb\"]/text"
+msgstr "(Mayeb) Request passage."
+
+#: src-en/data/events_special_aea_acid.xml:142
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"unique_mayeb\"]/event/text"
+msgstr ""
+"Your Orchid hails the Acidic vessel, however before they can say anything "
+"they receive a response. \"Ah, one of the trusted, you are welcome into our "
+"space.\""
+
+#: src-en/data/events_special_aea_acid.xml:147
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"unique_tyerel\"]/text"
+msgstr "(Ty E'rel) Request passage."
+
+#: src-en/data/events_special_aea_acid.xml:149
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"unique_tyerel\"]/event/text"
+msgstr ""
+"Your Orchid hails the Acidic vessel, however before they can say anything "
+"they receive a response. \"Ah, one of the trusted, you are welcome into our "
+"space.\""
+
+#: src-en/data/events_special_aea_acid.xml:154
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"mind\"]/text"
+msgstr ""
+"(Mind Control) It's hard to mind control something you're not even sure has "
+"a mind, atleast one small enough to control."
+
+#: src-en/data/events_special_aea_acid.xml:158
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"cloaking\"]/text"
+msgstr "(Cloaking) Cloak and try to escape."
+
+#: src-en/data/events_special_aea_acid.xml:162
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"engines\"]/text"
+msgstr "(Adv. Engines) Try to escape the guard."
+
+#: src-en/data/events_special_aea_acid.xml:166
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"pilot\"]/text"
+msgstr "(Adv. Piloting) Activate the auto-pilot to try and escape."
+
+#: src-en/data/events_special_aea_acid.xml:178
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID_DESTROY\"]/text"
+msgstr ""
+"You have defeated the Acidic guard. Whatever might have been in its cargo "
+"has for certain been destroyed, but you can at least salvage some supplies "
+"from the ship."
+
+#: src-en/data/events_special_aea_acid.xml:181
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID_DESTROY\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:186
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID_DEADCREW\"]/text"
+msgstr ""
+"You have defeated the Acidic guard. Without any of the Acidic Growth on "
+"board to stop you, you can investigate their cargo. You find a weapon to "
+"bring back to the ship, and move on to scrap their hull."
+
+#: src-en/data/events_special_aea_acid.xml:190
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID_DEADCREW\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:203
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID_FOLLOWUP\"]/text"
+msgstr ""
+"By killing the Acidic guard, you have no doubt caused them to dispatch "
+"reinforcements to track you down. Watch your step as you explore the sector."
+
+#: src-en/data/events_special_aea_acid.xml:212
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID_FOLLOWUP\"]/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_aea_acid.xml:216
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID_FOLLOWUP\"]/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_aea_acid.xml:224
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACID\"]/beaconType/unvisitedTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_acid.xml:225
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACID\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_special_aea_acid.xml:226
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACID\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_acid.xml:228
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACID\"]/text"
+msgstr ""
+"The Acidic Growth has not taken your less than friendly entry to the sector "
+"well and it appears it has dispatched a ship specifically to stop you."
+
+#: src-en/data/events_special_aea_acid.xml:232
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACID\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:240
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACID\"]/beaconType/unvisitedTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_acid.xml:241
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACID\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_special_aea_acid.xml:242
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACID\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_acid.xml:244
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACID\"]/text"
+msgstr ""
+"The Acidic Growth has not taken your less than friendly entry to the sector "
+"well and it appears it has dispatched a ship specifically to stop you."
+
+#: src-en/data/events_special_aea_acid.xml:250
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACID\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:261
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"START_AEA_ACIDHOME\"]/text"
+msgstr ""
+"It's risky to venture this deep into acidic territory, The acidic growth "
+"originated from this sector, and it's very defensive of it."
+
+#: src-en/data/events_special_aea_acid.xml:268
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"START_AEA_ACIDHOME\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:274
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/text"
+msgstr ""
+"The Elite guard here sends you a brief, to-the-point message. \"You are not "
+"welcome here, please state your intentions or leave.\""
+
+#: src-en/data/events_special_aea_acid.xml:276
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_friendly\"]/text"
+msgstr "(Friendly) Make your identity known."
+
+#: src-en/data/events_special_aea_acid.xml:278
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_friendly\"]/event/text"
+msgstr ""
+"Once the Acidic Growth realizes who you are the guard welcomes you in, The "
+"Acidic Growth is even kind enough to spare you some supplies."
+
+#: src-en/data/events_special_aea_acid.xml:283
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[2]/text"
+msgstr "Try your hand at negotiating."
+
+#: src-en/data/events_special_aea_acid.xml:287
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[3]/text"
+msgstr "Convince it you only have good intentions."
+
+#: src-en/data/events_special_aea_acid.xml:289
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[3]/event/text"
+msgstr "The Acidic Growth recognises your donation and lets you pass."
+
+#: src-en/data/events_special_aea_acid.xml:297
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[4]/text"
+msgstr "Fight your way through."
+
+#: src-en/data/events_special_aea_acid.xml:299
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[4]/event/text"
+msgstr "You silence communications and prepare to attack."
+
+#: src-en/data/events_special_aea_acid.xml:302
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[4]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:308
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_soldier\"]/text"
+msgstr "(Acidic Soldier) Enter Freely."
+
+#: src-en/data/events_special_aea_acid.xml:310
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_soldier\"]/event/text"
+msgstr "The Acidic Growth is welcoming of itself, you're free to enter."
+
+#: src-en/data/events_special_aea_acid.xml:315
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_captain\"]/text"
+msgstr "(Acidic Leader) Enter Freely."
+
+#: src-en/data/events_special_aea_acid.xml:317
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_captain\"]/event/text"
+msgstr "The Acidic Growth is welcoming of itself, you're free to enter."
+
+#: src-en/data/events_special_aea_acid.xml:322
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid\"]/text"
+msgstr "(Orchid Crew) Request passage."
+
+#: src-en/data/events_special_aea_acid.xml:324
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid\"]/event/text"
+msgstr ""
+"Your Orchid hails the Acidic vessel, however before they can say anything "
+"they receive a response. \"Ah, one of the trusted, you are welcome into our "
+"space.\""
+
+#: src-en/data/events_special_aea_acid.xml:329
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_caretaker\"]/text"
+msgstr "(Caretaker Crew) Request passage."
+
+#: src-en/data/events_special_aea_acid.xml:331
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_caretaker\"]/event/text"
+msgstr ""
+"Your Orchid hails the Acidic vessel, however before they can say anything "
+"they receive a response. \"Ah, one of the trusted, you are welcome into our "
+"space.\""
+
+#: src-en/data/events_special_aea_acid.xml:336
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_praetor\"]/text"
+msgstr "(Praetor Crew) Request passage."
+
+#: src-en/data/events_special_aea_acid.xml:338
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_praetor\"]/event/text"
+msgstr ""
+"Your Orchid hails the Acidic vessel, however before they can say anything "
+"they receive a response. \"Ah, one of the trusted, you are welcome into our "
+"space.\""
+
+#: src-en/data/events_special_aea_acid.xml:343
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_mayeb\"]/text"
+msgstr "(Mayeb) Request passage."
+
+#: src-en/data/events_special_aea_acid.xml:345
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_mayeb\"]/event/text"
+msgstr ""
+"Your Orchid hails the Acidic vessel, however before they can say anything "
+"they receive a response. \"Ah, one of the trusted, you are welcome into our "
+"space.\""
+
+#: src-en/data/events_special_aea_acid.xml:350
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_tyerel\"]/text"
+msgstr "(Ty E'rel) Request passage."
+
+#: src-en/data/events_special_aea_acid.xml:352
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_tyerel\"]/event/text"
+msgstr ""
+"Your Orchid hails the Acidic vessel, however before they can say anything "
+"they receive a response. \"Ah, one of the trusted, you are welcome into our "
+"space.\""
+
+#: src-en/data/events_special_aea_acid.xml:357
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"mind\"]/text"
+msgstr ""
+"(Mind Control) It's hard to mind control something you're not even sure has "
+"a mind, atleast one small enough to control."
+
+#: src-en/data/events_special_aea_acid.xml:361
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"cloaking\"]/text"
+msgstr "(Cloaking) Cloak and try to escape."
+
+#: src-en/data/events_special_aea_acid.xml:365
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"engines\"]/text"
+msgstr "(Adv. Engines) Try to escape the guard."
+
+#: src-en/data/events_special_aea_acid.xml:369
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"pilot\"]/text"
+msgstr "(Adv. Piloting) Activate the auto-pilot to try and escape."
+
+#: src-en/data/events_special_aea_acid.xml:376
+msgid ""
+"data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/text"
+msgstr "\"Your offer is unacceptable.\""
+
+#: src-en/data/events_special_aea_acid.xml:378
+msgid ""
+"data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[@req=\"weapons\"]/text"
+msgstr "(Adv. Weapons) Yes it is."
+
+#: src-en/data/events_special_aea_acid.xml:380
+msgid ""
+"data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[@req=\"weapons\"]/event/text"
+msgstr ""
+"\"Our opinion has not changed.\" The Acidic vessel moves into an attack "
+"position."
+
+#: src-en/data/events_special_aea_acid.xml:383
+msgid ""
+"data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[@req=\"weapons\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:389
+msgid ""
+"data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[2]/text"
+msgstr "Then we'll just fight our way through!."
+
+#: src-en/data/events_special_aea_acid.xml:391
+msgid ""
+"data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[2]/event/text"
+msgstr "You silence communications and prepare to attack."
+
+#: src-en/data/events_special_aea_acid.xml:394
+msgid ""
+"data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:400
+msgid ""
+"data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[3]/text"
+msgstr "Convince it you only have good intentions at the original price."
+
+#: src-en/data/events_special_aea_acid.xml:402
+msgid ""
+"data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[3]/event/text"
+msgstr "The Acidic Growth recognises your donation and lets you pass."
+
+#: src-en/data/events_special_aea_acid.xml:413
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/text"
+msgstr "\"An acceptable offer. The price will be lowered.\""
+
+#: src-en/data/events_special_aea_acid.xml:415
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[1]/text"
+msgstr "Refuse the new deal."
+
+#: src-en/data/events_special_aea_acid.xml:417
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[1]/event/text"
+msgstr ""
+"\"Unfortunate.\" Their weapons spring out of the hull, it looks like you've "
+"overstayed your welcome."
+
+#: src-en/data/events_special_aea_acid.xml:420
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:426
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[2]/text"
+msgstr "Pay the new price."
+
+#: src-en/data/events_special_aea_acid.xml:428
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[2]/event/text"
+msgstr "The Acidic Growth recognises your donation and lets you pass."
+
+#: src-en/data/events_special_aea_acid.xml:443
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_DESTROY\"]/text"
+msgstr ""
+"You have defeated the Acidic guard. Whatever might have been in their cargo "
+"has for certain been destroyed, but you can at least salvage some supplies "
+"from the ship."
+
+#: src-en/data/events_special_aea_acid.xml:446
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_DESTROY\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:451
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_DEADCREW\"]/text"
+msgstr ""
+"You have defeated the Acidic guard. Without the Acidic Growth on board to "
+"stop you, you can investigate their cargo. You find a weapon to bring back "
+"to the ship, and move on to scrap their hull."
+
+#: src-en/data/events_special_aea_acid.xml:455
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_DEADCREW\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:468
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_FOLLOWUP\"]/text"
+msgstr ""
+"By killing the Acidic guard, you have no doubt caused them to dispatch "
+"reinforcements to track you down. Watch your step as you explore the sector."
+
+#: src-en/data/events_special_aea_acid.xml:477
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_FOLLOWUP\"]/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_aea_acid.xml:481
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_FOLLOWUP\"]/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_aea_acid.xml:489
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/unvisitedTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_acid.xml:490
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_special_aea_acid.xml:491
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_acid.xml:493
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/text"
+msgstr ""
+"The Acidic Growth has not taken your less than friendly entry to the sector "
+"well and it appears it has dispatched a ship specifically to stop you."
+
+#: src-en/data/events_special_aea_acid.xml:497
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:505
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/unvisitedTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_acid.xml:506
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_special_aea_acid.xml:507
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_acid.xml:509
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACIDHOME\"]/text"
+msgstr ""
+"The Acidic Growth has not taken your less than friendly entry to the sector "
+"well and it appears it has dispatched a ship specifically to stop you."
+
+#: src-en/data/events_special_aea_acid.xml:515
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACIDHOME\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:558
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_LOOT\"]/escape/text"
+msgstr "They look like they don't want to fight. They are trying to escape."
+
+#: src-en/data/events_special_aea_acid.xml:569
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_acid.xml:570
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_special_aea_acid.xml:571
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_special_aea_acid.xml:574
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/text"
+msgstr ""
+"This beacon hosts an Acidic transport. It's safe to bet the ship is most "
+"likely carrying some special tech. If you can kill the acidic growth "
+"onboard, the cargo will be yours."
+
+#: src-en/data/events_special_aea_acid.xml:577
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[1]/text"
+msgstr "Demand the surrender of the goods."
+
+#: src-en/data/events_special_aea_acid.xml:579
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[1]/event/text"
+msgstr "You prepare to secure the cargo by force."
+
+#: src-en/data/events_special_aea_acid.xml:582
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:588
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[2]/text"
+msgstr "Avoid the ship."
+
+#: src-en/data/events_special_aea_acid.xml:590
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[2]/event/text"
+msgstr "The ship stays outside your weapons range, and eventually jumps away."
+
+#: src-en/data/events_special_aea_acid.xml:592
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_special_aea_acid.xml:596
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_special_aea_acid.xml:603
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_ACID\"]/text"
+msgstr ""
+"The crew is dead, leaving you with the ship. Its cargo is yours for the "
+"taking. Aboard is the special tech you expected, which you bring back to "
+"your ship."
+
+#: src-en/data/events_special_aea_acid.xml:623
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[1]"
+msgstr ""
+"As the wreck drifts apart you can just about make out the drifting clouds of"
+" gas formally making up the Acidic Growth."
+
+#: src-en/data/events_special_aea_acid.xml:624
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[2]"
+msgstr ""
+"As the wreck breaks apart you wonder if the scattered fragments of the "
+"Acidic Growth will ever make it back to their nebulas."
+
+#: src-en/data/events_special_aea_acid.xml:625
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[3]"
+msgstr ""
+"You wonder how long it takes a formless cloud of gas to constuct a "
+"spaceship, if the Acidic Growth could be angry, it would probably be angry "
+"with you right now."
+
+#: src-en/data/events_special_aea_acid.xml:626
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[4]"
+msgstr ""
+"Another Acidic vessel destroyed, and another piece of the Acidic Growth "
+"stranded."
+
+#: src-en/data/events_special_aea_acid.xml:627
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[5]"
+msgstr ""
+"Someday the Acidic Growth may reach out to form an alliance with the "
+"federation, you'll just have to hope it forgets about all the ships you've "
+"destroyed."
+
+#: src-en/data/events_special_aea_acid.xml:628
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[6]"
+msgstr ""
+"You can't help but feel sorry for those you've killed, even if they may or "
+"may not be alive."
+
+#: src-en/data/events_special_aea_acid.xml:631
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"DESTROYED_AEA_ACID_ACIDGUN\"]/text"
+msgstr ""
+"To your surprise, one of the natively built Acidic weapons survived the "
+"explosion. It's a little crisp from the explosion but with a few repairs you"
+" can salvage it."
+
+#: src-en/data/events_special_aea_acid.xml:649
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[1]"
+msgstr ""
+"You wonder if the Acidic Growth will know of the slaughter you've committed "
+"here, either way this wreck is still full of scrap."
+
+#: src-en/data/events_special_aea_acid.xml:650
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[2]"
+msgstr ""
+"Now the Acidic Growth's crew are but fragments diffused about the ship, get "
+"to scrapping."
+
+#: src-en/data/events_special_aea_acid.xml:651
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[3]"
+msgstr ""
+"You thought you would become numb to the guilt after enough murders, but you"
+" have yet to experience this."
+
+#: src-en/data/events_special_aea_acid.xml:652
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[4]"
+msgstr ""
+"The Acidic ship has been rid of crew. The moral part of you hopes that "
+"killing an Acidic soldier doesn't count as murder."
+
+#: src-en/data/events_special_aea_acid.xml:653
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[5]"
+msgstr ""
+"You reassure yourself that the crew of this ship can feel neither pain nor "
+"fear as you strip their vessel of anything useful."
+
+#: src-en/data/events_special_aea_acid.xml:656
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"DEAD_CREW_AEA_ACID_ACIDGUN\"]/text"
+msgstr ""
+"Now emptied of crew, you find one of the natively built Acidic weapons on "
+"board. You take it back with you before scrapping the ship."
+
+#: src-en/data/events_special_aea_acid.xml:665
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_ESCAPE_AEA_ACID\"]/text[1]"
+msgstr ""
+"The Acidic ship powers up its engines and swerves away from you. It's trying"
+" to escape!."
+
+#: src-en/data/events_special_aea_acid.xml:666
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_ESCAPE_AEA_ACID\"]/text[2]"
+msgstr ""
+"You detect high spikes in engine power on the Acidic ship. It's trying to "
+"escape."
+
+#: src-en/data/events_special_aea_acid.xml:679
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_ACID\"]/text[1]"
+msgstr ""
+"The Acidic ship escapes. To be honest, you're a little glad, hopefully in "
+"the future the Acidic Growth won't try to obliterate you either."
+
+#: src-en/data/events_special_aea_acid.xml:680
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_ACID\"]/text[2]"
+msgstr ""
+"The Acidic ship jumps away. You pickup some residue gas clouds in the area, "
+"you wonder if there are any fragments of the acidic growth out there."
+
+#: src-en/data/events_special_aea_acid.xml:681
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_ACID\"]/text[3]"
+msgstr ""
+"The Acidic ship's engine power spikes even higher and the ship jumps away."
+
+#: src-en/data/events_special_aea_acid.xml:684
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"GOTAWAY_AEA_ACID_REMAINS\"]/text"
+msgstr ""
+"As the Acidic ship jumps away you notice a trail of scrap left behind from "
+"the broken ship. At least you'll have something to scrap."
+
+#: src-en/data/events_special_aea_acid.xml:691
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"SURRENDER_AEA_ACID\"]/choice[1]/text"
+msgstr "Accept its surrender."
+
+#: src-en/data/events_special_aea_acid.xml:695
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"SURRENDER_AEA_ACID\"]/choice[@req=\"aea_acid_soldier\"]/text"
+msgstr "(Acidic Soldier) Negotiate a different deal."
+
+#: src-en/data/events_special_aea_acid.xml:707
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[1]"
+msgstr ""
+"A monotone voice requests you to stop firing in return for some supplies."
+
+#: src-en/data/events_special_aea_acid.xml:708
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[2]"
+msgstr ""
+"The Acidic ship surrenders. They offer some supplies if you'll let it live."
+
+#: src-en/data/events_special_aea_acid.xml:709
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[3]"
+msgstr "\"The offer is satisfactory. Please accept it.\""
+
+#: src-en/data/events_special_aea_acid.xml:710
+msgid ""
+"data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[4]"
+msgstr ""
+"\"Stop firing, you will recieve reward.\" It appears the ship is "
+"surrendering."
+
+#: src-en/data/events_special_aea_acid.xml:721
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"AEA_ACID_TEST_FIGHT\"]/text"
+msgstr "TEST."
+
+#: src-en/data/events_special_aea_acid.xml:724
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"AEA_ACID_TEST_FIGHT\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:758
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/destroyed/text"
+msgstr "The Acidic ship breaks apart and you salvage what you can."
+
+#: src-en/data/events_special_aea_acid.xml:761
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/destroyed/choice/text"
+msgstr "Contact the refugee ship."
+
+#: src-en/data/events_special_aea_acid.xml:763
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/destroyed/choice/event/text"
+msgstr ""
+"The refugee ship claims they didn't realize this was territory belonging to "
+"the Acidic Growth. As a gesture of good will (and seeing how effectively you"
+" dispatched the enemy ship), they offer up what supplies they can spare."
+
+#: src-en/data/events_special_aea_acid.xml:769
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/deadCrew/text"
+msgstr ""
+"The Acidic ship, now out of control of the Acidic Growth, provides easy "
+"salvage."
+
+#: src-en/data/events_special_aea_acid.xml:772
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/deadCrew/choice/text"
+msgstr "Contact the refugee ship."
+
+#: src-en/data/events_special_aea_acid.xml:774
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/deadCrew/choice/event/text"
+msgstr ""
+"The refugee ship claims they didn't realize this was territory belonging to "
+"the Acidic Growth. As a gesture of good will (and seeing how effectively you"
+" dispatched the enemy ship), they offer up what supplies they can spare."
+
+#: src-en/data/events_special_aea_acid.xml:793
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/text"
+msgstr ""
+"With the crew dead you begin to salvage the ship, However you arrive in a "
+"strange room, it appears to be some kind of nursery... Are those Orchid "
+"Children?."
+
+#: src-en/data/events_special_aea_acid.xml:795
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/text"
+msgstr "Take them with you."
+
+#: src-en/data/events_special_aea_acid.xml:797
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/event/text"
+msgstr ""
+"You transfer the Orchid children to your cargo hold before finishing the "
+"salvage operation."
+
+#: src-en/data/events_special_aea_acid.xml:801
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:807
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/text"
+msgstr "Finish salvaging the ship and forget about the nursery."
+
+#: src-en/data/events_special_aea_acid.xml:809
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/event/text"
+msgstr ""
+"You ignore the room and salvage the rest of the vessel, those kids will be "
+"fine, Right?."
+
+#: src-en/data/events_special_aea_acid.xml:812
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:818
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[3]/text"
+msgstr "Set up a distress beacon and leave."
+
+#: src-en/data/events_special_aea_acid.xml:820
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[3]/event/text"
+msgstr ""
+"You setup a distress beacon on the wreck and try to remove any evidence of "
+"your presence before leaving as quickly as possible."
+
+#: src-en/data/events_special_aea_acid.xml:823
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:832
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"DEFEAT_AEA_ACID_ELITE\"]/text"
+msgstr ""
+"You're still not sure killing Acidic Soldiers counts as murder, eitherway "
+"losing an elite vessel like that has to hurt the Acidic Growth."
+
+#: src-en/data/events_special_aea_acid.xml:835
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"DEFEAT_AEA_ACID_ELITE\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:837
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"DEFEAT_AEA_ACID_ELITE\"]/choice/event/text"
+msgstr ""
+"It seems the cargo of the Elite Acidic ship survived the fight. Inside is a "
+"functional weapon, which you bring back on board."
+
+#: src-en/data/events_special_aea_acid.xml:870
+msgid "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC\"]/text"
+msgstr "TEST."
+
+#: src-en/data/events_special_aea_acid.xml:872
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:879
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/destroyed/text"
+msgstr "You've defeated the Acidic Growth, leaving the shipyard unprotected."
+
+#: src-en/data/events_special_aea_acid.xml:882
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/destroyed/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:884
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/destroyed/choice/event/text"
+msgstr ""
+"With the shipyard now undefended you're able to loot anything useful, you "
+"find an Acidic upgrade package for your oxygen system."
+
+#: src-en/data/events_special_aea_acid.xml:890
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/deadCrew/text"
+msgstr "You've defeated the Acidic Growth, leaving the shipyard unprotected."
+
+#: src-en/data/events_special_aea_acid.xml:893
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/deadCrew/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:895
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/deadCrew/choice/event/text"
+msgstr ""
+"With the shipyard now undefended you're able to loot anything useful, you "
+"find an Acidic upgrade package for your oxygen system."
+
+#: src-en/data/events_special_aea_acid.xml:904
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/destroyed/text"
+msgstr ""
+"The Acidic ship defeated, you contact the weakened Slug vessel. \"You "
+"ssseee,\" they begin, \"we are most grateful, but, that isss, we do not "
+"currently have the liquid asssets to reward you at this time.\""
+
+#: src-en/data/events_special_aea_acid.xml:907
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/destroyed/choice[1]/text"
+msgstr "Leave them be."
+
+#: src-en/data/events_special_aea_acid.xml:909
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/destroyed/choice[1]/event/text"
+msgstr "These wretches aren't worth fighting. Time to spin up and jump off."
+
+#: src-en/data/events_special_aea_acid.xml:913
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/destroyed/choice[2]/text"
+msgstr "Finish them off."
+
+#: src-en/data/events_special_aea_acid.xml:918
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/text"
+msgstr ""
+"The Acidic ship defeated, you contact the weakened Slug vessel. \"You "
+"sssee,\" they begin, \"we are most grateful, but, that isss, we do not "
+"currently have the liquid asssets to reward you at thiss time.\""
+
+#: src-en/data/events_special_aea_acid.xml:921
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/choice[1]/text"
+msgstr "Leave them be."
+
+#: src-en/data/events_special_aea_acid.xml:923
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/choice[1]/event/text"
+msgstr "These wretches aren't worth fighting. Time to spin up and jump off."
+
+#: src-en/data/events_special_aea_acid.xml:927
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/choice[2]/text"
+msgstr "Finish them off."
+
+#: src-en/data/events_special_aea_acid.xml:935
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC_SLUG\"]/destroyed/text"
+msgstr ""
+"At last the Slugs' prized possessions are yours for the taking. After, that "
+"is, you split your takings with the Acidic vessel."
+
+#: src-en/data/events_special_aea_acid.xml:939
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC_SLUG\"]/deadCrew/text"
+msgstr ""
+"At last the Slugs' prized possessions are yours for the taking. After, that "
+"is, you split your takings with the Acidic vessel."
+
+#: src-en/data/events_special_aea_acid.xml:947
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ASTEROIDS\"]/destroyed/text"
+msgstr ""
+"With the asteriods destroyed you're able to reactive your engines and "
+"carefully make your way over to the wreck to begin salvaging it."
+
+#: src-en/data/events_special_aea_acid.xml:953
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ASTEROIDS\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+"The asteroid is expected to strike within this amount of time. Make sure to "
+"destroy it before the timer reaches 0!"
+
+#: src-en/data/events_special_aea_acid.xml:960
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"AEA_ACID_ASTEROID_APPROACHING_FAIL\"]/text"
+msgstr ""
+"You were not able to stop the asteroids in time. They smash into your ship, "
+"sending debris in every direction."
+
+#: src-en/data/events_special_aea_acid.xml:971
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ORCHID_ONLY\"]/destroyed/text"
+msgstr ""
+"With the orchids destroyed to move in to salvage what you can of the ship."
+
+#: src-en/data/events_special_aea_acid.xml:975
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ORCHID_ONLY\"]/deadCrew/text"
+msgstr ""
+"With the orchids killed and the Acidic Growth avenged, you move in to "
+"salvage what you can off of the ship."
+
+#: src-en/data/events_special_aea_acid.xml:988
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_SHIELDS\"]/destroyed/text"
+msgstr ""
+"The Acidic ship breaks apart and your shields return to normal. You collect "
+"what you can."
+
+#: src-en/data/events_special_aea_acid.xml:993
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_SHIELDS\"]/deadCrew/text"
+msgstr ""
+"With their crew dead, you quickly shut off their hacking module and your "
+"shields return to normal. You strip the ship."
+
+#: src-en/data/events_special_aea_acid.xml:1000
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_OXYGEN\"]/destroyed/text"
+msgstr ""
+"The Acidic ship breaks apart and your oxygen return to normal. You collect "
+"what you can."
+
+#: src-en/data/events_special_aea_acid.xml:1005
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_OXYGEN\"]/deadCrew/text"
+msgstr ""
+"With their crew dead, you quickly shut off their hacking module and your "
+"oxygen return to normal. You strip the ship."
+
+#: src-en/data/events_special_aea_acid.xml:1012
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_WEAPONS\"]/destroyed/text"
+msgstr ""
+"The Acidic ship breaks apart and your weapon system returns to normal. You "
+"collect what you can."
+
+#: src-en/data/events_special_aea_acid.xml:1017
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_WEAPONS\"]/deadCrew/text"
+msgstr ""
+"With their crew dead, you quickly shut off their hacking module and your "
+"weapon system returns to normal. You strip the ship."
+
+#: src-en/data/events_special_aea_acid.xml:1024
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_HACKING\"]/destroyed/text"
+msgstr ""
+"The Acidic ship breaks apart and their hacking module is destroyed. You "
+"collect what you can."
+
+#: src-en/data/events_special_aea_acid.xml:1029
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_HACKING\"]/deadCrew/text"
+msgstr ""
+"With their crew dead, you quickly shut off their hacking module and your "
+"system returns to normal. You strip the ship."
+
+#: src-en/data/events_special_aea_acid.xml:1037
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/text"
+msgstr ""
+"You've defeated the Elite Acidic Vessel. However, while you attempt to scrap"
+" it, you notice the jailer is trying to flee!."
+
+#: src-en/data/events_special_aea_acid.xml:1039
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[1]/text"
+msgstr "Let them go and finish scrapping the ship."
+
+#: src-en/data/events_special_aea_acid.xml:1041
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[1]/event/text"
+msgstr ""
+"You let the jailer ship disappear into the clouds and continue your salvage "
+"mission."
+
+#: src-en/data/events_special_aea_acid.xml:1046
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/text"
+msgstr "Abandon the wreckage and chase down the Jailer."
+
+#: src-en/data/events_special_aea_acid.xml:1048
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/event/text"
+msgstr ""
+"You follow the Jailer through the nebula until they finally give up and "
+"surrender."
+
+#: src-en/data/events_special_aea_acid.xml:1050
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/event/choice/text"
+msgstr "Free their prisoners."
+
+#: src-en/data/events_special_aea_acid.xml:1052
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/event/choice/event/text"
+msgstr ""
+"It appears they have only a single prisoner on board. A Slug Saboteur, "
+"they're grateful."
+
+#: src-en/data/events_special_aea_acid.xml:1060
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/text"
+msgstr ""
+"You've defeated the Elite Acidic Vessel. However, while you attempt to scrap"
+" it, you notice the jailer is trying to flee!."
+
+#: src-en/data/events_special_aea_acid.xml:1062
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[1]/text"
+msgstr "Let them go and finish scrapping the ship."
+
+#: src-en/data/events_special_aea_acid.xml:1064
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[1]/event/text"
+msgstr ""
+"You let the jailer ship disappear into the clouds and continue your salvage "
+"mission."
+
+#: src-en/data/events_special_aea_acid.xml:1069
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/text"
+msgstr "Abandon the wreckage and chase down the Jailer."
+
+#: src-en/data/events_special_aea_acid.xml:1071
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/event/text"
+msgstr ""
+"You follow the Jailer through the nebula until they finally give up and "
+"surrender."
+
+#: src-en/data/events_special_aea_acid.xml:1073
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/event/choice/text"
+msgstr "Free their prisoners."
+
+#: src-en/data/events_special_aea_acid.xml:1075
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/event/choice/event/text"
+msgstr ""
+"It appears they have only a single prisoner on board. A Slug Saboteur, "
+"they're grateful."
+
+#: src-en/data/events_special_aea_acid.xml:1087
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/gotaway/text"
+msgstr ""
+"The rebels jump away. They'll no doubt relay your position to the rest of "
+"the rebellion."
+
+#: src-en/data/events_special_aea_acid.xml:1091
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/destroyed/text"
+msgstr ""
+"The rebels have been defeated, It's a good thing you saw through their "
+"disguise as a simple civilian vessel, or maybe you're just a monster."
+
+#: src-en/data/events_special_aea_acid.xml:1094
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/destroyed/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:1099
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/deadCrew/text"
+msgstr ""
+"The rebels have been defeated, It's a good thing you saw through their "
+"disguise as a simple civilian vessel, or maybe you're just a monster."
+
+#: src-en/data/events_special_aea_acid.xml:1102
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/deadCrew/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:1120
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/text"
+msgstr ""
+"When the Acidic ship looks ready to break apart you notice the Slug ship has"
+" secured the loot and is preparing to jump away!."
+
+#: src-en/data/events_special_aea_acid.xml:1122
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[1]/text"
+msgstr "Continue fighting the Acidic ship."
+
+#: src-en/data/events_special_aea_acid.xml:1124
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[1]/event/text"
+msgstr ""
+"It's best you finish this - but you wonder whether what the Acidic vessel is"
+" carrying will be as valuable as what the Slugs snuck off with."
+
+#: src-en/data/events_special_aea_acid.xml:1128
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[2]/text"
+msgstr "Let the Acidic ship escape and go after the Slug ship."
+
+#: src-en/data/events_special_aea_acid.xml:1130
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[2]/event/text"
+msgstr ""
+"The Acidic vessel too badly damaged to pursue you, and you catch up to the "
+"Slugs before they jump. \"Ah, of courssse, we would never leave without "
+"providing the agreed upon ssspoils.\" They transfer over a decent chunk of "
+"the profits and set off."
+
+#: src-en/data/events_special_aea_acid.xml:1138
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/destroyed/text"
+msgstr ""
+"With the Acidic vessel defeated you scan the debris for anything useful. The"
+" Slug ship is long gone, spoils from the cache in hand."
+
+#: src-en/data/events_special_aea_acid.xml:1142
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/deadCrew/text"
+msgstr ""
+"With the Acidic vessel defeated you scan the debris for anything useful. The"
+" Slug ship is long gone, spoils from the cache in hand."
+
+#: src-en/data/events_special_aea_acid.xml:1149
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP2\"]/destroyed/text"
+msgstr ""
+"With the Acidic vessel taken care of, you search again for the cache it was "
+"protecting, but it's lost in the clouds. You console yourself with the "
+"salvage from the well-armed ship."
+
+#: src-en/data/events_special_aea_acid.xml:1153
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP2\"]/deadCrew/text"
+msgstr ""
+"With the Acidic vessel defeated, you search again for the cache it was "
+"protecting, but it's lost in the clouds. You console yourself with the "
+"salvage from the well-armed ship."
+
+#: src-en/data/events_special_aea_acid.xml:1160
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/text"
+msgstr "\"This fight isn't worth it, take the antidote as a trade for peace.\""
+
+#: src-en/data/events_special_aea_acid.xml:1162
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/choice[1]/text"
+msgstr "Accept their offer."
+
+#: src-en/data/events_special_aea_acid.xml:1164
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/choice[1]/event/text"
+msgstr ""
+"The Acidic vessel transfers over the antidote, and promptly jumps away. "
+"You're hesitant to inject it into your crew, but you have no choice. "
+"Luckily, they seem to be getting better already."
+
+#: src-en/data/events_special_aea_acid.xml:1171
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/choice[2]/text"
+msgstr "It's too late to surrender."
+
+#: src-en/data/events_special_aea_acid.xml:1176
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/destroyed/text"
+msgstr ""
+"You've destroyed the Acidic ship, but now there's no way to get the antidote"
+" back. Your crew is doomed, it seems."
+
+#: src-en/data/events_special_aea_acid.xml:1180
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/deadCrew/text"
+msgstr "You've neutralized the Acidic ship and emptied it of all crew."
+
+#: src-en/data/events_special_aea_acid.xml:1183
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/deadCrew/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:1185
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/deadCrew/choice/event/text"
+msgstr ""
+"Luckily it appears their labs onboard were not damaged in the fight. You "
+"grab the antidote and administer it to your crew."
+
+#: src-en/data/events_special_aea_acid.xml:1194
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_MEET\"]/destroyed/text"
+msgstr ""
+"You've destroyed the Acidic ship, As you're looting the remains of both the "
+"Acidic vessel and the Strange ship destroyed at the start of the fight, you "
+"discover an Acidic Soldier alive in the wreck."
+
+#: src-en/data/events_special_aea_acid.xml:1197
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_MEET\"]/destroyed/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:1202
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_MEET\"]/deadCrew/text"
+msgstr ""
+"You've neutralized the Acidic ship and emptied it of all crew. As you're "
+"looting the remains of both the Acidic vessel and the Strange ship destroyed"
+" at the start of the fight, you discover an Acidic Soldier alive in the "
+"wreck."
+
+#: src-en/data/events_special_aea_acid.xml:1205
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_MEET\"]/deadCrew/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:1213
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/destroyed/text"
+msgstr ""
+"You've destroyed the hulking Acidic vessel, as you're searching through the "
+"huge wreck created by it's defeat you find an intact databank, and on it the"
+" schematics for a ship."
+
+#: src-en/data/events_special_aea_acid.xml:1217
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/destroyed/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:1222
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/deadCrew/text"
+msgstr ""
+"You've cleared the hulking Acidic vessel of it's crew, as you're searching "
+"through the huge carcass created by it's defeat you find an intact databank,"
+" and on it the schematics for a ship."
+
+#: src-en/data/events_special_aea_acid.xml:1227
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/deadCrew/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:1236
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/escape/text"
+msgstr "They look like they don't want to fight. They are trying to escape."
+
+#: src-en/data/events_special_aea_acid.xml:1240
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/destroyed/text"
+msgstr ""
+"You've destroyed the transport, and with it any of the important loot it was"
+" carrying."
+
+#: src-en/data/events_special_aea_acid.xml:1243
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/destroyed/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:1248
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/text"
+msgstr ""
+"The crew is dead, leaving you with the ship. Its cargo is yours for the "
+"taking. Aboard is an unusual barrel, perhaps if you had a weapon without a "
+"barrel it would be useful."
+
+#: src-en/data/events_special_aea_acid.xml:1251
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
+" and @lvl=\"1\"]/text"
+msgstr "Install the barrel into the weapon from the shipyard."
+
+#: src-en/data/events_special_aea_acid.xml:1254
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"You slot the barrel in and it joins seemlessly with the rest of the weapon."
+
+#: src-en/data/events_special_aea_acid.xml:1256
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:1258
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
+" and @lvl=\"1\"]/event/choice/event/text"
+msgstr "The weapon is now fully operational."
+
+#: src-en/data/events_special_aea_acid.xml:1262
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
+" and @lvl=\"1\"]/event/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_acid.xml:1270
+msgid ""
+"data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
+" and @lvl=\"0\"]/text"
+msgstr "You have no use for the barrel."

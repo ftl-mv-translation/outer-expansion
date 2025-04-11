@@ -1,0 +1,40 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_aea_justicier.xml:3
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/text"
+msgstr ""
+"The Dark Justicier can illegally modify your clone bay.\n"
+"\t[Effects: Clone bay no longer clones dead crew, on jump modified clone bay produces two random illegal clones who have a death timer of 30 seconds, modified clone bay prevents death timers from progressing while powered.]"
+
+#: src-en/data/events_special_aea_justicier.xml:6
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/text"
+msgstr "Convert your clone bay. [Cost: 40~, 3|]"
+
+#: src-en/data/events_special_aea_justicier.xml:8
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/event/text"
+msgstr ""
+"The existing clone bay is partially deconstructed in order to make way for "
+"the upgrades."
+
+#: src-en/data/events_special_aea_justicier.xml:15
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_aea_justicier.xml:17
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/event/choice/event/text"
+msgstr "The changes are made and you are left with a modifier clonebay."
+
+#: src-en/data/events_special_aea_justicier.xml:24
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[2]/text"
+msgstr "Nevermind."
