@@ -6450,7 +6450,7 @@ msgstr "Max Health is increased to 125"
 #: src-en/data/blueprints.xml.append:11038
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/powerList/power[4]"
-msgstr "Inflicts 1.6x damage in crew combat"
+msgstr "Inflicts 0.8x damage in crew combat"
 
 #: src-en/data/blueprints.xml.append:11056
 msgid ""
@@ -6584,98 +6584,98 @@ msgstr ""
 "Manning in Auxiliary Shields also provides Shields with 50% of the bonus, "
 "Manning in Shields provides Auxiliary Shields with 50% of it's bonus."
 
-#: src-en/data/blueprints.xml.append:11186
+#: src-en/data/blueprints.xml.append:11184
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_AEA_SUPER_SHIELDS\"]/title"
 msgstr "Super shield boon"
 
-#: src-en/data/blueprints.xml.append:11187
+#: src-en/data/blueprints.xml.append:11185
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_AEA_SUPER_SHIELDS\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:11196
+#: src-en/data/blueprints.xml.append:11194
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHARD_AUTO\"]/title"
 msgstr "Shard-Slicer Beam"
 
-#: src-en/data/blueprints.xml.append:11197
+#: src-en/data/blueprints.xml.append:11195
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHARD_AUTO\"]/short"
 msgstr "Artillery"
 
-#: src-en/data/blueprints.xml.append:11198
+#: src-en/data/blueprints.xml.append:11196
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHARD_AUTO\"]/desc"
 msgstr ""
 "[Base Cooldown: 25] 2 damage beam with a long trail, deals double damage to "
 "empty rooms, locks down rooms on hit."
 
-#: src-en/data/blueprints.xml.append:11199
+#: src-en/data/blueprints.xml.append:11197
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_SHARD_AUTO\"]/tooltip"
 msgstr ""
 "Artillery: 2 damage beam with a long trail, deals double damage to empty "
 "rooms, locks down rooms on hit"
 
-#: src-en/data/blueprints.xml.append:11223
+#: src-en/data/blueprints.xml.append:11222
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_COOLER\"]/title"
 msgstr "Shard-Forged Cooling Unit"
 
-#: src-en/data/blueprints.xml.append:11224
+#: src-en/data/blueprints.xml.append:11223
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_COOLER\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:11230
+#: src-en/data/blueprints.xml.append:11229
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_ARMOUR\"]/title"
 msgstr "Shard-Forged Armor"
 
-#: src-en/data/blueprints.xml.append:11231
+#: src-en/data/blueprints.xml.append:11230
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_ARMOUR\"]/desc"
 msgstr ""
 "Every time your ship takes damage, there is a 50% chance to break off a "
 "shard that flies at your enemy. Creates a single super shield layer on jump,"
 " Stacks with other supershields."
 
-#: src-en/data/blueprints.xml.append:11237
+#: src-en/data/blueprints.xml.append:11236
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_SHIELD\"]/title"
 msgstr "Shard-Forged Shielding"
 
-#: src-en/data/blueprints.xml.append:11238
+#: src-en/data/blueprints.xml.append:11237
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_SHIELD\"]/desc"
 msgstr ""
 "Every time your ship takes damage, there is a 100% chance to break off a "
 "shard that flies at your enemy. Generates a 7 layer supershield on jump."
 
-#: src-en/data/blueprints.xml.append:11245
+#: src-en/data/blueprints.xml.append:11244
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_ARMOUR_ENEMY\"]/title"
 msgstr "Shard-Forged Armor"
 
-#: src-en/data/blueprints.xml.append:11246
+#: src-en/data/blueprints.xml.append:11245
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_ARMOUR_ENEMY\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:11252
+#: src-en/data/blueprints.xml.append:11251
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_SHIELD_ENEMY\"]/title"
 msgstr "Shard-Forged Shielding"
 
-#: src-en/data/blueprints.xml.append:11253
+#: src-en/data/blueprints.xml.append:11252
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_SHARD_SHIELD_ENEMY\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:11259
+#: src-en/data/blueprints.xml.append:11258
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_LAB_CRYSTAL_SABOTAGE\"]/title"
 msgstr "[L] Hardened Crystals"
 
-#: src-en/data/blueprints.xml.append:11260
+#: src-en/data/blueprints.xml.append:11259
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_LAB_CRYSTAL_SABOTAGE\"]/desc"
 msgstr ""
@@ -6683,34 +6683,34 @@ msgstr ""
 "\n"
 "[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself."
 
-#: src-en/data/blueprints.xml.append:11268
+#: src-en/data/blueprints.xml.append:11267
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE\"]/class"
 msgstr "Shard-Shattered Cruiser"
 
-#: src-en/data/blueprints.xml.append:11269
+#: src-en/data/blueprints.xml.append:11268
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE\"]/name"
 msgstr "The Citrine"
 
-#: src-en/data/blueprints.xml.append:11270
+#: src-en/data/blueprints.xml.append:11269
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE\"]/desc"
 msgstr ""
 "A boarding focused ship, the crystal crew onboard are able to quickly "
 "destroy systems while protected by a wall of crystal."
 
-#: src-en/data/blueprints.xml.append:11352
+#: src-en/data/blueprints.xml.append:11351
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE_2\"]/class"
 msgstr "Shard-Shattered Cruiser"
 
-#: src-en/data/blueprints.xml.append:11353
+#: src-en/data/blueprints.xml.append:11352
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE_2\"]/name"
 msgstr "The Highnoon"
 
-#: src-en/data/blueprints.xml.append:11354
+#: src-en/data/blueprints.xml.append:11353
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE_2\"]/desc"
 msgstr ""
@@ -6718,66 +6718,66 @@ msgstr ""
 "ship, however it's limited by a small teleporter and limited system "
 "capacity."
 
-#: src-en/data/blueprints.xml.append:11434
+#: src-en/data/blueprints.xml.append:11433
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE_3\"]/class"
 msgstr "Shard-Shattered Cruiser"
 
-#: src-en/data/blueprints.xml.append:11435
+#: src-en/data/blueprints.xml.append:11434
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE_3\"]/name"
 msgstr "Nightbringer"
 
-#: src-en/data/blueprints.xml.append:11436
+#: src-en/data/blueprints.xml.append:11435
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_BATTLE_3\"]/desc"
 msgstr ""
 "With both a Shields system and an Auxiliary Shields system this ship "
 "possesses strong defensive capabilities."
 
-#: src-en/data/blueprints.xml.append:11515
+#: src-en/data/blueprints.xml.append:11514
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_SCOUT\"]/class"
 msgstr "Shard-Caller Cruiser"
 
-#: src-en/data/blueprints.xml.append:11516
+#: src-en/data/blueprints.xml.append:11515
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_SCOUT\"]/name"
 msgstr "The Shardbearer"
 
-#: src-en/data/blueprints.xml.append:11517
+#: src-en/data/blueprints.xml.append:11516
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_SCOUT\"]/desc"
 msgstr "This ship is completely devoid of any description whatsoever!"
 
-#: src-en/data/blueprints.xml.append:11598
+#: src-en/data/blueprints.xml.append:11597
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO\"]/class"
 msgstr "Shard-Forged Auto-Cruiser"
 
-#: src-en/data/blueprints.xml.append:11599
+#: src-en/data/blueprints.xml.append:11598
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO\"]/name"
 msgstr "The Glass Shard"
 
-#: src-en/data/blueprints.xml.append:11600
+#: src-en/data/blueprints.xml.append:11599
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO\"]/desc"
 msgstr ""
 "Possessing a powerful Artillery Beam capable of locking down rooms this ship"
 " is formidable in both defense and offense."
 
-#: src-en/data/blueprints.xml.append:11677
+#: src-en/data/blueprints.xml.append:11676
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO_2\"]/class"
 msgstr "Shard-Forged Auto-Cruiser"
 
-#: src-en/data/blueprints.xml.append:11678
+#: src-en/data/blueprints.xml.append:11677
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO_2\"]/name"
 msgstr "Circuit Board"
 
-#: src-en/data/blueprints.xml.append:11679
+#: src-en/data/blueprints.xml.append:11678
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO_2\"]/desc"
 msgstr ""
@@ -6786,17 +6786,17 @@ msgstr ""
 "however it can't install a normal Shields system without losing the "
 "auxiliary one."
 
-#: src-en/data/blueprints.xml.append:11758
+#: src-en/data/blueprints.xml.append:11757
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO_3\"]/class"
 msgstr "Shard-Forged Auto-Cruiser"
 
-#: src-en/data/blueprints.xml.append:11759
+#: src-en/data/blueprints.xml.append:11758
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO_3\"]/name"
 msgstr "The Topaz"
 
-#: src-en/data/blueprints.xml.append:11760
+#: src-en/data/blueprints.xml.append:11759
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_SHARD_AUTO_3\"]/desc"
 msgstr ""
@@ -6804,34 +6804,34 @@ msgstr ""
 "however with only an auxiliary shielding system and a drone it may struggle "
 "in defensive situations."
 
-#: src-en/data/blueprints.xml.append:11841
+#: src-en/data/blueprints.xml.append:11840
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW6\"]/class"
 msgstr "King Onyx's Crewser"
 
-#: src-en/data/blueprints.xml.append:11842
+#: src-en/data/blueprints.xml.append:11841
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW6\"]/name"
 msgstr "The Iridescent"
 
-#: src-en/data/blueprints.xml.append:11843
+#: src-en/data/blueprints.xml.append:11842
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW6\"]/desc"
 msgstr ""
 "With a powerful crew setup and strong defensive ships the dawnshard can be "
 "protected against any likely usurpers."
 
-#: src-en/data/blueprints.xml.append:11924
+#: src-en/data/blueprints.xml.append:11923
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE\"]/class"
 msgstr "Rebel Broadsider"
 
-#: src-en/data/blueprints.xml.append:11925
+#: src-en/data/blueprints.xml.append:11924
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE\"]/name"
 msgstr "The Broadside"
 
-#: src-en/data/blueprints.xml.append:11926
+#: src-en/data/blueprints.xml.append:11925
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE\"]/desc"
 msgstr ""
@@ -6839,181 +6839,181 @@ msgstr ""
 "ship's artillery system are modular allowing it to have a number of "
 "different combinations of artillery"
 
-#: src-en/data/blueprints.xml.append:12016
+#: src-en/data/blueprints.xml.append:12015
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE\"]/title"
 msgstr "Pierce Laser Artillery"
 
-#: src-en/data/blueprints.xml.append:12017
+#: src-en/data/blueprints.xml.append:12016
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE\"]/short"
 msgstr "Artillery"
 
-#: src-en/data/blueprints.xml.append:12018
+#: src-en/data/blueprints.xml.append:12017
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE\"]/desc"
 msgstr ""
 "[Base cooldown: 20] A slow charging duel laser cannon that fires 2 lasers "
 "per burst per barrel for a total of 4 shots per charge."
 
-#: src-en/data/blueprints.xml.append:12019
+#: src-en/data/blueprints.xml.append:12018
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE\"]/tooltip"
 msgstr ""
 "Artillery: A relatively slow charging burst of lasers capable of piercing "
 "one layer of shields."
 
-#: src-en/data/blueprints.xml.append:12050
+#: src-en/data/blueprints.xml.append:12049
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE_ENEMY\"]/title"
 msgstr "Pierce Laser Artillery"
 
-#: src-en/data/blueprints.xml.append:12051
+#: src-en/data/blueprints.xml.append:12050
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE_ENEMY\"]/short"
 msgstr "Artillery"
 
-#: src-en/data/blueprints.xml.append:12052
+#: src-en/data/blueprints.xml.append:12051
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE_ENEMY\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:12053
+#: src-en/data/blueprints.xml.append:12052
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE_ENEMY\"]/tooltip"
 msgstr ""
 "Artillery: A relatively slow charging burst of lasers capable of piercing "
 "one layer of shields."
 
-#: src-en/data/blueprints.xml.append:12084
+#: src-en/data/blueprints.xml.append:12083
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE_ENEMY_OFFSET\"]/title"
 msgstr "Pierce Laser Artillery"
 
-#: src-en/data/blueprints.xml.append:12085
+#: src-en/data/blueprints.xml.append:12084
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE_ENEMY_OFFSET\"]/short"
 msgstr "Artillery"
 
-#: src-en/data/blueprints.xml.append:12086
+#: src-en/data/blueprints.xml.append:12085
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE_ENEMY_OFFSET\"]/desc"
 msgstr "YOU SHOULD NEVER SEE THIS"
 
-#: src-en/data/blueprints.xml.append:12087
+#: src-en/data/blueprints.xml.append:12086
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_PIERCE_ENEMY_OFFSET\"]/tooltip"
 msgstr ""
 "Artillery: A relatively slow charging burst of lasers capable of piercing "
 "one layer of shields."
 
-#: src-en/data/blueprints.xml.append:12125
+#: src-en/data/blueprints.xml.append:12124
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_FOCUS\"]/title"
 msgstr "Burst Pinpoint Artillery"
 
-#: src-en/data/blueprints.xml.append:12126
+#: src-en/data/blueprints.xml.append:12125
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_FOCUS\"]/short[1]"
 msgstr "Artillery"
 
-#: src-en/data/blueprints.xml.append:12127
+#: src-en/data/blueprints.xml.append:12126
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_FOCUS\"]/short[2]"
 msgstr "Artillery"
 
-#: src-en/data/blueprints.xml.append:12128
+#: src-en/data/blueprints.xml.append:12127
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_FOCUS\"]/desc"
 msgstr ""
 "[Base cooldown: 20] A powerful burst pinpoint artillery weapon that is able "
 "to fire multiple pinpoint beams in sequence."
 
-#: src-en/data/blueprints.xml.append:12129
+#: src-en/data/blueprints.xml.append:12128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_FOCUS\"]/tooltip"
 msgstr ""
 "Artillery: Powers a long and deadly beam that does 2 damage per room hit, "
 "but like the Halberd can only partially pierce through one shield layer."
 
-#: src-en/data/blueprints.xml.append:12152
+#: src-en/data/blueprints.xml.append:12151
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BROADSIDE_FOCUS_BEAM\"]/title"
 msgstr "'Misericorde' Pinpoint"
 
-#: src-en/data/blueprints.xml.append:12153
+#: src-en/data/blueprints.xml.append:12152
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BROADSIDE_FOCUS_BEAM\"]/short"
 msgstr "'Misericord'"
 
-#: src-en/data/blueprints.xml.append:12154
+#: src-en/data/blueprints.xml.append:12153
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BROADSIDE_FOCUS_BEAM\"]/desc"
 msgstr "An upgraded Pinpoint weapon that does 3 damage."
 
-#: src-en/data/blueprints.xml.append:12155
+#: src-en/data/blueprints.xml.append:12154
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BROADSIDE_FOCUS_BEAM\"]/tooltip"
 msgstr "One damage per room beam weapon"
 
-#: src-en/data/blueprints.xml.append:12177
+#: src-en/data/blueprints.xml.append:12176
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MISSILE\"]/title"
 msgstr "Duel Missile Artillery"
 
-#: src-en/data/blueprints.xml.append:12178
+#: src-en/data/blueprints.xml.append:12177
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MISSILE\"]/short"
 msgstr "Artillery"
 
-#: src-en/data/blueprints.xml.append:12179
+#: src-en/data/blueprints.xml.append:12178
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MISSILE\"]/desc"
 msgstr ""
 "[Base cooldown: 20] Fires a pair of missiles which do heavy damage and never"
 " miss."
 
-#: src-en/data/blueprints.xml.append:12180
+#: src-en/data/blueprints.xml.append:12179
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MISSILE\"]/tooltip"
 msgstr ""
 "Artillery: Fires a pair of missiles which do heavy damage and never miss."
 
-#: src-en/data/blueprints.xml.append:12215
+#: src-en/data/blueprints.xml.append:12214
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MINE\"]/title"
 msgstr "Ion Minelauncher Artillery"
 
-#: src-en/data/blueprints.xml.append:12216
+#: src-en/data/blueprints.xml.append:12215
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MINE\"]/short"
 msgstr "Artillery"
 
-#: src-en/data/blueprints.xml.append:12217
+#: src-en/data/blueprints.xml.append:12216
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MINE\"]/desc"
 msgstr ""
 "[Base cooldown: 20] Fires a burst of ionized mines which do hull damage and "
 "ionize systems."
 
-#: src-en/data/blueprints.xml.append:12218
+#: src-en/data/blueprints.xml.append:12217
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_MINE\"]/tooltip"
 msgstr ""
 "Artillery: Fires a burst of ionized mines which do hull damage and ionize "
 "systems."
 
-#: src-en/data/blueprints.xml.append:12254
+#: src-en/data/blueprints.xml.append:12253
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE_2\"]/class"
 msgstr "Rebel Broadsider"
 
-#: src-en/data/blueprints.xml.append:12255
+#: src-en/data/blueprints.xml.append:12254
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE_2\"]/name"
 msgstr "The Sideboard"
 
-#: src-en/data/blueprints.xml.append:12256
+#: src-en/data/blueprints.xml.append:12255
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE_2\"]/desc"
 msgstr ""
@@ -7021,109 +7021,109 @@ msgstr ""
 "ship's artillery system are modular allowing it to have a number of "
 "different combinations of artillery."
 
-#: src-en/data/blueprints.xml.append:12339
+#: src-en/data/blueprints.xml.append:12338
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_LASER\"]/title"
 msgstr "MFK Laser"
 
-#: src-en/data/blueprints.xml.append:12340
+#: src-en/data/blueprints.xml.append:12339
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_LASER\"]/short"
 msgstr "MFK Laser"
 
-#: src-en/data/blueprints.xml.append:12341
+#: src-en/data/blueprints.xml.append:12340
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_LASER\"]/desc"
 msgstr ""
 "[Base Cooldown: 25/21/17] A slow charging laser which fires 4 shots that "
 "deal double damage to empty rooms."
 
-#: src-en/data/blueprints.xml.append:12342
+#: src-en/data/blueprints.xml.append:12341
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_LASER\"]/tooltip"
 msgstr ""
 "Artillery: A slow charging laser which fires 4 shots that deal double damage"
 " to empty rooms."
 
-#: src-en/data/blueprints.xml.append:12381
+#: src-en/data/blueprints.xml.append:12380
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_MISSILE\"]/title"
 msgstr "MFK Missile"
 
-#: src-en/data/blueprints.xml.append:12382
+#: src-en/data/blueprints.xml.append:12381
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_MISSILE\"]/short"
 msgstr "MFK M."
 
-#: src-en/data/blueprints.xml.append:12383
+#: src-en/data/blueprints.xml.append:12382
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_MISSILE\"]/desc"
 msgstr ""
 "[Base Cooldown: 25/21/17] Fires 3 missiles that do 1 damage and 1 extra "
 "system damage."
 
-#: src-en/data/blueprints.xml.append:12384
+#: src-en/data/blueprints.xml.append:12383
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_MISSILE\"]/tooltip"
 msgstr "Artillery: Fires 3 missiles; 1 damage each; pierces all shields."
 
-#: src-en/data/blueprints.xml.append:12425
+#: src-en/data/blueprints.xml.append:12424
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_BEAM\"]/title"
 msgstr "MFK Beam"
 
-#: src-en/data/blueprints.xml.append:12426
+#: src-en/data/blueprints.xml.append:12425
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_BEAM\"]/short"
 msgstr "MFK Beam"
 
-#: src-en/data/blueprints.xml.append:12427
+#: src-en/data/blueprints.xml.append:12426
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_BEAM\"]/desc"
 msgstr ""
 "[Base Cooldown: 25/21/17] 2 damage beam with a long trail, deals double "
 "damage to empty rooms."
 
-#: src-en/data/blueprints.xml.append:12428
+#: src-en/data/blueprints.xml.append:12427
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_BEAM\"]/tooltip"
 msgstr ""
 "Artillery: 2 damage beam with a long trail, deals double damage to empty "
 "rooms."
 
-#: src-en/data/blueprints.xml.append:12454
+#: src-en/data/blueprints.xml.append:12453
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_ION\"]/title"
 msgstr "MFK Ion"
 
-#: src-en/data/blueprints.xml.append:12455
+#: src-en/data/blueprints.xml.append:12454
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_ION\"]/short"
 msgstr "MFK Ion"
 
-#: src-en/data/blueprints.xml.append:12457
+#: src-en/data/blueprints.xml.append:12456
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_ION\"]/desc"
 msgstr ""
 "[Base Cooldown: 25/21/17] A 3 shot ion that does 1 ion damage and 1 system "
 "damage."
 
-#: src-en/data/blueprints.xml.append:12458
+#: src-en/data/blueprints.xml.append:12457
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE2_ION\"]/tooltip"
 msgstr "Artillery: A 3 shot ion that does 1 ion damage and 1 system damage."
 
-#: src-en/data/blueprints.xml.append:12502
+#: src-en/data/blueprints.xml.append:12501
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE_3\"]/class"
 msgstr "Rebel Broadsider"
 
-#: src-en/data/blueprints.xml.append:12503
+#: src-en/data/blueprints.xml.append:12502
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE_3\"]/name"
 msgstr "The Barrage"
 
-#: src-en/data/blueprints.xml.append:12504
+#: src-en/data/blueprints.xml.append:12503
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_BROADSIDE_3\"]/desc"
 msgstr ""
@@ -7131,17 +7131,17 @@ msgstr ""
 "ship's artillery mounts have been specifically designed to mount any sort of"
 " weapon."
 
-#: src-en/data/blueprints.xml.append:12587
+#: src-en/data/blueprints.xml.append:12586
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_MULTI\"]/title"
 msgstr "'Hokoyari' Beam"
 
-#: src-en/data/blueprints.xml.append:12588
+#: src-en/data/blueprints.xml.append:12587
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_MULTI\"]/short"
 msgstr "'Hokoyari'"
 
-#: src-en/data/blueprints.xml.append:12589
+#: src-en/data/blueprints.xml.append:12588
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_MULTI\"]/desc"
 msgstr ""
@@ -7149,12 +7149,12 @@ msgstr ""
 "number of parallel beams increases per shot, with no limit on the amount of "
 "beams."
 
-#: src-en/data/blueprints.xml.append:12590
+#: src-en/data/blueprints.xml.append:12589
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_MULTI\"]/tooltip"
 msgstr "Beam weapon, 2 damage per room."
 
-#: src-en/data/blueprints.xml.append:12591
+#: src-en/data/blueprints.xml.append:12590
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_MULTI\"]/descriptionOverride"
 msgstr ""
@@ -7177,7 +7177,7 @@ msgstr ""
 "\n"
 "Default Price: 80~   -   Selling Price: 40~"
 
-#: src-en/data/blueprints.xml.append:12610
+#: src-en/data/blueprints.xml.append:12609
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_MULTI\"]/tooltipOverride"
 msgstr ""
@@ -7195,29 +7195,61 @@ msgstr ""
 "\n"
 "Breach Chance: 20% (Adjusted: 20%)"
 
-#: src-en/data/blueprints.xml.append:12647
+#: src-en/data/blueprints.xml.append:12646
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_LANIUS_BATTLE\"]/class"
 msgstr "Lanius Battle Cruiser"
 
-#: src-en/data/blueprints.xml.append:12648
+#: src-en/data/blueprints.xml.append:12647
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_LANIUS_BATTLE\"]/name"
 msgstr "The Magpie"
 
-#: src-en/data/blueprints.xml.append:12649
+#: src-en/data/blueprints.xml.append:12648
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_LANIUS_BATTLE\"]/desc"
 msgstr ""
 "This ship cuts up the enemy with it's powerful adaptive pinpoint that gains "
 "more beams as it chains."
 
+#: src-en/data/blueprints.xml.append:12733
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/title"
+msgstr "Dark Justicier"
+
 #: src-en/data/blueprints.xml.append:12734
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/short"
+msgstr "Dark Justicier"
+
+#: src-en/data/blueprints.xml.append:12739
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[1]"
+msgstr ""
+"Active Ability: Perform a ritual sacrifice, select a number of allied crew "
+"who will be sacrified."
+
+#: src-en/data/blueprints.xml.append:12740
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[2]"
+msgstr "Immune to suffocation and fires"
+
+#: src-en/data/blueprints.xml.append:12741
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[3]"
+msgstr "Max Health is increased to 200"
+
+#: src-en/data/blueprints.xml.append:12742
+msgid ""
+"data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[4]"
+msgstr "Inflicts 1.5x damage in crew combat"
+
+#: src-en/data/blueprints.xml.append:12747
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"aea_clone_crime\"]/title"
 msgstr "Modified Clone Bay"
 
-#: src-en/data/blueprints.xml.append:12735
+#: src-en/data/blueprints.xml.append:12748
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"aea_clone_crime\"]/desc"
 msgstr ""
@@ -7226,251 +7258,133 @@ msgstr ""
 " prevents death timers from progressing onboard this ship, including on "
 "clones generated by this system."
 
-#: src-en/data/blueprints.xml.append:12748
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_AEA_CLONE_CRIME_LIFETIME\"]/title"
-msgstr "Reduced Decay"
-
-#: src-en/data/blueprints.xml.append:12749
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_AEA_CLONE_CRIME_LIFETIME\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
-
-#: src-en/data/blueprints.xml.append:12756
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_CLONE_CRIME_LIFETIME\"]/title"
-msgstr "Reduced Decay [X]"
-
-#: src-en/data/blueprints.xml.append:12757
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_CLONE_CRIME_LIFETIME\"]/desc"
-msgstr ""
-"Crew produced by the modified clone bay have their lifetime extended by 20 seconds.\n"
-"    \n"
-"\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Modified Clone Bay system."
-
-#: src-en/data/blueprints.xml.append:12766
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_AEA_CLONE_CRIME_BUFF\"]/title"
-msgstr "Synthesized Muscle"
-
-#: src-en/data/blueprints.xml.append:12767
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"UPG_AEA_CLONE_CRIME_BUFF\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
-
-#: src-en/data/blueprints.xml.append:12773
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_CLONE_CRIME_BUFF\"]/title"
-msgstr "Synthesized Muscle [X]"
-
-#: src-en/data/blueprints.xml.append:12774
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"EX_AEA_CLONE_CRIME_BUFF\"]/desc"
-msgstr ""
-"Crew produced by the modified clone bay gain 20hp per power bar in the system.\n"
-"    \n"
-"\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Modified Clone Bay system."
-
-#: src-en/data/blueprints.xml.append:12782
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_AEA_CLONE_CRIME\"]/title"
-msgstr "Modified Clonebay Boon"
-
-#: src-en/data/blueprints.xml.append:12783
-msgid ""
-"data/blueprints.xml.append$//augBlueprint[@name=\"BOON_AEA_CLONE_CRIME\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
-
-#: src-en/data/blueprints.xml.append:12790
-msgid ""
-"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_JUSTICE\"]/class"
-msgstr "Justicier Cruiser"
-
-#: src-en/data/blueprints.xml.append:12791
-msgid ""
-"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_JUSTICE\"]/name"
-msgstr "The Dark Prince"
-
-#: src-en/data/blueprints.xml.append:12792
-msgid ""
-"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_JUSTICE\"]/desc"
-msgstr "This ship is completely devoid of any description whatsoever!"
-
-#: src-en/data/blueprints.xml.append:12876
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/title"
-msgstr "Dark Justicier"
-
-#: src-en/data/blueprints.xml.append:12877
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/short"
-msgstr "Dark Justicier"
-
-#: src-en/data/blueprints.xml.append:12882
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[1]"
-msgstr ""
-"Active Ability: Perform a ritual sacrifice, select a number of allied crew "
-"who will be sacrified."
-
-#: src-en/data/blueprints.xml.append:12883
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[2]"
-msgstr "Immune to suffocation and fires"
-
-#: src-en/data/blueprints.xml.append:12884
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[3]"
-msgstr "Max Health is increased to 200"
-
-#: src-en/data/blueprints.xml.append:12885
-msgid ""
-"data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[4]"
-msgstr "Inflicts 1.5x damage in crew combat"
-
-#: src-en/data/blueprints.xml.append:12890
+#: src-en/data/blueprints.xml.append:12762
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_human\"]/desc"
 msgstr ""
 "Humans are common and uninteresting, but very skilled.\n"
 "\t\t\n"
 "Inherited Cloning stats: 0.75x HP"
 
-#: src-en/data/blueprints.xml.append:12895
+#: src-en/data/blueprints.xml.append:12767
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_human\"]/title"
 msgstr "Cloned Human"
 
-#: src-en/data/blueprints.xml.append:12896
+#: src-en/data/blueprints.xml.append:12768
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_human\"]/short"
 msgstr "Human"
 
-#: src-en/data/blueprints.xml.append:12899
+#: src-en/data/blueprints.xml.append:12771
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_human\"]/powerList/power"
 msgstr "Skills improve slightly faster"
 
-#: src-en/data/blueprints.xml.append:12914
+#: src-en/data/blueprints.xml.append:12786
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_engi\"]/desc"
 msgstr ""
 "It's unclear if the 'Engi' are partly organic or entirely mechanical, but it's well known that they make exceptional engineers.\n"
 "\t\t\n"
 "Inherited cloning stats: 0.75x HP"
 
-#: src-en/data/blueprints.xml.append:12919
+#: src-en/data/blueprints.xml.append:12791
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_engi\"]/title"
 msgstr "Engi"
 
-#: src-en/data/blueprints.xml.append:12920
+#: src-en/data/blueprints.xml.append:12792
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_engi\"]/short"
 msgstr "Engi"
 
-#: src-en/data/blueprints.xml.append:12923
+#: src-en/data/blueprints.xml.append:12795
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_engi\"]/powerList/power[1]"
 msgstr "Repair speed is doubled"
 
-#: src-en/data/blueprints.xml.append:12924
+#: src-en/data/blueprints.xml.append:12796
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_engi\"]/powerList/power[2]"
 msgstr "Combat damage inflicted is halved"
 
-#: src-en/data/blueprints.xml.append:12928
+#: src-en/data/blueprints.xml.append:12800
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_mantis\"]/desc"
 msgstr ""
 "The Mantis disregard for individual lives led to their evolution as a vicious warrior race.\n"
 "\t\t\n"
 "Inherited cloning stats: 0.75x HP"
 
-#: src-en/data/blueprints.xml.append:12931
+#: src-en/data/blueprints.xml.append:12803
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_mantis\"]/title"
 msgstr "Cloned Mantis"
 
-#: src-en/data/blueprints.xml.append:12932
+#: src-en/data/blueprints.xml.append:12804
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_mantis\"]/short"
 msgstr "Mantis"
 
-#: src-en/data/blueprints.xml.append:12937
+#: src-en/data/blueprints.xml.append:12809
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_mantis\"]/powerList/power[1]"
 msgstr "Inflict 1.5x damage in combat"
 
-#: src-en/data/blueprints.xml.append:12938
+#: src-en/data/blueprints.xml.append:12810
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_mantis\"]/powerList/power[2]"
 msgstr "1.2x move speed"
 
-#: src-en/data/blueprints.xml.append:12939
+#: src-en/data/blueprints.xml.append:12811
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_mantis\"]/powerList/power[3]"
 msgstr "Halved repair speed"
 
-#: src-en/data/blueprints.xml.append:12952
+#: src-en/data/blueprints.xml.append:12824
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_slug\"]/desc"
 msgstr ""
 "These telepathic Slugs were shunned in the Galactic Federation for their constant thievery and attempts at manipulation.\n"
 "\t\t\n"
 "Inherited cloning stats: 0.75x HP"
 
-#: src-en/data/blueprints.xml.append:12955
+#: src-en/data/blueprints.xml.append:12827
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_slug\"]/title"
 msgstr "Cloned Slug"
 
-#: src-en/data/blueprints.xml.append:12956
+#: src-en/data/blueprints.xml.append:12828
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_slug\"]/short"
 msgstr "Slug"
 
-#: src-en/data/blueprints.xml.append:12961
+#: src-en/data/blueprints.xml.append:12833
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_slug\"]/powerList/power[1]"
 msgstr ""
 "Telepathic powers reveal rooms and lifeforms even when sensors are down."
 
-#: src-en/data/blueprints.xml.append:12962
+#: src-en/data/blueprints.xml.append:12834
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_slug\"]/powerList/power[2]"
 msgstr "Immune to mind control."
 
-#: src-en/data/blueprints.xml.append:12976
+#: src-en/data/blueprints.xml.append:12848
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_rock\"]/desc"
 msgstr ""
 "The 'Rockmen' of Vrachos IV are rarely seen and are known for their fortitude.\n"
 "\t\t\n"
 "Inherited cloning stats: 0.75x HP"
 
-#: src-en/data/blueprints.xml.append:12979
+#: src-en/data/blueprints.xml.append:12851
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_rock\"]/title"
 msgstr "Cloned Rockman"
 
-#: src-en/data/blueprints.xml.append:12980
+#: src-en/data/blueprints.xml.append:12852
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_rock\"]/short"
 msgstr "Rockman"
 
-#: src-en/data/blueprints.xml.append:12986
+#: src-en/data/blueprints.xml.append:12858
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_rock\"]/powerList/power[1]"
 msgstr "Immune to fire"
 
-#: src-en/data/blueprints.xml.append:12987
+#: src-en/data/blueprints.xml.append:12859
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_rock\"]/powerList/power[2]"
 msgstr "Movement speed is halved"
 
-#: src-en/data/blueprints.xml.append:12988
+#: src-en/data/blueprints.xml.append:12860
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_rock\"]/powerList/power[3]"
 msgstr "Max Health is increased to 150"
-
-#: src-en/data/blueprints.xml.append:13003
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BOARDING_DRONE\"]/title"
-msgstr "SPELL BOARDING"
-
-#: src-en/data/blueprints.xml.append:13004
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BOARDING_DRONE\"]/short"
-msgstr "SPELL BOARDING"
-
-#: src-en/data/blueprints.xml.append:13005
-msgid ""
-"data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BOARDING_DRONE\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
