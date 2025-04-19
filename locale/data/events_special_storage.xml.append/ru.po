@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-11 14:50+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-04-20 05:05+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -1293,7 +1293,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение системы щитов.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить более двух раз]"
+"\t[Эффекты: Улучшает щиты сверх максимального уровня, нельзя улучшить более "
+"двух раз]"
 
 #: src-en/data/events_special_storage.xml.append:1072
 msgid ""
@@ -1336,7 +1337,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение системы двигателей.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня. Каждый уровень выше 8 добавляет еще 5 уклонения и 0.25х скорости зарядки ССД, не может быть улучшено более двух раз]"
+"\t[Эффекты: Улучшает двигатели сверх максимального уровня. Каждый уровень "
+"выше 8 добавляет еще 5 уклонения и 0.25х скорости зарядки ССД, не может быть "
+"улучшено более двух раз]"
 
 #: src-en/data/events_special_storage.xml.append:1107
 msgid ""
@@ -1379,7 +1382,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение системы оружия.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить более двух раз]"
+"\t[Эффекты: Улучшает оружие сверх максимального уровня, нельзя улучшить "
+"более двух раз]"
 
 #: src-en/data/events_special_storage.xml.append:1142
 msgid ""
@@ -1422,7 +1426,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение системы дронов.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить более двух раз]"
+"\t[Эффекты: Улучшает дроны сверх максимального уровня, нельзя улучшить более "
+"двух раз]"
 
 #: src-en/data/events_special_storage.xml.append:1177
 msgid ""
@@ -1465,7 +1470,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение системы маскировки.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
+"\t[Эффекты: Улучшает маскировку сверх максимального уровня, нельзя улучшить "
+"больше одного раза, нельзя повысить уровень выше 4]"
 
 #: src-en/data/events_special_storage.xml.append:1212
 msgid ""
@@ -1508,7 +1514,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение системы Контроля разума.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
+"\t[Эффекты: Улучшает контроль разума сверх максимального уровня, нельзя "
+"улучшить больше одного раза, нельзя повысить уровень выше 4]"
 
 #: src-en/data/events_special_storage.xml.append:1247
 msgid ""
@@ -1551,7 +1558,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение Взломщика.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить больше одного раза, нельзя повысить уровень щита выше 3 ур.]"
+"\t[Эффекты: Улучшает взломщик сверх максимального уровня, нельзя улучшить "
+"больше одного раза, нельзя повысить уровень выше 3]"
 
 #: src-en/data/events_special_storage.xml.append:1282
 msgid ""
@@ -1594,7 +1602,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение Медотсек.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
+"\t[Эффекты: Улучшает медотсек сверх максимального уровня, нельзя улучшить "
+"больше одного раза, нельзя повысить уровень выше 4]"
 
 #: src-en/data/events_special_storage.xml.append:1317
 msgid ""
@@ -1637,7 +1646,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение системы щитов.\n"
-"\t[Эффекты: Улучшает щиты сверх их максимального уровня, нельзя улучшить больше одного раза, нельзя повысить уровень щита выше 4 ур.]"
+"\t[Эффекты: Улучшает клонотсек сверх максимального уровня, нельзя улучшить "
+"больше одного раза, нельзя повысить уровень выше 4]"
 
 #: src-en/data/events_special_storage.xml.append:1353
 msgid ""
@@ -1680,7 +1690,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение реактора.\n"
-"\t[Эффекты: Модернизирует реактор до максимального уровня, нельзя улучшить более 5 раз]"
+"\t[Эффекты: Улучшает реактор сверх максимального уровня, нельзя улучшить "
+"более 5 раз]"
 
 #: src-en/data/events_special_storage.xml.append:1389
 msgid ""
