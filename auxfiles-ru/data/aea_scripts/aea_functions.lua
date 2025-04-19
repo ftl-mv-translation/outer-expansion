@@ -1787,6 +1787,20 @@ script.on_internal_event(Defines.InternalEvents.SHIELD_COLLISION, function(shipM
 	end
 end)
 
+script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
+	if log_events then
+		--log("SHIP_LOOP 6")
+	end
+	if shipManager.iShipId == 0 then
+		attachedTimer = attachedTimer - Hyperspace.FPS.SpeedFactor/16
+	end
+	if attachedTimer > 0 then
+		Hyperspace.playerVariables.aea_old_gate_guard_attached = 1
+	else
+		Hyperspace.playerVariables.aea_old_gate_guard_attached = 0
+	end
+end)
+
 script.on_internal_event(Defines.InternalEvents.ON_TICK, function()
 	if log_events then
 		--log("ON_TICK 3")
