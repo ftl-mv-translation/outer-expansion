@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-11 08:31+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-05-11 15:54+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_shlegxml/ru/>\n"
 "Language: ru\n"
@@ -1147,11 +1147,13 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/text"
 msgstr ""
+"(Экипаж Анархистов + хорошая репутация) Предложить вместо себя отправить "
+"своего члена экипажа."
 
 #: src-en/data/events_sector_aea_shleg.xml:928
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/event/text"
-msgstr ""
+msgstr "\"Отличная идея, капитан, надеюсь, ваш экипаж не будет возражать\"."
 
 #: src-en/data/events_sector_aea_shleg.xml:929
 msgid ""
@@ -1166,7 +1168,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_aea_shleg.xml:937
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/event/choice/event/text"
-msgstr ""
+msgstr "Скорбь поднимается на борт вслед за Серпом."
 
 #: src-en/data/events_sector_aea_shleg.xml:938
 msgid ""
