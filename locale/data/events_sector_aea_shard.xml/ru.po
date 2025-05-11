@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-11 08:54+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-11 15:54+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_shardxml/ru/>\n"
 "Language: ru\n"
@@ -29,13 +29,13 @@ msgid ""
 msgstr "Ничего не делать."
 
 #: src-en/data/events_sector_aea_shard.xml:73
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/text"
 msgstr ""
-"Здесь расположился рынок кристаллинов - редкое зрелище. Судя по всему, здесь "
-"собралось много народу, и там продаются реликвии кристаллинов. В дальней "
-"части рынка также есть магазин снаряжения для кораблей."
+"Осколкорожденные не пользуются репутацией торговцев, но, тем не менее, здесь "
+"расположился рынок. Кристаллические реликвии, выставленные на продажу, "
+"похоже, привлекли немало покупателей. В глубине рынка вы также заметили "
+"лавку."
 
 #: src-en/data/events_sector_aea_shard.xml:75
 msgid ""
@@ -43,12 +43,11 @@ msgid ""
 msgstr "Отправиться на рынок."
 
 #: src-en/data/events_sector_aea_shard.xml:77
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/text"
 msgstr ""
-"На рынке можно найти самые разные предметы, от древних хрустальных столовых "
-"приборов до редкого кристаллического оружия."
+"На рынке можно найти самые разные предметы, от древних кристаллических "
+"столовых приборов до редкого кристаллического оружия."
 
 #: src-en/data/events_sector_aea_shard.xml:79
 msgid ""
@@ -56,13 +55,13 @@ msgid ""
 msgstr "Заглянуть к торговцу, продающему старинные предметы быта."
 
 #: src-en/data/events_sector_aea_shard.xml:81
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Большинство предметов бесполезны для вас, но один предмет привлек ваше "
-"внимание. Торговец объясняет, что это древнее охлаждающее устройство, и, "
-"возможно, вы сможете использовать его для улучшения своей системы вооружения."
+"Большинство предметов бесполезны для вас, но странное устройство, стоящее на "
+"заднем ряду, привлекает ваше внимание. Торговец объясняет, что это древнее "
+"охлаждающее устройство, которое вы, возможно, сможете использовать для "
+"улучшения своей системы вооружения."
 
 #: src-en/data/events_sector_aea_shard.xml:83
 msgid ""
@@ -90,11 +89,10 @@ msgid ""
 msgstr "Заглянуть к торговцу, продающему редкое кристаллическое оружие."
 
 #: src-en/data/events_sector_aea_shard.xml:105
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
-"Похоже, торговец распродал большую часть небольшого оружия, и осталось лишь "
+"Похоже, что большая часть легкого оружия уже продана, и осталось лишь "
 "несколько единиц корабельного оружия."
 
 #: src-en/data/events_sector_aea_shard.xml:107
@@ -244,13 +242,12 @@ msgid ""
 msgstr "Слушать."
 
 #: src-en/data/events_sector_aea_shard.xml:239
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/event/text"
 msgstr ""
 "\"Послушай, ты не имеешь права рассказывать эту историю, ведь это Я нашел "
 "космических китов, а НЕ ТЫ!\" \"МЫ НАШЛИ ЭТИХ КИТОВ ВМЕСТЕ, нам ОБОИМ можно "
-"рассказывать историю о космических китах\". Первый капитан, наконец заметив "
+"рассказывать историю о космическом ките\". Первый капитан, наконец заметив "
 "вас, отвечает. \"Ну, а как насчет того, чтобы этот Ренегат решил, что это "
 "МОЯ история, потому что я нашел их, или он тоже имеет право рассказывать "
 "историю, хотя и пришел поздно\"."
@@ -995,20 +992,19 @@ msgstr ""
 "пытается связаться с вами."
 
 #: src-en/data/events_sector_aea_shard.xml:781
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[1]/text"
 msgstr "Принять их вызов."
 
 #: src-en/data/events_sector_aea_shard.xml:783
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[1]/event/text"
 msgstr ""
-"\"Ренегат, мы хотели бы узнать, можем ли мы временно нанять вас для работы. "
-"Группа работорговцев с Тииикаки создает нам проблемы, они уже украли одну из "
-"наших станций. Нам нужно, чтобы вы выследили их корабль, а также разобрались "
-"с украденной станцией. Мы доплатим, если вы вернете станцию, не взорвав ее\"."
+"\"Ренегат, мы хотели спросить, не могли бы мы временно нанять вас на работу. "
+"Группа работорговцев с Тииикаки доставляет нам проблемы - у нас даже украли "
+"одну из станций. Нам нужен человек, который выследит их корабль и разберется "
+"с украденной станцией. Дополнительная оплата, если вы сможете вернуть "
+"станцию, не взорвав ее\"."
 
 #: src-en/data/events_sector_aea_shard.xml:785
 msgid ""
@@ -1016,10 +1012,9 @@ msgid ""
 msgstr "Принять работу."
 
 #: src-en/data/events_sector_aea_shard.xml:787
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[1]/event/choice[1]/event/text"
-msgstr "\"Отлично, мы вышлем вам координаты обеих\"."
+msgstr "\"Отлично, мы отправляем вам координаты корабля\"."
 
 #: src-en/data/events_sector_aea_shard.xml:792
 msgid ""
@@ -1027,10 +1022,9 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_aea_shard.xml:794
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr "\"А вот и координаты станции\"."
+msgstr "\"А вот координаты станции\"."
 
 #: src-en/data/events_sector_aea_shard.xml:801
 msgid ""
