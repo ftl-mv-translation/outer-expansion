@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-05-11 15:54+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -1630,11 +1630,10 @@ msgid ""
 msgstr "РИТУАЛ"
 
 #: src-en/data/hyperspace.xml.append:6737
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_dark_justicier_enemy\"]/powerEffect/tooltip"
-msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ."
 
 #: src-en/data/hyperspace.xml.append:8433
 msgid ""
@@ -1754,7 +1753,7 @@ msgstr "ЗАКЛИНАНИЯ"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page/section[1]/@text"
-msgstr ""
+msgstr "Транспорт с прототипами (OE)"
 
 #: src-en/data/hyperspace.xml.append:9144
 msgid ""
@@ -1906,7 +1905,7 @@ msgstr "Полученная добыча"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page/section[2]/@text"
-msgstr ""
+msgstr "Дары Корби (OE)"
 
 #: src-en/data/hyperspace.xml.append:9197
 msgid ""
@@ -1962,7 +1961,7 @@ msgstr "Дар получен"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page/section[3]/@text"
-msgstr ""
+msgstr "Крейсеры Ренегатов (OE)"
 
 #: src-en/data/hyperspace.xml.append:9219
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_ACID\"]/name"
@@ -1977,7 +1976,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:9222
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_ACID\"]/header"
-msgstr ""
+msgstr "Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:9225
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_BIRD\"]/name"
@@ -1991,7 +1990,7 @@ msgstr "Победите Ренегата Клинохвоста тип Б и п
 #: src-en/data/hyperspace.xml.append:9228
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_BIRD\"]/header"
-msgstr ""
+msgstr "Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:9231
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_CULT\"]/name"
@@ -2005,7 +2004,7 @@ msgstr "Победите Ренегата Бутона тип В и получи
 #: src-en/data/hyperspace.xml.append:9234
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_CULT\"]/header"
-msgstr ""
+msgstr "Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:9237
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_NECRO\"]/name"
@@ -2019,7 +2018,7 @@ msgstr "Победите Ренегата Богохульство тип В и 
 #: src-en/data/hyperspace.xml.append:9240
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_NECRO\"]/header"
-msgstr ""
+msgstr "Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:9243
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHARD\"]/name"
@@ -2035,7 +2034,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:9246
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHARD\"]/header"
-msgstr ""
+msgstr "Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:9249
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHLEG\"]/name"
@@ -2049,4 +2048,4 @@ msgstr "Победите корабль Ренегата Беспорядок т
 #: src-en/data/hyperspace.xml.append:9252
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHLEG\"]/header"
-msgstr ""
+msgstr "Ренегат побежден"
