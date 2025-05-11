@@ -49,6 +49,14 @@
 	<stackable>false</stackable>
 	<bp>0</bp>
 </augBlueprint>
+<augBlueprint name="SHIP_AEA_JUSTICE">
+	<title>Justicier Cruiser</title>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+	<bp>0</bp>
+</augBlueprint>
 
 <augBlueprint name="SHIP_AEA_BROADSIDE">
 	<title>Broadside Cruiser</title>
@@ -82,6 +90,11 @@
 	<desc>Originating from the Acidic Growth, the vessel allowed the Growth to extend it's reach beyond the nebulas it formed in. So far only the orchids have brokered peace with the Acidic Growth. This ship has an upgraded oxygen system.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_ACID_ARTY_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="4" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="13" start="false" img="room_shields_aea_cloak_3">
 			<slot>
 				<direction>left</direction>
@@ -161,6 +174,11 @@
 	<desc>This prototype design incorporates duel quick firing artillery beams to drill through enemy ships.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_ACID_ARTY_2_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="13" start="false">
+			<slot>
+				<number>2</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="5" start="false" img="room_shields_aea_cloak_11">
 			<slot>
 				<direction>down</direction>
@@ -242,6 +260,11 @@
 	<desc>A federation modification of the Acidic Cruiser, this vessel replaces the Acidic filtering system with a more traditional fire suppression system.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_ACID_ARTY_3_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="17" start="false">
+			<slot>
+				<number>2</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="13" start="false" img="room_shields_aea_1">
 			<slot>
 				<direction>up</direction>
@@ -325,6 +348,11 @@
 	<desc>A new line of Acidic Cruiser, these ships are specifically designed for high fire power, however this comes at the cost of a weaker shielding system.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_ACID_LONG_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="11" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="8" start="false" img="room_shields_aea_cloak_3">
 			<slot>
 				<direction>up</direction>
@@ -405,6 +433,11 @@
 	<desc>This ship combines a strong weapon system with a boarding setup to create a powerful and dangerous ship.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_ACID_LONG_2_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="9" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="3" start="false" img="room_shields_aea_cloak_3">
 			<slot>
 				<direction>up</direction>
@@ -484,6 +517,11 @@
 	<desc>This vessel gets rid of the shield system entirely, focusing on using cloaking and it's more powerful weapon system capable of handling up to 5 weapons at once.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_ACID_LONG_3_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="11" start="false">
+			<slot>
+				<number>2</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="8" start="false" img="room_shields_aea_cloak_3">
 			<slot>
 				<direction>up</direction>
@@ -565,6 +603,11 @@
 	<desc>Bill has made a few friends on his adventures since becoming an Acidic Outcast.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_ACID_BILL_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="6" start="false">
+			<slot>
+				<number>2</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="2" start="false" img="room_shields_aea_cloak_3">
 			<slot>
 				<direction>up</direction>
@@ -841,9 +884,9 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<erosionChance>10</erosionChance>
 	<erosion>
 		<speed>0.4</speed>
-		<maxSpeed>0.8</maxSpeed>
+		<maxSpeed>1.2</maxSpeed>
 		<time>10.0</time>
-		<maxTime>20.0</maxTime>
+		<maxTime>30.0</maxTime>
 		<systemRepairMultiplier>0.75</systemRepairMultiplier>
 		<erodeShields>false</erodeShields>
 		<roomAnim renderLayer="1">                                                    
@@ -895,9 +938,9 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<erosionChance>10</erosionChance>
 	<erosion>
 		<speed>0.4</speed>
-		<maxSpeed>0.8</maxSpeed>
+		<maxSpeed>1.2</maxSpeed>
 		<time>10.0</time>
-		<maxTime>20.0</maxTime>
+		<maxTime>30.0</maxTime>
 		<systemRepairMultiplier>0.75</systemRepairMultiplier>
 		<erodeShields>false</erodeShields>
 		<roomAnim renderLayer="1">                                                    
@@ -949,9 +992,9 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<erosionChance>10</erosionChance>
 	<erosion>
 		<speed>0.4</speed>
-		<maxSpeed>0.8</maxSpeed>
+		<maxSpeed>1.2</maxSpeed>
 		<time>10.0</time>
-		<maxTime>20.0</maxTime>
+		<maxTime>30.0</maxTime>
 		<systemRepairMultiplier>0.75</systemRepairMultiplier>
 		<erodeShields>false</erodeShields>
 		<roomAnim renderLayer="1">                                                    
@@ -1003,9 +1046,9 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<erosionChance>10</erosionChance>
 	<erosion>
 		<speed>0.4</speed>
-		<maxSpeed>0.8</maxSpeed>
+		<maxSpeed>1.2</maxSpeed>
 		<time>10.0</time>
-		<maxTime>20.0</maxTime>
+		<maxTime>30.0</maxTime>
 		<systemRepairMultiplier>0.75</systemRepairMultiplier>
 		<erodeShields>false</erodeShields>
 		<roomAnim renderLayer="1">                                                    
@@ -1126,9 +1169,9 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<erosionChance>10</erosionChance>
 	<erosion>
 		<speed>0.4</speed>
-		<maxSpeed>0.8</maxSpeed>
+		<maxSpeed>1.2</maxSpeed>
 		<time>10.0</time>
-		<maxTime>20.0</maxTime>
+		<maxTime>30.0</maxTime>
 		<systemRepairMultiplier>0.75</systemRepairMultiplier>
 		<erodeShields>false</erodeShields>
 		<roomAnim renderLayer="1">                                                    
@@ -1288,9 +1331,9 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<erosionChance>10</erosionChance>
 	<erosion>
 		<speed>0.4</speed>
-		<maxSpeed>0.8</maxSpeed>
+		<maxSpeed>1.2</maxSpeed>
 		<time>10.0</time>
-		<maxTime>20.0</maxTime>
+		<maxTime>30.0</maxTime>
 		<systemRepairMultiplier>1</systemRepairMultiplier>
 		<erodeShields>false</erodeShields>
 		<roomAnim renderLayer="1">                                                    
@@ -1342,9 +1385,9 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<erosionChance>10</erosionChance>
 	<erosion>
 		<speed>0.4</speed>
-		<maxSpeed>0.8</maxSpeed>
+		<maxSpeed>1.2</maxSpeed>
 		<time>10.0</time>
-		<maxTime>20.0</maxTime>
+		<maxTime>30.0</maxTime>
 		<systemRepairMultiplier>1</systemRepairMultiplier>
 		<erodeShields>false</erodeShields>
 		<roomAnim renderLayer="1">                                                    
@@ -1396,9 +1439,9 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<erosionChance>10</erosionChance>
 	<erosion>
 		<speed>0.4</speed>
-		<maxSpeed>0.8</maxSpeed>
+		<maxSpeed>1.2</maxSpeed>
 		<time>10.0</time>
-		<maxTime>20.0</maxTime>
+		<maxTime>30.0</maxTime>
 		<systemRepairMultiplier>1</systemRepairMultiplier>
 		<erodeShields>false</erodeShields>
 		<roomAnim renderLayer="1">                                                    
@@ -1448,9 +1491,9 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<erosionChance>10</erosionChance>
 	<erosion>
 		<speed>0.4</speed>
-		<maxSpeed>0.8</maxSpeed>
+		<maxSpeed>1.2</maxSpeed>
 		<time>10.0</time>
-		<maxTime>20.0</maxTime>
+		<maxTime>30.0</maxTime>
 		<systemRepairMultiplier>1</systemRepairMultiplier>
 		<erodeShields>false</erodeShields>
 		<roomAnim renderLayer="1">                                                    
@@ -1539,6 +1582,11 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<desc>A vessel belonging to the Engi Heretics. Through use of its powerful shatter laser and capable crew this ship is effective at eliminating any crew on the enemy ship.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_NECRO_ENGI_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="13" start="false">
+			<slot>
+				<number>2</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="3" start="false" img="room_shields_aea_cloak_3">
 			<slot>
 				<direction>up</direction>
@@ -1620,6 +1668,11 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<desc>It appears some of the Engi Heretic's enemies have gotten their hands on this vessel. However the vessel is still equiped with the technology to turn Engis into Engi heretics.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_NECRO_ENGI_2_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="10" start="false">
+			<slot>
+				<number>2</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="13" start="false" img="room_shields_aea_2">
 			<slot>
 				<direction>right</direction>
@@ -1703,6 +1756,11 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<desc>Manned by only a single Engi Heretic elite, this vessel makes up for the lack of numbers with powerful systems and crew abilities.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_NECRO_ENGI_3_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="5" start="false">
+			<slot>
+				<number>2</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="2" start="false" img="room_shields_aea_cloak_3">
 			<slot>
 				<direction>up</direction>
@@ -1785,6 +1843,11 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<desc>Manned by the Engi Heretic Elites, this vessel is a powerful boarding vessel, just make sure not to use up all those nanite swarms.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_NECRO_SEPA_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="6" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="13" start="false" img="room_shields_aea_1">
 			<slot>
 				<direction>up</direction>
@@ -1868,6 +1931,11 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<desc>Another stolen Heretic vessel, pirates are able to make full use of this ships powerful systems, aswell as creating Engi Heretics to fight on their side.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_NECRO_SEPA_2_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="13" start="false">
+			<slot>
+				<number>2</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="7" start="false" img="room_shields_aea_5">
 			<slot>
 				<direction>right</direction>
@@ -1951,6 +2019,11 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<desc>Unlike other Heretic Vessels, this one is focussed on powerful weapons and drones, with no cloaking or boarding capabilities.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_NECRO_SEPA_3_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="8" start="false">
+			<slot>
+				<number>2</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="6" start="false" img="room_shields_aea_cloak">
 			<slot>
 				<direction>up</direction>
@@ -2034,6 +2107,11 @@ In extinguisher mode the system will provide 1.8 hp/sec which will scale up to 3
 	<desc>The personal vessel of the Lich King, a powerful boarding vessel. Able to build up a capable crew quickly the Lich King  often heads off alone.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_NECRO_KING_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="1" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="10" start="false" img="room_shields_aea_1">
 			<slot>
 				<direction>up</direction>
@@ -2709,6 +2787,11 @@ Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage 
 	<desc>This ship relies on it's heavy frontal armour to protect itself from a variety of different projectiles and missiles.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_OLD_ARMOUR_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="15" start="false">
+			<slot>
+				<number>3</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="14" start="false" img="room_shields_aea_cloak">
 			<slot>
 				<direction>up</direction>
@@ -2792,6 +2875,11 @@ Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage 
 	<desc>When an obelisk ship got pulled into Lylmik space they managed to take over a Lylmik cruiser and used it to escape.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_OLD_ARMOUR_2_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="7" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="10" start="false" img="room_shields_aea_cloak_2">
 			<slot>
 				<direction>right</direction>
@@ -2910,6 +2998,11 @@ Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage 
 	<desc>Sylvan's capable crew managed to take over a Lylmik cruiser when they got trapped in Lylmik space. They removed the armour to enable the engines to be much more powerful than usual</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_OLD_ARMOUR_3_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="10" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="9" start="false" img="room_shields_aea_cloak_2">
 			<slot>
 				<direction>right</direction>
@@ -2990,6 +3083,11 @@ Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage 
 	<desc>An armoured ship capable of preventing frontal damage with it's powerful armour.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_OLD_HAMMER_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="22" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="7" start="false" img="room_shields_aea_cloak_2">
 			<slot>
 				<direction>right</direction>
@@ -3073,6 +3171,11 @@ Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage 
 	<desc>When the federation got their hands on this vessel they reconfigured the armour for ultimate protection of the shields room, unfortunetly it also made shields alot harder to repair.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_OLD_HAMMER_2_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="7" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="24" start="false" img="room_shields_aea_cloak">
 			<slot>
 				<direction>up</direction>
@@ -3158,6 +3261,11 @@ Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage 
 	<desc>This vessel incomporates an experimental allow that provides the entire ship with resistance to damage.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_OLD_HAMMER_3_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="18" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="17" start="false" img="room_shields_aea_cloak_2">
 			<slot>
 				<direction>right</direction>
@@ -3241,6 +3349,11 @@ Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage 
 	<desc>The personal ship of Atoning Unifex, a well armed ship that exploits the weaknesses exposed by the ability to board and hack the enemy's systems.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_OLD_UNI_1_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="7" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="18" start="false" img="room_shields_aea_5">
 			<slot>
 				<direction>right</direction>
@@ -3321,6 +3434,11 @@ Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage 
 	<desc>The personal ship of Asymptotic Essence, a utility focussed ship, able to make the most of it's systems using their effective abilities.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_OLD_UNI_2_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="11" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="16" start="false" img="room_shields_aea_cloak_3">
 			<slot>
 				<direction>up</direction>
@@ -3402,6 +3520,11 @@ Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage 
 	<desc>The personal ship of Eupathic Impulse, a boarding focused ship able to set the enemy alight with their dangerous abilities.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_OLD_UNI_3_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="1" start="false">
+			<slot>
+				<number>3</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="16" start="false" img="room_shields_aea_3">
 			<slot>
 				<direction>down</direction>
@@ -3480,6 +3603,11 @@ Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage 
 	<desc>The personal ship of Homologous Trend, a defensive ship able to heal back damage using their powerful abilities.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_OLD_UNI_4_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="1" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="14" start="false" img="room_shields_aea_cloak_3">
 			<slot>
 				<direction>up</direction>
@@ -3563,6 +3691,11 @@ Fragments do 15 crew damage, have a 10% breach chance, and inflict a 20% damage 
 	<desc>The personal ship of Noetic Concordance, designed around making use of their ability to create super shield layers on demand.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_OLD_UNI_5_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="1" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="13" start="false" img="room_shields_aea_cloak_10">
 			<slot>
 				<direction>left</direction>
@@ -3968,9 +4101,9 @@ Unfortunately it makes shields repair at 50% speed.</desc>
 	<erosionChance>10</erosionChance>
 	<erosion>
 		<speed>0.4</speed>
-		<maxSpeed>0.8</maxSpeed>
+		<maxSpeed>1.2</maxSpeed>
 		<time>10.0</time>
-		<maxTime>20.0</maxTime>
+		<maxTime>30.0</maxTime>
 		<systemRepairMultiplier>1</systemRepairMultiplier>
 		<erodeShields>true</erodeShields>
 		<roomAnim renderLayer="1">                                                    
@@ -4225,6 +4358,11 @@ Unfortunately it makes shields repair at 50% speed.</desc>
 	<desc>With no weapons system this ship has to rely on a single intel drone to take out the enemy systems.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_BIRD_BIG_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="15" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="11" start="false" img="room_shields_aea_cloak_10">
 			<slot>
 				<direction>left</direction>
@@ -4308,6 +4446,11 @@ Unfortunately it makes shields repair at 50% speed.</desc>
 	<desc>The smart bio drone onboard this ship is capable of not only taking out crew but enemy systems too.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_BIRD_BIG_2_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="9" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="15" start="false" img="room_shields_aea_cloak_2">
 			<slot>
 				<direction>right</direction>
@@ -4392,6 +4535,11 @@ Unfortunately it makes shields repair at 50% speed.</desc>
 	<desc>With both a bio drone and a intel drone this ship is quite capable of taking out any foe.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_BIRD_BIG_3_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="14" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="2" start="false" img="room_shields_aea_cloak_11">
 			<slot>
 				<direction>down</direction>
@@ -4477,6 +4625,11 @@ Unfortunately it makes shields repair at 50% speed.</desc>
 	<desc>With a weak weapons system this ship relies on it's burst drone to quickly destroy the enemy.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_BIRD_TRAN_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="3" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="11" start="false" img="room_shields_aea_cloak_2">
 			<slot>
 				<direction>right</direction>
@@ -4561,6 +4714,11 @@ Unfortunately it makes shields repair at 50% speed.</desc>
 	<desc>Lasers and Ions are a match made in heaven, well actually the Central Engineering Facility.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_BIRD_TRAN_2_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="10" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="13" start="false" img="room_shields_aea_cloak_3">
 			<slot>
 				<direction>up</direction>
@@ -4647,6 +4805,11 @@ Unfortunately it makes shields repair at 50% speed.</desc>
 	<desc>This ship relies on the shield breaking of the drone in order to unleash it's weapons on the enemy ship.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_BIRD_TRAN_3_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="2" start="false">
+			<slot>
+				<number>3</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="12" start="false" img="room_shields_aea_cloak_2">
 			<slot>
 				<direction>right</direction>
@@ -4732,6 +4895,11 @@ Unfortunately it makes shields repair at 50% speed.</desc>
 	<desc>Although none of the crew can access the front of the ship, Jay and her drones are able to keep it online with ease.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_BIRD_JAY_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="1" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="8" start="false" img="room_shields_aea_cloak_11">
 			<slot>
 				<direction>down</direction>
@@ -5781,19 +5949,19 @@ The Engi Liches use their Nano bots to take control of the enemies they kill, ho
 </crewBlueprint>
 
 <crewBlueprint name="aea_necro_king">
-	<desc>The leader of the Engi Heretics, an ancient engi, one of the first to split off from the harmony. Possesses fine control over Engi nano-bots giving it the ability to resurrect almost any life form.</desc>
+	<desc>Leader of the Engi Heretics and one of the first Engi to split off from the Harmony. Possesses fine control over Engi nanobots, giving it the ability to resurrect almost any lifeform.</desc>
 	<cost>100</cost>
 	<bp>2</bp>
 	<title>The Lich King</title>
 	<short>Lich King</short>
 	<rarity>0</rarity>
 	<powerList>
-		<power>Active Ability: Permanently resurrect the last enemy killed in melee combat by this crewmember, costs 5 Nanite Swarms</power>
-		<power>Active Ability: Resurrect the last enemy killed in melee combat by this crewmember, costs 1 Nanite Swarm</power>
+		<power>Active Ability: Permanently resurrects the last enemy killed in melee combat by this crewmember. Costs 5 Nanite Swarms</power>
+		<power>Active Ability: Resurrects the last enemy killed in melee combat by this crewmember. Costs 1 Nanite Swarm</power>
 		<power>Max Health is increased to 180</power>
-		<power>Enemy killed on the same ship as the Lich King generate 1 nanite swarm</power>
+		<power>Enemies killed on the same ship as this crewmember generate 1 Nanite Swarm</power>
 		<power>1.5x combat damage, 2x repair speed</power>
-		<power>Nano bots reduce healing of the target crew by 100%</power>
+		<power>Nanobots reduce healing of the target crew by 100%</power>
 		<power>Immune to suffocation damage</power>
 	</powerList>
 </crewBlueprint>
@@ -6034,7 +6202,7 @@ Inherited Orchid stats: slightly reduced suffocation damage, takes 75% more dama
 Inherited Orchid stats: slightly reduced suffocation damage, takes 75% more damage from fire, refills oxygen</desc>
 	<cost>68</cost>
 	<bp>2</bp>
-	<rarity>4</rarity>
+	<rarity>5</rarity>
 	<powerList>
 		<power>Active Ability: Casts a spell in the current room which does nothing</power>
 		<power>Ranged attack speed is doubled, but only deals 0.75x ranged damage</power>
@@ -8700,6 +8868,11 @@ Inherited Orchid stats: slightly reduced suffocation damage, takes 75% more dama
 	<desc>Although the ship itself is nothing special, the crew are able to draw on the power of their god to destroy their enemies.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_CULT_BUD_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="7" start="false">
+			<slot>
+				<number>2</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="12" start="false" img="room_shields_aea_cloak_2">
 			<slot>
 				<direction>right</direction>
@@ -8802,6 +8975,11 @@ Inherited Orchid stats: slightly reduced suffocation damage, takes 75% more dama
 	<desc>The crew here are especially good at dealing with enemy crew by kidnapping them onto their own ship.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_CULT_BUD_2_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="14" start="false">
+			<slot>
+				<number>2</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="4" start="false" img="room_shields_aea_cloak_2">
 			<slot>
 				<direction>right</direction>
@@ -8884,6 +9062,11 @@ Inherited Orchid stats: slightly reduced suffocation damage, takes 75% more dama
 	<desc>With no shield system the crew have learnt other ways of protecting the ship.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_CULT_BUD_3_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="2" start="false">
+			<slot>
+				<number>3</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="3" start="false" img="room_shields_aea_cloak">
 			<slot>
 				<direction>up</direction>
@@ -8968,6 +9151,11 @@ Inherited Orchid stats: slightly reduced suffocation damage, takes 75% more dama
 	<desc>This ship directly channels the power of the bud to launch spells at the enemy ship.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_CULT_BLOOM_unlock"/>
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="24" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="25" start="false" img="room_shields_aea_cloak_11">
 			<slot>
 				<direction>down</direction>
@@ -9050,6 +9238,11 @@ Inherited Orchid stats: slightly reduced suffocation damage, takes 75% more dama
 	<desc>This ship protects itself with capable crew and a prototype generator that creates barriers on rooms each time you fire a weapon.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_CULT_BLOOM_2_unlock"/>
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="27" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="28" start="false" img="room_shields_aea_cloak_2">
 			<slot>
 				<direction>right</direction>
@@ -9129,13 +9322,6 @@ Inherited Orchid stats: slightly reduced suffocation damage, takes 75% more dama
     <mv-mapImage>map_icon_mup_cultivator_a</mv-mapImage>
 </shipBlueprint>
 
-<augBlueprint name="AEA_BARRIER_RELAY"> <!-- Inspired by void war-->
-	<title>Barrier Generator</title>
-	<desc>Generates a barrier each time you fire a weapon, can generate up to a maximum of 8 active barriers.</desc>
-	<cost>56</cost>
-	<rarity>0</rarity>
-	<stackable>false</stackable>
-</augBlueprint>
 <augBlueprint name="AEA_CULT_MAGIC_BOOST">
 	<title>MAGIC JUMP</title>
 	<desc>   </desc>
@@ -9150,6 +9336,11 @@ Inherited Orchid stats: slightly reduced suffocation damage, takes 75% more dama
 	<desc>A powerful boarding ship with dangerous crew.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_CULT_BLOOM_3_unlock"/>
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="2" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="20" start="false" img="room_shields_aea_cloak_3">
 			<slot>
 				<direction>up</direction>
@@ -9233,6 +9424,11 @@ Inherited Orchid stats: slightly reduced suffocation damage, takes 75% more dama
 	<desc>A massive space whale which has aligned itself with the federation.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_CULT_WHALE_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="17" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="10" start="false" img="room_shields_aea_5">
 			<slot>
 				<direction>right</direction>
@@ -9326,6 +9522,11 @@ Inherited Orchid stats: slightly reduced suffocation damage, takes 75% more dama
 	<desc>Tiny's big adventure involving friendship and magic.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_CULT_TINY_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="4" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="3" start="false" img="room_shields_aea_cloak_2">
 			<slot>
 				<direction>right</direction>
@@ -10289,6 +10490,11 @@ Shells, Vampweeds, Lanius, Ghosts.</desc>
 	<desc>This ship is equipped with a powerful artillery beam which damages systems and fills rooms with a mind control gas.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_SLUG_LONG_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="15" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="3" start="false" img="room_shields_aea_cloak_2">
 			<slot>
 				<direction>right</direction>
@@ -10373,6 +10579,11 @@ Shells, Vampweeds, Lanius, Ghosts.</desc>
 	<desc>The crew of this ship use their abilities to board and destroy their enemies.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_SLUG_LONG_2_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="16" start="false">
+			<slot>
+				<number>3</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="11" start="false" img="room_shields_aea_3">
 			<slot>
 				<direction>down</direction>
@@ -10456,6 +10667,11 @@ Shells, Vampweeds, Lanius, Ghosts.</desc>
 	<desc>Originally constructed by the Slug Anarchists this ship has been reclaimed by the kleptocracy and now operates under their control.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_SLUG_LONG_3_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="4" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="3" start="false" img="room_shields_aea_cloak_2">
 			<slot>
 				<direction>right</direction>
@@ -10538,6 +10754,11 @@ Shells, Vampweeds, Lanius, Ghosts.</desc>
 	<desc>This ship protects itself from enemy boarders with a powerful gas that mind controls enemies.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_SLUG_WIDE_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="17" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="9" start="false" img="room_shields_aea_3">
 			<slot>
 				<direction>down</direction>
@@ -10622,6 +10843,11 @@ Shells, Vampweeds, Lanius, Ghosts.</desc>
 	<desc>The crew on this ship are able to work together onboard the enemy ship to quickly cleanup enemy crew.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_SLUG_WIDE_2_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="1" start="false">
+			<slot>
+				<number>2</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="4" start="false" img="room_shields_aea_cloak_10">
 			<slot>
 				<direction>left</direction>
@@ -10705,6 +10931,11 @@ Shells, Vampweeds, Lanius, Ghosts.</desc>
 	<desc>This ship has the kit to both take out the enemy crew or destroy the ship outright.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_SLUG_WIDE_3_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="6" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="16" start="false" img="room_shields_aea_4">
 			<slot>
 				<direction>left</direction>
@@ -10792,6 +11023,11 @@ Shells, Vampweeds, Lanius, Ghosts.</desc>
 	<desc>Together Sickle and Sorrow are incredibly capable against enemies vunerable to the gas, but may struggle to deal with those who are immune.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_SHLEG_UNI_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="3" start="false">
+			<slot>
+				<number>3</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="1" start="false" img="room_shields_aea_cloak_2">
 			<slot>
 				<direction>right</direction>
@@ -11025,14 +11261,14 @@ Shells, Vampweeds, Lanius, Ghosts.</desc>
 	<iconImage>crystal</iconImage>
 </weaponBlueprint>
 <crewBlueprint name="aea_shard_breaker">
-    <desc>An ancient group of pirates, The Shard-Forged are primarily crystals who split off from the crystilline empire long ago.</desc>
+    <desc>An ancient group of pirates, the Shard-Forged are primarily crystals who split off from the Crystalline Empire long ago.</desc>
     <title>Shard-Forged</title>
     <short>Shard-Forged</short>
     <cost>50</cost>
     <bp>4</bp>
     <rarity>5</rarity>
     <powerList>
-        <power>Active Ability (1 charges): Locks down rooms damaging enemies but losing the ability to fight. Each cast costs 25 health.</power>
+        <power>Active Ability (1 charge): Locks down rooms and damages enemies, but loses 25 HP and the ability to fight.</power>
         <power>Reduced suffocation damage</power>
         <power>Max Health is increased to 125</power>
         <power>Inflicts 0.6x damage in crew combat</power>
@@ -11270,6 +11506,11 @@ Can be overclocked to instantly generate shields up to it's maximum at the cost 
 	<desc>A boarding focused ship, the crystal crew onboard are able to quickly destroy systems while protected by a wall of crystal.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_SHARD_BATTLE_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="3" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields max="5" power="1" room="3" start="false" img="room_shields_7">
 			<slot>
 				<direction>up</direction>
@@ -11354,6 +11595,11 @@ Can be overclocked to instantly generate shields up to it's maximum at the cost 
 	<desc>With both a medbay and a clonebay this ship makes an impressive boarding ship, however it's limited by a small teleporter and limited system capacity.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_SHARD_BATTLE_2_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="2" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields max="5" power="1" room="3" start="false" img="room_shields_8" >
 			<slot>
 				<direction>up</direction>
@@ -11436,6 +11682,11 @@ Can be overclocked to instantly generate shields up to it's maximum at the cost 
 	<desc>With both a Shields system and an Auxiliary Shields system this ship possesses strong defensive capabilities.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_SHARD_BATTLE_3_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="10" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields max="5" power="1" room="3" start="true" img="room_shields_7" >
 			<slot>
 				<direction>up</direction>
@@ -11517,6 +11768,11 @@ Can be overclocked to instantly generate shields up to it's maximum at the cost 
 	<desc>This ship is completely devoid of any description whatsoever!</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_SHARD_SCOUT_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="13" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<battery power="1" max="2" room="12" start="true" img="room_battery_14" />
 		<cloaking power="1" room="14" start="false" img="room_cloaking_9" />
 		<clonebay power="1" room="13" start="false">
@@ -11600,6 +11856,11 @@ Can be overclocked to instantly generate shields up to it's maximum at the cost 
 	<desc>Possessing a powerful Artillery Beam capable of locking down rooms this ship is formidable in both defense and offense.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_SHARD_AUTO_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="12" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields max="5" power="1" room="3" start="true" img="room_shields">
 			<slot>
 				<direction>left</direction>
@@ -11679,6 +11940,11 @@ Can be overclocked to instantly generate shields up to it's maximum at the cost 
 	<desc>Unlike most ships this vessel can use its Auxiliary Shields system alongside it's Cloaking system providing excellent defense against certain ships, however it can't install a normal Shields system without losing the auxiliary one.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_SHARD_AUTO_2_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="11" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="2" max="8" room="1" start="true" img="room_shields_3">
 			<slot>
 				<direction>left</direction>
@@ -11760,6 +12026,11 @@ Can be overclocked to instantly generate shields up to it's maximum at the cost 
 	<desc>This auto ship has been outfitted to support boarding with it's crew, however with only an auxiliary shielding system and a drone it may struggle in defensive situations.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_SHARD_AUTO_3_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="2" start="false">
+			<slot>
+				<number>3</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="2" max="5" room="15" start="true" img="room_shields" >
 			<slot>
 				<direction>left</direction>
@@ -11843,6 +12114,11 @@ Can be overclocked to instantly generate shields up to it's maximum at the cost 
 	<desc>With a powerful crew setup and strong defensive ships the dawnshard can be protected against any likely usurpers.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_SHARD_UNI_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="8" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="2" room="6" start="true" img="room_shields_7" >
 			<slot>
 				<direction>up</direction>
@@ -11926,6 +12202,11 @@ Can be overclocked to instantly generate shields up to it's maximum at the cost 
 	<desc>A powerful ship designed around it's broadside mounted artillery. This ship's artillery system are modular allowing it to have a number of different combinations of artillery</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_BROADSIDE_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="8" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="9" start="false" img="room_shields_aea_1">
 			<slot>
 				<direction>up</direction>
@@ -12256,6 +12537,11 @@ Can be overclocked to instantly generate shields up to it's maximum at the cost 
 	<desc>A powerful ship designed around it's broadside mounted artillery. This ship's artillery system are modular allowing it to have a number of different combinations of artillery.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_BROADSIDE_2_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="14" start="false">
+			<slot>
+				<number>1</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="6" start="false" img="room_shields_aea_1">
 			<slot>
 				<direction>up</direction>
@@ -12504,6 +12790,11 @@ Can be overclocked to instantly generate shields up to it's maximum at the cost 
 	<desc>A powerful ship designed around it's broadside mounted artillery. This ship's artillery mounts have been specifically designed to mount any sort of weapon.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_BROADSIDE_3_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="15" start="false">
+			<slot>
+				<number>2</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="12" start="false" img="room_shields_aea_1">
 			<slot>
 				<direction>up</direction>
@@ -12649,6 +12940,11 @@ Breach Chance: 20% (Adjusted: 20%)</tooltipOverride>
 	<desc>This ship cuts up the enemy with it's powerful adaptive pinpoint that gains more beams as it chains.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_LANIUS_BATTLE_unlock" />
 	<systemList>
+		<aea_clone_crime max="3" power="1" room="8" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
 		<aea_super_shields power="1" room="3" start="false" img="room_shields_aea_cloak_2">
 			<slot>
 				<direction>right</direction>
@@ -12744,6 +13040,13 @@ Breach Chance: 20% (Adjusted: 20%)</tooltipOverride>
 	</upgradeCost>
 	<cost>40</cost>
 </systemBlueprint>
+<augBlueprint name="BOON_AEA_CLONE_CRIME">
+	<title>Clone Crime boon</title>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<cost>0</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
 <augBlueprint name="UPG_AEA_CLONE_CRIME_LIFETIME">
 	<title>Reduced Decay</title>
 	<desc>YOU SHOULD NEVER SEE THIS</desc>
@@ -12789,7 +13092,7 @@ Breach Chance: 20% (Adjusted: 20%)</tooltipOverride>
 <shipBlueprint name="PLAYER_SHIP_AEA_JUSTICE" layout="aeap_justice_a" img="aeap_justice_a">
 	<class>Justicier Cruiser</class>
 	<name>The Dark Prince</name>
-	<desc>This ship is completely devoid of any description whatsoever!</desc>
+	<desc>A powerful vessel belonging to a powerful vassal of a strange dark god. Perform blood rituals to empower ship and crew alike.</desc>
 	<unlock id="ship_PLAYER_SHIP_AEA_JUSTICE_unlock" />
 	<systemList>
 		<aea_clone_crime max="4" power="2" room="7" start="true">
@@ -12805,7 +13108,7 @@ Breach Chance: 20% (Adjusted: 20%)</tooltipOverride>
 		</aea_super_shields>
 		<battery power="1" room="23" start="false" img="room_battery_6" />
 		<cloaking power="1" room="8" start="false" img="room_cloaking_2" />
-		<clonebay power="1" room="7" start="false">
+		<clonebay max="4" power="1" room="7" start="false">
 			<slot>
 				<number>1</number>
 			</slot>
@@ -12824,7 +13127,7 @@ Breach Chance: 20% (Adjusted: 20%)</tooltipOverride>
 			</slot>
 		</engines>
 		<hacking power="1" room="5" start="false" img="room_hacking_2" />
-		<medbay power="1" room="7" start="false" img="room_medbay">
+		<medbay max="4" power="1" room="7" start="false" img="room_medbay">
 			<slot>
 				<number>1</number>
 			</slot>
@@ -12859,29 +13162,209 @@ Breach Chance: 20% (Adjusted: 20%)</tooltipOverride>
 	</systemList>
 	<weaponSlots>4</weaponSlots>
 	<droneSlots>2</droneSlots>
-	<weaponList missiles="0" count="4">
+	<weaponList missiles="4" count="4">
 		<weapon name="LASER_FIRE" />
 		<weapon name="BEAM_1" />
 	</weaponList>
-	<droneList drones="0" count="2" />
+	<droneList drones="6" count="2" />
 	<health amount="30" />
 	<maxPower amount="8" />
 	<shieldImage>mup_giant</shieldImage>
 	<mv-mapImage>map_icon_aeap_justice_a</mv-mapImage>
 </shipBlueprint>
-
+<shipBlueprint name="PLAYER_SHIP_AEA_JUSTICE_2" layout="aeap_justice_b" img="aeap_justice_b">
+	<class>Justicier Cruiser</class>
+	<name>The Iniquitous</name>
+	<desc>This ship is completely devoid of any description whatsoever!</desc>
+	<unlock id="ship_PLAYER_SHIP_AEA_JUSTICE_2_unlock" />
+	<systemList>
+		<aea_clone_crime max="3" power="1" room="11" start="false">
+			<slot>
+				<number>0</number>
+			</slot>
+		</aea_clone_crime>
+		<aea_super_shields max="3" power="1" room="17" start="false" img="room_shields_aea_cloak_10">
+			<slot>
+				<direction>right</direction>
+				<number>3</number>
+			</slot>
+		</aea_super_shields>
+		<battery power="1" room="14" start="false" img="room_battery_14" />
+		<cloaking power="1" room="17" start="false" img="room_cloaking_10" />
+		<clonebay power="1" room="11" start="true">
+			<slot>
+				<number>0</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="3" start="false" img="room_doors_11">
+			<slot>
+				<direction>right</direction>
+				<number>3</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="19" start="false" img="room_drones_15" />
+		<engines power="1" room="1" start="true" img="room_engines_2">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="24" start="false" img="room_hacking" />
+		<medbay power="1" room="11" start="false" img="room_medbay_4">
+			<slot>
+				<number>0</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="15" start="false" img="room_mind_5" />
+		<oxygen power="1" room="2" start="true" img="room_oxygen_2" />
+		<pilot power="1" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="25" start="true" img="room_sensors_8">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="10" start="true" img="room_shields_5">
+			<slot>
+				<direction>up</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="16" start="true" />
+		<weapons power="2" room="18" start="true" img="room_weapons_12">
+			<slot>
+				<direction>right</direction>
+				<number>2</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>2</weaponSlots>
+	<droneSlots>4</droneSlots>
+	<weaponList missiles="4" count="2">
+		<weapon name="AEA_LASER_NECRO_1" />
+		<weapon name="AEA_LASER_NECRO_1" />
+	</weaponList>
+	<droneList drones="6" count="4" />
+	<health amount="30" />
+	<maxPower amount="8" />
+	<shieldImage>mup_giant</shieldImage>
+	<mv-mapImage>map_icon_aeap_justice_a</mv-mapImage>
+</shipBlueprint>
+<shipBlueprint name="PLAYER_SHIP_AEA_JUSTICE_3" layout="aeap_justice_c" img="aeap_justice_c">
+	<class>Justicier Cruiser</class>
+	<name>The Disciplinary</name>
+	<desc>This ship is completely devoid of any description whatsoever!</desc>
+	<unlock id="ship_PLAYER_SHIP_AEA_JUSTICE_3_unlock" />
+	<systemList>
+		<aea_clone_crime max="3" power="1" room="5" start="false">
+			<slot>
+				<number>3</number>
+			</slot>
+		</aea_clone_crime>
+		<aea_super_shields max="3" power="1" room="21" start="false" img="room_shields_aea_cloak_11">
+			<slot>
+				<direction>down</direction>
+				<number>2</number>
+			</slot>
+		</aea_super_shields>
+		<battery power="1" room="19" start="false" img="room_battery_14" />
+		<cloaking power="1" room="21" start="false" img="room_cloaking_11" />
+		<clonebay power="1" room="5" start="true">
+			<slot>
+				<number>3</number>
+			</slot>
+		</clonebay>
+		<doors power="1" room="9" start="false" img="room_doors_3">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</doors>
+		<drones power="2" max="8" room="22" start="false" img="room_drones_18" />
+		<engines power="1" room="1" start="true" img="room_engines_8">
+			<slot>
+				<direction>left</direction>
+				<number>2</number>
+			</slot>
+		</engines>
+		<hacking power="1" room="10" start="false" img="room_hacking_7" />
+		<medbay power="1" room="5" start="false" img="room_medbay_3">
+			<slot>
+				<number>3</number>
+			</slot>
+		</medbay>
+		<mind power="1" room="13" start="true" img="room_mind_4" />
+		<oxygen power="1" room="17" start="true" img="room_oxygen_10" />
+		<pilot power="1" room="0" start="true" img="room_pilot">
+			<slot>
+				<direction>right</direction>
+				<number>0</number>
+			</slot>
+		</pilot>
+		<sensors power="1" room="12" start="true" img="room_sensors_8">
+			<slot>
+				<direction>right</direction>
+				<number>1</number>
+			</slot>
+		</sensors>
+		<shields power="2" max="8" room="20" start="true" img="room_shields_4">
+			<slot>
+				<direction>left</direction>
+				<number>0</number>
+			</slot>
+		</shields>
+		<teleporter power="1" room="7" start="false" />
+		<weapons power="2" room="4" start="true" img="room_weapons_6">
+			<slot>
+				<direction>up</direction>
+				<number>1</number>
+			</slot>
+		</weapons>
+	</systemList>
+	<weaponSlots>4</weaponSlots>
+	<droneSlots>2</droneSlots>
+	<weaponList missiles="4" count="4">
+		<weapon name="AEA_SHLEG_BOMB" />
+		<weapon name="LASER_BURST_3" />
+	</weaponList>
+	<droneList drones="6" count="2" />
+	<health amount="30" />
+	<maxPower amount="8" />
+	<shieldImage>mup_giant</shieldImage>
+	<mv-mapImage>map_icon_aeap_justice_a</mv-mapImage>
+</shipBlueprint>
 	
 <crewBlueprint name="aea_dark_justicier">
-    <desc> </desc>
+    <desc>A mysterious figure who worships a strange dark god.</desc>
     <title>Dark Justicier</title>
     <short>Dark Justicier</short>
     <cost>100</cost>
     <bp>4</bp>
     <rarity>0</rarity>
     <powerList>
-        <power>Active Ability: Perform a ritual sacrifice, select a number of allied crew who will be sacrified.</power>
-		<power>Immune to suffocation and fires</power>
-        <power>Max Health is increased to 200</power>
+        <power>Active Ability: Perform a ritual sacrifice, select a number of allied or mind controlled crew who will be sacrified.</power>
+		<power>Makes all allied crew controllable</power>
+		<power>Immune to suffocation</power>
+        <power>Inflicts 1.5x damage in crew combat</power>
+    </powerList>
+</crewBlueprint>
+	
+<crewBlueprint name="aea_dark_justicier_enemy">
+    <desc>A mysterious figure who worships a strange dark god.</desc>
+    <title>Dark Justicier</title>
+    <short>Dark Justicier</short>
+    <cost>100</cost>
+    <bp>4</bp>
+    <rarity>0</rarity>
+    <powerList>
+        <power>Active Ability: Perform a ritual sacrifice, select a number of allied or mind controlled crew who will be sacrified.</power>
+		<power>Immune to suffocation</power>
+		<power>Max Health is increased to 200</power>
         <power>Inflicts 1.5x damage in crew combat</power>
     </powerList>
 </crewBlueprint>
@@ -13016,10 +13499,17 @@ Inherited cloning stats: 0.75x HP</desc>
 	<cost>60</cost>
 	<spawnCrew>
 		<number>1</number>
-		<race>drone_battle2</race>
+		<race>drone_battle</race>
 		<lifetime>60</lifetime>
 		<statBoosts>
 			<statBoost name="noClone">
+                <boostType>SET</boostType>
+                <value>true</value>
+                <shipTarget>ALL</shipTarget>
+                <crewTarget>ALL</crewTarget>
+                <priority>999999</priority>
+            </statBoost>
+			<statBoost name="noWarning">
                 <boostType>SET</boostType>
                 <value>true</value>
                 <shipTarget>ALL</shipTarget>
@@ -13050,6 +13540,677 @@ Inherited cloning stats: 0.75x HP</desc>
 	</missSounds>
 	<weaponArt>aea_invisible_gun</weaponArt>
 	<iconImage>missile</iconImage>
+</weaponBlueprint>
+
+</FTL>
+
+<FTL>
+<weaponBlueprint name="AEA_MINE_PROJ_BASE">
+	<type>MISSILE</type>
+	<tip>tip_mine</tip>
+	<title>Mine Projectile</title>
+	<short>Mine Projectile</short>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<tooltip>Fires 1 missile; does 1 damage; pierces all shields.</tooltip>
+	<drone_targetable>1</drone_targetable>
+	<accuracyMod>100</accuracyMod>
+	<damage>1</damage>
+	<missiles>0</missiles>
+	<shots>1</shots>
+	<sp>10</sp>
+	<fireChance>4</fireChance>
+	<breachChance>4</breachChance>
+	<cooldown>7</cooldown>
+	<power>2</power>
+	<speed>15</speed>
+	<cost>50</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<image>mine_large</image>
+	<launchSounds>
+		<sound>smallMissile1</sound>
+		<sound>smallMissile2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>smallExplosion</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>minelauncher_1</weaponArt>
+	<iconImage>missile</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="AEA_MINE_1">
+	<type>BEAM</type>
+	<flavorType>Minelauncher</flavorType>
+	<tip>tip_mine</tip>
+	<title>Mine Projectile</title>
+	<short>Mine Projectile</short>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<tooltip>Fires 1 missile; does 1 damage; pierces all shields.</tooltip>
+	<damage>0</damage>
+	<noSysDamage>true</noSysDamage>
+	<sp>10</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<speed>6</speed>
+	<cooldown>7</cooldown>
+	<power>2</power>
+	<cost>50</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<image>beam_contact</image>
+	<length>2</length>
+	<launchSounds>
+		<sound>smallMissile1</sound>
+		<sound>smallMissile2</sound>
+	</launchSounds>
+	<weaponArt>minelauncher_1</weaponArt>
+	<iconImage>missile</iconImage>
+</weaponBlueprint>
+
+</FTL>
+
+<!--Renegades-->
+<FTL>
+<weaponBlueprint name="AEA_LASER_ACID_BOSS">
+	<type>BURST</type>
+	<drone_targetable>0</drone_targetable>
+	<flavorType>Acid Laser</flavorType>
+	<title>Acid Splasher</title>
+	<short>Splasher</short>
+	<tip>tip_laser</tip>
+	<desc>Designed by the acidic growth, this weapon continues to degrade the enemy system after impact. The impact of this weapon splashes nearby rooms applying erosion to them aswell.</desc>
+	<tooltip>Fires 3 projectiles, 1 damage each, 60% stun chance, 60% fire chance.</tooltip>
+	<damage>1</damage>
+	<shots>3</shots>
+	<radius>55</radius>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<stunChance>0</stunChance>
+	<breachChance>0</breachChance>
+	<erosionChance>10</erosionChance>
+	<erosion>
+		<speed>0.4</speed>
+		<maxSpeed>1.2</maxSpeed>
+		<time>10.0</time>
+		<maxTime>30.0</maxTime>
+		<systemRepairMultiplier>0.75</systemRepairMultiplier>
+		<erodeShields>false</erodeShields>
+		<roomAnim renderLayer="1">                                                    
+			<anim animType="default" animBorder="2">aea_invisible</anim>                                                 
+				<wallAnim>aea_acid_wall</wallAnim>  
+		</roomAnim>
+	</erosion>
+	<cooldown>17</cooldown>
+	<power>2</power>
+	<cost>100</cost>
+	<bp>7</bp>
+	<rarity>0</rarity>
+	<projectiles>
+		<projectile count="1" fake="false">ase_proj_acid_big</projectile>
+	</projectiles>
+	<launchSounds>
+		<sound>ancient_laser</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>aea_laser_acid_boss</weaponArt>
+	<iconImage>laser</iconImage>
+</weaponBlueprint>
+<weaponBlueprint name="AEA_LASER_ACID_BOSS_PROJ">
+	<type>LASER</type>
+	<flavorType>Acid Laser</flavorType>
+	<title>Acid Splasher</title>
+	<short>Acid Splasher</short>
+	<tip>tip_laser</tip>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<tooltip>Fires 3 projectiles, 1 damage each, 60% stun chance, 60% fire chance.</tooltip>
+	<damage>0</damage>
+	<shots>1</shots>
+	<speed>20</speed>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<stunChance>0</stunChance>
+	<breachChance>0</breachChance>
+	<erosionChance>10</erosionChance>
+	<erosion>
+		<speed>0.4</speed>
+		<maxSpeed>1.2</maxSpeed>
+		<time>10.0</time>
+		<maxTime>30.0</maxTime>
+		<systemRepairMultiplier>0.75</systemRepairMultiplier>
+		<erodeShields>false</erodeShields>
+		<roomAnim renderLayer="1">                                                    
+			<anim animType="default" animBorder="2">aea_invisible</anim>                                                 
+				<wallAnim>aea_acid_wall</wallAnim>  
+		</roomAnim>
+	</erosion>
+	<cooldown>14</cooldown>
+	<power>3</power>
+	<cost>90</cost>
+	<bp>7</bp>
+	<rarity>0</rarity>
+	<image>ase_proj_acid_big</image>
+	<launchSounds>
+		<sound>ancient_laser</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>aea_laser_acid_boss</weaponArt>
+	<iconImage>laser</iconImage>
+</weaponBlueprint>
+<weaponBlueprint name="AEA_LASER_ACID_BOSS_CHAOS">
+	<type>BURST</type>
+	<drone_targetable>0</drone_targetable>
+	<flavorType>Acid Laser</flavorType>
+	<title>Chaotic Acid Splasher</title>
+	<short>Splasher™</short>
+	<tip>tip_laser</tip>
+	<desc>Designed by the acidic growth, this weapon continues to degrade the enemy system after impact. The impact of this weapon splashes nearby rooms applying erosion to them aswell.
+Chaotic variant does 1 splash damage on top of the erosion damage to adjacent rooms.</desc>
+	<tooltip>Fires 3 projectiles, 1 damage each, 60% stun chance, 60% fire chance.</tooltip>
+	<damage>1</damage>
+	<shots>3</shots>
+	<radius>55</radius>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<stunChance>0</stunChance>
+	<breachChance>0</breachChance>
+	<erosionChance>10</erosionChance>
+	<erosion>
+		<speed>0.4</speed>
+		<maxSpeed>1.2</maxSpeed>
+		<time>10.0</time>
+		<maxTime>30.0</maxTime>
+		<systemRepairMultiplier>0.75</systemRepairMultiplier>
+		<erodeShields>false</erodeShields>
+		<roomAnim renderLayer="1">                                                    
+			<anim animType="default" animBorder="2">aea_invisible</anim>                                                 
+				<wallAnim>aea_acid_wall</wallAnim>  
+		</roomAnim>
+	</erosion>
+	<cooldown>17</cooldown>
+	<power>2</power>
+	<cost>100</cost>
+	<bp>7</bp>
+	<rarity>0</rarity>
+	<projectiles>
+		<projectile count="1" fake="false">ase_proj_acid_big</projectile>
+	</projectiles>
+	<launchSounds>
+		<sound>ancient_laser</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>aea_laser_acid_boss_chaos</weaponArt>
+	<iconImage>laser</iconImage>
+</weaponBlueprint>
+<weaponBlueprint name="AEA_LASER_ACID_BOSS_CHAOS_PROJ">
+	<type>LASER</type>
+	<flavorType>Acid Laser</flavorType>
+	<title>Acid Splasher</title>
+	<short>Acid Splasher</short>
+	<tip>tip_laser</tip>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<tooltip>Fires 3 projectiles, 1 damage each, 60% stun chance, 60% fire chance.</tooltip>
+	<damage>1</damage>
+	<shots>1</shots>
+	<speed>20</speed>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<stunChance>0</stunChance>
+	<breachChance>0</breachChance>
+	<erosionChance>10</erosionChance>
+	<erosion>
+		<speed>0.4</speed>
+		<maxSpeed>1.2</maxSpeed>
+		<time>10.0</time>
+		<maxTime>30.0</maxTime>
+		<systemRepairMultiplier>0.75</systemRepairMultiplier>
+		<erodeShields>false</erodeShields>
+		<roomAnim renderLayer="1">                                                    
+			<anim animType="default" animBorder="2">aea_invisible</anim>                                                 
+				<wallAnim>aea_acid_wall</wallAnim>  
+		</roomAnim>
+	</erosion>
+	<cooldown>14</cooldown>
+	<power>3</power>
+	<cost>90</cost>
+	<bp>7</bp>
+	<rarity>0</rarity>
+	<image>ase_proj_acid_big</image>
+	<launchSounds>
+		<sound>ancient_laser</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>aea_laser_acid_boss</weaponArt>
+	<iconImage>laser</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="AEA_CRYSTAL_SHARD_BOSS">
+	<type>BEAM</type>
+	<tip>tip_beams</tip>
+	<title>'Naginata' Beam</title>
+	<short>'Naginata'</short>
+	<desc>A strong beam capable of locking down enemy rooms on hit.</desc>
+	<tooltip>.</tooltip>
+	<damage>1</damage>
+	<sp>1</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>17</cooldown>
+	<color>
+		<r>133</r>
+		<g>231</g>
+		<b>237</b>
+	</color>
+	<power>2</power>
+	<cost>100</cost>
+	<bp>7</bp>
+	<rarity>0</rarity>
+	<length>80</length>
+	<image>beam_contact</image>
+	<launchSounds>
+		<sound>beam2</sound>
+	</launchSounds>
+	<weaponArt>aea_crystal_shard_boss</weaponArt>
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+<weaponBlueprint name="AEA_CRYSTAL_SHARD_BOSS_CHAOS">
+	<type>BEAM</type>
+	<tip>tip_beams</tip>
+	<title>Chaotic 'Naginata' Beam</title>
+	<short>'Naginata'™</short>
+	<desc>A strong beam capable of locking down enemy rooms on hit.
+Chaotic variant damages crew trapped inside of the lockdown at 4hp/s and pierces 2 extra shield layers.</desc>
+	<tooltip>.</tooltip>
+	<damage>1</damage>
+	<sp>3</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>17</cooldown>
+	<color>
+		<r>133</r>
+		<g>231</g>
+		<b>237</b>
+	</color>
+	<roomStatBoosts>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<amount>-4</amount>
+			<shipTarget>CURRENT_ROOM</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>12</duration>
+			<priority>999</priority>
+			<maxStacks id="aea_shard_floor">1</maxStacks>
+			<roomAnim renderLayer="0">
+				<anim animType="default">aea_invisible</anim>
+				<tileAnim>aea_crystal_spike</tileAnim>
+			</roomAnim>
+		</statBoost>
+	</roomStatBoosts>
+	<power>2</power>
+	<cost>100</cost>
+	<bp>7</bp>
+	<rarity>0</rarity>
+	<length>80</length>
+	<image>beam_contact</image>
+	<launchSounds>
+		<sound>beam2</sound>
+	</launchSounds>
+	<weaponArt>aea_crystal_shard_boss_chaos</weaponArt>
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+
+<augBlueprint name="AEA_BARRIER_RELAY"> <!-- Inspired by void war-->
+	<title>Barrier Generator</title>
+	<desc>Generates a barrier each time you fire a weapon, can generate up to a maximum of 6 active barriers.</desc>
+	<cost>100</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+<augBlueprint name="AEA_BARRIER_RELAY_CHAOS">
+	<title>Chaotic Barrier Generator</title>
+	<desc>Generates a barrier each time you fire a weapon, can generate up to a maximum of 6 active barriers.
+Chaotic variant does not max out.</desc>
+	<cost>100</cost>
+	<rarity>0</rarity>
+	<stackable>false</stackable>
+</augBlueprint>
+
+<droneBlueprint name="AEA_COMBAT_NECRO_BOSS_LASER_TEMP">
+	<type>COMBAT</type>
+	<tip>tip_toggle_combat</tip>
+	<title>Technomancy Drone Mk. I [Laser]</title>
+	<short>Techno I [L]</short>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<power>2</power>
+	<cooldown>1000</cooldown>
+	<dodge>0</dodge>
+	<speed>10</speed>
+	<cost>60</cost>
+	<bp>3</bp>
+	<droneImage>drone_aea_necro_comtemp_l</droneImage>
+	<weaponBlueprint>AEA_LASER_NECRO_COMBAT</weaponBlueprint>
+	<rarity>0</rarity>
+	<iconImage>combat</iconImage>
+</droneBlueprint>
+<weaponBlueprint name="AEA_LASER_NECRO_COMBAT_BOSS">
+	<type>LASER</type>
+	<title>Drone Laser</title>
+	<damage>0</damage>
+	<shots>1</shots>
+	<fireChance>1</fireChance>
+	<breachChance>0</breachChance>
+	<rarity>0</rarity>
+	<image>laser_light</image>
+	<launchSounds>
+		<sound>smallMissile1</sound>
+		<sound>smallMissile2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>laser_burst_1</weaponArt>
+</weaponBlueprint>
+<droneBlueprint name="AEA_COMBAT_NECRO_BOSS">
+	<type>COMBAT</type>
+	<tip>tip_toggle_combat</tip>
+	<title>Technomancer Drone</title>
+	<short>Technomancer</short>
+	<desc>A powerful drone which constantly spawns new drones, maxes out at 3 drones.</desc>
+	<power>3</power>
+	<cooldown>1000</cooldown>
+	<dodge>0</dodge>
+	<speed>10</speed>
+	<cost>100</cost>
+	<bp>3</bp>
+	<droneImage>drone_aea_necro_boss</droneImage>
+	<weaponBlueprint>AEA_LASER_NECRO_COMBAT_BOSS</weaponBlueprint>
+	<rarity>0</rarity>
+	<iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="AEA_LASER_NECRO_COMBAT_BOSS_CHAOS">
+	<type>LASER</type>
+	<title>Drone Laser</title>
+	<damage>0</damage>
+	<shots>1</shots>
+	<fireChance>1</fireChance>
+	<breachChance>0</breachChance>
+	<rarity>0</rarity>
+	<image>laser_light</image>
+	<launchSounds>
+		<sound>smallMissile1</sound>
+		<sound>smallMissile2</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>laser_burst_1</weaponArt>
+</weaponBlueprint>
+<droneBlueprint name="AEA_COMBAT_NECRO_BOSS_CHAOS">
+	<type>COMBAT</type>
+	<tip>tip_toggle_combat</tip>
+	<title>Chaotic Technomancer Drone</title>
+	<short>Technomancer™</short>
+	<desc>A powerful drone which constantly spawns new drones, maxes out at 3 drones.
+Chaotic variant doesn't max out.</desc>
+	<power>3</power>
+	<cooldown>1000</cooldown>
+	<dodge>0</dodge>
+	<speed>10</speed>
+	<cost>100</cost>
+	<bp>3</bp>
+	<droneImage>drone_aea_necro_boss_chaos</droneImage>
+	<weaponBlueprint>AEA_LASER_NECRO_COMBAT_BOSS_CHAOS</weaponBlueprint>
+	<rarity>0</rarity>
+	<iconImage>combat</iconImage>
+</droneBlueprint>
+
+<weaponBlueprint name="AEA_BEAM_BIRD_COMBAT_BOSS">
+	<type>BEAM</type>
+	<tip>tip_beams</tip>
+	<title>Drone Beam</title>
+	<damage>0</damage>
+	<sysDamage>0</sysDamage>
+	<persDamage>1</persDamage>
+	<sp>0</sp>
+	<fireChance>1</fireChance>
+	<breachChance>0</breachChance>
+	<statBoosts>
+		<statBoost name="deathEffect" load="AEA_BIO_DRONE_DEATHEFF" />
+	</statBoosts>
+	<speed>30</speed>
+	<rarity>0</rarity>
+	<image>beam_contact</image>
+	<length>300</length>
+	<launchSounds>
+		<sound>beam1</sound>
+		<sound>beam1_2</sound>
+	</launchSounds>
+	<weaponArt>beam_1</weaponArt>
+</weaponBlueprint>
+<droneBlueprint name="AEA_COMBAT_BIRD_BOSS">
+	<type>COMBAT</type>
+	<tip>tip_toggle_combat</tip>
+	<title>Scourge Drone</title>
+	<short>Scourge</short>
+	<desc>A drone that specifically targets enemy crewmembers. Beam does 15 personal damage and inflicts enemy crew with a death effect that does 2 system damage and creates a fire, lasts for 20 seconds.</desc>
+	<power>2</power>
+	<cooldown>100</cooldown>
+	<dodge>0</dodge>
+	<speed>80</speed>
+	<cost>100</cost>
+	<bp>3</bp>
+	<droneImage>drone_aea_bird_boss</droneImage>
+	<weaponBlueprint>AEA_BEAM_BIRD_COMBAT_BOSS</weaponBlueprint>
+	<rarity>0</rarity>
+	<iconImage>combat</iconImage>
+</droneBlueprint>
+<weaponBlueprint name="AEA_BEAM_BIRD_COMBAT_BOSS_CHAOS">
+	<type>BEAM</type>
+	<tip>tip_beams</tip>
+	<title>Drone Beam</title>
+	<damage>0</damage>
+	<sysDamage>0</sysDamage>
+	<persDamage>1</persDamage>
+	<sp>16</sp>
+	<fireChance>1</fireChance>
+	<breachChance>0</breachChance>
+	<statBoosts>
+		<statBoost name="deathEffect" load="AEA_BIO_DRONE_DEATHEFF" />
+	</statBoosts>
+	<speed>30</speed>
+	<rarity>0</rarity>
+	<image>beam_contact</image>
+	<length>300</length>
+	<launchSounds>
+		<sound>beam1</sound>
+		<sound>beam1_2</sound>
+	</launchSounds>
+	<weaponArt>beam_1</weaponArt>
+</weaponBlueprint>
+<droneBlueprint name="AEA_COMBAT_BIRD_BOSS_CHAOS">
+	<type>COMBAT</type>
+	<tip>tip_toggle_combat</tip>
+	<title>Chaotic Scourge Drone</title>
+	<short>Scourge™</short>
+	<desc>A drone that specifically targets enemy crewmembers. Beam does 15 personal damage and inflicts enemy crew with a death effect that does 2 system damage and creates a fire, lasts for 20 seconds.
+Chaotic variant has full shield pierce.</desc>
+	<power>2</power>
+	<cooldown>100</cooldown>
+	<dodge>0</dodge>
+	<speed>80</speed>
+	<cost>100</cost>
+	<bp>3</bp>
+	<droneImage>drone_aea_bird_boss_chaos</droneImage>
+	<weaponBlueprint>AEA_BEAM_BIRD_COMBAT_BOSS_CHAOS</weaponBlueprint>
+	<rarity>0</rarity>
+	<iconImage>combat</iconImage>
+</droneBlueprint>
+
+
+<weaponBlueprint name="AEA_BEAM_SHLEG_BOSS">
+	<type>BEAM</type>
+	<tip>tip_aea_shleg</tip>
+	<title>Leviathan Beam</title>
+	<short>Leviathan</short>
+	<desc>Developed by an unknown anarchist shell scientist, this beam fires a concentrated beam of Inculcation gas that does 3hp/s and builds up mind control on enemy crew.</desc>
+	<tooltip>.</tooltip>
+	<damage>2</damage>
+	<persDamage>-1</persDamage>
+	<sp>2</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>18</cooldown>
+	<roomStatBoosts>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<amount>-3</amount>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<duration>30</duration>
+			<maxStacks id="aea_shleg_mind_gas">1</maxStacks>
+			<priority>999</priority>
+			<blackList load="LIST_CREW_GAS" />
+			<roomAnim renderLayer="0">
+				<anim animType="default">aea_invisible</anim>
+				<tileAnim>aea_shleg_gas_tile</tileAnim>
+			</roomAnim>
+		</statBoost>
+    </roomStatBoosts>
+	<power>3</power>
+	<cost>100</cost>
+	<bp>7</bp>
+	<color>
+		<r>170</r>
+		<g>205</g>
+		<b>40</b>
+	</color>
+	<rarity>0</rarity>
+	<length>80</length>
+	<image>beam_contact</image>
+	<launchSounds>
+		<sound>beam2</sound>
+	</launchSounds>
+	<weaponArt>aea_beam_shleg_boss</weaponArt>
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+<weaponBlueprint name="AEA_BEAM_SHLEG_BOSS_CHAOS">
+	<type>BEAM</type>
+	<tip>tip_aea_shleg</tip>
+	<title>Chaotic Leviathan Beam</title>
+	<short>Leviathan™</short>
+	<desc>Developed by an unknown anarchist shell scientist, this beam fires a concentrated beam of Inculcation gas that does 3hp/s and builds up mind control on enemy crew.
+Chaotic variant builds up status effect twice as fast and does twice as much damage to crew.</desc>
+	<tooltip>.</tooltip>
+	<damage>2</damage>
+	<sp>2</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>18</cooldown>
+	<roomStatBoosts>
+		<statBoost name="trueHealAmount">
+			<boostType>FLAT</boostType>
+			<amount>-6</amount>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<duration>30</duration>
+			<maxStacks id="aea_shleg_mind_gas">1</maxStacks>
+			<priority>1000</priority>
+			<blackList load="LIST_CREW_GAS" />
+			<roomAnim renderLayer="0">
+				<anim animType="default">aea_invisible</anim>
+				<tileAnim>aea_shleg_gas_extreme_tile</tileAnim>
+			</roomAnim>
+		</statBoost>
+    </roomStatBoosts>
+	<power>3</power>
+	<cost>100</cost>
+	<bp>7</bp>
+	<color>
+		<r>170</r>
+		<g>205</g>
+		<b>40</b>
+	</color>
+	<rarity>0</rarity>
+	<length>80</length>
+	<image>beam_contact</image>
+	<launchSounds>
+		<sound>beam2</sound>
+	</launchSounds>
+	<weaponArt>aea_beam_shleg_boss_chaos</weaponArt>
+	<iconImage>beam</iconImage>
 </weaponBlueprint>
 
 </FTL>
