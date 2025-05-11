@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-11 08:30+0000\n"
+"PO-Revision-Date: 2025-05-11 15:54+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_aea_justicierxml/ru/>\n"
@@ -54,7 +54,7 @@ msgstr "Неважно."
 #: src-en/data/events_special_aea_justicier.xml:34
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/text"
-msgstr ""
+msgstr "Открыть книгу."
 
 #: src-en/data/events_special_aea_justicier.xml:36
 msgid ""
@@ -64,92 +64,97 @@ msgstr "Неважно."
 #: src-en/data/events_special_aea_justicier.xml:44
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[2]/text"
-msgstr ""
+msgstr "Прочитать раздел \"Ритуалы крови\"."
 
 #: src-en/data/events_special_aea_justicier.xml:48
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[3]/text"
-msgstr ""
+msgstr "Прочитать раздел \"Ритуалы заключения договора\"."
 
 #: src-en/data/events_special_aea_justicier.xml:52
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[4]/text"
-msgstr ""
+msgstr "Прочитать раздел \"Ритуалы нападения\"."
 
 #: src-en/data/events_special_aea_justicier.xml:58
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/text"
-msgstr ""
+msgstr "Вы обращаетесь к разделу книги, посвященному правилам ритуала."
 
 #: src-en/data/events_special_aea_justicier.xml:60
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/choice/text"
-msgstr ""
+msgstr "Вернуться назад."
 
 #: src-en/data/events_special_aea_justicier.xml:68
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_CREW\"]/text"
-msgstr ""
+msgstr "Вы переходите к разделу книги, посвященному ритуалам крови."
 
 #: src-en/data/events_special_aea_justicier.xml:70
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_CREW\"]/choice/text"
-msgstr ""
+msgstr "Вернуться назад."
 
 #: src-en/data/events_special_aea_justicier.xml:78
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TRADE\"]/text"
 msgstr ""
+"Вы переходите к разделу книги, посвященному ритуалам заключения договоров."
 
 #: src-en/data/events_special_aea_justicier.xml:80
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TRADE\"]/choice/text"
-msgstr ""
+msgstr "Вернуться назад."
 
 #: src-en/data/events_special_aea_justicier.xml:88
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_ATTACK\"]/text"
-msgstr ""
+msgstr "Вы переходите к разделу книги, посвященному ритуалам нападения."
 
 #: src-en/data/events_special_aea_justicier.xml:90
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_ATTACK\"]/choice/text"
-msgstr ""
+msgstr "Вернуться назад."
 
 #: src-en/data/events_special_aea_justicier.xml:96
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_CREW\"]/text"
-msgstr ""
+msgstr "Тест"
 
 #: src-en/data/events_special_aea_justicier.xml:98
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_CREW\"]/choice/text"
-msgstr ""
+msgstr "Вернуться назад."
 
 #: src-en/data/events_special_aea_justicier.xml:104
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_TRADE\"]/text"
-msgstr ""
+msgstr "Тест"
 
 #: src-en/data/events_special_aea_justicier.xml:106
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_TRADE\"]/choice/text"
-msgstr ""
+msgstr "Вернуться назад."
 
 #: src-en/data/events_special_aea_justicier.xml:112
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_ATTACK\"]/text"
-msgstr ""
+msgstr "Тест"
 
 #: src-en/data/events_special_aea_justicier.xml:114
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_ATTACK\"]/choice/text"
-msgstr ""
+msgstr "Вернуться назад."
 
 #: src-en/data/events_special_aea_justicier.xml:168
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_ONE\"]/text"
 msgstr ""
+"Вы прибыли на место, где находился флот повстанцев, и обнаружили, что он "
+"уничтожен. Большой красный линкор, которого вы никогда раньше не видели, "
+"стоит посреди поля сражений. К сожалению, он обращает на вас внимание и "
+"начинает заряжать оружие."
 
 #: src-en/data/events_special_aea_justicier.xml:172
 msgid ""
@@ -160,16 +165,26 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_BATTLESHIP\"]/text"
 msgstr ""
+"Корабль разлетается на куски и взрывается, при этом вы обнаруживаете, что от "
+"судна исходит энергетический импульс, похожий на импульс от системы "
+"телепортации. Вы разбираете обломки корабля на лом."
 
 #: src-en/data/events_special_aea_justicier.xml:188
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_BATTLESHIP\"]/text"
 msgstr ""
+"Когда последние члены экипажа падают замертво, вы вспоминаете, что как раз "
+"перед тем, как вам удалось убить таинственного капитана судна, кто-то "
+"телепортировался с корабля. Вы приступаете к грабежу останков корабля."
 
 #: src-en/data/events_special_aea_justicier.xml:198
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_TWO\"]/text"
 msgstr ""
+"Вы снова прибыли на место, где находился флот повстанцев, и обнаруживаете, "
+"что он уничтожен. Большой красный линкор, подобного которому вы еще не "
+"видели, стоит посреди поля сражений. К сожалению, он обращает на вас "
+"внимание, и заряжает свое оружие."
 
 #: src-en/data/events_special_aea_justicier.xml:202
 msgid ""
@@ -180,6 +195,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/text"
 msgstr ""
+"Корабль разлетается на куски и взрывается, а на борт вашего корабля "
+"телепортируется странный человек, который говорит: \"Ренегат, ты показал "
+"себя вполне способным бойцом, однако мой бог жаждет крови, которую я не могу "
+"удовлетворить без корабля. Может быть, я смогу некоторое время поработать на "
+"борту твоего корабля?\""
 
 #: src-en/data/events_special_aea_justicier.xml:217
 msgid ""
@@ -189,7 +209,7 @@ msgstr "Принять его на борт."
 #: src-en/data/events_special_aea_justicier.xml:219
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Темный Юстициарий присоединяется к экипажу."
 
 #: src-en/data/events_special_aea_justicier.xml:220
 msgid ""
@@ -204,12 +224,17 @@ msgstr "Отказаться."
 #: src-en/data/events_special_aea_justicier.xml:226
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Он снова телепортируются, но куда именно - неизвестно."
 
 #: src-en/data/events_special_aea_justicier.xml:231
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/text"
 msgstr ""
+"Когда последние члены экипажа падают замертво, на борт вашего корабля "
+"телепортируется странный человек, который говорит: \"Ренегат, ты показал "
+"себя вполне способным бойцом, но мой бог жаждет крови, которую я не могу "
+"удовлетворить без корабля. Может быть, я смогу некоторое время поработать на "
+"борту твоего корабля?\""
 
 #: src-en/data/events_special_aea_justicier.xml:236
 msgid ""
@@ -219,7 +244,7 @@ msgstr "Принять его на борт."
 #: src-en/data/events_special_aea_justicier.xml:238
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Темный Юстициарий присоединяется к экипажу."
 
 #: src-en/data/events_special_aea_justicier.xml:239
 msgid ""
@@ -234,12 +259,14 @@ msgstr "Отказаться."
 #: src-en/data/events_special_aea_justicier.xml:245
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Он снова телепортируются, но куда именно - неизвестно."
 
 #: src-en/data/events_special_aea_justicier.xml:255
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/text"
 msgstr ""
+"Здесь находятся остатки уничтоженного флота повстанцев, но у вас нет времени "
+"на поиски, так как прибыло подкрепление!"
 
 #: src-en/data/events_special_aea_justicier.xml:262
 msgid ""
@@ -249,9 +276,9 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_aea_justicier.xml:266
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "(Продв. Двигатели) Попробовать сбежать от элиты."
 
 #: src-en/data/events_special_aea_justicier.xml:270
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
-msgstr ""
+msgstr "(Джерри) \"Привет!\""
