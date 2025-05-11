@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-11 08:32+0000\n"
+"PO-Revision-Date: 2025-05-11 08:54+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_shardxml/ru/>\n"
@@ -29,6 +29,7 @@ msgid ""
 msgstr "Ничего не делать."
 
 #: src-en/data/events_sector_aea_shard.xml:73
+#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/text"
 msgstr ""
@@ -42,6 +43,7 @@ msgid ""
 msgstr "Отправиться на рынок."
 
 #: src-en/data/events_sector_aea_shard.xml:77
+#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/text"
 msgstr ""
@@ -54,6 +56,7 @@ msgid ""
 msgstr "Заглянуть к торговцу, продающему старинные предметы быта."
 
 #: src-en/data/events_sector_aea_shard.xml:81
+#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -87,6 +90,7 @@ msgid ""
 msgstr "Заглянуть к торговцу, продающему редкое кристаллическое оружие."
 
 #: src-en/data/events_sector_aea_shard.xml:105
+#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
@@ -240,6 +244,7 @@ msgid ""
 msgstr "Слушать."
 
 #: src-en/data/events_sector_aea_shard.xml:239
+#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/event/text"
 msgstr ""
@@ -990,11 +995,13 @@ msgstr ""
 "пытается связаться с вами."
 
 #: src-en/data/events_sector_aea_shard.xml:781
+#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[1]/text"
 msgstr "Принять их вызов."
 
 #: src-en/data/events_sector_aea_shard.xml:783
+#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[1]/event/text"
 msgstr ""
@@ -1009,6 +1016,7 @@ msgid ""
 msgstr "Принять работу."
 
 #: src-en/data/events_sector_aea_shard.xml:787
+#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[1]/event/choice[1]/event/text"
 msgstr "\"Отлично, мы вышлем вам координаты обеих\"."
@@ -1019,6 +1027,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_aea_shard.xml:794
+#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr "\"А вот и координаты станции\"."
