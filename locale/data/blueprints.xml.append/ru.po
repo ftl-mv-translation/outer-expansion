@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-11 08:54+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-11 15:54+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1967,9 +1967,9 @@ msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BIO_1\"]/desc"
 msgstr ""
 "Дрон, специально предназначенный для поражения членов вражеского экипажа. "
-"Наносит 15 единиц урона экипажу и накладывает на вражеский экипаж эффект "
-"смерти на 20 секунд, который после их гибели наносит 2 единицы системного "
-"урона и вызывает пожар."
+"Луч наносит 15 урона экипажу и накладывает на вражеский экипаж эффект "
+"смерти, который после смерти экипажа наносит 2 системных урона и создает "
+"пожар, длится 20 секунд."
 
 #: src-en/data/blueprints.xml.append:5252
 msgid ""
@@ -2616,11 +2616,10 @@ msgid ""
 msgstr "Снижен урон от удушья"
 
 #: src-en/data/blueprints.xml.append:5952
-#, fuzzy
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/desc"
 msgstr ""
-"Лидер Еретиков энджи, древних энджи, одними из первых отделившихся от "
-"Гармонии. Обладает тонким контролем над наноботами энджи, что позволяет ему "
+"Лидер Еретиков энджи и один из первых энджи, отделившихся от Гармонии. "
+"Обладает тонким контролем над наноботами энджи, что дает ему возможность "
 "воскрешать практически любую форму жизни."
 
 #: src-en/data/blueprints.xml.append:5955
@@ -2632,20 +2631,18 @@ msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/shor
 msgstr "Король-Лич"
 
 #: src-en/data/blueprints.xml.append:5959
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[1]"
 msgstr ""
-"Активная способность: Постоянно воскрешает последнего врага, убитого в "
-"ближнем бою этим членом экипажа, стоит 5 нанитовых роев"
+"Активная способность: Навсегда воскрешает последнего врага, убитого в "
+"ближнем бою этим членом экипажа. Стоит 5 нанитовых роев"
 
 #: src-en/data/blueprints.xml.append:5960
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[2]"
 msgstr ""
 "Активная способность: Воскрешает последнего врага, убитого в ближнем бою "
-"этим членом экипажа, стоит 1 рой нанитов"
+"этим членом экипажа. Стоит 1 рой нанитов"
 
 #: src-en/data/blueprints.xml.append:5961
 msgid ""
@@ -2653,11 +2650,11 @@ msgid ""
 msgstr "Максимальное здоровье увеличено до 180"
 
 #: src-en/data/blueprints.xml.append:5962
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[4]"
 msgstr ""
-"Противники, убитые на одном корабле с Королем-Личем, генерируют 1 рой нанитов"
+"Враги, убитые на одном корабле, что и этот член экипажа, генерируют 1 рой "
+"нанитов"
 
 #: src-en/data/blueprints.xml.append:5963
 msgid ""
@@ -2665,10 +2662,9 @@ msgid ""
 msgstr "1.5x урон в бою и 2x скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:5964
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[6]"
-msgstr "Наноботы замедляют исцеление целевого экипажа на 100%."
+msgstr "Наноботы замедляют исцеление целевого экипажа на 100%"
 
 #: src-en/data/blueprints.xml.append:5965
 msgid ""
@@ -3155,10 +3151,9 @@ msgstr ""
 "дальнем бою"
 
 #: src-en/data/blueprints.xml.append:6209
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:6231
 msgid ""
@@ -3231,7 +3226,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6274
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a02\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:6296
 msgid ""
@@ -3270,7 +3265,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6307
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s03\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:6329
 msgid ""
@@ -3309,7 +3304,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6340
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s04\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:6362
 msgid ""
@@ -3348,7 +3343,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6373
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s05\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:6395
 msgid ""
@@ -3387,7 +3382,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6406
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s06\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:6428
 msgid ""
@@ -3426,7 +3421,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6439
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a07\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:6461
 msgid ""
@@ -3465,7 +3460,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6472
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s08\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:6494
 msgid ""
@@ -3504,7 +3499,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6505
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s09\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:6527
 msgid ""
@@ -3543,7 +3538,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6538
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a10\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:6560
 msgid ""
@@ -3582,7 +3577,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6571
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a11\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:6593
 msgid ""
@@ -3621,7 +3616,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6604
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s12\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:6626
 msgid ""
@@ -3660,7 +3655,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6637
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s13\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:6659
 msgid ""
@@ -3699,7 +3694,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6670
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s14\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:6692
 msgid ""
@@ -3738,7 +3733,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6703
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s15\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:6728
 msgid ""
@@ -5200,7 +5195,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9623
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_sup\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:9633
 msgid ""
@@ -5241,7 +5236,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9645
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_off\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:9655
 msgid ""
@@ -5281,7 +5276,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9667
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_bor\"]/powerList/power[3]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:9677
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_seed\"]/desc"
@@ -5359,7 +5354,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9707
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/powerList/power[6]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:9716
 msgid ""
@@ -5414,7 +5409,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9730
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a01\"]/powerList/power[6]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:9741
 msgid ""
@@ -5469,7 +5464,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9755
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a02\"]/powerList/power[6]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:9766
 msgid ""
@@ -5524,7 +5519,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9780
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s03\"]/powerList/power[6]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:9791
 msgid ""
@@ -5579,7 +5574,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9805
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s04\"]/powerList/power[6]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:9816
 msgid ""
@@ -5634,7 +5629,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9830
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s05\"]/powerList/power[6]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:9841
 msgid ""
@@ -5799,7 +5794,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9905
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s08\"]/powerList/power[6]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:9916
 msgid ""
@@ -5855,7 +5850,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9930
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s09\"]/powerList/power[6]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:9941
 msgid ""
@@ -5910,7 +5905,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9955
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a10\"]/powerList/power[6]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:9966
 msgid ""
@@ -5965,7 +5960,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9980
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a11\"]/powerList/power[6]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:9991
 msgid ""
@@ -6020,7 +6015,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10005
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s12\"]/powerList/power[6]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:10016
 msgid ""
@@ -6075,7 +6070,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10030
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s13\"]/powerList/power[6]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:10041
 msgid ""
@@ -6130,7 +6125,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10055
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s14\"]/powerList/power[6]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:10066
 msgid ""
@@ -6185,7 +6180,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10080
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s15\"]/powerList/power[6]"
-msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскроют свою цель."
+msgstr "Вражеские снаряды, выпущенные по текущему отсеку, раскрывают свою цель."
 
 #: src-en/data/blueprints.xml.append:10093
 msgid ""
@@ -6740,7 +6735,6 @@ msgid ""
 msgstr "Пробивает 1 щит; выпускает 3 кристалла, наносящих по 1 урону каждый."
 
 #: src-en/data/blueprints.xml.append:11264
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/desc"
 msgstr ""
@@ -6758,12 +6752,11 @@ msgid ""
 msgstr "Осколкорожденный"
 
 #: src-en/data/blueprints.xml.append:11271
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/powerList/power[1]"
 msgstr ""
-"Активная способность (1 заряд): Запирает отсеки, нанося урон врагам, но "
-"теряя возможность сражаться. Каждое использование отнимает 25 здоровья."
+"Активная способность (1 заряд): Запирает отсек и наносит урон врагам, но "
+"теряет 25 ОЗ и способность сражаться."
 
 #: src-en/data/blueprints.xml.append:11272
 msgid ""
@@ -7575,7 +7568,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:13044
 msgid "data/blueprints.xml.append$/dummyroot/FTL[19]/augBlueprint[1]/title"
-msgstr ""
+msgstr "Благо преступление клонов"
 
 #: src-en/data/blueprints.xml.append:13045
 msgid "data/blueprints.xml.append$/dummyroot/FTL[19]/augBlueprint[1]/desc"
@@ -7654,10 +7647,11 @@ msgid ""
 msgstr "Темный Принц"
 
 #: src-en/data/blueprints.xml.append:13095
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_JUSTICE\"]/desc"
-msgstr "Этот корабль совершенно лишен какого-либо описания!"
+msgstr ""
+"Мощное судно, принадлежащее могущественному вассалу странного темного бога. "
+"Совершите ритуалы крови, чтобы наделить силой и корабль, и экипаж."
 
 #: src-en/data/blueprints.xml.append:13176
 msgid ""
@@ -7667,7 +7661,7 @@ msgstr "Крейсер Юстициария"
 #: src-en/data/blueprints.xml.append:13177
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_JUSTICE_2\"]/name"
-msgstr ""
+msgstr "Невероятный"
 
 #: src-en/data/blueprints.xml.append:13178
 msgid ""
@@ -7682,7 +7676,7 @@ msgstr "Крейсер Юстициария"
 #: src-en/data/blueprints.xml.append:13260
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_JUSTICE_3\"]/name"
-msgstr ""
+msgstr "Дисциплинарный"
 
 #: src-en/data/blueprints.xml.append:13261
 msgid ""
@@ -7692,7 +7686,7 @@ msgstr "Этот корабль совершенно лишен какого-л�
 #: src-en/data/blueprints.xml.append:13343
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/desc"
-msgstr ""
+msgstr "Таинственная фигура, поклоняющаяся странному темному богу."
 
 #: src-en/data/blueprints.xml.append:13344
 msgid ""
@@ -7705,24 +7699,22 @@ msgid ""
 msgstr "Темный Юстициарий"
 
 #: src-en/data/blueprints.xml.append:13350
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[1]"
 msgstr ""
-"Активная способность: Совершает ритуальное жертвоприношение, выберите "
-"несколько союзников, которые будут принесены в жертву."
+"Активная способность: Совершает ритуальное жертвоприношение, выбирает "
+"несколько союзников или контролируемых разумом членов экипажа, которые будут "
+"принесены в жертву."
 
 #: src-en/data/blueprints.xml.append:13351
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[2]"
-msgstr "Невосприимчив к удушью и пожарам"
+msgstr "Делает всех союзников поддающимися контролю"
 
 #: src-en/data/blueprints.xml.append:13352
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[3]"
-msgstr "Максимальное здоровье увеличено до 200"
+msgstr "Невосприимчивость к удушью"
 
 #: src-en/data/blueprints.xml.append:13353
 msgid ""
@@ -7732,7 +7724,7 @@ msgstr "Наносит 1.5х урона в бою с экипажем"
 #: src-en/data/blueprints.xml.append:13358
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier_enemy\"]/desc"
-msgstr ""
+msgstr "Таинственная фигура, поклоняющаяся странному темному богу."
 
 #: src-en/data/blueprints.xml.append:13359
 msgid ""
@@ -7748,11 +7740,14 @@ msgstr "Темный Юстициарий"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier_enemy\"]/powerList/power[1]"
 msgstr ""
+"Активная способность: Совершает ритуальное жертвоприношение, выбирает "
+"несколько союзников или контролируемых разумом членов экипажа, которые будут "
+"принесены в жертву."
 
 #: src-en/data/blueprints.xml.append:13366
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier_enemy\"]/powerList/power[2]"
-msgstr ""
+msgstr "Невосприимчивость к удушью"
 
 #: src-en/data/blueprints.xml.append:13367
 msgid ""
@@ -7917,12 +7912,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:13551
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_MINE_PROJ_BASE\"]/title"
-msgstr ""
+msgstr "Минный снаряд"
 
 #: src-en/data/blueprints.xml.append:13552
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_MINE_PROJ_BASE\"]/short"
-msgstr ""
+msgstr "Минный снаряд"
 
 #: src-en/data/blueprints.xml.append:13553
 msgid ""
@@ -7930,42 +7925,43 @@ msgid ""
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:13554
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_MINE_PROJ_BASE\"]/tooltip"
-msgstr "Выпускает 1 ракету; наносит 3 урона; пробивает все щиты."
+msgstr "Выпускает 1 ракету; наносит 1 урон; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:13593
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_MINE_1\"]/title"
-msgstr ""
+msgstr "Минный снаряд"
 
 #: src-en/data/blueprints.xml.append:13594
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_MINE_1\"]/short"
-msgstr ""
+msgstr "Минный снаряд"
 
 #: src-en/data/blueprints.xml.append:13595
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_MINE_1\"]/desc"
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:13596
-#, fuzzy
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_MINE_1\"]/tooltip"
-msgstr "Выпускает 1 ракету; наносит 3 урона; пробивает все щиты."
+msgstr "Выпускает 1 ракету; наносит 1 урон; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:13626
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_BOSS\"]/title"
-msgstr ""
+msgstr "Кислотный сплешер"
 
 #: src-en/data/blueprints.xml.append:13627
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_BOSS\"]/short"
-msgstr ""
+msgstr "Сплешер"
 
 #: src-en/data/blueprints.xml.append:13629
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_BOSS\"]/desc"
 msgstr ""
+"Созданное на основе кислотного роста, это оружие продолжает разрушать "
+"систему противника после попадания. При попадании разбрызгивается по "
+"соседним отсекам, нанося эрозию и им."
 
 #: src-en/data/blueprints.xml.append:13630
 msgid ""
@@ -7977,12 +7973,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13680
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_BOSS_PROJ\"]/title"
-msgstr ""
+msgstr "Кислотный сплешер"
 
 #: src-en/data/blueprints.xml.append:13681
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_BOSS_PROJ\"]/short"
-msgstr ""
+msgstr "Кислотный сплешер"
 
 #: src-en/data/blueprints.xml.append:13683
 msgid ""
@@ -7999,17 +7995,22 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13733
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_BOSS_CHAOS\"]/title"
-msgstr ""
+msgstr "Хаотичный кислотный сплешер"
 
 #: src-en/data/blueprints.xml.append:13734
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_BOSS_CHAOS\"]/short"
-msgstr ""
+msgstr "Сплешер™"
 
 #: src-en/data/blueprints.xml.append:13736
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_BOSS_CHAOS\"]/desc"
 msgstr ""
+"Созданное на основе кислотного роста, это оружие продолжает разрушать "
+"систему противника после попадания. При попадании разбрызгивается по "
+"соседним отсекам, нанося им эрозию.\n"
+"Хаотический вариант наносит 1 урон от сплеша в дополнение к урону от эрозии "
+"соседним отсекам."
 
 #: src-en/data/blueprints.xml.append:13738
 msgid ""
@@ -8021,12 +8022,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13788
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_BOSS_CHAOS_PROJ\"]/title"
-msgstr ""
+msgstr "Кислотный сплешер"
 
 #: src-en/data/blueprints.xml.append:13789
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_ACID_BOSS_CHAOS_PROJ\"]/short"
-msgstr ""
+msgstr "Кислотный сплешер"
 
 #: src-en/data/blueprints.xml.append:13791
 msgid ""
@@ -8043,17 +8044,17 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13841
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_CRYSTAL_SHARD_BOSS\"]/title"
-msgstr ""
+msgstr "Луч \"Нагината\""
 
 #: src-en/data/blueprints.xml.append:13842
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_CRYSTAL_SHARD_BOSS\"]/short"
-msgstr ""
+msgstr "\"Нагината\""
 
 #: src-en/data/blueprints.xml.append:13843
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_CRYSTAL_SHARD_BOSS\"]/desc"
-msgstr ""
+msgstr "Мощный луч, способный запирать вражеские отсеки при попадании."
 
 #: src-en/data/blueprints.xml.append:13844
 msgid ""
@@ -8063,17 +8064,20 @@ msgstr "."
 #: src-en/data/blueprints.xml.append:13870
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_CRYSTAL_SHARD_BOSS_CHAOS\"]/title"
-msgstr ""
+msgstr "Хаотичный луч \"Нагината\""
 
 #: src-en/data/blueprints.xml.append:13871
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_CRYSTAL_SHARD_BOSS_CHAOS\"]/short"
-msgstr ""
+msgstr "Нагината™"
 
 #: src-en/data/blueprints.xml.append:13872
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_CRYSTAL_SHARD_BOSS_CHAOS\"]/desc"
 msgstr ""
+"Мощный луч, способный запирать вражеские отсеки при попадании.\n"
+"Хаотический вариант наносит экипажу, оказавшемуся внутри запертого отсека, "
+"урон со скоростью 4 ОЗ/с и пробивает 2 дополнительных слоя щита."
 
 #: src-en/data/blueprints.xml.append:13874
 msgid ""
@@ -8086,22 +8090,24 @@ msgid ""
 msgstr "Генератор барьеров"
 
 #: src-en/data/blueprints.xml.append:13916
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_BARRIER_RELAY\"]/desc"
 msgstr ""
 "Генерирует барьер каждый раз, когда вы стреляете из оружия, может "
-"сгенерировать до 8 активных барьеров."
+"сгенерировать до 6 активных барьеров."
 
 #: src-en/data/blueprints.xml.append:13922
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_BARRIER_RELAY_CHAOS\"]/title"
-msgstr ""
+msgstr "Генератор хаотического барьера"
 
 #: src-en/data/blueprints.xml.append:13923
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_BARRIER_RELAY_CHAOS\"]/desc"
 msgstr ""
+"Генерирует барьер каждый раз, когда вы стреляете из оружия, может "
+"сгенерировать до 6 активных барьеров.\n"
+"Хаотический вариант не имеет максимального значения."
 
 #: src-en/data/blueprints.xml.append:13933
 msgid ""
@@ -8126,17 +8132,19 @@ msgstr "Лазер дрона"
 #: src-en/data/blueprints.xml.append:13977
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_BOSS\"]/title"
-msgstr ""
+msgstr "Дрон \"Техномант\""
 
 #: src-en/data/blueprints.xml.append:13978
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_BOSS\"]/short"
-msgstr ""
+msgstr "Техномант"
 
 #: src-en/data/blueprints.xml.append:13979
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_BOSS\"]/desc"
 msgstr ""
+"Мощный дрон, который постоянно порождает новых дронов, максимальное "
+"количество дронов - 3."
 
 #: src-en/data/blueprints.xml.append:13994
 msgid ""
@@ -8146,17 +8154,20 @@ msgstr "Лазер дрона"
 #: src-en/data/blueprints.xml.append:14022
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_BOSS_CHAOS\"]/title"
-msgstr ""
+msgstr "Хаотичный дрон \"Техномант\""
 
 #: src-en/data/blueprints.xml.append:14023
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_BOSS_CHAOS\"]/short"
-msgstr ""
+msgstr "Техномант™"
 
 #: src-en/data/blueprints.xml.append:14024
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_NECRO_BOSS_CHAOS\"]/desc"
 msgstr ""
+"Мощный дрон, постоянно порождающий новых дронов, максимальное количество "
+"дронов - 3.\n"
+"Хаотический вариант не имеет максимума."
 
 #: src-en/data/blueprints.xml.append:14041
 msgid ""
@@ -8166,22 +8177,21 @@ msgstr "Лучевой дрон"
 #: src-en/data/blueprints.xml.append:14064
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BOSS\"]/title"
-msgstr ""
+msgstr "Дрон \"Бич\""
 
 #: src-en/data/blueprints.xml.append:14065
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BOSS\"]/short"
-msgstr ""
+msgstr "Бич"
 
 #: src-en/data/blueprints.xml.append:14066
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BOSS\"]/desc"
 msgstr ""
 "Дрон, специально предназначенный для поражения членов вражеского экипажа. "
-"Наносит 15 единиц урона экипажу и накладывает на вражеский экипаж эффект "
-"смерти на 20 секунд, который после их гибели наносит 2 единицы системного "
-"урона и вызывает пожар."
+"Луч наносит 15 урона экипажу и накладывает на вражеский экипаж эффект "
+"смерти, который после смерти экипажа наносит 2 системных урона и создает "
+"пожар, длится 20 секунд."
 
 #: src-en/data/blueprints.xml.append:14081
 msgid ""
@@ -8191,32 +8201,40 @@ msgstr "Лучевой дрон"
 #: src-en/data/blueprints.xml.append:14104
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BOSS_CHAOS\"]/title"
-msgstr ""
+msgstr "Хаотический дрон \"Бич\""
 
 #: src-en/data/blueprints.xml.append:14105
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BOSS_CHAOS\"]/short"
-msgstr ""
+msgstr "Бич™"
 
 #: src-en/data/blueprints.xml.append:14106
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BOSS_CHAOS\"]/desc"
 msgstr ""
+"Дрон, специально предназначенный для поражения членов вражеского экипажа. "
+"Луч наносит 15 единиц личного урона и накладывает на вражеский экипаж эффект "
+"смерти, который наносит 2 единицы системного урона и создает пожар, длящийся "
+"20 секунд.\n"
+"Хаотичный вариант способен пробивать все слои щита."
 
 #: src-en/data/blueprints.xml.append:14124
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_SHLEG_BOSS\"]/title"
-msgstr ""
+msgstr "Луч \"Левиафан\""
 
 #: src-en/data/blueprints.xml.append:14125
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_SHLEG_BOSS\"]/short"
-msgstr ""
+msgstr "Левиафан"
 
 #: src-en/data/blueprints.xml.append:14126
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_SHLEG_BOSS\"]/desc"
 msgstr ""
+"Разработанный неизвестным ученым-Анархистом, этот луч стреляет "
+"концентрированным пучком инкубационного газа, который наносит 3 ОЗ/с урона и "
+"устанавливает контроль над разумом вражеского экипажа."
 
 #: src-en/data/blueprints.xml.append:14127
 msgid ""
@@ -8226,17 +8244,22 @@ msgstr "."
 #: src-en/data/blueprints.xml.append:14171
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_SHLEG_BOSS_CHAOS\"]/title"
-msgstr ""
+msgstr "Хаотический луч \"Левиафан\""
 
 #: src-en/data/blueprints.xml.append:14172
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_SHLEG_BOSS_CHAOS\"]/short"
-msgstr ""
+msgstr "Левиафан™"
 
 #: src-en/data/blueprints.xml.append:14173
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_BEAM_SHLEG_BOSS_CHAOS\"]/desc"
 msgstr ""
+"Разработанный неизвестным ученым-Анархистом, этот луч стреляет "
+"концентрированным пучком инкубационного газа, который наносит 3 ОЗ/с урона и "
+"устанавливает контроль над разумом вражеского экипажа.\n"
+"Хаотичный вариант накладывает статусный эффект вдвое быстрее и наносит вдвое "
+"больше урона экипажу."
 
 #: src-en/data/blueprints.xml.append:14175
 msgid ""
