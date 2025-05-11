@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-05-11 15:54+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -377,7 +377,7 @@ msgstr "(Древнее причастие) Причастие."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(Взломщик МВ-приводов) Вызвать МВ-судно из Outer Expansion."
 
 #: src-en/data/events_special_storage.xml.append:311
 msgid ""
@@ -4031,6 +4031,8 @@ msgstr "Вернуться в меню переключения."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/text"
 msgstr ""
+"Вы проверяете, какие корабли доступны для вызова в данный момент. Вызов "
+"босса Мультивселенной требует 7{."
 
 #: src-en/data/events_special_storage.xml.append:3052
 msgid ""
@@ -4041,6 +4043,9 @@ msgstr "Кислотный разрушитель тип Б - оставляет
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[1]/event/text"
 msgstr ""
+"Вы включаете машину на полную мощность и наблюдаете, как открывается разлом, "
+"тряся корабль. Затем она внезапно отключается, и мигающий зеленый свет "
+"вместе с строчкой координат информирует вас о том, что это сработало."
 
 #: src-en/data/events_special_storage.xml.append:3062
 msgid ""
@@ -4051,6 +4056,9 @@ msgstr "Клинохвост тип Б - оставляет после себя 
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[2]/event/text"
 msgstr ""
+"Вы включаете машину на полную мощность и наблюдаете, как открывается разлом, "
+"тряся корабль. Затем она внезапно отключается, и мигающий зеленый свет "
+"вместе с строчкой координат информирует вас о том, что это сработало."
 
 #: src-en/data/events_special_storage.xml.append:3072
 msgid ""
@@ -4061,16 +4069,21 @@ msgstr "Бутон тип В - оставляет после себя Генер
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[3]/event/text"
 msgstr ""
+"Вы включаете машину на полную мощность и наблюдаете, как открывается разлом, "
+"тряся корабль. Затем она внезапно отключается, и мигающий зеленый свет "
+"вместе с строчкой координат информирует вас о том, что это сработало."
 
 #: src-en/data/events_special_storage.xml.append:3082
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[4]/text"
-msgstr ""
+msgstr "Неважно, заняться чем-то еще."
 
 #: src-en/data/events_special_storage.xml.append:3087
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/text"
 msgstr ""
+"Вы проверяете, какие корабли доступны для вызова в данный момент. Вызов "
+"босса Мультивселенной требует 7{."
 
 #: src-en/data/events_special_storage.xml.append:3089
 msgid ""
@@ -4081,6 +4094,9 @@ msgstr "Богохульство тип В - оставляет после се�
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[1]/event/text"
 msgstr ""
+"Вы включаете машину на полную мощность и наблюдаете, как открывается разлом, "
+"тряся корабль. Затем она внезапно отключается, и мигающий зеленый свет "
+"вместе с строчкой координат информирует вас о том, что это сработало."
 
 #: src-en/data/events_special_storage.xml.append:3099
 msgid ""
@@ -4093,6 +4109,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[2]/event/text"
 msgstr ""
+"Вы включаете машину на полную мощность и наблюдаете, как открывается разлом, "
+"тряся корабль. Затем она внезапно отключается, и мигающий зеленый свет "
+"вместе с строчкой координат информирует вас о том, что это сработало."
 
 #: src-en/data/events_special_storage.xml.append:3109
 msgid ""
@@ -4103,8 +4122,11 @@ msgstr "Беспорядок тип Б - оставляет после себя 
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[3]/event/text"
 msgstr ""
+"Вы включаете машину на полную мощность и наблюдаете, как открывается разлом, "
+"тряся корабль. Затем она внезапно отключается, и мигающий зеленый свет "
+"вместе с строчкой координат информирует вас о том, что это сработало."
 
 #: src-en/data/events_special_storage.xml.append:3119
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[4]/text"
-msgstr ""
+msgstr "Неважно, заняться чем-то еще."
