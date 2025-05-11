@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-11 08:54+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-11 15:54+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -142,12 +142,19 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[14]/tooltip"
 msgstr ""
+"Генератор барьеров:\n"
+"Вражеский корабль оснащен генератором барьеров, который защищает один "
+"случайный отсек на корабле при каждом выстреле из оружия, максимальное "
+"количество барьеров - 6."
 
 #: src-en/data/hyperspace.xml.append:118
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[15]/tooltip"
 msgstr ""
+"Генератор хаотических барьеров:\n"
+"Вражеский корабль оснащен генератором барьеров, который защищает один "
+"случайный отсек на корабле при каждом выстреле из оружия."
 
 #: src-en/data/hyperspace.xml.append:557
 msgid ""
@@ -1605,17 +1612,15 @@ msgid ""
 msgstr "РИТУАЛ"
 
 #: src-en/data/hyperspace.xml.append:6705
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_dark_justicier\"]/powerEffect/tooltip"
 msgstr ""
 "Проведите темный ритуал, принесите в жертву несколько членов экипажа в "
 "определенных местах, чтобы вызвать различные эффекты. Экипаж, выживший после "
-"участия в ритуале, будет ослаблен и потеряет 50% здоровья на 5 прыжков.\n"
-"\n"
+"участия в ритуале, будет ослаблен и потеряет 25% скорости передвижения на 5 "
+"прыжков.\n"
 "Щелкните левой кнопкой мыши, чтобы выбрать экипаж для жертвоприношения.\n"
-"\n"
 "Щелкните правой кнопкой мыши, чтобы провести ритуал или отменить его."
 
 #: src-en/data/hyperspace.xml.append:6736
@@ -1928,22 +1933,25 @@ msgstr "Дар получен"
 #: src-en/data/hyperspace.xml.append:9206
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/name"
-msgstr ""
+msgstr "Дар незаконно модифицированного Клон-отсека"
 
 #: src-en/data/hyperspace.xml.append:9207
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/secretName"
-msgstr ""
+msgstr "Дар ???"
 
 #: src-en/data/hyperspace.xml.append:9208
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/secretDescription"
-msgstr ""
+msgstr "Получите дар ??? от Корби."
 
 #: src-en/data/hyperspace.xml.append:9209
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/description"
 msgstr ""
+"Покажите Корби модифицированный Клон-отсек. \n"
+"\t\t\t\tПока действует; после каждого прыжка на борту корабля появляется "
+"слабый член экипажа с 20-секундным сроком жизни."
 
 #: src-en/data/hyperspace.xml.append:9211
 msgid ""
@@ -1958,12 +1966,13 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:9219
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_ACID\"]/name"
-msgstr ""
+msgstr "Нет такого понятия, как \"слишком много оружия\""
 
 #: src-en/data/hyperspace.xml.append:9220
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_ACID\"]/description"
 msgstr ""
+"Победите Ренегата Кислотный разрушитель тип Б и получите Кислотный сплешер."
 
 #: src-en/data/hyperspace.xml.append:9222
 msgid ""
@@ -1972,12 +1981,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:9225
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_BIRD\"]/name"
-msgstr ""
+msgstr "Хорошая атака - это хорошая атака"
 
 #: src-en/data/hyperspace.xml.append:9226
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_BIRD\"]/description"
-msgstr ""
+msgstr "Победите Ренегата Клинохвоста тип Б и получите дрон \"Бич\"."
 
 #: src-en/data/hyperspace.xml.append:9228
 msgid ""
@@ -1986,12 +1995,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:9231
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_CULT\"]/name"
-msgstr ""
+msgstr "Реле барьера"
 
 #: src-en/data/hyperspace.xml.append:9232
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_CULT\"]/description"
-msgstr ""
+msgstr "Победите Ренегата Бутона тип В и получите Генератор барьеров."
 
 #: src-en/data/hyperspace.xml.append:9234
 msgid ""
@@ -2000,12 +2009,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:9237
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_NECRO\"]/name"
-msgstr ""
+msgstr "Дронцепция"
 
 #: src-en/data/hyperspace.xml.append:9238
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_NECRO\"]/description"
-msgstr ""
+msgstr "Победите Ренегата Богохульство тип В и получите дрон \"Некромант\"."
 
 #: src-en/data/hyperspace.xml.append:9240
 msgid ""
@@ -2014,12 +2023,14 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:9243
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHARD\"]/name"
-msgstr ""
+msgstr "Заезженный трюк"
 
 #: src-en/data/hyperspace.xml.append:9244
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHARD\"]/description"
 msgstr ""
+"Победите автоматический корабль Ренегатов-Осколкорожденных тип В и получите "
+"луч \"Нагината\"."
 
 #: src-en/data/hyperspace.xml.append:9246
 msgid ""
@@ -2028,12 +2039,12 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:9249
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHLEG\"]/name"
-msgstr ""
+msgstr "Подумай о себе"
 
 #: src-en/data/hyperspace.xml.append:9250
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHLEG\"]/description"
-msgstr ""
+msgstr "Победите корабль Ренегата Беспорядок тип Б и получите луч \"Левиафан\"."
 
 #: src-en/data/hyperspace.xml.append:9252
 msgid ""
