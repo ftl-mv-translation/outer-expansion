@@ -1502,7 +1502,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_dark_justicier\"]/powerEffect/tooltip"
 msgstr ""
-"Perform a dark ritual, sacrifice a number of crew in specific positions to trigger different effects. Crew who survive being apart of the ritual will be weakened and lose 50% of their health for 5 jumps.\n"
+"Perform a dark ritual, sacrifice a number of crew in specific positions to trigger different effects. Crew who survive being a part of the ritual will be weakened and lose 25% of their move speed for 5 jumps.\n"
 "Left click to select crew for sacrifice.\n"
 "Right click to attempt the ritual or cancel."
 
@@ -1516,7 +1516,7 @@ msgstr "RITUAL"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_dark_justicier_enemy\"]/powerEffect/tooltip"
-msgstr "YOU SHOULD NEVER SEE THIS"
+msgstr "YOU SHOULD NEVER SEE THIS."
 
 #: src-en/data/hyperspace.xml.append:8433
 msgid ""

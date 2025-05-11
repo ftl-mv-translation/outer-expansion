@@ -2537,9 +2537,9 @@ msgstr "Reduced suffocation damage"
 #: src-en/data/blueprints.xml.append:5952
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/desc"
 msgstr ""
-"The leader of the Engi Heretics, an ancient engi, one of the first to split "
-"off from the harmony. Possesses fine control over Engi nano-bots giving it "
-"the ability to resurrect almost any life form."
+"Leader of the Engi Heretics and one of the first Engi to split off from the "
+"Harmony. Possesses fine control over Engi nanobots, giving it the ability to"
+" resurrect almost any lifeform."
 
 #: src-en/data/blueprints.xml.append:5955
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/title"
@@ -2553,15 +2553,15 @@ msgstr "Lich King"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[1]"
 msgstr ""
-"Active Ability: Permanently resurrect the last enemy killed in melee combat "
-"by this crewmember, costs 5 Nanite Swarms"
+"Active Ability: Permanently resurrects the last enemy killed in melee combat"
+" by this crewmember. Costs 5 Nanite Swarms"
 
 #: src-en/data/blueprints.xml.append:5960
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[2]"
 msgstr ""
-"Active Ability: Resurrect the last enemy killed in melee combat by this "
-"crewmember, costs 1 Nanite Swarm"
+"Active Ability: Resurrects the last enemy killed in melee combat by this "
+"crewmember. Costs 1 Nanite Swarm"
 
 #: src-en/data/blueprints.xml.append:5961
 msgid ""
@@ -2572,7 +2572,7 @@ msgstr "Max Health is increased to 180"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[4]"
 msgstr ""
-"Enemy killed on the same ship as the Lich King generate 1 nanite swarm"
+"Enemies killed on the same ship as this crewmember generate 1 Nanite Swarm"
 
 #: src-en/data/blueprints.xml.append:5963
 msgid ""
@@ -2582,7 +2582,7 @@ msgstr "1.5x combat damage, 2x repair speed"
 #: src-en/data/blueprints.xml.append:5964
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[6]"
-msgstr "Nano bots reduce healing of the target crew by 100%"
+msgstr "Nanobots reduce healing of the target crew by 100%"
 
 #: src-en/data/blueprints.xml.append:5965
 msgid ""
@@ -6414,8 +6414,8 @@ msgstr "Pierces 1 shield; fires 3 crystals that deal 1 damage each."
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/desc"
 msgstr ""
-"An ancient group of pirates, The Shard-Forged are primarily crystals who "
-"split off from the crystilline empire long ago."
+"An ancient group of pirates, the Shard-Forged are primarily crystals who "
+"split off from the Crystalline Empire long ago."
 
 #: src-en/data/blueprints.xml.append:11265
 msgid ""
@@ -6431,8 +6431,8 @@ msgstr "Shard-Forged"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/powerList/power[1]"
 msgstr ""
-"Active Ability (1 charges): Locks down rooms damaging enemies but losing the"
-" ability to fight. Each cast costs 25 health."
+"Active Ability (1 charge): Locks down rooms and damages enemies, but loses "
+"25 HP and the ability to fight."
 
 #: src-en/data/blueprints.xml.append:11272
 msgid ""
@@ -7300,7 +7300,9 @@ msgstr "The Dark Prince"
 #: src-en/data/blueprints.xml.append:13095
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_JUSTICE\"]/desc"
-msgstr "This ship is completely devoid of any description whatsoever!"
+msgstr ""
+"A powerful vessel belonging to a powerful vassal of a strange dark god. "
+"Perform blood rituals to empower ship and crew alike."
 
 #: src-en/data/blueprints.xml.append:13176
 msgid ""
@@ -7351,18 +7353,18 @@ msgstr "Dark Justicier"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[1]"
 msgstr ""
-"Active Ability: Perform a ritual sacrifice, select a number of allied crew "
-"who will be sacrified."
+"Active Ability: Perform a ritual sacrifice, select a number of allied or "
+"mind controlled crew who will be sacrified."
 
 #: src-en/data/blueprints.xml.append:13351
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[2]"
-msgstr "Immune to suffocation and fires"
+msgstr "Makes all allied crew controllable"
 
 #: src-en/data/blueprints.xml.append:13352
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[3]"
-msgstr "Max Health is increased to 200"
+msgstr "Immune to suffocation"
 
 #: src-en/data/blueprints.xml.append:13353
 msgid ""
@@ -7570,7 +7572,7 @@ msgstr "YOU SHOULD NEVER SEE THIS"
 #: src-en/data/blueprints.xml.append:13554
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_MINE_PROJ_BASE\"]/tooltip"
-msgstr "Fires 1 missile; does 3 damage; pierces all shields."
+msgstr "Fires 1 missile; does 1 damage; pierces all shields."
 
 #: src-en/data/blueprints.xml.append:13593
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_MINE_1\"]/title"
@@ -7586,7 +7588,7 @@ msgstr "YOU SHOULD NEVER SEE THIS"
 
 #: src-en/data/blueprints.xml.append:13596
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_MINE_1\"]/tooltip"
-msgstr "Fires 1 missile; does 3 damage; pierces all shields."
+msgstr "Fires 1 missile; does 1 damage; pierces all shields."
 
 #: src-en/data/blueprints.xml.append:13626
 msgid ""
@@ -7725,7 +7727,7 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_BARRIER_RELAY\"]/desc"
 msgstr ""
 "Generates a barrier each time you fire a weapon, can generate up to a "
-"maximum of 8 active barriers."
+"maximum of 6 active barriers."
 
 #: src-en/data/blueprints.xml.append:13922
 msgid ""
@@ -7816,9 +7818,9 @@ msgstr "Scourge"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_BIRD_BOSS\"]/desc"
 msgstr ""
-"A drone that specifically targets enemy crewmembers. Does 15 personal damage"
-" and inflicts enemy crew with a death effect that does 2 system damage and "
-"creates a fire for 20 seconds."
+"A drone that specifically targets enemy crewmembers. Beam does 15 personal "
+"damage and inflicts enemy crew with a death effect that does 2 system damage"
+" and creates a fire, lasts for 20 seconds."
 
 #: src-en/data/blueprints.xml.append:14081
 msgid ""
