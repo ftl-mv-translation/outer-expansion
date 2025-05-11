@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-11 07:42+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Portuguese (Brazil) <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_sector_aea_acidxml/pt_BR/>\n"
-"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_sector_aea_acid.xml:28
 msgid ""
@@ -2424,8 +2417,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_QUEST_AEA_ACID_PIRATE_TRAP\"]/text"
 msgstr ""
-"Ao chegar você vê duas naves Trópodes em alcance de comunicação. Elas não te "
-"veem."
+"Ao chegar você vê duas naves Trópodes em alcance de comunicação. Elas não te"
+" veem."
 
 #: src-en/data/events_sector_aea_acid.xml:2009
 msgid ""
@@ -2591,885 +2584,909 @@ msgstr "Continuar..."
 
 #: src-en/data/events_sector_aea_acid.xml:2146
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/beaconType/unvisitedTooltip"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_TEST\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2147
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/beaconType/visitedTooltip"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_TEST\"]/beaconType/visitedTooltip"
 msgstr "Local explorado. Não sobrou nada de interesse."
 
 #: src-en/data/events_sector_aea_acid.xml:2148
 msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_TEST\"]/beaconType/undiscoveredTooltip"
+msgstr "Local inexplorado."
+
+#: src-en/data/events_sector_aea_acid.xml:2152
+msgid "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_TEST\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2154
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_TEST\"]/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events_sector_aea_acid.xml:2163
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2164
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/beaconType/visitedTooltip"
+msgstr "Local explorado. Não sobrou nada de interesse."
+
+#: src-en/data/events_sector_aea_acid.xml:2165
+msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/beaconType/undiscoveredTooltip"
 msgstr "Local inexplorado."
 
-#: src-en/data/events_sector_aea_acid.xml:2154
+#: src-en/data/events_sector_aea_acid.xml:2171
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2157
+#: src-en/data/events_sector_aea_acid.xml:2174
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2159
+#: src-en/data/events_sector_aea_acid.xml:2176
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2162
+#: src-en/data/events_sector_aea_acid.xml:2179
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2168
+#: src-en/data/events_sector_aea_acid.xml:2185
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/choice[2]/text"
 msgstr "Manter distância e torcer para não terem visto você."
 
-#: src-en/data/events_sector_aea_acid.xml:2181
+#: src-en/data/events_sector_aea_acid.xml:2198
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2185
+#: src-en/data/events_sector_aea_acid.xml:2202
 msgid ""
 "data/events_sector_aea_acid.xml$//triggeredEvent[@name=\"TIMER_AEA_ACID_INFECTOR_POISON\"]/triggeredEventBox/tooltip"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2191
+#: src-en/data/events_sector_aea_acid.xml:2208
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2193
+#: src-en/data/events_sector_aea_acid.xml:2210
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2196
+#: src-en/data/events_sector_aea_acid.xml:2213
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2202
+#: src-en/data/events_sector_aea_acid.xml:2219
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2204
+#: src-en/data/events_sector_aea_acid.xml:2221
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2212
+#: src-en/data/events_sector_aea_acid.xml:2229
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[@req=\"medbay\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2214
+#: src-en/data/events_sector_aea_acid.xml:2231
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[@req=\"medbay\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2220
+#: src-en/data/events_sector_aea_acid.xml:2237
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2222
+#: src-en/data/events_sector_aea_acid.xml:2239
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[4]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2227
+#: src-en/data/events_sector_aea_acid.xml:2244
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[4]/event/removeCrew/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2233
+#: src-en/data/events_sector_aea_acid.xml:2250
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_INFECTOR_DEATH\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2236
+#: src-en/data/events_sector_aea_acid.xml:2253
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_INFECTOR_DEATH\"]/removeCrew/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2249
+#: src-en/data/events_sector_aea_acid.xml:2266
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ENCOUNTER_AEA_ACID_HACKER\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2253
+#: src-en/data/events_sector_aea_acid.xml:2270
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ENCOUNTER_AEA_ACID_HACKER\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2268
+#: src-en/data/events_sector_aea_acid.xml:2285
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_ENCOUNTER_AEA_ACID_ELITE\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2269
+#: src-en/data/events_sector_aea_acid.xml:2286
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_ENCOUNTER_AEA_ACID_ELITE\"]/beaconType/visitedTooltip"
 msgstr "Local explorado. Não sobrou nada de interesse."
 
-#: src-en/data/events_sector_aea_acid.xml:2270
+#: src-en/data/events_sector_aea_acid.xml:2287
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_ENCOUNTER_AEA_ACID_ELITE\"]/beaconType/undiscoveredTooltip"
 msgstr "Local inexplorado."
 
-#: src-en/data/events_sector_aea_acid.xml:2276
+#: src-en/data/events_sector_aea_acid.xml:2293
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_ENCOUNTER_AEA_ACID_ELITE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2279
+#: src-en/data/events_sector_aea_acid.xml:2296
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_ENCOUNTER_AEA_ACID_ELITE\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2288
+#: src-en/data/events_sector_aea_acid.xml:2305
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2292
+#: src-en/data/events_sector_aea_acid.xml:2309
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
 " and @lvl=\"0\"]/text"
 msgstr "Investigar."
 
-#: src-en/data/events_sector_aea_acid.xml:2296
+#: src-en/data/events_sector_aea_acid.xml:2313
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
 " and @lvl=\"1\"]/text"
 msgstr "Investigar."
 
-#: src-en/data/events_sector_aea_acid.xml:2300
+#: src-en/data/events_sector_aea_acid.xml:2317
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2302
+#: src-en/data/events_sector_aea_acid.xml:2319
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2304
+#: src-en/data/events_sector_aea_acid.xml:2321
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[1]/text"
 msgstr "Fazer algo a bordo da nave."
 
-#: src-en/data/events_sector_aea_acid.xml:2308
+#: src-en/data/events_sector_aea_acid.xml:2325
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[2]/text"
 msgstr "Não fazer nada."
 
-#: src-en/data/events_sector_aea_acid.xml:2317
+#: src-en/data/events_sector_aea_acid.xml:2334
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2319
+#: src-en/data/events_sector_aea_acid.xml:2336
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2321
+#: src-en/data/events_sector_aea_acid.xml:2338
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2323
+#: src-en/data/events_sector_aea_acid.xml:2340
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2325
+#: src-en/data/events_sector_aea_acid.xml:2342
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2330
+#: src-en/data/events_sector_aea_acid.xml:2347
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2336
+#: src-en/data/events_sector_aea_acid.xml:2353
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2338
+#: src-en/data/events_sector_aea_acid.xml:2355
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2343
+#: src-en/data/events_sector_aea_acid.xml:2360
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2349
+#: src-en/data/events_sector_aea_acid.xml:2366
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[@req=\"hacking\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2351
+#: src-en/data/events_sector_aea_acid.xml:2368
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[@req=\"hacking\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2356
+#: src-en/data/events_sector_aea_acid.xml:2373
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[@req=\"hacking\"]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2362
+#: src-en/data/events_sector_aea_acid.xml:2379
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2364
+#: src-en/data/events_sector_aea_acid.xml:2381
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[4]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2372
+#: src-en/data/events_sector_aea_acid.xml:2389
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2374
+#: src-en/data/events_sector_aea_acid.xml:2391
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2376
+#: src-en/data/events_sector_aea_acid.xml:2393
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2378
+#: src-en/data/events_sector_aea_acid.xml:2395
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2380
+#: src-en/data/events_sector_aea_acid.xml:2397
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2382
+#: src-en/data/events_sector_aea_acid.xml:2399
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2384
+#: src-en/data/events_sector_aea_acid.xml:2401
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2394
+#: src-en/data/events_sector_aea_acid.xml:2411
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2396
+#: src-en/data/events_sector_aea_acid.xml:2413
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2407
+#: src-en/data/events_sector_aea_acid.xml:2424
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE_BORING\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2426
+#: src-en/data/events_sector_aea_acid.xml:2443
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2427
+#: src-en/data/events_sector_aea_acid.xml:2444
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/beaconType/visitedTooltip"
 msgstr "Local explorado. Não sobrou nada de interesse."
 
-#: src-en/data/events_sector_aea_acid.xml:2428
+#: src-en/data/events_sector_aea_acid.xml:2445
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/beaconType/undiscoveredTooltip"
 msgstr "Local inexplorado."
 
-#: src-en/data/events_sector_aea_acid.xml:2434
+#: src-en/data/events_sector_aea_acid.xml:2451
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2436
+#: src-en/data/events_sector_aea_acid.xml:2453
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[@req=\"aea_acid_bill\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2440
+#: src-en/data/events_sector_aea_acid.xml:2457
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2442
+#: src-en/data/events_sector_aea_acid.xml:2459
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2445
+#: src-en/data/events_sector_aea_acid.xml:2462
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2451
+#: src-en/data/events_sector_aea_acid.xml:2468
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[3]/text"
 msgstr "Ignorar a nave."
 
-#: src-en/data/events_sector_aea_acid.xml:2453
+#: src-en/data/events_sector_aea_acid.xml:2470
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2455
+#: src-en/data/events_sector_aea_acid.xml:2472
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[3]/event/choice[1]/text"
 msgstr "Fazer algo a bordo da nave."
 
-#: src-en/data/events_sector_aea_acid.xml:2459
+#: src-en/data/events_sector_aea_acid.xml:2476
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[3]/event/choice[2]/text"
 msgstr "Não fazer nada."
 
-#: src-en/data/events_sector_aea_acid.xml:2467
+#: src-en/data/events_sector_aea_acid.xml:2484
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2469
+#: src-en/data/events_sector_aea_acid.xml:2486
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2471
+#: src-en/data/events_sector_aea_acid.xml:2488
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_HELP\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2473
+#: src-en/data/events_sector_aea_acid.xml:2490
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_HELP\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2475
+#: src-en/data/events_sector_aea_acid.xml:2492
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_HELP\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2486
+#: src-en/data/events_sector_aea_acid.xml:2503
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2490
+#: src-en/data/events_sector_aea_acid.xml:2507
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
 " and @lvl=\"0\"]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2492
+#: src-en/data/events_sector_aea_acid.xml:2509
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2494
+#: src-en/data/events_sector_aea_acid.xml:2511
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
 " and @lvl=\"0\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2496
+#: src-en/data/events_sector_aea_acid.xml:2513
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2498
+#: src-en/data/events_sector_aea_acid.xml:2515
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
 " and @lvl=\"0\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2510
+#: src-en/data/events_sector_aea_acid.xml:2527
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2511
+#: src-en/data/events_sector_aea_acid.xml:2528
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/beaconType/visitedTooltip"
 msgstr "Local explorado. Não sobrou nada de interesse."
 
-#: src-en/data/events_sector_aea_acid.xml:2512
+#: src-en/data/events_sector_aea_acid.xml:2529
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/beaconType/undiscoveredTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2518
+#: src-en/data/events_sector_aea_acid.xml:2535
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2520
+#: src-en/data/events_sector_aea_acid.xml:2537
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2522
+#: src-en/data/events_sector_aea_acid.xml:2539
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_RELEASE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2524
+#: src-en/data/events_sector_aea_acid.xml:2541
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_RELEASE\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2526
+#: src-en/data/events_sector_aea_acid.xml:2543
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_RELEASE\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2528
+#: src-en/data/events_sector_aea_acid.xml:2545
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_RELEASE\"]/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2530
+#: src-en/data/events_sector_aea_acid.xml:2547
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2532
+#: src-en/data/events_sector_aea_acid.xml:2549
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2535
+#: src-en/data/events_sector_aea_acid.xml:2552
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2537
+#: src-en/data/events_sector_aea_acid.xml:2554
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2539
+#: src-en/data/events_sector_aea_acid.xml:2556
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2540
+#: src-en/data/events_sector_aea_acid.xml:2557
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[1]/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2542
+#: src-en/data/events_sector_aea_acid.xml:2559
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2548
+#: src-en/data/events_sector_aea_acid.xml:2565
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2550
+#: src-en/data/events_sector_aea_acid.xml:2567
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2552
+#: src-en/data/events_sector_aea_acid.xml:2569
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2570
+#: src-en/data/events_sector_aea_acid.xml:2587
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2571
+#: src-en/data/events_sector_aea_acid.xml:2588
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/beaconType/visitedTooltip"
 msgstr "Local explorado. Não sobrou nada de interesse."
 
-#: src-en/data/events_sector_aea_acid.xml:2572
+#: src-en/data/events_sector_aea_acid.xml:2589
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/beaconType/undiscoveredTooltip"
 msgstr "Local inexplorado."
 
-#: src-en/data/events_sector_aea_acid.xml:2578
+#: src-en/data/events_sector_aea_acid.xml:2595
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2580
+#: src-en/data/events_sector_aea_acid.xml:2597
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2582
+#: src-en/data/events_sector_aea_acid.xml:2599
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2584
+#: src-en/data/events_sector_aea_acid.xml:2601
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2586
+#: src-en/data/events_sector_aea_acid.xml:2603
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2588
+#: src-en/data/events_sector_aea_acid.xml:2605
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2594
+#: src-en/data/events_sector_aea_acid.xml:2611
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_ORCHID\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2596
+#: src-en/data/events_sector_aea_acid.xml:2613
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_ORCHID\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2598
+#: src-en/data/events_sector_aea_acid.xml:2615
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_ORCHID\"]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2604
+#: src-en/data/events_sector_aea_acid.xml:2621
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_bill\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2606
+#: src-en/data/events_sector_aea_acid.xml:2623
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_bill\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2608
+#: src-en/data/events_sector_aea_acid.xml:2625
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_bill\"]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2614
+#: src-en/data/events_sector_aea_acid.xml:2631
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_soldier\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2616
+#: src-en/data/events_sector_aea_acid.xml:2633
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_soldier\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2618
+#: src-en/data/events_sector_aea_acid.xml:2635
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_soldier\"]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2624
+#: src-en/data/events_sector_aea_acid.xml:2641
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_captain\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2626
+#: src-en/data/events_sector_aea_acid.xml:2643
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_captain\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2628
+#: src-en/data/events_sector_aea_acid.xml:2645
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_captain\"]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2634
+#: src-en/data/events_sector_aea_acid.xml:2651
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[6]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2636
+#: src-en/data/events_sector_aea_acid.xml:2653
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[6]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2638
+#: src-en/data/events_sector_aea_acid.xml:2655
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[6]/event/choice[1]/text"
 msgstr "Fazer algo a bordo da nave."
 
-#: src-en/data/events_sector_aea_acid.xml:2642
+#: src-en/data/events_sector_aea_acid.xml:2659
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[6]/event/choice[2]/text"
 msgstr "Não fazer nada."
 
-#: src-en/data/events_sector_aea_acid.xml:2650
+#: src-en/data/events_sector_aea_acid.xml:2667
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[2]/text"
 msgstr "Ignorar a estação."
 
-#: src-en/data/events_sector_aea_acid.xml:2652
+#: src-en/data/events_sector_aea_acid.xml:2669
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2654
+#: src-en/data/events_sector_aea_acid.xml:2671
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[2]/event/choice[1]/text"
 msgstr "Fazer algo a bordo da nave."
 
-#: src-en/data/events_sector_aea_acid.xml:2658
+#: src-en/data/events_sector_aea_acid.xml:2675
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[2]/event/choice[2]/text"
 msgstr "Não fazer nada."
 
-#: src-en/data/events_sector_aea_acid.xml:2670
+#: src-en/data/events_sector_aea_acid.xml:2687
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2672
+#: src-en/data/events_sector_aea_acid.xml:2689
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
 " and @lvl=\"0\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2674
+#: src-en/data/events_sector_aea_acid.xml:2691
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_acid.xml:2677
-msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
-" and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_acid.xml:2680
-msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
-" and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_acid.xml:2682
-msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
-" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_acid.xml:2688
-msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
-" and @lvl=\"0\"]/event/choice[2]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2694
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
-" and @lvl=\"1\"]/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_acid.xml:2698
-msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
-" and @lvl=\"0\"]/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_acid.xml:2700
-msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
-" and @lvl=\"0\"]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_acid.xml:2703
-msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
 " and @lvl=\"0\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2697
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
+" and @lvl=\"0\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2699
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2705
 msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
+" and @lvl=\"0\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2711
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2715
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2717
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2720
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2722
+msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2712
+#: src-en/data/events_sector_aea_acid.xml:2729
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2718
+#: src-en/data/events_sector_aea_acid.xml:2735
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
 " and @lvl=\"0\"]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2724
+#: src-en/data/events_sector_aea_acid.xml:2741
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2728
+#: src-en/data/events_sector_aea_acid.xml:2745
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
 " and @lvl=\"0\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2730
+#: src-en/data/events_sector_aea_acid.xml:2747
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_acid.xml:2733
-msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
-" and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_acid.xml:2736
-msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
-" and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_acid.xml:2738
-msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
-" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_acid.xml:2744
-msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
-" and @lvl=\"0\"]/event/choice[2]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2750
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2753
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
+" and @lvl=\"0\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2755
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2761
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
+" and @lvl=\"0\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2767
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
 " and @lvl=\"1\"]/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_acid.xml:2754
-msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[7]/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_acid.xml:2756
-msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[7]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_aea_acid.xml:2759
-msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[7]/event/choice/text"
-msgstr "Continuar..."
-
-#: src-en/data/events_sector_aea_acid.xml:2770
-msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2771
 msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[7]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2773
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[7]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2776
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[7]/event/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events_sector_aea_acid.xml:2787
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_aea_acid.xml:2788
+msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/beaconType/visitedTooltip"
 msgstr "Local explorado. Não sobrou nada de interesse."
 
-#: src-en/data/events_sector_aea_acid.xml:2772
+#: src-en/data/events_sector_aea_acid.xml:2789
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/beaconType/undiscoveredTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2778
+#: src-en/data/events_sector_aea_acid.xml:2795
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2781
+#: src-en/data/events_sector_aea_acid.xml:2798
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2783
+#: src-en/data/events_sector_aea_acid.xml:2800
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2786
+#: src-en/data/events_sector_aea_acid.xml:2803
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2792
+#: src-en/data/events_sector_aea_acid.xml:2809
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[2]/text"
 msgstr "Evitar a nave."
 
-#: src-en/data/events_sector_aea_acid.xml:2794
+#: src-en/data/events_sector_aea_acid.xml:2811
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2796
+#: src-en/data/events_sector_aea_acid.xml:2813
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[2]/event/choice[1]/text"
 msgstr "Fazer algo a bordo da nave."
 
-#: src-en/data/events_sector_aea_acid.xml:2800
+#: src-en/data/events_sector_aea_acid.xml:2817
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[2]/event/choice[2]/text"
 msgstr "Não fazer nada."
 
-#: src-en/data/events_sector_aea_acid.xml:2811
+#: src-en/data/events_sector_aea_acid.xml:2828
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_POWER_CELL\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_acid.xml:2813
+#: src-en/data/events_sector_aea_acid.xml:2830
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_POWER_CELL\"]/choice[@req=\"aea_old_has_cell\""
 " and not(@lvl)]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2817
+#: src-en/data/events_sector_aea_acid.xml:2834
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_POWER_CELL\"]/choice[@req=\"aea_old_has_cell\""
 " and @lvl=\"0\"]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_aea_acid.xml:2822
+#: src-en/data/events_sector_aea_acid.xml:2839
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_POWER_CELL\"]/choice[@req=\"aea_old_has_cell\""
 " and @lvl=\"0\"]/event/choice/text"

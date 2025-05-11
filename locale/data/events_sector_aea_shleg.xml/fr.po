@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-11 07:41+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_sector_aea_shlegxml/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_sector_aea_shleg.xml:29
 msgid ""
@@ -439,9 +432,9 @@ msgstr "Continuer de chercher."
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_NEUROTOXINLAB\"]/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
-"Votre équipage continue à travers la station, à la recherche du signe de vie "
-"que vous aviez détecté plus tôt. Ils trouvent un ingénieur débraillé qui se "
-"balance d'avant en arrière, bavant et étreignant un grand cube. Votre "
+"Votre équipage continue à travers la station, à la recherche du signe de vie"
+" que vous aviez détecté plus tôt. Ils trouvent un ingénieur débraillé qui se"
+" balance d'avant en arrière, bavant et étreignant un grand cube. Votre "
 "équipage parvient à le calmer assez longtemps pour qu'il explique la "
 "situation. Il semble que les ingénieurs à bord aient été chargés de faire "
 "des recherches sur la neurotoxine libérée par les Coquilles et de la "
@@ -531,8 +524,8 @@ msgstr "Contacter les Coquilles."
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_HIDDEN_COLONY\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Vous appelez les Coquilles à l'intérieur de la colonie. Ils attendent ce que "
-"vous allez dire."
+"Vous appelez les Coquilles à l'intérieur de la colonie. Ils attendent ce que"
+" vous allez dire."
 
 #: src-en/data/events_sector_aea_shleg.xml:461
 #, fuzzy
@@ -583,8 +576,8 @@ msgstr "Les ignorer."
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_HIDDEN_COLONY\"]/choice[2]/event/text"
 msgstr ""
-"Vous ne savez pas ce qui se passe ici mais ce que fait ce vaisseau Coquilles "
-"solitaire n'a aucune importance pour votre mission."
+"Vous ne savez pas ce qui se passe ici mais ce que fait ce vaisseau Coquilles"
+" solitaire n'a aucune importance pour votre mission."
 
 #: src-en/data/events_sector_aea_shleg.xml:495
 msgid ""
@@ -744,8 +737,8 @@ msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_DISTRESS_AEA_SHLEG_GAS\"]/choice[3]/event/text"
 msgstr ""
 "Malheureusement, s'accoster à leur vaisseau est probablement trop dangereux "
-"car les vaisseaux Coquilles contiennent des gaz neurotoxiques. Il vaut mieux "
-"ne pas s'en mêler."
+"car les vaisseaux Coquilles contiennent des gaz neurotoxiques. Il vaut mieux"
+" ne pas s'en mêler."
 
 #: src-en/data/events_sector_aea_shleg.xml:644
 msgid ""
@@ -989,156 +982,186 @@ msgstr ""
 
 #: src-en/data/events_sector_aea_shleg.xml:926
 msgid ""
-"data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[1]/text"
+"data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_shleg.xml:928
 msgid ""
-"data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[1]/event/text"
+"data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_shleg.xml:929
 msgid ""
-"data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[1]/event/crewMember"
+"data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/event/crewMember"
 msgstr "Sickle"
 
-#: src-en/data/events_sector_aea_shleg.xml:933
+#: src-en/data/events_sector_aea_shleg.xml:935
+msgid ""
+"data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/event/choice/text"
+msgstr "Continuer..."
+
+#: src-en/data/events_sector_aea_shleg.xml:937
+msgid ""
+"data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_shleg.xml:938
+msgid ""
+"data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/event/choice/event/crewMember"
+msgstr "Sorrow"
+
+#: src-en/data/events_sector_aea_shleg.xml:944
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:935
+#: src-en/data/events_sector_aea_shleg.xml:946
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:936
+#: src-en/data/events_sector_aea_shleg.xml:947
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[2]/event/crewMember"
-msgstr "Sorrow"
+msgstr "Sickle"
 
-#: src-en/data/events_sector_aea_shleg.xml:940
+#: src-en/data/events_sector_aea_shleg.xml:951
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:956
+#: src-en/data/events_sector_aea_shleg.xml:953
+msgid ""
+"data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_shleg.xml:954
+msgid ""
+"data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[3]/event/crewMember"
+msgstr "Sorrow"
+
+#: src-en/data/events_sector_aea_shleg.xml:958
+msgid ""
+"data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_shleg.xml:974
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:959
+#: src-en/data/events_sector_aea_shleg.xml:977
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[1]/text"
 msgstr "Accoster et enquêter."
 
-#: src-en/data/events_sector_aea_shleg.xml:961
+#: src-en/data/events_sector_aea_shleg.xml:979
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:963
+#: src-en/data/events_sector_aea_shleg.xml:981
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[1]/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:965
+#: src-en/data/events_sector_aea_shleg.xml:983
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:970
+#: src-en/data/events_sector_aea_shleg.xml:988
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[1]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:972
+#: src-en/data/events_sector_aea_shleg.xml:990
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:979
+#: src-en/data/events_sector_aea_shleg.xml:997
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:981
+#: src-en/data/events_sector_aea_shleg.xml:999
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:983
+#: src-en/data/events_sector_aea_shleg.xml:1001
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[2]/event/choice[1]/text"
 msgstr "Faire quelque chose à bord du vaisseau."
 
-#: src-en/data/events_sector_aea_shleg.xml:987
+#: src-en/data/events_sector_aea_shleg.xml:1005
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[2]/event/choice[2]/text"
 msgstr "Ne rien faire."
 
-#: src-en/data/events_sector_aea_shleg.xml:997
+#: src-en/data/events_sector_aea_shleg.xml:1015
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:998
+#: src-en/data/events_sector_aea_shleg.xml:1016
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/beaconType/visitedTooltip"
 msgstr "Emplacement déjà exploré. Il n'y reste rien d'intéressant."
 
-#: src-en/data/events_sector_aea_shleg.xml:1008
+#: src-en/data/events_sector_aea_shleg.xml:1026
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:1011
+#: src-en/data/events_sector_aea_shleg.xml:1029
 #, fuzzy
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/choice[1]/text"
 msgstr "Attaquer !"
 
-#: src-en/data/events_sector_aea_shleg.xml:1013
+#: src-en/data/events_sector_aea_shleg.xml:1031
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:1016
+#: src-en/data/events_sector_aea_shleg.xml:1034
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_aea_shleg.xml:1022
+#: src-en/data/events_sector_aea_shleg.xml:1040
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/choice[2]/text"
 msgstr "Les ignorer."
 
-#: src-en/data/events_sector_aea_shleg.xml:1024
+#: src-en/data/events_sector_aea_shleg.xml:1042
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:1026
+#: src-en/data/events_sector_aea_shleg.xml:1044
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/choice[2]/event/choice[1]/text"
 msgstr "Faire quelque chose à bord du vaisseau."
 
-#: src-en/data/events_sector_aea_shleg.xml:1030
+#: src-en/data/events_sector_aea_shleg.xml:1048
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/choice[2]/event/choice[2]/text"
 msgstr "Ne rien faire."
 
-#: src-en/data/events_sector_aea_shleg.xml:1043
+#: src-en/data/events_sector_aea_shleg.xml:1061
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_shleg.xml:1047
+#: src-en/data/events_sector_aea_shleg.xml:1065
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST_WIN\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_sector_aea_shleg.xml:1049
+#: src-en/data/events_sector_aea_shleg.xml:1067
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST_WIN\"]/choice/event/text"
 msgstr ""

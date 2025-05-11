@@ -1,28 +1,19 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-11 07:43+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/datahyperspace-xml-append/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
 
-#: src-en/data/hyperspace.xml.append:34
+#: src-en/data/hyperspace.xml.append:43
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
 "СИСТЕМА КИСЛОТНОЙ ФИЛЬТРАЦИИ:\n"
-"Кислородная система на этом корабле будет лечить всех членов экипажа и "
-"тушить пожары, но не обеспечивать кислородом."
+"Кислородная система на этом корабле будет лечить всех членов экипажа и тушить пожары, но не обеспечивать кислородом."
 
-#: src-en/data/hyperspace.xml.append:39
+#: src-en/data/hyperspace.xml.append:48
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[2]/tooltip"
@@ -30,7 +21,7 @@ msgstr ""
 "СЛАБАЯ КИСЛОТНАЯ СИСТЕМА ФИЛЬТРАЦИИ:\n"
 "Кислородная система обеспечит медленный лечебный эффект для всего экипажа."
 
-#: src-en/data/hyperspace.xml.append:44
+#: src-en/data/hyperspace.xml.append:53
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[3]/tooltip"
@@ -38,7 +29,7 @@ msgstr ""
 "Импульсный ремонт Еретиков:\n"
 "Вражеский корабль восстанавливает 2 урона системы один раз за 5 ОЗ."
 
-#: src-en/data/hyperspace.xml.append:49
+#: src-en/data/hyperspace.xml.append:58
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[4]/tooltip"
@@ -46,39 +37,34 @@ msgstr ""
 "Слабый импульсный ремонт Еретиков:\n"
 "Вражеский корабль восстанавливает 1 урона системы один раз за 5 ОЗ."
 
-#: src-en/data/hyperspace.xml.append:54
+#: src-en/data/hyperspace.xml.append:63
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
 "Бронированные отсеки:\n"
-"Бронированные отсеки на вражеском корабле защищают его от летящих снарядов, "
-"таких как лазеры и ракеты.\n"
+"Бронированные отсеки на вражеском корабле защищают его от летящих снарядов, таких как лазеры и ракеты.\n"
 "Броня поглощает 1 урон от попадающих в нее снарядов."
 
-#: src-en/data/hyperspace.xml.append:60
+#: src-en/data/hyperspace.xml.append:69
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
 "Предсказуемое наведение:\n"
-"Вражеский корабль будет получать попадания под углом 60 градусов, пока "
-"уклонение выше 5%.\n"
-"Благодаря этому лазеры и ракеты с большей вероятностью попадут в броню "
-"корабля."
+"Вражеский корабль будет получать попадания под углом 60 градусов, пока уклонение выше 5%.\n"
+"Благодаря этому лазеры и ракеты с большей вероятностью попадут в броню корабля."
 
-#: src-en/data/hyperspace.xml.append:66
+#: src-en/data/hyperspace.xml.append:75
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[7]/tooltip"
 msgstr ""
 "Слабое предсказуемое наведение:\n"
-"Вражеский корабль будет получать попадания под углом 90 градусов, пока "
-"уклонение выше 10%.\n"
-"Благодаря этому лазеры и ракеты с большей вероятностью попадут в броню "
-"корабля."
+"Вражеский корабль будет получать попадания под углом 90 градусов, пока уклонение выше 10%.\n"
+"Благодаря этому лазеры и ракеты с большей вероятностью попадут в броню корабля."
 
-#: src-en/data/hyperspace.xml.append:72
+#: src-en/data/hyperspace.xml.append:81
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[8]/tooltip"
@@ -86,7 +72,7 @@ msgstr ""
 "ТАИНСТВЕННЫЙ ЩИТ:\n"
 "Этот противник защищен более сильным, чем обычно, Энергетическим щитом."
 
-#: src-en/data/hyperspace.xml.append:77
+#: src-en/data/hyperspace.xml.append:86
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[9]/tooltip"
@@ -94,671 +80,697 @@ msgstr ""
 "ТАИНСТВЕННЫЙ ЩИТ:\n"
 "Этот враг защищен Энергетическим щитом."
 
-#: src-en/data/hyperspace.xml.append:82
+#: src-en/data/hyperspace.xml.append:91
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[10]/tooltip"
 msgstr ""
 "ИНКУБАЦИОННЫЙ ГАЗ:\n"
-"Вражеский корабль наполнен смертоносным нейротоксином, который будет "
-"накапливаться в ваших членах экипажа и в конечном брать их разум под "
-"контроль в течение короткого периода времени, и наносить пассивный урон "
-"вашему экипажу со скоростью 3 ОЗ/с.\n"
+"Вражеский корабль наполнен смертоносным нейротоксином, который будет накапливаться в ваших членах экипажа и в конечном брать их разум под контроль в течение короткого периода времени, и наносить пассивный урон вашему экипажу со скоростью 3 ОЗ/с.\n"
 "Дроны, ракушки, Вампсорняки, призраки и ланиусы невосприимчивы к газу."
 
-#: src-en/data/hyperspace.xml.append:88
+#: src-en/data/hyperspace.xml.append:97
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[11]/tooltip"
 msgstr ""
 "РЕМОНТНЫЙ ГЕЛЬ РАКУШЕК-СЛИЗНЕЙ:\n"
-"Пробоины на этом корабле будут автоматически заделываться даже при "
-"отсутствии экипажа. Также дает дружественному экипажу 3 ОЗ/с исцеления и "
-"истощает вражеский экипаж на 3 ОЗ/с в пустых отсеках.\n"
+"Пробоины на этом корабле будут автоматически заделываться даже при отсутствии экипажа. Также дает дружественному экипажу 3 ОЗ/с исцеления и истощает вражеский экипаж на 3 ОЗ/с в пустых отсеках.\n"
 "Дроны, ракушки, Вампсорянки, призраки и ланиусы невосприимчивы к этому."
 
-#: src-en/data/hyperspace.xml.append:94
+#: src-en/data/hyperspace.xml.append:103
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[12]/tooltip"
 msgstr ""
 "Броня Осколкорожденных:\n"
-"Каждый раз, когда вы наносите этому противнику урон по корпусу своим "
-"оружием, есть 25% шанс, что от него отколется осколок и полетит в сторону "
-"вашего корабля. Он не пробивает щиты, но при попадании наносит 1 ед. урона "
-"случайному отсеку."
+"Каждый раз, когда вы наносите этому противнику урон по корпусу своим оружием, есть 25% шанс, что от него отколется осколок и полетит в сторону вашего корабля. Он не пробивает щиты, но при попадании наносит 1 ед. урона случайному отсеку."
 
-#: src-en/data/hyperspace.xml.append:99
+#: src-en/data/hyperspace.xml.append:108
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[13]/tooltip"
 msgstr ""
 "Сильные Вспомогательные щиты:\n"
-"Этот вражеский корабль оснащен мощным генератором вспомогательных щитов, он "
-"начинает бой с 6 слоями энергетического щита."
+"Этот вражеский корабль оснащен мощным генератором вспомогательных щитов, он начинает бой с 6 слоями энергетического щита."
 
-#: src-en/data/hyperspace.xml.append:538
+#: src-en/data/hyperspace.xml.append:113
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
+"append:shipIcon[14]/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:118
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
+"append:shipIcon[15]/tooltip"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:557
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_ARTY\"]/crew/aea_acid_soldier[@name=\"Acidic"
 " Soldier\"]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:548
+#: src-en/data/hyperspace.xml.append:567
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_ARTY_2\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:549
+#: src-en/data/hyperspace.xml.append:568
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_ARTY_2\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:550
+#: src-en/data/hyperspace.xml.append:569
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_ARTY_2\"]/crew/aea_acid_soldier[3]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:563
+#: src-en/data/hyperspace.xml.append:582
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
 msgstr "Кислотный Лидер"
 
-#: src-en/data/hyperspace.xml.append:573
+#: src-en/data/hyperspace.xml.append:592
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG_2\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
 msgstr "Кислотный Лидер"
 
-#: src-en/data/hyperspace.xml.append:574
+#: src-en/data/hyperspace.xml.append:593
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG_2\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:575
+#: src-en/data/hyperspace.xml.append:594
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG_2\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:583
+#: src-en/data/hyperspace.xml.append:602
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG_3\"]/crew/aea_acid_captain[1]/@name"
 msgstr "Кислотный Лидер"
 
-#: src-en/data/hyperspace.xml.append:584
+#: src-en/data/hyperspace.xml.append:603
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG_3\"]/crew/aea_acid_captain[2]/@name"
 msgstr "Кислотный Лидер"
 
-#: src-en/data/hyperspace.xml.append:585
+#: src-en/data/hyperspace.xml.append:604
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG_3\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:586
+#: src-en/data/hyperspace.xml.append:605
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG_3\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:594
+#: src-en/data/hyperspace.xml.append:613
 msgid "data/hyperspace.xml.append$//aea_acid_bill[@name=\"Bill\"]/@name"
 msgstr "Билл"
 
-#: src-en/data/hyperspace.xml.append:643
+#: src-en/data/hyperspace.xml.append:662
 msgid "data/hyperspace.xml.append$//aea_necro_king[@name=\"L-0031\"]/@name"
 msgstr "Л-0031"
 
-#: src-en/data/hyperspace.xml.append:681
+#: src-en/data/hyperspace.xml.append:700
 msgid "data/hyperspace.xml.append$//aea_cult_tiny[@name=\"Tiny\"]/@name"
 msgstr "Крошка"
 
-#: src-en/data/hyperspace.xml.append:716
+#: src-en/data/hyperspace.xml.append:735
 msgid "data/hyperspace.xml.append$//aea_bird_unique[@name=\"Jay\"]/@name"
 msgstr "Сойка"
 
-#: src-en/data/hyperspace.xml.append:1215
+#: src-en/data/hyperspace.xml.append:1234
 msgid "data/hyperspace.xml.append$//aea_shleg_sickle[@name=\"Sickle\"]/@name"
 msgstr "Серп"
 
-#: src-en/data/hyperspace.xml.append:1216
+#: src-en/data/hyperspace.xml.append:1235
 msgid "data/hyperspace.xml.append$//aea_shleg_sorrow[@name=\"Sorrow\"]/@name"
 msgstr "Скорбь"
 
-#: src-en/data/hyperspace.xml.append:1242
+#: src-en/data/hyperspace.xml.append:1261
 msgid "data/hyperspace.xml.append$//aea_shard_dawn[@name=\"King Onyx\"]/@name"
 msgstr "Король Оникс"
 
-#: src-en/data/hyperspace.xml.append:1311
+#: src-en/data/hyperspace.xml.append:1344
 msgid ""
-"data/hyperspace.xml.append$//aea_dark_justicier[@name=\"The Dark "
-"Justicier\"]/@name"
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_AEA_JUSTICE\"]/crew/aea_dark_justicier[@name=\"The"
+" Dark Justicier\"]/@name"
 msgstr "Темный Каратель"
 
-#: src-en/data/hyperspace.xml.append:1349
+#: src-en/data/hyperspace.xml.append:1353
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_AEA_JUSTICE_2\"]/crew/aea_dark_justicier[@name=\"The"
+" Dark Justicier\"]/@name"
+msgstr "Темный Каратель"
+
+#: src-en/data/hyperspace.xml.append:1362
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_AEA_JUSTICE_3\"]/crew/aea_dark_justicier[@name=\"The"
+" Dark Justicier\"]/@name"
+msgstr "Темный Каратель"
+
+#: src-en/data/hyperspace.xml.append:1372
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"AEA_JUSTICE_BATTLESHIP\"]/crew/aea_dark_justicier_enemy[@name=\"The"
+" Dark Justicier\"]/@name"
+msgstr "Темный Каратель"
+
+#: src-en/data/hyperspace.xml.append:1385
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"AEA_JUSTICE_CRUISER\"]/crew/aea_dark_justicier_enemy[@name=\"The"
+" Dark Justicier\"]/@name"
+msgstr "Темный Каратель"
+
+#: src-en/data/hyperspace.xml.append:1430
 msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Sylvan\"]/@name"
 msgstr "Сильван"
 
-#: src-en/data/hyperspace.xml.append:1438
+#: src-en/data/hyperspace.xml.append:1519
 msgid ""
 "data/hyperspace.xml.append$//aea_old_unique_1[@name=\"Atoning "
 "Unifex\"]/@name"
 msgstr "Атонинг Юнифекс"
 
-#: src-en/data/hyperspace.xml.append:1460
+#: src-en/data/hyperspace.xml.append:1541
 msgid ""
 "data/hyperspace.xml.append$//aea_old_unique_2[@name=\"Asymptotic "
 "Essence\"]/@name"
 msgstr "Асимптотическая Сущность"
 
-#: src-en/data/hyperspace.xml.append:1461
+#: src-en/data/hyperspace.xml.append:1542
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_OLD_UNIA_2\"]/crew/aea_acid_soldier[@name=\"Acidic"
 " Soldier\"]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:1482
+#: src-en/data/hyperspace.xml.append:1563
 msgid ""
 "data/hyperspace.xml.append$//aea_old_unique_3[@name=\"Eupathic "
 "Impulse\"]/@name"
 msgstr "Эвпатический Импульс"
 
-#: src-en/data/hyperspace.xml.append:1493
+#: src-en/data/hyperspace.xml.append:1574
 msgid ""
 "data/hyperspace.xml.append$//aea_old_unique_4[@name=\"Homologous "
 "Trend\"]/@name"
 msgstr "Гомологичный Тренд"
 
-#: src-en/data/hyperspace.xml.append:1510
+#: src-en/data/hyperspace.xml.append:1591
 msgid ""
 "data/hyperspace.xml.append$//aea_old_unique_5[@name=\"Noetic "
 "Concordance\"]/@name"
 msgstr "Ноэтический Конкорданс"
 
-#: src-en/data/hyperspace.xml.append:2842
+#: src-en/data/hyperspace.xml.append:2923
 msgid "data/hyperspace.xml.append$//unique_leah[@name=\"Leah\"]/@name"
 msgstr "Лия"
 
-#: src-en/data/hyperspace.xml.append:3074
+#: src-en/data/hyperspace.xml.append:3155
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOSS\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3075
+#: src-en/data/hyperspace.xml.append:3156
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOSS\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
 msgstr "Кислотный Лидер"
 
-#: src-en/data/hyperspace.xml.append:3076
+#: src-en/data/hyperspace.xml.append:3157
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOSS\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3077
+#: src-en/data/hyperspace.xml.append:3158
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOSS\"]/crew/aea_acid_soldier[3]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3086
+#: src-en/data/hyperspace.xml.append:3167
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_SCOUT\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3087
+#: src-en/data/hyperspace.xml.append:3168
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_SCOUT\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3096
+#: src-en/data/hyperspace.xml.append:3177
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_OUTRIDER\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3097
+#: src-en/data/hyperspace.xml.append:3178
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_OUTRIDER\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3098
+#: src-en/data/hyperspace.xml.append:3179
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_OUTRIDER\"]/crew/aea_acid_soldier[3]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3107
+#: src-en/data/hyperspace.xml.append:3188
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_FIGHTER\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3108
+#: src-en/data/hyperspace.xml.append:3189
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_FIGHTER\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3117
+#: src-en/data/hyperspace.xml.append:3198
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_INSTIGATOR\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3118
+#: src-en/data/hyperspace.xml.append:3199
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_INSTIGATOR\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3119
+#: src-en/data/hyperspace.xml.append:3200
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_INSTIGATOR\"]/crew/aea_acid_soldier[3]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3128
+#: src-en/data/hyperspace.xml.append:3209
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOMBER\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3129
+#: src-en/data/hyperspace.xml.append:3210
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOMBER\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3130
+#: src-en/data/hyperspace.xml.append:3211
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOMBER\"]/crew/aea_acid_soldier[3]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3139
+#: src-en/data/hyperspace.xml.append:3220
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_ASSUALT\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3140
+#: src-en/data/hyperspace.xml.append:3221
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_ASSUALT\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3141
+#: src-en/data/hyperspace.xml.append:3222
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_ASSUALT\"]/crew/aea_acid_soldier[3]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3151
+#: src-en/data/hyperspace.xml.append:3232
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3152
+#: src-en/data/hyperspace.xml.append:3233
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
 msgstr "Кислотный Лидер"
 
-#: src-en/data/hyperspace.xml.append:3153
+#: src-en/data/hyperspace.xml.append:3234
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3154
+#: src-en/data/hyperspace.xml.append:3235
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT\"]/crew/aea_acid_soldier[3]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3155
+#: src-en/data/hyperspace.xml.append:3236
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT\"]/crew/aea_acid_soldier[4]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3164
+#: src-en/data/hyperspace.xml.append:3245
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
 msgstr "Кислотный Лидер"
 
-#: src-en/data/hyperspace.xml.append:3165
+#: src-en/data/hyperspace.xml.append:3246
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3166
+#: src-en/data/hyperspace.xml.append:3247
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3167
+#: src-en/data/hyperspace.xml.append:3248
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD\"]/crew/aea_acid_soldier[3]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3177
+#: src-en/data/hyperspace.xml.append:3258
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_SCOUT_ELITE\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
 msgstr "Кислотный Лидер"
 
-#: src-en/data/hyperspace.xml.append:3178
+#: src-en/data/hyperspace.xml.append:3259
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_SCOUT_ELITE\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3179
+#: src-en/data/hyperspace.xml.append:3260
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_SCOUT_ELITE\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3188
+#: src-en/data/hyperspace.xml.append:3269
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_OUTRIDER_ELITE\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
 msgstr "Кислотный Лидер"
 
-#: src-en/data/hyperspace.xml.append:3189
+#: src-en/data/hyperspace.xml.append:3270
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_OUTRIDER_ELITE\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3190
+#: src-en/data/hyperspace.xml.append:3271
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_OUTRIDER_ELITE\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3191
+#: src-en/data/hyperspace.xml.append:3272
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_OUTRIDER_ELITE\"]/crew/aea_acid_soldier[3]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3200
+#: src-en/data/hyperspace.xml.append:3281
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_FIGHTER_ELITE\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
 msgstr "Кислотный Лидер"
 
-#: src-en/data/hyperspace.xml.append:3201
+#: src-en/data/hyperspace.xml.append:3282
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_FIGHTER_ELITE\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3202
+#: src-en/data/hyperspace.xml.append:3283
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_FIGHTER_ELITE\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3211
+#: src-en/data/hyperspace.xml.append:3292
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_INSTIGATOR_ELITE\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
 msgstr "Кислотный Лидер"
 
-#: src-en/data/hyperspace.xml.append:3212
+#: src-en/data/hyperspace.xml.append:3293
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_INSTIGATOR_ELITE\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3213
+#: src-en/data/hyperspace.xml.append:3294
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_INSTIGATOR_ELITE\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3214
+#: src-en/data/hyperspace.xml.append:3295
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_INSTIGATOR_ELITE\"]/crew/aea_acid_soldier[3]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3223
+#: src-en/data/hyperspace.xml.append:3304
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOMBER_ELITE\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
 msgstr "Кислотный Лидер"
 
-#: src-en/data/hyperspace.xml.append:3224
+#: src-en/data/hyperspace.xml.append:3305
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOMBER_ELITE\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3225
+#: src-en/data/hyperspace.xml.append:3306
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOMBER_ELITE\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3226
+#: src-en/data/hyperspace.xml.append:3307
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOMBER_ELITE\"]/crew/aea_acid_soldier[3]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3236
+#: src-en/data/hyperspace.xml.append:3317
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT_ELITE\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3237
+#: src-en/data/hyperspace.xml.append:3318
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT_ELITE\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
 msgstr "Кислотный Лидер"
 
-#: src-en/data/hyperspace.xml.append:3238
+#: src-en/data/hyperspace.xml.append:3319
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT_ELITE\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3239
+#: src-en/data/hyperspace.xml.append:3320
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT_ELITE\"]/crew/aea_acid_soldier[3]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3240
+#: src-en/data/hyperspace.xml.append:3321
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT_ELITE\"]/crew/aea_acid_soldier[4]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3249
+#: src-en/data/hyperspace.xml.append:3330
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD_ELITE\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
 msgstr "Кислотный Лидер"
 
-#: src-en/data/hyperspace.xml.append:3250
+#: src-en/data/hyperspace.xml.append:3331
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD_ELITE\"]/crew/aea_acid_soldier[1]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3251
+#: src-en/data/hyperspace.xml.append:3332
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD_ELITE\"]/crew/aea_acid_soldier[2]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3252
+#: src-en/data/hyperspace.xml.append:3333
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD_ELITE\"]/crew/aea_acid_soldier[3]/@name"
 msgstr "Кислотный солдат"
 
-#: src-en/data/hyperspace.xml.append:3646
+#: src-en/data/hyperspace.xml.append:4311
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_acid_bill\"]/powerEffect/buttonText"
 msgstr "ЭКСТЕРМИНАТ"
 
-#: src-en/data/hyperspace.xml.append:3647
+#: src-en/data/hyperspace.xml.append:4312
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_acid_bill\"]/powerEffect/tooltip"
 msgstr ""
 "Готов: немедленно убивает всех вражеских членов экипажа у которых ОЗ ниже 35"
 
-#: src-en/data/hyperspace.xml.append:3669
+#: src-en/data/hyperspace.xml.append:4334
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_engi\"]/powerEffect/buttonText"
 msgstr "ВОСКРЕШЕНИЕ"
 
-#: src-en/data/hyperspace.xml.append:3670
+#: src-en/data/hyperspace.xml.append:4335
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_engi\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"\t\t\t\tВоскрешает последний вражеский экипаж, убитый в ближнем бою этим "
-"энджи.\n"
+"\t\t\t\tВоскрешает последний вражеский экипаж, убитый в ближнем бою этим энджи.\n"
 "\t\t\t\t-Затрачивает 1 рой нанитов.\n"
 "\t\t\t\t-Воскрешенный экипаж существует 90 секунд"
 
-#: src-en/data/hyperspace.xml.append:3706
+#: src-en/data/hyperspace.xml.append:4371
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_lich\"]/powerEffect[1]/buttonText"
 msgstr "РАЗРЫВ"
 
-#: src-en/data/hyperspace.xml.append:3707
+#: src-en/data/hyperspace.xml.append:4372
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_lich\"]/powerEffect[1]/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 30с]\n"
-"\t\t\t\tРазрывает врагов в отсеке на части, воскрешает часть их тел, чтобы "
-"создать копию.\n"
+"\t\t\t\tРазрывает врагов в отсеке на части, воскрешает часть их тел, чтобы создать копию.\n"
 "\t\t\t\t-Затраты 2 роя нанитов\n"
 "\t\t\t\t-Воскресший экипаж существует 30 секунд\n"
 "\t\t\t\t-У воскрешенного экипажа на 25% меньше ОЗ и урона.\n"
 "\t\t\t\t-У пораженного вражеского экипажа в отсеке на 10% меньше ОЗ и урон\n"
 "\t\t\t\t-Урон энджи-Лича увеличен на 50%"
 
-#: src-en/data/hyperspace.xml.append:3760
+#: src-en/data/hyperspace.xml.append:4425
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_lich\"]/powerEffect[2]/buttonText"
 msgstr "ВОСКРЕШЕНИЕ"
 
-#: src-en/data/hyperspace.xml.append:3761
+#: src-en/data/hyperspace.xml.append:4426
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_lich\"]/powerEffect[2]/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"\t\t\t\tВоскрешает последний вражеский экипаж, убитый в ближнем бою этим "
-"энджи.\n"
+"\t\t\t\tВоскрешает последний вражеский экипаж, убитый в ближнем бою этим энджи.\n"
 "\t\t\t\t-Затрачивает 1 рой нанитов.\n"
 "\t\t\t\t-Воскрешенный экипаж существует 90 секунд"
 
-#: src-en/data/hyperspace.xml.append:3799
+#: src-en/data/hyperspace.xml.append:4464
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_king\"]/powerEffect[1]/buttonText"
 msgstr "РЕАНИМАЦИЯ"
 
-#: src-en/data/hyperspace.xml.append:3800
+#: src-en/data/hyperspace.xml.append:4465
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_king\"]/powerEffect[1]/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 60с]\n"
-"\t\t\t\tПостоянно воскрешает последний вражеский экипаж, убитый в ближнем "
-"бою этим энджи.\n"
+"\t\t\t\tПостоянно воскрешает последний вражеский экипаж, убитый в ближнем бою этим энджи.\n"
 "\t\t\t\t-Затрачивает 5 нанитовых роев"
 
-#: src-en/data/hyperspace.xml.append:3815
+#: src-en/data/hyperspace.xml.append:4480
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_king\"]/powerEffect[2]/buttonText"
 msgstr "ВОСКРЕШЕНИЕ"
 
-#: src-en/data/hyperspace.xml.append:3816
+#: src-en/data/hyperspace.xml.append:4481
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_king\"]/powerEffect[2]/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 2с]\n"
-"\t\t\t\tВоскрешает последний вражеский экипаж, убитый в ближнем бою этим "
-"энджи.\n"
+"\t\t\t\tВоскрешает последний вражеский экипаж, убитый в ближнем бою этим энджи.\n"
 "\t\t\t\t-Затраты: 1 рой нанитов.\n"
 "\t\t\t\t-Воскрешенный экипаж существует 90 секунд"
 
-#: src-en/data/hyperspace.xml.append:3875
+#: src-en/data/hyperspace.xml.append:4540
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_1\"]/powerEffect/buttonText"
 msgstr "ВЗЛОМ"
 
-#: src-en/data/hyperspace.xml.append:3876
+#: src-en/data/hyperspace.xml.append:4541
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_1\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 30с]\n"
-"\t\t\t\tВзламывает отсек и оглушает всех членов экипажа в отсеке на 10 "
-"секунд."
+"\t\t\t\tВзламывает отсек и оглушает всех членов экипажа в отсеке на 10 секунд."
 
-#: src-en/data/hyperspace.xml.append:3912
+#: src-en/data/hyperspace.xml.append:4577
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_2\"]/powerEffect/buttonText"
 msgstr "ОЧИСТКА"
 
-#: src-en/data/hyperspace.xml.append:3914
+#: src-en/data/hyperspace.xml.append:4579
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_2\"]/powerEffect/tooltip"
@@ -766,43 +778,41 @@ msgstr ""
 "[ПЕРЕЗАРЯДКА: 30с]\n"
 "\t\t\t\tУбирает все ионные эффекты в отсеке и ремонтирует 2 системного урона."
 
-#: src-en/data/hyperspace.xml.append:3949
+#: src-en/data/hyperspace.xml.append:4614
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_3\"]/powerEffect/buttonText"
 msgstr "БОМБА"
 
-#: src-en/data/hyperspace.xml.append:3950
+#: src-en/data/hyperspace.xml.append:4615
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_3\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 30с]\n"
-"\t\t\t\tПодрывает зажигательные бомбы на вражеском корабле, количество "
-"которых равно числу вражеских членов экипажа в отсеке плюс один."
+"\t\t\t\tПодрывает зажигательные бомбы на вражеском корабле, количество которых равно числу вражеских членов экипажа в отсеке плюс один."
 
-#: src-en/data/hyperspace.xml.append:3989
+#: src-en/data/hyperspace.xml.append:4654
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_4\"]/powerEffect/buttonText"
 msgstr "ВЗРЫВ ИСЦЕЛЕНИЯ"
 
-#: src-en/data/hyperspace.xml.append:3991
+#: src-en/data/hyperspace.xml.append:4656
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_4\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 30с]\n"
-"\t\t\t\tВылечивает всех дружественных членов экипажа в отсеке, включая себя, "
-"на 100 ОЗ и ремонтирует 1 урона."
+"\t\t\t\tВылечивает всех дружественных членов экипажа в отсеке, включая себя, на 100 ОЗ и ремонтирует 1 урона."
 
-#: src-en/data/hyperspace.xml.append:4026
+#: src-en/data/hyperspace.xml.append:4691
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_5\"]/powerEffect/buttonText"
 msgstr "ЩИТ"
 
-#: src-en/data/hyperspace.xml.append:4027
+#: src-en/data/hyperspace.xml.append:4692
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_5\"]/powerEffect/tooltip"
@@ -810,83 +820,73 @@ msgstr ""
 "[ПЕРЕЗАРЯДКА: 30с]\n"
 "\t\t\t\tГенерирует два слоя суперщита."
 
-#: src-en/data/hyperspace.xml.append:4165
+#: src-en/data/hyperspace.xml.append:4830
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_shell\"]/powerEffect/buttonText"
 msgstr "ЗАЖЕЧЬ"
 
-#: src-en/data/hyperspace.xml.append:4166
+#: src-en/data/hyperspace.xml.append:4831
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_shell\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 5с  ДЛИТЕЛЬНОСТЬ: 21с  -40 ОЗ]\n"
-"Наносит 75 ед. урона всему вражескому экипажу, находящемся в отсеке под "
-"контролем разума, не может опустить ОЗ вражеского экипаж ниже 10. Медленно "
-"регенерирует 42 ОЗ."
+"Наносит 75 ед. урона всему вражескому экипажу, находящемся в отсеке под контролем разума, не может опустить ОЗ вражеского экипаж ниже 10. Медленно регенерирует 42 ОЗ."
 
-#: src-en/data/hyperspace.xml.append:4193
+#: src-en/data/hyperspace.xml.append:4858
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_slug\"]/powerEffect/buttonText"
 msgstr "БОМБА"
 
-#: src-en/data/hyperspace.xml.append:4194
+#: src-en/data/hyperspace.xml.append:4859
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_slug\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 50с  ДЛИТЕЛЬНОСТЬ: 10с]\n"
-"\t\t\t\tРазмещает Токсиновую бомбу, которая действует 30 секунд, вражеский "
-"экипаж в отсеке будет накапливать статусный эффект со скоростью 5 ОЗ/с.\n"
-"\t\t\t\tСтатусный эффект будет контролировать разум вражеского экипажа, как "
-"только накопление достигнет их текущего здоровья.\n"
-"\t\t\t\tВременно маскируется и прекращает двигаться и атаковать на 10 "
-"секунд, скрываясь от вражеского экипажа и исцеляясь со скоростью 2 ОЗ/с."
+"\t\t\t\tРазмещает Токсиновую бомбу, которая действует 30 секунд, вражеский экипаж в отсеке будет накапливать статусный эффект со скоростью 5 ОЗ/с.\n"
+"\t\t\t\tСтатусный эффект будет контролировать разум вражеского экипажа, как только накопление достигнет их текущего здоровья.\n"
+"\t\t\t\tВременно маскируется и прекращает двигаться и атаковать на 10 секунд, скрываясь от вражеского экипажа и исцеляясь со скоростью 2 ОЗ/с."
 
-#: src-en/data/hyperspace.xml.append:4255
+#: src-en/data/hyperspace.xml.append:4920
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_sickle\"]/powerEffect/buttonText"
 msgstr "БОМБА"
 
-#: src-en/data/hyperspace.xml.append:4256
+#: src-en/data/hyperspace.xml.append:4921
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_sickle\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 40с  ДЛИТЕЛЬНОСТЬ: 10с]\n"
-"Размещает Токсиновую бомбу, которая действует 1 минуту, вражеский экипаж в "
-"отсеке будет накапливать статусный эффект со скоростью 10 ОЗ/с.\n"
-"Статусный эффект будет контролировать разум вражеского экипажа, когда "
-"накопление достигнет текущего уровня здоровья.\n"
-"Временно маскируется со снижением урона и скорости передвижения вдвое, "
-"прячется от вражеского экипажа."
+"Размещает Токсиновую бомбу, которая действует 1 минуту, вражеский экипаж в отсеке будет накапливать статусный эффект со скоростью 10 ОЗ/с.\n"
+"Статусный эффект будет контролировать разум вражеского экипажа, когда накопление достигнет текущего уровня здоровья.\n"
+"Временно маскируется со снижением урона и скорости передвижения вдвое, прячется от вражеского экипажа."
 
-#: src-en/data/hyperspace.xml.append:4318
+#: src-en/data/hyperspace.xml.append:4983
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_sorrow\"]/powerEffect/buttonText"
 msgstr "ЗАЖЕЧЬ"
 
-#: src-en/data/hyperspace.xml.append:4319
+#: src-en/data/hyperspace.xml.append:4984
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_sorrow\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 15с  ДЛИТЕЛЬНОСТЬ: 10с  -60 ОЗ]\n"
-"Убивает всех вражеских членов экипажа в отсеке, которые находятся под "
-"контролем разума. Наносит 30 ед. урона другим членам экипажа. Регенерирует "
-"60 ОЗ."
+"Убивает всех вражеских членов экипажа в отсеке, которые находятся под контролем разума. Наносит 30 ед. урона другим членам экипажа. Регенерирует 60 ОЗ."
 
-#: src-en/data/hyperspace.xml.append:4366
+#: src-en/data/hyperspace.xml.append:5031
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard\"]/powerEffect/buttonText"
 msgstr "Заклинание"
 
-#: src-en/data/hyperspace.xml.append:4367
+#: src-en/data/hyperspace.xml.append:5032
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard\"]/powerEffect/tooltip"
@@ -896,194 +896,173 @@ msgstr ""
 "\tДлительность накладывания: 5с\n"
 "\tБудет прервано во время произнесения заклинания, если экипаж получит урон"
 
-#: src-en/data/hyperspace.xml.append:4407
+#: src-en/data/hyperspace.xml.append:5072
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a01\"]/powerEffect/buttonText"
 msgstr "Защита"
 
-#: src-en/data/hyperspace.xml.append:4408
+#: src-en/data/hyperspace.xml.append:5073
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a01\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"Накладывает заклинание, которое защищает текущий отсек от урона корпуса и "
-"систем на 10 секунд.\n"
+"Накладывает заклинание, которое защищает текущий отсек от урона корпуса и систем на 10 секунд.\n"
 "\tДлительность накладывания: 1с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:4447
+#: src-en/data/hyperspace.xml.append:5112
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a02\"]/powerEffect/buttonText"
 msgstr "Маяк"
 
-#: src-en/data/hyperspace.xml.append:4448
+#: src-en/data/hyperspace.xml.append:5113
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a02\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"Накладывает заклинание, которое перенацеливает все вражеские снаряды на "
-"экране на текущий отсек.\n"
+"Накладывает заклинание, которое перенацеливает все вражеские снаряды на экране на текущий отсек.\n"
 "\tДлительность накладывания: 1с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:4487
+#: src-en/data/hyperspace.xml.append:5152
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s03\"]/powerEffect/buttonText"
 msgstr "Био-болт"
 
-#: src-en/data/hyperspace.xml.append:4488
+#: src-en/data/hyperspace.xml.append:5153
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s03\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"Накладывает заклинание, которое пробивает все обычные щиты в выбранном "
-"отсеке, нанося 45 единиц урона экипажу.\n"
+"Накладывает заклинание, которое пробивает все обычные щиты в выбранном отсеке, нанося 45 единиц урона экипажу.\n"
 "\tДлительность накладывания: 3с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:4527
+#: src-en/data/hyperspace.xml.append:5192
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s04\"]/powerEffect/buttonText"
 msgstr "Болт"
 
-#: src-en/data/hyperspace.xml.append:4528
+#: src-en/data/hyperspace.xml.append:5193
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s04\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"Накладывает заклинание, которое пробивает все обычные щиты в выбранном "
-"отсеке, нанося 1 ед. урона.\n"
+"Накладывает заклинание, которое пробивает все обычные щиты в выбранном отсеке, нанося 1 ед. урона.\n"
 "\tДлительность накладывания: 8с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:4567
+#: src-en/data/hyperspace.xml.append:5232
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s05\"]/powerEffect/buttonText"
 msgstr "Импульсный болт"
 
-#: src-en/data/hyperspace.xml.append:4568
+#: src-en/data/hyperspace.xml.append:5233
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s05\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"Накладывает 3 заклинания, которые пробивают все обычные щиты в выбранном "
-"отсеке, нанося 1 ед. урона.\n"
+"Накладывает 3 заклинания, которые пробивают все обычные щиты в выбранном отсеке, нанося 1 ед. урона.\n"
 "\tДлительность накладывания: 20с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:4607
+#: src-en/data/hyperspace.xml.append:5272
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s06\"]/powerEffect/buttonText"
 msgstr "Противокорпусный болт"
 
-#: src-en/data/hyperspace.xml.append:4608
+#: src-en/data/hyperspace.xml.append:5273
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s06\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"Накладывает заклинание, которое пробивает все обычные щиты в выбранном "
-"отсеке, нанося 3 повреждения корпусу, но не нанося урону системе и экипажу.\n"
+"Накладывает заклинание, которое пробивает все обычные щиты в выбранном отсеке, нанося 3 повреждения корпусу, но не нанося урону системе и экипажу.\n"
 "\tДлительность накладывания: 10с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:4647
+#: src-en/data/hyperspace.xml.append:5312
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a07\"]/powerEffect/buttonText"
 msgstr "Варп"
 
-#: src-en/data/hyperspace.xml.append:4648
+#: src-en/data/hyperspace.xml.append:5313
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a07\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"Накладывает заклинание в текущем отсеке, которое перемещает весь экипаж в "
-"текущем отсеке в случайный отсек на противоположном корабле.\n"
+"Накладывает заклинание в текущем отсеке, которое перемещает весь экипаж в текущем отсеке в случайный отсек на противоположном корабле.\n"
 "\tДлительность накладывания: 6с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:4686
+#: src-en/data/hyperspace.xml.append:5351
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s08\"]/powerEffect/buttonText"
 msgstr "Варп-болт"
 
-#: src-en/data/hyperspace.xml.append:4687
+#: src-en/data/hyperspace.xml.append:5352
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s08\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"Накладывает заклинание, которое пробивает все щиты в выбранном отсеке и "
-"переносит весь экипаж в этом отсеке в случайный отсек на противоположном "
-"корабле\n"
+"Накладывает заклинание, которое пробивает все щиты в выбранном отсеке и переносит весь экипаж в этом отсеке в случайный отсек на противоположном корабле\n"
 "\tДлительность накладывания: 8с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:4725
+#: src-en/data/hyperspace.xml.append:5390
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s09\"]/powerEffect/buttonText"
 msgstr "Исцеляющий болт"
 
-#: src-en/data/hyperspace.xml.append:4726
+#: src-en/data/hyperspace.xml.append:5391
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s09\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"Накладывает заклинание, пробивающее все щиты в выбранном отсеке и исцеляющее "
-"весь дружественный экипаж на 75 ОЗ.\n"
+"Накладывает заклинание, пробивающее все щиты в выбранном отсеке и исцеляющее весь дружественный экипаж на 75 ОЗ.\n"
 "\tДлительность накладывания: 2с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:4767
+#: src-en/data/hyperspace.xml.append:5432
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a10\"]/powerEffect/buttonText"
 msgstr "Исцеляющая аура"
 
-#: src-en/data/hyperspace.xml.append:4768
+#: src-en/data/hyperspace.xml.append:5433
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a10\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"Накладывает заклинание в текущем отсеке, которое исцеляет весь дружественных "
-"экипажей в отсеке на 45 ОЗ.\n"
+"Накладывает заклинание в текущем отсеке, которое исцеляет весь дружественных экипажей в отсеке на 45 ОЗ.\n"
 "\tДлительность накладывания: 5с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:4806
+#: src-en/data/hyperspace.xml.append:5471
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a11\"]/powerEffect/buttonText"
 msgstr "Дрон"
 
-#: src-en/data/hyperspace.xml.append:4807
+#: src-en/data/hyperspace.xml.append:5472
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a11\"]/powerEffect/tooltip"
@@ -1093,140 +1072,125 @@ msgstr ""
 "\tДлительность накладывания: 10с\n"
 "\tБудет прервано во время каста, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:4846
+#: src-en/data/hyperspace.xml.append:5511
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s12\"]/powerEffect/buttonText"
 msgstr "Барьер"
 
-#: src-en/data/hyperspace.xml.append:4847
+#: src-en/data/hyperspace.xml.append:5512
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s12\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, "
-"которое порождает барьер, способный блокировать 2 снаряда, одновременно "
-"могут быть активны не более 8.\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, которое порождает барьер, способный блокировать 2 снаряда, одновременно могут быть активны не более 8.\n"
 "\tДлительность накладывания: 2с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:4886
+#: src-en/data/hyperspace.xml.append:5551
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s13\"]/powerEffect/buttonText"
 msgstr "Блокировка"
 
-#: src-en/data/hyperspace.xml.append:4887
+#: src-en/data/hyperspace.xml.append:5552
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s13\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, на "
-"который наложен эффект запирания\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, на который наложен эффект запирания\n"
 "\tДлительность накладывания: 4с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:4926
+#: src-en/data/hyperspace.xml.append:5591
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s14\"]/powerEffect/buttonText"
 msgstr "Союзник"
 
-#: src-en/data/hyperspace.xml.append:4927
+#: src-en/data/hyperspace.xml.append:5592
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s14\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, в "
-"котором появляется случайный союзник.\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, в котором появляется случайный союзник.\n"
 "\tДлительность накладывания: 7с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:4966
+#: src-en/data/hyperspace.xml.append:5631
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s15\"]/powerEffect/buttonText"
 msgstr "Болт разума"
 
-#: src-en/data/hyperspace.xml.append:4967
+#: src-en/data/hyperspace.xml.append:5632
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s15\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 20с]\n"
-"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, "
-"которое контролирует разум противника в течение 20 секунд\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, которое контролирует разум противника в течение 20 секунд\n"
 "\tДлительность накладывания: 8с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5006
+#: src-en/data/hyperspace.xml.append:5671
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_sup\"]/powerEffect/buttonText"
 msgstr "Поддержка"
 
-#: src-en/data/hyperspace.xml.append:5007
+#: src-en/data/hyperspace.xml.append:5672
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_sup\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 13с]\n"
-"Накладывает случайное заклинание поддержки, которое пробивает все обычные "
-"щиты в выбранном отсеке\n"
+"Накладывает случайное заклинание поддержки, которое пробивает все обычные щиты в выбранном отсеке\n"
 "\tДлительность накладывания: 1с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5044
+#: src-en/data/hyperspace.xml.append:5709
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_off\"]/powerEffect/buttonText"
 msgstr "Нападение"
 
-#: src-en/data/hyperspace.xml.append:5045
+#: src-en/data/hyperspace.xml.append:5710
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_off\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 10с]\n"
-"Накладывает случайное атакующее заклинание, которое пробивает все обычные "
-"щиты в выбранном отсеке\n"
+"Накладывает случайное атакующее заклинание, которое пробивает все обычные щиты в выбранном отсеке\n"
 "\tДлительность накладывания: 4с\n"
-"\tБудет прервано во время произнесения, если экипаж получит урон или "
-"переместится"
+"\tБудет прервано во время произнесения, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5082
+#: src-en/data/hyperspace.xml.append:5747
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_bor\"]/powerEffect/buttonText"
 msgstr "Абордажный"
 
-#: src-en/data/hyperspace.xml.append:5083
+#: src-en/data/hyperspace.xml.append:5748
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_bor\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 12с]\n"
-"Накладывает случайное заклинание поддержки при абордаже, которое пробивает "
-"все обычные щиты в выбранном отсеке\n"
+"Накладывает случайное заклинание поддержки при абордаже, которое пробивает все обычные щиты в выбранном отсеке\n"
 "\tДлительность накладывания: 2с\n"
-"\tБудет прервано во время произнесения, если экипаж получит урон или "
-"переместится"
+"\tБудет прервано во время произнесения, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5173
+#: src-en/data/hyperspace.xml.append:5838
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny\"]/powerEffect/buttonText"
 msgstr "Заклинание"
 
-#: src-en/data/hyperspace.xml.append:5174
+#: src-en/data/hyperspace.xml.append:5839
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny\"]/powerEffect/tooltip"
@@ -1236,194 +1200,173 @@ msgstr ""
 "\tДлительность накладывания: 2.5с\n"
 "\tБудет прервано во время произнесения заклинания, если экипаж получит урон"
 
-#: src-en/data/hyperspace.xml.append:5216
+#: src-en/data/hyperspace.xml.append:5881
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a01\"]/powerEffect/buttonText"
 msgstr "Защита"
 
-#: src-en/data/hyperspace.xml.append:5217
+#: src-en/data/hyperspace.xml.append:5882
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a01\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 10с]\n"
-"Накладывает заклинание, которое защищает текущую комнату от повреждений "
-"корпуса и системы на 10 секунд.\n"
+"Накладывает заклинание, которое защищает текущую комнату от повреждений корпуса и системы на 10 секунд.\n"
 "\tДлительность накладывания: 1с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5256
+#: src-en/data/hyperspace.xml.append:5921
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a02\"]/powerEffect/buttonText"
 msgstr "Маяк"
 
-#: src-en/data/hyperspace.xml.append:5257
+#: src-en/data/hyperspace.xml.append:5922
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a02\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 10с]\n"
-"Накладывает заклинание, которое перенацеливает все вражеские снаряды на "
-"экране на выбранный отсек.\n"
+"Накладывает заклинание, которое перенацеливает все вражеские снаряды на экране на выбранный отсек.\n"
 "\tДлительность накладывания: 1с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5296
+#: src-en/data/hyperspace.xml.append:5961
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s03\"]/powerEffect/buttonText"
 msgstr "Био-болт"
 
-#: src-en/data/hyperspace.xml.append:5297
+#: src-en/data/hyperspace.xml.append:5962
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s03\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 10с]\n"
-"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке и "
-"наносящее 45 единиц урона экипажу.\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке и наносящее 45 единиц урона экипажу.\n"
 "\tДлительность накладывания: 3с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5336
+#: src-en/data/hyperspace.xml.append:6001
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s04\"]/powerEffect/buttonText"
 msgstr "Болт"
 
-#: src-en/data/hyperspace.xml.append:5337
+#: src-en/data/hyperspace.xml.append:6002
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s04\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 10с]\n"
-"Накладывает заклинание, которое пробивает все обычные щиты в выбранном "
-"отсеке, нанося 1 урон\n"
+"Накладывает заклинание, которое пробивает все обычные щиты в выбранном отсеке, нанося 1 урон\n"
 "\tДлительность накладывания: 8с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5376
+#: src-en/data/hyperspace.xml.append:6041
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s05\"]/powerEffect/buttonText"
 msgstr "Импульсный болт"
 
-#: src-en/data/hyperspace.xml.append:5377
+#: src-en/data/hyperspace.xml.append:6042
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s05\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 10с]\n"
-"Накладывает 3 заклинания, которые пробивают все обычные щиты в выбранном "
-"отсеке, нанося 1 урон\n"
+"Накладывает 3 заклинания, которые пробивают все обычные щиты в выбранном отсеке, нанося 1 урон\n"
 "\tДлительность накладывания: 20с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5416
+#: src-en/data/hyperspace.xml.append:6081
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s06\"]/powerEffect/buttonText"
 msgstr "Противокорпусный болт"
 
-#: src-en/data/hyperspace.xml.append:5417
+#: src-en/data/hyperspace.xml.append:6082
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s06\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 10с]\n"
-"Накладывает заклинание, которое пробивает все обычные щиты в выбранном "
-"отсеке, нанося 3 урона корпусу, но не повреждая систему и экипаж.\n"
+"Накладывает заклинание, которое пробивает все обычные щиты в выбранном отсеке, нанося 3 урона корпусу, но не повреждая систему и экипаж.\n"
 "\tДлительность накладывания: 10с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5456
+#: src-en/data/hyperspace.xml.append:6121
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a07\"]/powerEffect/buttonText"
 msgstr "Варп"
 
-#: src-en/data/hyperspace.xml.append:5457
+#: src-en/data/hyperspace.xml.append:6122
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a07\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 10с]\n"
-"Накладывает заклинание в текущем отсеке, которое перемещает весь экипаж в "
-"текущем отсеке в случайный отсек на противоположном корабле.\n"
+"Накладывает заклинание в текущем отсеке, которое перемещает весь экипаж в текущем отсеке в случайный отсек на противоположном корабле.\n"
 "\tДлительность накладывания: 6с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5496
+#: src-en/data/hyperspace.xml.append:6161
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s08\"]/powerEffect/buttonText"
 msgstr "Варп-болт"
 
-#: src-en/data/hyperspace.xml.append:5497
+#: src-en/data/hyperspace.xml.append:6162
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s08\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 10с]\n"
-"Накладывает заклинание, которое пробивает все щиты в выбранном отсеке и "
-"переносит весь экипаж в этом отсеке в случайный отсек на противоположном "
-"корабле\n"
+"Накладывает заклинание, которое пробивает все щиты в выбранном отсеке и переносит весь экипаж в этом отсеке в случайный отсек на противоположном корабле\n"
 "\tДлительность накладывания: 8с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5536
+#: src-en/data/hyperspace.xml.append:6201
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s09\"]/powerEffect/buttonText"
 msgstr "Исцеляющий болт"
 
-#: src-en/data/hyperspace.xml.append:5537
+#: src-en/data/hyperspace.xml.append:6202
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s09\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 10с]\n"
-"Накладывает заклинание, пробивающее все щиты в выбранном отсеке и исцеляющее "
-"весь дружественный экипаж на 75 ОЗ.\n"
+"Накладывает заклинание, пробивающее все щиты в выбранном отсеке и исцеляющее весь дружественный экипаж на 75 ОЗ.\n"
 "\tДлительность накладывания: 2с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5578
+#: src-en/data/hyperspace.xml.append:6243
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a10\"]/powerEffect/buttonText"
 msgstr "Исцеляющая аура"
 
-#: src-en/data/hyperspace.xml.append:5579
+#: src-en/data/hyperspace.xml.append:6244
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a10\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 10с]\n"
-"Накладывает заклинание в текущем отсеке, которое исцеляет весь дружественный "
-"экипаж в отсеке на 45 ОЗ\n"
+"Накладывает заклинание в текущем отсеке, которое исцеляет весь дружественный экипаж в отсеке на 45 ОЗ\n"
 "\tДлительность накладывания: 5с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5618
+#: src-en/data/hyperspace.xml.append:6283
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a11\"]/powerEffect/buttonText"
 msgstr "Дрон"
 
-#: src-en/data/hyperspace.xml.append:5619
+#: src-en/data/hyperspace.xml.append:6284
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a11\"]/powerEffect/tooltip"
@@ -1433,462 +1376,552 @@ msgstr ""
 "\tДлительность накладывания: 10с\n"
 "\tБудет прервано во время каста, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5658
+#: src-en/data/hyperspace.xml.append:6323
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s12\"]/powerEffect/buttonText"
 msgstr "Барьер"
 
-#: src-en/data/hyperspace.xml.append:5659
+#: src-en/data/hyperspace.xml.append:6324
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s12\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 10с]\n"
-"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, "
-"которое порождает барьер, способный блокировать 2 снаряда, одновременно "
-"могут быть активны не более 8.\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, которое порождает барьер, способный блокировать 2 снаряда, одновременно могут быть активны не более 8.\n"
 "\tДлительность накладывания: 2с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5698
+#: src-en/data/hyperspace.xml.append:6363
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s13\"]/powerEffect/buttonText"
 msgstr "Блокировка"
 
-#: src-en/data/hyperspace.xml.append:5699
+#: src-en/data/hyperspace.xml.append:6364
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s13\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 10с]\n"
-"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, на "
-"который наложен эффект запирания\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, на который наложен эффект запирания\n"
 "\tДлительность накладывания: 4с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5738
+#: src-en/data/hyperspace.xml.append:6403
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s14\"]/powerEffect/buttonText"
 msgstr "Союзник"
 
-#: src-en/data/hyperspace.xml.append:5739
+#: src-en/data/hyperspace.xml.append:6404
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s14\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 10с]\n"
-"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, в "
-"котором появляется случайный союзник.\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, в котором появляется случайный союзник.\n"
 "\tДлительность накладывания: 7с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5778
+#: src-en/data/hyperspace.xml.append:6443
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s15\"]/powerEffect/buttonText"
 msgstr "Болт разума"
 
-#: src-en/data/hyperspace.xml.append:5779
+#: src-en/data/hyperspace.xml.append:6444
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s15\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 10с]\n"
-"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, "
-"которое контролирует разум противника в течение 20 секунд\n"
+"Накладывает заклинание, пробивающее все обычные щиты в выбранном отсеке, которое контролирует разум противника в течение 20 секунд\n"
 "\tДлительность накладывания: 8с\n"
-"\tБудет прервано во время произнесения заклинания, если экипаж получит урон "
-"или переместится"
+"\tБудет прервано во время произнесения заклинания, если экипаж получит урон или переместится"
 
-#: src-en/data/hyperspace.xml.append:5835
+#: src-en/data/hyperspace.xml.append:6500
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_breaker\"]/powerEffect/buttonText"
 msgstr "РАСПАД"
 
-#: src-en/data/hyperspace.xml.append:5836
+#: src-en/data/hyperspace.xml.append:6501
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_breaker\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 12с  -25 ОЗ]\n"
-"\t\t\t\tЗапирает занятый отсек на 12 секунд, не позволяя экипажу "
-"перемещаться в нем.\n"
+"\t\t\t\tЗапирает занятый отсек на 12 секунд, не позволяя экипажу перемещаться в нем.\n"
 "\t\t\t\tВражеский экипаж в отсеке получает 4 ОЗ/с урона.\n"
 "\t\t\t\tВ течение этого времени нельзя атаковать вражеский экипаж."
 
-#: src-en/data/hyperspace.xml.append:5908
+#: src-en/data/hyperspace.xml.append:6573
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_smasher\"]/powerEffect/buttonText"
 msgstr "РАСПАД"
 
-#: src-en/data/hyperspace.xml.append:5909
+#: src-en/data/hyperspace.xml.append:6574
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_smasher\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 6с  -25 ОЗ]\n"
-"\t\t\t\tЗапирает занятый отсек на 12 секунд, не позволяя экипажу "
-"перемещаться в нем.\n"
+"\t\t\t\tЗапирает занятый отсек на 12 секунд, не позволяя экипажу перемещаться в нем.\n"
 "\t\t\t\tВражеский экипаж в отсеке получает 4 ОЗ/с урона.\n"
 "\t\t\t\tВ течение этого времени нельзя атаковать вражеский экипаж."
 
-#: src-en/data/hyperspace.xml.append:5982
+#: src-en/data/hyperspace.xml.append:6647
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_dawn\"]/powerEffect/buttonText"
 msgstr "РАСПАД"
 
-#: src-en/data/hyperspace.xml.append:5983
+#: src-en/data/hyperspace.xml.append:6648
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_dawn\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА: 3с  -25 ОЗ]\n"
-"\t\t\t\tЗапирает занятый отсек на 24 секунд, не позволяя экипажу "
-"перемещаться в нем.\n"
+"\t\t\t\tЗапирает занятый отсек на 24 секунд, не позволяя экипажу перемещаться в нем.\n"
 "\t\t\t\tВражеский экипаж в отсеке получает 10 ОЗ/с урона.\n"
 "\t\t\t\tВ течение этого времени нельзя атаковать вражеский экипаж."
 
-#: src-en/data/hyperspace.xml.append:6030
+#: src-en/data/hyperspace.xml.append:6704
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_dark_justicier\"]/powerEffect/buttonText"
 msgstr "РИТУАЛ"
 
-#: src-en/data/hyperspace.xml.append:6031
+#: src-en/data/hyperspace.xml.append:6705
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_dark_justicier\"]/powerEffect/tooltip"
 msgstr ""
-"Проведите темный ритуал, принесите в жертву несколько членов экипажа в "
-"определенных местах, чтобы вызвать различные эффекты. Экипаж, выживший после "
-"участия в ритуале, будет ослаблен и потеряет 50% здоровья на 5 прыжков.\n"
+"Проведите темный ритуал, принесите в жертву несколько членов экипажа в определенных местах, чтобы вызвать различные эффекты. Экипаж, выживший после участия в ритуале, будет ослаблен и потеряет 50% здоровья на 5 прыжков.\n"
 "\n"
 "Щелкните левой кнопкой мыши, чтобы выбрать экипаж для жертвоприношения.\n"
 "\n"
 "Щелкните правой кнопкой мыши, чтобы провести ритуал или отменить его."
 
-#: src-en/data/hyperspace.xml.append:7665
+#: src-en/data/hyperspace.xml.append:6736
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"aea_dark_justicier_enemy\"]/powerEffect/buttonText"
+msgstr "РИТУАЛ"
+
+#: src-en/data/hyperspace.xml.append:6737
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"aea_dark_justicier_enemy\"]/powerEffect/tooltip"
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
+
+#: src-en/data/hyperspace.xml.append:8433
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/name"
 msgstr "\\1 Конец карантина"
 
-#: src-en/data/hyperspace.xml.append:7666
+#: src-en/data/hyperspace.xml.append:8434
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/description"
 msgstr "Сбегите из Карантина лилмиков на борту любого корабля \\1"
 
-#: src-en/data/hyperspace.xml.append:7668
+#: src-en/data/hyperspace.xml.append:8436
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/secretName"
 msgstr "\\1 ????? концовка"
 
-#: src-en/data/hyperspace.xml.append:7669
+#: src-en/data/hyperspace.xml.append:8437
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/secretDescription"
 msgstr "Вырвитесь из лап могущественной расы на борту любого типа \\1"
 
-#: src-en/data/hyperspace.xml.append:7889
+#: src-en/data/hyperspace.xml.append:8657
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[1]/customTitle"
 msgstr "ОРУЖИЕ ДНЯ [СКИДКА 33%]"
 
-#: src-en/data/hyperspace.xml.append:7909
+#: src-en/data/hyperspace.xml.append:8677
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[2]/customTitle"
 msgstr "ДРОНЫ ДНЯ [СКИДКА 33%]"
 
-#: src-en/data/hyperspace.xml.append:7929
+#: src-en/data/hyperspace.xml.append:8697
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[3]/customTitle"
 msgstr "МОДУЛИ ДНЯ [СКИДКА 33%]"
 
-#: src-en/data/hyperspace.xml.append:7969
+#: src-en/data/hyperspace.xml.append:8737
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[7]/customTitle"
 msgstr "ЭКИПАЖ"
 
-#: src-en/data/hyperspace.xml.append:7977
+#: src-en/data/hyperspace.xml.append:8745
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[8]/customTitle"
 msgstr "ОСНОВНЫЕ СИСТЕМЫ"
 
-#: src-en/data/hyperspace.xml.append:7995
+#: src-en/data/hyperspace.xml.append:8763
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_BIRD\"]/category[9]/customTitle"
 msgstr "ДОПОЛНИТЕЛЬНЫЕ СИСТЕМЫ"
 
-#: src-en/data/hyperspace.xml.append:8091
+#: src-en/data/hyperspace.xml.append:8859
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[1]/customTitle"
 msgstr "РАСПРОДАЖА [СКИДКА 25%]"
 
-#: src-en/data/hyperspace.xml.append:8106
+#: src-en/data/hyperspace.xml.append:8874
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[2]/customTitle"
 msgstr "РАСПРОДАЖА [СКИДКА 25%]"
 
-#: src-en/data/hyperspace.xml.append:8121
+#: src-en/data/hyperspace.xml.append:8889
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[3]/customTitle"
 msgstr "ОСНОВНЫЕ СИСТЕМЫ"
 
-#: src-en/data/hyperspace.xml.append:8139
+#: src-en/data/hyperspace.xml.append:8907
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[4]/customTitle"
 msgstr "ДОПОЛНИТЕЛЬНЫЕ СИСТЕМЫ"
 
-#: src-en/data/hyperspace.xml.append:8172
+#: src-en/data/hyperspace.xml.append:8940
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[1]/customTitle"
 msgstr "ЗАКЛИНАНИЯ"
 
-#: src-en/data/hyperspace.xml.append:8191
+#: src-en/data/hyperspace.xml.append:8959
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[2]/customTitle"
 msgstr "ЗАКЛИНАНИЯ"
 
-#: src-en/data/hyperspace.xml.append:8210
+#: src-en/data/hyperspace.xml.append:8978
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[3]/customTitle"
 msgstr "СЕКТА ВОЛШЕБНИКОВ"
 
-#: src-en/data/hyperspace.xml.append:8243
+#: src-en/data/hyperspace.xml.append:9011
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[6]/customTitle"
 msgstr "ЭКИПАЖ"
 
-#: src-en/data/hyperspace.xml.append:8261
+#: src-en/data/hyperspace.xml.append:9029
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[8]/customTitle"
 msgstr "ОСНОВНЫЕ СИСТЕМЫ"
 
-#: src-en/data/hyperspace.xml.append:8279
+#: src-en/data/hyperspace.xml.append:9047
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[9]/customTitle"
 msgstr "ДОПОЛНИТЕЛЬНЫЕ СИСТЕМЫ"
 
-#: src-en/data/hyperspace.xml.append:8295
+#: src-en/data/hyperspace.xml.append:9063
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_COMMUNION\"]/category[1]/customTitle"
 msgstr "ЗАКЛИНАНИЯ"
 
-#: src-en/data/hyperspace.xml.append:8314
+#: src-en/data/hyperspace.xml.append:9082
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_COMMUNION\"]/category[2]/customTitle"
 msgstr "ЗАКЛИНАНИЯ"
 
-#: src-en/data/hyperspace.xml.append:8357
+#: src-en/data/hyperspace.xml.append:9142
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/name"
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"append:page/section[1]/@text"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9144
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/name"
 msgstr "Кислотный транспорт"
 
-#: src-en/data/hyperspace.xml.append:8358
+#: src-en/data/hyperspace.xml.append:9145
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/secretDescription"
 msgstr "Получить добычу из транспорта кислотных."
 
-#: src-en/data/hyperspace.xml.append:8359
+#: src-en/data/hyperspace.xml.append:9146
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/description"
 msgstr "Получить Залповую кислоту из добычи кислотного транспорта."
 
-#: src-en/data/hyperspace.xml.append:8361
+#: src-en/data/hyperspace.xml.append:9148
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_ACID\"]/header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/header"
 msgstr "Полученная добыча"
 
-#: src-en/data/hyperspace.xml.append:8364
+#: src-en/data/hyperspace.xml.append:9151
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/name"
 msgstr "Транспорт Еретиков"
 
-#: src-en/data/hyperspace.xml.append:8365
+#: src-en/data/hyperspace.xml.append:9152
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/secretDescription"
 msgstr "Получить добычу из транспорта Еретиков."
 
-#: src-en/data/hyperspace.xml.append:8366
+#: src-en/data/hyperspace.xml.append:9153
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/description"
 msgstr "Получить Осколочный лазер мод. II из транспорта Еретиков."
 
-#: src-en/data/hyperspace.xml.append:8368
+#: src-en/data/hyperspace.xml.append:9155
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/header"
 msgstr "Полученная добыча"
 
-#: src-en/data/hyperspace.xml.append:8371
+#: src-en/data/hyperspace.xml.append:9158
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/name"
 msgstr "Транспорт Вампсорняков-сектантов"
 
-#: src-en/data/hyperspace.xml.append:8372
+#: src-en/data/hyperspace.xml.append:9159
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/secretDescription"
 msgstr "Получить добычу из транспорта Вампсорняков-сектантов."
 
-#: src-en/data/hyperspace.xml.append:8373
+#: src-en/data/hyperspace.xml.append:9160
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/description"
 msgstr "Получить Заклинающий споромет из транспорта Вампсорняков-сектантов."
 
-#: src-en/data/hyperspace.xml.append:8375
+#: src-en/data/hyperspace.xml.append:9162
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_CULT\"]/header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/header"
 msgstr "Полученная добыча"
 
-#: src-en/data/hyperspace.xml.append:8378
+#: src-en/data/hyperspace.xml.append:9165
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/name"
 msgstr "Транспорт ги"
 
-#: src-en/data/hyperspace.xml.append:8379
+#: src-en/data/hyperspace.xml.append:9166
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/secretDescription"
 msgstr "Получить добычу из транспорта ги."
 
-#: src-en/data/hyperspace.xml.append:8380
+#: src-en/data/hyperspace.xml.append:9167
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/description"
 msgstr "Получить Дрон-близнец из транспорта ги."
 
-#: src-en/data/hyperspace.xml.append:8382
+#: src-en/data/hyperspace.xml.append:9169
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/header"
 msgstr "Полученная добыча"
 
-#: src-en/data/hyperspace.xml.append:8385
+#: src-en/data/hyperspace.xml.append:9172
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/name"
 msgstr "Транспорт Анархистов"
 
-#: src-en/data/hyperspace.xml.append:8386
+#: src-en/data/hyperspace.xml.append:9173
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/secretDescription"
 msgstr "Получить добычу из транспорта Анархистов."
 
-#: src-en/data/hyperspace.xml.append:8387
+#: src-en/data/hyperspace.xml.append:9174
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/description"
 msgstr "Получить ракетную установка \"Гипноз\" из транспорта Анархистов."
 
-#: src-en/data/hyperspace.xml.append:8389
+#: src-en/data/hyperspace.xml.append:9176
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/header"
 msgstr "Полученная добыча"
 
-#: src-en/data/hyperspace.xml.append:8392
+#: src-en/data/hyperspace.xml.append:9179
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/name"
 msgstr "Транспорт Осколкорожденных"
 
-#: src-en/data/hyperspace.xml.append:8393
+#: src-en/data/hyperspace.xml.append:9180
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/secretDescription"
 msgstr "Получить добычу из транспорта Осколкорожденных."
 
-#: src-en/data/hyperspace.xml.append:8394
+#: src-en/data/hyperspace.xml.append:9181
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/description"
 msgstr ""
 "Получить Элитный залповый кристалл мод. II из транспорта Осколкорожденных."
 
-#: src-en/data/hyperspace.xml.append:8396
+#: src-en/data/hyperspace.xml.append:9183
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/header"
 msgstr "Полученная добыча"
 
-#: src-en/data/hyperspace.xml.append:8399
+#: src-en/data/hyperspace.xml.append:9186
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/name"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/name"
 msgstr "Станция лилмиков"
 
-#: src-en/data/hyperspace.xml.append:8400
+#: src-en/data/hyperspace.xml.append:9187
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretName"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretName"
 msgstr "Секретный транспорт"
 
-#: src-en/data/hyperspace.xml.append:8401
+#: src-en/data/hyperspace.xml.append:9188
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/description"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/description"
 msgstr "Получить оружие лилмиков из станции с добычей лилмиков."
 
-#: src-en/data/hyperspace.xml.append:8402
+#: src-en/data/hyperspace.xml.append:9189
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretDescription"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretDescription"
 msgstr "Получить добычу ??? из транспорта с добычей."
 
-#: src-en/data/hyperspace.xml.append:8405
+#: src-en/data/hyperspace.xml.append:9192
 msgid ""
-"data/hyperspace.xml.append$//mod-"
-"append:achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/header"
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/header"
 msgstr "Полученная добыча"
 
-#: src-en/data/hyperspace.xml.append:8410
+#: src-en/data/hyperspace.xml.append:9195
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
-"append:page/section/@text"
-msgstr "Дар Корби II"
+"append:page/section[2]/@text"
+msgstr ""
 
-#: src-en/data/hyperspace.xml.append:8412
+#: src-en/data/hyperspace.xml.append:9197
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/name"
 msgstr "Дар дополнительного экранирования"
 
-#: src-en/data/hyperspace.xml.append:8413
+#: src-en/data/hyperspace.xml.append:9198
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/secretDescription"
 msgstr "Получите дар дополнительного экранирования от Корби."
 
-#: src-en/data/hyperspace.xml.append:8414
+#: src-en/data/hyperspace.xml.append:9199
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/description"
 msgstr ""
 "Показать Корби улучшенную систему Вспомогательных щитов. \n"
 "\t\t\t\tПока действует; добавляет 1 слой энергетического щита после прыжка."
 
-#: src-en/data/hyperspace.xml.append:8416
+#: src-en/data/hyperspace.xml.append:9201
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/header"
 msgstr "Дар получен"
+
+#: src-en/data/hyperspace.xml.append:9206
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9207
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/secretName"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9208
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9209
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9211
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/header"
+msgstr "Дар получен"
+
+#: src-en/data/hyperspace.xml.append:9217
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
+"append:page/section[3]/@text"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9219
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_ACID\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9220
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_ACID\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9222
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_ACID\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9225
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_BIRD\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9226
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_BIRD\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9228
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_BIRD\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9231
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_CULT\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9232
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_CULT\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9234
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_CULT\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9237
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_NECRO\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9238
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_NECRO\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9240
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_NECRO\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9243
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHARD\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9244
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHARD\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9246
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHARD\"]/header"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9249
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHLEG\"]/name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9250
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHLEG\"]/description"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:9252
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHLEG\"]/header"
+msgstr ""

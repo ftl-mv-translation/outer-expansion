@@ -1,28 +1,16 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-11 07:44+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_aea_justicierxml/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_aea_justicier.xml:3
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/text"
 msgstr ""
 "Темный Юстициарий может незаконно модифицировать ваш Клон-отсек.\n"
-"\t[Эффекты: Клон-отсек больше не клонирует мертвых членов экипажа, при "
-"прыжке модифицированный Клон-отсек производит двух случайных нелегальных "
-"клонов, у которых таймер смерти равен 30 секундам, модифицированный Клон-"
-"отсек не позволяет таймеру смерти прогрессировать, пока он приведен в "
-"действие]"
+"\t[Эффекты: Клон-отсек больше не клонирует мертвых членов экипажа, при прыжке модифицированный Клон-отсек производит двух случайных нелегальных клонов, у которых таймер смерти равен 30 секундам, модифицированный Клон-отсек не позволяет таймеру смерти прогрессировать, пока он приведен в действие]"
 
 #: src-en/data/events_special_aea_justicier.xml:6
 msgid ""
@@ -33,8 +21,8 @@ msgstr "Переоборудовать Клон-отсек. [Цена: 40~, 3|]"
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/event/text"
 msgstr ""
-"Существующий Клон-отсек частично деконструирован, чтобы освободить место для "
-"модернизации."
+"Существующий Клон-отсек частично деконструирован, чтобы освободить место для"
+" модернизации."
 
 #: src-en/data/events_special_aea_justicier.xml:15
 msgid ""
@@ -50,3 +38,208 @@ msgstr "Изменения внесены, и у вас появился мод�
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[2]/text"
 msgstr "Неважно."
+
+#: src-en/data/events_special_aea_justicier.xml:34
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:36
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[1]/text"
+msgstr "Неважно."
+
+#: src-en/data/events_special_aea_justicier.xml:44
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:48
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:52
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:58
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:60
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:68
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_CREW\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:70
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_CREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:78
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:80
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TRADE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:88
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_ATTACK\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:90
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_ATTACK\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:96
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_CREW\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:98
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_CREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:104
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_TRADE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:106
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_TRADE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:112
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_ATTACK\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:114
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_ATTACK\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:168
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_ONE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:172
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_ONE\"]/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_special_aea_justicier.xml:183
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_BATTLESHIP\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:188
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_BATTLESHIP\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:198
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_TWO\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:202
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_TWO\"]/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_special_aea_justicier.xml:212
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:217
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/text"
+msgstr "Принять его на борт."
+
+#: src-en/data/events_special_aea_justicier.xml:219
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:220
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/event/crewMember"
+msgstr "Темный Каратель"
+
+#: src-en/data/events_special_aea_justicier.xml:224
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[2]/text"
+msgstr "Отказаться."
+
+#: src-en/data/events_special_aea_justicier.xml:226
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:231
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:236
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/text"
+msgstr "Принять его на борт."
+
+#: src-en/data/events_special_aea_justicier.xml:238
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:239
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/event/crewMember"
+msgstr "Темный Каратель"
+
+#: src-en/data/events_special_aea_justicier.xml:243
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[2]/text"
+msgstr "Отказаться."
+
+#: src-en/data/events_special_aea_justicier.xml:245
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:255
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:262
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[1]/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_special_aea_justicier.xml:266
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[@req=\"engines\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:270
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
+msgstr ""
