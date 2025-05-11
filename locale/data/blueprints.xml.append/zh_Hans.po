@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-05-11 08:30+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/datablueprintsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/blueprints.xml.append:13
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_AEA_ACIDIC\"]/title"
@@ -3267,7 +3274,9 @@ msgstr "集能[激]"
 #: src-en/data/blueprints.xml.append:7037
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"AEA_COMBAT_SPELL_11\"]/desc"
-msgstr "[当前模式：激光] 移动缓慢的多效无人机，可在激光与光束武器间切换，无需供能。部署后无法手动关闭，但即使无人机控制系统被完全破坏仍能运作。"
+msgstr "[当前模式：激光] "
+"移动缓慢的多效无人机，可在激光与光束武器间切换，无需供能。部署后无法手动关闭"
+"，但即使无人机控制系统被完全破坏仍能运作。"
 
 #: src-en/data/blueprints.xml.append:7051
 msgid ""
@@ -5925,7 +5934,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:12410
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_BROADSIDE_FOCUS\"]/tooltip"
-msgstr "巨炮：充能一束长而致命的光束，对每个击中舱室造成2点伤害，但只能部分穿透一层护盾。"
+msgstr "巨炮：充能一束长而致命的光束，对每个击中舱室造成2点伤害，但只能部分穿透一层护"
+"盾。"
 
 #: src-en/data/blueprints.xml.append:12433
 msgid ""
