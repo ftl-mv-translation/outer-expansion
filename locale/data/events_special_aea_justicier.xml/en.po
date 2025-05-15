@@ -52,7 +52,7 @@ msgstr "Nevermind."
 #: src-en/data/events_special_aea_justicier.xml:40
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[2]/text"
-msgstr "Read the section on Blood Rituals."
+msgstr "Read the Rules of Ritual."
 
 #: src-en/data/events_special_aea_justicier.xml:44
 msgid ""
@@ -72,7 +72,9 @@ msgstr "Read the section on Offense Rituals."
 #: src-en/data/events_special_aea_justicier.xml:58
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/text"
-msgstr "You turn to the section of the book about the Rules of Ritual."
+msgstr ""
+"You turn to the section of the book about the Rules of Ritual.\n"
+"Some Rituals may have multiple requirements, in which case the lowest one on the list is used."
 
 #: src-en/data/events_special_aea_justicier.xml:69
 msgid ""
