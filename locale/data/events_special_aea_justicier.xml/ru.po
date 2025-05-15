@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-15 11:45+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-05-15 12:05+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_aea_justicierxml/ru/>\n"
 "Language: ru\n"
@@ -62,6 +62,7 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_aea_justicier.xml:40
+#, fuzzy
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[2]/text"
 msgstr "Прочитать раздел \"Ритуалы крови\"."
@@ -82,6 +83,7 @@ msgid ""
 msgstr "Прочитать раздел \"Ритуалы нападения\"."
 
 #: src-en/data/events_special_aea_justicier.xml:58
+#, fuzzy
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/text"
 msgstr "Вы обращаетесь к разделу книги, посвященному правилам ритуала."
