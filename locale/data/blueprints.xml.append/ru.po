@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-15 12:05+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-16 12:49+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -16,7 +16,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_CREW_AEA_ACID\"]/title"
-msgstr ""
+msgstr "Кислотный экипаж"
 
 #: src-en/data/blueprints.xml.append:14
 msgid ""
@@ -26,7 +26,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:20
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_CREW_AEA_BIRD\"]/title"
-msgstr ""
+msgstr "Экипаж ги"
 
 #: src-en/data/blueprints.xml.append:21
 msgid ""
@@ -36,7 +36,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:27
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_CREW_AEA_CULT\"]/title"
-msgstr ""
+msgstr "Экипаж сектантов"
 
 #: src-en/data/blueprints.xml.append:28
 msgid ""
@@ -46,7 +46,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:34
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_CREW_AEA_NECRO\"]/title"
-msgstr ""
+msgstr "Экипаж Еретиков"
 
 #: src-en/data/blueprints.xml.append:35
 msgid ""
@@ -56,7 +56,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:41
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_CREW_AEA_SHLEG\"]/title"
-msgstr ""
+msgstr "Экипаж Анархистов"
 
 #: src-en/data/blueprints.xml.append:42
 msgid ""
@@ -66,7 +66,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:48
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_CREW_AEA_SHARD\"]/title"
-msgstr ""
+msgstr "Экипаж осколкорожденных"
 
 #: src-en/data/blueprints.xml.append:49
 msgid ""
@@ -76,7 +76,7 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:55
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_CREW_AEA_JUSTICE\"]/title"
-msgstr ""
+msgstr "Экипаж Юстициария"
 
 #: src-en/data/blueprints.xml.append:56
 msgid ""
@@ -84,10 +84,9 @@ msgid ""
 msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:62
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"BOON_CREW_AEA_OLD\"]/title"
-msgstr "Ядро лилмиков"
+msgstr "Экипаж лилмиков"
 
 #: src-en/data/blueprints.xml.append:63
 msgid ""
@@ -2450,42 +2449,44 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:5894
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_ACID_INSTALLED\"]/title"
-msgstr ""
+msgstr "Кислотный"
 
 #: src-en/data/blueprints.xml.append:5895
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_ACID_INSTALLED\"]/desc"
-msgstr ""
+msgstr "Добавлено улучшение кислотных."
 
 #: src-en/data/blueprints.xml.append:5901
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_ACID_REPAIR\"]/title"
-msgstr ""
+msgstr "Процедуры восстановления повреждений"
 
 #: src-en/data/blueprints.xml.append:5902
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_ACID_REPAIR\"]/desc"
 msgstr ""
+"Кислотный экипаж восстанавливает 7.5 ОЗ/с, если он не получал урона в "
+"течении 5 секунд, но ремонтирует только со скоростью 1х."
 
 #: src-en/data/blueprints.xml.append:5908
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_ACID_SENSOR\"]/title"
-msgstr ""
+msgstr "Поляризованные сенсоры"
 
 #: src-en/data/blueprints.xml.append:5909
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_ACID_SENSOR\"]/desc"
-msgstr ""
+msgstr "Кислотный экипаж становится невосприимчивым к оглушению."
 
 #: src-en/data/blueprints.xml.append:5915
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_ACID_COOLING\"]/title"
-msgstr ""
+msgstr "Охлаждающие вентили"
 
 #: src-en/data/blueprints.xml.append:5916
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_ACID_COOLING\"]/desc"
-msgstr ""
+msgstr "Кислотный экипаж наносит 2x урон в дальнем бою, но теряет 50% ОЗ."
 
 #: src-en/data/blueprints.xml.append:5923
 msgid ""
@@ -2495,37 +2496,42 @@ msgstr "Ги"
 #: src-en/data/blueprints.xml.append:5924
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_BIRD_INSTALLED\"]/desc"
-msgstr ""
+msgstr "Улучшение ги добавлено."
 
 #: src-en/data/blueprints.xml.append:5930
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_BIRD_ESCAPESPEED\"]/title"
-msgstr ""
+msgstr "Полет от опасности"
 
 #: src-en/data/blueprints.xml.append:5931
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_BIRD_ESCAPESPEED\"]/desc"
 msgstr ""
+"Экипаж ги получает 4х скорость передвижения в присутствии вражеского экипажа."
 
 #: src-en/data/blueprints.xml.append:5937
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_BIRD_AUTODESTROY\"]/title"
-msgstr ""
+msgstr "Авто разборка"
 
 #: src-en/data/blueprints.xml.append:5938
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_BIRD_AUTODESTROY\"]/desc"
 msgstr ""
+"Экипаж ги наносит урон вражеским дронам и металлическим существам со "
+"скоростью 5 ОЗ/с."
 
 #: src-en/data/blueprints.xml.append:5944
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_BIRD_SOCIAL\"]/title"
-msgstr ""
+msgstr "Социализация"
 
 #: src-en/data/blueprints.xml.append:5945
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_BIRD_SOCIAL\"]/desc"
 msgstr ""
+"Экипаж ги получает 0.25x скорости ремонта и 0.1x боевого урона за каждого "
+"дружественного члена экипажа, находящегося в том же отсеке."
 
 #: src-en/data/blueprints.xml.append:5952
 msgid ""
@@ -2535,37 +2541,42 @@ msgstr "Лилмик"
 #: src-en/data/blueprints.xml.append:5953
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_OLD_INSTALLED\"]/desc"
-msgstr ""
+msgstr "Добавлено улучшение лилмиков."
 
 #: src-en/data/blueprints.xml.append:5959
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_OLD_RESOLVE\"]/title"
-msgstr ""
+msgstr "Непоколебимая решимость"
 
 #: src-en/data/blueprints.xml.append:5960
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_OLD_RESOLVE\"]/desc"
 msgstr ""
+"Экипаж лилмиков всегда сохраняет свои базовые показатели ОЗ, урона, "
+"иммунитета, скорости передвижения, скорости клонирования, потери навыков и "
+"скорости исцеления, и они не могут быть переопределены другими силами."
 
 #: src-en/data/blueprints.xml.append:5966
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_OLD_COMPROMISED\"]/title"
-msgstr ""
+msgstr "Взломанные подсистемы"
 
 #: src-en/data/blueprints.xml.append:5967
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_OLD_COMPROMISED\"]/desc"
 msgstr ""
+"Экипаж лилмиков теряет иммунитет, но скорость клонирования возрастает до 2x, "
+"а исцеления - до 4х."
 
 #: src-en/data/blueprints.xml.append:5973
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_OLD_ELITE\"]/title"
-msgstr ""
+msgstr "Элитизм"
 
 #: src-en/data/blueprints.xml.append:5974
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_OLD_ELITE\"]/desc"
-msgstr ""
+msgstr "Экипаж лилмиков получает 25 ОЗ за каждую союзную элиту."
 
 #: src-en/data/blueprints.xml.append:5981
 msgid ""
@@ -3284,7 +3295,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6326
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_vampbig\"]/title"
-msgstr "Культиватор сектант"
+msgstr "Культиватор-сектант"
 
 #: src-en/data/blueprints.xml.append:6327
 msgid ""
@@ -4893,10 +4904,11 @@ msgid ""
 msgstr "[Болт]"
 
 #: src-en/data/blueprints.xml.append:8738
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_04\"]/desc"
 msgstr ""
+"!!!Должно быть снаряжено для экипажа сектантов Вампсорняков или для "
+"заклинательного оружия!!!\n"
 "Накладывает заклинание, которое пробивает все обычные щиты на выбранном "
 "отсеке, нанося 1 ед. урона.\n"
 "\tЗадержка наложения заклинания: 8 секунд\n"
@@ -4919,10 +4931,11 @@ msgid ""
 msgstr "[Имп. болт]"
 
 #: src-en/data/blueprints.xml.append:8762
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_05\"]/desc"
 msgstr ""
+"!!!Должно быть снаряжено для экипажа сектантов Вампсорняков или для "
+"заклинательного оружия!!!\n"
 "Накладывает 3 заклинания, которые пробивают все обычные щиты на выбранном "
 "отсеке, нанося 1 ед. урона.\n"
 "\tЗадержка наложения: 20 секунд\n"
@@ -4945,10 +4958,11 @@ msgid ""
 msgstr "[Противок. болт]"
 
 #: src-en/data/blueprints.xml.append:8786
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_06\"]/desc"
 msgstr ""
+"!!!Должно быть снаряжено для экипажа сектантов Вампсорняков или для "
+"заклинательного оружия!!!\n"
 "Накладывает заклинание, которое пробивает все обычные щиты на выбранном "
 "отсеке, нанося 3 урона корпусу, но не нанося урона системе и экипажу.\n"
 "\tЗадержка наложения заклинания: 10 секунд\n"
@@ -4971,10 +4985,11 @@ msgid ""
 msgstr "[Варп]"
 
 #: src-en/data/blueprints.xml.append:8810
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_07\"]/desc"
 msgstr ""
+"!!!Должно быть снаряжено для экипажа сектантов Вампсорняков или для "
+"заклинательного оружия!!!\n"
 "Накладывает в текущем отсеке заклинание, которое перемещает всех членов "
 "экипажа в случайный отсек на другой корабль.\n"
 "\tЗадержка наложения заклинания: 6 секунд\n"
@@ -4996,10 +5011,11 @@ msgid ""
 msgstr "[Варп-болт]"
 
 #: src-en/data/blueprints.xml.append:8833
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_08\"]/desc"
 msgstr ""
+"!!!Должно быть снаряжено для экипажа сектантов Вампсорняков или для "
+"заклинательного оружия!!!\n"
 "Накладывает заклинание, которое пробивает все щиты в выбранном отсеке и "
 "переносит весь экипаж в этом отсеке в случайный отсек на противоположном "
 "корабле\n"
@@ -5022,10 +5038,11 @@ msgid ""
 msgstr "[Исцел. болт]"
 
 #: src-en/data/blueprints.xml.append:8856
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_09\"]/desc"
 msgstr ""
+"!!!Должно быть снаряжено для экипажа сектантов Вампсорняков или для "
+"заклинательного оружия!!!\n"
 "Накладывает заклинание, пробивающее все щиты на выбранный отсек и исцеляющее "
 "всех дружественных экипажей на 75 ОЗ.\n"
 "\tЗадержка наложения: 2 секунды\n"
@@ -5048,10 +5065,11 @@ msgid ""
 msgstr "[Исцел. аура]"
 
 #: src-en/data/blueprints.xml.append:8880
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_10\"]/desc"
 msgstr ""
+"!!!Должно быть снаряжено для экипажа сектантов Вампсорняков или для "
+"заклинательного оружия!!!\n"
 "Накладывает на текущий отсек заклинание, которое исцеляет всех дружественных "
 "экипажей в отсеке на 45 ОЗ.\n"
 "\tЗадержка наложения заклинания: 5 секунд\n"
@@ -5073,10 +5091,11 @@ msgid ""
 msgstr "[Дрон]"
 
 #: src-en/data/blueprints.xml.append:8903
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_11\"]/desc"
 msgstr ""
+"!!!Должно быть снаряжено для экипажа сектантов Вампсорняков или для "
+"заклинательного оружия!!!\n"
 "Порождает консервативный боевой дрон возле вражеского корабля.\n"
 "\tНакладывает задержку: 10 секунд\n"
 "\tВремя зарядки: 20 секунд\n"
@@ -5098,10 +5117,11 @@ msgid ""
 msgstr "[Барьер]"
 
 #: src-en/data/blueprints.xml.append:8927
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_12\"]/desc"
 msgstr ""
+"!!!Должно быть снаряжено для экипажа сектантов Вампсорняков или для "
+"заклинательного оружия!!!\n"
 "Накладывает заклинание, которое пробивает все обычные щиты на выбранном "
 "отсеке, порождает барьер, способный блокировать 2 снаряда. Не может быть "
 "одновременно активно более 8 барьеров.\n"
@@ -5125,10 +5145,11 @@ msgid ""
 msgstr "[Блокировка]"
 
 #: src-en/data/blueprints.xml.append:8951
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_13\"]/desc"
 msgstr ""
+"!!!Должно быть снаряжено для экипажа сектантов Вампсорняков или для "
+"заклинательного оружия!!!\n"
 "Накладывает на выбранный отсек заклинание, которое пробивает все обычные "
 "щиты и запирает отсек.\n"
 "\tЗадержка наложения: 4 секунды\n"
@@ -5151,10 +5172,11 @@ msgid ""
 msgstr "[Союзник]"
 
 #: src-en/data/blueprints.xml.append:8975
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_14\"]/desc"
 msgstr ""
+"!!!Должно быть снаряжено для экипажа сектантов Вампсорняков или для "
+"заклинательного оружия!!!\n"
 "Накладывает заклинание, пробивающее все обычные щиты на выбранном отсеке, в "
 "котором появляется случайный союзник.\n"
 "\tЗадержка наложения заклинания: 7 секунд\n"
@@ -5177,10 +5199,11 @@ msgid ""
 msgstr "[Болт разума]"
 
 #: src-en/data/blueprints.xml.append:8999
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_15\"]/desc"
 msgstr ""
+"!!!Должно быть снаряжено для экипажа сектантов Вампсорняков или для "
+"заклинательного оружия!!!\n"
 "Накладывает на выбранный отсек заклинание, пробивающее все обычные щиты и "
 "контролирующее разум противника в течение 20 секунд.\n"
 "\tЗадержка наложения заклинания: 8 секунд\n"
@@ -7069,15 +7092,14 @@ msgid ""
 msgstr "Вспомогательные щиты"
 
 #: src-en/data/blueprints.xml.append:11521
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//systemBlueprint[@name=\"aea_super_shields\"]/desc"
 msgstr ""
-"Генерирует слои суперщита. Несовместим с маскировкой. Использует навык "
+"Генерирует слои Суперщита. Несовместим с маскировкой. Использует навык "
 "обслуживания щитов экипажа.\n"
 "\n"
 "Может быть разогнан, чтобы мгновенно генерировать щиты до максимального "
-"уровня, но при этом становится заблокированным на 25 секунд."
+"уровня, но при этом становится заблокированным на 20 секунд."
 
 #: src-en/data/blueprints.xml.append:11548
 msgid ""
@@ -7878,10 +7900,11 @@ msgid ""
 msgstr "Невероятный"
 
 #: src-en/data/blueprints.xml.append:13335
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_JUSTICE_2\"]/desc"
-msgstr "Этот корабль совершенно лишен какого-либо описания!"
+msgstr ""
+"При поддержке двух энджи Еретиков голод Темного Бога можно утолить с помощью "
+"нежити."
 
 #: src-en/data/blueprints.xml.append:13416
 msgid ""
@@ -7894,10 +7917,11 @@ msgid ""
 msgstr "Дисциплинарный"
 
 #: src-en/data/blueprints.xml.append:13418
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_JUSTICE_3\"]/desc"
-msgstr "Этот корабль совершенно лишен какого-либо описания!"
+msgstr ""
+"Благодаря мощным устройствам контроля разума этот корабль способен приносить "
+"в жертву врагов, а не союзников."
 
 #: src-en/data/blueprints.xml.append:13500
 msgid ""
