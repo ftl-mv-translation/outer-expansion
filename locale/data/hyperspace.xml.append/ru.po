@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-15 12:05+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-16 12:49+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -1641,7 +1641,6 @@ msgid ""
 msgstr "РИТУАЛ"
 
 #: src-en/data/hyperspace.xml.append:6936
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
@@ -1649,8 +1648,8 @@ msgstr ""
 "определенных местах, чтобы вызвать различные эффекты. Экипаж, выживший после "
 "участия в ритуале, будет ослаблен и потеряет 25% скорости передвижения на 5 "
 "прыжков.\n"
-"Щелкните левой кнопкой мыши, чтобы выбрать экипаж для жертвоприношения.\n"
-"Щелкните правой кнопкой мыши, чтобы провести ритуал или отменить его."
+"\t\tЩелкните левой кнопкой мыши, чтобы выбрать экипаж для жертвоприношения.\n"
+"\t\tЩелкните правой кнопкой мыши, чтобы провести ритуал или отменить его."
 
 #: src-en/data/hyperspace.xml.append:8923
 msgid ""
@@ -1823,52 +1822,52 @@ msgstr "ЗАКЛИНАНИЯ"
 #: src-en/data/hyperspace.xml.append:9594
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_WEAPONS\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ВНЕШНЕЕ РАСШИРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:9612
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_WEAPONS\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ВНЕШНЕЕ РАСШИРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:9633
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_DRONES\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ВНЕШНЕЕ РАСШИРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:9651
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_DRONES\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ВНЕШНЕЕ РАСШИРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:9672
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_BOTH\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ВНЕШНЕЕ РАСШИРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:9690
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_BOTH\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ВНЕШНЕЕ РАСШИРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:9711
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_LYLMIK\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ЛИЛМИК"
 
 #: src-en/data/hyperspace.xml.append:9729
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_LYLMIK\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ЛИЛМИК"
 
 #: src-en/data/hyperspace.xml.append:9750
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_LOOT\"]/category[1]/customTitle"
-msgstr ""
+msgstr "ЛИЛМИК"
 
 #: src-en/data/hyperspace.xml.append:9768
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_LOOT\"]/category[2]/customTitle"
-msgstr ""
+msgstr "ЛИЛМИК"
 
 #: src-en/data/hyperspace.xml.append:9823
 msgid ""
@@ -2119,173 +2118,196 @@ msgstr "Ренегат побежден"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[2]/section[1]/@text"
-msgstr ""
+msgstr "Блага Сеста (OE)"
 
 #: src-en/data/hyperspace.xml.append:9918
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_ACID\"]/name"
-msgstr ""
+msgstr "Благо роста"
 
 #: src-en/data/hyperspace.xml.append:9919
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_ACID\"]/secretDescription"
-msgstr ""
+msgstr "Получите благо роста от Сеста."
 
 #: src-en/data/hyperspace.xml.append:9920
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_ACID\"]/description"
 msgstr ""
+"Покажите элитный или редкий кислотный экипаж Сесту. \n"
+"\t\t\t\tПока действует; кислотный экипаж исцеляется в два раза быстрее и не "
+"может быть оглушен."
 
 #: src-en/data/hyperspace.xml.append:9922
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_ACID\"]/header"
-msgstr ""
+msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:9927
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_BIRD\"]/name"
-msgstr ""
+msgstr "Благо перьев"
 
 #: src-en/data/hyperspace.xml.append:9928
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_BIRD\"]/secretDescription"
-msgstr ""
+msgstr "Получите благо перьев от Сеста."
 
 #: src-en/data/hyperspace.xml.append:9929
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_BIRD\"]/description"
 msgstr ""
+"Покажите элитный или редкий экипаж ги Сесту. \n"
+"\t\t\t\tПока действует; экипаж ги получает дополнительно 0.25x к скорости "
+"ремонта."
 
 #: src-en/data/hyperspace.xml.append:9931
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_BIRD\"]/header"
-msgstr ""
+msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:9936
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CULT\"]/name"
-msgstr ""
+msgstr "Благо поклонения"
 
 #: src-en/data/hyperspace.xml.append:9937
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CULT\"]/secretDescription"
-msgstr ""
+msgstr "Получите благо поклонения от Сеста."
 
 #: src-en/data/hyperspace.xml.append:9938
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CULT\"]/description"
 msgstr ""
+"Покажите элитный или редкий экипаж сектантов Сесту. \n"
+"\t\t\t\tПока действует;, Вампсорняки сектанты наносят на 25% больше урона в "
+"дальнем бою."
 
 #: src-en/data/hyperspace.xml.append:9940
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CULT\"]/header"
-msgstr ""
+msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:9945
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_NECRO\"]/name"
-msgstr ""
+msgstr "Благо воскрешения"
 
 #: src-en/data/hyperspace.xml.append:9946
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_NECRO\"]/secretDescription"
-msgstr ""
+msgstr "Получите благо воскрешения от Сеста."
 
 #: src-en/data/hyperspace.xml.append:9947
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_NECRO\"]/description"
 msgstr ""
+"Покажите элитный или редкий экипаж Еретиков Сесту. \n"
+"\t\t\t\tПока действует; получайте 1 рой нанитов при каждом прыжке."
 
 #: src-en/data/hyperspace.xml.append:9949
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_NECRO\"]/header"
-msgstr ""
+msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:9954
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHARD\"]/name"
-msgstr ""
+msgstr "Благо сокрушения"
 
 #: src-en/data/hyperspace.xml.append:9955
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHARD\"]/secretDescription"
-msgstr ""
+msgstr "Получите благо сокрушения от Сеста."
 
 #: src-en/data/hyperspace.xml.append:9956
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHARD\"]/description"
 msgstr ""
+"Покажите элитный или редкий экипаж осколкорожденных Сесту. \n"
+"\t\t\t\tПока действует; осколкорожденные наносят на 25% больше урона при "
+"саботаже."
 
 #: src-en/data/hyperspace.xml.append:9958
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHARD\"]/header"
-msgstr ""
+msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:9963
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHLEG\"]/name"
-msgstr ""
+msgstr "Благо моллюсков"
 
 #: src-en/data/hyperspace.xml.append:9964
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHLEG\"]/secretDescription"
-msgstr ""
+msgstr "Получите благо моллюсков от Сеста."
 
 #: src-en/data/hyperspace.xml.append:9965
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHLEG\"]/description"
 msgstr ""
+"Покажите экипаж Анархистов Сесту. \n"
+"\t\t\t\tПока действует; ракушки Анархисты получают иммунитет к контролю "
+"разума, а слизни Анархистов - 10% сопротивления урону."
 
 #: src-en/data/hyperspace.xml.append:9967
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHLEG\"]/header"
-msgstr ""
+msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:9972
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_JUSTICE\"]/name"
-msgstr ""
+msgstr "Благо подношений"
 
 #: src-en/data/hyperspace.xml.append:9973
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_JUSTICE\"]/secretName"
-msgstr ""
+msgstr "Благо ???"
 
 #: src-en/data/hyperspace.xml.append:9974
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_JUSTICE\"]/secretDescription"
-msgstr ""
+msgstr "Получите благо ??? от Сеста."
 
 #: src-en/data/hyperspace.xml.append:9975
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_JUSTICE\"]/description"
 msgstr ""
+"Покажите экипаж Темного Юстициария Сесту. \n"
+"\t\t\t\tПока действует; Темный Юстициарий восстанавливает 5 ОЗ/с во время "
+"проведения ритуала."
 
 #: src-en/data/hyperspace.xml.append:9977
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_JUSTICE\"]/header"
-msgstr ""
+msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:9983
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_OLD\"]/name"
-msgstr ""
+msgstr "Благо коагуляции"
 
 #: src-en/data/hyperspace.xml.append:9984
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_OLD\"]/secretName"
-msgstr ""
+msgstr "Благо ???"
 
 #: src-en/data/hyperspace.xml.append:9985
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_OLD\"]/secretDescription"
-msgstr ""
+msgstr "Получите благо ??? от Сеста."
 
 #: src-en/data/hyperspace.xml.append:9986
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_OLD\"]/description"
 msgstr ""
+"Покажите экипаж лилмиков Сесту. \n"
+"\t\t\t\tПока действует; экипаж лилмиков получает 10% бонуса к урону от "
+"каждого вражеского экипажа."
 
 #: src-en/data/hyperspace.xml.append:9988
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_OLD\"]/header"
-msgstr ""
+msgstr "Благо получено"
 
 #: src-en/data/hyperspace.xml.append:9994
 msgid ""
@@ -2347,11 +2369,11 @@ msgstr "Дар получен"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[3]/section/@text"
-msgstr ""
+msgstr "Музыка (OE)"
 
 #: src-en/data/hyperspace.xml.append:10020
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_ACID\"]/name"
-msgstr ""
+msgstr "Кислотный"
 
 #: src-en/data/hyperspace.xml.append:10029
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_NECRO\"]/name"
@@ -2367,15 +2389,15 @@ msgstr "Ги"
 
 #: src-en/data/hyperspace.xml.append:10056
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_SHARD\"]/name"
-msgstr ""
+msgstr "Осколок"
 
 #: src-en/data/hyperspace.xml.append:10065
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_SHLEG\"]/name"
-msgstr ""
+msgstr "Анархия"
 
 #: src-en/data/hyperspace.xml.append:10074
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_JUSTICE\"]/name"
-msgstr ""
+msgstr "Реквием"
 
 #: src-en/data/hyperspace.xml.append:10083
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_OLD_1\"]/name"
@@ -2397,7 +2419,7 @@ msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:10103
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_OLD_3\"]/name"
-msgstr ""
+msgstr "Финал лилмиков"
 
 #: src-en/data/hyperspace.xml.append:10104
 msgid ""
