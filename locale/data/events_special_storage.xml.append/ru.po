@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-15 12:05+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-16 12:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -386,8 +386,8 @@ msgstr ""
 "Вы хотите добавить модификацию Древнее причастие.\n"
 "\t[Эффекты: Вы можете покупать заклинания у пустых маяков]\n"
 "\t\n"
-"\t[Внимание: Это повлияет только на экипаж сектантов. Вы сможете установить "
-"другие вспомогательные и основные модификации после этого]"
+"\t[Предупреждение: Это повлияет только на экипаж сектантов. Вы сможете "
+"установить другие вспомогательные и основные модификации после этого]"
 
 #: src-en/data/events_special_storage.xml.append:316
 msgid ""
@@ -4135,75 +4135,81 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Кислотный рост."
 
 #: src-en/data/events_special_storage.xml.append:3131
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Ги."
 
 #: src-en/data/events_special_storage.xml.append:3136
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice[3]/text"
-msgstr "Лилмик"
+msgstr "Лилмик."
 
 #: src-en/data/events_special_storage.xml.append:3142
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/text"
-msgstr ""
+msgstr "Вы открыли лабораторное меню для: [КИСЛОТНЫЙ РОСТ]"
 
 #: src-en/data/events_special_storage.xml.append:3144
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[@req=\"LAB_AEA_ACID_REPAIR\"]/text"
 msgstr ""
+"Добавлено: Процедуры восстановления повреждений.\n"
+"\t\t[Кислотный экипаж восстанавливает 7.5 ОЗ/с, если он не получал урона в "
+"течении 5 секунд, но ремонтирует только со скоростью 1х]"
 
 #: src-en/data/events_special_storage.xml.append:3149
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[@req=\"LAB_AEA_ACID_SENSOR\"]/text"
 msgstr ""
+"Добавлено: Поляризованные сенсоры.\n"
+"\t\t[Кислотный экипаж получает иммунитет к оглушению]"
 
 #: src-en/data/events_special_storage.xml.append:3154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[@req=\"LAB_AEA_ACID_WEAPON\"]/text"
 msgstr ""
+"Добавлено: Охлаждающие вентили.\n"
+"\t\t[Кислотный экипаж наносит 2x урон в дальнем бою, но теряет 50% ОЗ]"
 
 #: src-en/data/events_special_storage.xml.append:3159
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[4]/text"
-msgstr ""
+msgstr "Добавлено: Ничего"
 
 #: src-en/data/events_special_storage.xml.append:3163
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[5]/text"
-msgstr ""
+msgstr "Осн: Процедуры восстановления повреждений [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:3167
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[6]/text"
-msgstr ""
+msgstr "Осн: Процедуры восстановления повреждений [Цена: 5|]"
 
 #: src-en/data/events_special_storage.xml.append:3171
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[7]/text"
-msgstr ""
+msgstr "Осн: Поляризованные сенсоры. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:3175
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[8]/text"
-msgstr ""
+msgstr "Осн: Поляризованные сенсоры. [Цена: 5{]"
 
 #: src-en/data/events_special_storage.xml.append:3179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[9]/text"
-msgstr ""
+msgstr "Осн: Охлаждающие вентили. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:3183
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[10]/text"
-msgstr ""
+msgstr "Осн: Охлаждающие вентили. [Цена: 20~ 3{]"
 
 #: src-en/data/events_special_storage.xml.append:3187
 msgid ""
@@ -4214,11 +4220,18 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_REPAIR\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию Процедуры восстановления повреждений.\n"
+"\t[Кислотный экипаж восстанавливает 7.5 ОЗ/с, если он не получал урона в "
+"течении 5 секунд, но ремонтирует только со скоростью 1х]\n"
+"\t\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу расы кислотных. Вы также не сможете "
+"деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:3199
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_REPAIR\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 5|]"
 
 #: src-en/data/events_special_storage.xml.append:3201
 msgid ""
@@ -4239,11 +4252,17 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_SENSOR\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию Поляризованные сенсоры.\n"
+"\t[Эффекты: Кислотный экипаж становится невосприимчивым к оглушению]\n"
+"\t\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу расы кислотных. Вы также не сможете "
+"деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:3228
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_SENSOR\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 5{]"
 
 #: src-en/data/events_special_storage.xml.append:3230
 msgid ""
@@ -4264,6 +4283,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_COOLING\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию Охлаждающие вентили.\n"
+"\t[Эффекты: Кислотный экипаж наносит 2x урон в дальнем бою, но теряет 50% ОЗ]"
+"\n"
+"\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу расы кислотных. Вы также не сможете "
+"деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:3258
 #, fuzzy
@@ -4289,57 +4315,66 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:3286
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/text"
-msgstr ""
+msgstr "Вы открыли лабораторное меню для: [ГИ]"
 
 #: src-en/data/events_special_storage.xml.append:3288
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[@req=\"LAB_AEA_BIRD_ESCAPESPEED\"]/text"
 msgstr ""
+"Добавлено: Полет от опасности\n"
+"\t\t[Экипаж ги получает 4х скорость передвижения в присутствии вражеского "
+"экипажа]"
 
 #: src-en/data/events_special_storage.xml.append:3293
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[@req=\"LAB_AEA_BIRD_AUTODESTROY\"]/text"
 msgstr ""
+"Добавлено: Авто разборка\n"
+"\t\t[Экипаж ги наносит урон вражеским дронам и металлическим существам со "
+"скоростью 5 ОЗ/с]"
 
 #: src-en/data/events_special_storage.xml.append:3298
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[@req=\"LAB_AEA_BIRD_SOCIAL\"]/text"
 msgstr ""
+"Добавлено: Социализация.\n"
+"\t\t[Экипаж ги получает 0.25x скорости ремонта и 0.1x боевого урона за "
+"каждого дружественного члена экипажа, находящегося в том же отсеке]"
 
 #: src-en/data/events_special_storage.xml.append:3303
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[4]/text"
-msgstr ""
+msgstr "Добавлено: Ничего"
 
 #: src-en/data/events_special_storage.xml.append:3307
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[5]/text"
-msgstr ""
+msgstr "Осн: Полет от опасности. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:3311
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[6]/text"
-msgstr ""
+msgstr "Осн: Полет от опасности. [Цена: 20~]"
 
 #: src-en/data/events_special_storage.xml.append:3315
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[7]/text"
-msgstr ""
+msgstr "Осн: Авто разборка. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:3319
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[8]/text"
-msgstr ""
+msgstr "Осн: Авто разборка. [Цена: 15~ 3|]"
 
 #: src-en/data/events_special_storage.xml.append:3323
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[9]/text"
-msgstr ""
+msgstr "Осн: Социализация. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:3327
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[10]/text"
-msgstr ""
+msgstr "Осн: Социализация. [Цена: 20~ 3{]"
 
 #: src-en/data/events_special_storage.xml.append:3331
 msgid ""
@@ -4350,11 +4385,18 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_ESCAPESPEED\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию Полет от опасности.\n"
+"\t[Эффекты: Экипаж ги получает 4х скорость передвижения в присутствии "
+"вражеского экипажа]\n"
+"\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу расы кислотных. Вы также не сможете "
+"деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:3343
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_ESCAPESPEED\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 20~]"
 
 #: src-en/data/events_special_storage.xml.append:3345
 msgid ""
@@ -4375,6 +4417,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_AUTODESTROY\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию Авто разборка.\n"
+"\t[Эффекты: Экипаж ги наносит урон вражеским дронам и металлическим "
+"существам со скоростью 5 ОЗ/с]\n"
+"\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу расы кислотных. Вы также не сможете "
+"деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:3372
 #, fuzzy
@@ -4401,6 +4450,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_SOCIAL\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию Социализация.\n"
+"\t[Эффекты: Экипаж ги получает 0.25x скорости ремонта и 0.1x боевого урона "
+"за каждого дружественного члена экипажа, находящегося в том же отсеке]\n"
+"\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу расы кислотных. Вы также не сможете "
+"деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:3403
 #, fuzzy
@@ -4426,57 +4482,66 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:3431
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/text"
-msgstr ""
+msgstr "Вы открыли лабораторное меню для: [ГИ]"
 
 #: src-en/data/events_special_storage.xml.append:3433
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[@req=\"LAB_AEA_OLD_RESOLVE\"]/text"
 msgstr ""
+"Добавлено: Непоколебимая решимость.\n"
+"\t\t[Экипаж лилмиков всегда сохраняет свои базовые показатели ОЗ, урона, "
+"иммунитета, скорости передвижения, скорости клонирования, потери навыков и "
+"скорости исцеления, и они не могут быть переопределены другими силами]"
 
 #: src-en/data/events_special_storage.xml.append:3438
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[@req=\"LAB_AEA_OLD_COMPROMISED\"]/text"
 msgstr ""
+"Добавлено: Взломанные подсистемы.\n"
+"\t\t[Экипаж лилмиков теряет иммунитет, но скорость клонирования возрастает "
+"до 2x, а исцеления - до 4х]"
 
 #: src-en/data/events_special_storage.xml.append:3443
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[@req=\"LAB_AEA_OLD_ELITE\"]/text"
 msgstr ""
+"Добавлено: Элитизм.\n"
+"\t\t[Экипаж лилмиков получает 25 ОЗ за каждую союзную элиту]"
 
 #: src-en/data/events_special_storage.xml.append:3448
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[4]/text"
-msgstr ""
+msgstr "Добавлено: Ничего"
 
 #: src-en/data/events_special_storage.xml.append:3452
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[5]/text"
-msgstr ""
+msgstr "Осн: Непоколебимая решимость. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:3456
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[6]/text"
-msgstr ""
+msgstr "Осн: Непоколебимая решимость. [Цена: 3~ 3{ 3} 3|]"
 
 #: src-en/data/events_special_storage.xml.append:3460
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[7]/text"
-msgstr ""
+msgstr "Осн: Взломанные подсистемы. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:3464
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[8]/text"
-msgstr ""
+msgstr "Осн: Взломанные подсистемы. [Цена: 8|]"
 
 #: src-en/data/events_special_storage.xml.append:3468
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[9]/text"
-msgstr ""
+msgstr "Осн: Элитизм. [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:3472
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[10]/text"
-msgstr ""
+msgstr "Осн: Элитизм. [Цена: 15~ 6}]"
 
 #: src-en/data/events_special_storage.xml.append:3476
 msgid ""
@@ -4487,11 +4552,20 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_RESOLVE\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию Непоколебимая решимость.\n"
+"\t[Эффекты: Экипаж лилмиков всегда сохраняет свои базовые показатели ОЗ, "
+"урона, иммунитета, скорости передвижения, скорости клонирования, потери "
+"навыков и скорости исцеления, и они не могут быть переопределены другими "
+"силами]\n"
+"\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу расы кислотных. Вы также не сможете "
+"деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:3488
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_RESOLVE\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 3~ 3{ 3} 3|]"
 
 #: src-en/data/events_special_storage.xml.append:3490
 msgid ""
@@ -4512,11 +4586,18 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_COMPROMISED\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию Взломанные подсистемы.\n"
+"\t[Эффекты: Экипаж лилмиков теряет иммунитет, но скорость клонирования "
+"возрастает до 2x, а исцеления - до 4х]\n"
+"\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу расы кислотных. Вы также не сможете "
+"деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:3520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_COMPROMISED\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 8|]"
 
 #: src-en/data/events_special_storage.xml.append:3522
 msgid ""
@@ -4537,6 +4618,12 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_ELITE\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию Элитизм.\n"
+"\t[Эффекты: Экипаж лилмиков получает 25 ОЗ за каждую союзную элиту]\n"
+"\t\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу расы лилмиков. Вы также не сможете "
+"деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:3550
 #, fuzzy
