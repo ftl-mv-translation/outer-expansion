@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-15 12:05+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-16 12:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_aea_justicierxml/ru/>\n"
 "Language: ru\n"
@@ -62,15 +62,14 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_aea_justicier.xml:40
-#, fuzzy
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[2]/text"
-msgstr "Прочитать раздел \"Ритуалы крови\"."
+msgstr "Прочитать о \"Ритуалах крови\"."
 
 #: src-en/data/events_special_aea_justicier.xml:44
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[3]/text"
-msgstr "Прочитать раздел \"Ритуалы крови\"."
+msgstr "Прочитать о \"Ритуалах крови\"."
 
 #: src-en/data/events_special_aea_justicier.xml:48
 msgid ""
@@ -86,7 +85,10 @@ msgstr "Прочитать раздел \"Ритуалы нападения\"."
 #, fuzzy
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/text"
-msgstr "Вы обращаетесь к разделу книги, посвященному правилам ритуала."
+msgstr ""
+"Вы обращаетесь к разделу книги, посвященному правилам ритуала.\n"
+"Некоторые ритуалы могут иметь несколько требований, в таком случае "
+"применяется самое слабое из списка."
 
 #: src-en/data/events_special_aea_justicier.xml:69
 msgid ""
