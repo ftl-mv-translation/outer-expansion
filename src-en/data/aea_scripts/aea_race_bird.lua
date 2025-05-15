@@ -219,7 +219,7 @@ script.on_internal_event(Defines.InternalEvents.DRONE_FIRE, function(projectile,
 	local bioAmount = bioDrones[projectile.extend.name]
 	if bioAmount then
 		local random = math.random()
-		if drone.iShipId == 1 and random > 0.66 then return Defines.Chain.CONTINUE end
+		if drone.iShipId == 1 and random > 0.33 then return Defines.Chain.CONTINUE end
 		local shipManager = Hyperspace.ships(projectile.destinationSpace)
 		local crewList = shipManager.vCrewList
 		local crewListEnemy = {}
@@ -248,7 +248,7 @@ script.on_internal_event(Defines.InternalEvents.DRONE_FIRE, function(projectile,
 	local bioAmount = bioBeamDrones[projectile.extend.name]
 	if bioAmount then
 		local random = math.random()
-		if drone.iShipId == 1 and random > 0.66 then return Defines.Chain.CONTINUE end
+		if drone.iShipId == 1 and random > 0.33 then return Defines.Chain.CONTINUE end
 		local shipManager = Hyperspace.ships(projectile.destinationSpace)
 		local crewList = shipManager.vCrewList
 		local crewListEnemy = {}
@@ -412,6 +412,9 @@ script.on_internal_event(Defines.InternalEvents.CREW_LOOP, function(crewmem)
 		local system = shipManager:GetSystemInRoom(crewmem.iRoomId)
 		if system then
 			local speed = birdCrew[crewmem.type]
+			if shipManager:HasAugmentation("BOON_CREW_AEA_BIRD") > 0 then
+				speed = speed + 0.25
+			end
 			if crewmem.iShipId == 1 then
 				speed = speed / 2
 			end

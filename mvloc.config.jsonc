@@ -81,6 +81,7 @@
 		"//powerEffect/buttonText",
 		"//powerEffect/tooltip",
 		"//customStore/category/customTitle",
+		"//mod:findLike/mod-append:category/customTitle",
 		"//mod-append:customShip/crew/*/@name",
 		"//mod:findLike[@type='victories']//name",
 		"//mod:findLike[@type='victories']//description",
@@ -92,6 +93,7 @@
 		"//achievement/header",
 		"//achievement/secretName",
 		"//achievement/secretDescription",
+
 
 		// sector
 		"//sectorDescription/nameList/name",
@@ -127,11 +129,11 @@
     "packaging": {
         "fullOriginal": [
 		    //assets1
-            "https://github.com/ftl-mv-translation/outer-expansion/raw/outer-expansion-english/FTL-Outer-Expansion-7.1.0_-_Assets.zip",
+            "https://github.com/ftl-mv-translation/outer-expansion/raw/outer-expansion-english/FTL-Outer-Expansion-7.1.3_-_Assets.zip",
 			//data
-			"https://github.com/ftl-mv-translation/outer-expansion/raw/outer-expansion-english/FTL-Outer-Expansion-7.1.0_-_Data.zip",
+			"https://github.com/ftl-mv-translation/outer-expansion/raw/outer-expansion-english/FTL-Outer-Expansion-7.1.3_-_Data.zip",
         ],
         "prefix": "Outer-Expansion",
-        "version": "7.1.0"
+        "version": "7.1.3"
     }
 }
