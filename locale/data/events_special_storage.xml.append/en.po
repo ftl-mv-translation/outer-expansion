@@ -4059,19 +4059,19 @@ msgstr "Nevermind, do something else."
 
 #: src-en/data/events_special_storage.xml.append:3087
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/text"
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/text"
 msgstr ""
 "You check what ships are available to be summoned currently. Summoning an MV"
 " boss will take 7{."
 
 #: src-en/data/events_special_storage.xml.append:3089
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[1]/text"
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[1]/text"
 msgstr "Blasphemy C - Drops the Necromancer Drone"
 
 #: src-en/data/events_special_storage.xml.append:3091
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[1]/event/text"
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[1]/event/text"
 msgstr ""
 "You power up the machine to max and watch as a rift opens, shaking the ship "
 "until suddenly it powers off, and a flashing green light followed by a "
@@ -4079,12 +4079,12 @@ msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:3099
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[2]/text"
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[2]/text"
 msgstr "Shard-Forged Auto C - Drops 'Naginata' Beam"
 
 #: src-en/data/events_special_storage.xml.append:3101
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[2]/event/text"
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[2]/event/text"
 msgstr ""
 "You power up the machine to max and watch as a rift opens, shaking the ship "
 "until suddenly it powers off, and a flashing green light followed by a "
@@ -4092,12 +4092,12 @@ msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:3109
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[3]/text"
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[3]/text"
 msgstr "Disorder B - Drops Leviathan Beam"
 
 #: src-en/data/events_special_storage.xml.append:3111
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[3]/event/text"
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[3]/event/text"
 msgstr ""
 "You power up the machine to max and watch as a rift opens, shaking the ship "
 "until suddenly it powers off, and a flashing green light followed by a "
@@ -4105,5 +4105,482 @@ msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:3119
 msgid ""
-"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[4]/text"
+"data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[4]/text"
 msgstr "Nevermind, do something else."
+
+#: src-en/data/events_special_storage.xml.append:3127
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
+"append:choice[1]/text"
+msgstr "Acidic Growth."
+
+#: src-en/data/events_special_storage.xml.append:3131
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
+"append:choice[2]/text"
+msgstr "Gi."
+
+#: src-en/data/events_special_storage.xml.append:3136
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
+"append:choice[3]/text"
+msgstr "Lylmik"
+
+#: src-en/data/events_special_storage.xml.append:3142
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/text"
+msgstr "You are viewing the lab menu for: [ACIDIC GROWTH]"
+
+#: src-en/data/events_special_storage.xml.append:3144
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[@req=\"LAB_AEA_ACID_REPAIR\"]/text"
+msgstr ""
+"Currently Installed: Fracture Repair Procedures.\n"
+"\t\t[Acidic Crew heal 7.5hp/s if unharmed for 5 seconds, but only repair at 1x speed]"
+
+#: src-en/data/events_special_storage.xml.append:3149
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[@req=\"LAB_AEA_ACID_SENSOR\"]/text"
+msgstr ""
+"Currently Installed: Polarized Sensors.\n"
+"\t\t[Acidic Crew become immune to stun]"
+
+#: src-en/data/events_special_storage.xml.append:3154
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[@req=\"LAB_AEA_ACID_WEAPON\"]/text"
+msgstr ""
+"Currently Installed: Cooling Vents.\n"
+"\t\t[Acidic Crew do 2x ranged damage but lose 50% of their hp]"
+
+#: src-en/data/events_special_storage.xml.append:3159
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[4]/text"
+msgstr "Currently Installed: None"
+
+#: src-en/data/events_special_storage.xml.append:3163
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[5]/text"
+msgstr "Pri: Fracture Repair Procedures. [An upgrade is already installed]"
+
+#: src-en/data/events_special_storage.xml.append:3167
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[6]/text"
+msgstr "Pri: Fracture Repair Procedures. [Cost: 5|]"
+
+#: src-en/data/events_special_storage.xml.append:3171
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[7]/text"
+msgstr "Pri: Polarized Sensors. [An upgrade is already installed]"
+
+#: src-en/data/events_special_storage.xml.append:3175
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[8]/text"
+msgstr "Pri: Polarized Sensors. [Cost: 5{]"
+
+#: src-en/data/events_special_storage.xml.append:3179
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[9]/text"
+msgstr "Pri: Cooling Vents. [An upgrade is already installed]"
+
+#: src-en/data/events_special_storage.xml.append:3183
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[10]/text"
+msgstr "Pri: Cooling Vents. [Cost: 20~ 3{]"
+
+#: src-en/data/events_special_storage.xml.append:3187
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[11]/text"
+msgstr "Go back."
+
+#: src-en/data/events_special_storage.xml.append:3194
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_REPAIR\"]/text"
+msgstr ""
+"You are about to install the Fracture Repair Procedures modification.\n"
+"\t[Effects: Acidic Crew heal 7.5hp/s if unharmed for 5 seconds, but only repair at 1x speed]\n"
+"\t\n"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for Acidic crew. You will not be able to deactivate this mod either.]"
+
+#: src-en/data/events_special_storage.xml.append:3199
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_REPAIR\"]/choice[1]/text"
+msgstr "Install the modification. [Cost: 5|]"
+
+#: src-en/data/events_special_storage.xml.append:3201
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_REPAIR\"]/choice[1]/event/text"
+msgstr "You install the modification."
+
+#: src-en/data/events_special_storage.xml.append:3206
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_REPAIR\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:3212
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_REPAIR\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:3223
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_SENSOR\"]/text"
+msgstr ""
+"You are about to install the Polarized Sensors modification.\n"
+"\t[Effects: Acidic Crew become immune to stun]\n"
+"\t\n"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for Acidic crew. You will not be able to deactivate this mod either.]"
+
+#: src-en/data/events_special_storage.xml.append:3228
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_SENSOR\"]/choice[1]/text"
+msgstr "Install the modification. [Cost: 5{]"
+
+#: src-en/data/events_special_storage.xml.append:3230
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_SENSOR\"]/choice[1]/event/text"
+msgstr "You install the modification."
+
+#: src-en/data/events_special_storage.xml.append:3235
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_SENSOR\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:3241
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_SENSOR\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:3253
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_COOLING\"]/text"
+msgstr ""
+"You are about to install the Cooling Vents modification.\n"
+"\t[Effects: Acidic Crew do 2x ranged damage but lose 50% of their hp]\n"
+"\t\n"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for Acidic crew. You will not be able to deactivate this mod either.]"
+
+#: src-en/data/events_special_storage.xml.append:3258
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_COOLING\"]/choice[1]/text"
+msgstr "Install the modification. [Cost: 35~, 4{]."
+
+#: src-en/data/events_special_storage.xml.append:3260
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_COOLING\"]/choice[1]/event/text"
+msgstr "You install the modification."
+
+#: src-en/data/events_special_storage.xml.append:3266
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_COOLING\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:3272
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_COOLING\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:3286
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/text"
+msgstr "You are viewing the lab menu for: [GI]"
+
+#: src-en/data/events_special_storage.xml.append:3288
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[@req=\"LAB_AEA_BIRD_ESCAPESPEED\"]/text"
+msgstr ""
+"Currently Installed: Flight from Danger.\n"
+"\t\t[Gi Crew gain 4x move speed in the presence of enemy crew]"
+
+#: src-en/data/events_special_storage.xml.append:3293
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[@req=\"LAB_AEA_BIRD_AUTODESTROY\"]/text"
+msgstr ""
+"Currently Installed: Auto Disassembly.\n"
+"\t\t[Gi Crew damage enemy drones and metal crew at 5hp/s]"
+
+#: src-en/data/events_special_storage.xml.append:3298
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[@req=\"LAB_AEA_BIRD_SOCIAL\"]/text"
+msgstr ""
+"Currently Installed: Socialization.\n"
+"\t\t[Gi Crew gain 0.25x repair speed and 0.1x combat damage for each friendly crewmember in the same room]"
+
+#: src-en/data/events_special_storage.xml.append:3303
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[4]/text"
+msgstr "Currently Installed: None"
+
+#: src-en/data/events_special_storage.xml.append:3307
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[5]/text"
+msgstr "Pri: Flight from Danger. [An upgrade is already installed]"
+
+#: src-en/data/events_special_storage.xml.append:3311
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[6]/text"
+msgstr "Pri: Flight from Danger. [Cost: 20~]"
+
+#: src-en/data/events_special_storage.xml.append:3315
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[7]/text"
+msgstr "Pri: Auto Disassembly. [An upgrade is already installed]"
+
+#: src-en/data/events_special_storage.xml.append:3319
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[8]/text"
+msgstr "Pri: Auto Disassembly. [Cost: 15~ 3|]"
+
+#: src-en/data/events_special_storage.xml.append:3323
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[9]/text"
+msgstr "Pri: Socialization. [An upgrade is already installed]"
+
+#: src-en/data/events_special_storage.xml.append:3327
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[10]/text"
+msgstr "Pri: Socialization. [Cost: 20~ 3{]"
+
+#: src-en/data/events_special_storage.xml.append:3331
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[11]/text"
+msgstr "Go back."
+
+#: src-en/data/events_special_storage.xml.append:3338
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_ESCAPESPEED\"]/text"
+msgstr ""
+"You are about to install the Flight from Danger modification.\n"
+"\t[Effects: Gi Crew gain 4x move speed in the presence of enemy crew]\n"
+"\t\n"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for Gi crew. You will not be able to deactivate this mod either.]"
+
+#: src-en/data/events_special_storage.xml.append:3343
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_ESCAPESPEED\"]/choice[1]/text"
+msgstr "Install the modification. [Cost: 20~]"
+
+#: src-en/data/events_special_storage.xml.append:3345
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_ESCAPESPEED\"]/choice[1]/event/text"
+msgstr "You install the modification."
+
+#: src-en/data/events_special_storage.xml.append:3350
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_ESCAPESPEED\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:3356
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_ESCAPESPEED\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:3367
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_AUTODESTROY\"]/text"
+msgstr ""
+"You are about to install the Auto Disassembly modification.\n"
+"\t[Effects: Gi Crew damage enemy drones and metal crew at 5hp/s]\n"
+"\t\n"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for Gi crew. You will not be able to deactivate this mod either.]"
+
+#: src-en/data/events_special_storage.xml.append:3372
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_AUTODESTROY\"]/choice[1]/text"
+msgstr "Install the modification. [Cost: 35~, 4{]."
+
+#: src-en/data/events_special_storage.xml.append:3374
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_AUTODESTROY\"]/choice[1]/event/text"
+msgstr "You install the modification."
+
+#: src-en/data/events_special_storage.xml.append:3380
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_AUTODESTROY\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:3386
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_AUTODESTROY\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:3398
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_SOCIAL\"]/text"
+msgstr ""
+"You are about to install the Socialization modification.\n"
+"\t[Effects: Gi Crew gain 0.25x repair speed and 0.1x combat damage for each friendly crewmember in the same room]\n"
+"\t\n"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for Gi crew. You will not be able to deactivate this mod either.]"
+
+#: src-en/data/events_special_storage.xml.append:3403
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_SOCIAL\"]/choice[1]/text"
+msgstr "Install the modification. [Cost: 35~, 4{]."
+
+#: src-en/data/events_special_storage.xml.append:3405
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_SOCIAL\"]/choice[1]/event/text"
+msgstr "You install the modification."
+
+#: src-en/data/events_special_storage.xml.append:3411
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_SOCIAL\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:3417
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_SOCIAL\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:3431
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/text"
+msgstr "You are viewing the lab menu for: [GI]"
+
+#: src-en/data/events_special_storage.xml.append:3433
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[@req=\"LAB_AEA_OLD_RESOLVE\"]/text"
+msgstr ""
+"Currently Installed: Unyielding Resolve.\n"
+"\t\t[Lylmik crew will always retain their base stats of HP, damage, immunities, move speed, clone speed, skill loss and heal speed and these cannot be overridden by external forces]"
+
+#: src-en/data/events_special_storage.xml.append:3438
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[@req=\"LAB_AEA_OLD_COMPROMISED\"]/text"
+msgstr ""
+"Currently Installed: Compromised Subsystems.\n"
+"\t\t[Lylmik Crew lose their immunities but now clone at 2x speed and heal at 4x speed]"
+
+#: src-en/data/events_special_storage.xml.append:3443
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[@req=\"LAB_AEA_OLD_ELITE\"]/text"
+msgstr ""
+"Currently Installed: Elitism.\n"
+"\t\t[Lylmik Crew gain 25hp for each allied elite]"
+
+#: src-en/data/events_special_storage.xml.append:3448
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[4]/text"
+msgstr "Currently Installed: None"
+
+#: src-en/data/events_special_storage.xml.append:3452
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[5]/text"
+msgstr "Pri: Unyielding Resolve. [An upgrade is already installed]"
+
+#: src-en/data/events_special_storage.xml.append:3456
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[6]/text"
+msgstr "Pri: Unyielding Resolve. [Cost: 3~ 3{ 3} 3|]"
+
+#: src-en/data/events_special_storage.xml.append:3460
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[7]/text"
+msgstr "Pri: Compromised Subsystems. [An upgrade is already installed]"
+
+#: src-en/data/events_special_storage.xml.append:3464
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[8]/text"
+msgstr "Pri: Compromised Subsystems. [Cost: 8|]"
+
+#: src-en/data/events_special_storage.xml.append:3468
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[9]/text"
+msgstr "Pri: Elitism. [An upgrade is already installed]"
+
+#: src-en/data/events_special_storage.xml.append:3472
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[10]/text"
+msgstr "Pri: Elitism. [Cost: 15~ 6}]"
+
+#: src-en/data/events_special_storage.xml.append:3476
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[11]/text"
+msgstr "Go back."
+
+#: src-en/data/events_special_storage.xml.append:3483
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_RESOLVE\"]/text"
+msgstr ""
+"You are about to install the Unyielding Resolve modification.\n"
+"\t[Effects: Lylmik crew will always retain their base stats of HP, damage, immunities, move speed, clone speed, skill loss and heal speed and these cannot be overridden by external forces]\n"
+"\t\n"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for Lylmik crew. You will not be able to deactivate this mod either.]"
+
+#: src-en/data/events_special_storage.xml.append:3488
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_RESOLVE\"]/choice[1]/text"
+msgstr "Install the modification. [Cost: 3~ 3{ 3} 3|]"
+
+#: src-en/data/events_special_storage.xml.append:3490
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_RESOLVE\"]/choice[1]/event/text"
+msgstr "You install the modification."
+
+#: src-en/data/events_special_storage.xml.append:3498
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_RESOLVE\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:3504
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_RESOLVE\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:3515
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_COMPROMISED\"]/text"
+msgstr ""
+"You are about to install the Compromised Subsystems modification.\n"
+"\t[Effects: Lylmik Crew lose their immunities but now clone at 2x speed and heal at 4x speed]\n"
+"\t\n"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for Lylmik crew. You will not be able to deactivate this mod either.]"
+
+#: src-en/data/events_special_storage.xml.append:3520
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_COMPROMISED\"]/choice[1]/text"
+msgstr "Install the modification. [Cost: 8|]"
+
+#: src-en/data/events_special_storage.xml.append:3522
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_COMPROMISED\"]/choice[1]/event/text"
+msgstr "You install the modification."
+
+#: src-en/data/events_special_storage.xml.append:3527
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_COMPROMISED\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:3533
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_COMPROMISED\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."
+
+#: src-en/data/events_special_storage.xml.append:3545
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_ELITE\"]/text"
+msgstr ""
+"You are about to install the Elitism modification.\n"
+"\t[Effects: Lylmik Crew gain 25hp for each allied elite]\n"
+"\t\n"
+"\t[Warning: After installing this, you will not be able to install any more primary upgrades for Lylmik crew. You will not be able to deactivate this mod either.]"
+
+#: src-en/data/events_special_storage.xml.append:3550
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_ELITE\"]/choice[1]/text"
+msgstr "Install the modification. [Cost: 35~, 4{]."
+
+#: src-en/data/events_special_storage.xml.append:3552
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_ELITE\"]/choice[1]/event/text"
+msgstr "You install the modification."
+
+#: src-en/data/events_special_storage.xml.append:3558
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_ELITE\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_storage.xml.append:3564
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_ELITE\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind."

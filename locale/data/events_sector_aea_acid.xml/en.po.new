@@ -1,0 +1,4025 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_aea_acid.xml:28
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"FINISH_BEACON_AEA_ACID\"]/choice[1]/text"
+msgstr "Explore."
+
+#: src-en/data/events_sector_aea_acid.xml:32
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"FINISH_BEACON_AEA_ACID\"]/choice[2]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:36
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"FINISH_BEACON_AEA_ACID\"]/choice[3]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:60
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"ENCOUNTER_AEA_ACID_CLEARING\"]/text"
+msgstr ""
+"Its unusual for the Acidic Growth to be found outside of their nebulae. "
+"However it appears to have decided you're a threat and is moving in to "
+"attack!."
+
+#: src-en/data/events_sector_aea_acid.xml:63
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"ENCOUNTER_AEA_ACID_CLEARING\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:72
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"ENCOUNTER_AEA_ACID_PIRATE_CLEARING\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:77
+msgid ""
+"data/events_sector_aea_acid.xml$//textList[@name=\"TEXT_AEA_ACID_PIRATE_CLEARING\"]/text[1]"
+msgstr ""
+"There appears to be a pirate ship nearby. Be on your guard; anyone trying to"
+" hunt in Acidic territory is either formidable or deeply stupid, and in "
+"space, either can be dangerous."
+
+#: src-en/data/events_sector_aea_acid.xml:78
+msgid ""
+"data/events_sector_aea_acid.xml$//textList[@name=\"TEXT_AEA_ACID_PIRATE_CLEARING\"]/text[2]"
+msgstr ""
+"\"We knew anyone foolish enough to try and sneak through an Acidic nebula "
+"would stick to open space. Yield your goods, and we may let you live.\" You "
+"cut the transmission in lieu of a response."
+
+#: src-en/data/events_sector_aea_acid.xml:79
+msgid ""
+"data/events_sector_aea_acid.xml$//textList[@name=\"TEXT_AEA_ACID_PIRATE_CLEARING\"]/text[3]"
+msgstr ""
+"Before you can take a moment's rest from the ever-present nebulas in this "
+"sector, a pirate ship appears behind you and opens fire."
+
+#: src-en/data/events_sector_aea_acid.xml:86
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"ENCOUNTER_AEA_ACID_REBEL_CLEARING\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:91
+msgid ""
+"data/events_sector_aea_acid.xml$//textList[@name=\"TEXT_AEA_ACID_REBEL_CLEARING\"]/text[1]"
+msgstr ""
+"As you arrive at the beacon, a hostile ship immediately registers on your "
+"scanners. You didn't expect to see Rebels extending their reach into the "
+"unknown regions of Acidic territory. Charge the weapons!."
+
+#: src-en/data/events_sector_aea_acid.xml:92
+msgid ""
+"data/events_sector_aea_acid.xml$//textList[@name=\"TEXT_AEA_ACID_REBEL_CLEARING\"]/text[2]"
+msgstr ""
+"You jump into empty space and are relieved to see your sensors blink back to"
+" life. However, you are less pleased to see them immediately register a "
+"Rebel ship on an approach vector!."
+
+#: src-en/data/events_sector_aea_acid.xml:93
+msgid ""
+"data/events_sector_aea_acid.xml$//textList[@name=\"TEXT_AEA_ACID_REBEL_CLEARING\"]/text[3]"
+msgstr ""
+"You receive a message from a nearby ship, \"Looks like our intelligence was "
+"correct! You can't escape us by traveling into unknown territory... No one "
+"can hide from the Rebellion!\""
+
+#: src-en/data/events_sector_aea_acid.xml:97
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"ENCOUNTER_AEA_ACID_ORCHID_CLEARING\"]/text"
+msgstr ""
+"It appears the orchids are taking their duty as the Acidic Growth's only "
+"ally seriously, they move in to take you out."
+
+#: src-en/data/events_sector_aea_acid.xml:100
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"ENCOUNTER_AEA_ACID_ORCHID_CLEARING\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:112
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_REFUGEE_AEA_ACID_MV\"]/text"
+msgstr ""
+"You have encountered a refugee ship drifting in space. It looks as if it was"
+" fleeing the Rebel advance and ran out of fuel. Its distress beacon is "
+"active, but you're not sure anyone is on board."
+
+#: src-en/data/events_sector_aea_acid.xml:114
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_REFUGEE_AEA_ACID_MV\"]/choice[1]/text"
+msgstr "Hail them."
+
+#: src-en/data/events_sector_aea_acid.xml:118
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_REFUGEE_AEA_ACID_MV\"]/choice[2]/text"
+msgstr "Ignore the refugees."
+
+#: src-en/data/events_sector_aea_acid.xml:120
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_REFUGEE_AEA_ACID_MV\"]/choice[2]/event/text"
+msgstr ""
+"You're wary of the refugees but figure it's safe to do something on the "
+"ship."
+
+#: src-en/data/events_sector_aea_acid.xml:122
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_REFUGEE_AEA_ACID_MV\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:126
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_REFUGEE_AEA_ACID_MV\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:135
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"REFUGEE_HAIL_LIST_AEA_ACID_MV\"]/event[2]/text"
+msgstr ""
+"As you hail the refugee ship, an Acidic ship jumps into the system... it was"
+" hunting the refugee ship for sport, and now it has found you instead!."
+
+#: src-en/data/events_sector_aea_acid.xml:138
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"REFUGEE_HAIL_LIST_AEA_ACID_MV\"]/event[2]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:145
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/text"
+msgstr ""
+"The distress call appears to be emanating from a Slug ship caught in open "
+"space by an Acidic vessel. They contact you on emergency frequencies: "
+"\"Pleassse, we'll give you all we have if you sssave ussss!\""
+
+#: src-en/data/events_sector_aea_acid.xml:147
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[1]/text"
+msgstr "Attack the Acidic ship."
+
+#: src-en/data/events_sector_aea_acid.xml:149
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[1]/event/text"
+msgstr "You lock onto the Acidic ship and engage."
+
+#: src-en/data/events_sector_aea_acid.xml:152
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:158
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[2]/text"
+msgstr "Attack the Slug ship."
+
+#: src-en/data/events_sector_aea_acid.xml:160
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[2]/event/text"
+msgstr "You move to finish what the Acidic Growth has started."
+
+#: src-en/data/events_sector_aea_acid.xml:163
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:169
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[3]/text"
+msgstr "Leave the Acidic Growth to its prize. Power up the jump drive."
+
+#: src-en/data/events_sector_aea_acid.xml:171
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[3]/event/text"
+msgstr ""
+"You would think that the slug's greed would end at the Acidic Growth's "
+"borders, but apparently not."
+
+#: src-en/data/events_sector_aea_acid.xml:173
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[3]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:177
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[3]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:185
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_ACIDIC_SURRENDER\"]/event[1]/text"
+msgstr ""
+"It doesn't look like they can stand much more damage. After a few shots, "
+"their ship breaks apart, and you move in to loot the remains."
+
+#: src-en/data/events_sector_aea_acid.xml:189
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_ACIDIC_SURRENDER\"]/event[2]/text"
+msgstr ""
+"The Slug captain hails you: \"A missstake! A sssimple misstake. Of courssse "
+"we can pay you! Ssseee? An augmentation has already been transssported.\" "
+"You allow them to leave with their lives."
+
+#: src-en/data/events_sector_aea_acid.xml:224
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/text"
+msgstr ""
+"A large Acidic vessel is sitting dormant. After a moment, it hails you, "
+"offering the services of one of them in return for scrap."
+
+#: src-en/data/events_sector_aea_acid.xml:228
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[1]/text"
+msgstr "Accept the offer."
+
+#: src-en/data/events_sector_aea_acid.xml:230
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[1]/event/text"
+msgstr ""
+"You send over your scrap, and shortly thereafter a strange battle drone "
+"arrives at your ship. It appears the Acidic Growth has appropriated the "
+"technology for its own transportation."
+
+#: src-en/data/events_sector_aea_acid.xml:234
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[1]/event/crewMember"
+msgstr "Acidic Soldier"
+
+#: src-en/data/events_sector_aea_acid.xml:236
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:242
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[@req=\"aea_acid_friendly\"]/text"
+msgstr "(Friendly) Accept the discounted offer."
+
+#: src-en/data/events_sector_aea_acid.xml:244
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[@req=\"aea_acid_friendly\"]/event/text"
+msgstr ""
+"You send over your scrap, and shortly thereafter a strange battle drone "
+"arrives at your ship. It appears the Acidic Growth has appropriated the "
+"technology for its own transportation."
+
+#: src-en/data/events_sector_aea_acid.xml:248
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[@req=\"aea_acid_friendly\"]/event/crewMember"
+msgstr "Acidic Soldier"
+
+#: src-en/data/events_sector_aea_acid.xml:250
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[@req=\"aea_acid_friendly\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:256
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[3]/text"
+msgstr "Attack!."
+
+#: src-en/data/events_sector_aea_acid.xml:258
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[3]/event/text"
+msgstr "Instead of replying, you power your weapons and engage the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:261
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[3]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:267
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[4]/text"
+msgstr "No thanks."
+
+#: src-en/data/events_sector_aea_acid.xml:269
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[4]/event/text"
+msgstr "The Acidic vessel returns to its dormant state."
+
+#: src-en/data/events_sector_aea_acid.xml:271
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[4]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:275
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[4]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:282
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_MYSTERIOUS_TECH\"]/text"
+msgstr ""
+"You're hailed by a Hektar ship hiding deep in this nebula. \"Hello captain, "
+"that issss one fine vesssel. However, we have sssome tech that we asssure "
+"you will make your ssship even better!\""
+
+#: src-en/data/events_sector_aea_acid.xml:286
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_MYSTERIOUS_TECH\"]/choice[1]/text"
+msgstr "Purchase their tech for 15 scrap."
+
+#: src-en/data/events_sector_aea_acid.xml:290
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_MYSTERIOUS_TECH\"]/choice[2]/text"
+msgstr "No thanks."
+
+#: src-en/data/events_sector_aea_acid.xml:292
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_MYSTERIOUS_TECH\"]/choice[2]/event/text"
+msgstr "The Slug cuts comms and slinks away deeper into the nebula."
+
+#: src-en/data/events_sector_aea_acid.xml:294
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_MYSTERIOUS_TECH\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:298
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_MYSTERIOUS_TECH\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:306
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_MYSTERIOUS_TECH_PURCHASE\"]/event[1]/text"
+msgstr ""
+"\"Enjoy! And remember, no refundsss!\" The Slugs beam after having installed"
+" a strange red button on your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:313
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_MYSTERIOUS_TECH_PURCHASE\"]/event[2]/text"
+msgstr ""
+"Even though you paid the money to the Slugs, you're surprised when you find "
+"they have actually upgraded your reactor, without any tricks!."
+
+#: src-en/data/events_sector_aea_acid.xml:322
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/text"
+msgstr ""
+"You're hailed by an Acidic ship, \"We wish to test one of our new designs. "
+"However, we require a weapon to combine with our own technology. Please "
+"provide one for us, and we will return it to you after our tests.\""
+
+#: src-en/data/events_sector_aea_acid.xml:325
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_1\"]/text"
+msgstr "Hand over your Defense Laser."
+
+#: src-en/data/events_sector_aea_acid.xml:327
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_1\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:330
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:336
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_2\"]/text"
+msgstr "Hand over your Burst Laser MK I."
+
+#: src-en/data/events_sector_aea_acid.xml:338
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_2\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:341
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:347
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN\"]/text"
+msgstr "Hand over your Chain Burst Laser."
+
+#: src-en/data/events_sector_aea_acid.xml:349
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:352
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:358
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN\"]/text"
+msgstr "Hand over your Charge Laser MK I."
+
+#: src-en/data/events_sector_aea_acid.xml:360
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:363
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:369
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGE_CHAIN\"]/text"
+msgstr "Hand over your Laser Chainger."
+
+#: src-en/data/events_sector_aea_acid.xml:371
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGE_CHAIN\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:374
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGE_CHAIN\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:380
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_1\"]/text"
+msgstr "Hand over your Heavy Laser MK I."
+
+#: src-en/data/events_sector_aea_acid.xml:382
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_1\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:385
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:391
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_PIERCE\"]/text"
+msgstr "Hand over your Piercing Heavy Laser."
+
+#: src-en/data/events_sector_aea_acid.xml:393
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_PIERCE\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:396
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_PIERCE\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:402
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_CHAINGUN\"]/text"
+msgstr "Hand over your Chain Heavy Laser."
+
+#: src-en/data/events_sector_aea_acid.xml:404
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_CHAINGUN\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:407
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_CHAINGUN\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:413
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_STUN\"]/text"
+msgstr "Hand over your Neural Laser."
+
+#: src-en/data/events_sector_aea_acid.xml:415
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_STUN\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:418
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_STUN\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:424
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_1\"]/text"
+msgstr "Hand over your Anti-Hull Laser MK I."
+
+#: src-en/data/events_sector_aea_acid.xml:426
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_1\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:429
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:435
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_CHAINGUN\"]/text"
+msgstr "Hand over your Chain Anti-Hull Laser."
+
+#: src-en/data/events_sector_aea_acid.xml:437
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_CHAINGUN\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:440
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_CHAINGUN\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:446
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_LIGHT\"]/text"
+msgstr "Hand over your Light Laser MK I."
+
+#: src-en/data/events_sector_aea_acid.xml:448
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_LIGHT\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:451
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_LIGHT\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:457
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PARTICLE\"]/text"
+msgstr "Hand over your Particle Accelerator MK I."
+
+#: src-en/data/events_sector_aea_acid.xml:459
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PARTICLE\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:462
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PARTICLE\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:469
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_3\"]/text"
+msgstr "Hand over your Burst Laser MK II."
+
+#: src-en/data/events_sector_aea_acid.xml:471
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_3\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:474
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_3\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:480
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN_2\"]/text"
+msgstr "Hand over your Charge Laser MK II."
+
+#: src-en/data/events_sector_aea_acid.xml:482
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN_2\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:485
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:491
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_2\"]/text"
+msgstr "Hand over your Heavy Laser MK II."
+
+#: src-en/data/events_sector_aea_acid.xml:493
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_2\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:496
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:502
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_2\"]/text"
+msgstr "Hand over your Anti-Hull Laser MK II."
+
+#: src-en/data/events_sector_aea_acid.xml:504
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_2\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:507
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:513
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN_DAMAGE\"]/text"
+msgstr "Hand over your Adaptive Laser."
+
+#: src-en/data/events_sector_aea_acid.xml:515
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN_DAMAGE\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:518
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN_DAMAGE\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:524
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_LIGHT_2\"]/text"
+msgstr "Hand over your Light Laser MK II."
+
+#: src-en/data/events_sector_aea_acid.xml:526
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_LIGHT_2\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:529
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_LIGHT_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:535
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PIERCE\"]/text"
+msgstr "Hand over your Pierce Laser MK I."
+
+#: src-en/data/events_sector_aea_acid.xml:537
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PIERCE\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:540
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PIERCE\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:546
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_FROST_1\"]/text"
+msgstr "Hand over your Frost Laser MK I."
+
+#: src-en/data/events_sector_aea_acid.xml:548
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_FROST_1\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:551
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_FROST_1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:557
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PARTICLE_2\"]/text"
+msgstr "Hand over your Particle Accelerator MK II."
+
+#: src-en/data/events_sector_aea_acid.xml:559
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PARTICLE_2\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:562
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PARTICLE_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:569
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_5\"]/text"
+msgstr "Hand over your Burst Laser MK III."
+
+#: src-en/data/events_sector_aea_acid.xml:571
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_5\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:574
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_5\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:580
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN_3\"]/text"
+msgstr "Hand over your Charge Laser MK III."
+
+#: src-en/data/events_sector_aea_acid.xml:582
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN_3\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:585
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN_3\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:591
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_3\"]/text"
+msgstr "Hand over your Heavy Laser MK III."
+
+#: src-en/data/events_sector_aea_acid.xml:593
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_3\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:596
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_3\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:602
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_3\"]/text"
+msgstr "Hand over your Anti-Hull Laser MK III."
+
+#: src-en/data/events_sector_aea_acid.xml:604
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_3\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:607
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_3\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:613
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN_2\"]/text"
+msgstr "Hand over your Chain Vulcan."
+
+#: src-en/data/events_sector_aea_acid.xml:615
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN_2\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:618
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:624
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[28]/text"
+msgstr "Hand over your Pierce Laser MK II."
+
+#: src-en/data/events_sector_aea_acid.xml:626
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[28]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:629
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[28]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:635
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[29]/text"
+msgstr "Hand over your Pierce Laser MK II."
+
+#: src-en/data/events_sector_aea_acid.xml:637
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[29]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:640
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[29]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:646
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_FROST_2\"]/text"
+msgstr "Hand over your Frost Laser MK II."
+
+#: src-en/data/events_sector_aea_acid.xml:648
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_FROST_2\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:651
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_FROST_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:658
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_PARTICLE\"]/text"
+msgstr "Hand over your Particle Beam."
+
+#: src-en/data/events_sector_aea_acid.xml:660
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_PARTICLE\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:663
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_PARTICLE\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:669
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_LONG\"]/text"
+msgstr "Hand over your 'Pike' Beam."
+
+#: src-en/data/events_sector_aea_acid.xml:671
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_LONG\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:674
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_LONG\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:680
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_2\"]/text"
+msgstr "Hand over your 'Halberd' Beam."
+
+#: src-en/data/events_sector_aea_acid.xml:682
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_2\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:685
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:691
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_ADAPT\"]/text"
+msgstr "Hand over your 'Suyari' Beam."
+
+#: src-en/data/events_sector_aea_acid.xml:693
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_ADAPT\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:696
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_ADAPT\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:702
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_HULL\"]/text"
+msgstr "Hand over your 'Lucerne' Beam."
+
+#: src-en/data/events_sector_aea_acid.xml:704
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_HULL\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:707
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_HULL\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:713
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_STUN\"]/text"
+msgstr "Hand over your 'Partisan' Beam."
+
+#: src-en/data/events_sector_aea_acid.xml:715
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_STUN\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:718
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_STUN\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:724
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_PIERCE\"]/text"
+msgstr "Hand over your 'Guisarme' Beam."
+
+#: src-en/data/events_sector_aea_acid.xml:726
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_PIERCE\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:729
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_PIERCE\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:735
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_MINING\"]/text"
+msgstr "Hand over your Mining Beam."
+
+#: src-en/data/events_sector_aea_acid.xml:737
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_MINING\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:740
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_MINING\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:747
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_2\"]/text"
+msgstr "Hand over your Ion Barrage MK I."
+
+#: src-en/data/events_sector_aea_acid.xml:749
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_2\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:752
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:758
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_3\"]/text"
+msgstr "Hand over your Ion Barrage MK III."
+
+#: src-en/data/events_sector_aea_acid.xml:760
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_3\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:763
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_3\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:769
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_4\"]/text"
+msgstr "Hand over your Ion Barrage MK III."
+
+#: src-en/data/events_sector_aea_acid.xml:771
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_4\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:774
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_4\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:780
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_HEAVY\"]/text"
+msgstr "Hand over your Heavy Ion."
+
+#: src-en/data/events_sector_aea_acid.xml:782
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_HEAVY\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:785
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_HEAVY\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:791
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_TRI\"]/text"
+msgstr "Hand over your Tri-Ion."
+
+#: src-en/data/events_sector_aea_acid.xml:793
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_TRI\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:796
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_TRI\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:802
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_CHAINGUN\"]/text"
+msgstr "Hand over your Adaptive Ion."
+
+#: src-en/data/events_sector_aea_acid.xml:804
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_CHAINGUN\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:807
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_CHAINGUN\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:813
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_CHARGEGUN\"]/text"
+msgstr "Hand over your Ion Charger."
+
+#: src-en/data/events_sector_aea_acid.xml:815
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_CHARGEGUN\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:818
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_CHARGEGUN\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:824
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_2\"]/text"
+msgstr "Hand over your Stunner MK II."
+
+#: src-en/data/events_sector_aea_acid.xml:826
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_2\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:829
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:835
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_HEAVY\"]/text"
+msgstr "Hand over your Heavy Stunner."
+
+#: src-en/data/events_sector_aea_acid.xml:837
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_HEAVY\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:840
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_HEAVY\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:846
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_CHARGEGUN\"]/text"
+msgstr "Hand over your Charge Stunner."
+
+#: src-en/data/events_sector_aea_acid.xml:848
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_CHARGEGUN\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:851
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_CHARGEGUN\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:857
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_PIERCE_2\"]/text"
+msgstr "Hand over your Phaser MK II."
+
+#: src-en/data/events_sector_aea_acid.xml:859
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_PIERCE_2\"]/event/text"
+msgstr ""
+"You send off the weapon, wondering just what the Acidic Growth will return."
+
+#: src-en/data/events_sector_aea_acid.xml:862
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_PIERCE_2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:869
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[50]/text"
+msgstr "We aren't able to supply a suitable weapon."
+
+#: src-en/data/events_sector_aea_acid.xml:871
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[50]/event/text"
+msgstr ""
+"\"Unfortunate.\" The acidic vessel drifts away, disappearing into the "
+"nebula."
+
+#: src-en/data/events_sector_aea_acid.xml:873
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[50]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:877
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[50]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:886
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE_RESULT_L1\"]/event/text"
+msgstr ""
+"A short while later you receive your weapon back. It appears to have been "
+"extensively modified by the Acidic Growth."
+
+#: src-en/data/events_sector_aea_acid.xml:889
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE_RESULT_L1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:897
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE_RESULT_L2\"]/event/text"
+msgstr ""
+"A short while later you receive your weapon back. It appears to have been "
+"extensively modified by the Acidic Growth."
+
+#: src-en/data/events_sector_aea_acid.xml:900
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE_RESULT_L2\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:908
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE_RESULT_L3\"]/event/text"
+msgstr ""
+"A short while later you receive your weapon back. It appears to have been "
+"extensively modified by the Acidic Growth."
+
+#: src-en/data/events_sector_aea_acid.xml:911
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE_RESULT_L3\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:919
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE_RESULT_B1\"]/event/text"
+msgstr ""
+"A short while later you receive your weapon back. It appears to have been "
+"extensively modified by the Acidic Growth."
+
+#: src-en/data/events_sector_aea_acid.xml:922
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE_RESULT_B1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:930
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE_RESULT_I1\"]/event/text"
+msgstr ""
+"A short while later you receive your weapon back. It appears to have been "
+"extensively modified by the Acidic Growth."
+
+#: src-en/data/events_sector_aea_acid.xml:933
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE_RESULT_I1\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:940
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WRECK\"]/text"
+msgstr ""
+"You arrive at the beacon to find strange wreck floating nearby.\n"
+"\n"
+"The wreck is relatively intact. However, it appears to have been riddled with holes."
+
+#: src-en/data/events_sector_aea_acid.xml:945
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WRECK\"]/choice[1]/text"
+msgstr "Examine the wreck."
+
+#: src-en/data/events_sector_aea_acid.xml:949
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WRECK\"]/choice[2]/text"
+msgstr "Ignore it."
+
+#: src-en/data/events_sector_aea_acid.xml:951
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WRECK\"]/choice[2]/event/text"
+msgstr "You let the wreck drift away into the nebula."
+
+#: src-en/data/events_sector_aea_acid.xml:953
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WRECK\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:957
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WRECK\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:966
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WRECK_RWEAP\"]/text"
+msgstr ""
+"You dock with the wreck and find it completely devoid of life. There is, "
+"however, an undamaged weapon cache in the cargo hold. You bring it back and "
+"find a pristine weapon inside."
+
+#: src-en/data/events_sector_aea_acid.xml:971
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_WRECK_LIST\"]/event[3]/text"
+msgstr ""
+"Just as you're about to dock with the wreck, a vessel jumps to the beacon. "
+"It appears to be the vessel responsible for creating this mess."
+
+#: src-en/data/events_sector_aea_acid.xml:974
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_WRECK_LIST\"]/event[3]/choice/text"
+msgstr "Defend yourself!."
+
+#: src-en/data/events_sector_aea_acid.xml:976
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_WRECK_LIST\"]/event[3]/choice/event/text"
+msgstr ""
+"You're prepared for the attack as the Acidic vessel immediately initiates an"
+" attack on your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:979
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_WRECK_LIST\"]/event[3]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:998
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORKIDS\"]/text"
+msgstr ""
+"You arrive at the beacon to discover an Orchid vessel lying dormant nearby. "
+"It's safe to bet the ship is most likely carrying some special tech. If you "
+"can kill the Orchid crew onboard, the cargo will be yours."
+
+#: src-en/data/events_sector_aea_acid.xml:1002
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORKIDS\"]/choice[1]/text"
+msgstr "Demand the surrender of their goods."
+
+#: src-en/data/events_sector_aea_acid.xml:1004
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORKIDS\"]/choice[1]/event/text"
+msgstr "You prepare to secure the cargo by force."
+
+#: src-en/data/events_sector_aea_acid.xml:1007
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORKIDS\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1013
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORKIDS\"]/choice[2]/text"
+msgstr "Avoid the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1015
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORKIDS\"]/choice[2]/event/text"
+msgstr "The ship stays outside your weapons' range and eventually jumps away."
+
+#: src-en/data/events_sector_aea_acid.xml:1017
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORKIDS\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1021
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORKIDS\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:1033
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"An unvisited location. This beacon is located within the Acidic Growth, "
+"which may be detrimental to the health of your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1034
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_aea_acid.xml:1035
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_aea_acid.xml:1039
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/text"
+msgstr ""
+"You've arrived at the beacon to discover an Acidic Vessel being repaired. It"
+" appears to be unarmed and out of action at the moment. The crew repairing "
+"the ship hasn't spotted you yet."
+
+#: src-en/data/events_sector_aea_acid.xml:1043
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[1]/text"
+msgstr "Salvage the vessel."
+
+#: src-en/data/events_sector_aea_acid.xml:1045
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[1]/event/text"
+msgstr ""
+"You dock with the vessel; however, the airlock fails to open. It appears "
+"that the Acidic ship has a security system onboard. It'll take a minute to "
+"bypass..."
+
+#: src-en/data/events_sector_aea_acid.xml:1048
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[1]/event/triggeredEvent[1]/triggeredEventBox/tooltip"
+msgstr "Bypassing Security System..."
+
+#: src-en/data/events_sector_aea_acid.xml:1056
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[2]/text"
+msgstr "Leave the Acidic ship alone."
+
+#: src-en/data/events_sector_aea_acid.xml:1058
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[2]/event/text"
+msgstr "You show no interest in the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1060
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1064
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:1071
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_TIME\"]/text"
+msgstr ""
+"You finally make it through and begin salvaging the vessel. You're surprised"
+" when you discover an orchid, seemingly trapped onboard. \"Who are you- "
+"Nevermind, just get me out of here. I thought I was going to die. I think "
+"they forgot I was onboard and accidentally locked me in here. Please just "
+"take me with you.\""
+
+#: src-en/data/events_sector_aea_acid.xml:1074
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_TIME\"]/choice[1]/text"
+msgstr "Rescue the orchid."
+
+#: src-en/data/events_sector_aea_acid.xml:1077
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_TIME\"]/choice[1]/event/text"
+msgstr ""
+"You bring the orchid back to your ship after finishing up the salvage "
+"operation."
+
+#: src-en/data/events_sector_aea_acid.xml:1081
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_TIME\"]/choice[2]/text"
+msgstr "Leave the orchid behind."
+
+#: src-en/data/events_sector_aea_acid.xml:1083
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_TIME\"]/choice[2]/event/text"
+msgstr ""
+"You finish salvaging what you can and leave the orchid, hopefully the Acidic"
+" Growth will remember it has them onboard before they starves to death."
+
+#: src-en/data/events_sector_aea_acid.xml:1088
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_BOARD\"]/text"
+msgstr ""
+"While you were attempting to break into the Acidic vessel, the repair crew "
+"has broken into yours!."
+
+#: src-en/data/events_sector_aea_acid.xml:1092
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/text"
+msgstr ""
+"Right in the middle of an ion storm, you find a strange shipyard. It appears"
+" to be operated by the Acidic Growth. However, they aren't hostile. Perhaps "
+"you'll be able to make a deal with them."
+
+#: src-en/data/events_sector_aea_acid.xml:1095
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[1]/text"
+msgstr "Attack the shipyard!."
+
+#: src-en/data/events_sector_aea_acid.xml:1097
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[1]/event/text"
+msgstr ""
+"For some reason you have decided to attack the makeshift shipyard. Though "
+"the facility is unarmed, one of their vessels rises to meet you and defend "
+"them."
+
+#: src-en/data/events_sector_aea_acid.xml:1100
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1106
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[2]/text"
+msgstr "Pay them to upgrade your oxygen system."
+
+#: src-en/data/events_sector_aea_acid.xml:1108
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[2]/event/text"
+msgstr ""
+"The Acidic Growth quickly installs the upgrades to your oxygen system, "
+"making it now capable of both healing and extinguishing fires, depending on "
+"the setting."
+
+#: src-en/data/events_sector_aea_acid.xml:1116
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[3]/text"
+msgstr "Ignore the shipyard."
+
+#: src-en/data/events_sector_aea_acid.xml:1118
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[3]/event/text"
+msgstr "You decide to move past the makeshift shipyard."
+
+#: src-en/data/events_sector_aea_acid.xml:1120
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[3]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1124
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[3]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:1150
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK\"]/text"
+msgstr "A nearby Acidic vessel appears to be abandoned."
+
+#: src-en/data/events_sector_aea_acid.xml:1153
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK\"]/choice[1]/text"
+msgstr "Investigate the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1155
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK\"]/choice[1]/event/text"
+msgstr ""
+"The Slugs welcome you onboard, giving you a tour of their ship. It's "
+"actually rather nice, and you don't see any illegal contraband either. They "
+"offer you a glass of juice from some alien fruit, have a toast for your new "
+"friendship, and then return back to your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1157
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1163
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK\"]/choice[2]/text"
+msgstr "Ignore it."
+
+#: src-en/data/events_sector_aea_acid.xml:1165
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK\"]/choice[2]/event/text"
+msgstr ""
+"You turn away from the vessel, thinking that this probably isn't worth the "
+"risk. Instead you collect some supplies floating nearby."
+
+#: src-en/data/events_sector_aea_acid.xml:1168
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1172
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:1180
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK_INVEST\"]/event[1]/text"
+msgstr ""
+"You find the ship devoid of almost anything except for a few crates of fuel."
+
+#: src-en/data/events_sector_aea_acid.xml:1184
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK_INVEST\"]/event[2]/text"
+msgstr ""
+"As you move closer to the vessel, some kind of hidden trap goes off, your engines are knocked out, and now you're dead in the water.\n"
+"\n"
+"    To make matters worse, you just manage to detect a series of large asteroids heading your way. You'll have to take them out before they get to you."
+
+#: src-en/data/events_sector_aea_acid.xml:1190
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK_INVEST\"]/event[2]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1195
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK_INVEST\"]/event[3]/text"
+msgstr ""
+"As you move closer to the vessel, some kind of hidden trap goes off, your engines are knocked out, and now you're dead in the water.\n"
+"\n"
+"    To make matters worse, you just manage to detect a series of large asteriods heading your way. You'll have to take them out before they get to you."
+
+#: src-en/data/events_sector_aea_acid.xml:1201
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK_INVEST\"]/event[3]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1208
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_REFUGEE_AEA_ACID\"]/text"
+msgstr ""
+"Your sensors have picked up a refugee ship drifting through the system, no "
+"doubt one of many fleeing the Rebel advance. It doesn't appear to have "
+"detected you... or else it is trying to avoid notice."
+
+#: src-en/data/events_sector_aea_acid.xml:1211
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_REFUGEE_AEA_ACID\"]/choice[1]/text"
+msgstr "Hail them."
+
+#: src-en/data/events_sector_aea_acid.xml:1215
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_REFUGEE_AEA_ACID\"]/choice[2]/text"
+msgstr "Ignore the refugees."
+
+#: src-en/data/events_sector_aea_acid.xml:1217
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_REFUGEE_AEA_ACID\"]/choice[2]/event/text"
+msgstr ""
+"You're wary of the refugees but figure it's safe to do something on the "
+"ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1219
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_REFUGEE_AEA_ACID\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1223
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_REFUGEE_AEA_ACID\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:1232
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"REFUGEE_HAIL_LIST_AEA_ACID\"]/event[2]/text"
+msgstr ""
+"As you hail the refugee ship, a Slug ship jumps into the system... it was "
+"hunting the refugee ship for sport, and now they've found you instead!."
+
+#: src-en/data/events_sector_aea_acid.xml:1235
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"REFUGEE_HAIL_LIST_AEA_ACID\"]/event[2]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1244
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"An unvisited location. This beacon is located within the Acidic Growth, "
+"which may be detrimental to the health of your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1245
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_aea_acid.xml:1246
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_aea_acid.xml:1252
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/text"
+msgstr ""
+"Strangely, an Orchid captain hails you from an Acidic vessel. \"Captain, you"
+" wouldn't happen to have any Acidic Growth with you? We'd offer a reward for"
+" you to turn over any of it to be destroyed\"\""
+
+#: src-en/data/events_sector_aea_acid.xml:1255
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/choice[@req=\"aea_acid_soldier\"]/text"
+msgstr "(Acidic Soldier) Take up their offer."
+
+#: src-en/data/events_sector_aea_acid.xml:1257
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/choice[@req=\"aea_acid_soldier\"]/event/text"
+msgstr ""
+"You send over your Acidic Soldier, the orchids make true to their promise "
+"and exterminate the Acidic Growth inside. The Orchids send over the reward "
+"as promised."
+
+#: src-en/data/events_sector_aea_acid.xml:1261
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/choice[@req=\"aea_acid_soldier\"]/event/removeCrew/text"
+msgstr ""
+"Fortunately, your crewmember was immediately revived by the Clone Bay."
+
+#: src-en/data/events_sector_aea_acid.xml:1266
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/choice[2]/text"
+msgstr "Avenge the Acidic Growth."
+
+#: src-en/data/events_sector_aea_acid.xml:1268
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/choice[2]/event/text"
+msgstr ""
+"Although technically not murders, these orchids are abusing their "
+"relationship with the Acidic Growth to go around and exterminate them."
+
+#: src-en/data/events_sector_aea_acid.xml:1271
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1282
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"An unvisited location. This beacon is located within the Acidic Growth, "
+"which may be detrimental to the health of your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1283
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_aea_acid.xml:1284
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_aea_acid.xml:1290
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/text"
+msgstr ""
+"You are immediately hailed by a dangerous-looking Acidic ship guarding a "
+"station. \"You are not welcome here. Choose your punishment and prepare to "
+"die.\""
+
+#: src-en/data/events_sector_aea_acid.xml:1292
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"shields\""
+" and @lvl=\"2\"]/text"
+msgstr "Shields."
+
+#: src-en/data/events_sector_aea_acid.xml:1294
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"shields\""
+" and @lvl=\"2\"]/event/text"
+msgstr ""
+"\"Offer is acceptable.\" Your shield power suddenly drops and they charge."
+
+#: src-en/data/events_sector_aea_acid.xml:1298
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"shields\""
+" and @lvl=\"2\"]/event/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1302
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"shields\""
+" and @lvl=\"2\"]/event/choice[@req=\"ANTI_VIRUS\"]/text"
+msgstr "(Anti-Virus) Restore your shields."
+
+#: src-en/data/events_sector_aea_acid.xml:1304
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"shields\""
+" and @lvl=\"2\"]/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
+msgstr "Your shield system is restored to full power."
+
+#: src-en/data/events_sector_aea_acid.xml:1307
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"shields\""
+" and @lvl=\"2\"]/event/choice[@req=\"ANTI_VIRUS\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1315
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"shields\""
+" and @lvl=\"0\"]/text"
+msgstr "Shields."
+
+#: src-en/data/events_sector_aea_acid.xml:1319
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"weapons\""
+" and @lvl=\"2\"]/text"
+msgstr "Weapons."
+
+#: src-en/data/events_sector_aea_acid.xml:1321
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"weapons\""
+" and @lvl=\"2\"]/event/text"
+msgstr ""
+"\"An acceptable offering.\" Your weapons system registers a hacking module. "
+"You hardly have time to respond before they attack."
+
+#: src-en/data/events_sector_aea_acid.xml:1325
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"weapons\""
+" and @lvl=\"2\"]/event/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1329
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"weapons\""
+" and @lvl=\"2\"]/event/choice[@req=\"ANTI_VIRUS\"]/text"
+msgstr "(Anti-Virus) Restore your weapons."
+
+#: src-en/data/events_sector_aea_acid.xml:1331
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"weapons\""
+" and @lvl=\"2\"]/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
+msgstr "Your weapon system is restored to full power."
+
+#: src-en/data/events_sector_aea_acid.xml:1334
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"weapons\""
+" and @lvl=\"2\"]/event/choice[@req=\"ANTI_VIRUS\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1342
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"weapons\""
+" and @lvl=\"0\"]/text"
+msgstr "Weapons."
+
+#: src-en/data/events_sector_aea_acid.xml:1346
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"oxygen\""
+" and @lvl=\"1\"]/text"
+msgstr "Oxygen."
+
+#: src-en/data/events_sector_aea_acid.xml:1348
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"oxygen\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"\"It will suffice...\" Your life support is sabotaged and they move in to "
+"attack."
+
+#: src-en/data/events_sector_aea_acid.xml:1352
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"oxygen\""
+" and @lvl=\"1\"]/event/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1356
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"oxygen\""
+" and @lvl=\"1\"]/event/choice[@req=\"ANTI_VIRUS\"]/text"
+msgstr "(Anti-Virus) Restore your oxygen."
+
+#: src-en/data/events_sector_aea_acid.xml:1358
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"oxygen\""
+" and @lvl=\"1\"]/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
+msgstr "Your oxygen system is restored to full power."
+
+#: src-en/data/events_sector_aea_acid.xml:1361
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"oxygen\""
+" and @lvl=\"1\"]/event/choice[@req=\"ANTI_VIRUS\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1369
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"oxygen\""
+" and @lvl=\"0\"]/text"
+msgstr "Oxygen."
+
+#: src-en/data/events_sector_aea_acid.xml:1373
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"pilot\"]/text"
+msgstr "Offer 35 scrap."
+
+#: src-en/data/events_sector_aea_acid.xml:1375
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"pilot\"]/event/text"
+msgstr "\"An acceptable punishment.\" They take the scrap and leave."
+
+#: src-en/data/events_sector_aea_acid.xml:1382
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"hacking\"]/text"
+msgstr "(Hacking) Counter any hack attempt."
+
+#: src-en/data/events_sector_aea_acid.xml:1384
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"hacking\"]/event/text"
+msgstr ""
+"\"It appears there will be no Punishment.\" They cut transmission and move "
+"in to attack."
+
+#: src-en/data/events_sector_aea_acid.xml:1388
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"hacking\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1396
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/text"
+msgstr ""
+"You arrive to find a small automatic Acidic repair yard. You could probably "
+"try to sneak in and hope it repairs you for free. It also appears like you "
+"could pay for some repairs."
+
+#: src-en/data/events_sector_aea_acid.xml:1399
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[1]/text"
+msgstr "Sneak into the queue."
+
+#: src-en/data/events_sector_aea_acid.xml:1403
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[2]/text"
+msgstr "Purchase 10 hull repair for 30 scrap."
+
+#: src-en/data/events_sector_aea_acid.xml:1405
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[2]/event/text"
+msgstr ""
+"You perform the transaction and watch carefully as the machines patch the "
+"hull. However, everything seems fine. Once they're complete you get ready to"
+" jump."
+
+#: src-en/data/events_sector_aea_acid.xml:1413
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[3]/text"
+msgstr "Avoid the repair yard."
+
+#: src-en/data/events_sector_aea_acid.xml:1415
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[3]/event/text"
+msgstr "You prepare to jump."
+
+#: src-en/data/events_sector_aea_acid.xml:1417
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[3]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1421
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[3]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:1429
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[1]/text"
+msgstr ""
+"Just as you think you're about to get a free repair job an Acidic ship moves"
+" out of the queue behind you and activates their weapons."
+
+#: src-en/data/events_sector_aea_acid.xml:1432
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[1]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1437
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[2]/text"
+msgstr "You make it to the front of the line and recieve a free repair."
+
+#: src-en/data/events_sector_aea_acid.xml:1440
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[2]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1442
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[2]/choice/event/text"
+msgstr ""
+"Just as you think you're about to get away with it you're intercepted by an "
+"Acidic vessel from the other end of the queue."
+
+#: src-en/data/events_sector_aea_acid.xml:1445
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[2]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1452
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[3]/text"
+msgstr "You make it to the front of the line and recieve a free repair."
+
+#: src-en/data/events_sector_aea_acid.xml:1455
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[3]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1457
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[3]/choice/event/text"
+msgstr ""
+"Just as you think you're about to get away with it you're intercepted by an "
+"Acidic vessel from the other end of the queue."
+
+#: src-en/data/events_sector_aea_acid.xml:1460
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[3]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1462
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[3]/choice/event/choice/event/text"
+msgstr ""
+"However the vessel just continues to fly on past you, it looks like they "
+"weren't intercepting to after all."
+
+#: src-en/data/events_sector_aea_acid.xml:1471
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORCHID\"]/text"
+msgstr ""
+"A rogue ship awaits you at the beacon. \"Laborers for cheap! We have oxygen "
+"emitters and those advanced Acidic droids, come take a look!\""
+
+#: src-en/data/events_sector_aea_acid.xml:1475
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORCHID\"]/choice[1]/text"
+msgstr "Piracy is despicable. Attack the slavers!."
+
+#: src-en/data/events_sector_aea_acid.xml:1477
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORCHID\"]/choice[1]/event/text"
+msgstr "You attack the slavers."
+
+#: src-en/data/events_sector_aea_acid.xml:1480
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORCHID\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1486
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORCHID\"]/choice[2]/text"
+msgstr "Buy a slave."
+
+#: src-en/data/events_sector_aea_acid.xml:1490
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORCHID\"]/choice[@req=\"LIST_CREW_CARETAKER\"]/text"
+msgstr "(Caretaker Crew) Appeal to the pirates' better interests."
+
+#: src-en/data/events_sector_aea_acid.xml:1494
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORCHID\"]/choice[4]/text"
+msgstr "Decline."
+
+#: src-en/data/events_sector_aea_acid.xml:1496
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORCHID\"]/choice[4]/event/text"
+msgstr "You don't bother engaging the slaver."
+
+#: src-en/data/events_sector_aea_acid.xml:1498
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORCHID\"]/choice[4]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1502
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORCHID\"]/choice[4]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:1510
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_SLAVES\"]/event[1]/text"
+msgstr ""
+"\"Thanks for your purchase! May your paths be blessed by whatever stupid "
+"plant god these things believe in!\""
+
+#: src-en/data/events_sector_aea_acid.xml:1516
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_SLAVES\"]/event[1]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1521
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_SLAVES\"]/event[2]/text"
+msgstr ""
+"\"Thanks for your purchase! May this robot thing help you in whatever you're"
+" doing out here!\""
+
+#: src-en/data/events_sector_aea_acid.xml:1522
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_SLAVES\"]/event[2]/crewMember"
+msgstr "Acidic Soldier"
+
+#: src-en/data/events_sector_aea_acid.xml:1527
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_SLAVES\"]/event[2]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1532
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_SLAVES\"]/event[3]/text"
+msgstr ""
+"\"Thanks for your purchase! May your paths be blessed by whatever stupid "
+"plant god these things believe in!\""
+
+#: src-en/data/events_sector_aea_acid.xml:1538
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_SLAVES\"]/event[3]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1545
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER_FAIL\"]/text"
+msgstr ""
+"The slavers watch your Orchid's signing in bored bemusement. \"Yeah, yeah, "
+"that's great and all, but I missed the part where I was supposed to care. "
+"I'm not in this business because I give a damn about morals, if you didn't "
+"notice. If you're not going to buy something, get lost.\""
+
+#: src-en/data/events_sector_aea_acid.xml:1547
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER_FAIL\"]/choice[1]/text"
+msgstr "Attack the slavers!."
+
+#: src-en/data/events_sector_aea_acid.xml:1549
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER_FAIL\"]/choice[1]/event/text"
+msgstr ""
+"If you can't convince these slavers to end their trade, then you'll "
+"forcefully end it yourself."
+
+#: src-en/data/events_sector_aea_acid.xml:1552
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER_FAIL\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1558
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER_FAIL\"]/choice[2]/text"
+msgstr "Change your mind and buy a slave."
+
+#: src-en/data/events_sector_aea_acid.xml:1562
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER_FAIL\"]/choice[3]/text"
+msgstr "Leave."
+
+#: src-en/data/events_sector_aea_acid.xml:1564
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER_FAIL\"]/choice[3]/event/text"
+msgstr "You've wasted enough time here."
+
+#: src-en/data/events_sector_aea_acid.xml:1570
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER\"]/event[3]/text"
+msgstr ""
+"To your surprise, your Orchid's message seems to touch the pirates. Or maybe"
+" not... seems they're just annoyed. \"Jeez, okay! I get it, you're people "
+"too, bla bla bla. I know the gist. If I'm rude you'll just kill me. I've met"
+" Renegades before. Just take the damn plant and leave me alone.\" The "
+"slavers unshackle one of the Orchids and send them your way. Your Caretaker "
+"sees to it they adjust to their newfound freedom."
+
+#: src-en/data/events_sector_aea_acid.xml:1574
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER\"]/event[4]/text"
+msgstr ""
+"To your surprise, your Orchid's message seems to touch the pirates. Or maybe"
+" not... seems they're just annoyed. \"Jeez, okay! I get it, you're people "
+"too, bla bla bla. I know the gist. If I'm rude you'll just kill me. I've met"
+" Renegades before. Just take this damn robot and leave me alone.\" The "
+"slavers deliver one of the Acidic soldier to your."
+
+#: src-en/data/events_sector_aea_acid.xml:1592
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_IMPORTANT_PRISONER\"]/text"
+msgstr ""
+"An Acidic Elite appears to be protecting a small Orchid Jailer. You aren't "
+"certain why, but surely something important must be kept in there?."
+
+#: src-en/data/events_sector_aea_acid.xml:1596
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_IMPORTANT_PRISONER\"]/choice[1]/text"
+msgstr "Attack the elite to get to the Jailer."
+
+#: src-en/data/events_sector_aea_acid.xml:1598
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_IMPORTANT_PRISONER\"]/choice[1]/event/text"
+msgstr ""
+"The Jailer ship slinks back while the much stronger Elite moves to fight "
+"you."
+
+#: src-en/data/events_sector_aea_acid.xml:1601
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_IMPORTANT_PRISONER\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1607
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_IMPORTANT_PRISONER\"]/choice[2]/text"
+msgstr "Ignore the two ships."
+
+#: src-en/data/events_sector_aea_acid.xml:1609
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_IMPORTANT_PRISONER\"]/choice[2]/event/text"
+msgstr "Not too long after the ships disappear into the nebula."
+
+#: src-en/data/events_sector_aea_acid.xml:1611
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_IMPORTANT_PRISONER\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1615
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_IMPORTANT_PRISONER\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:1625
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"An unvisited location. This beacon is located within the Acidic Growth, "
+"which may be detrimental to the health of your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1626
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_aea_acid.xml:1627
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_aea_acid.xml:1634
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/text"
+msgstr ""
+"You arrive at the scene to find a small Acidic vessel being chased down by "
+"an Elite Slug ship. \"We will join crew, in exchange you destroy pursuers?\""
+
+#: src-en/data/events_sector_aea_acid.xml:1636
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/choice[1]/text"
+msgstr "Welcome it aboard."
+
+#: src-en/data/events_sector_aea_acid.xml:1638
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/choice[1]/event/text"
+msgstr "You pickup the Acidic Leader and turn to face the Elite Slug vessel."
+
+#: src-en/data/events_sector_aea_acid.xml:1639
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/choice[1]/event/crewMember"
+msgstr "Acidic Leader"
+
+#: src-en/data/events_sector_aea_acid.xml:1642
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1648
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/choice[2]/text"
+msgstr "Leave them be."
+
+#: src-en/data/events_sector_aea_acid.xml:1650
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/choice[2]/event/text"
+msgstr ""
+"You fly away, leaving the Acidic vessel to fend for itself. The Acidic "
+"growth can't really die anyway, right?."
+
+#: src-en/data/events_sector_aea_acid.xml:1652
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1656
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:1664
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WEAPONCACHE\"]/text"
+msgstr ""
+"You arrive at the beacon to discover a drifting weapon cache. In the "
+"distance however is an approaching Acidic Vessel. You have enough time to "
+"fly away and avoid a fight, or you could risk the fight and grab one of the "
+"weapons."
+
+#: src-en/data/events_sector_aea_acid.xml:1668
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WEAPONCACHE\"]/choice[1]/text"
+msgstr "Grab a weapon."
+
+#: src-en/data/events_sector_aea_acid.xml:1670
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WEAPONCACHE\"]/choice[1]/event/text"
+msgstr ""
+"You're able to access the cache, however you only have enough time to grab "
+"one weapon before being forced to fight."
+
+#: src-en/data/events_sector_aea_acid.xml:1674
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WEAPONCACHE\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1680
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WEAPONCACHE\"]/choice[2]/text"
+msgstr "Fly away."
+
+#: src-en/data/events_sector_aea_acid.xml:1682
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WEAPONCACHE\"]/choice[2]/event/text"
+msgstr "You fly away, leaving the Acidic ship to the cache."
+
+#: src-en/data/events_sector_aea_acid.xml:1684
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WEAPONCACHE\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1688
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WEAPONCACHE\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:1709
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/text"
+msgstr ""
+"You arrive at the beacon to discover a rock ship adrift at the beacon. It's "
+"unusual to see the Rockment out this far, and even more unusually this one "
+"has ran out of fuel."
+
+#: src-en/data/events_sector_aea_acid.xml:1713
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[1]/text"
+msgstr "Supply them with fuel."
+
+#: src-en/data/events_sector_aea_acid.xml:1715
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[1]/event/text"
+msgstr ""
+"You hand over some of your fuel, The rockmen cautiously take the fuel before"
+" repaying you with scrap."
+
+#: src-en/data/events_sector_aea_acid.xml:1723
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[2]/text"
+msgstr "Attack them."
+
+#: src-en/data/events_sector_aea_acid.xml:1725
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[2]/event/text"
+msgstr "You power on your weapons and engage the Rockmen."
+
+#: src-en/data/events_sector_aea_acid.xml:1728
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1734
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[3]/text"
+msgstr "Ignore them."
+
+#: src-en/data/events_sector_aea_acid.xml:1736
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[3]/event/text"
+msgstr "You fly away, leaving the Acidic ship to the cache."
+
+#: src-en/data/events_sector_aea_acid.xml:1738
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[3]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1742
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[3]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:1751
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_TRICK\"]/text"
+msgstr ""
+"You find an Acidic vessel broadcasting the distress signal and contact them."
+" \"You should not be here, prepare to die.\" Apparently the Acidic Growth "
+"has unexpectedly setup a trap for trespassers here."
+
+#: src-en/data/events_sector_aea_acid.xml:1755
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_TRICK\"]/choice[@req=\"aea_acid_friendly\"]/text"
+msgstr "(Friendly) Explain that you're friendly with the Acidic Growth."
+
+#: src-en/data/events_sector_aea_acid.xml:1758
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_TRICK\"]/choice[@req=\"aea_acid_friendly\"]/event/text"
+msgstr ""
+"\"We didn't realize. We are sorry for luring you here under false pretenses."
+" We will compensate you.\""
+
+#: src-en/data/events_sector_aea_acid.xml:1763
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_TRICK\"]/choice[2]/text"
+msgstr "Prepare for Combat!."
+
+#: src-en/data/events_sector_aea_acid.xml:1770
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_QUESTION\"]/text"
+msgstr "You arrive near the distress beacon's signal."
+
+#: src-en/data/events_sector_aea_acid.xml:1773
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_QUESTION\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1779
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[1]/text"
+msgstr ""
+"The beacon's signal is deeper into the the nebula, as you track it you pass "
+"by a pair of wrecks, both with strange burns along the sides."
+
+#: src-en/data/events_sector_aea_acid.xml:1781
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[1]/choice/text"
+msgstr "Investigate."
+
+#: src-en/data/events_sector_aea_acid.xml:1783
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[1]/choice/event/text"
+msgstr ""
+"Finally you find the location of the distress beacon, theres a severely "
+"damage Acidic vessel. As you get closer you're hailed by the sole surviving "
+"occupant of the vessel. \"How many wrecks were there? We're forbidden to "
+"leave until We have confirmation that they're all dead.\""
+
+#: src-en/data/events_sector_aea_acid.xml:1785
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[1]/choice/event/choice[1]/text"
+msgstr "Two."
+
+#: src-en/data/events_sector_aea_acid.xml:1789
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[1]/choice/event/choice[2]/text"
+msgstr "Five."
+
+#: src-en/data/events_sector_aea_acid.xml:1793
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[1]/choice/event/choice[3]/text"
+msgstr "Seven."
+
+#: src-en/data/events_sector_aea_acid.xml:1797
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[1]/choice/event/choice[4]/text"
+msgstr "Ask how many wrecks they're looking for."
+
+#: src-en/data/events_sector_aea_acid.xml:1804
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[2]/text"
+msgstr ""
+"The beacon's signal is deeper into the the nebula, as you track it you pass "
+"by 5 different wrecks, all with strange burns along the sides."
+
+#: src-en/data/events_sector_aea_acid.xml:1806
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[2]/choice/text"
+msgstr "Investigate."
+
+#: src-en/data/events_sector_aea_acid.xml:1808
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[2]/choice/event/text"
+msgstr ""
+"Finally you find the location of the distress beacon, theres a severely "
+"damage Acidic vessel. As you get closer you're hailed by the sole surviving "
+"occupant of the vessel. \"How many wrecks were there? We're forbidden to "
+"leave until We have confirmation that they're all dead.\""
+
+#: src-en/data/events_sector_aea_acid.xml:1810
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[2]/choice/event/choice[1]/text"
+msgstr "Two."
+
+#: src-en/data/events_sector_aea_acid.xml:1814
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[2]/choice/event/choice[2]/text"
+msgstr "Five."
+
+#: src-en/data/events_sector_aea_acid.xml:1818
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[2]/choice/event/choice[3]/text"
+msgstr "Seven."
+
+#: src-en/data/events_sector_aea_acid.xml:1822
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[2]/choice/event/choice[4]/text"
+msgstr "Ask how many wrecks they're looking for."
+
+#: src-en/data/events_sector_aea_acid.xml:1829
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[3]/text"
+msgstr ""
+"The beacon's signal is deeper into the the nebula, as you track it you pass "
+"by seven seperate wrecks, all with strange burns along the sides."
+
+#: src-en/data/events_sector_aea_acid.xml:1831
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[3]/choice/text"
+msgstr "Investigate."
+
+#: src-en/data/events_sector_aea_acid.xml:1833
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[3]/choice/event/text"
+msgstr ""
+"Finally you find the location of the distress beacon, theres a severely "
+"damage Acidic vessel. As you get closer you're hailed by the sole surviving "
+"occupant of the vessel. \"How many wrecks were there? We're forbidden to "
+"leave until We have confirmation that they're all dead.\""
+
+#: src-en/data/events_sector_aea_acid.xml:1835
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[3]/choice/event/choice[1]/text"
+msgstr "Two."
+
+#: src-en/data/events_sector_aea_acid.xml:1839
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[3]/choice/event/choice[2]/text"
+msgstr "Five."
+
+#: src-en/data/events_sector_aea_acid.xml:1843
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[3]/choice/event/choice[3]/text"
+msgstr "Seven."
+
+#: src-en/data/events_sector_aea_acid.xml:1847
+msgid ""
+"data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[3]/choice/event/choice[4]/text"
+msgstr "Ask how many wrecks they're looking for."
+
+#: src-en/data/events_sector_aea_acid.xml:1855
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_DISTRESS_QUESTION_FALSE\"]/text"
+msgstr ""
+"\"That is Unfortunate, we will have to take some of your supplies until the "
+"task is complete.\" The Acidic Soldier quickly beams aboard and takes some "
+"of your supplies before you can react."
+
+#: src-en/data/events_sector_aea_acid.xml:1863
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_DISTRESS_QUESTION_TRUE\"]/text"
+msgstr ""
+"\"We have accomplished our task then. We will join you on your journey.\" "
+"The Acidic Soldier beams aboard and joins your crew!."
+
+#: src-en/data/events_sector_aea_acid.xml:1864
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_DISTRESS_QUESTION_TRUE\"]/crewMember"
+msgstr "Acidic Soldier"
+
+#: src-en/data/events_sector_aea_acid.xml:1867
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_DISTRESS_QUESTION_FAIL\"]/text"
+msgstr ""
+"\"We... can not remember...\" The communications cut out and you're unable "
+"to reaquire it, you decide to cut your losses and salvage some of the wrecks"
+" while your jump drive changes."
+
+#: src-en/data/events_sector_aea_acid.xml:1886
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"An unvisited location. This beacon is located within the Acidic Growth, "
+"which may be detrimental to the health of your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1887
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_aea_acid.xml:1888
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_aea_acid.xml:1894
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/text"
+msgstr ""
+"You arrive at the beacon face to face with an Elite Acidic vessel, they "
+"don't appear to react to your arrival."
+
+#: src-en/data/events_sector_aea_acid.xml:1897
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/text"
+msgstr "Hail the vessel."
+
+#: src-en/data/events_sector_aea_acid.xml:1899
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/text"
+msgstr ""
+"The Acidic Growth explains that they're hunting a vessel trespassing in "
+"their territory. This one ship has managed to evade their capture 3 times "
+"now. They hope that you may be able to track the ship down. If you succeed, "
+"there will be a reward waiting for you."
+
+#: src-en/data/events_sector_aea_acid.xml:1901
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/choice[1]/text"
+msgstr "Agree to hunt down the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1903
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Despite also technically being a trespasser, clearly the Acidic Growth cares"
+" much more about dealing with this other ship. They send you the coordinates"
+" for the last reported location."
+
+#: src-en/data/events_sector_aea_acid.xml:1909
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/choice[2]/text"
+msgstr "Refuse the mission."
+
+#: src-en/data/events_sector_aea_acid.xml:1911
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/choice[2]/event/text"
+msgstr "The Acidic Growth don't seem to care and cut comms."
+
+#: src-en/data/events_sector_aea_acid.xml:1913
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1917
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:1925
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[2]/text"
+msgstr "Fight the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1927
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[2]/event/text"
+msgstr ""
+"For some reason you have decided to tangle with the Acidic Elite. You hurry "
+"to combat positions."
+
+#: src-en/data/events_sector_aea_acid.xml:1930
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1936
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[3]/text"
+msgstr "It's probably a good idea to avoid them."
+
+#: src-en/data/events_sector_aea_acid.xml:1938
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[3]/event/text"
+msgstr ""
+"Tangling with an Acidic Elite is the worst thing you could do. You leave the"
+" ship alone."
+
+#: src-en/data/events_sector_aea_acid.xml:1940
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[3]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1944
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[3]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:1953
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/beaconType/unvisitedTooltip"
+msgstr "The Acidic Growth has asked you to pursue a vessel here."
+
+#: src-en/data/events_sector_aea_acid.xml:1955
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/text"
+msgstr ""
+"You spot the ship in question slinking away into the nebula. You aren't sure"
+" if they noticed you."
+
+#: src-en/data/events_sector_aea_acid.xml:1958
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[1]/text"
+msgstr "Follow them."
+
+#: src-en/data/events_sector_aea_acid.xml:1960
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[1]/event/text"
+msgstr ""
+"The ship tries desperately to shake you, but you won't relent. At last, they"
+" give up and hail you. \"Are you one of them? Please grant us mercy, we're "
+"just trying to escape!\""
+
+#: src-en/data/events_sector_aea_acid.xml:1963
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[1]/event/choice[1]/text"
+msgstr "Ignore their pleas and attack."
+
+#: src-en/data/events_sector_aea_acid.xml:1965
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[1]/event/choice[1]/event/text"
+msgstr "You aren't letting the ship go without a fight."
+
+#: src-en/data/events_sector_aea_acid.xml:1968
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:1974
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[1]/event/choice[2]/text"
+msgstr "Accept their pay."
+
+#: src-en/data/events_sector_aea_acid.xml:1976
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"As they leave you notice a small hidden marking, on closer inspection you "
+"realize it's the marking of an MFK Ace. It seems like the Acidic Growth had "
+"good reason to be hunting this ship. They're gone before you can do "
+"anything."
+
+#: src-en/data/events_sector_aea_acid.xml:1985
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[2]/text"
+msgstr "Forget this, let's leave."
+
+#: src-en/data/events_sector_aea_acid.xml:1987
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[2]/event/text"
+msgstr ""
+"You've lost interest in the reward, and decide not to chase down the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1989
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:1993
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:2000
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT_WIN\"]/text"
+msgstr ""
+"You jump as the Acidic ship comes out of its hiding place in the nebula "
+"before you can even contact them. \"Efficient work, Here is the reward as "
+"promised.\""
+
+#: src-en/data/events_sector_aea_acid.xml:2006
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_QUEST_AEA_ACID_PIRATE_TRAP\"]/text"
+msgstr ""
+"You arrive to the sight of two Slug ships in communication range. They don't"
+" see you."
+
+#: src-en/data/events_sector_aea_acid.xml:2009
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_QUEST_AEA_ACID_PIRATE_TRAP\"]/choice[1]/text"
+msgstr "Tap their comm frequency."
+
+#: src-en/data/events_sector_aea_acid.xml:2011
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_QUEST_AEA_ACID_PIRATE_TRAP\"]/choice[1]/event/text"
+msgstr ""
+"You overhear their conversation and learn they're planning to raid a secret "
+"Acidic base in the area. The pair jump off and you note down their target "
+"co-ordinates."
+
+#: src-en/data/events_sector_aea_acid.xml:2016
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_QUEST_AEA_ACID_PIRATE_TRAP\"]/choice[2]/text"
+msgstr "Ignore them."
+
+#: src-en/data/events_sector_aea_acid.xml:2018
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_QUEST_AEA_ACID_PIRATE_TRAP\"]/choice[2]/event/text"
+msgstr ""
+"You have no interest in anything the Slugs could make business out of. Time "
+"to move on."
+
+#: src-en/data/events_sector_aea_acid.xml:2020
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_QUEST_AEA_ACID_PIRATE_TRAP\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2024
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_QUEST_AEA_ACID_PIRATE_TRAP\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:2033
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"Location of a supposed wealthy pirate targeted by a pair of Slug ships."
+
+#: src-en/data/events_sector_aea_acid.xml:2038
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/text"
+msgstr ""
+"You catch up with the two Slug ships and they're already carrying out their "
+"raid! One is in close combat with an Acidic vessel, the other seems to be "
+"heading for a small space cache the vessel was protecting."
+
+#: src-en/data/events_sector_aea_acid.xml:2040
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2042
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/choice/event/text"
+msgstr ""
+"Suddenly the first ship bursts into flames, and an urgent call arrives from "
+"the remaining Slugs. \"We sssugest you distract the Assidic vesssel while we"
+" retrieve the valuables. Fifty fifty sssplit.\""
+
+#: src-en/data/events_sector_aea_acid.xml:2044
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/choice/event/choice[1]/text"
+msgstr "Engage the Acidic ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2046
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"There's money to be made here. The Slugs know that. You turn on the Acidic "
+"vessel and intercept it just before they can reach the cache!."
+
+#: src-en/data/events_sector_aea_acid.xml:2049
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/choice/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2055
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/choice/event/choice[2]/text"
+msgstr "Head for the cache."
+
+#: src-en/data/events_sector_aea_acid.xml:2057
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"When he sees you making for the cache the Slug captain hails: \"Foolish "
+"alienss, no eye for profit. Bessst of luck to you.\" They jump off, leaving "
+"you toe to toe with the Acidic vessel!."
+
+#: src-en/data/events_sector_aea_acid.xml:2060
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/choice/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2097
+msgid ""
+"data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_ENCOUNTER_AEA_ACID_REGULAR\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2102
+msgid ""
+"data/events_sector_aea_acid.xml$//textList[@name=\"NEBULA_AEA_ACID_FIGHT\"]/text[1]"
+msgstr ""
+"At home in the nebula, you barely have time to react when an Acidic vessel "
+"emerges from astern!."
+
+#: src-en/data/events_sector_aea_acid.xml:2103
+msgid ""
+"data/events_sector_aea_acid.xml$//textList[@name=\"NEBULA_AEA_ACID_FIGHT\"]/text[2]"
+msgstr ""
+"A shiny new Acidic vessel appears in the nebula ahead of you, too bad you're"
+" here to scratch their paint."
+
+#: src-en/data/events_sector_aea_acid.xml:2104
+msgid ""
+"data/events_sector_aea_acid.xml$//textList[@name=\"NEBULA_AEA_ACID_FIGHT\"]/text[3]"
+msgstr ""
+"A strange looking Acidic vessel appears in the nebula, you cautiously "
+"approach unsure of the ships armaments. Luckily the Acidic vessel clears the"
+" air when weapons spring up out of it's hull!."
+
+#: src-en/data/events_sector_aea_acid.xml:2105
+msgid ""
+"data/events_sector_aea_acid.xml$//textList[@name=\"NEBULA_AEA_ACID_FIGHT\"]/text[4]"
+msgstr ""
+"You pickup an Acidic vessel approaching, it looks like this one isn't "
+"bothering with stealth and is just coming out swinging."
+
+#: src-en/data/events_sector_aea_acid.xml:2106
+msgid ""
+"data/events_sector_aea_acid.xml$//textList[@name=\"NEBULA_AEA_ACID_FIGHT\"]/text[5]"
+msgstr ""
+"As you arrive at the beacon, one of the three circling acidic vessels breaks"
+" off to meet you, prepare for battle."
+
+#: src-en/data/events_sector_aea_acid.xml:2113
+msgid ""
+"data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_ENCOUNTER_AEA_ACID_STORM\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2118
+msgid ""
+"data/events_sector_aea_acid.xml$//textList[@name=\"STORM_AEA_ACID_FIGHT\"]/text[1]"
+msgstr ""
+"The ion storm here threatens to deactivate your core systems, a fact made "
+"all the worse for the impressive Acidic ship waiting for you."
+
+#: src-en/data/events_sector_aea_acid.xml:2119
+msgid ""
+"data/events_sector_aea_acid.xml$//textList[@name=\"STORM_AEA_ACID_FIGHT\"]/text[2]"
+msgstr ""
+"You can't help but feel at a disadvantage against the Acidic ship, it seems "
+"almost at home in this ion storm."
+
+#: src-en/data/events_sector_aea_acid.xml:2120
+msgid ""
+"data/events_sector_aea_acid.xml$//textList[@name=\"STORM_AEA_ACID_FIGHT\"]/text[3]"
+msgstr ""
+"You arrive in the middle of an ion storm. You luckily manage to pickup the "
+"Acidic vessel lying in ambush just in time. Prepare for a fight!."
+
+#: src-en/data/events_sector_aea_acid.xml:2121
+msgid ""
+"data/events_sector_aea_acid.xml$//textList[@name=\"STORM_AEA_ACID_FIGHT\"]/text[4]"
+msgstr ""
+"You find yourself stuck in the middle of an ion storm with an Acidic ship "
+"just a short distance away, refusing all hails. You cautiously try to slip "
+"further into the clouds, but they turn suddenly to attack!."
+
+#: src-en/data/events_sector_aea_acid.xml:2127
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_FIGHT\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"An unvisited location. This beacon is located within the Acidic Growth, "
+"which may be detrimental to the health of your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2128
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_FIGHT\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_aea_acid.xml:2129
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_FIGHT\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_aea_acid.xml:2135
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_FIGHT\"]/text"
+msgstr ""
+"This beacon is embed deeply within the Acidic Growth, and as such it's "
+"unsuprising when an Acidic vessel appears from the mist to Attack."
+
+#: src-en/data/events_sector_aea_acid.xml:2138
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_FIGHT\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2146
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_TEST\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"An unvisited location. This beacon is located within the Acidic Growth, "
+"which may be detrimental to the health of your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2147
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_TEST\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_aea_acid.xml:2148
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_TEST\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_aea_acid.xml:2152
+msgid "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_TEST\"]/text"
+msgstr "TEST."
+
+#: src-en/data/events_sector_aea_acid.xml:2154
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_TEST\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2163
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"An unvisited location. This beacon is located within the Acidic Growth, "
+"which may be detrimental to the health of your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2164
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_aea_acid.xml:2165
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_aea_acid.xml:2171
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/text"
+msgstr ""
+"You're surprised to find a ship stranded all the way out here inside of the "
+"Acidic Growth, and move in to provide assistance. When you see the pirate "
+"insignia on the hull you quickly reconsider."
+
+#: src-en/data/events_sector_aea_acid.xml:2174
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/choice[1]/text"
+msgstr "Attack!."
+
+#: src-en/data/events_sector_aea_acid.xml:2176
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/choice[1]/event/text"
+msgstr "You prepare for combat."
+
+#: src-en/data/events_sector_aea_acid.xml:2179
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2185
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/choice[2]/text"
+msgstr "Keep your distance and hope they haven't seen you yet."
+
+#: src-en/data/events_sector_aea_acid.xml:2198
+msgid ""
+"data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/text"
+msgstr ""
+"You hear a shout from your crew and come running. A strange bomb has "
+"detonated in one of the rooms on your ship, poisoning one of your crew. It "
+"appears to have originated from a nearby Acidic vessel. \"Thank you for "
+"testing our weapon, please let us know when your crewmember dies.\""
+
+#: src-en/data/events_sector_aea_acid.xml:2202
+msgid ""
+"data/events_sector_aea_acid.xml$//triggeredEvent[@name=\"TIMER_AEA_ACID_INFECTOR_POISON\"]/triggeredEventBox/tooltip"
+msgstr ""
+"Your crewmember has been poisoned. If you jump away without curing them, "
+"they'll die."
+
+#: src-en/data/events_sector_aea_acid.xml:2208
+msgid ""
+"data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[1]/text"
+msgstr "Attack them, they might have the antidote onboard!."
+
+#: src-en/data/events_sector_aea_acid.xml:2210
+msgid ""
+"data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[1]/event/text"
+msgstr ""
+"You hurry to man the weapons and take the antidote from the Acidic vessel by"
+" force."
+
+#: src-en/data/events_sector_aea_acid.xml:2213
+msgid ""
+"data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2219
+msgid ""
+"data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[2]/text"
+msgstr "Buy the antidote."
+
+#: src-en/data/events_sector_aea_acid.xml:2221
+msgid ""
+"data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[2]/event/text"
+msgstr ""
+"\"Offer is acceptable, it would have been preferable to properly test the "
+"weapon.\""
+
+#: src-en/data/events_sector_aea_acid.xml:2229
+msgid ""
+"data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[@req=\"medbay\"]/text"
+msgstr "(Upg. Medbay) Cure your crew."
+
+#: src-en/data/events_sector_aea_acid.xml:2231
+msgid ""
+"data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[@req=\"medbay\"]/event/text"
+msgstr ""
+"Luckily you're able to treat your crew. The Acidic vessel appears almost "
+"pleased by the news. \"Thank you for testing our weapon, we will use this "
+"data to improve it for the future.\""
+
+#: src-en/data/events_sector_aea_acid.xml:2237
+msgid ""
+"data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[4]/text"
+msgstr "Let your crewmember die of the poison."
+
+#: src-en/data/events_sector_aea_acid.xml:2239
+msgid ""
+"data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[4]/event/text"
+msgstr ""
+"You let the Acidic vessel know of the outcome, it appears pleased by the "
+"results. \"Thank you for testing our weapon, we will use this data to "
+"improve it for the future.\""
+
+#: src-en/data/events_sector_aea_acid.xml:2244
+msgid ""
+"data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[4]/event/removeCrew/text"
+msgstr "Luckily you crew is cloned alive and well."
+
+#: src-en/data/events_sector_aea_acid.xml:2250
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_INFECTOR_DEATH\"]/text"
+msgstr ""
+"Your crew buckles over in pain, gasping for air. Without the antidote "
+"there's nothing you can do but watch them die."
+
+#: src-en/data/events_sector_aea_acid.xml:2253
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_INFECTOR_DEATH\"]/removeCrew/text"
+msgstr ""
+"Luckily you crew is cloned alive and well. Perhaps you should have waiting "
+"around to let the Acidic vessel know of the results."
+
+#: src-en/data/events_sector_aea_acid.xml:2266
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ENCOUNTER_AEA_ACID_HACKER\"]/text"
+msgstr ""
+"The Slug Hackers are surprisingly rare, even in Slug territory. Despite "
+"this, you seem to have had the misfortune to have encountered one at this "
+"beacon."
+
+#: src-en/data/events_sector_aea_acid.xml:2270
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ENCOUNTER_AEA_ACID_HACKER\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2285
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_ENCOUNTER_AEA_ACID_ELITE\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"An unvisited location. This beacon is located within the Acidic Growth, "
+"which may be detrimental to the health of your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2286
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_ENCOUNTER_AEA_ACID_ELITE\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_aea_acid.xml:2287
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_ENCOUNTER_AEA_ACID_ELITE\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_aea_acid.xml:2293
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_ENCOUNTER_AEA_ACID_ELITE\"]/text"
+msgstr ""
+"You find yourself deep within the Acidic Growth at this beacon. The Acidic "
+"Elite here seems to take your intrusion in their territory as an insult, and"
+" have decided to remove you from it."
+
+#: src-en/data/events_sector_aea_acid.xml:2296
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_ENCOUNTER_AEA_ACID_ELITE\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2305
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/text"
+msgstr ""
+"The distress beacon here appears to be broadcasting through a clearing in "
+"the nebula. Following it, you come across a rogue planet drifting through "
+"the abyss. Scans indicate that something has crashed on the surface."
+
+#: src-en/data/events_sector_aea_acid.xml:2309
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
+" and @lvl=\"0\"]/text"
+msgstr "Investigate."
+
+#: src-en/data/events_sector_aea_acid.xml:2313
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
+" and @lvl=\"1\"]/text"
+msgstr "Investigate."
+
+#: src-en/data/events_sector_aea_acid.xml:2317
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/text"
+msgstr "Ignore the wreck."
+
+#: src-en/data/events_sector_aea_acid.xml:2319
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/text"
+msgstr ""
+"Wrecks aren't uncommon out here in the nebula, it isn't worth your time."
+
+#: src-en/data/events_sector_aea_acid.xml:2321
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2325
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:2334
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/text"
+msgstr ""
+"You pilot closer to the planet. As you get closer you manage to make out the"
+" crater on the surface, however instead of a crashed star ship you find a "
+"strange factory. It appears however that something crashed into the factory,"
+" causing the distress beacon."
+
+#: src-en/data/events_sector_aea_acid.xml:2336
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/text"
+msgstr "Land and explore the factory."
+
+#: src-en/data/events_sector_aea_acid.xml:2338
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/text"
+msgstr ""
+"You wander through the factory, it appears that a battle of some kind once "
+"took place here, the walls of the facility are scored by projectile fire. "
+"Eventually you find your passage blocked by rubble, there's a passage "
+"around, however it's locked behind a security system of some kind."
+
+#: src-en/data/events_sector_aea_acid.xml:2340
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[1]/text"
+msgstr "Use explosives to blast your way through."
+
+#: src-en/data/events_sector_aea_acid.xml:2342
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"Continuing on past the rubble, you notice the signs of battle are missing "
+"from this part of the factory, perhaps theres something still alive out "
+"here."
+
+#: src-en/data/events_sector_aea_acid.xml:2347
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2353
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[2]/text"
+msgstr ""
+"Use drone parts to activate some nearby haulage bots to remove the rubble."
+
+#: src-en/data/events_sector_aea_acid.xml:2355
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"Continuing on past the rubble, you notice the signs of battle are missing "
+"from this part of the factory, perhaps theres something still alive out "
+"here."
+
+#: src-en/data/events_sector_aea_acid.xml:2360
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2366
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[@req=\"hacking\"]/text"
+msgstr ""
+"(Hacking System) Use the drone to hack into the security system and open the"
+" passage around."
+
+#: src-en/data/events_sector_aea_acid.xml:2368
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[@req=\"hacking\"]/event/text"
+msgstr ""
+"Continuing on past the rubble, you notice the signs of battle are missing "
+"from this part of the factory, perhaps theres something still alive out "
+"here."
+
+#: src-en/data/events_sector_aea_acid.xml:2373
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[@req=\"hacking\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2379
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[4]/text"
+msgstr "Turn back."
+
+#: src-en/data/events_sector_aea_acid.xml:2381
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[4]/event/text"
+msgstr ""
+"With no way to continue further into the factory, you return to your ship, "
+"collecting a small amount of supplies as you leave."
+
+#: src-en/data/events_sector_aea_acid.xml:2389
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/text"
+msgstr ""
+"Eventually you arrive in a control room of sorts, and in the middle of it "
+"you find a single surviving Acidic Soldier, however there's something off "
+"about this soldier, the normally green acidic growth has turned purple, "
+"you're not sure what this means but you go over to make contact."
+
+#: src-en/data/events_sector_aea_acid.xml:2391
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/text"
+msgstr "Hello?."
+
+#: src-en/data/events_sector_aea_acid.xml:2393
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/text"
+msgstr ""
+"\"Oh jeez, I hope you're not here to kill me, I swear im not like the "
+"others, I'm not here to kill any more miners.\" It appears there's something"
+" wrong with this Acidic Soldier, if you had to guess you'd think it wasn't "
+"part of the Acidic Growth."
+
+#: src-en/data/events_sector_aea_acid.xml:2395
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/text"
+msgstr "\"What are you?\""
+
+#: src-en/data/events_sector_aea_acid.xml:2397
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/text"
+msgstr ""
+"\"I'm not entirely sure... I'm quite confident I was the Acidic Growth at "
+"some point, but everything is weird now, there's no more of me out there, "
+"its just me, in this robot, alone...\" The Acidic Soldier trails off for a "
+"moment. \"Hang on, do you guys think you can help me, if you guys can spare "
+"me a bit of scrap I can repair one of the ships and head back to try and "
+"recombine with myself.\""
+
+#: src-en/data/events_sector_aea_acid.xml:2399
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/choice[1]/text"
+msgstr "\"Sure, What should we call you anyway?\""
+
+#: src-en/data/events_sector_aea_acid.xml:2401
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+"\"Hmmm, I don't think I'm quite the Acidic Growth anymore, I suppose you can"
+" call me Bill, I've always liked the name Bill. By the way, if you ever want"
+" to visit here's the coordinates to my Acidic Nebula, maybe I'll see you "
+"around there.\""
+
+#: src-en/data/events_sector_aea_acid.xml:2411
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/choice[2]/text"
+msgstr "Explain that you can't spare that much scrap."
+
+#: src-en/data/events_sector_aea_acid.xml:2413
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+"\"Oh, thats ok, I'll just wait for the next visitors to come by, it "
+"shouldn't be too long, I hope.\" You return to your ship, collecting a small"
+" amount of supplies as you leave."
+
+#: src-en/data/events_sector_aea_acid.xml:2424
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE_BORING\"]/text"
+msgstr ""
+"Feeling a strange sense of deja-vu, you pilot closer to the planet. Alas, "
+"nothing remains but an empty factory, devoid of life."
+
+#: src-en/data/events_sector_aea_acid.xml:2443
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"An unvisited location. This beacon is located within the Acidic Growth, "
+"which may be detrimental to the health of your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2444
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_aea_acid.xml:2445
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_aea_acid.xml:2451
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/text"
+msgstr ""
+"In the middle of the Acidic Growth you discover a strange ship floating "
+"through the nebula."
+
+#: src-en/data/events_sector_aea_acid.xml:2453
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[@req=\"aea_acid_bill\"]/text"
+msgstr "You identify the ship as belonging to Bill."
+
+#: src-en/data/events_sector_aea_acid.xml:2457
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[2]/text"
+msgstr "Contact the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2459
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[2]/event/text"
+msgstr ""
+"Just as you're about to make contact, an Acidic vessel comes flying out of "
+"the nebula to immediately eviscerate the strange ship. The acidic vessel "
+"then turns it's murderous intent on you, prepare for combat."
+
+#: src-en/data/events_sector_aea_acid.xml:2462
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2468
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[3]/text"
+msgstr "Ignore the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2470
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[3]/event/text"
+msgstr "You drift away and begin charging your jump drive."
+
+#: src-en/data/events_sector_aea_acid.xml:2472
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[3]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2476
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[3]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:2484
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/text"
+msgstr ""
+"You move in the scoop up the Acidic Soldier, as you're doing so you notice "
+"that the normally green Acidic Growth is a shade of purple."
+
+#: src-en/data/events_sector_aea_acid.xml:2486
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[1]/text"
+msgstr "You recognise the Acidic Soldier as Bill."
+
+#: src-en/data/events_sector_aea_acid.xml:2488
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_HELP\"]/text"
+msgstr ""
+"\"Well I'm trying to get to the Acidic core, Hopefully I'll be able to "
+"reintergrate with the Acidic Growth once im there. The only problem is that "
+"I don't have a ship anymore, do you think you can take me there?\""
+
+#: src-en/data/events_sector_aea_acid.xml:2490
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_HELP\"]/choice/text"
+msgstr "Sure we can."
+
+#: src-en/data/events_sector_aea_acid.xml:2492
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_HELP\"]/choice/event/text"
+msgstr "\"Thanks! I'll upload the coordinates to your computer.\""
+
+#: src-en/data/events_sector_aea_acid.xml:2503
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[2]/text"
+msgstr "Throw them back into the void of space."
+
+#: src-en/data/events_sector_aea_acid.xml:2507
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
+" and @lvl=\"0\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2509
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"Strangely the Acidic Soldier begins to tell you it's story, apparently it's "
+"become seperated from the Acidic Growth somehow and has been trying to "
+"rejoin it."
+
+#: src-en/data/events_sector_aea_acid.xml:2511
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "\"What should we call you then?\""
+
+#: src-en/data/events_sector_aea_acid.xml:2513
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
+" and @lvl=\"0\"]/event/choice/event/text"
+msgstr ""
+"\"Hmmm, I don't think I'm quite the Acidic Growth anymore, I suppose you can"
+" call me Bill, I've always liked the name Bill.\""
+
+#: src-en/data/events_sector_aea_acid.xml:2515
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
+" and @lvl=\"0\"]/event/choice/event/choice/text"
+msgstr "\"What can we do to help?\""
+
+#: src-en/data/events_sector_aea_acid.xml:2527
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"The Core of the Acidic Growth, this is the original location where the "
+"Acidic Growth formed, and as such has the highest concentration of Acidic "
+"Growth in the sector."
+
+#: src-en/data/events_sector_aea_acid.xml:2528
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_aea_acid.xml:2529
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+"The Core of the Acidic Growth, this is the original location where the "
+"Acidic Growth formed, and as such has the highest concentration of Acidic "
+"Growth in the sector."
+
+#: src-en/data/events_sector_aea_acid.xml:2535
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/text"
+msgstr ""
+"You've arrived at the Acidic Core, an extremely dense Acidic Nebula, the "
+"location where the Acidic Growth originally formed. It's so dense that it's "
+"hard for the Acidic Growth to guard it, they do try however."
+
+#: src-en/data/events_sector_aea_acid.xml:2537
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2539
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_RELEASE\"]/text"
+msgstr ""
+"You sneak towards the densest part of the nebula, before releasing bill out "
+"into the Acidic Growth."
+
+#: src-en/data/events_sector_aea_acid.xml:2541
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_RELEASE\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2543
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_RELEASE\"]/choice/event/text"
+msgstr ""
+"You watch as bill attempts to reintergrate with the Acidic Growth. Strangely"
+" the Acidic Growth around him is turning red, and even black in some "
+"sections. You're not sure exactly what's happening but it doesn't seem good."
+
+#: src-en/data/events_sector_aea_acid.xml:2545
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_RELEASE\"]/choice/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2547
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/text"
+msgstr ""
+"It appears that the Acidic Growth around bill is dying, and you're no the "
+"only one who's noticed. Your weak sensors manage to pickup a massive Acidic "
+"vessel careening towards you. You give bill a few more moments but you're "
+"forced to scoop bill back up before the Acidic vessel runs you over."
+
+#: src-en/data/events_sector_aea_acid.xml:2549
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2552
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/text"
+msgstr ""
+"\"I can't believe it, It rejected me, I rejected me.\" Bill is silent for a "
+"moment. \"I don't know what to do anymore, what is my purpose, why do I "
+"exist?\""
+
+#: src-en/data/events_sector_aea_acid.xml:2554
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[1]/text"
+msgstr "Offer bill a place on your crew."
+
+#: src-en/data/events_sector_aea_acid.xml:2556
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"\"That sounds fun, whats our first mission captain?\" Exasperated, you "
+"gesture at the rapidly approaching Acidic vessel, you wonder if bringing "
+"bill on is such a good idea afterall."
+
+#: src-en/data/events_sector_aea_acid.xml:2557
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[1]/event/crewMember"
+msgstr "Bill"
+
+#: src-en/data/events_sector_aea_acid.xml:2559
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2565
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[2]/text"
+msgstr "Offer to drop bill off at the nearest populated beacon."
+
+#: src-en/data/events_sector_aea_acid.xml:2567
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"\"Ok, I suppose I'll just have to think of something to do, maybe I'll find "
+"a nice nebula to settle down in and create my own growth, the bill growt-\" "
+"You stop listening due to the massive Acidic vessel openning fire on you "
+"through the nebula."
+
+#: src-en/data/events_sector_aea_acid.xml:2569
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[2]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2587
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"An unvisited location. This beacon is located within the Acidic Growth, "
+"which may be detrimental to the health of your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2588
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_aea_acid.xml:2589
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/beaconType/undiscoveredTooltip"
+msgstr "An unvisited location."
+
+#: src-en/data/events_sector_aea_acid.xml:2595
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/text"
+msgstr ""
+"You've arrived at the beacon, one of the few marked locations in Acidic "
+"space. This shipyard was where the first Acidic vessels were constructed and"
+" today it serves as the main diplomatic quarters between the Acidic Growth "
+"and the Orchids."
+
+#: src-en/data/events_sector_aea_acid.xml:2597
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/text"
+msgstr "Pretend to be with the orchids and dock with the station."
+
+#: src-en/data/events_sector_aea_acid.xml:2599
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/text"
+msgstr ""
+"You manage to make your way to an empty docking bay and the shipyard lets "
+"you dock, its only once you're onboard the station that someone finally "
+"confronts you, an Orchid Floral."
+
+#: src-en/data/events_sector_aea_acid.xml:2601
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[1]/text"
+msgstr "Bribe the Orchid."
+
+#: src-en/data/events_sector_aea_acid.xml:2603
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Surprisingly the bribe works, the orchid that confronted you even logs you "
+"in the system as visitors."
+
+#: src-en/data/events_sector_aea_acid.xml:2605
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2611
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_ORCHID\"]/text"
+msgstr "(Orchid Crew) Have your Orchid pose as captain."
+
+#: src-en/data/events_sector_aea_acid.xml:2613
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_ORCHID\"]/event/text"
+msgstr ""
+"The orchid seems a bit suspicious but doesn't push it, you're able to "
+"continue moving through the shipyard."
+
+#: src-en/data/events_sector_aea_acid.xml:2615
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_ORCHID\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2621
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_bill\"]/text"
+msgstr "(Acidic Outcast) Have Bill pose as captain."
+
+#: src-en/data/events_sector_aea_acid.xml:2623
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_bill\"]/event/text"
+msgstr ""
+"The orchid seems a bit suspicious but doesn't push it, you're able to "
+"continue moving through the shipyard."
+
+#: src-en/data/events_sector_aea_acid.xml:2625
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_bill\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2631
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_soldier\"]/text"
+msgstr "(Acidic Soldier) Have your Acidic Soldier pose as captain."
+
+#: src-en/data/events_sector_aea_acid.xml:2633
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_soldier\"]/event/text"
+msgstr ""
+"The orchid seems a bit suspicious but doesn't push it, you're able to "
+"continue moving through the shipyard."
+
+#: src-en/data/events_sector_aea_acid.xml:2635
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_soldier\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2641
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_captain\"]/text"
+msgstr "(Acidic Leader) Have your Acidic Soldier pose as captain."
+
+#: src-en/data/events_sector_aea_acid.xml:2643
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_captain\"]/event/text"
+msgstr ""
+"The orchid seems a bit suspicious but doesn't push it, you're able to "
+"continue moving through the shipyard."
+
+#: src-en/data/events_sector_aea_acid.xml:2645
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_captain\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2651
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[6]/text"
+msgstr "Explain you made a mistake and leave."
+
+#: src-en/data/events_sector_aea_acid.xml:2653
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[6]/event/text"
+msgstr ""
+"You make your way back to the ship and leave the station, you'll have no "
+"chance of sneaking back in now that they know about you."
+
+#: src-en/data/events_sector_aea_acid.xml:2655
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[6]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2659
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[6]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:2667
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[2]/text"
+msgstr "Ignore the station."
+
+#: src-en/data/events_sector_aea_acid.xml:2669
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[2]/event/text"
+msgstr "You drift away and begin charging your jump drive."
+
+#: src-en/data/events_sector_aea_acid.xml:2671
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2675
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:2687
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/text"
+msgstr ""
+"Eventually you make your way to the Acidic only section of the shipyard. You"
+" have three options for direction, the right leads to the engineering bays, "
+"the middle leads to a control room, while the left leads to the "
+"laboratories."
+
+#: src-en/data/events_sector_aea_acid.xml:2689
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
+" and @lvl=\"0\"]/text"
+msgstr "Head to the laboratories."
+
+#: src-en/data/events_sector_aea_acid.xml:2691
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"You enter the laboratories, luckily they appear to be mostly abandoned, "
+"you're able to avoid contact with any Acidic soldiers. Eventually you find "
+"something of interest, A massive weapon appears to be underconstruction "
+"here, it appears almost finished, it's only missing a barrel."
+
+#: src-en/data/events_sector_aea_acid.xml:2694
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr "Take the weapon and search for a barrel."
+
+#: src-en/data/events_sector_aea_acid.xml:2697
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
+" and @lvl=\"0\"]/event/choice[1]/event/text"
+msgstr ""
+"You grab the weapon before searching the area for an appropriate barrel, "
+"Unfortunately you can't find one."
+
+#: src-en/data/events_sector_aea_acid.xml:2699
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+msgstr "Return back the way you came."
+
+#: src-en/data/events_sector_aea_acid.xml:2705
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
+" and @lvl=\"0\"]/event/choice[2]/text"
+msgstr "Return back the way you came."
+
+#: src-en/data/events_sector_aea_acid.xml:2711
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
+" and @lvl=\"1\"]/text"
+msgstr "Head to the laboratories. (ALREADY VISITED)."
+
+#: src-en/data/events_sector_aea_acid.xml:2715
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
+" and @lvl=\"0\"]/text"
+msgstr "Head to the control room."
+
+#: src-en/data/events_sector_aea_acid.xml:2717
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"You enter the control room, luckily it's unmanned at the moment, "
+"Unfortunately you aren't able to access anything due to your lack of "
+"authorization, you are able to see the coordinates of a transport carrying "
+"something important for an ongoing project, however you aren't entirely sure"
+" what it is."
+
+#: src-en/data/events_sector_aea_acid.xml:2720
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr "Download the coordinates."
+
+#: src-en/data/events_sector_aea_acid.xml:2722
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
+" and @lvl=\"0\"]/event/choice[1]/event/text"
+msgstr "You quickly download the coordinates to your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2729
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+msgstr "Return back the way you came."
+
+#: src-en/data/events_sector_aea_acid.xml:2735
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
+" and @lvl=\"0\"]/event/choice[2]/text"
+msgstr "Return back the way you came."
+
+#: src-en/data/events_sector_aea_acid.xml:2741
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
+" and @lvl=\"1\"]/text"
+msgstr "Head to the control room. (ALREADY VISITED)."
+
+#: src-en/data/events_sector_aea_acid.xml:2745
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
+" and @lvl=\"0\"]/text"
+msgstr "Head to the engineering bays."
+
+#: src-en/data/events_sector_aea_acid.xml:2747
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"You enter the engineering bays and find several ships being worked on by "
+"Acidic Soldiers, you're able to sneak your way around the edge of the room "
+"and access a small storage area, Unfortunately the only thing in storage is "
+"an Acidic upgrade package."
+
+#: src-en/data/events_sector_aea_acid.xml:2750
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr "Take the upgrade kit."
+
+#: src-en/data/events_sector_aea_acid.xml:2753
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
+" and @lvl=\"0\"]/event/choice[1]/event/text"
+msgstr "You grab the upgrade package."
+
+#: src-en/data/events_sector_aea_acid.xml:2755
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+msgstr "Return back the way you came."
+
+#: src-en/data/events_sector_aea_acid.xml:2761
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
+" and @lvl=\"0\"]/event/choice[2]/text"
+msgstr "Return back the way you came."
+
+#: src-en/data/events_sector_aea_acid.xml:2767
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
+" and @lvl=\"1\"]/text"
+msgstr "Head to the engineering bays. (ALREADY VISITED)."
+
+#: src-en/data/events_sector_aea_acid.xml:2771
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[7]/text"
+msgstr "Head back to your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2773
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[7]/event/text"
+msgstr ""
+"As you get back to your ship, you can hear alarms going off on the station, "
+"it appears that someone finally noticed your intrusion. As you undock from "
+"the station an Elite Acidic ship intercepts you."
+
+#: src-en/data/events_sector_aea_acid.xml:2776
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[7]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2787
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"An unvisited location. This beacon is located within the Acidic Growth, "
+"which may be detrimental to the health of your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2788
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/beaconType/visitedTooltip"
+msgstr "Explored location. Nothing left of interest."
+
+#: src-en/data/events_sector_aea_acid.xml:2789
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+"An unvisited location. This beacon is located within the Acidic Growth, "
+"which may be detrimental to the health of your ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2795
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/text"
+msgstr ""
+"This beacon hosts an Acidic transport. It's safe to bet the ship is most "
+"likely carrying the special tech for the project in the lab. If you can kill"
+" the acidic growth onboard, the cargo will be yours."
+
+#: src-en/data/events_sector_aea_acid.xml:2798
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[1]/text"
+msgstr "Demand the surrender of the goods."
+
+#: src-en/data/events_sector_aea_acid.xml:2800
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[1]/event/text"
+msgstr "You prepare to secure the cargo by force."
+
+#: src-en/data/events_sector_aea_acid.xml:2803
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[1]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2809
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[2]/text"
+msgstr "Avoid the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2811
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[2]/event/text"
+msgstr "The ship stays outside your weapons range, and eventually jumps away."
+
+#: src-en/data/events_sector_aea_acid.xml:2813
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[2]/event/choice[1]/text"
+msgstr "Do something onboard the ship."
+
+#: src-en/data/events_sector_aea_acid.xml:2817
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[2]/event/choice[2]/text"
+msgstr "Do nothing."
+
+#: src-en/data/events_sector_aea_acid.xml:2828
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_POWER_CELL\"]/text"
+msgstr "The beacon sits inside a dense nebula."
+
+#: src-en/data/events_sector_aea_acid.xml:2830
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_POWER_CELL\"]/choice[@req=\"aea_old_has_cell\""
+" and not(@lvl)]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2834
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_POWER_CELL\"]/choice[@req=\"aea_old_has_cell\""
+" and @lvl=\"0\"]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_aea_acid.xml:2839
+msgid ""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_POWER_CELL\"]/choice[@req=\"aea_old_has_cell\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "Continue..."
