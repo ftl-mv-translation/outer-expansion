@@ -1,0 +1,715 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_aea_cult.xml:14
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_START_AEA_CULT\"]/text[1]"
+msgstr ""
+"ヴァンプウィードは、筋金入りの産業家、資本家、民主党員です。連邦に声をかけない唯一の真に民主的な国家である多くの南軍は、差別を感じ、解決策として連合を見ています。あなたが友好的な顔をするのと同じくらい多くの敵対者を見ることを期待してください。"
+
+#: src-en/data/events_special_aea_cult.xml:15
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_START_AEA_CULT\"]/text[2]"
+msgstr ""
+"集会は、それ以来ずっとそれ以来、連盟に加わる南軍に抗議してきましたが、それでもイヴァー首相は統一を求めています。連邦と連合の間で南軍が分かれているため、これはあなたのための同盟国と敵の珍しいミックスかもしれません。"
+
+#: src-en/data/events_special_aea_cult.xml:16
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_START_AEA_CULT\"]/text[3]"
+msgstr ""
+"南軍の部門は、銀河で最も工業化されたものの一部です。現在、ほとんどの重い製造業がヴァンプウィードによって行われているため、これらのセクターの経済は急上昇しており、多くの商人の注目を集めています。残念ながら、地域の政治は連合のリクルーターの注目を集めています。友人や敵に鋭い目を離さないでください。"
+
+#: src-en/data/events_special_aea_cult.xml:30
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"START_AEA_CULT\"]/choice[@req=\"rep_comb_vampweed\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:34
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"START_AEA_CULT\"]/choice[@req=\"rep_comb_vampweed\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:40
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_CRIMINAL\"]/text"
+msgstr ""
+"ここに何かが外れているようです。通常、ヴァンプウィードはあなたのような船をあまり気にしませんが、今、あなたは警備船で疑わしいおしゃべりを見つけます。"
+
+#: src-en/data/events_special_aea_cult.xml:42
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_CRIMINAL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:44
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_CRIMINAL\"]/choice/event/text"
+msgstr ""
+"あなたの実績があなたに追いついたようです。警備員の乗組員は、あなたが犯してきた犯罪を十分に聞いており、彼らはあなたをセクターに入れるつもりはありません！"
+
+#: src-en/data/events_special_aea_cult.xml:47
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_CRIMINAL\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:55
+msgid "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/text"
+msgstr ""
+"南軍の警備員はあなたを歓迎します。彼らの船長は、今日の彼らが彼らを言わなければならなかったように、まるでそれが密集した時間であるかのように言葉を暗唱しています。「南軍へようこそ。首相を代表して、私たちは平和に来るすべての訪問者を歓迎します。しかし、私たちのセクターの安定性と秩序を確保するために、私たちはあなた自身のようなすべての軍事船が入場する前に小さな税金に服従することを要求します。」"
+
+#: src-en/data/events_special_aea_cult.xml:57
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[1]/text"
+msgstr "私たちは料金を支払うことを拒否し、あなたの道を戦うことを拒否します！"
+
+#: src-en/data/events_special_aea_cult.xml:59
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:62
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:68
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[2]/text"
+msgstr "料金を支払います。"
+
+#: src-en/data/events_special_aea_cult.xml:70
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[2]/event/text"
+msgstr ""
+"ヴァンプウィードは、しばらくの間、スクラップの上にうなずき、コームを鳴らします。「非常によく。セキュリティはあなたを一時的に通過させます。」"
+
+#: src-en/data/events_special_aea_cult.xml:77
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[3]/text"
+msgstr "あなたの使命のためにウェーバーをリクエストしてください。"
+
+#: src-en/data/events_special_aea_cult.xml:81
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_ivar\"]/text"
+msgstr "（Ivar）「ねえ、私はあなたの給料を支払います！」"
+
+#: src-en/data/events_special_aea_cult.xml:83
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_ivar\"]/event/text"
+msgstr ""
+"警備員は恥ずかしく見えます。「ええと...プレミア、私は謝罪します！私たちはあなたが来ていることを知りませんでした。あなたは...ええと、非常に予測不可能です。もちろん、料金は免除されます。」ガードは点滅します。「私の上司にこれについて言及しないでください。」"
+
+#: src-en/data/events_special_aea_cult.xml:87
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_tyerel\"]/text"
+msgstr "（ty e'rel）ty e'relの資格情報を表示します。"
+
+#: src-en/data/events_special_aea_cult.xml:89
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_tyerel\"]/event/text"
+msgstr "「ようこそ、大使。私はあなたがこのセクターで会議をしたと言われていませんでした。あなたは無料で合格するかもしれません。」"
+
+#: src-en/data/events_special_aea_cult.xml:93
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_alkali\"]/text"
+msgstr "（アルカリ）アルカリにはここでビジネスがあります。"
+
+#: src-en/data/events_special_aea_cult.xml:95
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_alkali\"]/event/text"
+msgstr ""
+"警備員はおなじみの顔を見て安心しているようです。「ようこそ、ドクター！あなたは私たちの国境の中でいつでも歓迎します。もちろん、私は料金を放棄します。ここでの時間が生産的であることを願っています。」"
+
+#: src-en/data/events_special_aea_cult.xml:99
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/text"
+msgstr "（Shell Scientist Crew）あなたがこの地域でビジネスをしていることを説明します。"
+
+#: src-en/data/events_special_aea_cult.xml:101
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/text"
+msgstr ""
+"「ああ、科学者！私たちはいつもあなたの番号の1つを私たちの素敵なセクターに受け入れて喜んでいます。いつものように、あなたは割引を受ける権利があります。あなたのビジネスがうまくいくことを願っています。」"
+
+#: src-en/data/events_special_aea_cult.xml:103
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[1]/text"
+msgstr "通行料を支払います。"
+
+#: src-en/data/events_special_aea_cult.xml:111
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:113
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:116
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:122
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[@req=\"mind\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:126
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[@req=\"cloaking\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:130
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[@req=\"engines\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:134
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:140
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/text"
+msgstr "（耕作者の乗組員）割引を要求します。"
+
+#: src-en/data/events_special_aea_cult.xml:142
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/text"
+msgstr "「ああ、耕作者が乗っていますか？かなりの割引を提供できます。あなたのビジネスがうまくいくことを願っています。」"
+
+#: src-en/data/events_special_aea_cult.xml:144
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[1]/text"
+msgstr "通行料を支払います。"
+
+#: src-en/data/events_special_aea_cult.xml:152
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:154
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:157
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:163
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[@req=\"mind\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:167
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[@req=\"cloaking\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:171
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[@req=\"engines\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:175
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:181
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/text"
+msgstr "（VampWeed Crew）割引を要求します。"
+
+#: src-en/data/events_special_aea_cult.xml:183
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/text"
+msgstr "「それで、あなたは乗っているカントリーマンを持っていますか？非常によく、私たちは標準割引を適用します。」"
+
+#: src-en/data/events_special_aea_cult.xml:185
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[1]/text"
+msgstr "通行料を支払います。"
+
+#: src-en/data/events_special_aea_cult.xml:193
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:195
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:198
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:204
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[@req=\"mind\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:208
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[@req=\"cloaking\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:212
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[@req=\"engines\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:216
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_vampweed\"]/event/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:222
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"mind\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:226
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"cloaking\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:230
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"engines\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:234
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"pilot\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:240
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/text"
+msgstr ""
+"「なぜ私はあなたの料金を振る必要があるのですか？あなたは反逆者です、正しいですか？あなたが知らないなら、連合が連邦法に見られず、率直に言ってあなたのような人々をここにいることは責任です。私たちはあなたにもっと請求するべきです。」"
+
+#: src-en/data/events_special_aea_cult.xml:242
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/choice[1]/text"
+msgstr "それから私たちは私たちの道を戦うでしょう！"
+
+#: src-en/data/events_special_aea_cult.xml:244
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:247
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:253
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/choice[2]/text"
+msgstr "料金を支払います。"
+
+#: src-en/data/events_special_aea_cult.xml:255
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/choice[2]/event/text"
+msgstr ""
+"ヴァンプウィードは、しばらくの間、スクラップの上にうなずき、コームを鳴らします。「非常によく。セキュリティはあなたを一時的に通過させます。」"
+
+#: src-en/data/events_special_aea_cult.xml:264
+msgid ""
+"data/events_special_aea_cult.xml$//eventList[@name=\"GUARD_AEA_CULT_WAVER\"]/event[3]/text"
+msgstr ""
+"ヴァンプウィードは、ブドウのブドウで顔に長い花びらを傷つけます。「あなたが知っているように、南軍は連邦法や管轄権に見られない。つまり、あなたの大義はここにいるすべての人の最善の利益を表していることを理解している。連邦は私たちの友人ではないかもしれないが、反乱は私たちの敵である。"
+
+#: src-en/data/events_special_aea_cult.xml:275
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_DESTROY\"]/text"
+msgstr ""
+"あなたは南軍の警備員を倒しました。彼らの貨物にあったかもしれないものは何でも確実に破壊されましたが、少なくとも船からいくつかの物資を救うことができます。"
+
+#: src-en/data/events_special_aea_cult.xml:278
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_DESTROY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:284
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_DEADCREW\"]/text"
+msgstr ""
+"あなたは南軍の警備員を倒しました。乗組員があなたを止めるために乗組員がいなければ、彼らの貨物を調査することができます。船に戻す武器を見つけ、船体を廃棄するために移動します。"
+
+#: src-en/data/events_special_aea_cult.xml:288
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:301
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_FOLLOWUP\"]/text"
+msgstr "南軍の警備員を殺すことで、あなたは間違いなく彼らがあなたを追跡するために援軍を派遣させた。セクターを探索するときのステップをご覧ください。"
+
+#: src-en/data/events_special_aea_cult.xml:304
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_FOLLOWUP\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:308
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_FOLLOWUP\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:316
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"REINFORCEMENTS_AEA_CULT\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:317
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"REINFORCEMENTS_AEA_CULT\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:318
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"REINFORCEMENTS_AEA_CULT\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:320
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"REINFORCEMENTS_AEA_CULT\"]/text"
+msgstr ""
+"「私は連邦に味方していたかもしれないが、マルチバース全体で「平和と繁栄を施行する」ために採用している野bar人の種類を見て、これはあなたがここで虐殺して平和を邪魔して、スカム！」"
+
+#: src-en/data/events_special_aea_cult.xml:324
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"REINFORCEMENTS_AEA_CULT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:377
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/text"
+msgstr ""
+"このビーコンは、芽のカルトの前post基地と貿易ハブです。ここにはさまざまな呪文のコレクションがあります。おそらく、それらを使用したい場合は、数人のカルト主義者をピックアップする必要があります。"
+
+#: src-en/data/events_special_aea_cult.xml:380
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[1]/text"
+msgstr "市場にアクセスしてください。"
+
+#: src-en/data/events_special_aea_cult.xml:382
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[1]/event/text"
+msgstr "複数のオーキッドが顧客に手を振って、彼らの注意を引くことを試みますが、さまざまな種の好奇心が強い買い物客が見ています。"
+
+#: src-en/data/events_special_aea_cult.xml:384
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:390
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[2]/text"
+msgstr "ランを攻撃します。"
+
+#: src-en/data/events_special_aea_cult.xml:392
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[2]/event/text"
+msgstr ""
+"あなたの攻撃は市場を封鎖に送りますが、誰もランを手伝うことに熱心ではないようです。それについて心配する時間はありません。あなたはあなたの新しい獲物にあなたの視力を集中する必要があります。"
+
+#: src-en/data/events_special_aea_cult.xml:395
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:403
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STORE_LOAD_AEA_CULT\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:405
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STORE_LOAD_AEA_CULT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:409
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"STORE_LOAD_AEA_CULT\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:423
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_TRANSPORT_LOOT\"]/escape/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:434
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:435
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:436
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:438
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/text"
+msgstr ""
+"このビーコンはカルト主義者の輸送をホストしています。船が特別な技術を運んでいる可能性が最も高いことは安全です。あなたがその乗組員を殺すことができれば、彼らの貨物はあなたのものになります。"
+
+#: src-en/data/events_special_aea_cult.xml:441
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:443
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:446
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:452
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/text"
+msgstr "（南軍のエリート +良い評判）輸送に話しかけます。"
+
+#: src-en/data/events_special_aea_cult.xml:454
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/text"
+msgstr ""
+"あなたの乗組員は、あなたの使命の重要性を説明し、交通機関の船長に話しかけます。輸送の船長は理解しているようですが、彼らが運んでいる貨物は自国にとって不可欠です。あなたが補償で支払うことをいとわないなら、彼らは例外を作ることをいとわない。"
+
+#: src-en/data/events_special_aea_cult.xml:456
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:458
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:465
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:473
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:475
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:478
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:484
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:486
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:488
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:492
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:500
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:502
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:504
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:508
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:516
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_CULT\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:536
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[1]"
+msgstr ""
+"ヴァンプウィードの船長は彼の乗組員に敬礼し、彼の運命を受け入れます。「少なくとも私は誇り高き産業家と民主党員であり、腐敗した官僚主義の肉屋ではありません！南軍への栄光！」"
+
+#: src-en/data/events_special_aea_cult.xml:537
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[2]"
+msgstr ""
+"言葉がなければ、南軍の船は爆発します。おそらく高価な工場の貨物は、手の届かないところに深く掘り出されていますが、少なくとも破片を廃棄することができます。"
+
+#: src-en/data/events_special_aea_cult.xml:538
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[3]"
+msgstr "「noooo！私は決して...私の雌しべに花粉を手に入れました...あなたをねじ込んでください、反逆！」"
+
+#: src-en/data/events_special_aea_cult.xml:539
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[4]"
+msgstr "この船の死により、強大な南軍経済の労働力は今や数人の労働者が短くなっています。"
+
+#: src-en/data/events_special_aea_cult.xml:548
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_CULT\"]/text[1]"
+msgstr ""
+"かつて活気のあるヴァンプウィード船のホールは、今では花の兄弟の生きているメンバーと同じくらい沈黙しています。おそらくこれには詩的なものがあるかもしれませんが、あなたはスクラップのためにここにいて、より深い意味ではありません。"
+
+#: src-en/data/events_special_aea_cult.xml:549
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_CULT\"]/text[2]"
+msgstr ""
+"「私は宗教的な男ではありません。それはグリーンリーフのことです...しかし、あなたが最後の息をしているとき、それはかなり精神的な瞬間です。神...私は地獄がないことを願っています...」"
+
+#: src-en/data/events_special_aea_cult.xml:550
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_CULT\"]/text[3]"
+msgstr ""
+"カルト船に乗ってそれを廃棄すると、連合と南軍に関連するさまざまなプロパガンダと道具が見つかります。これらの人たちは明らかに過激派と民族主義者でしたが、法廷では、それがそれ自体で防御として保持されるかどうかはわかりません。"
+
+#: src-en/data/events_special_aea_cult.xml:556
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"SURRENDER_AEA_CULT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:565
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[1]"
+msgstr "「オーケー、オーケー！酒を少し激しく叩いていて、それは私に愚かに振る舞った。たぶん問題があるかもしれない。"
+
+#: src-en/data/events_special_aea_cult.xml:566
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[2]"
+msgstr ""
+"息を切らして、ヴァンプウィードの船長の花びらはヒントで少し歌われています。「連盟が主張するように平和を本当に表しているなら...私はあなたが私をspareしまないように見つけてくれることを願っています...今日の私の間違いにもかかわらず。」"
+
+#: src-en/data/events_special_aea_cult.xml:567
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[3]"
+msgstr ""
+"「あなたは私を殺すことはできません、私は産業労働者の大切なメンバーです！すべてのKardoche肥料のボトルにキャップをねじ込んでいないなら、他に誰がそうしますか？」"
+
+#: src-en/data/events_special_aea_cult.xml:568
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[4]"
+msgstr ""
+"ヴァンプウィードはあなたにうなずきます。「私は...私の発疹の行動をお詫びします。私はあなたと戦うことに悪意のある決断をしました。これは古い戦争を引き起こしたような行動です。"
+
+#: src-en/data/events_special_aea_cult.xml:569
+msgid ""
+"data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[5]"
+msgstr ""
+"南軍の船長は膝に落ち、慈悲をあなたに懇願します。彼は彼の種全体に代わって彼らの過去の過ちを謝罪し、彼をspareしまないように彼の工場の仕事で今月のすべての賃金をあなたに提供します。"
+
+#: src-en/data/events_special_aea_cult.xml:573
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"AEA_CULT_TEST_FIGHT\"]/text"
+msgstr "テスト。"
+
+#: src-en/data/events_special_aea_cult.xml:576
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"AEA_CULT_TEST_FIGHT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:607
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_FACTORY\"]/destroyed/text"
+msgstr "カルト船を破壊し、工場にアクセスできます。先に進む前にすぐにそれを略奪します。"
+
+#: src-en/data/events_special_aea_cult.xml:612
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_FACTORY\"]/deadCrew/text"
+msgstr "あなたはカルト主義者をクリアし、工場にアクセスしました。先に進む前にすぐにそれを略奪します。"
+
+#: src-en/data/events_special_aea_cult.xml:621
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE\"]/destroyed/text"
+msgstr ""
+"あなたはクジラを殺しました。\n"
+"\n"
+"あなたはモンスター！"
+
+#: src-en/data/events_special_aea_cult.xml:640
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"DEFEAT_VAMPWEED_ELITE\"]/text"
+msgstr "あなたはなんとかエリートカルト主義者の船を倒すことができました、そして今、遺体はあなたのものです。"
+
+#: src-en/data/events_special_aea_cult.xml:644
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"DEFEAT_VAMPWEED_ELITE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:646
+msgid ""
+"data/events_special_aea_cult.xml$//event[@name=\"DEFEAT_VAMPWEED_ELITE\"]/choice/event/text"
+msgstr "エリートカルト船の船が戦いを生き延びたようです。内部には機能的な武器があり、これを搭載しています。"
+
+#: src-en/data/events_special_aea_cult.xml:655
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/destroyed/text"
+msgstr ""
+"クランマンは少なくとも一度は降伏することを期待していましたが、彼らは決してしませんでした。代わりに、あなたの最後のブローが船を揺らし、あなたはそれが爆発するのを見ます..."
+
+#: src-en/data/events_special_aea_cult.xml:658
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_cult.xml:664
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/deadCrew/text"
+msgstr "クラン容器を正常に中和し、それを搭載してあなたの略奪品を主張することができます。"
+
+#: src-en/data/events_special_aea_cult.xml:667
+msgid ""
+"data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/deadCrew/choice/text"
+msgstr ""

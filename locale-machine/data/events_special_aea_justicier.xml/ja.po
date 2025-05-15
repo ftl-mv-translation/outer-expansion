@@ -1,0 +1,255 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_aea_justicier.xml:3
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/text"
+msgstr ""
+"ダークジャスティエは、クローンベイを違法に変更できます。\n"
+"[エフェクト：クローンベイは死んだ乗組員のクローンではなくなりました。ジャンプ修正クローンベイは、30秒のデスタイマーを持つ2つのランダムな違法クローンを生成します。"
+
+#: src-en/data/events_special_aea_justicier.xml:6
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/text"
+msgstr "クローンベイを変換します。[コスト：40〜、3 |]"
+
+#: src-en/data/events_special_aea_justicier.xml:8
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/event/text"
+msgstr "既存のクローンベイは、アップグレードの道を作るために部分的に分解されます。"
+
+#: src-en/data/events_special_aea_justicier.xml:15
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:17
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/event/choice/event/text"
+msgstr "変更が行われ、修飾子クローンベイが残されています。"
+
+#: src-en/data/events_special_aea_justicier.xml:24
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:34
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/text"
+msgstr "あなたは本を開きます。"
+
+#: src-en/data/events_special_aea_justicier.xml:36
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:40
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[2]/text"
+msgstr "儀式のルールを読んでください。"
+
+#: src-en/data/events_special_aea_justicier.xml:44
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[3]/text"
+msgstr "Blood Ritualsのセクションを読んでください。"
+
+#: src-en/data/events_special_aea_justicier.xml:48
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[4]/text"
+msgstr "契約儀式のセクションを読んでください。"
+
+#: src-en/data/events_special_aea_justicier.xml:52
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[5]/text"
+msgstr "攻撃の儀式に関するセクションを読んでください。"
+
+#: src-en/data/events_special_aea_justicier.xml:58
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/text"
+msgstr ""
+"儀式のルールについて本のセクションに目を向けます。\n"
+"一部の儀式には複数の要件がある場合があります。この場合、リストの最低値が使用されています。"
+
+#: src-en/data/events_special_aea_justicier.xml:69
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/choice/text"
+msgstr "戻って行きます。"
+
+#: src-en/data/events_special_aea_justicier.xml:77
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_CREW\"]/text"
+msgstr "あなたは血の儀式についての本のセクションに目を向けます。"
+
+#: src-en/data/events_special_aea_justicier.xml:79
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_CREW\"]/choice/text"
+msgstr "戻って行きます。"
+
+#: src-en/data/events_special_aea_justicier.xml:87
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TRADE\"]/text"
+msgstr "契約の儀式についての本のセクションに目を向けます。"
+
+#: src-en/data/events_special_aea_justicier.xml:89
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TRADE\"]/choice/text"
+msgstr "戻って行きます。"
+
+#: src-en/data/events_special_aea_justicier.xml:97
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_ATTACK\"]/text"
+msgstr "攻撃の儀式についての本のセクションに目を向けます。"
+
+#: src-en/data/events_special_aea_justicier.xml:99
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_ATTACK\"]/choice/text"
+msgstr "戻って行きます。"
+
+#: src-en/data/events_special_aea_justicier.xml:105
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_CREW\"]/text"
+msgstr "テスト"
+
+#: src-en/data/events_special_aea_justicier.xml:107
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_CREW\"]/choice/text"
+msgstr "戻って行きます。"
+
+#: src-en/data/events_special_aea_justicier.xml:113
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_TRADE\"]/text"
+msgstr "テスト"
+
+#: src-en/data/events_special_aea_justicier.xml:115
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_TRADE\"]/choice/text"
+msgstr "戻って行きます。"
+
+#: src-en/data/events_special_aea_justicier.xml:121
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_ATTACK\"]/text"
+msgstr "テスト"
+
+#: src-en/data/events_special_aea_justicier.xml:123
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_ATTACK\"]/choice/text"
+msgstr "戻って行きます。"
+
+#: src-en/data/events_special_aea_justicier.xml:184
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_ONE\"]/text"
+msgstr ""
+"あなたはそれが破壊されたことを発見するために反乱軍の艦隊の真ん中に到着しました。デブリーフィールドの真ん中に座っていた今まで見たことのない大きな赤い戦い。残念ながら、それはあなたに注意を向け、武器を武装させます。"
+
+#: src-en/data/events_special_aea_justicier.xml:188
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_ONE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:199
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_BATTLESHIP\"]/text"
+msgstr "船は、エネルギーパルスを検出すると、容器からのテレポーテーションシステムからのエネルギーパルスを検出します。あなたは船の遺跡を廃棄します。"
+
+#: src-en/data/events_special_aea_justicier.xml:204
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_BATTLESHIP\"]/text"
+msgstr ""
+"最後の乗組員が死んだとき、あなたは船の不思議な船長を殺すことができた直前に、彼らがテレポートしたことを思い出します。あなたは船の遺跡を廃棄します。"
+
+#: src-en/data/events_special_aea_justicier.xml:217
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_TWO\"]/text"
+msgstr ""
+"もう一度、あなたはそれが破壊されたことを発見するために反乱軍の艦隊の真ん中に到着しました。デブリーフィールドの真ん中に座っていた今まで見たことのない大きな赤い戦い。残念ながら、それはあなたに注意を向け、武器を武装させます。"
+
+#: src-en/data/events_special_aea_justicier.xml:221
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_TWO\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:231
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/text"
+msgstr ""
+"船は断片と爆発し、奇妙な人が船に乗ってテレポートします。「反逆者、あなたは自分自身が非常に有能な戦闘員であることを証明しましたが、私の神は私が船なしでは満たすことができない血に飢えています。おそらく私はしばらくの間あなたの船に乗ることができますか？」"
+
+#: src-en/data/events_special_aea_justicier.xml:236
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/text"
+msgstr "船内を受け入れます。"
+
+#: src-en/data/events_special_aea_justicier.xml:238
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/event/text"
+msgstr "暗いジャスティエが乗組員に加わります。"
+
+#: src-en/data/events_special_aea_justicier.xml:239
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/event/crewMember"
+msgstr "暗い暗い"
+
+#: src-en/data/events_special_aea_justicier.xml:243
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:245
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[2]/event/text"
+msgstr "彼らは再びテレポートして、そこであなたが確信していませんでした。"
+
+#: src-en/data/events_special_aea_justicier.xml:250
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/text"
+msgstr ""
+"最後の乗組員が死んでいると、奇妙な人があなたの船に乗ってテレポートします。「反逆者、あなたは自分自身が非常に有能な戦闘員であることを証明しましたが、私の神は私が船なしでは満たすことができない血に飢えています。おそらく私はしばらくの間あなたの船に乗ることができますか？」"
+
+#: src-en/data/events_special_aea_justicier.xml:255
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/text"
+msgstr "船内を受け入れます。"
+
+#: src-en/data/events_special_aea_justicier.xml:257
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/event/text"
+msgstr "暗いジャスティエが乗組員に加わります。"
+
+#: src-en/data/events_special_aea_justicier.xml:258
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/event/crewMember"
+msgstr "暗い暗い"
+
+#: src-en/data/events_special_aea_justicier.xml:262
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:264
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[2]/event/text"
+msgstr "彼らは再びテレポートして、そこであなたが確信していませんでした。"
+
+#: src-en/data/events_special_aea_justicier.xml:274
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/text"
+msgstr "破壊された反乱軍の艦隊の残骸はここにありますが、援軍が到着したときにそれを検索する時間はありません！"
+
+#: src-en/data/events_special_aea_justicier.xml:281
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:285
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[@req=\"engines\"]/text"
+msgstr "（Adv。Engines）エリートから逃れようとします。"
+
+#: src-en/data/events_special_aea_justicier.xml:289
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
+msgstr "（ジェリー）「こんにちは！」"

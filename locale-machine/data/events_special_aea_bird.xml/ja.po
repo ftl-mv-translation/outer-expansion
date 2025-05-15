@@ -1,0 +1,501 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_aea_bird.xml:15
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[1]"
+msgstr ""
+"GIスペースに到着しました。GIは連邦の一部ではないかもしれませんが、彼らはまだ緊密な同盟国であり、反乱に対してしっかりと反対しています。反乱はまだここに忍び込むのに苦労します。"
+
+#: src-en/data/events_special_aea_bird.xml:16
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[2]"
+msgstr "GIスペースに到着しました。ここにはたくさんの友好的な顔がありますが、反乱軍のスカムも侵略することがたくさんあります。"
+
+#: src-en/data/events_special_aea_bird.xml:17
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[3]"
+msgstr "GIスペースに到着しました。これは同盟国でいっぱいのセクターかもしれませんが、多くの反逆者を引き付けることになります。"
+
+#: src-en/data/events_special_aea_bird.xml:31
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"START_AEA_BIRD\"]/choice[@req=\"rep_comb_federation\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:35
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"START_AEA_BIRD\"]/choice[@req=\"rep_comb_federation\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:41
+msgid "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/text"
+msgstr ""
+"このセクターは、連邦船とGI船の統合された警備員によって保護されています。いくつかの支援船はバックグラウンドに残り、地区の他のフレンドリーな船に援助を提供します。"
+
+#: src-en/data/events_special_aea_bird.xml:44
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[1]/text"
+msgstr "サポートをリクエストします。"
+
+#: src-en/data/events_special_aea_bird.xml:48
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:50
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[2]/event/text"
+msgstr ""
+"警備員のキャプテンは、あなたが彼らをオンにしたことにショックを受けました。「あなたは反逆者のスパイでなければなりません！私たちはこれを軽く服用しません！」"
+
+#: src-en/data/events_special_aea_bird.xml:53
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:59
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:61
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:63
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:67
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:75
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/text"
+msgstr ""
+"ここに何かが外れているようです。通常、GIは確かにあなたのような船で目を打つことはありませんが、今では警備船で疑わしいおしゃべりを見つけます。"
+
+#: src-en/data/events_special_aea_bird.xml:77
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:79
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/choice/event/text"
+msgstr ""
+"あなたの実績があなたに追いついたようです。警備員の乗組員は、あなたが犯してきた犯罪を十分に聞いており、彼らはあなたをセクターに入れるつもりはありません！"
+
+#: src-en/data/events_special_aea_bird.xml:82
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:90
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/text"
+msgstr "警備員は、あなたの命令を待っている近くの支援船の1つと、あなたを安全なラインに置きます。"
+
+#: src-en/data/events_special_aea_bird.xml:92
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[1]/text"
+msgstr "修理。"
+
+#: src-en/data/events_special_aea_bird.xml:94
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[1]/event/text"
+msgstr "修理するためにいくつかの修理ドローンが派遣されます。"
+
+#: src-en/data/events_special_aea_bird.xml:99
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[2]/text"
+msgstr "燃料。"
+
+#: src-en/data/events_special_aea_bird.xml:101
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[2]/event/text"
+msgstr "燃料補給ドローンは、船を燃料補給するために派遣されます。"
+
+#: src-en/data/events_special_aea_bird.xml:108
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[3]/text"
+msgstr "弾薬。"
+
+#: src-en/data/events_special_aea_bird.xml:110
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[3]/event/text"
+msgstr "補給ドローンが派遣され、船が補給されます。"
+
+#: src-en/data/events_special_aea_bird.xml:117
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[4]/text"
+msgstr "ドローンパーツ。"
+
+#: src-en/data/events_special_aea_bird.xml:119
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[4]/event/text"
+msgstr "補給ドローンが派遣され、船が補給されます。"
+
+#: src-en/data/events_special_aea_bird.xml:134
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DESTROY\"]/text"
+msgstr ""
+"あなたはGIガードを倒しました。彼らの貨物にあったかもしれないものは何でも確実に破壊されましたが、少なくとも船からいくつかの物資を救うことができます。"
+
+#: src-en/data/events_special_aea_bird.xml:137
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DESTROY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:142
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DEADCREW\"]/text"
+msgstr ""
+"あなたはGIガードを倒しました。乗組員があなたを止めるために乗組員がいなければ、彼らの貨物を調査することができます。船に戻す武器を見つけ、船体を廃棄するために移動します。"
+
+#: src-en/data/events_special_aea_bird.xml:146
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:159
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_FOLLOWUP\"]/text"
+msgstr "GIガードを殺すことで、あなたは間違いなく彼らがあなたを追跡するために補強材を派遣させた。セクターを探索するときのステップをご覧ください。"
+
+#: src-en/data/events_special_aea_bird.xml:162
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_FOLLOWUP\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:166
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_FOLLOWUP\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:174
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:175
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:176
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:178
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/text"
+msgstr ""
+"あなたは珍しいGIエリートを見ていますが、彼らはあなたに会えて喜んでいるようには見えません。船は攻撃に移動しますが、これが攻撃のためにあなたを追い詰めるために警備員から送られた船の1つであることに気付くのにそれほど時間はかかりません。"
+
+#: src-en/data/events_special_aea_bird.xml:182
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:199
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[1]"
+msgstr ""
+"GIスペースに到着しました。GIは連邦の一部ではないかもしれませんが、彼らはまだ緊密な同盟国であり、反乱に対してしっかりと反対しています。反乱はまだここに忍び込むのに苦労します。"
+
+#: src-en/data/events_special_aea_bird.xml:200
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[2]"
+msgstr "GIスペースに到着しました。ここにはたくさんの友好的な顔がありますが、反乱軍のスカムも侵略することがたくさんあります。"
+
+#: src-en/data/events_special_aea_bird.xml:201
+msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[3]"
+msgstr "GIスペースに到着しました。これは同盟国でいっぱいのセクターかもしれませんが、多くの反逆者を引き付けることになります。"
+
+#: src-en/data/events_special_aea_bird.xml:215
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"START_AEA_BIRD_UNIQUE\"]/choice[@req=\"rep_comb_federation\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:219
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"START_AEA_BIRD_UNIQUE\"]/choice[@req=\"rep_comb_federation\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:271
+msgid ""
+"data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_TRANSPORT_LOOT\"]/escape/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:282
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:283
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:284
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:286
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/text"
+msgstr ""
+"このビーコンはGIトランスポートをホストしています。船が特別な技術を運んでいる可能性が最も高いことは安全です。あなたがその乗組員を殺すことができれば、彼らの貨物はあなたのものになります。"
+
+#: src-en/data/events_special_aea_bird.xml:289
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:291
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:294
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:300
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/text"
+msgstr "（GIまたはFederation Elite +良い評判）交通機関に話しかけます。"
+
+#: src-en/data/events_special_aea_bird.xml:302
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/text"
+msgstr ""
+"あなたの乗組員は、あなたの使命の重要性を説明し、交通機関の船長に話しかけます。輸送の船長は理解しているようですが、運んでいる貨物は、同じミッションに不可欠です。あなたが補償で支払うことをいとわないなら、彼らは例外を作ることをいとわない。"
+
+#: src-en/data/events_special_aea_bird.xml:304
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:306
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:313
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:321
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:323
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:326
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:332
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:334
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:336
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:340
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:348
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:350
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:352
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:356
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:363
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_BIRD\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:382
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[1]"
+msgstr "「メイデイ！メイデイ！メイ - 」連邦船長の助けに対する絶望的な叫びは、船の破壊によって突然沈黙します。"
+
+#: src-en/data/events_special_aea_bird.xml:383
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[2]"
+msgstr "将来の船がこの難破船に出くわすと、人々はこれが反乱軍や海賊の仕事であると仮定するでしょう。しかし、トレイルは最終的にあなたにつながります。"
+
+#: src-en/data/events_special_aea_bird.xml:384
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[3]"
+msgstr ""
+"連邦の真新しいモデルが非常に速く派遣されたのを見て、それは残念です。連盟が更新されたデザインの製造を推進したとき、彼らは反乱軍と矛盾していました...しかし、必ずしも彼ら自身の雇われた反逆者ではありません。"
+
+#: src-en/data/events_special_aea_bird.xml:385
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[4]"
+msgstr "連邦船が鍛冶屋に減らされるのを見ると、あなたは不気味な感覚に襲われていますが、少なくともあなたのものではありませんでした。"
+
+#: src-en/data/events_special_aea_bird.xml:386
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[5]"
+msgstr "最後の爆発は、彼らの船が引き裂かれたとき、連邦船長の運命を示しています。"
+
+#: src-en/data/events_special_aea_bird.xml:394
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[1]"
+msgstr ""
+"連邦の乗組員が倒れました。あなたが彼らの船体を廃棄すると、あなたは彼らの無線がアクティブであることに気づき、コマンドはまだ何が起こっているのかを理解しようとしている彼らに呼びかけます。あなたはラジオをミュートして続行します。"
+
+#: src-en/data/events_special_aea_bird.xml:395
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[2]"
+msgstr "「男、男！ああ！」乗組員の叫び声は、彼が残りの乗組員と一緒に置かれているので、前代未聞になります。"
+
+#: src-en/data/events_special_aea_bird.xml:396
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[3]"
+msgstr ""
+"「私のこの死は、連邦の死を意味します。」死にかけているキャプテンは、バックグラウンドの誰かが彼を叫ぶように一時停止します。「私は過剰に反応していません！神はそれを気にしています...あなたは私の最後の瞬間を台無しにしなければなりませんでした...」"
+
+#: src-en/data/events_special_aea_bird.xml:397
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[4]"
+msgstr ""
+"「私の名前は、マルチバースへの私の奉仕のために記念碑に刻まれています...あなたは犯罪的に混乱した人のためにウォッチリストに永遠に刻まれます...」"
+
+#: src-en/data/events_special_aea_bird.xml:398
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[5]"
+msgstr ""
+"「私は決して...私の昇進を得ました！私は死ぬ準備ができていません！」連盟のキャプテンは、乗組員が1つずつ倒れ、彼らと一緒に終わると、彼らの手にすすります。"
+
+#: src-en/data/events_special_aea_bird.xml:404
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"SURRENDER_AEA_BIRD\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:417
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[1]"
+msgstr "「これをさらに続けることは狂気になるでしょう - 私たちは同じ側にいます！」"
+
+#: src-en/data/events_special_aea_bird.xml:418
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[2]"
+msgstr "連邦船はボロボロになっています。おそらく、この時点で彼らの降伏を交渉することができます。"
+
+#: src-en/data/events_special_aea_bird.xml:419
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[3]"
+msgstr "「どうか、私たちはこれをする必要はありません！私たちはあなたに私たちを手放すために何でも喜んで与えてくれます！」"
+
+#: src-en/data/events_special_aea_bird.xml:420
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[4]"
+msgstr "「私たちを破壊しないでください！私たちはフェデレーションです！少なくとも降伏させてください！」"
+
+#: src-en/data/events_special_aea_bird.xml:421
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[5]"
+msgstr "「私たちが持っているものすべてを取り、ただ去るだけで、それ以上血がこぼれなければなりません！」"
+
+#: src-en/data/events_special_aea_bird.xml:422
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[6]"
+msgstr "船は繰り返しあなたを歓迎し、あなたがあなたの攻撃を止めて彼らを手放すように嘆願します。"
+
+#: src-en/data/events_special_aea_bird.xml:430
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[1]"
+msgstr "「メイデイ！メイデイ！メイ - 」連邦船長の助けに対する絶望的な叫び声は、駅の破壊によって突然沈黙します。"
+
+#: src-en/data/events_special_aea_bird.xml:431
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[2]"
+msgstr "将来の船がこの難破船に出くわすと、人々はこれが反乱軍や海賊の仕事であると仮定するでしょう。しかし、トレイルは最終的にあなたにつながります。"
+
+#: src-en/data/events_special_aea_bird.xml:432
+msgid ""
+"data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[3]"
+msgstr ""
+"連邦の真新しいモデルが非常に速く派遣されたのを見て、それは残念です。連盟が更新されたデザインの製造を推進したとき、彼らは反乱軍と矛盾していました...しかし、必ずしも彼ら自身の雇われた反逆者ではありません。"
+
+#: src-en/data/events_special_aea_bird.xml:436
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/text"
+msgstr ""
+"連邦の同盟国、特にエリートの同盟国を排除することは、あなたの使命に非常に反していますが、それはあなたが遺体を救うことを超えているという意味ではありません。"
+
+#: src-en/data/events_special_aea_bird.xml:439
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:441
+msgid ""
+"data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/choice/event/text"
+msgstr "エリートGI船の貨物が戦いを生き延びたようです。内部には機能的なドローンがあり、これを搭載しています。"
+
+#: src-en/data/events_special_aea_bird.xml:497
+msgid ""
+"data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/destroyed/text"
+msgstr "真菌に感染した船を破壊し、遺体から有用なものを集めました。"
+
+#: src-en/data/events_special_aea_bird.xml:500
+msgid ""
+"data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_bird.xml:505
+msgid ""
+"data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/deadCrew/text"
+msgstr "感染した船の乗組員を片付けて、有用な部分のために廃棄しました。"
+
+#: src-en/data/events_special_aea_bird.xml:508
+msgid ""
+"data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/deadCrew/choice/text"
+msgstr ""

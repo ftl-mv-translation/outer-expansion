@@ -1,0 +1,1834 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_aea_necro.xml:28
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"FINISH_BEACON_AEA_NECRO\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:32
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"FINISH_BEACON_AEA_NECRO\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:36
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"FINISH_BEACON_AEA_NECRO\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:56
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/text"
+msgstr "あなたは月の周りの軌道に放棄された異端船を見つけます。船に活動の兆候はまったくありません。"
+
+#: src-en/data/events_sector_aea_necro.xml:59
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi_defender\"]/text"
+msgstr "船に乗る。"
+
+#: src-en/data/events_sector_aea_necro.xml:61
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi_defender\"]/event/text"
+msgstr ""
+"あなたが船に乗ると、あなたは恐ろしいシーンを発見します。あなたのエリート・エンギーがシーンを調べると、彼らは巻き付き始めます。彼らはエンギーの異端者の体に触れ、何らかのウイルスに感染しているように見えますが、あなたのエンギーはエリートエンギーの異端者に置き換えられました。"
+
+#: src-en/data/events_sector_aea_necro.xml:64
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi_defender\"]/event/choice/text"
+msgstr "船を廃棄し続けます。"
+
+#: src-en/data/events_sector_aea_necro.xml:70
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi\"]/text"
+msgstr "船に乗る。"
+
+#: src-en/data/events_sector_aea_necro.xml:72
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi\"]/event/text"
+msgstr ""
+"あなたが船に乗ると、あなたは恐ろしいシーンを発見します。あなたのエンギーがシーンを調べると、彼らは痙攣し始めます。彼らはエンギーの異端者の体に触れ、何らかのウイルスに感染したようで、あなたのエンギはエンギーの異端者に置き換えられました。"
+
+#: src-en/data/events_sector_aea_necro.xml:75
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi\"]/event/choice/text"
+msgstr "船を廃棄し続けます。"
+
+#: src-en/data/events_sector_aea_necro.xml:81
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi_separatist\"]/text"
+msgstr "船に乗る。"
+
+#: src-en/data/events_sector_aea_necro.xml:83
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi_separatist\"]/event/text"
+msgstr ""
+"あなたが船に乗ると、あなたは恐ろしいシーンを発見します。あなたのエンギーがシーンを調べると、彼らは痙攣し始めます。彼らはエンギーの異端者の体に触れ、何らかのウイルスに感染したようで、あなたのエンギはエンギーの異端者に置き換えられました。"
+
+#: src-en/data/events_sector_aea_necro.xml:86
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi_separatist\"]/event/choice/text"
+msgstr "船を廃棄し続けます。"
+
+#: src-en/data/events_sector_aea_necro.xml:92
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi_separatist_nano\"]/text"
+msgstr "船に乗る。"
+
+#: src-en/data/events_sector_aea_necro.xml:94
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi_separatist_nano\"]/event/text"
+msgstr ""
+"あなたが船に乗ると、あなたは恐ろしいシーンを発見します。あなたのエンギーがシーンを調べると、彼らは痙攣し始めます。彼らはエンギーの異端者の体に触れ、何らかのウイルスに感染したようで、あなたのエンギはエンギーの異端者に置き換えられました。"
+
+#: src-en/data/events_sector_aea_necro.xml:97
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi_separatist_nano\"]/event/choice/text"
+msgstr "船を廃棄し続けます。"
+
+#: src-en/data/events_sector_aea_necro.xml:103
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"LIST_CREW_AEA_ENGI_OTHER\"]/text"
+msgstr "船に乗る。"
+
+#: src-en/data/events_sector_aea_necro.xml:107
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[6]/text"
+msgstr "船を吹き飛ばし、遺体を収穫します。"
+
+#: src-en/data/events_sector_aea_necro.xml:109
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[6]/event/text"
+msgstr "船を破壊することは収量を大幅に減らすでしょうが、そうすることはそれに搭乗するよりも安全です。"
+
+#: src-en/data/events_sector_aea_necro.xml:115
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[7]/text"
+msgstr "疑わしい遺棄された船を避けてください。"
+
+#: src-en/data/events_sector_aea_necro.xml:117
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[7]/event/text"
+msgstr "あなたは船を避けてください - 分離主義者は、無意識のスカベンジャーのためにウイルスを置き去りにすることが知られています。"
+
+#: src-en/data/events_sector_aea_necro.xml:119
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[7]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:123
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[7]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:131
+msgid ""
+"data/events_sector_aea_necro.xml$//eventList[@name=\"DEFUNCT_AEA_NECRO_SALVAGE\"]/event[1]/text"
+msgstr "船は大部分が無傷であることは、スクラップと資源の有利な恵みです。あなたは抵抗がまったくなく、あなたの船に賞金を持ち帰ります。"
+
+#: src-en/data/events_sector_aea_necro.xml:135
+msgid ""
+"data/events_sector_aea_necro.xml$//eventList[@name=\"DEFUNCT_AEA_NECRO_SALVAGE\"]/event[2]/text"
+msgstr "船は大部分が無傷であることは、スクラップと資源の有利な恵みです。船を廃棄すると、貨物室で作業ドローンの回路図を発見します。"
+
+#: src-en/data/events_sector_aea_necro.xml:142
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WORTHLESS_JUNK\"]/text"
+msgstr ""
+"近くの船の2人の分離主義者を、増強について何かを争っているのを捕まえます。あなたは彼らを歓迎します。「はい、ご挨拶。私たちはオブジェクトを手に入れました。オブジェクトの目的は不明であり、それを維持したいという願望は0です。この[価値のないジャンク]を手から取り除いてください。」"
+
+#: src-en/data/events_sector_aea_necro.xml:145
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WORTHLESS_JUNK\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:149
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WORTHLESS_JUNK\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:155
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/text"
+msgstr ""
+"あなたはビーコンに到着して、虚空で損傷した異端の容器の漂流を発見します。あなたはエンギーの異端者に歓迎されています。「反逆者、私は[新しい]船を必要としています、あなたは[新しい]乗組員を必要としていますか？」"
+
+#: src-en/data/events_sector_aea_necro.xml:157
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
+" and @lvl=\"0\"]/text"
+msgstr "あなたの船にそれを受け入れてください。"
+
+#: src-en/data/events_sector_aea_necro.xml:159
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
+" and @lvl=\"0\"]/event/text"
+msgstr "Engi Hereticは乗組員がボードを調べますが、オーガニックの乗組員は見つかりませんでした。"
+
+#: src-en/data/events_sector_aea_necro.xml:164
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
+" and @lvl=\"1\"]/text"
+msgstr "あなたの船にそれを受け入れてください。"
+
+#: src-en/data/events_sector_aea_necro.xml:168
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[3]/text"
+msgstr "オファーを下げてください。"
+
+#: src-en/data/events_sector_aea_necro.xml:170
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[3]/event/text"
+msgstr ""
+"Engi "
+"Hereticはあなたの拒否に少し怒っているように見えますが、それは飼料の背景にオーガニックの乗組員に気付いたときに緩和されているように見えます。"
+
+#: src-en/data/events_sector_aea_necro.xml:172
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:176
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:184
+msgid ""
+"data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_FREE_CREW_ORGANIC\"]/event[1]/text"
+msgstr ""
+"Engi Heretic Boards Your "
+"Vesselが乗組員を監視します。それはあなたのオーガニッククルーに気づきます、「[オーガニック]は嫌ですが、[新しい]船の必要性はあなたの[嫌な]オーガニックに対する私の軽emptを上回ります。」"
+
+#: src-en/data/events_sector_aea_necro.xml:187
+msgid ""
+"data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_FREE_CREW_ORGANIC\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:192
+msgid ""
+"data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_FREE_CREW_ORGANIC\"]/event[2]/text"
+msgstr "Engi Heretic Boards Your Vesselが乗組員を監視します。それはあなたのオーガニッククルーに気づきます。"
+
+#: src-en/data/events_sector_aea_necro.xml:194
+msgid ""
+"data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_FREE_CREW_ORGANIC\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:202
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/text"
+msgstr "あなたはビーコンに到着し、小惑星の弾幕の下で壊れる大きな異端の容器の難破船を発見します。"
+
+#: src-en/data/events_sector_aea_necro.xml:207
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/text"
+msgstr "船に乗る。"
+
+#: src-en/data/events_sector_aea_necro.xml:209
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/text"
+msgstr ""
+"船に乗るとき、あなたは船体に衝突する小惑星によるAssualtを常に思い出し、空のホールに響き渡ります。\n"
+"\n"
+"廊下の交差点に着くと、おそらく3つのパスすべてを検索するのに十分ではありません。各方向の上のマーキングを読みます。"
+
+#: src-en/data/events_sector_aea_necro.xml:213
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/choice[1]/text"
+msgstr "エンジニアリングベイに向かいます。"
+
+#: src-en/data/events_sector_aea_necro.xml:215
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/choice[1]/event/text"
+msgstr "エンジニアリングベイに入ると、部屋は廃inにありますが、自分の船に戻る前に、数少ない残りのドローンの1つをつかむことができます。"
+
+#: src-en/data/events_sector_aea_necro.xml:218
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:224
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/choice[2]/text"
+msgstr "橋に向かいます。"
+
+#: src-en/data/events_sector_aea_necro.xml:226
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"あなたは船の橋に入ります。この船の乗組員は、死にかけている船から逃げて以来ずっと明らかです。退却を余儀なくされる前に、コンピューターにアクセスして完全なセクターマップをダウンロードできます。"
+
+#: src-en/data/events_sector_aea_necro.xml:229
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:235
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/choice[3]/text"
+msgstr "貨物ホールドに向かいます。"
+
+#: src-en/data/events_sector_aea_necro.xml:237
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/choice[3]/event/text"
+msgstr "貨物室は比較的空いています。目を引くのは、隅にある大きなケージで、囚人を見つけることができます。"
+
+#: src-en/data/events_sector_aea_necro.xml:240
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[1]/event/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:248
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:250
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[2]/event/text"
+msgstr "リスクの価値はありません。"
+
+#: src-en/data/events_sector_aea_necro.xml:252
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:256
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:272
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ORGANICS_HATE\"]/text"
+msgstr ""
+"ビーコンに到着して、近くの軌道にある異端の容器を発見します。彼らはあなたに連絡します。「あなたはたまたまテスト主題を持っていませんか？私たちはオーガニックが必要です。」"
+
+#: src-en/data/events_sector_aea_necro.xml:274
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ORGANICS_HATE\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\"]/text"
+msgstr "（オーガニッククルー）エンギーの異端者がテストするためにオーガニックの乗組員を渡します。"
+
+#: src-en/data/events_sector_aea_necro.xml:278
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ORGANICS_HATE\"]/choice[2]/text"
+msgstr "あなたが助けることができないと言ってください。"
+
+#: src-en/data/events_sector_aea_necro.xml:280
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ORGANICS_HATE\"]/choice[2]/event/text"
+msgstr ""
+"Engi "
+"Hereticはあなたの拒否に少し怒っているように見えますが、それは飼料の背景にオーガニックの乗組員に気付いたときに緩和されているように見えます。"
+
+#: src-en/data/events_sector_aea_necro.xml:282
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ORGANICS_HATE\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:286
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ORGANICS_HATE\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:295
+msgid ""
+"data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_ORGANICS_HATE_LIST\"]/event[1]/text"
+msgstr ""
+"あなたはあなたのクルーメンバーを異端者に引き渡します。HILTEを待った後、異端者が手を伸ばして、彼らが終わっていると言ったときに、乗組員を要求しようとしています。彼らはすぐにあなたの乗組員を送り、飛び去る前にあなたの乗組員を送ります。"
+
+#: src-en/data/events_sector_aea_necro.xml:297
+msgid ""
+"data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_ORGANICS_HATE_LIST\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:299
+msgid ""
+"data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_ORGANICS_HATE_LIST\"]/event[1]/choice/event/text"
+msgstr "あなたの乗組員は少し奇妙に振る舞っていますが、彼らはまたスクラップの束を持っているので、あなたは本当に文句を言うことができます。"
+
+#: src-en/data/events_sector_aea_necro.xml:305
+msgid ""
+"data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_ORGANICS_HATE_LIST\"]/event[2]/text"
+msgstr ""
+"あなたはあなたのクルーメンバーを異端者に引き渡します。HILTEを待った後、異端者が手を伸ばして、彼らが終わっていると言ったときに、乗組員を要求しようとしています。彼らはすぐにあなたの乗組員を送り、飛び去る前にあなたの乗組員を送ります。"
+
+#: src-en/data/events_sector_aea_necro.xml:307
+msgid ""
+"data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_ORGANICS_HATE_LIST\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:309
+msgid ""
+"data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_ORGANICS_HATE_LIST\"]/event[2]/choice/event/text"
+msgstr "彼らは間違った乗組員に送られたに違いないことが判明しましたが、彼らはあなたが彼らにフォローアップできるようになる前に十分に過ごしています。"
+
+#: src-en/data/events_sector_aea_necro.xml:314
+msgid ""
+"data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_ORGANICS_HATE_LIST\"]/event[2]/choice/event/removeCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:337
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/text"
+msgstr "異端船は、組合船との戦いに閉じ込められています。それは膠着状態のようであり、どちらの船も他の船に勝ちません。"
+
+#: src-en/data/events_sector_aea_necro.xml:339
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[1]/text"
+msgstr "船を呼び起こします。"
+
+#: src-en/data/events_sector_aea_necro.xml:341
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[1]/event/text"
+msgstr ""
+"エンギの異端者は、彼らが戦争の努力のために人間の遺体を必要としていることを説明しています。連合船は、彼らが死にたくないと説明することによって反論します。"
+
+#: src-en/data/events_sector_aea_necro.xml:343
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[1]/event/choice[1]/text"
+msgstr "異端者の側。"
+
+#: src-en/data/events_sector_aea_necro.xml:345
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[1]/event/choice[1]/event/text"
+msgstr "組合船はあなたの裏切りに激怒しています。異端者は、あなたに従事する余地を与えるためにサポートを引き戻して喜んでいます。"
+
+#: src-en/data/events_sector_aea_necro.xml:348
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:354
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[1]/event/choice[2]/text"
+msgstr "民間人との側。"
+
+#: src-en/data/events_sector_aea_necro.xml:356
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[1]/event/choice[2]/event/text"
+msgstr "「反逆者、あなたが彼らの戦術に精通していることを願っています、彼らは正確に公平に戦うことはありません。」"
+
+#: src-en/data/events_sector_aea_necro.xml:359
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:367
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[2]/text"
+msgstr "飛び去る。"
+
+#: src-en/data/events_sector_aea_necro.xml:369
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[2]/event/text"
+msgstr "安全な距離になるまで、2つの船のショットが通信に響き渡るのを聞くことができます。"
+
+#: src-en/data/events_sector_aea_necro.xml:371
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:375
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:382
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE_WIN\"]/text"
+msgstr ""
+"「成功した。あなたはこれらのオーガニックに対処することができることを証明した。おそらくあなたは私をあなたの船に受け入れるだろうか？」異端者の残りの部分は、組合船の遺跡でドッキングするために動き、あなたは彼らがそこで何をしているのかを考えるために震えます。"
+
+#: src-en/data/events_sector_aea_necro.xml:386
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_UNION_CHOICE_WIN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:391
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ENGI_CHOICE_WIN\"]/text"
+msgstr "「レネゲイド、あなたが私たちを救うためにここにいたことに感謝しています。このドローンを報酬として持ってください。」"
+
+#: src-en/data/events_sector_aea_necro.xml:395
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ENGI_CHOICE_WIN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:401
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/text"
+msgstr ""
+"あなたは到着して、近くの集落でのAssualtのためにそれ自体を配置している異端の船を見つけます。あなたは彼らに嘆願しようとしている和解のリーダーを聞くことができます。\n"
+"\n"
+"「あなたは間違っています、私たちは戦争の努力のためにあなたの体が必要です。」\n"
+"\n"
+"「お願いします、これはすべて間違っています。あなたは私たちを殺す必要はありません、ドローンか何かを使う必要はありません、これは残酷です！」\n"
+"\n"
+"「私たちは理解していません。なぜオーガニックの仕事をするためにロボットを作成するのでしょうか。この方法でより効率的ですか？」\n"
+"\n"
+"「オーガニックの役割は、死ぬことではなく、あなたの大義のために復活することではなく、私たちには人生、家族、感情があり、あなたの戦いの外に存在します。これを除外してください。」"
+
+#: src-en/data/events_sector_aea_necro.xml:411
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/text"
+msgstr "代わりにドローンを使用するようにEngi異端者を奨励してください。"
+
+#: src-en/data/events_sector_aea_necro.xml:413
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/text"
+msgstr "「しかし、私たちには何もありません。ここには多くの人間がいます。」"
+
+#: src-en/data/events_sector_aea_necro.xml:415
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG_DEFEND\"]/text"
+msgstr "彼らにバトルドローンを与えます。"
+
+#: src-en/data/events_sector_aea_necro.xml:417
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG_DEFEND\"]/event/text"
+msgstr "「おそらくオーガニックは正しい、これは私たちの目的に役立つかもしれない。おそらく私たちはオーガニックについて間違っていた...」"
+
+#: src-en/data/events_sector_aea_necro.xml:420
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG_DEFEND\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:426
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG_BOARDER\"]/text"
+msgstr "彼らにバトルドローンを与えます。"
+
+#: src-en/data/events_sector_aea_necro.xml:428
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG_BOARDER\"]/event/text"
+msgstr "「おそらくオーガニックは正しい、これは私たちの目的に役立つかもしれない。おそらく私たちはオーガニックについて間違っていた...」"
+
+#: src-en/data/events_sector_aea_necro.xml:431
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG_BOARDER\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:437
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG2_DEFEND\"]/text"
+msgstr "バトルドローンMk 2を与えます。"
+
+#: src-en/data/events_sector_aea_necro.xml:439
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG2_DEFEND\"]/event/text"
+msgstr "「おそらくオーガニックは正しい、これは私たちの目的に役立つかもしれない。おそらく私たちはオーガニックについて間違っていた...」"
+
+#: src-en/data/events_sector_aea_necro.xml:442
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG2_DEFEND\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:448
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG2_BOARDER\"]/text"
+msgstr "バトルドローンMk 2を与えます。"
+
+#: src-en/data/events_sector_aea_necro.xml:450
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG2_BOARDER\"]/event/text"
+msgstr "「おそらくオーガニックは正しい、これは私たちの目的に役立つかもしれない。おそらく私たちはオーガニックについて間違っていた...」"
+
+#: src-en/data/events_sector_aea_necro.xml:453
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[@req=\"BATTLETOG2_BOARDER\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:459
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[5]/text"
+msgstr "彼らが望むすべてのドローンを購入できる最寄りの店に彼らに道順を与えます。"
+
+#: src-en/data/events_sector_aea_necro.xml:461
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[5]/event/text"
+msgstr "おそらくあなたは正しいです、私たちはこれらの有機物を使用する前にドローンを試してみます。"
+
+#: src-en/data/events_sector_aea_necro.xml:463
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[5]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:465
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[5]/event/choice/event/text"
+msgstr "和解はあなたに感謝し、あなたに小さな報酬を提供します。"
+
+#: src-en/data/events_sector_aea_necro.xml:468
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[1]/event/choice[5]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:478
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
+" and not(@lvl)]/text"
+msgstr "異端者に必要なことをするように伝えてください。"
+
+#: src-en/data/events_sector_aea_necro.xml:480
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
+" and not(@lvl)]/event/text"
+msgstr "「あなたは正しいです、あなたはまた有機物を持っています、私たちはそれらを大義のために取ります。」"
+
+#: src-en/data/events_sector_aea_necro.xml:483
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
+" and not(@lvl)]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:489
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
+" and @lvl=\"0\"]/text"
+msgstr "異端者に必要なことをするように伝えてください。"
+
+#: src-en/data/events_sector_aea_necro.xml:491
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"「あなたは正しい、オーガニックは前進する方法です。反乱軍として知られるオーガニックに対するあなた自身の探求における私たちのサポートのトークンとしてこの[ドローン]を取りなさい。」"
+
+#: src-en/data/events_sector_aea_necro.xml:494
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:500
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[4]/text"
+msgstr "関与しないでください。"
+
+#: src-en/data/events_sector_aea_necro.xml:502
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[4]/event/text"
+msgstr "エンギーの異端者が和解に開かれているので、あなたは耳を傾けないようにしています。"
+
+#: src-en/data/events_sector_aea_necro.xml:504
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:508
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL\"]/choice[4]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:515
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL_REWARD\"]/text"
+msgstr "和解はあなたに手を差し伸べ、エンギーの異端者に平和的に去ることに感謝し、彼らはあなたに大きな報酬とドローンを提供します。"
+
+#: src-en/data/events_sector_aea_necro.xml:519
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL_REWARD\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:524
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL_REWARD2\"]/text"
+msgstr "和解はあなたに手を差し伸べ、エンギーの異端者に平和的に去ることに感謝し、彼らはあなたに大きな報酬とドローンを提供します。"
+
+#: src-en/data/events_sector_aea_necro.xml:528
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_HERETIC_MORAL_REWARD2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:534
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/text"
+msgstr "船はビーコンのそばに浮かんでおり、大量に損傷しているように見えますが、一部のスコーチマークはまだ熱いです。"
+
+#: src-en/data/events_sector_aea_necro.xml:536
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/text"
+msgstr "船に乗る。"
+
+#: src-en/data/events_sector_aea_necro.xml:538
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/text"
+msgstr "あなたは船をすばやく検索し、乗組員を見つけ、彼らはすべて死んでいます。誰がこれをしたかは確かに彼ら全員を殺そうと決心しました。"
+
+#: src-en/data/events_sector_aea_necro.xml:540
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[1]/text"
+msgstr "近くの惑星に身体に適切な埋葬を与えます。"
+
+#: src-en/data/events_sector_aea_necro.xml:542
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"あなたが体を埋めているとき、大きな異端の容器が近くに現れます、彼らはあなたとあなたがしていることを見つけます。\n"
+"\n"
+"「それらは私たちのものです。代わりにあなたを連れて行かなければなりません。」"
+
+#: src-en/data/events_sector_aea_necro.xml:547
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:553
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[2]/text"
+msgstr "体を無視します。"
+
+#: src-en/data/events_sector_aea_necro.xml:555
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"乗組員から船に戻って言葉を受け取り、船に戻って、異端の船があなたに耐えられているのを見つけます。\n"
+"「それらのオーガニックは私たちのものです、彼らを私たちに任せてください。」"
+
+#: src-en/data/events_sector_aea_necro.xml:560
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:562
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[2]/event/choice[1]/event/text"
+msgstr "船の乗組員はそれを見るために生きていないかもしれませんが、とにかくそれらを復avenするでしょう。"
+
+#: src-en/data/events_sector_aea_necro.xml:565
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[2]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:571
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr "体に触れる意図がなかったことを説明してください。"
+
+#: src-en/data/events_sector_aea_necro.xml:573
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[2]/event/choice[2]/event/text"
+msgstr ""
+"「良い、私たちはオーガニックだけが欲しい、あなたは他に何でも持っているかもしれない。」異端者が彼らの賞品を受け取った後、あなたは容器を略奪することができます。"
+
+#: src-en/data/events_sector_aea_necro.xml:576
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:586
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[2]/text"
+msgstr "飛び去る。"
+
+#: src-en/data/events_sector_aea_necro.xml:588
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[2]/event/text"
+msgstr "あなたはその船で起こっていることに関与するつもりはありません。"
+
+#: src-en/data/events_sector_aea_necro.xml:590
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:594
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_BURY_BODIES\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:602
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/text"
+msgstr ""
+"分離主義者の船が近くに浮かび、あなたからゆっくりと距離を置いています。あなたはやや困惑しているのは、クイックスキャンが乗組員に乗っていないことを示していますが、船は完全に機能的で反応が良いようです。"
+
+#: src-en/data/events_sector_aea_necro.xml:605
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:607
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[1]/event/text"
+msgstr "船の謎はあなたにとって重要ではありません。あなたの心の唯一のことは、それを爆破することの報酬です。"
+
+#: src-en/data/events_sector_aea_necro.xml:610
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:616
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[2]/text"
+msgstr "コミュニケーションをとってみてください。"
+
+#: src-en/data/events_sector_aea_necro.xml:618
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[2]/event/text"
+msgstr "あなたは手を差し伸べようとしますが、船が聞くことができるすべてを拾うたびに、かすかな騒音があります。"
+
+#: src-en/data/events_sector_aea_necro.xml:620
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:622
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[2]/event/choice[1]/event/text"
+msgstr "船の謎はあなたにとって重要ではありません。あなたの心の唯一のことは、それを爆破することの報酬です。"
+
+#: src-en/data/events_sector_aea_necro.xml:625
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[2]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:631
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:633
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[2]/event/choice[2]/event/text"
+msgstr "あなたは謎に興味を失い、先に進む準備をしています。"
+
+#: src-en/data/events_sector_aea_necro.xml:635
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[2]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:639
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[2]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:647
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
+msgstr "（スラッグクルー）ライフサインを検出してみてください。"
+
+#: src-en/data/events_sector_aea_necro.xml:649
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
+msgstr ""
+"あなたのスラッグは、敵の船に乗って何らかの形の知性を感じようとします。彼らは潜在的な生活のかすかな兆候を検出しますが、彼らが伝えることはほぼ不可能です。"
+
+#: src-en/data/events_sector_aea_necro.xml:651
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:653
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[1]/event/text"
+msgstr "船の謎はあなたにとって重要ではありません。あなたの心の唯一のことは、それを爆破することの報酬です。"
+
+#: src-en/data/events_sector_aea_necro.xml:656
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:662
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:664
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[2]/event/text"
+msgstr "あなたは謎に興味を失い、先に進む準備をしています。"
+
+#: src-en/data/events_sector_aea_necro.xml:666
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:670
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:678
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/text"
+msgstr "（テレパシーシェル）ライフサインを検出してみてください。"
+
+#: src-en/data/events_sector_aea_necro.xml:680
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/text"
+msgstr ""
+"あなたのシェルは、敵の船に乗って何らかの形の知性を感知しようとします。彼らは潜在的な生活のかすかな兆候を検出しますが、彼らが伝えることはほぼ不可能です。"
+
+#: src-en/data/events_sector_aea_necro.xml:682
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:684
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[1]/event/text"
+msgstr "船の謎はあなたにとって重要ではありません。あなたの心の唯一のことは、それを爆破することの報酬です。"
+
+#: src-en/data/events_sector_aea_necro.xml:687
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:693
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:695
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[2]/event/text"
+msgstr "あなたは謎に興味を失い、先に進む準備をしています。"
+
+#: src-en/data/events_sector_aea_necro.xml:697
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:701
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:709
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:711
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[5]/event/text"
+msgstr "あなたは船に対処したくない。"
+
+#: src-en/data/events_sector_aea_necro.xml:713
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[5]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:717
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[5]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:725
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/text"
+msgstr ""
+"異端の容器があなたを歓迎します。「艦隊とのあなたの状況は知られています。私たちには命題があります。敵対的な船を殺すのを助けてください。艦隊を遅らせます。」"
+
+#: src-en/data/events_sector_aea_necro.xml:727
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:729
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[1]/event/text"
+msgstr "「反乱軍の自動船は、オーガニックではありませんが、オーガニックによって制御されています。対処するのは面倒です。助けてくれませんか？」"
+
+#: src-en/data/events_sector_aea_necro.xml:731
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[1]/event/choice[1]/text"
+msgstr "自動船を殺すことに同意します。"
+
+#: src-en/data/events_sector_aea_necro.xml:733
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[1]/event/choice[1]/event/text"
+msgstr "異端者はあなたを自動船の場所に導きます。"
+
+#: src-en/data/events_sector_aea_necro.xml:736
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:742
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:744
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[1]/event/choice[2]/event/text"
+msgstr "「私は - あなたの応答で - 不満ですが、私はそれを容認します。死なないようにしてください、キャプテン。」"
+
+#: src-en/data/events_sector_aea_necro.xml:746
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:750
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:758
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:760
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[2]/event/text"
+msgstr "「がっかりします。死なないようにしてください。」"
+
+#: src-en/data/events_sector_aea_necro.xml:762
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:766
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:773
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY_WIN\"]/text"
+msgstr ""
+"「非常に良い。今、あなたの補償のために。あなたの[船]を動かさないでください。」異端者はあなたの容器をスキャンし、あなたの体全体にチクチクした感覚を与えます。異端者は再びあなたを歓迎します、今回はあなたに非常によく似ています。「私の仕事は100％未満ですが、今のところ機能します。ジャンプの署名を隠しています。艦隊は今私に続きます。良い日です。」"
+
+#: src-en/data/events_sector_aea_necro.xml:777
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FLEET_DELAY_LOSE\"]/text"
+msgstr "「あなたは失敗しました。二度と私たちとコミュニケーションをとろうとしないでください。」"
+
+#: src-en/data/events_sector_aea_necro.xml:803
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_PIRATE\"]/text"
+msgstr ""
+"あなたは苦痛のビーコンを見つけます、それはエンギーの異端者によって操縦された小さな脱出カプセルに属します。「オーガニックは私の[船]をコントロールしました。私たちは彼らがまだ生きていることに気づきませんでした。"
+
+#: src-en/data/events_sector_aea_necro.xml:806
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_PIRATE\"]/choice[1]/text"
+msgstr "異端者を支援します。"
+
+#: src-en/data/events_sector_aea_necro.xml:808
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_PIRATE\"]/choice[1]/event/text"
+msgstr "あなたは占領された容器に近づきます。「聞いてよかった。破壊しないでください。」"
+
+#: src-en/data/events_sector_aea_necro.xml:811
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_PIRATE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:817
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_PIRATE\"]/choice[2]/text"
+msgstr "関与しないでください。"
+
+#: src-en/data/events_sector_aea_necro.xml:819
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_PIRATE\"]/choice[2]/event/text"
+msgstr "異端者はイライラしているようで、すぐに切断されます。"
+
+#: src-en/data/events_sector_aea_necro.xml:821
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_PIRATE\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:825
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_PIRATE\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:833
+msgid ""
+"data/events_sector_aea_necro.xml$//eventList[@name=\"DISTRESS_AEA_NECRO_PIRATE_DESTROYED\"]/event[1]/text"
+msgstr "「うわー。あなたは本当のジャークだよね？異端者はハフのコミュニケーションを終了します。"
+
+#: src-en/data/events_sector_aea_necro.xml:837
+msgid ""
+"data/events_sector_aea_necro.xml$//eventList[@name=\"DISTRESS_AEA_NECRO_PIRATE_DESTROYED\"]/event[2]/text"
+msgstr "「あなたは私の[財産]を破壊しました。私は私の復venを持っています。」。"
+
+#: src-en/data/events_sector_aea_necro.xml:844
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/text"
+msgstr "Engi異端部門にとっては珍しいことに、ここに人口密集した惑星があるようです。苦痛のビーコンは、その上の軌道上の異端船から来ています。"
+
+#: src-en/data/events_sector_aea_necro.xml:847
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/text"
+msgstr "それらに連絡してください。"
+
+#: src-en/data/events_sector_aea_necro.xml:849
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/text"
+msgstr ""
+"「キャプテン、私たちはあなたが私たちを支援できるかもしれないと信じています、私たちは人口全体を復活させようとしていましたが、何かが間違っていて、私たちはオーガニックのコントロールを失いました、これを修正してください」"
+
+#: src-en/data/events_sector_aea_necro.xml:852
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"mind\"]/text"
+msgstr "（マインドコントロール）人口をEngi Hereticの管理に戻します。"
+
+#: src-en/data/events_sector_aea_necro.xml:854
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"mind\"]/event/text"
+msgstr "マインドコントロールシステムを使用して、Engi Hereticのコントロールの下にそれらをすべて元に戻します。"
+
+#: src-en/data/events_sector_aea_necro.xml:856
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"mind\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:862
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"LIST_CREW_ENGI\"]/text"
+msgstr "（Engi Crew）惑星に向かい、Nano-Botsとのインターフェース。"
+
+#: src-en/data/events_sector_aea_necro.xml:864
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"LIST_CREW_ENGI\"]/event/text"
+msgstr "あなたのEngiは、表面上のナノボットとインターフェイスし、再びEngi Hereticの制御下に置くことができます。"
+
+#: src-en/data/events_sector_aea_necro.xml:866
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"LIST_CREW_ENGI\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:872
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"hacking\"]/text"
+msgstr "（ハッキング）ナノボットをハッキングし、コントロールをエンギエレティックに戻します。"
+
+#: src-en/data/events_sector_aea_necro.xml:874
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"hacking\"]/event/text"
+msgstr "ナノボットシステムにハッキングし、Engi Hereticから誤ってコントロールした機能を排除することができます。"
+
+#: src-en/data/events_sector_aea_necro.xml:876
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"hacking\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:882
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"medbay\"]/text"
+msgstr "（Medbay）人口を治します。"
+
+#: src-en/data/events_sector_aea_necro.xml:884
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"medbay\"]/event/text"
+msgstr "MedBayを使用して、惑星の表面上の人々の苦しみに対する治療法を統合することができます。"
+
+#: src-en/data/events_sector_aea_necro.xml:886
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"medbay\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:892
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"BOMB_HEAL\"]/text"
+msgstr "（医療爆弾）人口を治します。"
+
+#: src-en/data/events_sector_aea_necro.xml:894
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"BOMB_HEAL\"]/event/text"
+msgstr "あなたはあなたの医療爆弾を使用して、惑星の表面上の人々の苦しみに対する治療法を統合することができます。"
+
+#: src-en/data/events_sector_aea_necro.xml:896
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"BOMB_HEAL\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:902
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/text"
+msgstr "（医療乗組員）人口を治します。"
+
+#: src-en/data/events_sector_aea_necro.xml:904
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/text"
+msgstr "あなたの医療乗組員は、惑星の表面上の人々の苦しみに対する治療法を統合することができます。"
+
+#: src-en/data/events_sector_aea_necro.xml:906
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:912
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[7]/text"
+msgstr "あなたは助けることができません。"
+
+#: src-en/data/events_sector_aea_necro.xml:914
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[7]/event/text"
+msgstr "エンギーの異端者は失望していますが、惑星を見ることに戻ります。"
+
+#: src-en/data/events_sector_aea_necro.xml:916
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[7]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:920
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_ZOMBIE_PLANET\"]/choice/event/choice[7]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:929
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ZOMBIE_REWARD\"]/text"
+msgstr ""
+"「優れた仕事のキャプテン、よくやった仕事に対するあなたの報酬がここにあります。」Engi Hereticは、惑星の監視を続けるために戻ってきます。"
+
+#: src-en/data/events_sector_aea_necro.xml:933
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ZOMBIE_FAILURE\"]/text"
+msgstr ""
+"「これの意味は何ですか、これは何らかのトリックです！あなたの裏切りのために死ぬ準備をしてください！」エンギーの異端者は、あなたが彼らのゾンビの惑星をよく破壊することを連れて行かなかったようです。"
+
+#: src-en/data/events_sector_aea_necro.xml:936
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_ZOMBIE_FAILURE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:946
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_TRAP_BEACON\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:951
+msgid ""
+"data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_DISTRESS_AEA_NECRO_TRAP_BEACON\"]/text[1]"
+msgstr ""
+"苦痛のビーコンを投影する船は異端の船です、彼らはあなたを歓迎します。「あなたのオーガニックは常にそれに陥り、死ぬ準備をして私の家臣になる準備をしてください！」あなたは異端者のtrapに倒れたようです。"
+
+#: src-en/data/events_sector_aea_necro.xml:952
+msgid ""
+"data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_DISTRESS_AEA_NECRO_TRAP_BEACON\"]/text[2]"
+msgstr ""
+"「キャプテン、これは偽の苦痛のビーコンであることを知っている必要があります。異なる微小透視とガンマノードの周波数は、dead-dead-"
+"giveawayです。"
+
+#: src-en/data/events_sector_aea_necro.xml:976
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE\"]/text"
+msgstr "異端の船の飛行隊がこのビーコンに集まっています。彼らはすぐにあなたを攻撃しません、彼らの武器はオンラインでさえありません。"
+
+#: src-en/data/events_sector_aea_necro.xml:978
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:980
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE\"]/choice[1]/event/text"
+msgstr ""
+"「受け取った連絡先のリクエスト。タイミングは幸運です。私たちはあなたに申し出を受けています。現在の目的：オーガニックの前post基地を排除します。オーガニックは前post基地を保護するための強力な防衛システムを設定しています。小惑星畑に注意してください。\n"
+"\n"
+"「前post基地をそのままに保つことができれば、余分な報酬を与えます。」\n"
+"。"
+
+#: src-en/data/events_sector_aea_necro.xml:985
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:987
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE\"]/choice[1]/event/choice[1]/event/text"
+msgstr "Engiは前post基地の場所を送信します。"
+
+#: src-en/data/events_sector_aea_necro.xml:992
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE\"]/choice[1]/event/choice[2]/text"
+msgstr "彼らの要求を否定します。"
+
+#: src-en/data/events_sector_aea_necro.xml:994
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE\"]/choice[1]/event/choice[2]/event/text"
+msgstr "Engiはすぐに送信を終了し、さらにhに応答しません。"
+
+#: src-en/data/events_sector_aea_necro.xml:1000
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1002
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE\"]/choice[2]/event/text"
+msgstr "異端の船はあなたの存在によって邪魔されるようには見えず、あなたはそれらを放っておきます。"
+
+#: src-en/data/events_sector_aea_necro.xml:1004
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1008
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1017
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/beaconType/unvisitedTooltip"
+msgstr "あなたが異端者によってクリアすることを任されている海賊の前post基地。"
+
+#: src-en/data/events_sector_aea_necro.xml:1021
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/text"
+msgstr ""
+"ビーコンに到着すると、巨大な小惑星畑にいることに気づきます。しばらくして、あなたの盾が下がり始めました。あなたはハッキングされました。乗組員は、オンラインで戻すには15秒しかかからないと言っていますが、それまでは小惑星畑を生き残る必要があります。"
+
+#: src-en/data/events_sector_aea_necro.xml:1024
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[@req=\"ANTI_VIRUS\"]/text"
+msgstr "（アンチウイルス）シールドを復元します。"
+
+#: src-en/data/events_sector_aea_necro.xml:1026
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[@req=\"ANTI_VIRUS\"]/event/text"
+msgstr "シールドシステムはフルパワーに復元されます。"
+
+#: src-en/data/events_sector_aea_necro.xml:1029
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[@req=\"ANTI_VIRUS\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1035
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[@req=\"hacking\"]/text"
+msgstr "（ハッキング）シールドを復元します。"
+
+#: src-en/data/events_sector_aea_necro.xml:1037
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[@req=\"hacking\"]/event/text"
+msgstr "シールドシステムはフルパワーに復元されます。"
+
+#: src-en/data/events_sector_aea_necro.xml:1040
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[@req=\"hacking\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1046
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1048
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[3]/event/text"
+msgstr "他に選択肢がないので、乗組員は小惑星への影響に対処する準備をします。"
+
+#: src-en/data/events_sector_aea_necro.xml:1051
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "シールドシステムの復元..."
+
+#: src-en/data/events_sector_aea_necro.xml:1056
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1063
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_CONTINUE\"]/text"
+msgstr ""
+"シールドシステムが復元されると、海賊の前post基地に向かってプッシュします。近づくと、これは通常の駅ではないことに気付きます。代わりに、海賊が大きな武器を備えた専門の民兵プラットフォームを手に入れているようです。これは簡単な戦いではありません。"
+
+#: src-en/data/events_sector_aea_necro.xml:1066
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_CONTINUE\"]/choice/text"
+msgstr "戦う準備をする！"
+
+#: src-en/data/events_sector_aea_necro.xml:1094
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_AEA_NECRO\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1099
+msgid ""
+"data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[1]"
+msgstr ""
+"短い金切り声が通信で再生され、その後バイナリのループメッセージが続きます。異端船があなたの防御を鳴らすという警告ショットを発射する前に翻訳する時間がありません。"
+
+#: src-en/data/events_sector_aea_necro.xml:1100
+msgid ""
+"data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[2]"
+msgstr ""
+"奇妙に冗長なエンギがあなたを歓迎します。「不幸な出会いの時間、-Federation-船。私は、理由と論理のためにエンコードする私のシステムの部分を[破損]しているように見えますが、今では殺したいという欲求があります。」"
+
+#: src-en/data/events_sector_aea_necro.xml:1101
+msgid ""
+"data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[3]"
+msgstr ""
+"激怒した分離主義者があなたを歓迎します。「問題：あなたは、微視的状態の[私の]の生涯の友人にactcciscidallyを持っています。解決策：死ぬ。」"
+
+#: src-en/data/events_sector_aea_necro.xml:1102
+msgid ""
+"data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[4]"
+msgstr "分離主義者は通常他の船を避けていますが、このビーコンの船は危険な状態にあり、スクラップが必死に必要であるように見えます。"
+
+#: src-en/data/events_sector_aea_necro.xml:1103
+msgid ""
+"data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[5]"
+msgstr "分離主義者の船が攻撃のために移動します。あなたは彼らをどのように怒らせたのかわかりませんが、それはもはや重要ではありません。"
+
+#: src-en/data/events_sector_aea_necro.xml:1104
+msgid ""
+"data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[6]"
+msgstr ""
+"あなたは分離主義者の船に歓迎されており、彼はシェークスピアという名前の死んだ男の作品について多くのことを話し始めます。彼は突然突然スピーチを止めて攻撃します！"
+
+#: src-en/data/events_sector_aea_necro.xml:1108
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_ENGI_AEA_NECRO\"]/text"
+msgstr ""
+"異端船がビーコンを軌道に乗せますが、連絡する前に、彼らは飛び去り、分離主義者の船が近づきます。「キャプテン、それらの異端者は理由のために分離主義者から追い出されました。彼らは危険です。あなたは危険であり、あなたは同じように対処しなければなりません。」"
+
+#: src-en/data/events_sector_aea_necro.xml:1111
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_ENGI_AEA_NECRO\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1117
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_REBEL_AUTO_AEA_NECRO\"]/text"
+msgstr ""
+"「自動船を避けることをお勧めします。壊れています。」あなたは、あなたがいくつかの大きな小惑星の後ろに隠れていると歓迎した分離主義者の船と、あなたに向かって反乱軍の自動船の銃身を知っています！"
+
+#: src-en/data/events_sector_aea_necro.xml:1120
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_REBEL_AUTO_AEA_NECRO\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1125
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_REBEL_AUTO_AEA_NECRO_KILL\"]/text"
+msgstr ""
+"分離主義者は、ロボットの笑いのように聞こえる何かを解放しました。「良い、なぜ他の人が剣闘士の戦闘を見ることから多くの[楽しさ]を得るのかわかります。」彼らは飛び去り、自動船の難破船を残します。"
+
+#: src-en/data/events_sector_aea_necro.xml:1130
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_ZOLTAN_AUTO_AEA_NECRO\"]/text"
+msgstr ""
+"あなたはゾルタンの自動船に予想外に直面するためにビーコンに到着します。それは、それがあなたに開かれようとしているため、何らかのウイルスに感染しているようです。"
+
+#: src-en/data/events_sector_aea_necro.xml:1133
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_ZOLTAN_AUTO_AEA_NECRO\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1157
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO\"]/beaconType/unvisitedTooltip"
+msgstr "これはハーモニーリンクの場所です。"
+
+#: src-en/data/events_sector_aea_necro.xml:1158
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO\"]/beaconType/visitedTooltip"
+msgstr "これはハーモニーリンクの場所です。"
+
+#: src-en/data/events_sector_aea_necro.xml:1160
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO\"]/text"
+msgstr ""
+"ハーモニーリンクを発見したようです。これらの巨大な惑星サイズの構造は、数兆個のナノボットで構成されており、セクターのすべてのENGIに強い信号を送信します。しかし、これは異端者によって腐敗しているように見えますが、今ではナノボットを使用して敵の体を復活させています。"
+
+#: src-en/data/events_sector_aea_necro.xml:1163
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO\"]/choice[@req=\"HARMONY_LINK_CHECK\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1167
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO\"]/choice[@req=\"HARMONY_LINK_CHECK\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1184
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_MFK\"]/text"
+msgstr "遠くからリンクを観察すると、リンクから大きな船舶が浸っていることに気付くと、あなたはそれがMFK船であるという事実です。"
+
+#: src-en/data/events_sector_aea_necro.xml:1187
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_MFK\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1189
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_MFK\"]/choice/event/text"
+msgstr ""
+"あなたは近くのエンギの異端者に歓迎されています。「キャプテン、あなたのタイミングは完璧です。あなたはちょうど私たちの最新のプロジェクトをテストするのに間に合うようにここにいます。」それにより、MFK船はあなたに注意を向けます。"
+
+#: src-en/data/events_sector_aea_necro.xml:1191
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_MFK\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1198
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_MFK_WIN\"]/text"
+msgstr ""
+"「うーん、あなたが反政府勢力と呼ぶオーガニックは最適に機能していないようです。プロセスを改善する必要があります。」エンギの異端者はあなたの勝利によって略奪されているように見えますが、彼らの反政府勢力が失敗したからだけです。"
+
+#: src-en/data/events_sector_aea_necro.xml:1203
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_FED\"]/text"
+msgstr "遠くからリンクを観察すると、リンクから大きな船舶が没頭していることに気付くと、あなたはそれがエリート連邦船であるという事実です。"
+
+#: src-en/data/events_sector_aea_necro.xml:1206
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_FED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1208
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_FED\"]/choice/event/text"
+msgstr ""
+"あなたは近くのエンギの異端者に歓迎されています。「キャプテン、あなたのタイミングは完璧です。あなたはちょうど私たちの最新のプロジェクトをテストするのに間に合うようにここにいます。」それにより、連邦船はあなたに注意を向けます。"
+
+#: src-en/data/events_sector_aea_necro.xml:1210
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_FED\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1217
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_FED_WIN\"]/text"
+msgstr ""
+"「うーん、あなたが連邦と呼ぶオーガニックは最適に機能していないようです。プロセスを改善する必要があります。」エンギの異端者はあなたの勝利によって略奪されているように見えますが、彼らのゾンビが失敗したからだけです。"
+
+#: src-en/data/events_sector_aea_necro.xml:1225
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/beaconType/unvisitedTooltip"
+msgstr "これはハーモニーリンクの場所です。"
+
+#: src-en/data/events_sector_aea_necro.xml:1226
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/beaconType/visitedTooltip"
+msgstr "これはハーモニーリンクの場所です。"
+
+#: src-en/data/events_sector_aea_necro.xml:1228
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/text"
+msgstr ""
+"ハーモニーリンクを発見したようです。通常、これらは大規模な惑星サイズの構造ですが、これはエンギの異端者によって破損しています。さらに悪いことに、彼らはそれを使用して巨大な宇宙クジラを復活させようとしているようです。"
+
+#: src-en/data/events_sector_aea_necro.xml:1231
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/text"
+msgstr "構造を調査します。"
+
+#: src-en/data/events_sector_aea_necro.xml:1233
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/text"
+msgstr "近づくと、リンクから巨大な異端の巡洋艦が現れると、あなたの通路がなければならないようです。「去って、これはあなたのようなものではない。」"
+
+#: src-en/data/events_sector_aea_necro.xml:1236
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[1]/text"
+msgstr "過去を押し込もうとします。"
+
+#: src-en/data/events_sector_aea_necro.xml:1238
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[1]/event/text"
+msgstr "異端の巡洋艦は武器を活性化します、それはあなたが戦わずに過去を得るつもりはないようです。"
+
+#: src-en/data/events_sector_aea_necro.xml:1241
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1247
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[2]/text"
+msgstr "提案されているようにオフに戻ります。"
+
+#: src-en/data/events_sector_aea_necro.xml:1249
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[2]/event/text"
+msgstr "異端の巡洋艦は、あなたが節約距離に戻るときにあなたを観察し続けます。"
+
+#: src-en/data/events_sector_aea_necro.xml:1251
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1255
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1263
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1265
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[2]/event/text"
+msgstr "異端の船はあなたの存在によって邪魔されるようには見えず、あなたはそれらを放っておきます。"
+
+#: src-en/data/events_sector_aea_necro.xml:1267
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1271
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1279
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/text"
+msgstr ""
+"異端の巡洋艦に対処したので、復活のサイトにアクセスできます。最終的にあなたは構造のコントロールセンターに到着し、内部には獣を直接指す奇妙な武器を見つけます。"
+
+#: src-en/data/events_sector_aea_necro.xml:1281
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/choice[1]/text"
+msgstr "武器を取ります。"
+
+#: src-en/data/events_sector_aea_necro.xml:1283
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/choice[1]/event/text"
+msgstr "あなたはその住宅から武器を引き裂き、船に戻って後退します。何かが間違っていることに気付くのに長い時間をかけることはありません。"
+
+#: src-en/data/events_sector_aea_necro.xml:1286
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1292
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/choice[2]/text"
+msgstr "代わりに構造を廃棄します。"
+
+#: src-en/data/events_sector_aea_necro.xml:1294
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/choice[2]/event/text"
+msgstr "船に戻る前に構造からできるスクラップをつかみます。何かが間違っていることに気付くのに長くengiをかけることはありません。"
+
+#: src-en/data/events_sector_aea_necro.xml:1297
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1316
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/beaconType/unvisitedTooltip"
+msgstr "これはハーモニーリンクの場所です。"
+
+#: src-en/data/events_sector_aea_necro.xml:1317
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/beaconType/visitedTooltip"
+msgstr "これはハーモニーリンクの場所です。"
+
+#: src-en/data/events_sector_aea_necro.xml:1319
+msgid "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/text"
+msgstr ""
+"あなたは異端者の最も重要な場所の1つである異端者の聖域に到着しました。ここでは、異端者の上部命令が彼らの力を操作して多くの敵と戦う場所です。"
+
+#: src-en/data/events_sector_aea_necro.xml:1322
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/text"
+msgstr "土地と調査。"
+
+#: src-en/data/events_sector_aea_necro.xml:1324
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/text"
+msgstr "ある種のイベントが表面に落ちているようで、何百ものエンギー異端者が開いたエリアで組み立てられ、明らかに待っているようです。"
+
+#: src-en/data/events_sector_aea_necro.xml:1327
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1329
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"あなたが見ているように、金色の異端が近くの建物から、そしてその背後にある鎖の囚人から現れます。囚人は反政府勢力将軍のように見えますが、汚いですが、あなたはまだ独特の制服を作ることができます。\n"
+"\n"
+"金色のエンギは、大きな刃を引き出す前に、将軍を上げられたプラットフォームにもたらします。しばらくして、将軍は死んでおり、剣に串刺しにされた。\n"
+"。"
+
+#: src-en/data/events_sector_aea_necro.xml:1334
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1336
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+"金色のエンギは将軍で仕上げられておらず、代わりにエンギは傷に腕を突き刺します。\n"
+"\n"
+"しばらくして、将軍は再び生きていますが、今回は何かが異なります。もはやチェーンに苦労していませんが、将軍は金色のエンギを完全に制御しているように見えます。"
+
+#: src-en/data/events_sector_aea_necro.xml:1340
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1342
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr "異端の容器が武器であなたを中断する前に、それはほんの少し後ではありません。"
+
+#: src-en/data/events_sector_aea_necro.xml:1345
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1357
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1359
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[2]/event/text"
+msgstr "あなたが何も知らないことに突っ込むリスクは価値がありません。"
+
+#: src-en/data/events_sector_aea_necro.xml:1361
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1365
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1373
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/text"
+msgstr ""
+"異端の容器が破壊されたことで、あなたは表面から予期しないあられを受け取ります。「挨拶のキャプテン、あなたは私の船を破壊するのに非常に効率的でした、私はあなたのために使用するかもしれません。」"
+
+#: src-en/data/events_sector_aea_necro.xml:1375
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1377
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/text"
+msgstr ""
+"「ここで展示されている将軍は、反乱軍のオーガニックにとって非常に価値があり、私たちはセクターの端で将軍を救おうとする彼らの弱い試みを拾いました。"
+
+#: src-en/data/events_sector_aea_necro.xml:1379
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/choice[1]/text"
+msgstr "ミッションを受け入れます。"
+
+#: src-en/data/events_sector_aea_necro.xml:1381
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/choice[1]/event/text"
+msgstr "「キャプテンを死なないようにしてください。」容器の座標はコンピューターにアップロードされます。"
+
+#: src-en/data/events_sector_aea_necro.xml:1384
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1390
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/choice[2]/text"
+msgstr "ミッションを拒否します。"
+
+#: src-en/data/events_sector_aea_necro.xml:1392
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/choice[2]/event/text"
+msgstr "「非常によく、キャプテンを死なないようにしてください。」"
+
+#: src-en/data/events_sector_aea_necro.xml:1394
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1406
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_SANCTUM_QUEST\"]/beaconType/unvisitedTooltip"
+msgstr "あなたが金色のエンギによって破壊されることを任されている危険な反乱船"
+
+#: src-en/data/events_sector_aea_necro.xml:1410
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_SANCTUM_QUEST\"]/text"
+msgstr "あなたはビーコンに到着します、あなたは近くに何もピックアップしません。ただし、念のために防御を準備します。"
+
+#: src-en/data/events_sector_aea_necro.xml:1412
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_SANCTUM_QUEST\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1414
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_SANCTUM_QUEST\"]/choice/event/text"
+msgstr "すぐに瞬間はありませんが、小惑星の後ろから船が現れますが、彼らの最初のボレーはあなたの防御によって簡単に敗北します。"
+
+#: src-en/data/events_sector_aea_necro.xml:1417
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_SANCTUM_QUEST\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1425
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/text"
+msgstr ""
+"新しい船がビーコンに到着し、あなたは再び金色のエンギに歓迎されています。「あなたの勝利のキャプテンおめでとうございます。私は正式に自己紹介する必要があります。私の名前はL-0031ですが、一部の人は私をリッチキングと呼んでいます。」"
+
+#: src-en/data/events_sector_aea_necro.xml:1427
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1429
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/text"
+msgstr ""
+"「あなたはこの敵を打ち負かすのに非常にうまくいきました。それについては、私たちが設計してきた巡洋艦の概略図を届けます。しかし、私はあなたの何かを尋ねるためにここに来ました。エンギーの異端者を構築しすぎて長い時間を費やしました。私は本当に経験していません。"
+
+#: src-en/data/events_sector_aea_necro.xml:1432
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[1]/text"
+msgstr "あなたの船にエンギを歓迎します。"
+
+#: src-en/data/events_sector_aea_necro.xml:1434
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"Engiはあなたの船に乗っています。L-0031がEngiの始まりから存在していると推測する必要があれば、おそらくハーモニーから分離した最初の人の1人でさえあります。"
+
+#: src-en/data/events_sector_aea_necro.xml:1435
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[1]/event/crewMember"
+msgstr "L-0031"
+
+#: src-en/data/events_sector_aea_necro.xml:1437
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_necro.xml:1443
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[2]/text"
+msgstr "申し出を拒否します。"
+
+#: src-en/data/events_sector_aea_necro.xml:1445
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[2]/event/text"
+msgstr "「非常によく、キャプテンを死なないようにしてください。」"
+
+#: src-en/data/events_sector_aea_necro.xml:1447
+msgid ""
+"data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[2]/event/choice/text"
+msgstr ""

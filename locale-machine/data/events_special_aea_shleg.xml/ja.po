@@ -1,0 +1,543 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_aea_shleg.xml:4
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_UPDATE_AEA_SHLEG\"]/text"
+msgstr ""
+"[悪名高い増加 - アナキスト]\n"
+"ここでのあなたの行動は、正当であるかどうかにかかわらず、geniocracyまたはその市民の目にはよく反映されません。このような行動を継続的に実行すると、アナキストとその同盟国からの否定的な反応が見られるかもしれません。"
+
+#: src-en/data/events_special_aea_shleg.xml:9
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_UPDATE_AEA_SHLEG_FIGHT\"]/text"
+msgstr ""
+"[悪名高い増加 - アナキスト]\n"
+"ここでのあなたの行動は、正当であるかどうかにかかわらず、geniocracyまたはその市民の目にはよく反映されません。このような行動を継続的に実行すると、アナキストとその同盟国からの否定的な反応が見られるかもしれません。"
+
+#: src-en/data/events_special_aea_shleg.xml:13
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_UPDATE_AEA_SHLEG_FIGHT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:19
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_REMOVE_AEA_SHLEG\"]/text"
+msgstr ""
+"[悪名高い減少 - アナキスト]\n"
+"あなたはここアナキストの目にここで善行をしました。過去に他の行動から悪名を獲得した場合、あなたはそれらを許される可能性が高くなります。"
+
+#: src-en/data/events_special_aea_shleg.xml:37
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_START_AEA_SHLEG\"]/text[1]"
+msgstr ""
+"あなたはアナキスト空間に到着しました。アナキストは厳密に連邦に反対していませんが、彼らもそれの大ファンではありません。彼らは、盗難とgeniocracyに対する反乱を心配するのに十分です。"
+
+#: src-en/data/events_special_aea_shleg.xml:38
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_START_AEA_SHLEG\"]/text[2]"
+msgstr ""
+"あなたはアナキスト空間に到着しました。ここの多くの人々は、連邦政府を不信感を抱いているように見えます。あなたはそれを安全にプレイする方が良いでしょう。"
+
+#: src-en/data/events_special_aea_shleg.xml:39
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_START_AEA_SHLEG\"]/text[3]"
+msgstr ""
+"あなたはアナキスト空間に到着しました。ここには多くの同盟国を見つけることはありません。彼らがスラッグや貝殻であることは幸運であり、それは連邦にそれほど問題はありません。"
+
+#: src-en/data/events_special_aea_shleg.xml:53
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"START_AEA_SHLEG\"]/choice[@req=\"rep_comb_aea_shleg\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:57
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"START_AEA_SHLEG\"]/choice[@req=\"rep_comb_aea_shleg\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:74
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"START_AEA_SHLEG_UNIQUE\"]/choice[@req=\"rep_comb_aea_shleg\""
+" and @lvl=\"-999\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:78
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"START_AEA_SHLEG_UNIQUE\"]/choice[@req=\"rep_comb_aea_shleg\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:84
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_CRIMINAL\"]/text"
+msgstr ""
+"ここに何かが外れているようです。通常、アナキストはあなたのような船で目を打つことはありませんが、今、あなたは警備船で疑わしいおしゃべりを見つけます。"
+
+#: src-en/data/events_special_aea_shleg.xml:86
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_CRIMINAL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:88
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_CRIMINAL\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:91
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_CRIMINAL\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:99
+msgid "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG\"]/text"
+msgstr ""
+"アナキストは、彼らの船だけでなく、彼らのセクター全体で十分に維持された防御を大切にしています。そのため、入り口のビーコンを保護するために警備船が配備されています。幸いなことに、彼らはあなたがここにいることを気にしないようです。"
+
+#: src-en/data/events_special_aea_shleg.xml:101
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:103
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:105
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:109
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:115
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:119
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:124
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:132
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_GUARD_AEA_SHLEG_CONTACT\"]/text[1]"
+msgstr "画面に小さなシェルが現れ、彼らの特異な目があなたにロックされ、待っています。"
+
+#: src-en/data/events_special_aea_shleg.xml:133
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_GUARD_AEA_SHLEG_CONTACT\"]/text[2]"
+msgstr "スラッグのキャプテンはあなたからあられを受け取って驚いています。それでも、彼はあなたのあられを受け入れます。"
+
+#: src-en/data/events_special_aea_shleg.xml:138
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_INTERACT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:142
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_INTERACT\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:146
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_INTERACT\"]/choice[@req=\"weapons\"]/text"
+msgstr "（Upg。Weapons）警備員を脅かす。"
+
+#: src-en/data/events_special_aea_shleg.xml:150
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_INTERACT\"]/choice[@req=\"LIST_CREW_AEA_SHLEG\"]/text"
+msgstr "（アナキストの乗組員）支援を要求します。"
+
+#: src-en/data/events_special_aea_shleg.xml:152
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_INTERACT\"]/choice[@req=\"LIST_CREW_AEA_SHLEG\"]/event/text"
+msgstr "「ああ、セクターへようこそ。お詫び申し上げます。連邦船に乗っている私たちの種類はあまり見ません。」"
+
+#: src-en/data/events_special_aea_shleg.xml:157
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_INTERACT\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:159
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_INTERACT\"]/choice[5]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:161
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_INTERACT\"]/choice[5]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:165
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_INTERACT\"]/choice[5]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:174
+msgid ""
+"data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_REQUEST\"]/event[1]/text"
+msgstr "「ごめんなさい、でも私は任意のものを与えることはできません。」アナキストはあなたの船をミュートします。"
+
+#: src-en/data/events_special_aea_shleg.xml:177
+msgid ""
+"data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_REQUEST\"]/event[2]/text"
+msgstr "「ごめんなさい、でも私は任意のものを与えることはできません。」アナキストはあなたの船をミュートします。"
+
+#: src-en/data/events_special_aea_shleg.xml:180
+msgid ""
+"data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_REQUEST\"]/event[3]/text"
+msgstr "驚いたことに、アナキストはいくつかの物資を転送します。あなたは彼らが親切からそれをしているのか、それとも恐怖からそれをしているのだろうか。"
+
+#: src-en/data/events_special_aea_shleg.xml:186
+msgid ""
+"data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_DEMAND\"]/event[1]/text"
+msgstr "この警備員はあなたの要求に耐えていません。彼らは武器を武装させ、あなたは同じことをするべきです。"
+
+#: src-en/data/events_special_aea_shleg.xml:189
+msgid ""
+"data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_DEMAND\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:194
+msgid ""
+"data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_DEMAND\"]/event[2]/text"
+msgstr "あなたを恐れるか、彼らが通常親切であるかどうかにかかわらず、アナキストは物資を喜んで転送します。"
+
+#: src-en/data/events_special_aea_shleg.xml:197
+msgid ""
+"data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_DEMAND\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:204
+msgid ""
+"data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_THREATEN\"]/event[1]/text"
+msgstr "この警備員はあなたの要求に耐えていません。彼らは武器を武装させ、あなたは同じことをするべきです。"
+
+#: src-en/data/events_special_aea_shleg.xml:207
+msgid ""
+"data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_THREATEN\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:212
+msgid ""
+"data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_THREATEN\"]/event[2]/text"
+msgstr "あなたを恐れるか、彼らが通常親切であるかどうかにかかわらず、アナキストは物資を喜んで転送します。"
+
+#: src-en/data/events_special_aea_shleg.xml:215
+msgid ""
+"data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_THREATEN\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:220
+msgid ""
+"data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_THREATEN\"]/event[3]/text"
+msgstr "あなたを恐れるか、彼らが通常親切であるかどうかにかかわらず、アナキストは物資を喜んで転送します。"
+
+#: src-en/data/events_special_aea_shleg.xml:223
+msgid ""
+"data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_THREATEN\"]/event[3]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:236
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_DESTROY\"]/text"
+msgstr ""
+"あなたはアナキスト警備員を倒しました。彼らの貨物にあったかもしれないものは何でも確実に破壊されましたが、少なくとも船からいくつかの物資を救うことができます。"
+
+#: src-en/data/events_special_aea_shleg.xml:239
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_DESTROY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:244
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_DEADCREW\"]/text"
+msgstr ""
+"あなたはアナキスト警備員を倒しました。乗組員があなたを止めるために乗組員がいなければ、彼らの貨物を調査することができます。船に戻す武器を見つけ、船体を廃棄するために移動します。"
+
+#: src-en/data/events_special_aea_shleg.xml:248
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:261
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_FOLLOWUP\"]/text"
+msgstr ""
+"アナキストの警備員を殺すことで、あなたは間違いなく彼らがあなたを追跡するために補強材を派遣させた。セクターを探索するときのステップをご覧ください。"
+
+#: src-en/data/events_special_aea_shleg.xml:270
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_FOLLOWUP\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:274
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_FOLLOWUP\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:282
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"REINFORCEMENTS_AEA_SHLEG\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:283
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"REINFORCEMENTS_AEA_SHLEG\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:284
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"REINFORCEMENTS_AEA_SHLEG\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:286
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"REINFORCEMENTS_AEA_SHLEG\"]/text"
+msgstr ""
+"アナキストに彼らのti病な方法を放棄し、あなたのような連邦船に真正面から関与するように説得するにはかなりの時間がかかりますが、あなたがこのセクターに襲い、彼らの警備員を殺した後、あなたは他に何を期待できますか？"
+
+#: src-en/data/events_special_aea_shleg.xml:290
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"REINFORCEMENTS_AEA_SHLEG\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:298
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:299
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:300
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:302
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/text"
+msgstr ""
+"アナキストに彼らのti病な方法を放棄し、あなたのような連邦船に真正面から関与するように説得するにはかなりの時間がかかりますが、あなたがこのセクターに襲い、彼らの警備員を殺した後、あなたは他に何を期待できますか？"
+
+#: src-en/data/events_special_aea_shleg.xml:308
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:353
+msgid ""
+"data/events_special_aea_shleg.xml$//ship[@name=\"SHIP_AEA_SHLEG_TRANSPORT_LOOT\"]/escape/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:364
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:365
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:366
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:369
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/text"
+msgstr ""
+"このビーコンは、アナキストの輸送をホストしています。船が特別な技術を運んでいる可能性が最も高いことは安全です。船内の乗組員を殺すことができれば、貨物はあなたのものになります。"
+
+#: src-en/data/events_special_aea_shleg.xml:372
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/text"
+msgstr "商品の降伏を要求します。"
+
+#: src-en/data/events_special_aea_shleg.xml:374
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/event/text"
+msgstr "あなたは力で貨物を確保する準備をします。"
+
+#: src-en/data/events_special_aea_shleg.xml:377
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:383
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:385
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/event/text"
+msgstr "船は武器の範囲外にとどまり、最終的には跳ね上がります。"
+
+#: src-en/data/events_special_aea_shleg.xml:387
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:391
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:398
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_SHLEG\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:417
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[1]"
+msgstr ""
+"すべてのスラッグの努力のために、彼らはあなたを打ち負かすことができませんでした。この戦いの勝利者、あなたは彼らの船を廃棄することで自分自身を楽しむ。"
+
+#: src-en/data/events_special_aea_shleg.xml:418
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[2]"
+msgstr "スラッグ船はもうありません。あなたは残骸を廃棄します。"
+
+#: src-en/data/events_special_aea_shleg.xml:419
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[3]"
+msgstr "ついに、裏切りの星雲居住者は沈黙しています。あなたは船をスクラップします。"
+
+#: src-en/data/events_special_aea_shleg.xml:420
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[4]"
+msgstr "シェル船は爆発し、有毒ガスの雲を宇宙に送り出します。うまくいけば、近くにオープンエアロックがあるステーションがありません..."
+
+#: src-en/data/events_special_aea_shleg.xml:421
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[5]"
+msgstr "すべての防御措置にもかかわらず、シェル船は敗北しました。あなたは遺体を廃棄します。"
+
+#: src-en/data/events_special_aea_shleg.xml:422
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[6]"
+msgstr "シェルは、維持された防御で知られていますが、あなたの武器は再び効果的であることが証明されています。"
+
+#: src-en/data/events_special_aea_shleg.xml:430
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[1]"
+msgstr "スラッグ船長が地面に震えているのを見つけます。彼は最後の言葉を「sssshit」と言い、倒れて死にます。"
+
+#: src-en/data/events_special_aea_shleg.xml:431
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[2]"
+msgstr "あなたは彼らの船の匂いが良くなることを望みますが、あなたはスラッグの乗組員に後悔を感じません。"
+
+#: src-en/data/events_special_aea_shleg.xml:432
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[3]"
+msgstr "船の内部は、スライムとマッシュアップのスラッグの腸の混合物のように見えるものでコーティングされています。ええ。"
+
+#: src-en/data/events_special_aea_shleg.xml:433
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[4]"
+msgstr "シェルとの戦いは、彼らがどれだけよく保護されているかを考えると危険ですが、乗組員の船を片付けました。彼らのスクラップはあなたのものです。"
+
+#: src-en/data/events_special_aea_shleg.xml:434
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[5]"
+msgstr "シェル船は中和されています。あなたは船をスクラップします。"
+
+#: src-en/data/events_special_aea_shleg.xml:441
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_ESCAPE_AEA_SHLEG\"]/text"
+msgstr "シェル船は、この戦いを終わらせるために滞在することを再考したようです。彼らは逃げようとしています！"
+
+#: src-en/data/events_special_aea_shleg.xml:454
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_SHLEG\"]/text"
+msgstr "シェル船が飛び降りて、ビーコンにあなたを置き去りにします。"
+
+#: src-en/data/events_special_aea_shleg.xml:457
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"GOTAWAY_AEA_SHLEG_REMAINS\"]/text"
+msgstr ""
+"シェル船が飛び降ります。最初は失望していますが、スクラップの問題の一部が戦いから残されていることに気付きます。それほどではありませんが、失敗の打撃を和らげるのに役立ちます。"
+
+#: src-en/data/events_special_aea_shleg.xml:464
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"SURRENDER_AEA_SHLEG\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_shleg.xml:468
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"SURRENDER_AEA_SHLEG\"]/choice[@req=\"LIST_CREW_AEA_SHLEG\"]/text"
+msgstr "（アナキストの乗組員）別の取引を交渉します。"
+
+#: src-en/data/events_special_aea_shleg.xml:480
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[1]"
+msgstr ""
+"スラッグのキャプテンはあなたを歓迎します。「ああ、あなたの殿下、あなたはSSSOの勇敢で、これまでに住んでいた偉大な戦士です。あなたはあなたの物語をssssshareすることができるように、ssspare"
+" ussssssをssspareしますか？」"
+
+#: src-en/data/events_special_aea_shleg.xml:481
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[2]"
+msgstr ""
+"「わかりました、私は今すぐに嘘をつくための再配置をsssseeしていません。私たちはあなたがusssを手放さない限り、ちょっとsssssscrowされています。"
+
+#: src-en/data/events_special_aea_shleg.xml:482
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[3]"
+msgstr "スラッグはco病で知られており、予想されるように、ここのスラッグはあきらめて降伏しました。"
+
+#: src-en/data/events_special_aea_shleg.xml:483
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[4]"
+msgstr "「親愛なる神、私はこれを期待していませんでした！私はあなたにsssuprissseを称賛します。今、ussssを手放します。」"
+
+#: src-en/data/events_special_aea_shleg.xml:484
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[5]"
+msgstr "「お願いします、あなたは強すぎます！私たちは戦いたくありません！私たちを生きさせてください！」"
+
+#: src-en/data/events_special_aea_shleg.xml:485
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[6]"
+msgstr ""
+"彼らのスラッグのいとことは異なり、殻はあまり貪欲ではありません。彼らはむしろ死ぬのではなく、いくつかのスクラップを支払うでしょう。彼らの申し出を受け入れますか？"
+
+#: src-en/data/events_special_aea_shleg.xml:486
+msgid ""
+"data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[7]"
+msgstr ""
+"あなたはシェルキャプテンからあられを受け取ります。「はい、あなたの銃はとても良いです。私たちを行かせてください、私たちはスクラップを持っています！」"
+
+#: src-en/data/events_special_aea_shleg.xml:495
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"AEA_SHLEG_TEST_FIGHT\"]/text"
+msgstr "テスト。"
+
+#: src-en/data/events_special_aea_shleg.xml:498
+msgid ""
+"data/events_special_aea_shleg.xml$//event[@name=\"AEA_SHLEG_TEST_FIGHT\"]/choice/text"
+msgstr ""

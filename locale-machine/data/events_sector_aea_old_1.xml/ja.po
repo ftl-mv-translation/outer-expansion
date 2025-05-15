@@ -1,0 +1,1201 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_aea_old_1.xml:20
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/text"
+msgstr ""
+"あなたは怖がって床から引き離します。船舶カメラは、他の乗組員のほとんどが同じことをして、眠りから目を覚ましていることを示しています。あなたはその奇妙な船との紛争を覚えていますが、あなたはもう攻撃を受けていないことがわかります。さらに、あなたは未知の連絡先によって歓迎されています。"
+
+#: src-en/data/events_sector_aea_old_1.xml:27
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
+" and not(@lvl)]/text"
+msgstr "あられに答えてください。"
+
+#: src-en/data/events_sector_aea_old_1.xml:29
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
+" and not(@lvl)]/event/text"
+msgstr ""
+"あられに答えるにつれて、あなたはあなたの船でハイバーネートしていた古代のエイリアンが消えてしまったことに気付きます。\n"
+"\n"
+"奇妙な種が画面に表示されます。「残念なことに、あなたはあなたが見たくないことにつまずいたので、私たちはあなたをここに連れて行き、あなたの自然な生活の残りのために亡命を続けます。」"
+
+#: src-en/data/events_sector_aea_old_1.xml:34
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
+" and not(@lvl)]/event/choice/text"
+msgstr "何？。"
+
+#: src-en/data/events_sector_aea_old_1.xml:36
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
+" and not(@lvl)]/event/choice/event/text"
+msgstr ""
+"「それを説明する際に害はないと思います。短いバージョンを聞きたいですか、それともなぜあなたがここにいるのかについての長い説明を聞きたいですか？」"
+
+#: src-en/data/events_sector_aea_old_1.xml:38
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
+" and not(@lvl)]/event/choice/event/choice[1]/text"
+msgstr "長いバージョン。"
+
+#: src-en/data/events_sector_aea_old_1.xml:42
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
+" and not(@lvl)]/event/choice/event/choice[2]/text"
+msgstr "短いバージョン。"
+
+#: src-en/data/events_sector_aea_old_1.xml:50
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
+" and @lvl=\"0\"]/text"
+msgstr "あられに答えてください。"
+
+#: src-en/data/events_sector_aea_old_1.xml:52
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"奇妙な種が画面に表示されます。「残念なことに、あなたはあなたが見たくないことにつまずいたので、私たちはあなたをここに連れて行き、あなたの自然な生活の残りのために亡命を続けます。」"
+
+#: src-en/data/events_sector_aea_old_1.xml:54
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "何？。"
+
+#: src-en/data/events_sector_aea_old_1.xml:56
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
+" and @lvl=\"0\"]/event/choice/event/text"
+msgstr ""
+"「それを説明する際に害はないと思います。短いバージョンを聞きたいですか、それともなぜあなたがここにいるのかについての長い説明を聞きたいですか？」"
+
+#: src-en/data/events_sector_aea_old_1.xml:58
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
+" and @lvl=\"0\"]/event/choice/event/choice[1]/text"
+msgstr "長いバージョン。"
+
+#: src-en/data/events_sector_aea_old_1.xml:62
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
+" and @lvl=\"0\"]/event/choice/event/choice[2]/text"
+msgstr "短いバージョン。"
+
+#: src-en/data/events_sector_aea_old_1.xml:72
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/text"
+msgstr ""
+"「ずっと前、あなたの連盟、または反乱の前に私たちだけがありました。私たちは他の人種に対する私たちの支配を主張して拡大しましたが、時間が経つにつれて、私たちのコントロールがあまり効果的ではなくなり、私たちはマルチバースの一部を失い始めました。"
+
+#: src-en/data/events_sector_aea_old_1.xml:74
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:76
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/text"
+msgstr "「同時に、私たちは実質的に不滅にするための技術を開発し、再現を止めてコアに後退し始めました。文明の中で分裂が起こりました。"
+
+#: src-en/data/events_sector_aea_old_1.xml:78
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:80
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/choice/event/text"
+msgstr ""
+"「紛争は長く、反乱との紛争と同様に引き出されました。私たちはほとんど不滅になりましたが、双方は互いに互いに引き裂くことができる武器を開発するために時間をかけました。その結果、私たちの数は紛争を通して排出されました。"
+
+#: src-en/data/events_sector_aea_old_1.xml:82
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:84
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+"「勝った側は、あなたが推測したかもしれないように、マルチバースから退却したいと思っていました。紛争の間に、イノベーションの大規模な飛躍は多国旅行の周りに発展しました。その1つは、Lylmik"
+" Council、それはLylmikの指導者であるLylmikによって決定されました。"
+
+#: src-en/data/events_sector_aea_old_1.xml:86
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:88
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"「それで、私たちはマルチバースから自分自身を締め出したということでした。しかし、私たちの解決策は完璧ではないことを知っていました。人々はあなたと同じように帝国の残骸を発見できるかもしれません。"
+
+#: src-en/data/events_sector_aea_old_1.xml:90
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "それで、この場所は何ですか。"
+
+#: src-en/data/events_sector_aea_old_1.xml:104
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_SHORT\"]/text"
+msgstr ""
+"「私たち、リルミクはずっと前に存在していた人種でした。しばらくの間、マルチバースを支配していましたが、他の人種が育ったので、私たちはゆっくりとコントロールを失いました。最終的に私たちはこのコントロールの喪失のために分裂し、長い内戦の後、私たちは残りのマルチバースから離れました。」"
+
+#: src-en/data/events_sector_aea_old_1.xml:106
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_SHORT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:108
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_SHORT\"]/choice/event/text"
+msgstr "「その検疫の一部は、私たちを発見するかもしれない人々がマルチバースから排除されることを確認することでした。それはあなたを意味します。」"
+
+#: src-en/data/events_sector_aea_old_1.xml:110
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_SHORT\"]/choice/event/choice/text"
+msgstr "それで、この場所は何ですか。"
+
+#: src-en/data/events_sector_aea_old_1.xml:118
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_AFTER\"]/text"
+msgstr ""
+"「これは私たちがあなたのように私たちの秘密につまずく人々を連れて行く場所です。私たちの検疫の産物として、あなたは永遠にここに閉じ込められます。\n"
+"\n"
+"「とにかく、私は自分の仕事に戻る必要があります。他に何かが必要な場合は警備員に連絡してください。」\n"
+"。"
+
+#: src-en/data/events_sector_aea_old_1.xml:123
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_AFTER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:125
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_AFTER\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:127
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_AFTER\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:131
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_AFTER\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:137
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_AFTER\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:141
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_AFTER\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:146
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_AFTER\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:154
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/text"
+msgstr ""
+"通常、口径の容器は予想外ですが、ここの警備員は明らかに感銘を受けていません。「私を破壊しようとすると、死以外のどこにでもあなたを連れて行くと思うなら、あなたは間違っています。」"
+
+#: src-en/data/events_sector_aea_old_1.xml:156
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:160
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:164
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/choice[@req=\"weapons\"]/text"
+msgstr "（Upg。Weapons）警備員を脅かす。"
+
+#: src-en/data/events_sector_aea_old_1.xml:168
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/choice[@req=\"aea_old_1\"]/text"
+msgstr "（Lylmik Crew）支援を要求します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:170
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/choice[@req=\"aea_old_1\"]/event/text"
+msgstr "警備員は、あなたのLylmikを確認すると、物資の木枠を越えて転送します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:175
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/choice[@req=\"BLUELIST_AEA_OLD_UNIQUE\"]/text"
+msgstr "（Lylmik Council）リクエスト用品。"
+
+#: src-en/data/events_sector_aea_old_1.xml:177
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/choice[@req=\"BLUELIST_AEA_OLD_UNIQUE\"]/event/text"
+msgstr "警備員は、あなたの船に乗って評議会のメンバーを見るとすぐに敬意を表する姿勢を採用し、物資を譲渡します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:182
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/choice[6]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:184
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/choice[6]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:186
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/choice[6]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:190
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/choice[6]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:199
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"GUARD_AEA_OLD_1_REQUEST\"]/event[1]/text"
+msgstr "「謝罪しますが、他の船に支援を提供する命令はありません。」"
+
+#: src-en/data/events_sector_aea_old_1.xml:202
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"GUARD_AEA_OLD_1_REQUEST\"]/event[2]/text"
+msgstr "警備員はあなたに同情しているようで、あなたの要求に同意します。彼らは物資の小さな箱の上に移動します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:208
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"GUARD_AEA_OLD_1_DEMAND\"]/event/text"
+msgstr "警備員はあなたの要求に屈することを拒否します。代わりに、彼らは武器を上げて報復します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:211
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"GUARD_AEA_OLD_1_DEMAND\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:223
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_DESTROY\"]/text"
+msgstr ""
+"Lylmik "
+"Guardを倒しました。彼らの貨物にあったかもしれないものは何でも確実に破壊されましたが、少なくとも船からいくつかの物資を救うことができます。"
+
+#: src-en/data/events_sector_aea_old_1.xml:227
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_DEADCREW\"]/text"
+msgstr ""
+"Lylmik "
+"Guardを倒しました。乗組員があなたを止めるために乗組員がいなければ、彼らの貨物を調査することができます。船に戻す武器を見つけ、船体を廃棄するために移動します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:246
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_1_BARON\"]/beaconType/unvisitedTooltip"
+msgstr "これは男爵の場所です。"
+
+#: src-en/data/events_sector_aea_old_1.xml:247
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_1_BARON\"]/beaconType/visitedTooltip"
+msgstr "これは男爵の場所です。"
+
+#: src-en/data/events_sector_aea_old_1.xml:250
+msgid "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_1_BARON\"]/text"
+msgstr ""
+"あなたは大きな贅沢な容器を発見するためにビーコンに到着しました、これは男爵でなければなりません。容器を破壊すると、座標をlylmik "
+"coreworldsに回復できるはずです。"
+
+#: src-en/data/events_sector_aea_old_1.xml:253
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_1_BARON\"]/choice/text"
+msgstr "船に従事します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:255
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_1_BARON\"]/choice/event/text"
+msgstr "武器を作動させると、男爵も同じことをします。"
+
+#: src-en/data/events_sector_aea_old_1.xml:257
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_1_BARON\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:265
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_DESTROYED\"]/text"
+msgstr "贅沢な船は敗北しました。かなりの量のスクラップが残っています。"
+
+#: src-en/data/events_sector_aea_old_1.xml:269
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_DESTROYED\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:271
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_DESTROYED\"]/choice/event/text"
+msgstr "Lylmik Coreworldsの座標を難破船で検索すると、無傷のストレージクレートが見つかります。しばらくして、座標も見つかります。"
+
+#: src-en/data/events_sector_aea_old_1.xml:276
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_DESTROYED\"]/choice/event/choice[1]/text"
+msgstr "座標をすぐに使用します[警告：乗組員が男爵の船に乗っている場合は使用しないでください]。"
+
+#: src-en/data/events_sector_aea_old_1.xml:283
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_DESTROYED\"]/choice/event/choice[2]/text"
+msgstr "準備してください。"
+
+#: src-en/data/events_sector_aea_old_1.xml:293
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_JUMP\"]/text"
+msgstr "今すぐ座標を使用しますか？"
+
+#: src-en/data/events_sector_aea_old_1.xml:295
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_JUMP\"]/choice[1]/text"
+msgstr "すぐに座標を使用します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:302
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_JUMP\"]/choice[2]/text"
+msgstr "準備してください。"
+
+#: src-en/data/events_sector_aea_old_1.xml:308
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_JUMP\"]/choice[3]/text"
+msgstr "後でここに戻ります。"
+
+#: src-en/data/events_sector_aea_old_1.xml:327
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/text"
+msgstr ""
+"驚くべきことに、Lylmikの商人は重武装したエリートから攻撃を受けているように見えます。あなたが彼らと取引したいなら、あなたはエリートの世話をする必要があります。"
+
+#: src-en/data/events_sector_aea_old_1.xml:330
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:332
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:335
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:341
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:343
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/choice[2]/event/text"
+msgstr "幸いなことに、エリートはあなたの存在に気づかないままです。"
+
+#: src-en/data/events_sector_aea_old_1.xml:345
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:349
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:379
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/text"
+msgstr "ビーコンに到着して、軌道上のLylmik船を発見すると、船の側面に小さなシャトルが付いているように見えます。"
+
+#: src-en/data/events_sector_aea_old_1.xml:382
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:384
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[1]/event/text"
+msgstr ""
+"Lylmikがあなたの画面に登場します。「キャプテン、新しい乗組員が欲しいとは思いません。私たちは船内でかなり信じられないほどのイベントがありました。この人は自分で完全に船を引き継ぐことを試みました。通常、私たちはすぐに彼らを殺しましたが、このようなことを試みるために純粋なガウルは命を救いました。"
+
+#: src-en/data/events_sector_aea_old_1.xml:386
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[1]/event/choice[1]/text"
+msgstr "もちろん？。"
+
+#: src-en/data/events_sector_aea_old_1.xml:388
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[1]/event/choice[1]/event/text"
+msgstr "「素晴らしい、私たちはそれらを送ります。」しばらくして、シャトルが遠い船に操縦され、オンボードはエリートの乗組員です。"
+
+#: src-en/data/events_sector_aea_old_1.xml:391
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:397
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:403
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:405
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[2]/event/text"
+msgstr "Lylmik船はあなたを無視します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:407
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:411
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:419
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/text"
+msgstr ""
+"ビーコンに到着して、マークされていないLylmik Merchant Stationを発見します。近づくと、駅からメッセージが再生されます。「豊かで危険な船の排他的なクラブであるマーケットプレイスキャプテンへようこそ。自分の力を証明できない場合は、戻った方が良いでしょう。」\n"
+"次に、メンバーシップがわずか29.99〜であることを示すポップアップを取得します。\n"
+"。"
+
+#: src-en/data/events_sector_aea_old_1.xml:424
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[1]/text"
+msgstr "会費を支払います。"
+
+#: src-en/data/events_sector_aea_old_1.xml:429
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[1]/event/text"
+msgstr "駅にアクセスし、基本的に1つの大きな店を発見します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:434
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[2]/text"
+msgstr "ステーションを攻撃します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:437
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[2]/event/text"
+msgstr "これは明らかに詐欺であり、それらを取り除くことはセクターへのサービスになります。"
+
+#: src-en/data/events_sector_aea_old_1.xml:439
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:445
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:447
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[3]/event/text"
+msgstr "あなたはこれが何であれ、関与するつもりはありません。"
+
+#: src-en/data/events_sector_aea_old_1.xml:449
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:453
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:461
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CRATE_ITEM\"]/text"
+msgstr "比較的空のビーコンに到着しましたが、センサーがビーコンの近くの軌道に浮かぶ大きなストレージ木枠を拾います。"
+
+#: src-en/data/events_sector_aea_old_1.xml:463
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CRATE_ITEM\"]/choice[1]/text"
+msgstr "木枠を調査します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:467
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CRATE_ITEM\"]/choice[2]/text"
+msgstr "木枠を無視します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:469
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CRATE_ITEM\"]/choice[2]/event/text"
+msgstr "次のジャンプのためにジャンプドライブを準備します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:471
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CRATE_ITEM\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:475
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CRATE_ITEM\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:484
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_CRATE_LIST\"]/event[1]/text"
+msgstr "開く前に貨物を貨物に固定すると、木枠に大きなリルミック武器が入っていたことがわかります。"
+
+#: src-en/data/events_sector_aea_old_1.xml:487
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_CRATE_LIST\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:492
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_CRATE_LIST\"]/event[2]/text"
+msgstr ""
+"貨物を貨物に固定する前に、貨物を開く前に、木枠にハイバーネートのLylmikが含まれていることがわかります。あなたの侵入に目覚めたとき、彼らはあなたの乗組員に加わることを申し出ます。"
+
+#: src-en/data/events_sector_aea_old_1.xml:495
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_CRATE_LIST\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:500
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_CRATE_LIST\"]/event[3]/text"
+msgstr "開く前に貨物を貨物に固定し、木枠に手付かずのドローンが入っていたことがわかります。"
+
+#: src-en/data/events_sector_aea_old_1.xml:503
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_CRATE_LIST\"]/event[3]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:521
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"EMPTY_AEA_OLD\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:525
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"EMPTY_AEA_OLD\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:530
+msgid ""
+"data/events_sector_aea_old_1.xml$//textList[@name=\"EMPTY_AEA_OLD\"]/text[1]"
+msgstr ""
+"大きな損傷を受けた3つの人工惑星が遠くに浮かんでいます。彼らは星から軌道を軌道に乗せることがなく、いつかは互いに衝突しますが、今のところこのビーコンは安全です。"
+
+#: src-en/data/events_sector_aea_old_1.xml:531
+msgid ""
+"data/events_sector_aea_old_1.xml$//textList[@name=\"EMPTY_AEA_OLD\"]/text[2]"
+msgstr ""
+"あなたは、このセクター以外の頻繁な船の戦いによって引き起こされる汚染に慣れていることを認めなければなりません。あなたの周りのきれいなスペースはあなたを安心させ、あなたは船に乗って何かをしても大丈夫だと思います。"
+
+#: src-en/data/events_sector_aea_old_1.xml:562
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE\"]/choice[1]/text"
+msgstr "リルミクと戦う。"
+
+#: src-en/data/events_sector_aea_old_1.xml:564
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE\"]/choice[1]/event/text"
+msgstr "あなたはあなたの武器に電源を入れて、Lylmik船と戦います。"
+
+#: src-en/data/events_sector_aea_old_1.xml:567
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:573
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE\"]/choice[2]/text"
+msgstr "それらを避けてください。"
+
+#: src-en/data/events_sector_aea_old_1.xml:575
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE\"]/choice[2]/event/text"
+msgstr "Lylmik船と戦わず、飛び去ることにします。"
+
+#: src-en/data/events_sector_aea_old_1.xml:577
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:581
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:588
+msgid ""
+"data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE\"]/text[1]"
+msgstr "このビーコンのLylmik船は、あなたの存在にまだ気づいていません。必要に応じて、安全に飛び去るか、今すぐ攻撃して驚きます。"
+
+#: src-en/data/events_sector_aea_old_1.xml:589
+msgid ""
+"data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE\"]/text[2]"
+msgstr "「あなたは私がランダムに出会った人を殺すのではなく、ランダムになる前に去るべきです。」"
+
+#: src-en/data/events_sector_aea_old_1.xml:590
+msgid ""
+"data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE\"]/text[3]"
+msgstr ""
+"あなたは自分の存在に気づいていないLylmik船を捕まえました。あなたがそれらを殺すことができれば、彼らはかなりのスクラップの価値があるでしょう。"
+
+#: src-en/data/events_sector_aea_old_1.xml:598
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE_MU\"]/choice[1]/text"
+msgstr "エリートと戦う。"
+
+#: src-en/data/events_sector_aea_old_1.xml:600
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE_MU\"]/choice[1]/event/text"
+msgstr "あなたはあなたの武器を動かし、エリート船と戦います。"
+
+#: src-en/data/events_sector_aea_old_1.xml:603
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE_MU\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:609
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE_MU\"]/choice[2]/text"
+msgstr "それらを避けてください。"
+
+#: src-en/data/events_sector_aea_old_1.xml:611
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE_MU\"]/choice[2]/event/text"
+msgstr "あなたはエリート船と戦わないことを決め、飛び去ります。"
+
+#: src-en/data/events_sector_aea_old_1.xml:613
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE_MU\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:617
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE_MU\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:624
+msgid ""
+"data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE_MU\"]/text[1]"
+msgstr "別の拘留者がこのビーコンにあり、彼らはあなたを攻撃することに興味がないようです。"
+
+#: src-en/data/events_sector_aea_old_1.xml:625
+msgid ""
+"data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE_MU\"]/text[2]"
+msgstr "「キャプテン、私たちは問題を望んでいませんが、あなたがそれを強制しても私たちは抑制しません」"
+
+#: src-en/data/events_sector_aea_old_1.xml:626
+msgid ""
+"data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE_MU\"]/text[3]"
+msgstr "あなたは、Lylmikスペースに不意を突かれている別の船を捕まえましたが、彼らはまだあなたに気づいていません。"
+
+#: src-en/data/events_sector_aea_old_1.xml:630
+msgid "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/text"
+msgstr ""
+"あなたはビーコンに到着し、このビーコンの周りに軌道に座っている民間宇宙ステーション全体を発見しました。Lylmiksがどうやってそれをここにもたらすことができたのだろうかと思います。"
+
+#: src-en/data/events_sector_aea_old_1.xml:632
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:634
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/text"
+msgstr ""
+"駅はすぐに応答します。「お願いします。あなたは私たちを助けなければなりません。私たちを破壊しようとし続けているマニアックが走り回っています。彼らはいつでも戻ってきます。」"
+
+#: src-en/data/events_sector_aea_old_1.xml:636
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/choice[1]/text"
+msgstr "彼らが脅威に対処するのを助けます。"
+
+#: src-en/data/events_sector_aea_old_1.xml:638
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/choice[1]/event/text"
+msgstr "船が現れるまでには少ししかかかりません。駅へのルートをブロックするために移動します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:641
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:647
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/choice[2]/text"
+msgstr "この「マニア」がここに来る前に出発します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:649
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/choice[2]/event/text"
+msgstr "次のジャンプの準備をします。"
+
+#: src-en/data/events_sector_aea_old_1.xml:651
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:655
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:663
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:665
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[2]/event/text"
+msgstr "次のジャンプの準備をします。"
+
+#: src-en/data/events_sector_aea_old_1.xml:667
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:671
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:679
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY_WIN\"]/text"
+msgstr "「あなたが私たちを救うためにここにいたLylmikに感謝します。ここにいくつかの物資があります。」"
+
+#: src-en/data/events_sector_aea_old_1.xml:682
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY_WIN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:689
+msgid "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/text"
+msgstr ""
+"ビーコンであなたを待っているのはLylmik船で、センサーは近くのデブリーフィールドを部品に清掃するクルーを拾います。彼らが探しているものを正確に明確にしていません。"
+
+#: src-en/data/events_sector_aea_old_1.xml:691
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:693
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/text"
+msgstr "Lylmikは、「愚かな反逆者から賑わい」というhったことを拾いながら、あなたにほとんど注意を払っていません。"
+
+#: src-en/data/events_sector_aea_old_1.xml:734
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/text"
+msgstr "（ユニークな乗組員）「私たちはあなたが興味を持っているものがあるかもしれません！」"
+
+#: src-en/data/events_sector_aea_old_1.xml:736
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/text"
+msgstr "「うーん、おそらくあなたは正しい、あなたはそれに何が欲しいの？」"
+
+#: src-en/data/events_sector_aea_old_1.xml:738
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[1]/text"
+msgstr "スクラップの束。"
+
+#: src-en/data/events_sector_aea_old_1.xml:743
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[1]/event/text"
+msgstr "「受け入れられる取引。」"
+
+#: src-en/data/events_sector_aea_old_1.xml:746
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[1]/event/removeCrew/text"
+msgstr "彼らは死んでいない。まだ。"
+
+#: src-en/data/events_sector_aea_old_1.xml:749
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:751
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[1]/event/choice/event/text"
+msgstr "乗組員を渡してから、背景で叫び声が鳴り響くのを聞いて、重い機械の塊と同じように、ほんの一瞬です..."
+
+#: src-en/data/events_sector_aea_old_1.xml:757
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[2]/text"
+msgstr "スクラップの束と交換用の乗組員。"
+
+#: src-en/data/events_sector_aea_old_1.xml:763
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[2]/event/text"
+msgstr "「受け入れられる取引。」"
+
+#: src-en/data/events_sector_aea_old_1.xml:765
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:767
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[2]/event/choice/event/text"
+msgstr "乗組員を渡してから、背景で叫び声が鳴り響くのを聞いて、重い機械の塊と同じように、ほんの一瞬です..."
+
+#: src-en/data/events_sector_aea_old_1.xml:770
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[2]/event/choice/event/removeCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:773
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[2]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:781
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:787
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[2]/text"
+msgstr "「私たちが持っているこのすべてのスクラップはどうですか？」"
+
+#: src-en/data/events_sector_aea_old_1.xml:789
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[2]/event/text"
+msgstr "「うーん、おそらくあなたは正しい、私たちが撮影したこの奇妙な船から私たちが手に入れた武器をあなたに与えるのはどうですか...」"
+
+#: src-en/data/events_sector_aea_old_1.xml:795
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:801
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[3]/text"
+msgstr "「それから決して気にしないで...」"
+
+#: src-en/data/events_sector_aea_old_1.xml:803
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD_NEVERMIND\"]/text"
+msgstr "Lylmik Vesselをさらに中断して飛び去らないことにします。"
+
+#: src-en/data/events_sector_aea_old_1.xml:805
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD_NEVERMIND\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:809
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD_NEVERMIND\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:817
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:819
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[2]/event/text"
+msgstr "Lylmik船を中断して飛び去らないことにします。"
+
+#: src-en/data/events_sector_aea_old_1.xml:821
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:825
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:834
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/text"
+msgstr "ビーコンの周りに軌道に座っている奇妙なデバイスを発見し、デザインのLylmikのように見えます。"
+
+#: src-en/data/events_sector_aea_old_1.xml:836
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[1]/text"
+msgstr "ボタンのように見えるものを突く。"
+
+#: src-en/data/events_sector_aea_old_1.xml:840
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[@req=\"BLUELIST_AEA_OLD\"]/text"
+msgstr "（Lylmik Crew）デバイスをアクティブにします。"
+
+#: src-en/data/events_sector_aea_old_1.xml:844
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[3]/text"
+msgstr "それを撃ってください。"
+
+#: src-en/data/events_sector_aea_old_1.xml:846
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[3]/event/text"
+msgstr ""
+"それが消えた後、あなたはビーコンにジャンプするLylmikを拾います。「ねえ、それはあなたのあまりクールではありません、死ぬ準備をしてください。」"
+
+#: src-en/data/events_sector_aea_old_1.xml:849
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:855
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:857
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[4]/event/text"
+msgstr "デバイスを台無しにしないことに決めます。"
+
+#: src-en/data/events_sector_aea_old_1.xml:859
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[4]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:863
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[4]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:876
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_GOODLIST\"]/event[1]/text"
+msgstr "デバイスは花のように開き、内部はLylmik武器であることが明らかになります。"
+
+#: src-en/data/events_sector_aea_old_1.xml:879
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_GOODLIST\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:884
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_GOODLIST\"]/event[2]/text"
+msgstr "デバイスは花のように開き、内部はドローンであることが明らかになります。"
+
+#: src-en/data/events_sector_aea_old_1.xml:887
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_GOODLIST\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:892
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_GOODLIST\"]/event[3]/text"
+msgstr "デバイスは花のように開き、内部は乗組員に加わることを申し出るLylmikの乗組員であることが明らかになります。"
+
+#: src-en/data/events_sector_aea_old_1.xml:895
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_GOODLIST\"]/event[3]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:902
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_BADLIST\"]/event[1]/text"
+msgstr "デバイスはビープ音を開始し、赤く点滅します。あなたはそれがあなたの船体を爆発させて損傷するのに間に合うように船にそれを戻すことができます。"
+
+#: src-en/data/events_sector_aea_old_1.xml:905
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_BADLIST\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:910
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_BADLIST\"]/event[2]/text"
+msgstr ""
+"デバイスはビープ音を開始し、赤く点滅します。あなたは、すぐにあなたの出荷に乗る3人のリルミクを吐き出すのに間に合うように船に戻ることができます。"
+
+#: src-en/data/events_sector_aea_old_1.xml:913
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_BADLIST\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:920
+msgid "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/text"
+msgstr "ビーコンに到着して、Lylmik船に襲われている小さなMFKシャトルを発見します。反乱軍のシャトルはあなたを歓迎しようとします。"
+
+#: src-en/data/events_sector_aea_old_1.xml:923
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/text"
+msgstr "あられに応答します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:925
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/text"
+msgstr ""
+"「私をここから出してください、それらの愚かなエイリアンは私と一緒に遊んでいました。あなたが私にそれらのスカムを返済させたならば、私はあなたの乗組員に加わります。」"
+
+#: src-en/data/events_sector_aea_old_1.xml:927
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/choice[1]/text"
+msgstr "それらを乗せて受け入れます。"
+
+#: src-en/data/events_sector_aea_old_1.xml:929
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/choice[1]/event/text"
+msgstr "「これがすべてのゼノスが死に値する理由です。」明らかに、Lylmikは攻撃に移行するときに同様のアイデアを持っています。"
+
+#: src-en/data/events_sector_aea_old_1.xml:933
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:939
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:941
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/choice[2]/event/text"
+msgstr "Lylmikの楽しみに干渉しないことにしました。"
+
+#: src-en/data/events_sector_aea_old_1.xml:943
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:947
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:955
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:957
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[2]/event/text"
+msgstr "Lylmikの楽しみに干渉しないことにしました。"
+
+#: src-en/data/events_sector_aea_old_1.xml:959
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:963
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:971
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/text"
+msgstr "ビーコンに到着すると、Lylmik船に直面しているので、船がほぼ完全に電源を入れていることに気付くのに少し時間がかかります。"
+
+#: src-en/data/events_sector_aea_old_1.xml:974
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/choice[1]/text"
+msgstr "電源を下げている間、容器を攻撃します。"
+
+#: src-en/data/events_sector_aea_old_1.xml:976
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/choice[1]/event/text"
+msgstr "武器を作動させると、敵の船はそれに応じてオンラインになります。"
+
+#: src-en/data/events_sector_aea_old_1.xml:979
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:985
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:989
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:991
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/choice[3]/event/text"
+msgstr "あなたは飛び去り、船を台無しにしないことに決めます。"
+
+#: src-en/data/events_sector_aea_old_1.xml:993
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:997
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:1006
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_LYLMIK_GONE_LIST\"]/event[1]/text"
+msgstr "結局のところ、船の乗組員は実際に眠っていました。彼らはオンラインで戻ってきて、すぐにあなたの一般的な方向に武器を作動させます。"
+
+#: src-en/data/events_sector_aea_old_1.xml:1009
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_LYLMIK_GONE_LIST\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:1014
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_LYLMIK_GONE_LIST\"]/event[2]/text"
+msgstr ""
+"しばらくして、船からの生命の兆候はまだありません...実際には、実際には、船のスキャンを詳しく調べると、誰も乗っていないことが明らかになりました。センサーは、船にテープで留められたメモのように見えるものを拾い上げ、「約200年後に戻ってきた」と読みました。リスクなしで船舶を救うことができます。"
+
+#: src-en/data/events_sector_aea_old_1.xml:1017
+msgid ""
+"data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_LYLMIK_GONE_LIST\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:1057
+msgid ""
+"data/events_sector_aea_old_1.xml$//event[@name=\"ENCOUNTER_AEA_OLD_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_old_1.xml:1062
+msgid ""
+"data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_1_FIGHT\"]/text[1]"
+msgstr "大きな船があなたに近づきます、彼らはあなたがあなたの船に持っているかもしれない新しい技術のいずれかを手に入れることに興味があるようです。"
+
+#: src-en/data/events_sector_aea_old_1.xml:1063
+msgid ""
+"data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_1_FIGHT\"]/text[2]"
+msgstr "あなたが攻撃するために移動する船が非常に危険であることから長い間生き残ったことは明らかです。"
+
+#: src-en/data/events_sector_aea_old_1.xml:1064
+msgid ""
+"data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_1_FIGHT\"]/text[3]"
+msgstr ""
+"マルチバースのこのセクションで閉じ込められた生き残るための唯一の方法は、他の人から資源を奪うことであり、現在あなたに近づいている生存者がいます。"
+
+#: src-en/data/events_sector_aea_old_1.xml:1065
+msgid ""
+"data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_1_FIGHT\"]/text[4]"
+msgstr ""
+"自分自身を殺すことに対して、Lylmikは彼らの領域の市民がお互いを殺さないようにすることについて何もしません。それが起こると、市民が攻撃位置に移動します。"

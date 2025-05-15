@@ -1,0 +1,478 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_aea_old.xml:3
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_POWER_CELL_CONTINUE\"]/text"
+msgstr "テストテスト。"
+
+#: src-en/data/events_special_aea_old.xml:12
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_POWER_CELL_GET\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:13
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_POWER_CELL_GET\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:15
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_POWER_CELL_GET\"]/text"
+msgstr "このビーコンには奇妙な武器の難破船があります。それのほとんどは救助可能ではありません。残骸から奇妙な武器を回復することができます。"
+
+#: src-en/data/events_special_aea_old.xml:19
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_POWER_CELL_GET\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:30
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/beaconType/unvisitedTooltip"
+msgstr "これは大きな構造の場所です。"
+
+#: src-en/data/events_special_aea_old.xml:31
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/beaconType/visitedTooltip"
+msgstr "これは大きな構造の場所です。"
+
+#: src-en/data/events_special_aea_old.xml:33
+msgid "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/text"
+msgstr ""
+"ビーコンの近くの軌道に大きなリングがあり、明らかな使用のない印象的な構造です。どうやらここでここに置かれたようですが、リングの使用は今日まで謎のままです。"
+
+#: src-en/data/events_special_aea_old.xml:35
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:37
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/event/text"
+msgstr "あなたがあなたの旅行で早く収集した奇妙な武器は、あなたが構造の近くにいるように輝き始めます。"
+
+#: src-en/data/events_special_aea_old.xml:39
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/text"
+msgstr "（???武器）武器をゲートに挿入します。"
+
+#: src-en/data/events_special_aea_old.xml:41
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/text"
+msgstr "ゲートは輝き始め、しばらくしてリフトが真ん中に開き、大きな巡洋艦が浸ります。"
+
+#: src-en/data/events_special_aea_old.xml:46
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and "
+"not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:48
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and "
+"not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/choice/event/text"
+msgstr "ゲートに入れた武器は再び吐き出され、ゲートの一部を引き出したようです。"
+
+#: src-en/data/events_special_aea_old.xml:51
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and "
+"not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:53
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and "
+"not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/choice/event/choice/event/text"
+msgstr ""
+"ゲートからスクラップを収集すると、大きな巡洋艦があなたに耐えていることに気付くと、2つの武器が充電されていることに気付きますが、その残りの部分はまだオフラインです。"
+
+#: src-en/data/events_special_aea_old.xml:60
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and "
+"not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:70
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:72
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/event/choice[2]/event/text"
+msgstr "FTLドライブが変更されている間、構造を賞賛します。"
+
+#: src-en/data/events_special_aea_old.xml:74
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:78
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and not(@lvl)]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:86
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:88
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and @lvl=\"0\"]/event/text"
+msgstr "FTLドライブが変更されている間、構造を賞賛します。"
+
+#: src-en/data/events_special_aea_old.xml:90
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:94
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
+" and @lvl=\"0\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:107
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_GATE_GUARD_BOSS\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+"神秘的な巡洋艦は、MVドライブを充電しています。それはあなたの船をつかみ、彼らにあなたをテザーする奇妙な武器のように見えます。彼らがハイパースペースに入ると、おそらく彼らと一緒に引き離されるでしょう..."
+
+#: src-en/data/events_special_aea_old.xml:112
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_GATE_GUARD_BOSS\"]/destroyed/text"
+msgstr ""
+"あなたは神秘的な巡洋艦を破壊しました、あなたは容器を救い始めます。\n"
+"\n"
+"あなたは、おそらくそれを逃がしてあなたを連れて行くならば、おそらく何かが起こったのだろうかと思います。"
+
+#: src-en/data/events_special_aea_old.xml:117
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_GATE_GUARD_BOSS\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:124
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"ESCAPE_AEA_OLD_GUARD_BOSS\"]/text"
+msgstr ""
+"驚くべきことに、巡洋艦は逃げようとしているようです。注意しなければ、それを引き離すかもしれません。\n"
+"\n"
+"それはあなたの船をつかみ、あなたを彼らにつなぐものをつかむいくつかの種類のフックのように見えます。彼らがハイパースペースに入ると、おそらく彼らと一緒に引き離されるでしょう..."
+
+#: src-en/data/events_special_aea_old.xml:129
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"GOTAWAY_AEA_OLD_GUARD_BOSS\"]/text"
+msgstr "船のジャンプドライブが開始し、引き離します。"
+
+#: src-en/data/events_special_aea_old.xml:132
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"GOTAWAY_AEA_OLD_GUARD_BOSS\"]/choice[@req=\"aea_old_gate_guard_attached\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:134
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"GOTAWAY_AEA_OLD_GUARD_BOSS\"]/choice[@req=\"aea_old_gate_guard_attached\""
+" and not(@lvl)]/event/text"
+msgstr "ほぼ同じ例では、船が巡洋艦とともにハイパースピードに陥れたときに足から引き出されます。"
+
+#: src-en/data/events_special_aea_old.xml:136
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"GOTAWAY_AEA_OLD_GUARD_BOSS\"]/choice[@req=\"aea_old_gate_guard_attached\""
+" and not(@lvl)]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:145
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"GOTAWAY_AEA_OLD_GUARD_BOSS\"]/choice[@req=\"aea_old_gate_guard_attached\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:152
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE_GUARD_BOSS_ACTIVATE\"]/text"
+msgstr "あなたがしたことは何でも、その残りの武器を活性化するのに十分なほど船を怒らせたようです。"
+
+#: src-en/data/events_special_aea_old.xml:158
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE_GUARD_BOSS_ACTIVATE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:170
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_BEAM_MASTER\"]/text"
+msgstr ""
+"「ついにそれを理解しました、私が負け続けた理由はあなたが私の船で射撃し続けるからです！最初に私は考えました - "
+"まあ、なぜ私は彼らの銃を奪わないのですか？」、しかし私の乗組員は私にそれが本当に実現不可能であると言ったので、私はあなたが通常撮影し、ユーレカを目指しています！あなたは私のシステムを目指していますか？彼らは私に他のすべての銃を犠牲にしますが、今私は実際に無敵になりました。"
+
+#: src-en/data/events_special_aea_old.xml:174
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_BEAM_MASTER\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:178
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_BEAM_MASTER\"]/choice[@req=\"BLUELIST_WEAPONS_BEAM_POWERFUL\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:204
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[1]"
+msgstr "難破船は何千ものスクラップメタルに分解されます。残念ながら、それらのすべてが実際に有用なスクラップのビットであるわけではありません。"
+
+#: src-en/data/events_special_aea_old.xml:205
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[2]"
+msgstr "船がバラバラになると、同じ種類の別の船がマルチバースのこのセグメントに引き込まれるのはどれくらいかかるのだろうと思います。"
+
+#: src-en/data/events_special_aea_old.xml:206
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[3]"
+msgstr ""
+"Lylmikスペースの船のファウンドリーは、単にマルチバースの他の地域にアクセスできるものほど能力がありません。その結果、すぐに爆発した船のような別の船を見ることはほとんどありません。"
+
+#: src-en/data/events_special_aea_old.xml:207
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[4]"
+msgstr "別の強力な敵が倒れました。それはあなたを逃げるのにそれほど近づいていませんが、あなたはそれからいくつかのスクラップを得ました。"
+
+#: src-en/data/events_special_aea_old.xml:210
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"DESTROYED_AEA_OLD_MV_GUN\"]/text"
+msgstr "驚いたことに、武器は爆発を生き延びました。それは爆発から少し鮮明ですが、いくつかのタッチアップを使用すると、それを救うことができます。"
+
+#: src-en/data/events_special_aea_old.xml:228
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD_MV\"]/text[1]"
+msgstr "これらのような高度な船が不足しているため、これが他の不幸な魂によって回復するのにおそらくそれほど時間はかからないでしょう。"
+
+#: src-en/data/events_special_aea_old.xml:229
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD_MV\"]/text[2]"
+msgstr "乗組員は船の壁に赤い塗抹標本を使用すると、船を平和に廃棄することができます。"
+
+#: src-en/data/events_special_aea_old.xml:230
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD_MV\"]/text[3]"
+msgstr "最も危険な船だけがここで生き残ります。残念ながら、この船の乗組員にとってあなたは最も危険です。"
+
+#: src-en/data/events_special_aea_old.xml:233
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"DEAD_CREW_AEA_OLD_MV_GUN\"]/text"
+msgstr "今、乗組員を空にして、あなたは彼らの武器の1つを船内にあります。船を廃棄する前に、あなたと一緒に戻します。"
+
+#: src-en/data/events_special_aea_old.xml:245
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STATIONDEFEND\"]/destroyed/text"
+msgstr "船が破壊されたことで、まともな報酬を得るためにそれを廃棄することができます。"
+
+#: src-en/data/events_special_aea_old.xml:248
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STATIONDEFEND\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:253
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STATIONDEFEND\"]/deadCrew/text"
+msgstr "船が乗組員を片付けると、まともな報酬を得るためにそれを廃棄することができます。"
+
+#: src-en/data/events_special_aea_old.xml:256
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STATIONDEFEND\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:264
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STORE_PROTECT\"]/destroyed/text"
+msgstr "船が破壊されたことで、まともな報酬を得るためにそれを廃棄することができます。"
+
+#: src-en/data/events_special_aea_old.xml:267
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STORE_PROTECT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:272
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STORE_PROTECT\"]/deadCrew/text"
+msgstr "船が乗組員を片付けると、まともな報酬を得るためにそれを廃棄することができます。"
+
+#: src-en/data/events_special_aea_old.xml:275
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STORE_PROTECT\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:290
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:291
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:292
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:294
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/text"
+msgstr ""
+"このビーコンには、Lylmikステーションがホストされています。ステーションが特別な技術を運んでいる可能性が最も高いことは安全です。船内の乗組員を殺すことができれば、貨物はあなたのものになります。"
+
+#: src-en/data/events_special_aea_old.xml:297
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[1]/text"
+msgstr "商品の降伏を要求します。"
+
+#: src-en/data/events_special_aea_old.xml:299
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[1]/event/text"
+msgstr "あなたは力で貨物を確保する準備をします。"
+
+#: src-en/data/events_special_aea_old.xml:302
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:308
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[2]/text"
+msgstr "駅を避けてください。"
+
+#: src-en/data/events_special_aea_old.xml:310
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[2]/event/text"
+msgstr "あなたは駅の範囲の外にとどまり、飛び去る準備をします。"
+
+#: src-en/data/events_special_aea_old.xml:312
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:316
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:323
+msgid ""
+"data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_OLD\"]/text"
+msgstr ""
+"乗組員は死んでおり、駅を残しています。その貨物はあなたのものです。乗船はあなたが期待した特別な技術であり、あなたがあなたの船に持ち帰ることです。"
+
+#: src-en/data/events_special_aea_old.xml:339
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD\"]/text[1]"
+msgstr ""
+"Lylmik船は多くの小さなピースに爆発します。爆発した後も、全体的な鎧の塊を作ることができます。それは奇妙に満足しており、あなたはあなたが遺体を廃棄するとき、あなたの手仕事に愛情を込めて反映しています。"
+
+#: src-en/data/events_special_aea_old.xml:340
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD\"]/text[2]"
+msgstr "リルミクについて聞いたことがないのはどうしてだろうかと思いますが、誘nされていることを覚えています。"
+
+#: src-en/data/events_special_aea_old.xml:341
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD\"]/text[3]"
+msgstr ""
+"lilmik船が破壊されるたびに、あなたは彼らの検疫を逃れるために一歩近づくと、それはそれほど多くはありませんが、それはあなたを続けるのに十分です。"
+
+#: src-en/data/events_special_aea_old.xml:349
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[1]"
+msgstr "最後のLylmikが崩壊すると、2つの最後の単語が出ます。\"くそくらえ...\""
+
+#: src-en/data/events_special_aea_old.xml:350
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[2]"
+msgstr "あなたはこれらのエイリアンの迅速な仕事をしました。あなたは罪悪感を感じません、結局、これらはとにかく本当に殺人ではありません。"
+
+#: src-en/data/events_special_aea_old.xml:351
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[3]"
+msgstr "Lylmikを死ぬ代わりに、新しい体にリダイレクトされるだけで、それらの新しい体が近くにないことを願っています。"
+
+#: src-en/data/events_special_aea_old.xml:352
+msgid ""
+"data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[4]"
+msgstr "Lylmikについて気分が悪くなることはないかもしれませんが、彼らのオーガニックの乗組員は必ずしもそれに値するとは限りません。"
+
+#: src-en/data/events_special_aea_old.xml:357
+msgid ""
+"data/events_special_aea_old.xml$//eventList[@name=\"AEA_OLD_SURRENDER_LIST\"]/event/text"
+msgstr "「いいですね、あなたはほとんどよりも賢いと思います。私たちもあなたに慈悲を示すことに決めたことに感謝しています。」"
+
+#: src-en/data/events_special_aea_old.xml:360
+msgid ""
+"data/events_special_aea_old.xml$//eventList[@name=\"AEA_OLD_SURRENDER_LIST\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:364
+msgid ""
+"data/events_special_aea_old.xml$//eventList[@name=\"AEA_OLD_SURRENDER_LIST\"]/event/choice[2]/text"
+msgstr "これらのろくでなしを仕上げます。"
+
+#: src-en/data/events_special_aea_old.xml:366
+msgid ""
+"data/events_special_aea_old.xml$//eventList[@name=\"AEA_OLD_SURRENDER_LIST\"]/event/choice[2]/event/text"
+msgstr "「本当に？あなたはあえてもう一度私たちと戦うようにしていますか？"
+
+#: src-en/data/events_special_aea_old.xml:376
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_ALL_SURRENDER\"]/surrender/text"
+msgstr ""
+"「人間の存在、あなたは自分の行動の結果に気づいてはいけません。私たちは死ぬことを意図していません。私たちを殺すと、あなたはひどい運命に苦しむでしょう。」"
+
+#: src-en/data/events_special_aea_old.xml:378
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_ALL_SURRENDER\"]/surrender/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:382
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_ALL_SURRENDER\"]/surrender/choice[2]/text"
+msgstr "私たちはあなたを恐れていません。"
+
+#: src-en/data/events_special_aea_old.xml:426
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_STATION_EXCLUSIVE\"]/surrender/text"
+msgstr "「罰金、罰金、あなたは私たちを殺さないでください、あなたは駅にアクセスできます。」"
+
+#: src-en/data/events_special_aea_old.xml:428
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_STATION_EXCLUSIVE\"]/surrender/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_old.xml:431
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_STATION_EXCLUSIVE\"]/surrender/choice[1]/event/text"
+msgstr "駅にアクセスし、基本的に1つの大きな店を発見します。"
+
+#: src-en/data/events_special_aea_old.xml:436
+msgid ""
+"data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_STATION_EXCLUSIVE\"]/surrender/choice[2]/text"
+msgstr ""
