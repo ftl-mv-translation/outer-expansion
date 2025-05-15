@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-15 11:45+0000\n"
+"PO-Revision-Date: 2025-05-16 12:50+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_multiversexmlappend/ru/>\n"
@@ -62,13 +62,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Представить элитный кислотный экипаж."
 
 #: src-en/data/events_special_multiverse.xml.append:37
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "\"\""
 
 #: src-en/data/events_special_multiverse.xml.append:41
 msgid ""
@@ -80,13 +80,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Представить элитный экипаж ги."
 
 #: src-en/data/events_special_multiverse.xml.append:49
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "\"\""
 
 #: src-en/data/events_special_multiverse.xml.append:53
 msgid ""
@@ -98,13 +98,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Представить элитный экипаж сектантов."
 
 #: src-en/data/events_special_multiverse.xml.append:61
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[3]/event/text"
-msgstr ""
+msgstr "\"\""
 
 #: src-en/data/events_special_multiverse.xml.append:65
 msgid ""
@@ -116,13 +116,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Представить элитный экипаж Анархистов."
 
 #: src-en/data/events_special_multiverse.xml.append:73
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[4]/event/text"
-msgstr ""
+msgstr "\"\""
 
 #: src-en/data/events_special_multiverse.xml.append:77
 msgid ""
@@ -134,13 +134,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "Представить элитный экипаж осколкорожденных."
 
 #: src-en/data/events_special_multiverse.xml.append:85
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[5]/event/text"
-msgstr ""
+msgstr "\"\""
 
 #: src-en/data/events_special_multiverse.xml.append:89
 msgid ""
@@ -152,13 +152,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "Представить Темного Юстициария."
 
 #: src-en/data/events_special_multiverse.xml.append:97
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[6]/event/text"
-msgstr ""
+msgstr "\"\""
 
 #: src-en/data/events_special_multiverse.xml.append:101
 msgid ""
@@ -170,13 +170,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "Представить экипаж лилмиков."
 
 #: src-en/data/events_special_multiverse.xml.append:109
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[7]/event/text"
-msgstr ""
+msgstr "\"\""
 
 #: src-en/data/events_special_multiverse.xml.append:113
 msgid ""
@@ -464,7 +464,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_AEAT_BOSS_CULT_NORMAL\"]/text"
 msgstr ""
-"Из туннеля появляется огромный крейсер конструкции Культистов! Должно быть, "
+"Из туннеля появляется огромный крейсер конструкции сектантов! Должно быть, "
 "это редкое исследовательское судно, которое взяло на себя миссию "
 "путешествовать по Мультивселенной!"
 
@@ -502,7 +502,7 @@ msgstr "Посещенное место. Ничего интересного."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_AEAT_BOSS_CULT_CHALLENGE\"]/text"
 msgstr ""
-"Из туннеля появляется огромный крейсер конструкции Культистов! Должно быть, "
+"Из туннеля появляется огромный крейсер конструкции сектантов! Должно быть, "
 "это редкое исследовательское судно, которое взяло на себя миссию "
 "путешествовать по Мультивселенной!"
 
@@ -530,7 +530,7 @@ msgstr "Использовать свое благословение, чтобы
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_AEAT_BOSS_CULT_EXTREME\"]/text"
 msgstr ""
-"Из туннеля появляется огромный крейсер конструкции Культистов! Должно быть, "
+"Из туннеля появляется огромный крейсер конструкции сектантов! Должно быть, "
 "это редкое исследовательское судно, которое взяло на себя миссию "
 "путешествовать по Мультивселенной!"
 
@@ -558,7 +558,7 @@ msgstr "Использовать свое благословение, чтобы
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_AEAT_BOSS_CULT_CHAOS\"]/text"
 msgstr ""
-"Из туннеля появляется огромный крейсер конструкции Культистов! Должно быть, "
+"Из туннеля появляется огромный крейсер конструкции сектантов! Должно быть, "
 "это редкое исследовательское судно, которое взяло на себя миссию "
 "путешествовать по Мультивселенной!"
 
@@ -1019,23 +1019,35 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SYLVAN_AEA_WEAPONS\"]/text"
 msgstr ""
+"\"Ааааа. Сссстранник-сссстранник, любой уважающий сссебя Ренегат знает, что "
+"ему нужно ссснаряжение, есссли он хочет выжить\"."
 
 #: src-en/data/events_special_multiverse.xml.append:1407
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SYLVAN_AEA_DRONES\"]/text"
 msgstr ""
+"\"Ааааа. Сссстранник-сссстранник, обычно я продаю оружие, но в поссследнее "
+"время у меня ссскопилосссь довольно много дронов. Может быть, ты мог бы "
+"воссспользоватьссся одним из них?\""
 
 #: src-en/data/events_special_multiverse.xml.append:1411
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SYLVAN_AEA_BOTH\"]/text"
 msgstr ""
+"\"Ааааа. Сссстранник-сссстранник, я побывал недавно в нескольких секторах, "
+"нашел редкое оружие, которое может тебя заинтересовать\"."
 
 #: src-en/data/events_special_multiverse.xml.append:1415
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SYLVAN_AEA_LYLMIK\"]/text"
 msgstr ""
+"\"Ааааа. Сссстранник-сссстранник\", недавно я нашшшел одни жуткие руины, а "
+"внутри - такие технологии, какие мы оба никогда не видели! Пойдем, "
+"посссмотришь\"."
 
 #: src-en/data/events_special_multiverse.xml.append:1419
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SYLVAN_AEA_LOOT\"]/text"
 msgstr ""
+"\"Ааааа. Сссстранник-сссстранник\", у меня есссть несссколько редких вещей "
+"на продажу, сссстранник!\""
