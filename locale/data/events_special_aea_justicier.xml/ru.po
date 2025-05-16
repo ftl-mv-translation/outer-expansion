@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-16 12:50+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-05-17 13:49+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_aea_justicierxml/ru/>\n"
 "Language: ru\n"
@@ -54,7 +54,7 @@ msgstr "Неважно."
 #: src-en/data/events_special_aea_justicier.xml:34
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/text"
-msgstr "Открыть книгу."
+msgstr "Вы открыли книгу."
 
 #: src-en/data/events_special_aea_justicier.xml:36
 msgid ""
@@ -64,12 +64,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_aea_justicier.xml:40
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[2]/text"
-msgstr "Прочитать о \"Ритуалах крови\"."
+msgstr "Прочитать раздел \"Правила ритуала\"."
 
 #: src-en/data/events_special_aea_justicier.xml:44
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[3]/text"
-msgstr "Прочитать о \"Ритуалах крови\"."
+msgstr "Прочитать раздел \"Ритуалы крови\"."
 
 #: src-en/data/events_special_aea_justicier.xml:48
 msgid ""
@@ -88,7 +88,15 @@ msgid ""
 msgstr ""
 "Вы обращаетесь к разделу книги, посвященному правилам ритуала.\n"
 "Некоторые ритуалы могут иметь несколько требований, в таком случае "
-"применяется самое слабое из списка."
+"применяется самое слабое из списка.\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"ㅤ"
 
 #: src-en/data/events_special_aea_justicier.xml:69
 msgid ""
