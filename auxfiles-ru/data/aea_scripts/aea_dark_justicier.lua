@@ -1047,35 +1047,35 @@ script.on_internal_event(Defines.InternalEvents.ON_MOUSE_R_BUTTON_DOWN, function
 end)
 
 local spellListPage1 = {}
-spellListPage1[1] = {id = "heal_room", name="Пропе Сана", hint_amount = 0, description="Принесите жертву крови, чтобы восстановить тех, кто рядом.", condition="Отсутствуют.", stat="50 ОЗ исцеления в течение 5 секунд союзникам в том же отсеке."}
-spellListPage1[2] = {id = "heal_ship", name="Сана Навис", hint_amount = 1, description="Принесите большую жертву, чтобы восстановить тех, кто находится на судне.", condition="Отсутствуют.", stat="150 ОЗ исцеления в течение 10 секунд союзникам в том же отсеке."}
-spellListPage1[3] = {id = "buff_damage", name="Дамнум", hint_amount = 3, description="Дает союзникам усиление урона, рассеивающееся после выхода из локации.", condition="Отсутствуют.", stat="1.5x урона в бою до смерти или прыжка всем союзникам на любом корабле."}
+spellListPage1[1] = {id = "heal_room", name="Пропе Сана", hint_amount = 0, description="Принесите жертву крови, чтобы исцелить тех, кто рядом.", condition="Отсутствуют.", stat="50 ОЗ исцеления в течение 5 секунд союзникам в том же отсеке."}
+spellListPage1[2] = {id = "heal_ship", name="Сана Навис", hint_amount = 1, description="Принесите большую жертву, чтобы исцелить тех, кто находится на судне.", condition="Отсутствуют.", stat="150 ОЗ исцеления в течение 10 секунд союзникам в том же отсеке."}
+spellListPage1[3] = {id = "buff_damage", name="Дамнум", hint_amount = 3, description="Дает союзникам усиление урона, рассеивающееся после ухода из локации.", condition="Отсутствуют.", stat="1.5x урона в бою до смерти или прыжка всем союзникам на любом корабле."}
 
-spellListPage1[4] = {id = "buff_crew_health", name="Салус", hint_amount = 12, description="Навсегда наделяет избранного благом здоровья.", condition="Не может быть нацелен на временных, ослабленных или уже баффнутых аналогичным образом членов экипажа.", stat="1.5x максимального здоровья навсегда для выбранного члена экипажа."}
-spellListPage1[5] = {id = "buff_crew_resistance", name="Резистенция", hint_amount = 12, description="Навсегда наделяет избранного благом сопротивления пустоте и пламени.", condition="Не может быть нацелен на временных, ослабленных или уже баффнутых аналогичным образом членов экипажа.", stat="Невосприимчив к удушению и огню, также 2x скорость исцеления для выбранного члена экипажа."}
-spellListPage1[6] = {id = "buff_crew_actions", name="Актио", hint_amount = 12, description="Навсегда наделите избранного благом разрушения и восстановления.", condition="Не может быть нацелен на временных, ослабленных или уже баффнутых аналогичным образом членов экипажа.", stat="1.5х урона в бою и 2х скорости ремонта навсегда для выбранного члена экипажа."}
+spellListPage1[4] = {id = "buff_crew_health", name="Салус", hint_amount = 12, description="Навсегда наделяет избранного благом здоровья.", condition="Не может быть нацелен на временных, ослабленных или уже усиленных аналогичным образом членов экипажа.", stat="1.5x максимального здоровья навсегда для выбранного члена экипажа."}
+spellListPage1[5] = {id = "buff_crew_resistance", name="Резистенция", hint_amount = 12, description="Навсегда наделяет избранного благом сопротивления пустоте и пламени.", condition="Не может быть нацелен на временных, ослабленных или уже усиленных аналогичным образом членов экипажа.", stat="Невосприимчив к удушению и огню, также 2x скорость исцеления для выбранного члена экипажа."}
+spellListPage1[6] = {id = "buff_crew_actions", name="Актио", hint_amount = 12, description="Навсегда наделите избранного благом разрушения и восстановления.", condition="Не может быть нацелен на временных, ослабленных или уже усиленных аналогичным образом членов экипажа.", stat="1.5х урона в бою и 2х скорости ремонта навсегда для выбранного члена экипажа."}
 
-spellListPage1[7] = {id = "teleport_one", name="Иануаэ", hint_amount = 8, description="Переносит избранного в далекое место.", condition="Должен быть выполнен на корабле игрока.", stat="Цель телепортируется на вражеский корабль."}
-spellListPage1[8] = {id = "teleport_room", name="Иануаэ Пропе", hint_amount = 8, description="Переносит избранного и его союзников в далекое место.", condition="Должен быть выполнен на корабле игрока.", stat="Цель и союзники, находящиеся в одном отсеке, телепортируются на вражеский корабль."}
-spellListPage1[9] = {id = "retrieve_crew", name="Рекуперация", hint_amount = 8, description="Забирает союзников издалека.", condition="На борту вражеского корабля должен быть ваш экипаж.", stat="Весь ваш экипаж с вражеского корабля телепортируются обратно."}
+spellListPage1[7] = {id = "teleport_one", name="Иануаэ", hint_amount = 8, description="Переносит избранного на далекое расстояние.", condition="Должен быть выполнен на корабле игрока.", stat="Цель телепортируется на вражеский корабль."}
+spellListPage1[8] = {id = "teleport_room", name="Иануаэ Пропе", hint_amount = 8, description="Переносит избранного и его союзников на далекое расстояние.", condition="Должен быть выполнен на корабле игрока.", stat="Цель и союзники, находящиеся в одном отсеке, телепортируются на вражеский корабль."}
+spellListPage1[9] = {id = "retrieve_crew", name="Рекуперация", hint_amount = 8, description="Возвращает союзников с дальнего расстояния.", condition="На борту вражеского корабля должен быть ваш экипаж.", stat="Весь ваш экипаж с вражеского корабля телепортируются обратно."}
 
 local spellListPage2 = {}
-spellListPage2[1] = {id = "buy_fuel", name="Навис Чибум", hint_amount = 4, description="Пожертвуйте кровью и богатством, чтобы получить благословение путешествия.", condition="10 лома.", stat="Забирает 10 лома и выдает 4-5 топлива."}
-spellListPage2[2] = {id = "buy_missile", name="Тела", hint_amount = 4, description="Пожертвуйте кровью и богатством, чтобы получить благословение боеприпасов.", condition="10 лома.", stat="Забирает 10 лома и выдает 2-3 ракеты."}
-spellListPage2[3] = {id = "buy_drone", name="Партес", hint_amount = 4, description="Пожертвуйте кровью и богатством, чтобы получить благословение компонентов.", condition="10 лома.", stat="Забирает 10 лома и выдает 2 дрон-комплекта."}
+spellListPage2[1] = {id = "buy_fuel", name="Навис Чибум", hint_amount = 4, description="Пожертвуйте кровью и богатством, чтобы получить благословение путешествия.", condition="10 лома.", stat="Забирает 10 лома и дает 4-5 топлива."}
+spellListPage2[2] = {id = "buy_missile", name="Тела", hint_amount = 4, description="Пожертвуйте кровью и богатством, чтобы получить благословение боеприпасов.", condition="10 лома.", stat="Забирает 10 лома и дает 2-3 боеголовки."}
+spellListPage2[3] = {id = "buy_drone", name="Партес", hint_amount = 4, description="Пожертвуйте кровью и богатством, чтобы получить благословение компонентов.", condition="10 лома.", stat="Забирает 10 лома и дает 2 дрон-комплекта."}
 
-spellListPage2[4] = {id = "repair_system", name="Репарар Ратио", hint_amount = 6, description="Восстанавливает сломанные компоненты с помощью жертвы крови.", condition="Цель должна находиться внутри системного отсека.", stat="Восстанавливает 4 системных урона."}
-spellListPage2[5] = {id = "repair_hull", name="Репарар Навис", hint_amount = 6, description="Восстанавливает судно с помощью жертвы крови.", condition="Отсутствуют.", stat="Восстанавливает 2 корпуса."}
+spellListPage2[4] = {id = "repair_system", name="Репарар Ратио", hint_amount = 6, description="Восстанавливает сломанные компоненты с помощью жертвы крови.", condition="Цель должна находиться внутри системного отсека.", stat="Устраняет 4 единицы системного урона."}
+spellListPage2[5] = {id = "repair_hull", name="Репарар Навис", hint_amount = 6, description="Восстанавливает судно с помощью жертвы крови.", condition="Отсутствуют.", stat="Восстанавливает 2 единицы прочности корпуса."}
 
 spellListPage2[6] = {id = "promote", name="Промовере", hint_amount = 20, description="Навсегда расширяет возможности избранного.", condition="Нельзя выбрать временный, ослабленный или экипаж без пути продвижения.", stat="Улучшает экипаж. Например, человек -> человек-Солдат."}
-spellListPage2[7] = {id = "give_weapon", name="Вокате Телум", hint_amount = 20, description="Воспользуйтесь технологией избранного и получите оружие.", condition="Целью должен быть: Кристаллин, валун, орхидея, Вампсорняк, призрак, пиявка или обелиск.", stat="Дает оружие, соответствующее от выбранного члена экипажа."}
+spellListPage2[7] = {id = "give_weapon", name="Вокате Телум", hint_amount = 20, description="Воспользуйтесь технологией избранного и получите оружие.", condition="Целью должен быть: Кристаллин, валун, орхидея, Вампсорняк, призрак, пиявка или обелиск.", stat="Дает оружие, соответствующее выбранному члену экипажа."}
 
 local spellListPage3 = {}
-spellListPage3[1] = {id = "fire_bomb", name="Игнис", hint_amount = 18, description="Принесите жертву крови, чтобы обрушить на врага огненный дождь.", condition="3 ракеты и вражеский корабль.", stat="Запускает 3 огненные бомбы во вражеский корабль."}
-spellListPage3[2] = {id = "spawn_drone", name="Фукус", hint_amount = 16, description="Принесите жертву крови, чтобы обрушить на врага механическую атаку.", condition="3 дрон-комплекта и вражеский корабль.", stat="Призывает 3 лучевых дрона вокруг вражеского корабля."}
-spellListPage3[3] = {id = "lockdown", name="Цинцинно", hint_amount = 22, description="Принесите жертву крови и направьте силу избранного, чтобы заморозить врага.", condition="Целью должен быть кристаллин, цель не может быть ослаблена ритуалом.", stat="Запускает во вражеский корабль 3 кристаллических осколка, которые наносят урон и блокируют отсеки."}
+spellListPage3[1] = {id = "fire_bomb", name="Игнис", hint_amount = 18, description="Принесите жертву крови, чтобы обрушить на врага огненный дождь.", condition="3 боеголовки и вражеский корабль.", stat="Запускает 3 огненные бомбы во вражеский корабль."}
+spellListPage3[2] = {id = "spawn_drone", name="Фукус", hint_amount = 16, description="Принесите жертву крови, чтобы обрушить на врага механическую атаку.", condition="3 дрон-комплекта и вражеский корабль.", stat="Призывает 3 лучевых дрона, которые атакуют вражеский корабль."}
+spellListPage3[3] = {id = "lockdown", name="Цинцинно", hint_amount = 22, description="Принесите жертву крови и направьте силу избранного, чтобы заморозить врага.", condition="Целью должен быть кристаллин, цель не будет ослаблена ритуалом.", stat="Запускает во вражеский корабль 3 кристаллических осколка, которые наносят урон и запирают отсеки."}
 spellListPage3[4] = {id = "particle", name="Партикула", hint_amount = 10, description="Принесите жертву крови, чтобы поразить врага.", condition="Вражеский корабль.", stat="Выпускает 3 лазера частиц по вражескому кораблю."}
-spellListPage3[5] = {id = "boarding", name="Консенсис", hint_amount = 16, description="Принесите жертву крови, чтобы вызвать механических воинов против своего врага.", condition="1 дрон-комплект, 1 ракета и вражеский корабль.", stat="Запускает 3 абордажных дрона на вражеский корабль."}
+spellListPage3[5] = {id = "boarding", name="Консенсис", hint_amount = 16, description="Принесите жертву крови, чтобы вызвать механических воинов против своего врага.", condition="1 дрон-комплект, 1 боеголовка и вражеский корабль.", stat="Запускает 3 абордажных дрона на вражеский корабль."}
 
 local emptyReq = Hyperspace.ChoiceReq()
 local blueReq = Hyperspace.ChoiceReq()
@@ -1093,12 +1093,12 @@ local function createPage(id, name, description, hintAmount, event, condition, o
 		if Hyperspace.metaVariables["aea_dark_spell_"..id] > 2 or Hyperspace.metaVariables["aea_dark_spell_all"] >= hintAmount + 5 then 
 			eventString = eventString.."\nТребование ритуала: "..condition
 		else
-			eventString = eventString.."\nГлифы здесь все еще трудно разобрать, но, возможно, дальнейшие эксперименты помогут их выявить."
+			eventString = eventString.."\nГлифы здесь все еще трудно разобрать, но, возможно, дальнейшие эксперименты помогут их разгадать."
 		end
 		if Hyperspace.metaVariables["aea_dark_spell_"..id] > 4 then 
 			eventString = eventString.."\nИтоги ритуала: "..outcome
 		else
-			eventString = eventString.."\nГлифы здесь все еще трудно разобрать, но, возможно, дальнейшие эксперименты помогут их выявить."
+			eventString = eventString.."\nГлифы здесь все еще трудно разобрать, но, возможно, дальнейшие эксперименты помогут их разгадать."
 		end
 		pageEvent.text.data = eventString
 		pageEvent.text.isLiteral = true
@@ -1110,7 +1110,7 @@ local function createPage(id, name, description, hintAmount, event, condition, o
 	elseif Hyperspace.metaVariables["aea_dark_spell_all"] >= hintAmount then
 		local pageEvent = eventManager:CreateEvent("AEA_JUSTICIER_BOOK_TEMPLATE"..eventFix, 0, false)
 		pageEvent.eventName = "AEA_JUSTICIER_BOOK_PAGE_"..id
-		local eventString = "Глифы на странице неразборчивы для вас, однако вы можете разобрать несколько слабых ритуальных знаков.\n\n\n\n\n\n\n\n\n"
+		local eventString = "Глифы на странице не поддаются расшифровке, однако вы можете разобрать несколько слабых ритуальных знаков.\n\n\n\n\n\n\n\n\n"
 		if Hyperspace.metaVariables["aea_dark_spell_all"] >= hintAmount + 5 then 
 			eventString = eventString.."\nТребование ритуала: "..condition
 		else
@@ -1118,10 +1118,10 @@ local function createPage(id, name, description, hintAmount, event, condition, o
 		end
 		pageEvent.text.data = eventString
 		pageEvent.text.isLiteral = true
-		event:AddChoice(pageEvent, "Страница со слабыми ритуальными отметками.", blueReq, true)
+		event:AddChoice(pageEvent, "Страница со слабыми ритуальными знаками.", blueReq, true)
 	else
 		local invalidEvent = eventManager:CreateEvent("OPTION_INVALID", 0, false)
-		event:AddChoice(invalidEvent, "Глифы не поддаются расшифровке. Возможно, более активное использование ритуалов научит вас большему.", emptyReq, true)
+		event:AddChoice(invalidEvent, "Глифы не поддаются расшифровке. Возможно, более активное использование ритуалов поможет вам узнать больше.", emptyReq, true)
 	end
 end
 
@@ -1235,7 +1235,7 @@ script.on_render_event(Defines.RenderEvents.CHOICE_BOX, function() end, function
 		Graphics.CSurface.GL_PushMatrix()
 		Graphics.CSurface.GL_Translate(0, moveDistance*5, 0)
 		Graphics.CSurface.GL_RenderPrimitiveWithColor(ritual, Graphics.GL_Color(0.75, 0.5, 0.5, 1))
-		Graphics.freetype.easy_print(1, 11, -6, "Ритуал требует определенного типа отсек.")
+		Graphics.freetype.easy_print(1, 11, -6, "Ритуал требует определенного типа отсека.")
 		Graphics.CSurface.GL_PopMatrix()
 
 		Graphics.CSurface.GL_PushMatrix()
@@ -1247,7 +1247,7 @@ script.on_render_event(Defines.RenderEvents.CHOICE_BOX, function() end, function
 		Graphics.CSurface.GL_PushMatrix()
 		Graphics.CSurface.GL_Translate(0, moveDistance*7, 0)
 		Graphics.CSurface.GL_RenderPrimitiveWithColor(ritual, Graphics.GL_Color(0.75, 1, 0, 1))
-		Graphics.freetype.easy_print(1, 11, -6, "Ритуал необходимо провести, пока на вражеском корабле\nесть экипаж.")
+		Graphics.freetype.easy_print(1, 11, -6, "Ритуал следует проводить, когда на вражеском корабле\nесть экипаж.")
 		Graphics.CSurface.GL_PopMatrix()
 
 		Graphics.CSurface.GL_PopMatrix()
