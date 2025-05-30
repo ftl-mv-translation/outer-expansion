@@ -543,6 +543,91 @@ script.on_internal_event(Defines.InternalEvents.ON_TICK, function()
 	end
 end)
 
-script.on_internal_event(Defines.InternalEvents.JUMP_ARRIVE, function(shipManager)
-	
+
+local uniqueCrewEnd = {}
+local uniqueCrewIndex = {}
+local eventToUniqueCrew = {}
+local doc = RapidXML.xml_document("data/events_sector_showdown.xml")
+for node in node_child_iter(doc:first_node("FTL") or doc) do
+	if node:name() == "event" and node:first_attribute("name"):value() == "TRUE_VICTORY_CREW" then
+		--print("found event")
+		for choiceNode in node_child_iter(node) do
+			if choiceNode:name() == "choice" and choiceNode:first_attribute("req"):value() then
+				--print("found choice for unique crew:"..tostring(choiceNode:first_attribute("req"):value()))
+				uniqueCrewEnd[choiceNode:first_attribute("req"):value()] = {}
+				local tab = uniqueCrewEnd[choiceNode:first_attribute("req"):value()]
+				table.insert(uniqueCrewIndex, choiceNode:first_attribute("req"):value())
+				for textNode in node_child_iter(choiceNode) do
+					if textNode:name() == "text" then
+						tab.text = textNode:value()
+					elseif textNode:name() == "event" and textNode:first_attribute("load"):value() then
+						tab.event = textNode:first_attribute("load"):value()
+						eventToUniqueCrew[textNode:first_attribute("load"):value()] = choiceNode:first_attribute("req"):value()
+					end
+				end
+			end
+		end
+	end
+end
+for node in node_child_iter(doc:first_node("FTL") or doc) do
+	if node:name() == "event" and eventToUniqueCrew[node:first_attribute("name"):value()] then
+		--print("found event for unique crew:"..tostring(eventToUniqueCrew[node:first_attribute("name"):value()]))
+		local crewId = eventToUniqueCrew[node:first_attribute("name"):value()]
+		for choiceNode in node_child_iter(node) do
+			if choiceNode:name() == "text-aea-alternative" then
+				uniqueCrewEnd[crewId].eventText = choiceNode:value()
+			elseif choiceNode:name() == "unlockCustomShip" then
+				uniqueCrewEnd[crewId].ship = choiceNode:value()
+				--print("add ship:"..choiceNode:value())
+			end
+		end
+	end
+end
+doc:clear()
+
+local genericResponse = {
+	{format = false, text = "\"Это было близко, я рад, что мы выбрались оттуда живыми.\""},
+	{format = false, text = "\"Было бы очень досадно, если бы мы туда спустились. И подумать только, что это случилось бы, когда мы были так близки к побегу.\""},
+	{format = false, text = "\"После этого боя я уверен, что у Флагмана повстанцев нет никаких шансов!\""},
+	{format = true, text = "Это, конечно, не та миссия, на которую подписались %s, но они в любом случае рады, что оказались здесь."},
+	{format = true, text = "Вы застаете %s выпивающим с остальными членами экипажа: \"Ну, даже если бы мы спустились туда, я не думаю, что было бы так уж плохо делать это со всеми вами.\""}
+}
+
+local hookedEvents = {}
+
+script.on_internal_event(Defines.InternalEvents.PRE_CREATE_CHOICEBOX, function(event)
+	local eventManager = Hyperspace.Event
+	if event.eventName == "AEA_OLD_VICTORY_CREW" then
+		event:RemoveChoice(0)
+		for _, crewId in ipairs(uniqueCrewIndex) do
+			local crewTable = uniqueCrewEnd[crewId]
+			local pageEvent = eventManager:CreateEvent("AEA_OLD_VICTORY_", 0, false)
+			pageEvent.eventName = "AEA_OLD_VICTORY_"..string.sub(crewTable.event, 19, string.len(crewTable.event))
+			--print("create event:"..pageEvent.eventName)
+			if not hookedEvents[pageEvent.eventName] then
+				hookedEvents[pageEvent.eventName] = true
+				script.on_game_event(pageEvent.eventName, false, function()
+					Hyperspace.CustomShipUnlocks.instance:UnlockShip(crewTable.ship, false, true, true)
+				end)
+			end
+			if crewTable.eventText then
+				pageEvent.text.data = crewTable.eventText
+			else
+				local randomSelect = math.random(#genericResponse)
+				if genericResponse[randomSelect].format then
+					pageEvent.text.data = string.format(genericResponse[randomSelect].text, string.sub(crewTable.text, 5, string.len(crewTable.text) - 12))
+				else
+					pageEvent.text.data = genericResponse[randomSelect].text
+				end
+			end
+			pageEvent.text.isLiteral = true
+			local blueReq = Hyperspace.ChoiceReq()
+			blueReq.object = crewId
+			blueReq.blue = true
+			blueReq.min_level = 1
+			blueReq.max_level = mods.multiverse.INT_MAX
+			blueReq.max_group = -1
+			event:AddChoice(pageEvent, crewTable.text, blueReq, true)
+		end
+	end
 end)

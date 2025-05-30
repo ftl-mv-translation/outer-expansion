@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <FTL>
+<text name="aea_acidic_nebula_tooltip">You're inside an Acidic nebula. Your sensors will not function and your empty rooms will be slowly breached at random by the Acidic clouds.</text>
+
 <text name="map_icon_aea_acid_nebula">ACIDIC</text>
 <text name="map_icon_aea_acid_nebula_core">ACIDIC CORE [!]</text>
 <text name="map_icon_aea_acid_nebula_shipyard">ACIDIC SHIPYARD</text>
@@ -202,4 +204,8 @@ The Shard-Forged, although known as pirates, are rather well liked by the federa
 <text name="credit_victory_aea_old">The Multiverse Flagship of this reality has been destroyed. The Rebel forces were weakened, and the Federation troops, along with reinforcements, successfully defeated the Rebel forces of this reality.</text>
 
 <text name="tip_aea_burst_laser">Tip: Burst Pinpoints are able to fire multiple times in quick succession but lose the ability to target specific tiles</text>
+
+<text name="aea_super_shields">Auxiliary Shields</text>
+<text name="aea_super_shields_installed">Auxiliary Shields System installed</text>
+<text name="aea_clone_crime_installed">Modified Clone Bay installed</text>
 </FTL>

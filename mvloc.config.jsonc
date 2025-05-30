@@ -4,7 +4,7 @@
 
         "data/autoBlueprints.xml.append",
 		"data/blueprints.xml.append",
-
+		"data/events_addon_icon.xml.append",
 		"data/events_sector_aea_acid.xml",
 		"data/events_sector_aea_bird.xml",
 		"data/events_sector_aea_cult.xml",
@@ -66,6 +66,8 @@
 
 		// events
 		"//text",
+		"//hover-text",
+		"//text-aea-alternative",
 		"//triggeredEventBox/tooltip",
 		"//unvisitedTooltip",
 		"//visitedTooltip",
@@ -129,11 +131,11 @@
     "packaging": {
         "fullOriginal": [
 		    //assets1
-            "https://github.com/ftl-mv-translation/outer-expansion/raw/outer-expansion-english/FTL-Outer-Expansion-7.1.3_-_Assets.zip",
+            "https://github.com/ftl-mv-translation/outer-expansion/raw/outer-expansion-english/FTL-Outer-Expansion-7.1.6_-_Assets.zip",
 			//data
-			"https://github.com/ftl-mv-translation/outer-expansion/raw/outer-expansion-english/FTL-Outer-Expansion-7.1.3_-_Data.zip",
+			"https://github.com/ftl-mv-translation/outer-expansion/raw/outer-expansion-english/FTL-Outer-Expansion-7.1.6_-_Data.zip",
         ],
         "prefix": "Outer-Expansion",
-        "version": "7.1.3"
+        "version": "7.1.6"
     }
 }

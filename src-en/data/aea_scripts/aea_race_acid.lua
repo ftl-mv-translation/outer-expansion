@@ -214,7 +214,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
 			wipe_p = true
 		end
 		if refill > 0 then
-			for id = 0, shipGraph:RoomCount(), 1 do
+			for id = 0, shipGraph:RoomCount() - 1, 1 do
 				--local id = room.iRoomId
 				--print(id)
 				oxygen:ModifyRoomOxygen(id, (-1*refill) - (5*(Hyperspace.FPS.SpeedFactor/16)))
@@ -230,7 +230,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
 		local shipGraph = Hyperspace.ShipGraph.GetShipInfo(shipManager.iShipId)
 		local wipe_e = false
 		if refill > 0 then
-			for id = 0, shipGraph:RoomCount(), 1 do
+			for id = 0, shipGraph:RoomCount() - 1, 1 do
 				--local id = room.iRoomId
 				--print(id)
 				oxygen:ModifyRoomOxygen(id, (-1*refill) - (2*(Hyperspace.FPS.SpeedFactor/16)))
@@ -263,13 +263,15 @@ local eventString = "NEBULA_ACIDIC"
 local playerVar = "aea_acidic_nebula"
 
 local warningString = "warnings/danger_aea_acidic.png"
-local warningImage = Hyperspace.Resources:CreateImagePrimitiveString(warningString, 0, 0, 0, Graphics.GL_Color(1, 1, 1, 1), 1, false)
+mods.multiverse.register_environment("aea_acidic_nebula", playerVar, warningString)
+
+--[[local warningImage = Hyperspace.Resources:CreateImagePrimitiveString(warningString, 0, 0, 0, Graphics.GL_Color(1, 1, 1, 1), 1, false)
 local warningX = 660
 local warningY = 72
 local warningSizeX = 60
 local warningSizeY = 58
 local warningText = "You're inside an Acidic nebula. Your sensors will not function and your empty rooms will be slowly breached at random by the Acidic clouds."
-
+]]
 local initialPosX = (math.random() * 131072) % 131 - 65
 local initialPosY = (math.random() * 131072) % 81 - 40
 
@@ -357,7 +359,7 @@ script.on_render_event(Defines.RenderEvents.LAYER_FOREGROUND, function()
 	end
 end, function() end)
 
-script.on_render_event(Defines.RenderEvents.MOUSE_CONTROL, function()
+--[[script.on_render_event(Defines.RenderEvents.MOUSE_CONTROL, function()
 	local commandGui = Hyperspace.Global.GetInstance():GetCApp().gui
 	if Hyperspace.Global.GetInstance():GetCApp().world.bStartedGame and Hyperspace.playerVariables[playerVar] == 1 and not (commandGui.menu_pause or commandGui.event_pause) then
 		Graphics.CSurface.GL_PushMatrix()
@@ -369,7 +371,7 @@ script.on_render_event(Defines.RenderEvents.MOUSE_CONTROL, function()
 			Hyperspace.Mouse.tooltip = warningText
 		end
 	end
-end, function() end)
+end, function() end)]]
 
 function createCloud(x, y)
 	local cloudTemp = {x = 0, y = 0, scale = 1.5, timerScale = 0, opacity = 1, revOp = 0, fade = 0, exists = 1}
