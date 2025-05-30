@@ -1,37 +1,23 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-30 10:55+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_aea_shlegxml/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_shleg.xml:4
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_UPDATE_AEA_SHLEG\"]/text"
 msgstr ""
 "[ДУРНАЯ СЛАВА ПОВЫШЕНА - АНАРХИСТЫ].\n"
-"\tВаши действия здесь, оправданные или нет, не лучшим образом отразятся в "
-"глазах Гениократии и ее граждан. Если вы будете постоянно совершать подобные "
-"действия, то можете столкнуться с негативной реакцией со стороны Анархистов "
-"и их союзников."
+"\tВаши действия здесь, оправданные или нет, не лучшим образом отразятся в глазах Гениократии и ее граждан. Если вы будете постоянно совершать подобные действия, то можете столкнуться с негативной реакцией со стороны Анархистов и их союзников."
 
 #: src-en/data/events_special_aea_shleg.xml:9
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_UPDATE_AEA_SHLEG_FIGHT\"]/text"
 msgstr ""
 "[ДУРНАЯ СЛАВА ПОВЫШЕНА - АНАРХИСТЫ].\n"
-"\tВаши действия здесь, оправданные или нет, не лучшим образом отразятся в "
-"глазах Гениократии и ее граждан. Если вы будете постоянно совершать подобные "
-"действия, то можете столкнуться с негативной реакцией со стороны Анархистов "
-"и их союзников."
+"\tВаши действия здесь, оправданные или нет, не лучшим образом отразятся в глазах Гениократии и ее граждан. Если вы будете постоянно совершать подобные действия, то можете столкнуться с негативной реакцией со стороны Анархистов и их союзников."
 
 #: src-en/data/events_special_aea_shleg.xml:13
 msgid ""
@@ -43,15 +29,14 @@ msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_REMOVE_AEA_SHLEG\"]/text"
 msgstr ""
 "[ДУРНАЯ СЛАВА УМЕНЬШИЛАСЬ - АНАРХИСТ].\n"
-"\tВы совершили доброе дело в глазах Анархистов. Если вы приобрели дурную "
-"славу благодаря другим поступкам в прошлом, вас скорее простят за них."
+"\tВы совершили доброе дело в глазах Анархистов. Если вы приобрели дурную славу благодаря другим поступкам в прошлом, вас скорее простят за них."
 
 #: src-en/data/events_special_aea_shleg.xml:37
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_START_AEA_SHLEG\"]/text[1]"
 msgstr ""
-"Вы прибыли в пространство Анархистов. Анархисты не против Федерации, но и не "
-"являются ее большими поклонниками - у них и так хватает забот с их "
+"Вы прибыли в пространство Анархистов. Анархисты не против Федерации, но и не"
+" являются ее большими поклонниками - у них и так хватает забот с их "
 "восстанием против Клептократии и Гениократии."
 
 #: src-en/data/events_special_aea_shleg.xml:38
@@ -97,8 +82,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_CRIMINAL\"]/text"
 msgstr ""
-"Кажется, здесь что-то не так. Обычно Анархисты не обращают внимания на такие "
-"корабли, как ваш, но сейчас вы уловили подозрительные разговоры на "
+"Кажется, здесь что-то не так. Обычно Анархисты не обращают внимания на такие"
+" корабли, как ваш, но сейчас вы уловили подозрительные разговоры на "
 "сторожевом корабле."
 
 #: src-en/data/events_special_aea_shleg.xml:86
@@ -121,9 +106,9 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_aea_shleg.xml:99
 msgid "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG\"]/text"
 msgstr ""
-"Анархисты придают большое значение хорошей обороне не только своих кораблей, "
-"но и всего сектора в целом. Поэтому для охраны входного маяка был направлен "
-"сторожевой корабль. К счастью, они, похоже, не возражают против вашего "
+"Анархисты придают большое значение хорошей обороне не только своих кораблей,"
+" но и всего сектора в целом. Поэтому для охраны входного маяка был направлен"
+" сторожевой корабль. К счастью, они, похоже, не возражают против вашего "
 "присутствия."
 
 #: src-en/data/events_special_aea_shleg.xml:101
@@ -166,8 +151,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_GUARD_AEA_SHLEG_CONTACT\"]/text[1]"
 msgstr ""
-"На экране появляется маленькая ракушка, выжидающе смотря на вас единственным "
-"глазом."
+"На экране появляется маленькая ракушка, выжидающе смотря на вас единственным"
+" глазом."
 
 #: src-en/data/events_special_aea_shleg.xml:133
 msgid ""
@@ -239,8 +224,8 @@ msgstr "\"Проссстите, но я не могу ничего дать\". �
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_REQUEST\"]/event[3]/text"
 msgstr ""
-"К вашему удивлению, Анархисты передают вам некоторые припасы. Вам интересно, "
-"делают ли они это по доброте душевной или из страха."
+"К вашему удивлению, Анархисты передают вам некоторые припасы. Вам интересно,"
+" делают ли они это по доброте душевной или из страха."
 
 #: src-en/data/events_special_aea_shleg.xml:186
 msgid ""
@@ -377,54 +362,54 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_special_aea_shleg.xml:298
 msgid ""
-"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/unvisitedTooltip"
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/unvisitedTooltip"
 msgstr "Непосещенное место."
 
 #: src-en/data/events_special_aea_shleg.xml:299
 msgid ""
-"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/visitedTooltip"
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/visitedTooltip"
 msgstr "Посещенное место. Ничего интересного."
 
 #: src-en/data/events_special_aea_shleg.xml:300
 msgid ""
-"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/undiscoveredTooltip"
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/undiscoveredTooltip"
 msgstr "Непосещенное место."
 
 #: src-en/data/events_special_aea_shleg.xml:302
 msgid ""
-"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/text"
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/text"
 msgstr ""
 "Требуется немало усилий, чтобы убедить Анархистов отказаться от своей "
 "осторожности и вступить в бой с таким кораблем Федерации, как ваш, но чего "
 "еще можно ожидать после того, как вы ворвались в этот сектор и убили их "
 "охрану?"
 
-#: src-en/data/events_special_aea_shleg.xml:308
+#: src-en/data/events_special_aea_shleg.xml:307
 msgid ""
-"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/choice/text"
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_aea_shleg.xml:353
+#: src-en/data/events_special_aea_shleg.xml:352
 msgid ""
 "data/events_special_aea_shleg.xml$//ship[@name=\"SHIP_AEA_SHLEG_TRANSPORT_LOOT\"]/escape/text"
 msgstr "Похоже, они не хотят сражаться. Они пытаются сбежать."
 
-#: src-en/data/events_special_aea_shleg.xml:364
+#: src-en/data/events_special_aea_shleg.xml:363
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/beaconType/unvisitedTooltip"
 msgstr "Непосещенное место."
 
-#: src-en/data/events_special_aea_shleg.xml:365
+#: src-en/data/events_special_aea_shleg.xml:364
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/beaconType/visitedTooltip"
 msgstr "Посещенное место. Ничего интересного."
 
-#: src-en/data/events_special_aea_shleg.xml:366
+#: src-en/data/events_special_aea_shleg.xml:365
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/beaconType/undiscoveredTooltip"
 msgstr "Непосещенное место."
 
-#: src-en/data/events_special_aea_shleg.xml:369
+#: src-en/data/events_special_aea_shleg.xml:368
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/text"
 msgstr ""
@@ -432,44 +417,44 @@ msgstr ""
 "что корабль, скорее всего, перевозит какие-то особые технологии. Если вы "
 "сможете убить экипаж, груз будет вашим."
 
-#: src-en/data/events_special_aea_shleg.xml:372
+#: src-en/data/events_special_aea_shleg.xml:371
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/text"
 msgstr "Потребовать передать товар вам."
 
-#: src-en/data/events_special_aea_shleg.xml:374
+#: src-en/data/events_special_aea_shleg.xml:373
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/event/text"
 msgstr "Вы готовитесь силой забрать груз."
 
-#: src-en/data/events_special_aea_shleg.xml:377
+#: src-en/data/events_special_aea_shleg.xml:376
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_aea_shleg.xml:383
+#: src-en/data/events_special_aea_shleg.xml:382
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/text"
 msgstr "Избегать корабль."
 
-#: src-en/data/events_special_aea_shleg.xml:385
+#: src-en/data/events_special_aea_shleg.xml:384
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/event/text"
 msgstr ""
 "Корабль держится вне зоны действия вашего оружия и в конце концов уходит в "
 "прыжок."
 
-#: src-en/data/events_special_aea_shleg.xml:387
+#: src-en/data/events_special_aea_shleg.xml:386
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/event/choice[1]/text"
 msgstr "Заняться чем-либо на корабле."
 
-#: src-en/data/events_special_aea_shleg.xml:391
+#: src-en/data/events_special_aea_shleg.xml:390
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/event/choice[2]/text"
 msgstr "Ничего не делать."
 
-#: src-en/data/events_special_aea_shleg.xml:398
+#: src-en/data/events_special_aea_shleg.xml:397
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_SHLEG\"]/text"
 msgstr ""
@@ -477,47 +462,47 @@ msgstr ""
 "особая технология, которую вы ожидали увидеть, и которую вы поднимаете на "
 "свой корабль."
 
-#: src-en/data/events_special_aea_shleg.xml:417
+#: src-en/data/events_special_aea_shleg.xml:416
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[1]"
 msgstr ""
 "Несмотря на все усилия слизней, они не смогли победить вас. Победив в этой "
 "битве, вы не отказываете себе в удовольствии поживиться ломом и припасами."
 
-#: src-en/data/events_special_aea_shleg.xml:418
+#: src-en/data/events_special_aea_shleg.xml:417
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[2]"
 msgstr "Корабля слизней больше нет. Вы собираете все полезное с его обломков."
 
-#: src-en/data/events_special_aea_shleg.xml:419
+#: src-en/data/events_special_aea_shleg.xml:418
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[3]"
 msgstr ""
-"Наконец, вероломные обитатели туманностей замолчали навсегда. Вы собираете с "
-"корабля все полезное."
+"Наконец, вероломные обитатели туманностей замолчали навсегда. Вы собираете с"
+" корабля все полезное."
 
-#: src-en/data/events_special_aea_shleg.xml:420
+#: src-en/data/events_special_aea_shleg.xml:419
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[4]"
 msgstr ""
 "Корабль ракушек взрывается, выбрасывая в космос облака ядовитого газа. "
 "Остается надеяться, что поблизости нет станций с открытыми шлюзами..."
 
-#: src-en/data/events_special_aea_shleg.xml:421
+#: src-en/data/events_special_aea_shleg.xml:420
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[5]"
 msgstr ""
 "Несмотря на все защитные меры, корабль ракушек был повержен. Вы собираете с "
 "его останков все полезное."
 
-#: src-en/data/events_special_aea_shleg.xml:422
+#: src-en/data/events_special_aea_shleg.xml:421
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[6]"
 msgstr ""
 "Ракушки известны своей хорошо отлаженной обороной, но ваше оружие вновь "
 "доказало свою эффективность."
 
-#: src-en/data/events_special_aea_shleg.xml:430
+#: src-en/data/events_special_aea_shleg.xml:429
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[1]"
 msgstr ""
@@ -525,44 +510,45 @@ msgstr ""
 "Он произносит последнее слово: \"Сссволочь\", после чего бьется в "
 "конвульсиях и умирает."
 
-#: src-en/data/events_special_aea_shleg.xml:431
+#: src-en/data/events_special_aea_shleg.xml:430
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[2]"
 msgstr ""
 "Вы не испытываете никаких угрызений совести по отношению к экипажу слизней, "
 "хотя хотели бы, чтобы на их корабле лучше пахло."
 
-#: src-en/data/events_special_aea_shleg.xml:432
+#: src-en/data/events_special_aea_shleg.xml:431
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[3]"
 msgstr ""
-"Внутренности корабля теперь покрыты смесью слизи и внутренностей слизней. Фу."
+"Внутренности корабля теперь покрыты смесью слизи и внутренностей слизней. "
+"Фу."
 
-#: src-en/data/events_special_aea_shleg.xml:433
+#: src-en/data/events_special_aea_shleg.xml:432
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[4]"
 msgstr ""
-"Сражаться с ракушками опасно, учитывая, насколько хорошо они защищены, но вы "
-"зачистили корабль от экипажа. Их лом теперь ваш."
+"Сражаться с ракушками опасно, учитывая, насколько хорошо они защищены, но вы"
+" зачистили корабль от экипажа. Их лом теперь ваш."
 
-#: src-en/data/events_special_aea_shleg.xml:434
+#: src-en/data/events_special_aea_shleg.xml:433
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[5]"
 msgstr "Корабль ракушек нейтрализован. Вы собираете с него все полезное."
 
-#: src-en/data/events_special_aea_shleg.xml:441
+#: src-en/data/events_special_aea_shleg.xml:440
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_ESCAPE_AEA_SHLEG\"]/text"
 msgstr ""
-"Похоже, что корабль ракушек передумал оставаться здесь, чтобы закончить этот "
-"бой. Они пытаются сбежать!"
+"Похоже, что корабль ракушек передумал оставаться здесь, чтобы закончить этот"
+" бой. Они пытаются сбежать!"
 
-#: src-en/data/events_special_aea_shleg.xml:454
+#: src-en/data/events_special_aea_shleg.xml:453
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_SHLEG\"]/text"
 msgstr "Корабль ракушек совершил прыжок, оставив вас наедине с маяком."
 
-#: src-en/data/events_special_aea_shleg.xml:457
+#: src-en/data/events_special_aea_shleg.xml:456
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GOTAWAY_AEA_SHLEG_REMAINS\"]/text"
 msgstr ""
@@ -570,17 +556,17 @@ msgstr ""
 "понимаете, что после боя осталось немного лома. Этого конечно мало, но "
 "помогает сгладить впечатления после вашего провала."
 
-#: src-en/data/events_special_aea_shleg.xml:464
+#: src-en/data/events_special_aea_shleg.xml:463
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"SURRENDER_AEA_SHLEG\"]/choice[1]/text"
 msgstr "Принять их капитуляцию."
 
-#: src-en/data/events_special_aea_shleg.xml:468
+#: src-en/data/events_special_aea_shleg.xml:467
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"SURRENDER_AEA_SHLEG\"]/choice[@req=\"LIST_CREW_AEA_SHLEG\"]/text"
 msgstr "(Член экипажа-Анархист) Заключить другую сделку."
 
-#: src-en/data/events_special_aea_shleg.xml:480
+#: src-en/data/events_special_aea_shleg.xml:479
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[1]"
 msgstr ""
@@ -588,54 +574,53 @@ msgstr ""
 "храбры и поиссстине величайшшший воин всссех времен. Не пощщщадите ли вы "
 "нас, чтобы мы могли поведать вашшшу исссторию?\""
 
-#: src-en/data/events_special_aea_shleg.xml:481
+#: src-en/data/events_special_aea_shleg.xml:480
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[2]"
 msgstr ""
 "\"Ладно, сссейчассс я не вижу сссмысссла врать. Мы, вроде как, обречены, "
-"конечно есссли вы нассс не отпуссстите. Мы дадим вам немного барахла, есссли "
-"вы сссоглассситесссь\"."
+"конечно есссли вы нассс не отпуссстите. Мы дадим вам немного барахла, есссли"
+" вы сссоглассситесссь\"."
 
-#: src-en/data/events_special_aea_shleg.xml:482
+#: src-en/data/events_special_aea_shleg.xml:481
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[3]"
 msgstr ""
-"Слизни известны своей трусливостью, и, как и следовало ожидать, этот корабль "
-"слизней сдается и предлагает капитуляцию."
+"Слизни известны своей трусливостью, и, как и следовало ожидать, этот корабль"
+" слизней сдается и предлагает капитуляцию."
 
-#: src-en/data/events_special_aea_shleg.xml:483
+#: src-en/data/events_special_aea_shleg.xml:482
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[4]"
 msgstr ""
 "\"О боги, я не ожидал такого! Я аплодирую вам за такой сссюрприз. А теперь "
 "отпуссстите нассс\"."
 
-#: src-en/data/events_special_aea_shleg.xml:484
+#: src-en/data/events_special_aea_shleg.xml:483
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[5]"
-msgstr ""
-"\"Пожалуйста, вы слишком сильны! Мы не хотим сражаться! Дайте нам жить!\""
+msgstr "\"Пожалуйста, вы слишком сильны! Мы не хотим сражаться! Дайте нам жить!\""
 
-#: src-en/data/events_special_aea_shleg.xml:485
+#: src-en/data/events_special_aea_shleg.xml:484
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[6]"
 msgstr ""
 "В отличие от своих сородичей слизней, ракушки не такие жадные. Они скорее "
 "предпочтут заплатить ломом, чем умереть. Примете ли вы их предложение?"
 
-#: src-en/data/events_special_aea_shleg.xml:486
+#: src-en/data/events_special_aea_shleg.xml:485
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[7]"
 msgstr ""
-"Вы получаете вызов от капитана ракушек. "
-"\"Да-да, ваши пушки очень хороши. Отпустите нас, у нас есть лом!\""
+"Вы получаете вызов от капитана ракушек. \"Да-да, ваши пушки очень хороши. "
+"Отпустите нас, у нас есть лом!\""
 
-#: src-en/data/events_special_aea_shleg.xml:495
+#: src-en/data/events_special_aea_shleg.xml:494
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"AEA_SHLEG_TEST_FIGHT\"]/text"
 msgstr "ТЕСТ."
 
-#: src-en/data/events_special_aea_shleg.xml:498
+#: src-en/data/events_special_aea_shleg.xml:497
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"AEA_SHLEG_TEST_FIGHT\"]/choice/text"
 msgstr "Продолжить..."

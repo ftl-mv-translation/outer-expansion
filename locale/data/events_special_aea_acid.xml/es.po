@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-30 10:55+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_aea_acidxml/es/>\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_acid.xml:3
 msgid "data/events_special_aea_acid.xml$//event[@name=\"ADDON_AEA\"]/text"
@@ -179,7 +172,8 @@ msgstr "(Motores Avanzados) Intentar escapar del guardia."
 #: src-en/data/events_special_aea_acid.xml:166
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"pilot\"]/text"
-msgstr "(Pilotaje Avanzado) Activar el piloto automático para intentar escapar."
+msgstr ""
+"(Pilotaje Avanzado) Activar el piloto automático para intentar escapar."
 
 #: src-en/data/events_special_aea_acid.xml:178
 msgid ""
@@ -243,1067 +237,1068 @@ msgstr "Continuar..."
 
 #: src-en/data/events_special_aea_acid.xml:240
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACID\"]/beaconType/unvisitedTooltip"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACID\"]/beaconType/unvisitedTooltip"
 msgstr "Una ubicación no visitada."
 
 #: src-en/data/events_special_aea_acid.xml:241
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACID\"]/beaconType/visitedTooltip"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACID\"]/beaconType/visitedTooltip"
 msgstr "Ubicación explorada. No hay nada más de interés."
 
 #: src-en/data/events_special_aea_acid.xml:242
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACID\"]/beaconType/undiscoveredTooltip"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACID\"]/beaconType/undiscoveredTooltip"
 msgstr "Una ubicación no visitada."
 
 #: src-en/data/events_special_aea_acid.xml:244
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACID\"]/text"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACID\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:250
+#: src-en/data/events_special_aea_acid.xml:249
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACID\"]/choice/text"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACID\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:261
+#: src-en/data/events_special_aea_acid.xml:260
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"START_AEA_ACIDHOME\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:268
+#: src-en/data/events_special_aea_acid.xml:267
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"START_AEA_ACIDHOME\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:274
+#: src-en/data/events_special_aea_acid.xml:273
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:276
+#: src-en/data/events_special_aea_acid.xml:275
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_friendly\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:278
+#: src-en/data/events_special_aea_acid.xml:277
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_friendly\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:283
+#: src-en/data/events_special_aea_acid.xml:282
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:287
+#: src-en/data/events_special_aea_acid.xml:286
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:289
+#: src-en/data/events_special_aea_acid.xml:288
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:297
+#: src-en/data/events_special_aea_acid.xml:296
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[4]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:299
+#: src-en/data/events_special_aea_acid.xml:298
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[4]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:302
+#: src-en/data/events_special_aea_acid.xml:301
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[4]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:308
+#: src-en/data/events_special_aea_acid.xml:307
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_soldier\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:310
+#: src-en/data/events_special_aea_acid.xml:309
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_soldier\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:315
+#: src-en/data/events_special_aea_acid.xml:314
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_captain\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:317
+#: src-en/data/events_special_aea_acid.xml:316
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_captain\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:322
+#: src-en/data/events_special_aea_acid.xml:321
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:324
+#: src-en/data/events_special_aea_acid.xml:323
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:329
+#: src-en/data/events_special_aea_acid.xml:328
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_caretaker\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:331
+#: src-en/data/events_special_aea_acid.xml:330
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_caretaker\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:336
+#: src-en/data/events_special_aea_acid.xml:335
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_praetor\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:338
+#: src-en/data/events_special_aea_acid.xml:337
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_praetor\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:343
+#: src-en/data/events_special_aea_acid.xml:342
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_mayeb\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:345
+#: src-en/data/events_special_aea_acid.xml:344
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_mayeb\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:350
+#: src-en/data/events_special_aea_acid.xml:349
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_tyerel\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:352
+#: src-en/data/events_special_aea_acid.xml:351
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_tyerel\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:357
+#: src-en/data/events_special_aea_acid.xml:356
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"mind\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:361
+#: src-en/data/events_special_aea_acid.xml:360
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"cloaking\"]/text"
 msgstr "(Ocultación) Ocultarse e intentar escapar."
 
-#: src-en/data/events_special_aea_acid.xml:365
+#: src-en/data/events_special_aea_acid.xml:364
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"engines\"]/text"
 msgstr "(Motores Avanzados) Intentar escapar del guardia."
 
-#: src-en/data/events_special_aea_acid.xml:369
+#: src-en/data/events_special_aea_acid.xml:368
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"pilot\"]/text"
-msgstr "(Pilotaje Avanzado) Activar el piloto automático para intentar escapar."
+msgstr ""
+"(Pilotaje Avanzado) Activar el piloto automático para intentar escapar."
 
-#: src-en/data/events_special_aea_acid.xml:376
+#: src-en/data/events_special_aea_acid.xml:375
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:378
+#: src-en/data/events_special_aea_acid.xml:377
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[@req=\"weapons\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:380
+#: src-en/data/events_special_aea_acid.xml:379
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[@req=\"weapons\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:383
+#: src-en/data/events_special_aea_acid.xml:382
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[@req=\"weapons\"]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:389
+#: src-en/data/events_special_aea_acid.xml:388
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:391
+#: src-en/data/events_special_aea_acid.xml:390
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:394
+#: src-en/data/events_special_aea_acid.xml:393
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:400
+#: src-en/data/events_special_aea_acid.xml:399
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:402
+#: src-en/data/events_special_aea_acid.xml:401
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:413
+#: src-en/data/events_special_aea_acid.xml:412
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:415
+#: src-en/data/events_special_aea_acid.xml:414
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:417
+#: src-en/data/events_special_aea_acid.xml:416
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:420
+#: src-en/data/events_special_aea_acid.xml:419
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:426
+#: src-en/data/events_special_aea_acid.xml:425
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:428
+#: src-en/data/events_special_aea_acid.xml:427
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:443
+#: src-en/data/events_special_aea_acid.xml:442
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_DESTROY\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:446
+#: src-en/data/events_special_aea_acid.xml:445
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_DESTROY\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:451
+#: src-en/data/events_special_aea_acid.xml:450
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_DEADCREW\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:455
+#: src-en/data/events_special_aea_acid.xml:454
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_DEADCREW\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:468
+#: src-en/data/events_special_aea_acid.xml:467
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_FOLLOWUP\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:477
+#: src-en/data/events_special_aea_acid.xml:476
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_FOLLOWUP\"]/choice[1]/text"
 msgstr "Hacer algo abordo de la nave."
 
-#: src-en/data/events_special_aea_acid.xml:481
+#: src-en/data/events_special_aea_acid.xml:480
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_FOLLOWUP\"]/choice[2]/text"
 msgstr "No hacer nada."
 
-#: src-en/data/events_special_aea_acid.xml:489
+#: src-en/data/events_special_aea_acid.xml:488
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/unvisitedTooltip"
 msgstr "Una ubicación no visitada."
 
-#: src-en/data/events_special_aea_acid.xml:490
+#: src-en/data/events_special_aea_acid.xml:489
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/visitedTooltip"
 msgstr "Ubicación explorada. No hay nada más de interés."
 
-#: src-en/data/events_special_aea_acid.xml:491
+#: src-en/data/events_special_aea_acid.xml:490
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/undiscoveredTooltip"
 msgstr "Una ubicación no visitada."
 
-#: src-en/data/events_special_aea_acid.xml:493
+#: src-en/data/events_special_aea_acid.xml:492
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:497
+#: src-en/data/events_special_aea_acid.xml:496
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/choice/text"
 msgstr "Continuar..."
 
+#: src-en/data/events_special_aea_acid.xml:504
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/unvisitedTooltip"
+msgstr "Una ubicación no visitada."
+
 #: src-en/data/events_special_aea_acid.xml:505
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/unvisitedTooltip"
-msgstr "Una ubicación no visitada."
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/visitedTooltip"
+msgstr "Ubicación explorada. No hay nada más de interés."
 
 #: src-en/data/events_special_aea_acid.xml:506
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/visitedTooltip"
-msgstr "Ubicación explorada. No hay nada más de interés."
-
-#: src-en/data/events_special_aea_acid.xml:507
-msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/undiscoveredTooltip"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/undiscoveredTooltip"
 msgstr "Una ubicación no visitada."
 
-#: src-en/data/events_special_aea_acid.xml:509
+#: src-en/data/events_special_aea_acid.xml:508
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACIDHOME\"]/text"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACIDHOME\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:515
+#: src-en/data/events_special_aea_acid.xml:513
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACIDHOME\"]/choice/text"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACIDHOME\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:558
+#: src-en/data/events_special_aea_acid.xml:556
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_LOOT\"]/escape/text"
 msgstr "Parece que ellos no quieren combatir. Están tratado de escapar."
 
-#: src-en/data/events_special_aea_acid.xml:569
+#: src-en/data/events_special_aea_acid.xml:567
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/beaconType/unvisitedTooltip"
 msgstr "Una ubicación no visitada."
 
-#: src-en/data/events_special_aea_acid.xml:570
+#: src-en/data/events_special_aea_acid.xml:568
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/beaconType/visitedTooltip"
 msgstr "Ubicación explorada. No hay nada más de interés."
 
-#: src-en/data/events_special_aea_acid.xml:571
+#: src-en/data/events_special_aea_acid.xml:569
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/beaconType/undiscoveredTooltip"
 msgstr "Una ubicación no visitada."
 
-#: src-en/data/events_special_aea_acid.xml:574
+#: src-en/data/events_special_aea_acid.xml:572
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:577
+#: src-en/data/events_special_aea_acid.xml:575
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:579
+#: src-en/data/events_special_aea_acid.xml:577
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:582
+#: src-en/data/events_special_aea_acid.xml:580
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:588
+#: src-en/data/events_special_aea_acid.xml:586
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[2]/text"
 msgstr "Evitar la nave."
 
-#: src-en/data/events_special_aea_acid.xml:590
+#: src-en/data/events_special_aea_acid.xml:588
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:592
+#: src-en/data/events_special_aea_acid.xml:590
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[2]/event/choice[1]/text"
 msgstr "Hacer algo abordo de la nave."
 
-#: src-en/data/events_special_aea_acid.xml:596
+#: src-en/data/events_special_aea_acid.xml:594
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[2]/event/choice[2]/text"
 msgstr "No hacer nada."
 
-#: src-en/data/events_special_aea_acid.xml:603
+#: src-en/data/events_special_aea_acid.xml:601
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_ACID\"]/text"
 msgstr ""
-"La tripulación está muerta, dejandote con el control de la nave. Su carga es "
-"tuya ahora. Abordo está la tecnología especial que esperabas, la cual traes "
-"de vuelta a tu nave."
+"La tripulación está muerta, dejandote con el control de la nave. Su carga es"
+" tuya ahora. Abordo está la tecnología especial que esperabas, la cual traes"
+" de vuelta a tu nave."
 
-#: src-en/data/events_special_aea_acid.xml:623
+#: src-en/data/events_special_aea_acid.xml:621
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:624
+#: src-en/data/events_special_aea_acid.xml:622
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:625
+#: src-en/data/events_special_aea_acid.xml:623
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:626
+#: src-en/data/events_special_aea_acid.xml:624
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[4]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:627
+#: src-en/data/events_special_aea_acid.xml:625
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[5]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:628
+#: src-en/data/events_special_aea_acid.xml:626
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[6]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:631
+#: src-en/data/events_special_aea_acid.xml:629
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DESTROYED_AEA_ACID_ACIDGUN\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:649
+#: src-en/data/events_special_aea_acid.xml:647
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:650
+#: src-en/data/events_special_aea_acid.xml:648
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:651
+#: src-en/data/events_special_aea_acid.xml:649
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:652
+#: src-en/data/events_special_aea_acid.xml:650
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[4]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:653
+#: src-en/data/events_special_aea_acid.xml:651
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[5]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:656
+#: src-en/data/events_special_aea_acid.xml:654
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DEAD_CREW_AEA_ACID_ACIDGUN\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:665
+#: src-en/data/events_special_aea_acid.xml:663
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_ESCAPE_AEA_ACID\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:666
+#: src-en/data/events_special_aea_acid.xml:664
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_ESCAPE_AEA_ACID\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:679
+#: src-en/data/events_special_aea_acid.xml:677
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_ACID\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:680
+#: src-en/data/events_special_aea_acid.xml:678
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_ACID\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:681
+#: src-en/data/events_special_aea_acid.xml:679
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_ACID\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:684
+#: src-en/data/events_special_aea_acid.xml:682
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GOTAWAY_AEA_ACID_REMAINS\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:691
+#: src-en/data/events_special_aea_acid.xml:689
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"SURRENDER_AEA_ACID\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:695
+#: src-en/data/events_special_aea_acid.xml:693
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"SURRENDER_AEA_ACID\"]/choice[@req=\"aea_acid_soldier\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:707
+#: src-en/data/events_special_aea_acid.xml:705
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:708
+#: src-en/data/events_special_aea_acid.xml:706
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:709
+#: src-en/data/events_special_aea_acid.xml:707
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:710
+#: src-en/data/events_special_aea_acid.xml:708
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[4]"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:721
+#: src-en/data/events_special_aea_acid.xml:719
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"AEA_ACID_TEST_FIGHT\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:724
+#: src-en/data/events_special_aea_acid.xml:722
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"AEA_ACID_TEST_FIGHT\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:758
+#: src-en/data/events_special_aea_acid.xml:756
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:761
+#: src-en/data/events_special_aea_acid.xml:759
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/destroyed/choice/text"
 msgstr "Contactar con la nave de refugiados."
 
-#: src-en/data/events_special_aea_acid.xml:763
+#: src-en/data/events_special_aea_acid.xml:761
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/destroyed/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:769
+#: src-en/data/events_special_aea_acid.xml:767
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:772
+#: src-en/data/events_special_aea_acid.xml:770
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/deadCrew/choice/text"
 msgstr "Contactar con la nave de refugiados."
 
-#: src-en/data/events_special_aea_acid.xml:774
+#: src-en/data/events_special_aea_acid.xml:772
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/deadCrew/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:793
+#: src-en/data/events_special_aea_acid.xml:791
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:795
+#: src-en/data/events_special_aea_acid.xml:793
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:797
+#: src-en/data/events_special_aea_acid.xml:795
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:801
+#: src-en/data/events_special_aea_acid.xml:799
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:807
+#: src-en/data/events_special_aea_acid.xml:805
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:809
+#: src-en/data/events_special_aea_acid.xml:807
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:812
+#: src-en/data/events_special_aea_acid.xml:810
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:818
+#: src-en/data/events_special_aea_acid.xml:816
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:820
+#: src-en/data/events_special_aea_acid.xml:818
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:823
+#: src-en/data/events_special_aea_acid.xml:821
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[3]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:832
+#: src-en/data/events_special_aea_acid.xml:830
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DEFEAT_AEA_ACID_ELITE\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:835
+#: src-en/data/events_special_aea_acid.xml:833
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DEFEAT_AEA_ACID_ELITE\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:837
+#: src-en/data/events_special_aea_acid.xml:835
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DEFEAT_AEA_ACID_ELITE\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:870
+#: src-en/data/events_special_aea_acid.xml:868
 msgid "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:872
+#: src-en/data/events_special_aea_acid.xml:870
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:879
+#: src-en/data/events_special_aea_acid.xml:877
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:882
+#: src-en/data/events_special_aea_acid.xml:880
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/destroyed/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:884
+#: src-en/data/events_special_aea_acid.xml:882
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/destroyed/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:890
+#: src-en/data/events_special_aea_acid.xml:888
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:893
+#: src-en/data/events_special_aea_acid.xml:891
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/deadCrew/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:895
+#: src-en/data/events_special_aea_acid.xml:893
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/deadCrew/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:904
+#: src-en/data/events_special_aea_acid.xml:902
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:907
+#: src-en/data/events_special_aea_acid.xml:905
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/destroyed/choice[1]/text"
 msgstr "Dejarlos ser."
 
-#: src-en/data/events_special_aea_acid.xml:909
+#: src-en/data/events_special_aea_acid.xml:907
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/destroyed/choice[1]/event/text"
 msgstr ""
 "No merece la pena enfrentarse a estas pobres desgraciadas. Es hora de "
 "recoger y marcharse."
 
-#: src-en/data/events_special_aea_acid.xml:913
+#: src-en/data/events_special_aea_acid.xml:911
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/destroyed/choice[2]/text"
 msgstr "Acabar con ellos."
 
-#: src-en/data/events_special_aea_acid.xml:918
+#: src-en/data/events_special_aea_acid.xml:916
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:921
+#: src-en/data/events_special_aea_acid.xml:919
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/choice[1]/text"
 msgstr "Dejarlos ser."
 
-#: src-en/data/events_special_aea_acid.xml:923
+#: src-en/data/events_special_aea_acid.xml:921
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/choice[1]/event/text"
 msgstr ""
 "No merece la pena enfrentarse a estas pobres desgraciadas. Es hora de "
 "recoger y marcharse."
 
-#: src-en/data/events_special_aea_acid.xml:927
+#: src-en/data/events_special_aea_acid.xml:925
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/choice[2]/text"
 msgstr "Acabar con ellos."
 
-#: src-en/data/events_special_aea_acid.xml:935
+#: src-en/data/events_special_aea_acid.xml:933
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC_SLUG\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:939
+#: src-en/data/events_special_aea_acid.xml:937
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC_SLUG\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:947
+#: src-en/data/events_special_aea_acid.xml:945
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ASTEROIDS\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:953
+#: src-en/data/events_special_aea_acid.xml:951
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ASTEROIDS\"]/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:960
+#: src-en/data/events_special_aea_acid.xml:958
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"AEA_ACID_ASTEROID_APPROACHING_FAIL\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:971
+#: src-en/data/events_special_aea_acid.xml:969
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ORCHID_ONLY\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:975
+#: src-en/data/events_special_aea_acid.xml:973
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ORCHID_ONLY\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:988
+#: src-en/data/events_special_aea_acid.xml:986
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_SHIELDS\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:993
+#: src-en/data/events_special_aea_acid.xml:991
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_SHIELDS\"]/deadCrew/text"
 msgstr ""
 "Muerta la tripulación, desconectas rápidamente su módulo de hackeo y tus "
 "escudos vuelven a la normalidad. Saqueas la nave."
 
-#: src-en/data/events_special_aea_acid.xml:1000
+#: src-en/data/events_special_aea_acid.xml:998
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_OXYGEN\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1005
+#: src-en/data/events_special_aea_acid.xml:1003
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_OXYGEN\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1012
+#: src-en/data/events_special_aea_acid.xml:1010
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_WEAPONS\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1017
+#: src-en/data/events_special_aea_acid.xml:1015
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_WEAPONS\"]/deadCrew/text"
 msgstr ""
 "Muerta la tripulación, desconectas rápidamente su módulo de hackeo y tu "
 "sistema de armas vuelve a la normalidad. Saqueas la nave."
 
-#: src-en/data/events_special_aea_acid.xml:1024
+#: src-en/data/events_special_aea_acid.xml:1022
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_HACKING\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1029
+#: src-en/data/events_special_aea_acid.xml:1027
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_HACKING\"]/deadCrew/text"
 msgstr ""
 "Muerta la tripulación, desconectas rápidamente su módulo de hackeo y tu "
 "sistema vuelve a la normalidad. Saqueas la nave."
 
-#: src-en/data/events_special_aea_acid.xml:1037
+#: src-en/data/events_special_aea_acid.xml:1035
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1039
+#: src-en/data/events_special_aea_acid.xml:1037
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1041
+#: src-en/data/events_special_aea_acid.xml:1039
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1046
+#: src-en/data/events_special_aea_acid.xml:1044
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1048
+#: src-en/data/events_special_aea_acid.xml:1046
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1050
+#: src-en/data/events_special_aea_acid.xml:1048
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1052
+#: src-en/data/events_special_aea_acid.xml:1050
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1060
+#: src-en/data/events_special_aea_acid.xml:1058
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1062
+#: src-en/data/events_special_aea_acid.xml:1060
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1064
+#: src-en/data/events_special_aea_acid.xml:1062
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1069
+#: src-en/data/events_special_aea_acid.xml:1067
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1071
+#: src-en/data/events_special_aea_acid.xml:1069
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1073
+#: src-en/data/events_special_aea_acid.xml:1071
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1075
+#: src-en/data/events_special_aea_acid.xml:1073
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1087
+#: src-en/data/events_special_aea_acid.xml:1085
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/gotaway/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1091
+#: src-en/data/events_special_aea_acid.xml:1089
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1094
+#: src-en/data/events_special_aea_acid.xml:1092
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/destroyed/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:1099
+#: src-en/data/events_special_aea_acid.xml:1097
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1102
+#: src-en/data/events_special_aea_acid.xml:1100
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/deadCrew/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:1120
+#: src-en/data/events_special_aea_acid.xml:1118
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1122
+#: src-en/data/events_special_aea_acid.xml:1120
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1124
+#: src-en/data/events_special_aea_acid.xml:1122
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1128
+#: src-en/data/events_special_aea_acid.xml:1126
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1130
+#: src-en/data/events_special_aea_acid.xml:1128
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1138
+#: src-en/data/events_special_aea_acid.xml:1136
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1142
+#: src-en/data/events_special_aea_acid.xml:1140
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1149
+#: src-en/data/events_special_aea_acid.xml:1147
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP2\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1153
+#: src-en/data/events_special_aea_acid.xml:1151
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP2\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1160
+#: src-en/data/events_special_aea_acid.xml:1158
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1162
+#: src-en/data/events_special_aea_acid.xml:1160
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/choice[1]/text"
 msgstr "Aceptar su oferta."
 
-#: src-en/data/events_special_aea_acid.xml:1164
+#: src-en/data/events_special_aea_acid.xml:1162
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1171
+#: src-en/data/events_special_aea_acid.xml:1169
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1176
+#: src-en/data/events_special_aea_acid.xml:1174
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1180
+#: src-en/data/events_special_aea_acid.xml:1178
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1183
+#: src-en/data/events_special_aea_acid.xml:1181
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/deadCrew/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:1185
+#: src-en/data/events_special_aea_acid.xml:1183
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/deadCrew/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1194
+#: src-en/data/events_special_aea_acid.xml:1192
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_MEET\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1197
+#: src-en/data/events_special_aea_acid.xml:1195
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_MEET\"]/destroyed/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:1202
+#: src-en/data/events_special_aea_acid.xml:1200
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_MEET\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1205
+#: src-en/data/events_special_aea_acid.xml:1203
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_MEET\"]/deadCrew/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:1213
+#: src-en/data/events_special_aea_acid.xml:1211
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1217
+#: src-en/data/events_special_aea_acid.xml:1215
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/destroyed/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:1222
+#: src-en/data/events_special_aea_acid.xml:1220
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1227
+#: src-en/data/events_special_aea_acid.xml:1225
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/deadCrew/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:1236
+#: src-en/data/events_special_aea_acid.xml:1234
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/escape/text"
 msgstr "Parece que ellos no quieren combatir. Están tratado de escapar."
 
-#: src-en/data/events_special_aea_acid.xml:1240
+#: src-en/data/events_special_aea_acid.xml:1238
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1243
+#: src-en/data/events_special_aea_acid.xml:1241
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/destroyed/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:1248
+#: src-en/data/events_special_aea_acid.xml:1246
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1251
+#: src-en/data/events_special_aea_acid.xml:1249
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1254
+#: src-en/data/events_special_aea_acid.xml:1252
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1256
+#: src-en/data/events_special_aea_acid.xml:1254
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:1258
+#: src-en/data/events_special_aea_acid.xml:1256
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1262
+#: src-en/data/events_special_aea_acid.xml:1260
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_aea_acid.xml:1270
+#: src-en/data/events_special_aea_acid.xml:1268
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"0\"]/text"

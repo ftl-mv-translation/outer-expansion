@@ -1,41 +1,33 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-30 10:58+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_aea_shardxml/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_shard.xml:15
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_START_AEA_SHARD\"]/text[1]"
 msgstr ""
 "Вы прибыли в пространство Осколкорожденных. Как союзники Федерации, вы без "
-"труда найдете себе друзей. Эти пираты обычно дружелюбны, только не вздумайте "
-"устраивать мятеж."
+"труда найдете себе друзей. Эти пираты обычно дружелюбны, только не вздумайте"
+" устраивать мятеж."
 
 #: src-en/data/events_special_aea_shard.xml:16
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_START_AEA_SHARD\"]/text[2]"
 msgstr ""
 "Вы прибыли в пространство Осколкорожденных. Как союзники Федерации, вы без "
-"труда найдете себе друзей. Эти пираты обычно дружелюбны, только не вздумайте "
-"устраивать мятеж."
+"труда найдете себе друзей. Эти пираты обычно дружелюбны, только не вздумайте"
+" устраивать мятеж."
 
 #: src-en/data/events_special_aea_shard.xml:17
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_START_AEA_SHARD\"]/text[3]"
 msgstr ""
 "Вы прибыли в пространство Осколкорожденных. Как союзники Федерации, вы без "
-"труда найдете себе друзей. Эти пираты обычно дружелюбны, только не вздумайте "
-"устраивать мятеж."
+"труда найдете себе друзей. Эти пираты обычно дружелюбны, только не вздумайте"
+" устраивать мятеж."
 
 #: src-en/data/events_special_aea_shard.xml:30
 msgid ""
@@ -50,8 +42,8 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_aea_shard.xml:52
 msgid "data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD\"]/text"
 msgstr ""
-"После недавней войны с повстанцами Осколкорожденные разместили у этого маяка "
-"охрану, но, похоже, вы их не интересуете."
+"После недавней войны с повстанцами Осколкорожденные разместили у этого маяка"
+" охрану, но, похоже, вы их не интересуете."
 
 #: src-en/data/events_special_aea_shard.xml:54
 msgid ""
@@ -144,8 +136,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_shard.xml$//eventList[@name=\"GUARD_AEA_SHARD_REQUEST\"]/event[2]/text"
 msgstr ""
-"\"Вы хотите получить припасы? Конечно! Не так часто мне выпадает возможность "
-"завести новых друзей!\""
+"\"Вы хотите получить припасы? Конечно! Не так часто мне выпадает возможность"
+" завести новых друзей!\""
 
 #: src-en/data/events_special_aea_shard.xml:128
 msgid ""
@@ -198,8 +190,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_FOLLOWUP\"]/text"
 msgstr ""
-"Уничтожив сторожевой корабль Осколкорожденных, вы, несомненно, заставили его "
-"послать подкрепление, чтобы выследить вас. Будьте внимательны, исследуя "
+"Уничтожив сторожевой корабль Осколкорожденных, вы, несомненно, заставили его"
+" послать подкрепление, чтобы выследить вас. Будьте внимательны, исследуя "
 "сектор."
 
 #: src-en/data/events_special_aea_shard.xml:183
@@ -244,22 +236,22 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_special_aea_shard.xml:211
 msgid ""
-"data/events_special_aea_shard.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHARD\"]/beaconType/unvisitedTooltip"
+"data/events_special_aea_shard.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHARD\"]/beaconType/unvisitedTooltip"
 msgstr "Непосещенное место."
 
 #: src-en/data/events_special_aea_shard.xml:212
 msgid ""
-"data/events_special_aea_shard.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHARD\"]/beaconType/visitedTooltip"
+"data/events_special_aea_shard.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHARD\"]/beaconType/visitedTooltip"
 msgstr "Посещенное место. Ничего интересного."
 
 #: src-en/data/events_special_aea_shard.xml:213
 msgid ""
-"data/events_special_aea_shard.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHARD\"]/beaconType/undiscoveredTooltip"
+"data/events_special_aea_shard.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHARD\"]/beaconType/undiscoveredTooltip"
 msgstr "Непосещенное место."
 
 #: src-en/data/events_special_aea_shard.xml:215
 msgid ""
-"data/events_special_aea_shard.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHARD\"]/text"
+"data/events_special_aea_shard.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHARD\"]/text"
 msgstr ""
 "\"Чужаки, мы знали, что вы варвары, но когда мы пришли сюда, мы и "
 "представить себе не могли, что вы вторгнетесь в наш сектор и станете "
@@ -267,12 +259,12 @@ msgstr ""
 "погибших братьев на борту сторожевого корабля, который вы так безжалостно "
 "уничтожили!\""
 
-#: src-en/data/events_special_aea_shard.xml:221
+#: src-en/data/events_special_aea_shard.xml:220
 msgid ""
-"data/events_special_aea_shard.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHARD\"]/choice/text"
+"data/events_special_aea_shard.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHARD\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_aea_shard.xml:268
+#: src-en/data/events_special_aea_shard.xml:267
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_OUTPOST_AEA_SHARD\"]/text[1]"
 msgstr ""
@@ -281,7 +273,7 @@ msgstr ""
 "все кажетесь довольно скучными. Скучно или нет, но я дал обещание выполнять "
 "свои обязанности перед Федерацией и намерен их выполнять. Что вам нужно?\""
 
-#: src-en/data/events_special_aea_shard.xml:269
+#: src-en/data/events_special_aea_shard.xml:268
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_OUTPOST_AEA_SHARD\"]/text[2]"
 msgstr ""
@@ -291,62 +283,62 @@ msgstr ""
 "я позабочусь о том, чтобы моя команда смогла предоставить вам все "
 "необходимые ресурсы\"."
 
-#: src-en/data/events_special_aea_shard.xml:286
+#: src-en/data/events_special_aea_shard.xml:285
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[@req=\"challenge_level\"]/text"
 msgstr "Запросить бесплатный ремонт. [7$]"
 
-#: src-en/data/events_special_aea_shard.xml:292
+#: src-en/data/events_special_aea_shard.xml:291
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[2]/text"
 msgstr "Запросить топливо."
 
-#: src-en/data/events_special_aea_shard.xml:300
+#: src-en/data/events_special_aea_shard.xml:299
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[3]/text"
 msgstr "Запросить боеприпасы."
 
-#: src-en/data/events_special_aea_shard.xml:308
+#: src-en/data/events_special_aea_shard.xml:307
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[4]/text"
 msgstr "Запросить дрон-комплекты."
 
-#: src-en/data/events_special_aea_shard.xml:316
+#: src-en/data/events_special_aea_shard.xml:315
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[5]/text"
 msgstr "Атаковать аванпост!"
 
-#: src-en/data/events_special_aea_shard.xml:318
+#: src-en/data/events_special_aea_shard.xml:317
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[5]/event/text"
 msgstr "Вы активируете орудия и атакуете станцию!"
 
-#: src-en/data/events_special_aea_shard.xml:321
+#: src-en/data/events_special_aea_shard.xml:320
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[5]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_aea_shard.xml:330
+#: src-en/data/events_special_aea_shard.xml:329
 msgid ""
 "data/events_special_aea_shard.xml$//ship[@name=\"SHIP_AEA_SHARD_TRANSPORT_LOOT\"]/escape/text"
 msgstr "Похоже, они не хотят сражаться. Они пытаются сбежать."
 
-#: src-en/data/events_special_aea_shard.xml:342
+#: src-en/data/events_special_aea_shard.xml:341
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/beaconType/unvisitedTooltip"
 msgstr "Непосещенное место."
 
-#: src-en/data/events_special_aea_shard.xml:343
+#: src-en/data/events_special_aea_shard.xml:342
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/beaconType/visitedTooltip"
 msgstr "Посещенное место. Ничего интересного."
 
-#: src-en/data/events_special_aea_shard.xml:344
+#: src-en/data/events_special_aea_shard.xml:343
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/beaconType/undiscoveredTooltip"
 msgstr "Непосещенное место."
 
-#: src-en/data/events_special_aea_shard.xml:346
+#: src-en/data/events_special_aea_shard.xml:345
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/text"
 msgstr ""
@@ -354,44 +346,44 @@ msgstr ""
 "сказать, что корабль, скорее всего, перевозит какие-то особые технологии. "
 "Если вы сможете убить его экипаж, их груз станет вашим."
 
-#: src-en/data/events_special_aea_shard.xml:349
+#: src-en/data/events_special_aea_shard.xml:348
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[1]/text"
 msgstr "Потребовать отдать их товары вам."
 
-#: src-en/data/events_special_aea_shard.xml:351
+#: src-en/data/events_special_aea_shard.xml:350
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[1]/event/text"
 msgstr "Вы готовитесь захватить их груз силой."
 
-#: src-en/data/events_special_aea_shard.xml:354
+#: src-en/data/events_special_aea_shard.xml:353
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_special_aea_shard.xml:360
+#: src-en/data/events_special_aea_shard.xml:359
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[2]/text"
 msgstr "Избегать корабль."
 
-#: src-en/data/events_special_aea_shard.xml:362
+#: src-en/data/events_special_aea_shard.xml:361
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[2]/event/text"
 msgstr ""
 "Корабль держится вне зоны действия вашего оружия и в конце концов уходит в "
 "прыжок."
 
-#: src-en/data/events_special_aea_shard.xml:364
+#: src-en/data/events_special_aea_shard.xml:363
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[2]/event/choice[1]/text"
 msgstr "Заняться чем-либо на корабле."
 
-#: src-en/data/events_special_aea_shard.xml:368
+#: src-en/data/events_special_aea_shard.xml:367
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[2]/event/choice[2]/text"
 msgstr "Ничего не делать."
 
-#: src-en/data/events_special_aea_shard.xml:375
+#: src-en/data/events_special_aea_shard.xml:374
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_SHARD\"]/text"
 msgstr ""
@@ -399,14 +391,14 @@ msgstr ""
 "особая технология, которую вы ожидали увидеть, и которую вы поднимаете на "
 "свой корабль."
 
-#: src-en/data/events_special_aea_shard.xml:394
+#: src-en/data/events_special_aea_shard.xml:393
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHARD\"]/text[1]"
 msgstr ""
 "Кристаллическая броня, защищающая их корабль, не выдерживает огня ваших "
 "орудий."
 
-#: src-en/data/events_special_aea_shard.xml:395
+#: src-en/data/events_special_aea_shard.xml:394
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHARD\"]/text[2]"
 msgstr ""
@@ -414,46 +406,46 @@ msgstr ""
 "меньшие корабли кристаллинов. Радуясь, что у вас нет больше врагов с "
 "которыми вы могли бы сражаться, вы разбираете на лом свою последнюю жертву."
 
-#: src-en/data/events_special_aea_shard.xml:396
+#: src-en/data/events_special_aea_shard.xml:395
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHARD\"]/text[3]"
 msgstr ""
 "Несколько осколков от разбитой брони едва не задевают ваш корабль, но, к "
 "счастью, вы вовремя уклоняетесь от них. Вы собираете все, что можете."
 
-#: src-en/data/events_special_aea_shard.xml:404
+#: src-en/data/events_special_aea_shard.xml:403
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHARD\"]/text[1]"
 msgstr ""
 "Несмотря на все свои причудливые способности, кристаллины - такие же легкие "
 "жертвы для вашей команды, как и любые другие. Вы разбираете корабль в лом."
 
-#: src-en/data/events_special_aea_shard.xml:405
+#: src-en/data/events_special_aea_shard.xml:404
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHARD\"]/text[2]"
 msgstr ""
 "Вы задаетесь вопросом, почему валуны поклонялись кристаллинам как богам, "
 "если их можно убить с такой легкостью."
 
-#: src-en/data/events_special_aea_shard.xml:406
+#: src-en/data/events_special_aea_shard.xml:405
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHARD\"]/text[3]"
 msgstr ""
 "Корабль кристаллинов успешно нейтрализован. Обломки вы разбираете на лом."
 
-#: src-en/data/events_special_aea_shard.xml:413
+#: src-en/data/events_special_aea_shard.xml:412
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_ESCAPE_AEA_SHARD\"]/text"
 msgstr ""
-"Похоже, что корабль ракушек передумал оставаться здесь, чтобы закончить этот "
-"бой. Они пытаются сбежать!"
+"Похоже, что корабль ракушек передумал оставаться здесь, чтобы закончить этот"
+" бой. Они пытаются сбежать!"
 
-#: src-en/data/events_special_aea_shard.xml:426
+#: src-en/data/events_special_aea_shard.xml:425
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_SHARD\"]/text"
 msgstr "Корабль ракушек совершил прыжок, оставив вас наедине с маяком."
 
-#: src-en/data/events_special_aea_shard.xml:429
+#: src-en/data/events_special_aea_shard.xml:428
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"GOTAWAY_AEA_SHARD_REMAINS\"]/text"
 msgstr ""
@@ -461,31 +453,31 @@ msgstr ""
 "понимаете, что после боя осталось немного лома. Этого конечно мало, но "
 "помогает сгладить впечатления после вашего провала."
 
-#: src-en/data/events_special_aea_shard.xml:436
+#: src-en/data/events_special_aea_shard.xml:435
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"SURRENDER_AEA_SHARD\"]/choice[1]/text"
 msgstr "Принять их капитуляцию."
 
-#: src-en/data/events_special_aea_shard.xml:445
+#: src-en/data/events_special_aea_shard.xml:444
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[1]"
 msgstr "\"Мы сдаемся, чужаки. У нас нет желания умирать, сражаясь с вами\"."
 
-#: src-en/data/events_special_aea_shard.xml:446
+#: src-en/data/events_special_aea_shard.xml:445
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[2]"
 msgstr ""
 "\"Вы превзошли нас! Я больше не буду недооценивать вас, чужаки. Пожалуйста, "
 "позвольте нам уйти с миром\"."
 
-#: src-en/data/events_special_aea_shard.xml:447
+#: src-en/data/events_special_aea_shard.xml:446
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[3]"
 msgstr ""
 "Похоже, они передают универсальные сигналы сигнализирующие о капитуляции. "
 "Отпустите ли вы их?"
 
-#: src-en/data/events_special_aea_shard.xml:448
+#: src-en/data/events_special_aea_shard.xml:447
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[4]"
 msgstr ""
@@ -493,38 +485,38 @@ msgstr ""
 "необходимости в новом кровопролитии. Простите ли вы нам нашу "
 "неосмотрительность?\""
 
-#: src-en/data/events_special_aea_shard.xml:449
+#: src-en/data/events_special_aea_shard.xml:448
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[5]"
 msgstr ""
 "\"Мы не можем победить вас, мы сдаемся. Уверен, что там, откуда вы пришли, "
 "есть милосердие\"."
 
-#: src-en/data/events_special_aea_shard.xml:452
+#: src-en/data/events_special_aea_shard.xml:451
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[6]"
 msgstr "Корабль кристаллинов прекратил огонь. Похоже, они пытаются сдаться."
 
-#: src-en/data/events_special_aea_shard.xml:453
+#: src-en/data/events_special_aea_shard.xml:452
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[7]"
 msgstr ""
 "\"Капитан, я уверен, что наши разногласия можно уладить с помощью лома, "
 "правда? Я понял, что здесь так принято\"."
 
-#: src-en/data/events_special_aea_shard.xml:454
+#: src-en/data/events_special_aea_shard.xml:453
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[8]"
 msgstr ""
 "\"Как бы мне это ни было неприятно, мы не в том состоянии, чтобы "
 "притворяться, что нам не нужно сдаваться. Вы позволите нам жить?\""
 
-#: src-en/data/events_special_aea_shard.xml:463
+#: src-en/data/events_special_aea_shard.xml:462
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"AEA_SHARD_TEST_FIGHT\"]/text"
 msgstr "ТЕСТ."
 
-#: src-en/data/events_special_aea_shard.xml:466
+#: src-en/data/events_special_aea_shard.xml:465
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"AEA_SHARD_TEST_FIGHT\"]/choice/text"
 msgstr "Продолжить..."

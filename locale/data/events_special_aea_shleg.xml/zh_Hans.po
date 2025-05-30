@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-30 10:55+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-outer-expansion/dataevents_special_aea_shlegxml/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_shleg.xml:4
 msgid ""
@@ -84,8 +77,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_shleg.xml:88
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_CRIMINAL\"]/choice/event/text"
-msgstr "看来你的犯罪行径惹来了报应。守卫舰的船员们已经听够了你所犯下的罪行，他们不打"
-"算让你进入这个星区！"
+msgstr "看来你的犯罪行径惹来了报应。守卫舰的船员们已经听够了你所犯下的罪行，他们不打算让你进入这个星区！"
 
 #: src-en/data/events_special_aea_shleg.xml:91
 msgid ""
@@ -314,227 +306,217 @@ msgstr "继续。"
 
 #: src-en/data/events_special_aea_shleg.xml:298
 msgid ""
-"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/unvisitedTooltip"
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/unvisitedTooltip"
 msgstr "未探索的信标。"
 
 #: src-en/data/events_special_aea_shleg.xml:299
 #, fuzzy
 msgid ""
-"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/visitedTooltip"
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
 
 #: src-en/data/events_special_aea_shleg.xml:300
 msgid ""
-"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/undiscoveredTooltip"
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/undiscoveredTooltip"
 msgstr "未探索的信标。"
 
 #: src-en/data/events_special_aea_shleg.xml:302
 msgid ""
-"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/text"
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_shleg.xml:308
+#: src-en/data/events_special_aea_shleg.xml:307
 msgid ""
-"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/choice/text"
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_special_aea_shleg.xml:353
+#: src-en/data/events_special_aea_shleg.xml:352
 msgid ""
 "data/events_special_aea_shleg.xml$//ship[@name=\"SHIP_AEA_SHLEG_TRANSPORT_LOOT\"]/escape/text"
 msgstr "对方看起来不想战斗而是想逃跑。"
 
-#: src-en/data/events_special_aea_shleg.xml:364
+#: src-en/data/events_special_aea_shleg.xml:363
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/beaconType/unvisitedTooltip"
 msgstr "未探索的信标。"
 
-#: src-en/data/events_special_aea_shleg.xml:365
+#: src-en/data/events_special_aea_shleg.xml:364
 #, fuzzy
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
 
-#: src-en/data/events_special_aea_shleg.xml:366
+#: src-en/data/events_special_aea_shleg.xml:365
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/beaconType/undiscoveredTooltip"
 msgstr "未探索的信标。"
 
-#: src-en/data/events_special_aea_shleg.xml:369
+#: src-en/data/events_special_aea_shleg.xml:368
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_shleg.xml:372
+#: src-en/data/events_special_aea_shleg.xml:371
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_shleg.xml:374
+#: src-en/data/events_special_aea_shleg.xml:373
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_shleg.xml:377
+#: src-en/data/events_special_aea_shleg.xml:376
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_special_aea_shleg.xml:383
+#: src-en/data/events_special_aea_shleg.xml:382
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/text"
 msgstr "避开这艘船。"
 
-#: src-en/data/events_special_aea_shleg.xml:385
+#: src-en/data/events_special_aea_shleg.xml:384
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_shleg.xml:387
+#: src-en/data/events_special_aea_shleg.xml:386
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_special_aea_shleg.xml:391
+#: src-en/data/events_special_aea_shleg.xml:390
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_special_aea_shleg.xml:398
+#: src-en/data/events_special_aea_shleg.xml:397
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_SHLEG\"]/text"
-msgstr "对方船员都死了，留给你一艘空船。他们的货物任由你处置。船上就是预想当中的特殊"
-"科技，你将它带回星舰。"
+msgstr "对方船员都死了，留给你一艘空船。他们的货物任由你处置。船上就是预想当中的特殊科技，你将它带回星舰。"
 
-#: src-en/data/events_special_aea_shleg.xml:417
+#: src-en/data/events_special_aea_shleg.xml:416
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[1]"
-msgstr "尽管蛞蝓族做出了种种努力，他们还是没能打败你。作为这场战斗的胜利者，你放纵自"
-"己，将他们的船摧毁。"
+msgstr "尽管蛞蝓族做出了种种努力，他们还是没能打败你。作为这场战斗的胜利者，你放纵自己，将他们的船摧毁。"
 
-#: src-en/data/events_special_aea_shleg.xml:418
+#: src-en/data/events_special_aea_shleg.xml:417
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[2]"
 msgstr "蛞蝓族飞船已经不复存在。你废料了这些残骸。"
 
-#: src-en/data/events_special_aea_shleg.xml:419
+#: src-en/data/events_special_aea_shleg.xml:418
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[3]"
 msgstr "最后，叛逆的星云居住者终于被压制住了。你把这艘船搜刮了。"
 
-#: src-en/data/events_special_aea_shleg.xml:420
+#: src-en/data/events_special_aea_shleg.xml:419
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[4]"
 msgstr "甲壳族飞船爆炸了，将毒气云送入星域。希望附近没有开放气闸的站点..."
 
-#: src-en/data/events_special_aea_shleg.xml:421
+#: src-en/data/events_special_aea_shleg.xml:420
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[5]"
 msgstr "尽管他们采取了所有的防御措施，甲壳族飞船还是被打败了。你把残骸搜刮了。"
 
-#: src-en/data/events_special_aea_shleg.xml:422
+#: src-en/data/events_special_aea_shleg.xml:421
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[6]"
 msgstr "甲壳族以其维护良好的防御系统而闻名，但你们的武器装备再次证明了其有效性。"
 
-#: src-en/data/events_special_aea_shleg.xml:430
+#: src-en/data/events_special_aea_shleg.xml:429
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[1]"
-msgstr "你发现蛞蝓族舰长喘着粗气的尸体在地上颤抖。他说了最后一个词，\"Sssshit\""
-"，然后倒地而亡。"
+msgstr "你发现蛞蝓族舰长喘着粗气的尸体在地上颤抖。他说了最后一个词，\"Sssshit\"，然后倒地而亡。"
 
-#: src-en/data/events_special_aea_shleg.xml:431
+#: src-en/data/events_special_aea_shleg.xml:430
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[2]"
 msgstr "你对蛞蝓族船员并不感到懊悔，尽管你希望他们的船闻起来更香。"
 
-#: src-en/data/events_special_aea_shleg.xml:432
+#: src-en/data/events_special_aea_shleg.xml:431
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[3]"
 msgstr "船的内部现在被涂上了似乎是粘液和捣碎的蛞蝓族肠子的混合物。恶心。"
 
-#: src-en/data/events_special_aea_shleg.xml:433
+#: src-en/data/events_special_aea_shleg.xml:432
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[4]"
-msgstr "考虑到甲壳族的保护程度，与其作战是很危险的，但你已经清除了船上的船员。他们的"
-"废料是你的。"
+msgstr "考虑到甲壳族的保护程度，与其作战是很危险的，但你已经清除了船上的船员。他们的废料是你的。"
 
-#: src-en/data/events_special_aea_shleg.xml:434
+#: src-en/data/events_special_aea_shleg.xml:433
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[5]"
 msgstr "甲壳族飞船已被消灭。你把这艘船搜刮了。"
 
-#: src-en/data/events_special_aea_shleg.xml:441
+#: src-en/data/events_special_aea_shleg.xml:440
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_ESCAPE_AEA_SHLEG\"]/text"
 msgstr "看来甲壳族船已经重新考虑过要留在这里完成这场战斗。他们正试图逃跑！"
 
-#: src-en/data/events_special_aea_shleg.xml:454
+#: src-en/data/events_special_aea_shleg.xml:453
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_SHLEG\"]/text"
 msgstr "甲壳族飞船跃迁走了，把你留在了信标处。"
 
-#: src-en/data/events_special_aea_shleg.xml:457
+#: src-en/data/events_special_aea_shleg.xml:456
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GOTAWAY_AEA_SHLEG_REMAINS\"]/text"
-msgstr "甲壳族飞船跃迁走了。起初你很失望，但后来你发现战斗中留下了一部分废料。虽然不"
-"多，但它有助于减轻你失败的打击。"
+msgstr "甲壳族飞船跃迁走了。起初你很失望，但后来你发现战斗中留下了一部分废料。虽然不多，但它有助于减轻你失败的打击。"
 
-#: src-en/data/events_special_aea_shleg.xml:464
+#: src-en/data/events_special_aea_shleg.xml:463
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"SURRENDER_AEA_SHLEG\"]/choice[1]/text"
 msgstr "接受他们的投降。"
 
-#: src-en/data/events_special_aea_shleg.xml:468
+#: src-en/data/events_special_aea_shleg.xml:467
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"SURRENDER_AEA_SHLEG\"]/choice[@req=\"LIST_CREW_AEA_SHLEG\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_shleg.xml:480
+#: src-en/data/events_special_aea_shleg.xml:479
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[1]"
-msgstr "蛞蝓族舰长向你问好。"
-"\"哦，殿下，你是如此的勇敢，真是有史以来最伟大的战士。你能不能放过我们，让我"
-"们分享你的故事？\""
+msgstr "蛞蝓族舰长向你问好。\"哦，殿下，你是如此的勇敢，真是有史以来最伟大的战士。你能不能放过我们，让我们分享你的故事？\""
 
-#: src-en/data/events_special_aea_shleg.xml:481
+#: src-en/data/events_special_aea_shleg.xml:480
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[2]"
-msgstr "\"好吧，我看现在没有必要撒谎。如果你不放我们走，我们就有点完蛋了。如果你同意"
-"，我们会给你一些废料。\""
+msgstr "\"好吧，我看现在没有必要撒谎。如果你不放我们走，我们就有点完蛋了。如果你同意，我们会给你一些废料。\""
 
-#: src-en/data/events_special_aea_shleg.xml:482
+#: src-en/data/events_special_aea_shleg.xml:481
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[3]"
 msgstr "蛞蝓族以其懦弱著称，正如预期的那样，这里的蛞蝓族飞船已经放弃并投降了。"
 
-#: src-en/data/events_special_aea_shleg.xml:483
+#: src-en/data/events_special_aea_shleg.xml:482
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[4]"
-msgstr "\"亲爱的上帝，我没料到会这样！我为你的成功鼓掌。我为你的善举鼓掌。现在让我们"
-"走吧。\""
+msgstr "\"亲爱的上帝，我没料到会这样！我为你的成功鼓掌。我为你的善举鼓掌。现在让我们走吧。\""
 
-#: src-en/data/events_special_aea_shleg.xml:484
+#: src-en/data/events_special_aea_shleg.xml:483
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[5]"
 msgstr "\"拜托，你太强了！我们不想打架。我们不想战斗！让我们活下去！\""
 
-#: src-en/data/events_special_aea_shleg.xml:485
+#: src-en/data/events_special_aea_shleg.xml:484
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[6]"
-msgstr "与他们的蛞蝓族表亲不同，甲壳族并不十分贪婪。他们更愿意支付一些废料而不是死亡"
-"。你会接受他们的提议吗？"
+msgstr "与他们的蛞蝓族表亲不同，甲壳族并不十分贪婪。他们更愿意支付一些废料而不是死亡。你会接受他们的提议吗？"
 
-#: src-en/data/events_special_aea_shleg.xml:486
+#: src-en/data/events_special_aea_shleg.xml:485
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[7]"
 msgstr "你收到了甲壳族舰长的呼叫。\"是的是的，你的枪非常好。让我们走，我们有废料！\""
 
-#: src-en/data/events_special_aea_shleg.xml:495
+#: src-en/data/events_special_aea_shleg.xml:494
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"AEA_SHLEG_TEST_FIGHT\"]/text"
 msgstr "TEST."
 
-#: src-en/data/events_special_aea_shleg.xml:498
+#: src-en/data/events_special_aea_shleg.xml:497
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"AEA_SHLEG_TEST_FIGHT\"]/choice/text"
 msgstr "继续。"

@@ -1,36 +1,23 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-30 10:55+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_aea_shlegxml/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_shleg.xml:4
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_UPDATE_AEA_SHLEG\"]/text"
 msgstr ""
 "[MAUVAISE RÉPUTATION AUGMENTÉE - ANARCHISTE] \n"
-"\tVos actions ici, justifiables ou non, ne seront pas bien perçues aux yeux "
-"de la Géniocratie ou de ses citoyens. Si vous continuez à agir de la sorte, "
-"vous pourriez commencer à constater des réactions négatives de la part de la "
-"Anarchistes et de ses alliés."
+"\tVos actions ici, justifiables ou non, ne seront pas bien perçues aux yeux de la Géniocratie ou de ses citoyens. Si vous continuez à agir de la sorte, vous pourriez commencer à constater des réactions négatives de la part de la Anarchistes et de ses alliés."
 
 #: src-en/data/events_special_aea_shleg.xml:9
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_UPDATE_AEA_SHLEG_FIGHT\"]/text"
 msgstr ""
 "[MAUVAISE RÉPUTATION AUGMENTÉE - ANARCHISTE] \n"
-"\tVos actions ici, justifiables ou non, ne seront pas bien perçues aux yeux "
-"de la Géniocratie ou de ses citoyens. Si vous continuez à agir de la sorte, "
-"vous pourriez commencer à constater des réactions négatives de la part de la "
-"Anarchistes et de ses alliés."
+"\tVos actions ici, justifiables ou non, ne seront pas bien perçues aux yeux de la Géniocratie ou de ses citoyens. Si vous continuez à agir de la sorte, vous pourriez commencer à constater des réactions négatives de la part de la Anarchistes et de ses alliés."
 
 #: src-en/data/events_special_aea_shleg.xml:13
 msgid ""
@@ -42,9 +29,7 @@ msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_REMOVE_AEA_SHLEG\"]/text"
 msgstr ""
 "[MAUVAISE RÉPUTATION DIMINUÉE - ANARCHISTE] \n"
-"\tVous avez fait une bonne action aux yeux des Anarchistes. Si vous aviez "
-"acquis une certaine mauvaise réputation suite à vos actions passées, vous "
-"aurez plus de chances d'être pardonné désormais."
+"\tVous avez fait une bonne action aux yeux des Anarchistes. Si vous aviez acquis une certaine mauvaise réputation suite à vos actions passées, vous aurez plus de chances d'être pardonné désormais."
 
 #: src-en/data/events_special_aea_shleg.xml:37
 msgid ""
@@ -59,8 +44,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_START_AEA_SHLEG\"]/text[2]"
 msgstr ""
-"Vous êtes arrivé dans l'Espace Anarchiste. Beaucoup de gens ici regardent la "
-"Fédération avec méfiance, il serait plus prudent de rester discret."
+"Vous êtes arrivé dans l'Espace Anarchiste. Beaucoup de gens ici regardent la"
+" Fédération avec méfiance, il serait plus prudent de rester discret."
 
 #: src-en/data/events_special_aea_shleg.xml:39
 #, fuzzy
@@ -68,8 +53,9 @@ msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_START_AEA_SHLEG\"]/text[3]"
 msgstr ""
 "Vous êtes arrivé dans l'Espace Anarchiste. Vous ne trouverez pas beaucoup "
-"d'alliés ici, vous avez juste de la chance que les Limaces, les Coquilles et "
-"autres créatures du genre ne posent pas autant de problèmes à la Fédération."
+"d'alliés ici, vous avez juste de la chance que les Limaces, les Coquilles et"
+" autres créatures du genre ne posent pas autant de problèmes à la "
+"Fédération."
 
 #: src-en/data/events_special_aea_shleg.xml:53
 msgid ""
@@ -100,8 +86,8 @@ msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_CRIMINAL\"]/text"
 msgstr ""
 "Il y a quelque chose d’étrange ici. D’ordinaire, les Anarchistes ne "
-"prêteraient pas attention à un vaisseau comme le vôtre, mais vous captez des "
-"échanges radio suspects en provenance du vaisseau de garde."
+"prêteraient pas attention à un vaisseau comme le vôtre, mais vous captez des"
+" échanges radio suspects en provenance du vaisseau de garde."
 
 #: src-en/data/events_special_aea_shleg.xml:86
 msgid ""
@@ -247,8 +233,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_REQUEST\"]/event[3]/text"
 msgstr ""
-"À votre surprise, les Anarchistes vous transfèrent des provisions. Vous vous "
-"demandez s'ils le font par bonté... ou par crainte."
+"À votre surprise, les Anarchistes vous transfèrent des provisions. Vous vous"
+" demandez s'ils le font par bonté... ou par crainte."
 
 #: src-en/data/events_special_aea_shleg.xml:186
 msgid ""
@@ -373,10 +359,10 @@ msgstr "Endroit non exploré."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"REINFORCEMENTS_AEA_SHLEG\"]/text"
 msgstr ""
-"Il faut beaucoup pour convaincre les Anarchistes d’abandonner leurs manières "
-"timides et de cibler un vaisseau de la Fédération comme le vôtre de front, "
-"mais que pouviez-vous attendre après avoir fait irruption dans ce secteur et "
-"éliminé leur garde ?"
+"Il faut beaucoup pour convaincre les Anarchistes d’abandonner leurs manières"
+" timides et de cibler un vaisseau de la Fédération comme le vôtre de front, "
+"mais que pouviez-vous attendre après avoir fait irruption dans ce secteur et"
+" éliminé leur garde ?"
 
 #: src-en/data/events_special_aea_shleg.xml:290
 msgid ""
@@ -385,54 +371,54 @@ msgstr "Continuer..."
 
 #: src-en/data/events_special_aea_shleg.xml:298
 msgid ""
-"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/unvisitedTooltip"
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/unvisitedTooltip"
 msgstr "Endroit non exploré."
 
 #: src-en/data/events_special_aea_shleg.xml:299
 msgid ""
-"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/visitedTooltip"
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/visitedTooltip"
 msgstr "Emplacement déjà exploré. Il n'y reste rien d'intéressant."
 
 #: src-en/data/events_special_aea_shleg.xml:300
 msgid ""
-"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/undiscoveredTooltip"
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/beaconType/undiscoveredTooltip"
 msgstr "Endroit non exploré."
 
 #: src-en/data/events_special_aea_shleg.xml:302
 msgid ""
-"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/text"
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/text"
 msgstr ""
-"Il faut beaucoup pour convaincre les Anarchistes d’abandonner leurs manières "
-"timides et de cibler un vaisseau de la Fédération comme le vôtre de front, "
-"mais que pouviez-vous attendre après avoir fait irruption dans ce secteur et "
-"éliminé leur garde ?"
+"Il faut beaucoup pour convaincre les Anarchistes d’abandonner leurs manières"
+" timides et de cibler un vaisseau de la Fédération comme le vôtre de front, "
+"mais que pouviez-vous attendre après avoir fait irruption dans ce secteur et"
+" éliminé leur garde ?"
 
-#: src-en/data/events_special_aea_shleg.xml:308
+#: src-en/data/events_special_aea_shleg.xml:307
 msgid ""
-"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_SHLEG\"]/choice/text"
+"data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_aea_shleg.xml:353
+#: src-en/data/events_special_aea_shleg.xml:352
 msgid ""
 "data/events_special_aea_shleg.xml$//ship[@name=\"SHIP_AEA_SHLEG_TRANSPORT_LOOT\"]/escape/text"
 msgstr "Ils ne semblent pas vouloir se battre. Ils tentent de fuir."
 
-#: src-en/data/events_special_aea_shleg.xml:364
+#: src-en/data/events_special_aea_shleg.xml:363
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/beaconType/unvisitedTooltip"
 msgstr "Endroit non exploré."
 
-#: src-en/data/events_special_aea_shleg.xml:365
+#: src-en/data/events_special_aea_shleg.xml:364
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/beaconType/visitedTooltip"
 msgstr "Emplacement déjà exploré. Il n'y reste rien d'intéressant."
 
-#: src-en/data/events_special_aea_shleg.xml:366
+#: src-en/data/events_special_aea_shleg.xml:365
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/beaconType/undiscoveredTooltip"
 msgstr "Endroit non exploré."
 
-#: src-en/data/events_special_aea_shleg.xml:369
+#: src-en/data/events_special_aea_shleg.xml:368
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/text"
 msgstr ""
@@ -440,43 +426,43 @@ msgstr ""
 "vaisseau transporte une technologie spéciale. Si vous parvenez à éliminer "
 "l'équipage à bord, la cargaison sera à vous."
 
-#: src-en/data/events_special_aea_shleg.xml:372
+#: src-en/data/events_special_aea_shleg.xml:371
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/text"
 msgstr "Exiger la remise des marchandises."
 
-#: src-en/data/events_special_aea_shleg.xml:374
+#: src-en/data/events_special_aea_shleg.xml:373
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/event/text"
 msgstr "Vous vous préparez à sécuriser la cargaison par la force."
 
-#: src-en/data/events_special_aea_shleg.xml:377
+#: src-en/data/events_special_aea_shleg.xml:376
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/event/choice/text"
 msgstr "Continuer..."
 
-#: src-en/data/events_special_aea_shleg.xml:383
+#: src-en/data/events_special_aea_shleg.xml:382
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/text"
 msgstr "Éviter le vaisseau."
 
-#: src-en/data/events_special_aea_shleg.xml:385
+#: src-en/data/events_special_aea_shleg.xml:384
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/event/text"
 msgstr ""
 "Le vaisseau reste hors de portée de vos armes, puis finit par sauter loin."
 
-#: src-en/data/events_special_aea_shleg.xml:387
+#: src-en/data/events_special_aea_shleg.xml:386
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/event/choice[1]/text"
 msgstr "Faire quelque chose à bord du vaisseau."
 
-#: src-en/data/events_special_aea_shleg.xml:391
+#: src-en/data/events_special_aea_shleg.xml:390
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/event/choice[2]/text"
 msgstr "Ne rien faire."
 
-#: src-en/data/events_special_aea_shleg.xml:398
+#: src-en/data/events_special_aea_shleg.xml:397
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_SHLEG\"]/text"
 msgstr ""
@@ -484,27 +470,27 @@ msgstr ""
 "vous appartient désormais. Vous y trouvez à bord la technologie à laquelle "
 "vous vous attendiez et vous la ramenez à votre vaisseau."
 
-#: src-en/data/events_special_aea_shleg.xml:417
+#: src-en/data/events_special_aea_shleg.xml:416
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[1]"
 msgstr ""
 "Malgré tout les efforts des Limaces, elles n'ont pas été capable de vous "
-"battre. Ressortant vainqueur de ce combat, vous vous faites plaisir avec les "
-"restes de leur épave."
+"battre. Ressortant vainqueur de ce combat, vous vous faites plaisir avec les"
+" restes de leur épave."
 
-#: src-en/data/events_special_aea_shleg.xml:418
+#: src-en/data/events_special_aea_shleg.xml:417
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[2]"
 msgstr "Le vaisseau Limace n'est plus. Vous démantelez l'épave."
 
-#: src-en/data/events_special_aea_shleg.xml:419
+#: src-en/data/events_special_aea_shleg.xml:418
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[3]"
 msgstr ""
-"Enfin, les perfides habitants de nébuleuses ont été réduits au silence. Vous "
-"désossez leur vaisseau."
+"Enfin, les perfides habitants de nébuleuses ont été réduits au silence. Vous"
+" désossez leur vaisseau."
 
-#: src-en/data/events_special_aea_shleg.xml:420
+#: src-en/data/events_special_aea_shleg.xml:419
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[4]"
 msgstr ""
@@ -512,66 +498,66 @@ msgstr ""
 "l'espace. Espérons qu'il n'y ait pas de station proche avec des sas "
 "ouverts..."
 
-#: src-en/data/events_special_aea_shleg.xml:421
+#: src-en/data/events_special_aea_shleg.xml:420
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[5]"
 msgstr ""
 "Malgré toutes leurs précautions défensives, l'astronef des Coquilles a été "
 "vaincu. Vous récupérez leurs restes."
 
-#: src-en/data/events_special_aea_shleg.xml:422
+#: src-en/data/events_special_aea_shleg.xml:421
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[6]"
 msgstr ""
 "Les Coquilles sont réputées pour leurs défenses bien maintenues, mais votre "
 "armement s'est prouvé efficace une fois de plus."
 
-#: src-en/data/events_special_aea_shleg.xml:430
+#: src-en/data/events_special_aea_shleg.xml:429
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[1]"
 msgstr ""
 "Vous trouvez le corps agonisant du capitaine Limace frémissant au sol. Il "
 "libère un dernier mot, \"Sssaloperie\", puis s'effondre et meurt."
 
-#: src-en/data/events_special_aea_shleg.xml:431
+#: src-en/data/events_special_aea_shleg.xml:430
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[2]"
 msgstr ""
-"Vous ne ressentez aucun remord pour l'équipage Limace, cependant vous auriez "
-"aimé que leur vaisseau empeste moins."
+"Vous ne ressentez aucun remord pour l'équipage Limace, cependant vous auriez"
+" aimé que leur vaisseau empeste moins."
 
-#: src-en/data/events_special_aea_shleg.xml:432
+#: src-en/data/events_special_aea_shleg.xml:431
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[3]"
 msgstr ""
 "L'intérieur du vaisseau est désormais recouvert dans ce qui semblerait être "
 "un mélange de vase et de purée d'intestins de Limaces. Beurk."
 
-#: src-en/data/events_special_aea_shleg.xml:433
+#: src-en/data/events_special_aea_shleg.xml:432
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[4]"
 msgstr ""
 "Combattre les Coquilles est dangereux vu comment elles sont bien protégées, "
 "mais vous avez nettoyé leur vaisseau. Leur ferraille est à vous."
 
-#: src-en/data/events_special_aea_shleg.xml:434
+#: src-en/data/events_special_aea_shleg.xml:433
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[5]"
 msgstr "Le vaisseau Coquille a été neutralisé. Vous démantelez leur vaisseau."
 
-#: src-en/data/events_special_aea_shleg.xml:441
+#: src-en/data/events_special_aea_shleg.xml:440
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_ESCAPE_AEA_SHLEG\"]/text"
 msgstr ""
 "Il semblerait que le vaisseau Coquille ait reconsidéré le choix de rester "
 "dans ce combat. Ils essaient de s'échapper !"
 
-#: src-en/data/events_special_aea_shleg.xml:454
+#: src-en/data/events_special_aea_shleg.xml:453
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_SHLEG\"]/text"
 msgstr "Le vaisseau Coquille saute ailleurs, vous laissant à la balise."
 
-#: src-en/data/events_special_aea_shleg.xml:457
+#: src-en/data/events_special_aea_shleg.xml:456
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GOTAWAY_AEA_SHLEG_REMAINS\"]/text"
 msgstr ""
@@ -579,26 +565,26 @@ msgstr ""
 "rendez compte qu'une trainée de ferraille a été laissée par le combat. Ce "
 "n'est pas beaucoup, mais cela allège le coût de votre échec."
 
-#: src-en/data/events_special_aea_shleg.xml:464
+#: src-en/data/events_special_aea_shleg.xml:463
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"SURRENDER_AEA_SHLEG\"]/choice[1]/text"
 msgstr "Accepter leur reddition."
 
-#: src-en/data/events_special_aea_shleg.xml:468
+#: src-en/data/events_special_aea_shleg.xml:467
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"SURRENDER_AEA_SHLEG\"]/choice[@req=\"LIST_CREW_AEA_SHLEG\"]/text"
 msgstr "(Membre d'équipage Anarchiste) Négocier un autre accord."
 
-#: src-en/data/events_special_aea_shleg.xml:480
+#: src-en/data/events_special_aea_shleg.xml:479
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[1]"
 msgstr ""
 "Le capitaine Limace vous contacte. \"Oh, votre altesssse, vous êtes sssi "
 "brave et êtes vraiment le plus grand guerrier à avoir vécu. Allez-vous nous "
-"laissser la vie sssauve, pour que nous puisssions raconter votre hissstoire ?"
-"\""
+"laissser la vie sssauve, pour que nous puisssions raconter votre hissstoire "
+"?\""
 
-#: src-en/data/events_special_aea_shleg.xml:481
+#: src-en/data/events_special_aea_shleg.xml:480
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[2]"
 msgstr ""
@@ -606,28 +592,28 @@ msgstr ""
 "foutus sssauf si vous nous laisssez partir. On vous donnera quelques trucs "
 "sssi vous acccceptez.\""
 
-#: src-en/data/events_special_aea_shleg.xml:482
+#: src-en/data/events_special_aea_shleg.xml:481
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[3]"
 msgstr ""
 "Les Limaces sont réputées pour leur lâcheté et comme prévu, l'assaillant "
 "Limace ici présent laisse tomber l'affaire et se rend."
 
-#: src-en/data/events_special_aea_shleg.xml:483
+#: src-en/data/events_special_aea_shleg.xml:482
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[4]"
 msgstr ""
 "\"Bon ssssang, je ne m'attendais pas à cccela ! Je vous applaudis pour "
 "cccette sssurprissse. Maintenant, laisssez-nous partir.\""
 
-#: src-en/data/events_special_aea_shleg.xml:484
+#: src-en/data/events_special_aea_shleg.xml:483
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[5]"
 msgstr ""
 "\"Pitié, vous êtes trop puissants ! Nous ne voulons pas combattre ! Laissez-"
 "nous vivre !\""
 
-#: src-en/data/events_special_aea_shleg.xml:485
+#: src-en/data/events_special_aea_shleg.xml:484
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[6]"
 msgstr ""
@@ -635,19 +621,19 @@ msgstr ""
 "avares. Elles préfereraient payer de la ferraille plutôt que mourir. Allez-"
 "vous accepter leur offre ?"
 
-#: src-en/data/events_special_aea_shleg.xml:486
+#: src-en/data/events_special_aea_shleg.xml:485
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[7]"
 msgstr ""
 "Vous recevez un appel du capitaine Coquille. \"Oui oui, ffotre puissance de "
 "feu est phénoménale. Laissez-nous partir, on a de la ferraille !\""
 
-#: src-en/data/events_special_aea_shleg.xml:495
+#: src-en/data/events_special_aea_shleg.xml:494
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"AEA_SHLEG_TEST_FIGHT\"]/text"
 msgstr "TEST."
 
-#: src-en/data/events_special_aea_shleg.xml:498
+#: src-en/data/events_special_aea_shleg.xml:497
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"AEA_SHLEG_TEST_FIGHT\"]/choice/text"
 msgstr "Continuer..."

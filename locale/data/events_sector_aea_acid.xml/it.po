@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-30 10:56+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Italian <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_sector_aea_acidxml/it/>\n"
-"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_aea_acid.xml:28
 msgid ""
@@ -2430,7 +2423,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_QUEST_AEA_ACID_PIRATE_TRAP\"]/text"
 msgstr ""
-"Arrivi e noti due navi slugman a portata di comunicatore. Loro non ti vedono."
+"Arrivi e noti due navi slugman a portata di comunicatore. Loro non ti "
+"vedono."
 
 #: src-en/data/events_sector_aea_acid.xml:2009
 msgid ""
@@ -2769,39 +2763,39 @@ msgstr "Continua..."
 
 #: src-en/data/events_sector_aea_acid.xml:2305
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/text"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2309
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
 " and @lvl=\"0\"]/text"
 msgstr "Indaga."
 
 #: src-en/data/events_sector_aea_acid.xml:2313
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
 " and @lvl=\"1\"]/text"
 msgstr "Indaga."
 
 #: src-en/data/events_sector_aea_acid.xml:2317
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/text"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2319
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/text"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2321
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[1]/text"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[1]/text"
 msgstr "Fai qualcosa a bordo."
 
 #: src-en/data/events_sector_aea_acid.xml:2325
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[2]/text"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[2]/text"
 msgstr "Non fare niente."
 
 #: src-en/data/events_sector_aea_acid.xml:2334

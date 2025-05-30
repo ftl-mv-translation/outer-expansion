@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-30 10:57+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_sector_aea_shlegxml/es/>\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_aea_shleg.xml:29
 msgid ""
@@ -849,62 +842,62 @@ msgstr ""
 
 #: src-en/data/events_sector_aea_shleg.xml:835
 msgid ""
-"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_RADIANT_QUEST\"]/beaconType/unvisitedTooltip"
+"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
 #: src-en/data/events_sector_aea_shleg.xml:836
 msgid ""
-"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_RADIANT_QUEST\"]/beaconType/visitedTooltip"
+"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/beaconType/visitedTooltip"
 msgstr "Ubicación explorada. No hay nada más de interés."
 
 #: src-en/data/events_sector_aea_shleg.xml:845
 msgid ""
-"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_RADIANT_QUEST\"]/text"
+"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_shleg.xml:851
 msgid ""
-"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_RADIANT_QUEST\"]/choice/text"
+"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/text"
 msgstr "Continuar..."
 
 #: src-en/data/events_sector_aea_shleg.xml:853
 msgid ""
-"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/text"
+"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_shleg.xml:855
 msgid ""
-"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[1]/text"
+"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[1]/text"
 msgstr "Atacar al guardia."
 
 #: src-en/data/events_sector_aea_shleg.xml:857
 msgid ""
-"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[1]/event/text"
+"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[1]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_shleg.xml:860
 msgid ""
-"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[1]/event/choice/text"
+"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[1]/event/choice/text"
 msgstr "Continuar..."
 
 #: src-en/data/events_sector_aea_shleg.xml:866
 msgid ""
-"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[2]/text"
+"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[2]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_shleg.xml:868
 msgid ""
-"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[2]/event/text"
+"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[2]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_shleg.xml:870
 msgid ""
-"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[2]/event/choice[1]/text"
+"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[2]/event/choice[1]/text"
 msgstr "Hacer algo abordo de la nave."
 
 #: src-en/data/events_sector_aea_shleg.xml:874
 msgid ""
-"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[2]/event/choice[2]/text"
+"data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[2]/event/choice[2]/text"
 msgstr "No hacer nada."
 
 #: src-en/data/events_sector_aea_shleg.xml:884

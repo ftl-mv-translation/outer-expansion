@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-30 10:57+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-outer-expansion/dataevents_sector_aea_necroxml/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_aea_necro.xml:28
 msgid ""
@@ -130,22 +123,18 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_necro.xml:131
 msgid ""
 "data/events_sector_aea_necro.xml$//eventList[@name=\"DEFUNCT_AEA_NECRO_SALVAGE\"]/event[1]/text"
-msgstr "飞船基本完好无损，拥有丰厚的废料和资源。你把这些物资拖回自己的星舰，完全没有"
-"遇到任何阻力。"
+msgstr "飞船基本完好无损，拥有丰厚的废料和资源。你把这些物资拖回自己的星舰，完全没有遇到任何阻力。"
 
 #: src-en/data/events_sector_aea_necro.xml:135
 msgid ""
 "data/events_sector_aea_necro.xml$//eventList[@name=\"DEFUNCT_AEA_NECRO_SALVAGE\"]/event[2]/text"
-msgstr "飞船基本完好无损，拥有丰厚的废料和资源。在搜刮飞船的过程中，你在货舱里发现了"
-"一张可以使用的无人机蓝图。"
+msgstr "飞船基本完好无损，拥有丰厚的废料和资源。在搜刮飞船的过程中，你在货舱里发现了一张可以使用的无人机蓝图。"
 
 #: src-en/data/events_sector_aea_necro.xml:142
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WORTHLESS_JUNK\"]/text"
 msgstr ""
-"你听见附近舰船上有两位分离者在为某个增强部件吵架。你向他们呼叫。"
-"\"你好，致意。我们获得了物品。物品用途未知，我们留下物品的意愿是0。请将这件["
-"无用的垃圾]从我们手中拿走。\""
+"你听见附近舰船上有两位分离者在为某个增强部件吵架。你向他们呼叫。\"你好，致意。我们获得了物品。物品用途未知，我们留下物品的意愿是0。请将这件[无用的垃圾]从我们手中拿走。\""
 
 #: src-en/data/events_sector_aea_necro.xml:145
 msgid ""
@@ -720,8 +709,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_necro.xml:602
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/text"
-msgstr "一艘分离者舰船在附近飘荡，慢慢与你拉开距离。你感到有些困惑，因为快速扫描后发"
-"现船上没有船员，但是其本身仍在运作，并对外部有响应。"
+msgstr "一艘分离者舰船在附近飘荡，慢慢与你拉开距离。你感到有些困惑，因为快速扫描后发现船上没有船员，但是其本身仍在运作，并对外部有响应。"
 
 #: src-en/data/events_sector_aea_necro.xml:605
 msgid ""
@@ -792,8 +780,7 @@ msgstr "(蛞蝓族船员)试着感应生命迹象。"
 #: src-en/data/events_sector_aea_necro.xml:649
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
-msgstr "你的蛞蝓族船员试图感应船上任何智慧生物迹象。他们感应到微微可能有迹象，但对他"
-"们来说几乎无法分辨。"
+msgstr "你的蛞蝓族船员试图感应船上任何智慧生物迹象。他们感应到微微可能有迹象，但对他们来说几乎无法分辨。"
 
 #: src-en/data/events_sector_aea_necro.xml:651
 msgid ""
@@ -839,8 +826,7 @@ msgstr "(心灵感应甲壳族)试图感应到生命迹象。"
 #: src-en/data/events_sector_aea_necro.xml:680
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/text"
-msgstr "你的甲壳族船员试图感应船上任何智慧生物迹象。他们感应到微微可能有迹象，但对他"
-"们来说几乎无法分辨。"
+msgstr "你的甲壳族船员试图感应船上任何智慧生物迹象。他们感应到微微可能有迹象，但对他们来说几乎无法分辨。"
 
 #: src-en/data/events_sector_aea_necro.xml:682
 msgid ""
@@ -1261,8 +1247,7 @@ msgstr "(防护程序)恢复护盾系统的运作。"
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[@req=\"ANTI_VIRUS\"]/event/text"
 msgstr ""
-".....................................................................恢复成功"
-"。"
+".....................................................................恢复成功。"
 
 #: src-en/data/events_sector_aea_necro.xml:1029
 msgid ""
@@ -1278,8 +1263,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[@req=\"hacking\"]/event/text"
 msgstr ""
-".....................................................................恢复成功"
-"。"
+".....................................................................恢复成功。"
 
 #: src-en/data/events_sector_aea_necro.xml:1040
 msgid ""
@@ -1311,475 +1295,469 @@ msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_CONTINUE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1066
+#: src-en/data/events_sector_aea_necro.xml:1067
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_CONTINUE\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1094
+#: src-en/data/events_sector_aea_necro.xml:1095
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_AEA_NECRO\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1099
+#: src-en/data/events_sector_aea_necro.xml:1100
 msgid ""
 "data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1100
-msgid ""
-"data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[2]"
-msgstr "一个非常啰嗦的奇怪半械族向你呼叫。"
-"\"这相遇的时机非常不凑巧，联邦舰。我似乎损坏了体内编码理性与逻辑的系统，现在"
-"杀戮欲望正在高涨。\""
-
 #: src-en/data/events_sector_aea_necro.xml:1101
 msgid ""
-"data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[3]"
-msgstr "一个被激怒的分离者向你呼叫。"
-"\"问题：你不小心踩到了我一位变成显微尺寸的挚友。解决方案：死。\""
+"data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[2]"
+msgstr "一个非常啰嗦的奇怪半械族向你呼叫。\"这相遇的时机非常不凑巧，联邦舰。我似乎损坏了体内编码理性与逻辑的系统，现在杀戮欲望正在高涨。\""
 
 #: src-en/data/events_sector_aea_necro.xml:1102
+msgid ""
+"data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[3]"
+msgstr "一个被激怒的分离者向你呼叫。\"问题：你不小心踩到了我一位变成显微尺寸的挚友。解决方案：死。\""
+
+#: src-en/data/events_sector_aea_necro.xml:1103
 msgid ""
 "data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[4]"
 msgstr "尽管分离者通常选择避开其他舰船，在此信标的这艘看来情况危急，迫切需要废料。"
 
-#: src-en/data/events_sector_aea_necro.xml:1103
+#: src-en/data/events_sector_aea_necro.xml:1104
 msgid ""
 "data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[5]"
 msgstr "一艘分离者战舰上前进攻。你不清楚自己怎么惹怒了他们，但这不重要了。"
 
-#: src-en/data/events_sector_aea_necro.xml:1104
+#: src-en/data/events_sector_aea_necro.xml:1105
 msgid ""
 "data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[6]"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1108
+#: src-en/data/events_sector_aea_necro.xml:1109
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_ENGI_AEA_NECRO\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1111
+#: src-en/data/events_sector_aea_necro.xml:1112
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_ENGI_AEA_NECRO\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1117
+#: src-en/data/events_sector_aea_necro.xml:1118
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_REBEL_AUTO_AEA_NECRO\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1120
+#: src-en/data/events_sector_aea_necro.xml:1121
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_REBEL_AUTO_AEA_NECRO\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1125
+#: src-en/data/events_sector_aea_necro.xml:1126
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_REBEL_AUTO_AEA_NECRO_KILL\"]/text"
-msgstr ""
-"分离者们发出听上去像是机械笑声的声音。"
-"\"太好了，我明白其他人为什么看斗兽场战斗会这么津津有味了。\""
-"他们跃迁离开，将你与自动舰的残骸抛在身后。"
+msgstr "分离者们发出听上去像是机械笑声的声音。\"太好了，我明白其他人为什么看斗兽场战斗会这么津津有味了。\"他们跃迁离开，将你与自动舰的残骸抛在身后。"
 
-#: src-en/data/events_sector_aea_necro.xml:1130
+#: src-en/data/events_sector_aea_necro.xml:1131
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_ZOLTAN_AUTO_AEA_NECRO\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1133
+#: src-en/data/events_sector_aea_necro.xml:1134
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_ZOLTAN_AUTO_AEA_NECRO\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1157
+#: src-en/data/events_sector_aea_necro.xml:1158
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO\"]/beaconType/unvisitedTooltip"
 msgstr "此处有一条谐合链。"
 
-#: src-en/data/events_sector_aea_necro.xml:1158
+#: src-en/data/events_sector_aea_necro.xml:1159
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO\"]/beaconType/visitedTooltip"
 msgstr "此处有一条谐合链。"
 
-#: src-en/data/events_sector_aea_necro.xml:1160
+#: src-en/data/events_sector_aea_necro.xml:1161
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1163
+#: src-en/data/events_sector_aea_necro.xml:1164
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO\"]/choice[@req=\"HARMONY_LINK_CHECK\""
 " and @lvl=\"1\"]/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1167
+#: src-en/data/events_sector_aea_necro.xml:1168
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO\"]/choice[@req=\"HARMONY_LINK_CHECK\""
 " and @lvl=\"0\"]/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1184
+#: src-en/data/events_sector_aea_necro.xml:1185
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_MFK\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1187
+#: src-en/data/events_sector_aea_necro.xml:1188
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_MFK\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1189
+#: src-en/data/events_sector_aea_necro.xml:1190
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_MFK\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1191
+#: src-en/data/events_sector_aea_necro.xml:1192
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_MFK\"]/choice/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1198
+#: src-en/data/events_sector_aea_necro.xml:1199
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_MFK_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1203
+#: src-en/data/events_sector_aea_necro.xml:1204
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_FED\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1206
+#: src-en/data/events_sector_aea_necro.xml:1207
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_FED\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1208
+#: src-en/data/events_sector_aea_necro.xml:1209
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_FED\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1210
+#: src-en/data/events_sector_aea_necro.xml:1211
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_RESURRECTED_FED\"]/choice/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1217
+#: src-en/data/events_sector_aea_necro.xml:1218
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_AEA_NECRO_FED_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1225
+#: src-en/data/events_sector_aea_necro.xml:1226
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/beaconType/unvisitedTooltip"
 msgstr "此处有一条谐合链。"
 
-#: src-en/data/events_sector_aea_necro.xml:1226
+#: src-en/data/events_sector_aea_necro.xml:1227
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/beaconType/visitedTooltip"
 msgstr "此处有一条谐合链。"
 
-#: src-en/data/events_sector_aea_necro.xml:1228
+#: src-en/data/events_sector_aea_necro.xml:1229
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1231
+#: src-en/data/events_sector_aea_necro.xml:1232
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1233
+#: src-en/data/events_sector_aea_necro.xml:1234
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1236
+#: src-en/data/events_sector_aea_necro.xml:1237
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1238
+#: src-en/data/events_sector_aea_necro.xml:1239
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1241
+#: src-en/data/events_sector_aea_necro.xml:1242
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1247
+#: src-en/data/events_sector_aea_necro.xml:1248
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1249
+#: src-en/data/events_sector_aea_necro.xml:1250
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1251
+#: src-en/data/events_sector_aea_necro.xml:1252
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[2]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_aea_necro.xml:1255
+#: src-en/data/events_sector_aea_necro.xml:1256
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[1]/event/choice[2]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_aea_necro.xml:1263
+#: src-en/data/events_sector_aea_necro.xml:1264
 #, fuzzy
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[2]/text"
 msgstr "无视对方。"
 
-#: src-en/data/events_sector_aea_necro.xml:1265
+#: src-en/data/events_sector_aea_necro.xml:1266
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1267
+#: src-en/data/events_sector_aea_necro.xml:1268
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[2]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_aea_necro.xml:1271
+#: src-en/data/events_sector_aea_necro.xml:1272
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"HARMONY_LINK_UNIQUE_AEA_NECRO\"]/choice[2]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_aea_necro.xml:1279
+#: src-en/data/events_sector_aea_necro.xml:1280
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1281
+#: src-en/data/events_sector_aea_necro.xml:1282
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/choice[1]/text"
 msgstr "拿着武器。"
 
-#: src-en/data/events_sector_aea_necro.xml:1283
+#: src-en/data/events_sector_aea_necro.xml:1284
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1286
+#: src-en/data/events_sector_aea_necro.xml:1287
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1292
+#: src-en/data/events_sector_aea_necro.xml:1293
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1294
+#: src-en/data/events_sector_aea_necro.xml:1295
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1297
+#: src-en/data/events_sector_aea_necro.xml:1298
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"LINK_AEA_NECRO_WHALE_FINISH\"]/choice[2]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1316
+#: src-en/data/events_sector_aea_necro.xml:1317
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/beaconType/unvisitedTooltip"
 msgstr "此处有一条谐合链。"
 
-#: src-en/data/events_sector_aea_necro.xml:1317
+#: src-en/data/events_sector_aea_necro.xml:1318
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/beaconType/visitedTooltip"
 msgstr "此处有一条谐合链。"
 
-#: src-en/data/events_sector_aea_necro.xml:1319
+#: src-en/data/events_sector_aea_necro.xml:1320
 msgid "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1322
+#: src-en/data/events_sector_aea_necro.xml:1323
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/text"
 msgstr "降落并调查。"
 
-#: src-en/data/events_sector_aea_necro.xml:1324
+#: src-en/data/events_sector_aea_necro.xml:1325
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1327
+#: src-en/data/events_sector_aea_necro.xml:1328
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1329
+#: src-en/data/events_sector_aea_necro.xml:1330
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1334
+#: src-en/data/events_sector_aea_necro.xml:1335
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1336
+#: src-en/data/events_sector_aea_necro.xml:1337
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1340
+#: src-en/data/events_sector_aea_necro.xml:1341
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1342
+#: src-en/data/events_sector_aea_necro.xml:1343
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1345
+#: src-en/data/events_sector_aea_necro.xml:1346
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1357
+#: src-en/data/events_sector_aea_necro.xml:1358
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[2]/text"
 msgstr "不理会它。"
 
-#: src-en/data/events_sector_aea_necro.xml:1359
+#: src-en/data/events_sector_aea_necro.xml:1360
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1361
+#: src-en/data/events_sector_aea_necro.xml:1362
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[2]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/events_sector_aea_necro.xml:1365
+#: src-en/data/events_sector_aea_necro.xml:1366
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM\"]/choice[2]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/events_sector_aea_necro.xml:1373
+#: src-en/data/events_sector_aea_necro.xml:1374
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1375
+#: src-en/data/events_sector_aea_necro.xml:1376
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1377
+#: src-en/data/events_sector_aea_necro.xml:1378
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1379
+#: src-en/data/events_sector_aea_necro.xml:1380
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1381
+#: src-en/data/events_sector_aea_necro.xml:1382
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1384
+#: src-en/data/events_sector_aea_necro.xml:1385
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1390
+#: src-en/data/events_sector_aea_necro.xml:1391
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1392
+#: src-en/data/events_sector_aea_necro.xml:1393
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1394
+#: src-en/data/events_sector_aea_necro.xml:1395
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_WIN\"]/choice/event/choice[2]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1406
+#: src-en/data/events_sector_aea_necro.xml:1407
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_SANCTUM_QUEST\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1410
+#: src-en/data/events_sector_aea_necro.xml:1411
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_SANCTUM_QUEST\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1412
+#: src-en/data/events_sector_aea_necro.xml:1413
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_SANCTUM_QUEST\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1414
+#: src-en/data/events_sector_aea_necro.xml:1415
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_SANCTUM_QUEST\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1417
+#: src-en/data/events_sector_aea_necro.xml:1418
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_SANCTUM_QUEST\"]/choice/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1425
+#: src-en/data/events_sector_aea_necro.xml:1426
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1427
+#: src-en/data/events_sector_aea_necro.xml:1428
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1429
+#: src-en/data/events_sector_aea_necro.xml:1430
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1432
+#: src-en/data/events_sector_aea_necro.xml:1433
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1434
+#: src-en/data/events_sector_aea_necro.xml:1435
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1435
+#: src-en/data/events_sector_aea_necro.xml:1436
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[1]/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1437
+#: src-en/data/events_sector_aea_necro.xml:1438
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[1]/event/choice/text"
 msgstr "继续。"
 
-#: src-en/data/events_sector_aea_necro.xml:1443
+#: src-en/data/events_sector_aea_necro.xml:1444
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1445
+#: src-en/data/events_sector_aea_necro.xml:1446
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_aea_necro.xml:1447
+#: src-en/data/events_sector_aea_necro.xml:1448
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_SANCTUM_ANGEL_WIN\"]/choice/event/choice[2]/event/choice/text"
 msgstr "继续。"

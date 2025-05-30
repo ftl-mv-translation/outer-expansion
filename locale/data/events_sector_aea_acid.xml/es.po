@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-30 10:56+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_sector_aea_acidxml/es/>\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_aea_acid.xml:28
 msgid ""
@@ -91,8 +84,8 @@ msgstr "Continuar..."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_REFUGEE_AEA_ACID_MV\"]/text"
 msgstr ""
-"Has encontrado una nave de refugiados vagando por el espacio. Parece como si "
-"estuviese huyendo de los rebeles y se hubiese quedado sin combustible. La "
+"Has encontrado una nave de refugiados vagando por el espacio. Parece como si"
+" estuviese huyendo de los rebeles y se hubiese quedado sin combustible. La "
 "baliza de socorro está activa, pero dudas que haya alguien a bordo."
 
 #: src-en/data/events_sector_aea_acid.xml:114
@@ -2761,39 +2754,39 @@ msgstr "Continuar..."
 
 #: src-en/data/events_sector_aea_acid.xml:2305
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/text"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2309
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
 " and @lvl=\"0\"]/text"
 msgstr "Investigar."
 
 #: src-en/data/events_sector_aea_acid.xml:2313
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
 " and @lvl=\"1\"]/text"
 msgstr "Investigar."
 
 #: src-en/data/events_sector_aea_acid.xml:2317
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/text"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2319
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/text"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2321
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[1]/text"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[1]/text"
 msgstr "Hacer algo abordo de la nave."
 
 #: src-en/data/events_sector_aea_acid.xml:2325
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[2]/text"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[2]/text"
 msgstr "No hacer nada."
 
 #: src-en/data/events_sector_aea_acid.xml:2334
