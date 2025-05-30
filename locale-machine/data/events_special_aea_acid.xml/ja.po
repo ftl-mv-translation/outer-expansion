@@ -281,1082 +281,1082 @@ msgstr ""
 
 #: src-en/data/events_special_aea_acid.xml:240
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACID\"]/beaconType/unvisitedTooltip"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACID\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
 #: src-en/data/events_special_aea_acid.xml:241
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACID\"]/beaconType/visitedTooltip"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACID\"]/beaconType/visitedTooltip"
 msgstr ""
 
 #: src-en/data/events_special_aea_acid.xml:242
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACID\"]/beaconType/undiscoveredTooltip"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACID\"]/beaconType/undiscoveredTooltip"
 msgstr ""
 
 #: src-en/data/events_special_aea_acid.xml:244
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACID\"]/text"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACID\"]/text"
 msgstr "酸性の成長は、あなたのセクターへの友好的でないエントリーをうまく連れて行っておらず、それはあなたを止めるために特別に船を派遣したようです。"
 
-#: src-en/data/events_special_aea_acid.xml:250
+#: src-en/data/events_special_aea_acid.xml:249
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACID\"]/choice/text"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACID\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:261
+#: src-en/data/events_special_aea_acid.xml:260
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"START_AEA_ACIDHOME\"]/text"
 msgstr "これを酸性の領域に深く深げるのは危険です。酸性の成長はこのセクターから生まれ、それは非常に防御的です。"
 
-#: src-en/data/events_special_aea_acid.xml:268
+#: src-en/data/events_special_aea_acid.xml:267
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"START_AEA_ACIDHOME\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:274
+#: src-en/data/events_special_aea_acid.xml:273
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/text"
 msgstr ""
 "ここのエリートガードは、あなたに短い、トゥザポイントメッセージを送ります。「ここでは歓迎されていません。意図を述べたり、去ったりしてください。」"
 
-#: src-en/data/events_special_aea_acid.xml:276
+#: src-en/data/events_special_aea_acid.xml:275
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_friendly\"]/text"
 msgstr "（フレンドリー）あなたの身元を知らせてください。"
 
-#: src-en/data/events_special_aea_acid.xml:278
+#: src-en/data/events_special_aea_acid.xml:277
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_friendly\"]/event/text"
 msgstr ""
 "酸性の成長があなたが誰であるかを理解すると、あなたがあなたを歓迎しているので、酸性の成長はあなたにいくつかの物資をspareしまないほど親切です。"
 
-#: src-en/data/events_special_aea_acid.xml:283
+#: src-en/data/events_special_aea_acid.xml:282
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[2]/text"
 msgstr "交渉で手を試してみてください。"
 
-#: src-en/data/events_special_aea_acid.xml:287
+#: src-en/data/events_special_aea_acid.xml:286
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[3]/text"
 msgstr "あなたは善意しか持っていないと確信してください。"
 
-#: src-en/data/events_special_aea_acid.xml:289
+#: src-en/data/events_special_aea_acid.xml:288
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[3]/event/text"
 msgstr "酸性の成長はあなたの寄付を認識し、あなたが合格させることができます。"
 
-#: src-en/data/events_special_aea_acid.xml:297
+#: src-en/data/events_special_aea_acid.xml:296
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[4]/text"
 msgstr "あなたの道を通して戦ってください。"
 
-#: src-en/data/events_special_aea_acid.xml:299
+#: src-en/data/events_special_aea_acid.xml:298
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[4]/event/text"
 msgstr "コミュニケーションを沈黙させ、攻撃する準備をします。"
 
-#: src-en/data/events_special_aea_acid.xml:302
+#: src-en/data/events_special_aea_acid.xml:301
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[4]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:308
+#: src-en/data/events_special_aea_acid.xml:307
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_soldier\"]/text"
 msgstr "（酸性兵士）自由に入ります。"
 
-#: src-en/data/events_special_aea_acid.xml:310
+#: src-en/data/events_special_aea_acid.xml:309
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_soldier\"]/event/text"
 msgstr "酸性の成長はそれ自体を歓迎しています、あなたは自由に入ることができます。"
 
-#: src-en/data/events_special_aea_acid.xml:315
+#: src-en/data/events_special_aea_acid.xml:314
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_captain\"]/text"
 msgstr "（酸性リーダー）自由に入ります。"
 
-#: src-en/data/events_special_aea_acid.xml:317
+#: src-en/data/events_special_aea_acid.xml:316
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_captain\"]/event/text"
 msgstr "酸性の成長はそれ自体を歓迎しています、あなたは自由に入ることができます。"
 
-#: src-en/data/events_special_aea_acid.xml:322
+#: src-en/data/events_special_aea_acid.xml:321
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid\"]/text"
 msgstr "（オーキッドクルー）パッセージを要求します。"
 
-#: src-en/data/events_special_aea_acid.xml:324
+#: src-en/data/events_special_aea_acid.xml:323
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid\"]/event/text"
 msgstr ""
 "あなたのオーキッドは酸性容器を歓迎しますが、彼らは何でも言う前に彼らが応答を受け取ることができます。「ああ、信頼できるものの1つ、あなたは私たちのスペースに歓迎されています。」"
 
-#: src-en/data/events_special_aea_acid.xml:329
+#: src-en/data/events_special_aea_acid.xml:328
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_caretaker\"]/text"
 msgstr "（世話人の乗組員）パッセージを要求します。"
 
-#: src-en/data/events_special_aea_acid.xml:331
+#: src-en/data/events_special_aea_acid.xml:330
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_caretaker\"]/event/text"
 msgstr ""
 "あなたのオーキッドは酸性容器を歓迎しますが、彼らは何でも言う前に彼らが応答を受け取ることができます。「ああ、信頼できるものの1つ、あなたは私たちのスペースに歓迎されています。」"
 
-#: src-en/data/events_special_aea_acid.xml:336
+#: src-en/data/events_special_aea_acid.xml:335
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_praetor\"]/text"
 msgstr "（Praetor Crew）パッセージを要求します。"
 
-#: src-en/data/events_special_aea_acid.xml:338
+#: src-en/data/events_special_aea_acid.xml:337
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_praetor\"]/event/text"
 msgstr ""
 "あなたのオーキッドは酸性容器を歓迎しますが、彼らは何でも言う前に彼らが応答を受け取ることができます。「ああ、信頼できるものの1つ、あなたは私たちのスペースに歓迎されています。」"
 
-#: src-en/data/events_special_aea_acid.xml:343
+#: src-en/data/events_special_aea_acid.xml:342
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_mayeb\"]/text"
 msgstr "（メイブ）パッセージを要求します。"
 
-#: src-en/data/events_special_aea_acid.xml:345
+#: src-en/data/events_special_aea_acid.xml:344
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_mayeb\"]/event/text"
 msgstr ""
 "あなたのオーキッドは酸性容器を歓迎しますが、彼らは何でも言う前に彼らが応答を受け取ることができます。「ああ、信頼できるものの1つ、あなたは私たちのスペースに歓迎されています。」"
 
-#: src-en/data/events_special_aea_acid.xml:350
+#: src-en/data/events_special_aea_acid.xml:349
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_tyerel\"]/text"
 msgstr "（ty e'rel）要求パッセージ。"
 
-#: src-en/data/events_special_aea_acid.xml:352
+#: src-en/data/events_special_aea_acid.xml:351
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_tyerel\"]/event/text"
 msgstr ""
 "あなたのオーキッドは酸性容器を歓迎しますが、彼らは何でも言う前に彼らが応答を受け取ることができます。「ああ、信頼できるものの1つ、あなたは私たちのスペースに歓迎されています。」"
 
-#: src-en/data/events_special_aea_acid.xml:357
+#: src-en/data/events_special_aea_acid.xml:356
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"mind\"]/text"
 msgstr "（マインドコントロール）コントロールするのは気にするのが難しいです。"
 
-#: src-en/data/events_special_aea_acid.xml:361
+#: src-en/data/events_special_aea_acid.xml:360
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"cloaking\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:365
+#: src-en/data/events_special_aea_acid.xml:364
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"engines\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:369
+#: src-en/data/events_special_aea_acid.xml:368
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"pilot\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:376
+#: src-en/data/events_special_aea_acid.xml:375
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/text"
 msgstr "「あなたの申し出は受け入れられません。」"
 
-#: src-en/data/events_special_aea_acid.xml:378
+#: src-en/data/events_special_aea_acid.xml:377
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[@req=\"weapons\"]/text"
 msgstr "（Adv。Weapons）はい、そうです。"
 
-#: src-en/data/events_special_aea_acid.xml:380
+#: src-en/data/events_special_aea_acid.xml:379
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[@req=\"weapons\"]/event/text"
 msgstr "「私たちの意見は変わっていません。」酸性容器は攻撃位置に移動します。"
 
-#: src-en/data/events_special_aea_acid.xml:383
+#: src-en/data/events_special_aea_acid.xml:382
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[@req=\"weapons\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:389
+#: src-en/data/events_special_aea_acid.xml:388
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[2]/text"
 msgstr "それから私たちはただ私たちの道と戦うでしょう！"
 
-#: src-en/data/events_special_aea_acid.xml:391
+#: src-en/data/events_special_aea_acid.xml:390
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[2]/event/text"
 msgstr "コミュニケーションを沈黙させ、攻撃する準備をします。"
 
-#: src-en/data/events_special_aea_acid.xml:394
+#: src-en/data/events_special_aea_acid.xml:393
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:400
+#: src-en/data/events_special_aea_acid.xml:399
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[3]/text"
 msgstr "あなたは元の価格でしか善意しか持っていないと確信してください。"
 
-#: src-en/data/events_special_aea_acid.xml:402
+#: src-en/data/events_special_aea_acid.xml:401
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[3]/event/text"
 msgstr "酸性の成長はあなたの寄付を認識し、あなたが合格させることができます。"
 
-#: src-en/data/events_special_aea_acid.xml:413
+#: src-en/data/events_special_aea_acid.xml:412
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/text"
 msgstr "「許容可能な申し出。価格は引き下げられます。」"
 
-#: src-en/data/events_special_aea_acid.xml:415
+#: src-en/data/events_special_aea_acid.xml:414
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[1]/text"
 msgstr "新しい取引を拒否します。"
 
-#: src-en/data/events_special_aea_acid.xml:417
+#: src-en/data/events_special_aea_acid.xml:416
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[1]/event/text"
 msgstr "「残念なこと。」彼らの武器は船体から生まれています、あなたはあなたの歓迎を過大評価しているように見えます。"
 
-#: src-en/data/events_special_aea_acid.xml:420
+#: src-en/data/events_special_aea_acid.xml:419
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:426
+#: src-en/data/events_special_aea_acid.xml:425
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[2]/text"
 msgstr "新しい価格を支払います。"
 
-#: src-en/data/events_special_aea_acid.xml:428
+#: src-en/data/events_special_aea_acid.xml:427
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[2]/event/text"
 msgstr "酸性の成長はあなたの寄付を認識し、あなたが合格させることができます。"
 
-#: src-en/data/events_special_aea_acid.xml:443
+#: src-en/data/events_special_aea_acid.xml:442
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_DESTROY\"]/text"
 msgstr ""
 "あなたは酸性ガードを倒しました。彼らの貨物にあったかもしれないものは何でも確実に破壊されましたが、少なくとも船からいくつかの物資を救うことができます。"
 
-#: src-en/data/events_special_aea_acid.xml:446
+#: src-en/data/events_special_aea_acid.xml:445
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_DESTROY\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:451
+#: src-en/data/events_special_aea_acid.xml:450
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_DEADCREW\"]/text"
 msgstr ""
 "あなたは酸性ガードを倒しました。あなたを止めるために機内で酸性の成長がなければ、あなたは彼らの貨物を調査することができます。船に戻す武器を見つけ、船体を廃棄するために移動します。"
 
-#: src-en/data/events_special_aea_acid.xml:455
+#: src-en/data/events_special_aea_acid.xml:454
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_DEADCREW\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:468
+#: src-en/data/events_special_aea_acid.xml:467
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_FOLLOWUP\"]/text"
 msgstr ""
 "酸性の警備員を殺すことで、あなたは間違いなく彼らがあなたを追跡するために補強材を派遣させた。セクターを探索するときのステップをご覧ください。"
 
-#: src-en/data/events_special_aea_acid.xml:477
+#: src-en/data/events_special_aea_acid.xml:476
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_FOLLOWUP\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:481
+#: src-en/data/events_special_aea_acid.xml:480
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_FOLLOWUP\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:489
+#: src-en/data/events_special_aea_acid.xml:488
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:490
+#: src-en/data/events_special_aea_acid.xml:489
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/visitedTooltip"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:491
+#: src-en/data/events_special_aea_acid.xml:490
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/undiscoveredTooltip"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:493
+#: src-en/data/events_special_aea_acid.xml:492
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/text"
 msgstr "酸性の成長は、あなたのセクターへの友好的でないエントリーをうまく連れて行っておらず、それはあなたを止めるために特別に船を派遣したようです。"
 
-#: src-en/data/events_special_aea_acid.xml:497
+#: src-en/data/events_special_aea_acid.xml:496
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/choice/text"
 msgstr ""
 
+#: src-en/data/events_special_aea_acid.xml:504
+msgid ""
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/unvisitedTooltip"
+msgstr ""
+
 #: src-en/data/events_special_aea_acid.xml:505
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/unvisitedTooltip"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/visitedTooltip"
 msgstr ""
 
 #: src-en/data/events_special_aea_acid.xml:506
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/visitedTooltip"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/undiscoveredTooltip"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:507
+#: src-en/data/events_special_aea_acid.xml:508
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/undiscoveredTooltip"
-msgstr ""
-
-#: src-en/data/events_special_aea_acid.xml:509
-msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACIDHOME\"]/text"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACIDHOME\"]/text"
 msgstr "酸性の成長は、あなたのセクターへの友好的でないエントリーをうまく連れて行っておらず、それはあなたを止めるために特別に船を派遣したようです。"
 
-#: src-en/data/events_special_aea_acid.xml:515
+#: src-en/data/events_special_aea_acid.xml:513
 msgid ""
-"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_REINFORCEMENTS_AEA_ACIDHOME\"]/choice/text"
+"data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACIDHOME\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:558
+#: src-en/data/events_special_aea_acid.xml:556
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_LOOT\"]/escape/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:569
+#: src-en/data/events_special_aea_acid.xml:567
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:570
+#: src-en/data/events_special_aea_acid.xml:568
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/beaconType/visitedTooltip"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:571
+#: src-en/data/events_special_aea_acid.xml:569
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/beaconType/undiscoveredTooltip"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:574
+#: src-en/data/events_special_aea_acid.xml:572
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/text"
 msgstr ""
 "このビーコンは酸性輸送をホストしています。船が特別な技術を運んでいる可能性が最も高いことは安全です。船内の酸性の成長を殺すことができれば、貨物はあなたのものになります。"
 
-#: src-en/data/events_special_aea_acid.xml:577
+#: src-en/data/events_special_aea_acid.xml:575
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[1]/text"
 msgstr "商品の降伏を要求します。"
 
-#: src-en/data/events_special_aea_acid.xml:579
+#: src-en/data/events_special_aea_acid.xml:577
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[1]/event/text"
 msgstr "あなたは力で貨物を確保する準備をします。"
 
-#: src-en/data/events_special_aea_acid.xml:582
+#: src-en/data/events_special_aea_acid.xml:580
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:588
+#: src-en/data/events_special_aea_acid.xml:586
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:590
+#: src-en/data/events_special_aea_acid.xml:588
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[2]/event/text"
 msgstr "船は武器の範囲外にとどまり、最終的には跳ね上がります。"
 
-#: src-en/data/events_special_aea_acid.xml:592
+#: src-en/data/events_special_aea_acid.xml:590
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[2]/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:596
+#: src-en/data/events_special_aea_acid.xml:594
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[2]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:603
+#: src-en/data/events_special_aea_acid.xml:601
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_ACID\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:623
+#: src-en/data/events_special_aea_acid.xml:621
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[1]"
 msgstr "難破船が漂うにつれて、酸性の成長を正式に構成するガスの漂流雲を作ることができます。"
 
-#: src-en/data/events_special_aea_acid.xml:624
+#: src-en/data/events_special_aea_acid.xml:622
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[2]"
 msgstr "難破船がバラバラになると、酸性成長の散らばった断片が彼らの星雲に戻るのではないかと思います。"
 
-#: src-en/data/events_special_aea_acid.xml:625
+#: src-en/data/events_special_aea_acid.xml:623
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[3]"
 msgstr ""
 "宇宙船を構築するのに、無形のガスの雲がどれくらい時間がかかるか、酸性の成長が怒っている可能性があるのではないかと思いますが、おそらく今あなたに怒っているでしょう。"
 
-#: src-en/data/events_special_aea_acid.xml:626
+#: src-en/data/events_special_aea_acid.xml:624
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[4]"
 msgstr "別の酸性容器が破壊され、酸性の成長の別の部分が取り残されました。"
 
-#: src-en/data/events_special_aea_acid.xml:627
+#: src-en/data/events_special_aea_acid.xml:625
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[5]"
 msgstr "いつか酸性の成長は連邦との同盟を結ぶために手を伸ばすかもしれません。あなたが破壊したすべての船を忘れることを願っています。"
 
-#: src-en/data/events_special_aea_acid.xml:628
+#: src-en/data/events_special_aea_acid.xml:626
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[6]"
 msgstr "たとえ彼らが生きていたかもしれないし、そうでないかもしれないとしても、あなたはあなたが殺した人を気の毒に思わずにはいられません。"
 
-#: src-en/data/events_special_aea_acid.xml:631
+#: src-en/data/events_special_aea_acid.xml:629
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DESTROYED_AEA_ACID_ACIDGUN\"]/text"
 msgstr ""
 "驚いたことに、ネイティブに構築された酸性の武器の1つが爆発を生き延びました。爆発から少し鮮明ですが、いくつかの修理があればそれを救うことができます。"
 
-#: src-en/data/events_special_aea_acid.xml:649
+#: src-en/data/events_special_aea_acid.xml:647
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[1]"
 msgstr "酸性の成長は、あなたがここで犯した虐殺を知っているのではないかと思います。どちらにしても、この難破船はまだスクラップでいっぱいです。"
 
-#: src-en/data/events_special_aea_acid.xml:650
+#: src-en/data/events_special_aea_acid.xml:648
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[2]"
 msgstr "今、酸性成長の乗組員は船の周りに拡散した断片になり、廃棄します。"
 
-#: src-en/data/events_special_aea_acid.xml:651
+#: src-en/data/events_special_aea_acid.xml:649
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[3]"
 msgstr "あなたは十分な殺人の後、あなたは罪悪感に麻痺するだろうと思ったが、あなたはまだこれを経験していない。"
 
-#: src-en/data/events_special_aea_acid.xml:652
+#: src-en/data/events_special_aea_acid.xml:650
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[4]"
 msgstr "酸性船は乗組員を排除しています。あなたの道徳的な部分は、酸性兵士を殺すことは殺人としてカウントされないことを望んでいます。"
 
-#: src-en/data/events_special_aea_acid.xml:653
+#: src-en/data/events_special_aea_acid.xml:651
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[5]"
 msgstr "あなたは、この船の乗組員が、あなたが彼らの容器を何でも有用なものから剥奪するとき、痛みも恐れも感じないことを安心させます。"
 
-#: src-en/data/events_special_aea_acid.xml:656
+#: src-en/data/events_special_aea_acid.xml:654
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DEAD_CREW_AEA_ACID_ACIDGUN\"]/text"
 msgstr "現在、乗組員を空にして、船内にあるネイティブに構築された酸性の武器の1つが見つかります。船を廃棄する前に、あなたと一緒に戻します。"
 
-#: src-en/data/events_special_aea_acid.xml:665
+#: src-en/data/events_special_aea_acid.xml:663
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_ESCAPE_AEA_ACID\"]/text[1]"
 msgstr "酸性船はそのエンジンを駆動し、あなたから離れます。逃げようとしています！"
 
-#: src-en/data/events_special_aea_acid.xml:666
+#: src-en/data/events_special_aea_acid.xml:664
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_ESCAPE_AEA_ACID\"]/text[2]"
 msgstr "酸性船のエンジンパワーの高いスパイクを検出します。逃げようとしています。"
 
-#: src-en/data/events_special_aea_acid.xml:679
+#: src-en/data/events_special_aea_acid.xml:677
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_ACID\"]/text[1]"
 msgstr "酸性船が逃げます。正直に言うと、あなたは少し嬉しいです、うまくいけば、将来、酸性の成長もあなたを抹消しようとしないでしょう。"
 
-#: src-en/data/events_special_aea_acid.xml:680
+#: src-en/data/events_special_aea_acid.xml:678
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_ACID\"]/text[2]"
 msgstr "酸性の船が飛び降ります。あなたはその地域にいくつかの残留ガス雲を拾います、あなたはそこに酸性成長の断片があるのではないかと思います。"
 
-#: src-en/data/events_special_aea_acid.xml:681
+#: src-en/data/events_special_aea_acid.xml:679
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_ACID\"]/text[3]"
 msgstr "酸性船のエンジン電源がさらに高くなり、船が飛び降ります。"
 
-#: src-en/data/events_special_aea_acid.xml:684
+#: src-en/data/events_special_aea_acid.xml:682
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GOTAWAY_AEA_ACID_REMAINS\"]/text"
 msgstr "酸性の船が飛び降りると、壊れた船から残されたスクラップの跡があります。少なくともあなたはスクラップする何かを持っています。"
 
-#: src-en/data/events_special_aea_acid.xml:691
+#: src-en/data/events_special_aea_acid.xml:689
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"SURRENDER_AEA_ACID\"]/choice[1]/text"
 msgstr "降伏を受け入れます。"
 
-#: src-en/data/events_special_aea_acid.xml:695
+#: src-en/data/events_special_aea_acid.xml:693
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"SURRENDER_AEA_ACID\"]/choice[@req=\"aea_acid_soldier\"]/text"
 msgstr "（Acidic Soldier）別の取引を交渉します。"
 
-#: src-en/data/events_special_aea_acid.xml:707
+#: src-en/data/events_special_aea_acid.xml:705
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[1]"
 msgstr "単調な音声では、いくつかの物資と引き換えに発砲を停止することが要求されます。"
 
-#: src-en/data/events_special_aea_acid.xml:708
+#: src-en/data/events_special_aea_acid.xml:706
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[2]"
 msgstr "酸性船が降伏します。あなたがそれを生きさせれば、彼らはいくつかの物資を提供します。"
 
-#: src-en/data/events_special_aea_acid.xml:709
+#: src-en/data/events_special_aea_acid.xml:707
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[3]"
 msgstr "「申し出は満足のいくものです。受け入れてください。」"
 
-#: src-en/data/events_special_aea_acid.xml:710
+#: src-en/data/events_special_aea_acid.xml:708
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[4]"
 msgstr "「解雇をやめてください、あなたは報酬を受け取ります。」船が降伏しているようです。"
 
-#: src-en/data/events_special_aea_acid.xml:721
+#: src-en/data/events_special_aea_acid.xml:719
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"AEA_ACID_TEST_FIGHT\"]/text"
 msgstr "テスト。"
 
-#: src-en/data/events_special_aea_acid.xml:724
+#: src-en/data/events_special_aea_acid.xml:722
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"AEA_ACID_TEST_FIGHT\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:758
+#: src-en/data/events_special_aea_acid.xml:756
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/destroyed/text"
 msgstr "酸性船はバラバラになり、あなたはできることを救います。"
 
-#: src-en/data/events_special_aea_acid.xml:761
+#: src-en/data/events_special_aea_acid.xml:759
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/destroyed/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:763
+#: src-en/data/events_special_aea_acid.xml:761
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/destroyed/choice/event/text"
 msgstr ""
 "難民船は、これが酸性の成長に属する領土であることに気付かなかったと主張しています。善意のジェスチャーとして（そして、あなたが敵の船をどれだけ効果的に派遣したかを見る）、彼らは彼らが余裕を持って何を提供できるかを提供します。"
 
-#: src-en/data/events_special_aea_acid.xml:769
+#: src-en/data/events_special_aea_acid.xml:767
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/deadCrew/text"
 msgstr "現在、酸性成長を制御できない酸性船は、簡単な救助を提供します。"
 
-#: src-en/data/events_special_aea_acid.xml:772
+#: src-en/data/events_special_aea_acid.xml:770
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/deadCrew/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:774
+#: src-en/data/events_special_aea_acid.xml:772
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/deadCrew/choice/event/text"
 msgstr ""
 "難民船は、これが酸性の成長に属する領土であることに気付かなかったと主張しています。善意のジェスチャーとして（そして、あなたが敵の船をどれだけ効果的に派遣したかを見る）、彼らは彼らが余裕を持って何を提供できるかを提供します。"
 
-#: src-en/data/events_special_aea_acid.xml:793
+#: src-en/data/events_special_aea_acid.xml:791
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/text"
 msgstr "乗組員が死んで船を救い始めますが、奇妙な部屋に到着しても、それはある種の保育園のように見えます...それらのオーキッドの子供ですか？"
 
-#: src-en/data/events_special_aea_acid.xml:795
+#: src-en/data/events_special_aea_acid.xml:793
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/text"
 msgstr "それらをあなたと一緒に連れて行ってください。"
 
-#: src-en/data/events_special_aea_acid.xml:797
+#: src-en/data/events_special_aea_acid.xml:795
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/event/text"
 msgstr "サルベージ作業を終了する前に、ランの子供を貨物室に移します。"
 
-#: src-en/data/events_special_aea_acid.xml:801
+#: src-en/data/events_special_aea_acid.xml:799
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:807
+#: src-en/data/events_special_aea_acid.xml:805
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/text"
 msgstr "船を回収し、保育園を忘れてしまいます。"
 
-#: src-en/data/events_special_aea_acid.xml:809
+#: src-en/data/events_special_aea_acid.xml:807
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/event/text"
 msgstr "あなたは部屋を無視し、残りの容器を救います、それらの子供たちは元気ですよね？"
 
-#: src-en/data/events_special_aea_acid.xml:812
+#: src-en/data/events_special_aea_acid.xml:810
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:818
+#: src-en/data/events_special_aea_acid.xml:816
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[3]/text"
 msgstr "苦痛のビーコンをセットアップして出発します。"
 
-#: src-en/data/events_special_aea_acid.xml:820
+#: src-en/data/events_special_aea_acid.xml:818
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[3]/event/text"
 msgstr "あなたは難破船に苦痛のビーコンをセットアップし、できるだけ早く去る前にあなたの存在の証拠を削除しようとします。"
 
-#: src-en/data/events_special_aea_acid.xml:823
+#: src-en/data/events_special_aea_acid.xml:821
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[3]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:832
+#: src-en/data/events_special_aea_acid.xml:830
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DEFEAT_AEA_ACID_ELITE\"]/text"
 msgstr "あなたはまだ酸性兵士を殺すことは殺人としてカウントされるかどうかはまだわかりません。"
 
-#: src-en/data/events_special_aea_acid.xml:835
+#: src-en/data/events_special_aea_acid.xml:833
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DEFEAT_AEA_ACID_ELITE\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:837
+#: src-en/data/events_special_aea_acid.xml:835
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DEFEAT_AEA_ACID_ELITE\"]/choice/event/text"
 msgstr "エリート酸性船の貨物が戦いを生き延びたようです。内部には機能的な武器があり、これを搭載しています。"
 
-#: src-en/data/events_special_aea_acid.xml:870
+#: src-en/data/events_special_aea_acid.xml:868
 msgid "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC\"]/text"
 msgstr "テスト。"
 
-#: src-en/data/events_special_aea_acid.xml:872
+#: src-en/data/events_special_aea_acid.xml:870
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:879
+#: src-en/data/events_special_aea_acid.xml:877
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/destroyed/text"
 msgstr "あなたは酸性の成長を打ち負かし、造船所は保護されていません。"
 
-#: src-en/data/events_special_aea_acid.xml:882
+#: src-en/data/events_special_aea_acid.xml:880
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/destroyed/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:884
+#: src-en/data/events_special_aea_acid.xml:882
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/destroyed/choice/event/text"
 msgstr ""
 "造船所が無防備になったので、あなたは有用なものを略奪することができます、あなたはあなたの酸素システム用の酸性のアップグレードパッケージを見つけることができます。"
 
-#: src-en/data/events_special_aea_acid.xml:890
+#: src-en/data/events_special_aea_acid.xml:888
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/deadCrew/text"
 msgstr "あなたは酸性の成長を打ち負かし、造船所は保護されていません。"
 
-#: src-en/data/events_special_aea_acid.xml:893
+#: src-en/data/events_special_aea_acid.xml:891
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/deadCrew/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:895
+#: src-en/data/events_special_aea_acid.xml:893
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/deadCrew/choice/event/text"
 msgstr ""
 "造船所が無防備になったので、あなたは有用なものを略奪することができます、あなたはあなたの酸素システム用の酸性のアップグレードパッケージを見つけることができます。"
 
-#: src-en/data/events_special_aea_acid.xml:904
+#: src-en/data/events_special_aea_acid.xml:902
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/destroyed/text"
 msgstr ""
 "酸性の船は敗北し、弱体化したスラッグの容器に連絡します。「あなたはssseee」と彼らは始めます、「私たちは最も感謝していますが、それは、現時点であなたに報いるための液体の問題を持っていません。」"
 
-#: src-en/data/events_special_aea_acid.xml:907
+#: src-en/data/events_special_aea_acid.xml:905
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/destroyed/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:909
+#: src-en/data/events_special_aea_acid.xml:907
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/destroyed/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:913
+#: src-en/data/events_special_aea_acid.xml:911
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/destroyed/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:918
+#: src-en/data/events_special_aea_acid.xml:916
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/text"
 msgstr ""
 "酸性の船は敗北し、弱体化したスラッグの容器に連絡します。「あなたはssseee」と彼らは始めます、「私たちは最も感謝していますが、それは、この時点であなたに報酬を与えるための液体の問題を持っていません。」"
 
-#: src-en/data/events_special_aea_acid.xml:921
+#: src-en/data/events_special_aea_acid.xml:919
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:923
+#: src-en/data/events_special_aea_acid.xml:921
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:927
+#: src-en/data/events_special_aea_acid.xml:925
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:935
+#: src-en/data/events_special_aea_acid.xml:933
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC_SLUG\"]/destroyed/text"
 msgstr "ついにスラッグの貴重な所有物はあなたのものです。その後、つまり、あなたは酸性の容器であなたのテイクを分割します。"
 
-#: src-en/data/events_special_aea_acid.xml:939
+#: src-en/data/events_special_aea_acid.xml:937
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC_SLUG\"]/deadCrew/text"
 msgstr "ついにスラッグの貴重な所有物はあなたのものです。その後、つまり、あなたは酸性の容器であなたのテイクを分割します。"
 
-#: src-en/data/events_special_aea_acid.xml:947
+#: src-en/data/events_special_aea_acid.xml:945
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ASTEROIDS\"]/destroyed/text"
 msgstr "Asteriodsが破壊されたことで、エンジンを反応させ、慎重に難破船に向かい、救助を開始できます。"
 
-#: src-en/data/events_special_aea_acid.xml:953
+#: src-en/data/events_special_aea_acid.xml:951
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ASTEROIDS\"]/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "小惑星は、この時間内に攻撃すると予想されます。タイマーが0に達する前に必ず破壊してください！"
 
-#: src-en/data/events_special_aea_acid.xml:960
+#: src-en/data/events_special_aea_acid.xml:958
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"AEA_ACID_ASTEROID_APPROACHING_FAIL\"]/text"
 msgstr "あなたは時間内に小惑星を止めることができませんでした。彼らはあなたの船に衝突し、あらゆる方向に残骸を送ります。"
 
-#: src-en/data/events_special_aea_acid.xml:971
+#: src-en/data/events_special_aea_acid.xml:969
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ORCHID_ONLY\"]/destroyed/text"
 msgstr "オーキッドが破壊され、船のできることを救うために移動します。"
 
-#: src-en/data/events_special_aea_acid.xml:975
+#: src-en/data/events_special_aea_acid.xml:973
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ORCHID_ONLY\"]/deadCrew/text"
 msgstr "オーキッドが殺され、酸性の成長が復avenされたので、あなたは船からできるものを救うために移動します。"
 
-#: src-en/data/events_special_aea_acid.xml:988
+#: src-en/data/events_special_aea_acid.xml:986
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_SHIELDS\"]/destroyed/text"
 msgstr "酸性船はバラバラになり、シールドは通常に戻ります。あなたはできることを収集します。"
 
-#: src-en/data/events_special_aea_acid.xml:993
+#: src-en/data/events_special_aea_acid.xml:991
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_SHIELDS\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1000
+#: src-en/data/events_special_aea_acid.xml:998
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_OXYGEN\"]/destroyed/text"
 msgstr "酸性船はバラバラになり、酸素は正常に戻ります。あなたはできることを収集します。"
 
-#: src-en/data/events_special_aea_acid.xml:1005
+#: src-en/data/events_special_aea_acid.xml:1003
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_OXYGEN\"]/deadCrew/text"
 msgstr "彼らの乗組員が死んだとき、あなたは彼らのハッキングモジュールをすぐに締め出し、あなたの酸素は正常に戻ります。あなたは船を剥がします。"
 
-#: src-en/data/events_special_aea_acid.xml:1012
+#: src-en/data/events_special_aea_acid.xml:1010
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_WEAPONS\"]/destroyed/text"
 msgstr "酸性船はバラバラになり、武器システムが通常に戻ります。あなたはできることを収集します。"
 
-#: src-en/data/events_special_aea_acid.xml:1017
+#: src-en/data/events_special_aea_acid.xml:1015
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_WEAPONS\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1024
+#: src-en/data/events_special_aea_acid.xml:1022
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_HACKING\"]/destroyed/text"
 msgstr "酸性船はバラバラになり、ハッキングモジュールが破壊されます。あなたはできることを収集します。"
 
-#: src-en/data/events_special_aea_acid.xml:1029
+#: src-en/data/events_special_aea_acid.xml:1027
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_HACKING\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1037
+#: src-en/data/events_special_aea_acid.xml:1035
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/text"
 msgstr "あなたはエリート酸性容器を倒しました。しかし、あなたがそれを廃棄しようとしている間、あなたは看守が逃げようとしていることに気づきます！"
 
-#: src-en/data/events_special_aea_acid.xml:1039
+#: src-en/data/events_special_aea_acid.xml:1037
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[1]/text"
 msgstr "それらを行かせて、船を廃棄し終えます。"
 
-#: src-en/data/events_special_aea_acid.xml:1041
+#: src-en/data/events_special_aea_acid.xml:1039
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[1]/event/text"
 msgstr "看守の船を雲の中に消し、救助任務を続けます。"
 
-#: src-en/data/events_special_aea_acid.xml:1046
+#: src-en/data/events_special_aea_acid.xml:1044
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/text"
 msgstr "残骸を放棄し、看守を追いかけます。"
 
-#: src-en/data/events_special_aea_acid.xml:1048
+#: src-en/data/events_special_aea_acid.xml:1046
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/event/text"
 msgstr "あなたは、彼らが最終的にあきらめて降伏するまで、星雲を通して看守を追いかけます。"
 
-#: src-en/data/events_special_aea_acid.xml:1050
+#: src-en/data/events_special_aea_acid.xml:1048
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/event/choice/text"
 msgstr "囚人を解放します。"
 
-#: src-en/data/events_special_aea_acid.xml:1052
+#: src-en/data/events_special_aea_acid.xml:1050
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/event/choice/event/text"
 msgstr "彼らは乗船している囚人が一人しかいないようです。スラッグの妨害者、彼らは感謝しています。"
 
-#: src-en/data/events_special_aea_acid.xml:1060
+#: src-en/data/events_special_aea_acid.xml:1058
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/text"
 msgstr "あなたはエリート酸性容器を倒しました。しかし、あなたがそれを廃棄しようとしている間、あなたは看守が逃げようとしていることに気づきます！"
 
-#: src-en/data/events_special_aea_acid.xml:1062
+#: src-en/data/events_special_aea_acid.xml:1060
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[1]/text"
 msgstr "それらを行かせて、船を廃棄し終えます。"
 
-#: src-en/data/events_special_aea_acid.xml:1064
+#: src-en/data/events_special_aea_acid.xml:1062
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[1]/event/text"
 msgstr "看守の船を雲の中に消し、救助任務を続けます。"
 
-#: src-en/data/events_special_aea_acid.xml:1069
+#: src-en/data/events_special_aea_acid.xml:1067
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/text"
 msgstr "残骸を放棄し、看守を追いかけます。"
 
-#: src-en/data/events_special_aea_acid.xml:1071
+#: src-en/data/events_special_aea_acid.xml:1069
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/event/text"
 msgstr "あなたは、彼らが最終的にあきらめて降伏するまで、星雲を通して看守を追いかけます。"
 
-#: src-en/data/events_special_aea_acid.xml:1073
+#: src-en/data/events_special_aea_acid.xml:1071
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/event/choice/text"
 msgstr "囚人を解放します。"
 
-#: src-en/data/events_special_aea_acid.xml:1075
+#: src-en/data/events_special_aea_acid.xml:1073
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/event/choice/event/text"
 msgstr "彼らは乗船している囚人が一人しかいないようです。スラッグの妨害者、彼らは感謝しています。"
 
-#: src-en/data/events_special_aea_acid.xml:1087
+#: src-en/data/events_special_aea_acid.xml:1085
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/gotaway/text"
 msgstr "反政府勢力は飛び去ります。彼らは間違いなくあなたの立場を残りの反乱に伝えます。"
 
-#: src-en/data/events_special_aea_acid.xml:1091
+#: src-en/data/events_special_aea_acid.xml:1089
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/destroyed/text"
 msgstr "反政府勢力は敗北しました、それはあなたが彼らの変装を通して単純な民間人の船として見た良いことです、あるいはあなたはただの怪物です。"
 
-#: src-en/data/events_special_aea_acid.xml:1094
+#: src-en/data/events_special_aea_acid.xml:1092
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/destroyed/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1099
+#: src-en/data/events_special_aea_acid.xml:1097
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/deadCrew/text"
 msgstr "反政府勢力は敗北しました、それはあなたが彼らの変装を通して単純な民間人の船として見た良いことです、あるいはあなたはただの怪物です。"
 
-#: src-en/data/events_special_aea_acid.xml:1102
+#: src-en/data/events_special_aea_acid.xml:1100
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/deadCrew/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1120
+#: src-en/data/events_special_aea_acid.xml:1118
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/text"
 msgstr "酸性船がバラバラになる準備ができているように見えると、スラッグの船が戦利品を確保し、飛び去る準備をしていることに気付きます！"
 
-#: src-en/data/events_special_aea_acid.xml:1122
+#: src-en/data/events_special_aea_acid.xml:1120
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[1]/text"
 msgstr "酸性船と戦い続けます。"
 
-#: src-en/data/events_special_aea_acid.xml:1124
+#: src-en/data/events_special_aea_acid.xml:1122
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[1]/event/text"
 msgstr ""
 "これを終えるのが最善です - しかし、あなたは、酸性の容器が運んでいるものが、スラッグが忍び寄るものと同じくらい価値があるかどうか疑問に思います。"
 
-#: src-en/data/events_special_aea_acid.xml:1128
+#: src-en/data/events_special_aea_acid.xml:1126
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[2]/text"
 msgstr "酸性の船を逃げて、スラッグの船を追いかけましょう。"
 
-#: src-en/data/events_special_aea_acid.xml:1130
+#: src-en/data/events_special_aea_acid.xml:1128
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[2]/event/text"
 msgstr ""
 "酸性容器はあなたを追いかけるのにひどく損傷し、あなたはジャンプする前にスラッグに追いつきます。「ああ、Courssseの、合意されたSsspoilsを提供せずに去ることはありません。」彼らは利益のまともな塊の上に移動し、出発します。"
 
-#: src-en/data/events_special_aea_acid.xml:1138
+#: src-en/data/events_special_aea_acid.xml:1136
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/destroyed/text"
 msgstr ""
 "酸性の容器が敗北したため、あなたはあなたが有用なもののために破片をスキャンします。スラッグ船は長くなくなっており、キャッシュから台無しになります。"
 
-#: src-en/data/events_special_aea_acid.xml:1142
+#: src-en/data/events_special_aea_acid.xml:1140
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/deadCrew/text"
 msgstr ""
 "酸性の容器が敗北したため、あなたはあなたが有用なもののために破片をスキャンします。スラッグ船は長くなくなっており、キャッシュから台無しになります。"
 
-#: src-en/data/events_special_aea_acid.xml:1149
+#: src-en/data/events_special_aea_acid.xml:1147
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP2\"]/destroyed/text"
 msgstr "酸性の容器が世話をしていると、保護していたキャッシュを再度検索しますが、雲で失われます。武装した船からの救助で自分自身を慰めます。"
 
-#: src-en/data/events_special_aea_acid.xml:1153
+#: src-en/data/events_special_aea_acid.xml:1151
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP2\"]/deadCrew/text"
 msgstr "酸性容器が敗北したため、保護していたキャッシュを再度検索しますが、雲で失われます。武装した船からの救助で自分自身を慰めます。"
 
-#: src-en/data/events_special_aea_acid.xml:1160
+#: src-en/data/events_special_aea_acid.xml:1158
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/text"
 msgstr "「この戦いはそれだけの価値はありません。解毒剤を平和の貿易として受け止めてください。」"
 
-#: src-en/data/events_special_aea_acid.xml:1162
+#: src-en/data/events_special_aea_acid.xml:1160
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1164
+#: src-en/data/events_special_aea_acid.xml:1162
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/choice[1]/event/text"
 msgstr ""
 "酸性容器は解毒剤の上に移動し、すぐに飛び去ります。あなたはそれを乗組員に注入することをためらっていますが、選択肢はありません。幸いなことに、彼らはすでに良くなっているようです。"
 
-#: src-en/data/events_special_aea_acid.xml:1171
+#: src-en/data/events_special_aea_acid.xml:1169
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/choice[2]/text"
 msgstr "降伏するには遅すぎます。"
 
-#: src-en/data/events_special_aea_acid.xml:1176
+#: src-en/data/events_special_aea_acid.xml:1174
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/destroyed/text"
 msgstr "あなたは酸性船を破壊しましたが、今では解毒剤を取り戻す方法はありません。あなたの乗組員は運命づけられているようです。"
 
-#: src-en/data/events_special_aea_acid.xml:1180
+#: src-en/data/events_special_aea_acid.xml:1178
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/deadCrew/text"
 msgstr "あなたは酸性の船を中和し、すべての乗組員からそれを空にしました。"
 
-#: src-en/data/events_special_aea_acid.xml:1183
+#: src-en/data/events_special_aea_acid.xml:1181
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/deadCrew/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1185
+#: src-en/data/events_special_aea_acid.xml:1183
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/deadCrew/choice/event/text"
 msgstr "幸いなことに、彼らの船内ラボは戦いで破損していなかったようです。解毒剤をつかみ、乗組員に管理します。"
 
-#: src-en/data/events_special_aea_acid.xml:1194
+#: src-en/data/events_special_aea_acid.xml:1192
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_MEET\"]/destroyed/text"
 msgstr "酸性船と戦いの開始時に破壊された奇妙な船の両方の遺跡を略奪しているので、あなたは酸性船を破壊しました。"
 
-#: src-en/data/events_special_aea_acid.xml:1197
+#: src-en/data/events_special_aea_acid.xml:1195
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_MEET\"]/destroyed/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1202
+#: src-en/data/events_special_aea_acid.xml:1200
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_MEET\"]/deadCrew/text"
 msgstr ""
 "あなたは酸性の船を中和し、すべての乗組員からそれを空にしました。酸性容器と奇妙な船の両方の遺体を略奪していると、戦いの開始時に破壊された奇妙な船の両方が破壊されていると、難破船で生きている酸性の兵士が発見されます。"
 
-#: src-en/data/events_special_aea_acid.xml:1205
+#: src-en/data/events_special_aea_acid.xml:1203
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_MEET\"]/deadCrew/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1213
+#: src-en/data/events_special_aea_acid.xml:1211
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/destroyed/text"
 msgstr ""
 "敗北によって生み出された巨大な難破船を探しているので、あなたは巨大な酸性容器を破壊しました。それは無傷のデータバンクを見つけ、その上で船の概略図を見つけます。"
 
-#: src-en/data/events_special_aea_acid.xml:1217
+#: src-en/data/events_special_aea_acid.xml:1215
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/destroyed/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1222
+#: src-en/data/events_special_aea_acid.xml:1220
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/deadCrew/text"
 msgstr ""
 "敗北によって生み出された巨大な死体を探しているので、あなたはその敗北によって生み出された巨大な死体を探しているので、あなたはその乗組員の巨大な酸性容器をきれいにしました。"
 
-#: src-en/data/events_special_aea_acid.xml:1227
+#: src-en/data/events_special_aea_acid.xml:1225
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/deadCrew/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1236
+#: src-en/data/events_special_aea_acid.xml:1234
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/escape/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1240
+#: src-en/data/events_special_aea_acid.xml:1238
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/destroyed/text"
 msgstr "あなたは輸送を破壊し、それがそれが運んでいた重要な戦利品のいずれかを破壊しました。"
 
-#: src-en/data/events_special_aea_acid.xml:1243
+#: src-en/data/events_special_aea_acid.xml:1241
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/destroyed/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1248
+#: src-en/data/events_special_aea_acid.xml:1246
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/text"
 msgstr ""
 "乗組員は死んでおり、船を残しています。その貨物はあなたのものです。乗船は珍しいバレルです。おそらく、樽のない武器を持っていれば、それは役に立つでしょう。"
 
-#: src-en/data/events_special_aea_acid.xml:1251
+#: src-en/data/events_special_aea_acid.xml:1249
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/text"
 msgstr "造船所からバレルを武器に取り付けます。"
 
-#: src-en/data/events_special_aea_acid.xml:1254
+#: src-en/data/events_special_aea_acid.xml:1252
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/event/text"
 msgstr "バレルを入力すると、残りの武器とシームレスに結合します。"
 
-#: src-en/data/events_special_aea_acid.xml:1256
+#: src-en/data/events_special_aea_acid.xml:1254
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1258
+#: src-en/data/events_special_aea_acid.xml:1256
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr "武器は現在完全に動作しています。"
 
-#: src-en/data/events_special_aea_acid.xml:1262
+#: src-en/data/events_special_aea_acid.xml:1260
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_special_aea_acid.xml:1270
+#: src-en/data/events_special_aea_acid.xml:1268
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"0\"]/text"

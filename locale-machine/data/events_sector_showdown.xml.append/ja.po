@@ -47,74 +47,226 @@ msgid ""
 "append:choice[7]/text"
 msgstr "これについてKing Onyxに聞いてください。"
 
-#: src-en/data/events_sector_showdown.xml.append:34
+#: src-en/data/events_sector_showdown.xml.append:32
+msgid ""
+"data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
+"append:choice[8]/text"
+msgstr "これについてaToning unifexに尋ねてください。"
+
+#: src-en/data/events_sector_showdown.xml.append:36
+msgid ""
+"data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
+"append:choice[9]/text"
+msgstr "これについて漸近的な本質を尋ねてください。"
+
+#: src-en/data/events_sector_showdown.xml.append:40
+msgid ""
+"data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
+"append:choice[10]/text"
+msgstr "これについてeupathicの衝動を尋ねてください。"
+
+#: src-en/data/events_sector_showdown.xml.append:44
+msgid ""
+"data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
+"append:choice[11]/text"
+msgstr "これについて相同様な傾向を尋ねてください。"
+
+#: src-en/data/events_sector_showdown.xml.append:48
+msgid ""
+"data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
+"append:choice[12]/text"
+msgstr "これについてノイックな一致を尋ねてください。"
+
+#: src-en/data/events_sector_showdown.xml.append:54
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_BILL\"]/text"
 msgstr "「ご存知のように、私はこれの始まりに何があったのか分かりませんでした。私はまだ素朴で無知でした。"
 
-#: src-en/data/events_sector_showdown.xml.append:37
+#: src-en/data/events_sector_showdown.xml.append:55
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_BILL\"]/text-"
+"aea-alternative"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:58
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_BILL\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:42
+#: src-en/data/events_sector_showdown.xml.append:63
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_KING\"]/text"
 msgstr "「これには、数十万のオーガニックの生活を終わらせる可能性があります。それを使用する必要があります。」"
 
-#: src-en/data/events_sector_showdown.xml.append:45
+#: src-en/data/events_sector_showdown.xml.append:64
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_KING\"]/text-"
+"aea-alternative"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:67
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_KING\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:50
+#: src-en/data/events_sector_showdown.xml.append:72
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_TINY\"]/text"
 msgstr "タイニーはあなたを見ているだけです、あなたはそれがパラゴンが何であるかさえ知っているかどうか疑問に思います。"
 
-#: src-en/data/events_sector_showdown.xml.append:53
+#: src-en/data/events_sector_showdown.xml.append:73
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_TINY\"]/text-"
+"aea-alternative"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:76
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_TINY\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:58
+#: src-en/data/events_sector_showdown.xml.append:81
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_JAY\"]/text"
 msgstr ""
 "「まあ、もしあなたが爆弾を爆発させることにならないなら、私はそれを少なくともそれを分解しようとすることができますか？私はそれがどのように機能するか知りたいです。」"
 
-#: src-en/data/events_sector_showdown.xml.append:61
+#: src-en/data/events_sector_showdown.xml.append:82
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_JAY\"]/text-"
+"aea-alternative"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:85
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_JAY\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:66
+#: src-en/data/events_sector_showdown.xml.append:90
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SICKLE\"]/text"
 msgstr "「それをして、それは本当にクールだろう。」"
 
-#: src-en/data/events_sector_showdown.xml.append:69
+#: src-en/data/events_sector_showdown.xml.append:91
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SICKLE\"]/text-"
+"aea-alternative"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:94
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SICKLE\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:74
+#: src-en/data/events_sector_showdown.xml.append:99
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SORROW\"]/text"
 msgstr "「それをして、それは本当にクールだろう。」"
 
-#: src-en/data/events_sector_showdown.xml.append:77
+#: src-en/data/events_sector_showdown.xml.append:100
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SORROW\"]/text-"
+"aea-alternative"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:103
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SORROW\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_showdown.xml.append:82
+#: src-en/data/events_sector_showdown.xml.append:108
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_ONYX\"]/text"
 msgstr ""
 "「個人的には、シャードが焦げているのを見るために生きたいと思っています。ドーンシャードがなければ、私たちが持っているバランスが粉砕される可能性があるのではないかと心配しています。」"
 
-#: src-en/data/events_sector_showdown.xml.append:85
+#: src-en/data/events_sector_showdown.xml.append:109
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_ONYX\"]/text-"
+"aea-alternative"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:112
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_ONYX\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:118
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_1\"]/text"
+msgstr "「これは確かに冒険でした。私のことを心配しないでください。この体が死んだとき、私はリルミックの空間で体に戻ります。」"
+
+#: src-en/data/events_sector_showdown.xml.append:119
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_1\"]/text-"
+"aea-alternative"
+msgstr "「これは確かに冒険でした。私のことを心配しないでください。この体が死んだとき、私はリルミックの空間で体に戻ります。」"
+
+#: src-en/data/events_sector_showdown.xml.append:122
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:127
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_2\"]/text"
+msgstr "「これは確かに冒険でした。私のことを心配しないでください。この体が死んだとき、私はリルミックの空間で体に戻ります。」"
+
+#: src-en/data/events_sector_showdown.xml.append:128
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_2\"]/text-"
+"aea-alternative"
+msgstr "「これは確かに冒険でした。私のことを心配しないでください。この体が死んだとき、私はリルミックの空間で体に戻ります。」"
+
+#: src-en/data/events_sector_showdown.xml.append:131
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:136
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_3\"]/text"
+msgstr "「これは確かに冒険でした。私のことを心配しないでください。この体が死んだとき、私はリルミックの空間で体に戻ります。」"
+
+#: src-en/data/events_sector_showdown.xml.append:137
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_3\"]/text-"
+"aea-alternative"
+msgstr "「これは確かに冒険でした。私のことを心配しないでください。この体が死んだとき、私はリルミックの空間で体に戻ります。」"
+
+#: src-en/data/events_sector_showdown.xml.append:140
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_3\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:145
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_4\"]/text"
+msgstr "「これは確かに冒険でした。私のことを心配しないでください。この体が死んだとき、私はリルミックの空間で体に戻ります。」"
+
+#: src-en/data/events_sector_showdown.xml.append:146
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_4\"]/text-"
+"aea-alternative"
+msgstr "「これは確かに冒険でした。私のことを心配しないでください。この体が死んだとき、私はリルミックの空間で体に戻ります。」"
+
+#: src-en/data/events_sector_showdown.xml.append:149
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_4\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:154
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_5\"]/text"
+msgstr "「これは確かに冒険でした。私のことを心配しないでください。この体が死んだとき、私はリルミックの空間で体に戻ります。」"
+
+#: src-en/data/events_sector_showdown.xml.append:155
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_5\"]/text-"
+"aea-alternative"
+msgstr "「これは確かに冒険でした。私のことを心配しないでください。この体が死んだとき、私はリルミックの空間で体に戻ります。」"
+
+#: src-en/data/events_sector_showdown.xml.append:158
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_5\"]/choice/text"
 msgstr ""

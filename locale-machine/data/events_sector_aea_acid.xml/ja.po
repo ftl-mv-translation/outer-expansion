@@ -2810,40 +2810,40 @@ msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2305
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/text"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/text"
 msgstr ""
 "ここの苦痛のビーコンは、星雲の清算を通して放送されているようです。それに続いて、あなたは深byを漂う不正な惑星に出くわします。スキャンは、表面に何かがクラッシュしたことを示しています。"
 
 #: src-en/data/events_sector_aea_acid.xml:2309
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
 " and @lvl=\"0\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2313
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"loc_found_aea_acid_factory\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2317
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/text"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/text"
 msgstr "難破船を無視します。"
 
 #: src-en/data/events_sector_aea_acid.xml:2319
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/text"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/text"
 msgstr "ここ星雲では残骸は珍しくありません。時間の価値はありません。"
 
 #: src-en/data/events_sector_aea_acid.xml:2321
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[1]/text"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[1]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2325
 msgid ""
-"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[2]/text"
+"data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/choice[2]/text"
 msgstr ""
 
 #: src-en/data/events_sector_aea_acid.xml:2334
