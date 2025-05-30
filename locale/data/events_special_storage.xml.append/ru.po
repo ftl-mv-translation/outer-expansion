@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-05-31 05:53+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_special_storagexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -4258,10 +4266,9 @@ msgstr ""
 "\t[Предупреждение: После ее добавления вы больше не сможете применять основные модификации к экипажу расы кислотных. Вы также не сможете деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:3258
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_COOLING\"]/choice[1]/text"
-msgstr "Добавить модификацию. [ Цена: 35~, 4{]]."
+msgstr "Добавить модификацию. [ Цена: 20~ 3{]"
 
 #: src-en/data/events_special_storage.xml.append:3260
 msgid ""
@@ -4383,10 +4390,9 @@ msgstr ""
 "\t[Предупреждение: После ее добавления вы больше не сможете применять основные модификации к экипажу расы кислотных. Вы также не сможете деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:3372
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_AUTODESTROY\"]/choice[1]/text"
-msgstr "Добавить модификацию. [ Цена: 35~, 4{]]."
+msgstr "Добавить модификацию. [ Цена: 15~ 3|]"
 
 #: src-en/data/events_special_storage.xml.append:3374
 msgid ""
@@ -4413,10 +4419,9 @@ msgstr ""
 "\t[Предупреждение: После ее добавления вы больше не сможете применять основные модификации к экипажу расы кислотных. Вы также не сможете деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:3403
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_SOCIAL\"]/choice[1]/text"
-msgstr "Добавить модификацию. [ Цена: 35~, 4{]]."
+msgstr "Добавить модификацию. [ Цена: 20~ 3{]"
 
 #: src-en/data/events_special_storage.xml.append:3405
 msgid ""
@@ -4567,10 +4572,9 @@ msgstr ""
 "\t[Предупреждение: После ее добавления вы больше не сможете применять основные модификации к экипажу расы лилмиков. Вы также не сможете деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:3550
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_ELITE\"]/choice[1]/text"
-msgstr "Добавить модификацию. [ Цена: 35~, 4{]]."
+msgstr "Добавить модификацию. [ Цена: 15~ 6}]"
 
 #: src-en/data/events_special_storage.xml.append:3552
 msgid ""
