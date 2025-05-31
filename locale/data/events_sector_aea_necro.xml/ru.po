@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-05-31 05:57+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_sector_aea_necroxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_aea_necro.xml:28
 msgid ""
@@ -147,8 +155,8 @@ msgid ""
 "data/events_sector_aea_necro.xml$//eventList[@name=\"DEFUNCT_AEA_NECRO_SALVAGE\"]/event[1]/text"
 msgstr ""
 "Корабль, оставшийся практически неповрежденным, представляет собой выгодную "
-"добычу в виде лома и ресурсов. Вы тащите добычу на свой корабль, не встречая"
-" абсолютно никакого сопротивления."
+"добычу в виде лома и ресурсов. Вы тащите добычу на свой корабль, не встречая "
+"абсолютно никакого сопротивления."
 
 #: src-en/data/events_sector_aea_necro.xml:135
 msgid ""
@@ -977,9 +985,9 @@ msgstr "(Член экипажа-ракушка-телепат) Попытать
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/text"
 msgstr ""
-"Ваша ракушка пытается почувствовать какую-либо разумную форму жизни на борту"
-" вражеского корабля. Она обнаруживает слабые признаки потенциальной жизни, "
-"но не может сказать наверняка."
+"Ваша ракушка пытается почувствовать какую-либо разумную форму жизни на борту "
+"вражеского корабля. Она обнаруживает слабые признаки потенциальной жизни, но "
+"не может сказать наверняка."
 
 #: src-en/data/events_sector_aea_necro.xml:682
 msgid ""
@@ -1149,8 +1157,7 @@ msgstr "Помочь Еретику."
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"DISTRESS_AEA_NECRO_PIRATE\"]/choice[1]/event/text"
 msgstr ""
-"Вы приближаетесь к захваченному судну. \"Рад слышать. Не уничтожайте "
-"[его]\"."
+"Вы приближаетесь к захваченному судну. \"Рад слышать. Не уничтожайте [его]\"."
 
 #: src-en/data/events_sector_aea_necro.xml:811
 msgid ""
@@ -1536,8 +1543,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[2]"
 msgstr ""
-"Вас вызывает на связь странно многословный энджи. \"Неудачное время встречи,"
-" корабль Федерации. Похоже, я повредил ту часть своей системы, которая "
+"Вас вызывает на связь странно многословный энджи. \"Неудачное время встречи, "
+"корабль Федерации. Похоже, я повредил ту часть своей системы, которая "
 "кодирует разум и логику, и теперь испытываю жгучее желание убивать\"."
 
 #: src-en/data/events_sector_aea_necro.xml:1102
@@ -1545,8 +1552,8 @@ msgid ""
 "data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[3]"
 msgstr ""
 "Вас вызывает на связь разъяренный Сепаратист. \"Проблема: Ты случайно "
-"наступил на моего давнего друга в микроскопическом состоянии. Решение: "
-"умри\"."
+"наступил на моего давнего друга в микроскопическом состоянии. Решение: умри\""
+"."
 
 #: src-en/data/events_sector_aea_necro.xml:1103
 msgid ""
@@ -1605,8 +1612,7 @@ msgid ""
 msgstr ""
 "Сепаратисты издали что-то похожее на роботизированный смех. \"Хорошо, я "
 "понимаю, почему другие получают большое удовольствие от наблюдения за боем "
-"гладиаторов\". Они прыгают, оставляя вас с обломками автоматического "
-"корабля."
+"гладиаторов\". Они прыгают, оставляя вас с обломками автоматического корабля."
 
 #: src-en/data/events_sector_aea_necro.xml:1131
 msgid ""
