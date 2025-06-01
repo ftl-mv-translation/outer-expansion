@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-31 05:58+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-06-01 15:09+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -1273,12 +1273,12 @@ msgstr "Улучшить Клон-отсек. [ТЕХНОЛОГИЯ НЕАКТИ
 #: src-en/data/events_special_storage.xml.append:1049
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_clonebay\"]/text"
-msgstr "Улучшить маскировку. [Цена: 120~, Высокотехнологичный компонент]"
+msgstr "Улучшить клонотсек. [Цена: 120~, Высокотехнологичный компонент]"
 
 #: src-en/data/events_special_storage.xml.append:1055
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_reactor_upgrades\"]/text"
-msgstr "Улучшить реактор. [НЕТ СИСТЕМЫ]"
+msgstr "Улучшить реактор. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:1059
 msgid ""
@@ -1652,7 +1652,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/text"
 msgstr ""
-"Вы собираетесь установить улучшение системы щитов.\n"
+"Вы собираетесь установить улучшение системы клонотсек.\n"
 "\t[Эффекты: Улучшает клонотсек сверх максимального уровня, нельзя улучшить "
 "больше одного раза, нельзя повысить уровень выше 4]"
 
