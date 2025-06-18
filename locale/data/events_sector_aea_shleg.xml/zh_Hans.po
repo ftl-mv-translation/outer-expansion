@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 15:26+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-outer-expansion/dataevents_sector_aea_shlegxml/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_aea_shleg.xml:29
 msgid ""
@@ -411,8 +404,7 @@ msgstr "拉近一点检查一下。"
 #: src-en/data/events_sector_aea_shleg.xml:390
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_NEUROTOXINLAB\"]/choice[1]/event/text"
-msgstr "奇怪的是，当你接近时，没有叛军的船只来打扰你。更奇怪的是，空间站里似乎只有一"
-"个孤零零的生命迹象。"
+msgstr "奇怪的是，当你接近时，没有叛军的船只来打扰你。更奇怪的是，空间站里似乎只有一个孤零零的生命迹象。"
 
 #: src-en/data/events_sector_aea_shleg.xml:392
 msgid ""
@@ -423,9 +415,7 @@ msgstr "仔细调查。"
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_NEUROTOXINLAB\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"一个叛军显然没法对你造成伤害。你派你的船员上去。在里面，他们发现了一个大型实"
-"验室，里面散落着科学家的尸体，然而他们身上没有任何明显的伤口。房间里有淡淡的"
-"怪味。"
+"一个叛军显然没法对你造成伤害。你派你的船员上去。在里面，他们发现了一个大型实验室，里面散落着科学家的尸体，然而他们身上没有任何明显的伤口。房间里有淡淡的怪味。"
 
 #: src-en/data/events_sector_aea_shleg.xml:396
 msgid ""
@@ -436,12 +426,7 @@ msgstr "继续搜索。"
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_NEUROTOXINLAB\"]/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
-"你的船员继续深入空间站，寻找你早先探测到的生命信号。他们发现一个胡子拉碴、衣"
-"衫不整的工程师在来回摇晃，流着口水，抱着一个大立方体。你们的船员设法使他平静"
-"下来一段时间，并让他解释情况。看来，站内的工程师们的任务是研究甲壳族释放的神"
-"经毒素并将其武器化，直到他们的一艘自动舰变成了敌对状态。利用这种毒素，它杀死"
-"了所有其他的科学家。工程师警告你，既然你已经登上了空间站，那么人工智能肯定也"
-"知道你在这里！"
+"你的船员继续深入空间站，寻找你早先探测到的生命信号。他们发现一个胡子拉碴、衣衫不整的工程师在来回摇晃，流着口水，抱着一个大立方体。你们的船员设法使他平静下来一段时间，并让他解释情况。看来，站内的工程师们的任务是研究甲壳族释放的神经毒素并将其武器化，直到他们的一艘自动舰变成了敌对状态。利用这种毒素，它杀死了所有其他的科学家。工程师警告你，既然你已经登上了空间站，那么人工智能肯定也知道你在这里！"
 
 #: src-en/data/events_sector_aea_shleg.xml:400
 msgid ""
@@ -451,8 +436,7 @@ msgstr "把船员拉回来，现在！"
 #: src-en/data/events_sector_aea_shleg.xml:402
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_NEUROTOXINLAB\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/text"
-msgstr "你的船员，在那个神经质工程师的跟随下，赶紧回到船上。与此同时，一艘大型自动舰"
-"从空间站上分离出来，开始追赶你！"
+msgstr "你的船员，在那个神经质工程师的跟随下，赶紧回到船上。与此同时，一艘大型自动舰从空间站上分离出来，开始追赶你！"
 
 #: src-en/data/events_sector_aea_shleg.xml:403
 msgid ""
@@ -564,8 +548,7 @@ msgstr "无视对方。"
 #: src-en/data/events_sector_aea_shleg.xml:493
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_HIDDEN_COLONY\"]/choice[2]/event/text"
-msgstr "你不清楚这里发生了什么，但无论那艘孤零零的甲壳族飞船在做什么都与你的任务无关"
-"。"
+msgstr "你不清楚这里发生了什么，但无论那艘孤零零的甲壳族飞船在做什么都与你的任务无关。"
 
 #: src-en/data/events_sector_aea_shleg.xml:495
 msgid ""
@@ -720,8 +703,7 @@ msgstr "避开这艘船。"
 #: src-en/data/events_sector_aea_shleg.xml:642
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_DISTRESS_AEA_SHLEG_GAS\"]/choice[3]/event/text"
-msgstr "不幸的是，考虑到甲壳族船含有神经毒素气体，与他们的船对接可能太危险。你最好还"
-"是不要掺和。"
+msgstr "不幸的是，考虑到甲壳族船含有神经毒素气体，与他们的船对接可能太危险。你最好还是不要掺和。"
 
 #: src-en/data/events_sector_aea_shleg.xml:644
 msgid ""
@@ -781,8 +763,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shleg.xml:727
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_SHELL_SMUGGLER\"]/text"
-msgstr "似乎有一艘走私船正试图偷偷溜过这片星云！他们注意到你在观察他们，并发动了攻击"
-"，不想让你出卖他们的位置！"
+msgstr "似乎有一艘走私船正试图偷偷溜过这片星云！他们注意到你在观察他们，并发动了攻击，不想让你出卖他们的位置！"
 
 #: src-en/data/events_sector_aea_shleg.xml:731
 msgid ""

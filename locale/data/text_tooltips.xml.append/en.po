@@ -38,3 +38,9 @@ msgid ""
 msgstr ""
 "Modified Clone Bay: Generates pseudo clones on jump, prevents clones and "
 "other crew with death timers from dying from them."
+
+#: src-en/data/text_tooltips.xml.append:8
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_aea_acidic_nebula\"]"
+msgstr ""
+"You're inside an Acidic nebula. Your sensors will not function and your "
+"empty rooms will be slowly breached at random by the Acidic clouds."

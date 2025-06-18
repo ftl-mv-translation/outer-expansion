@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 15:24+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_aea_shlegxml/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_shleg.xml:4
 msgid ""
@@ -85,8 +78,8 @@ msgstr "계속..."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_CRIMINAL\"]/choice/event/text"
 msgstr ""
-"당신의 행적이 걸림돌이 된 것 같습니다. 당신이 저지른 범죄에 대해 충분히 들은 "
-"경비원들은 당신을 이 구역으로 들여보낼 생각이 없는 것 같습니다!"
+"당신의 행적이 걸림돌이 된 것 같습니다. 당신이 저지른 범죄에 대해 충분히 들은 경비원들은 당신을 이 구역으로 들여보낼 생각이 없는 것 "
+"같습니다!"
 
 #: src-en/data/events_special_aea_shleg.xml:91
 msgid ""
@@ -135,8 +128,7 @@ msgstr "계속..."
 #: src-en/data/events_special_aea_shleg.xml:132
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_GUARD_AEA_SHLEG_CONTACT\"]/text[1]"
-msgstr "화면에 작은 셸이 나타나 외눈으로 당신을 바라보며 다음 말을 기다리고 "
-"있었습니다."
+msgstr "화면에 작은 셸이 나타나 외눈으로 당신을 바라보며 다음 말을 기다리고 있었습니다."
 
 #: src-en/data/events_special_aea_shleg.xml:133
 msgid ""
@@ -167,8 +159,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_INTERACT\"]/choice[@req=\"LIST_CREW_AEA_SHLEG\"]/event/text"
 msgstr ""
-"\"아, 우리 구역에 돌아오시이인 걸 환영합니다. 연방 함서어언에 우리 종족이 "
-"타고 있는 경우는 드물어서어어 몰라봤네요. 죄소오옹합니다.\""
+"\"아, 우리 구역에 돌아오시이인 걸 환영합니다. 연방 함서어언에 우리 종족이 타고 있는 경우는 드물어서어어 몰라봤네요. "
+"죄소오옹합니다.\""
 
 #: src-en/data/events_special_aea_shleg.xml:157
 msgid ""
@@ -178,8 +170,7 @@ msgstr "생각을 바꿔 경비정을 내버려둔다."
 #: src-en/data/events_special_aea_shleg.xml:159
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_INTERACT\"]/choice[5]/event/text"
-msgstr "당신은 사과하고 통신을 종료했습니다. 경비는 더 이상의 연락을 시도하지 "
-"않았습니다."
+msgstr "당신은 사과하고 통신을 종료했습니다. 경비는 더 이상의 연락을 시도하지 않았습니다."
 
 #: src-en/data/events_special_aea_shleg.xml:161
 msgid ""
@@ -405,15 +396,13 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_SHLEG\"]/text"
 msgstr ""
-"선원들은 죽고 수송선만이 남았습니다. 화물은 이제 당신의 것입니다. 수송선 "
-"안에는 기대했던 대로 특별한 병기가 있었고 당신은 그것을 함선으로 가지고 "
-"돌아왔습니다."
+"선원들은 죽고 수송선만이 남았습니다. 화물은 이제 당신의 것입니다. 수송선 안에는 기대했던 대로 특별한 병기가 있었고 당신은 그것을 "
+"함선으로 가지고 돌아왔습니다."
 
 #: src-en/data/events_special_aea_shleg.xml:416
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[1]"
-msgstr "슬러그들이 아무리 노력해도 당신을 이길 수는 없었습니다. 이 전투의 승자가 된 "
-"당신은 그들의 배에서 쓸만한 것을 챙겼습니다."
+msgstr "슬러그들이 아무리 노력해도 당신을 이길 수는 없었습니다. 이 전투의 승자가 된 당신은 그들의 배에서 쓸만한 것을 챙겼습니다."
 
 #: src-en/data/events_special_aea_shleg.xml:417
 msgid ""
@@ -423,52 +412,47 @@ msgstr "슬러그 함선은 더 이상 없습니다. 당신은 잔해를 인양�
 #: src-en/data/events_special_aea_shleg.xml:418
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[3]"
-msgstr "마침내 배신을 좋아하는 성운 거주자들이 사라졌습니다. 당신은 잔해를 "
-"인양했습니다."
+msgstr "마침내 배신을 좋아하는 성운 거주자들이 사라졌습니다. 당신은 잔해를 인양했습니다."
 
 #: src-en/data/events_special_aea_shleg.xml:419
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[4]"
-msgstr "셸 함선이 폭발하며 유독 가스 구름이 우주로 퍼져나갔습니다. 근처에 에어록이 "
-"개방된 정거장이 없기를 바랍니다..."
+msgstr "셸 함선이 폭발하며 유독 가스 구름이 우주로 퍼져나갔습니다. 근처에 에어록이 개방된 정거장이 없기를 바랍니다..."
 
 #: src-en/data/events_special_aea_shleg.xml:420
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[5]"
-msgstr "빼어난 방어 체계에도 불구하고 셸 함선은 파괴됐습니다. 당신은 잔해를 "
-"인양했습니다."
+msgstr "빼어난 방어 체계에도 불구하고 셸 함선은 파괴됐습니다. 당신은 잔해를 인양했습니다."
 
 #: src-en/data/events_special_aea_shleg.xml:421
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHLEG\"]/text[6]"
-msgstr "셸은 잘 관리된 방어 체계로 유명하지만 당신의 무기가 더 효과적인 것으로 "
-"입증되었습니다."
+msgstr "셸은 잘 관리된 방어 체계로 유명하지만 당신의 무기가 더 효과적인 것으로 입증되었습니다."
 
 #: src-en/data/events_special_aea_shleg.xml:429
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[1]"
 msgstr ""
-"죽어가는 슬러그 선장이 바닥에 쓰러진채 헐떡이며 떨고 있는 것을 발견했습니다. "
-"그는 마지막으로 \"쩨엔짱\"이라는 말을 하고 쓰러져 죽었습니다."
+"죽어가는 슬러그 선장이 바닥에 쓰러진채 헐떡이며 떨고 있는 것을 발견했습니다. 그는 마지막으로 \"쩨엔짱\"이라는 말을 하고 쓰러져 "
+"죽었습니다."
 
 #: src-en/data/events_special_aea_shleg.xml:430
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[2]"
-msgstr "당신은 슬러그 선원에 대해 아무런 양심의 가책도 느끼지 않고, 그냥 그들의 "
-"배에서 나는 냄새가 좀 덜 했으면 하고 생각했습니다."
+msgstr ""
+"당신은 슬러그 선원에 대해 아무런 양심의 가책도 느끼지 않고, 그냥 그들의 배에서 나는 냄새가 좀 덜 했으면 하고 생각했습니다."
 
 #: src-en/data/events_special_aea_shleg.xml:431
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[3]"
-msgstr "슬러그의 점액과 으깨진 내장의 혼합물로 보이는 것이 함선 내부를 뒤덮고 "
-"있었습니다. 우웩."
+msgstr "슬러그의 점액과 으깨진 내장의 혼합물로 보이는 것이 함선 내부를 뒤덮고 있었습니다. 우웩."
 
 #: src-en/data/events_special_aea_shleg.xml:432
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHLEG\"]/text[4]"
 msgstr ""
-"셸들이 방어가 얼마나 뛰어난지를 생각하면 그들과 싸우는 것은 위험한 일이지만, "
-"당신은 적함의 선원을 모두 처리했습니다. 그들의 스크랩은 당신의 것입니다."
+"셸들이 방어가 얼마나 뛰어난지를 생각하면 그들과 싸우는 것은 위험한 일이지만, 당신은 적함의 선원을 모두 처리했습니다. 그들의 스크랩은 "
+"당신의 것입니다."
 
 #: src-en/data/events_special_aea_shleg.xml:433
 msgid ""
@@ -478,8 +462,7 @@ msgstr "셸 함선이 무력화되었습니다. 당신은 쓸만한 것을 챙�
 #: src-en/data/events_special_aea_shleg.xml:440
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_ESCAPE_AEA_SHLEG\"]/text"
-msgstr "셸 함선은 전투를 피해 이곳을 떠나기로 한 것 같습니다. 탈출을 시도하고 "
-"있습니다!"
+msgstr "셸 함선은 전투를 피해 이곳을 떠나기로 한 것 같습니다. 탈출을 시도하고 있습니다!"
 
 #: src-en/data/events_special_aea_shleg.xml:453
 msgid ""
@@ -490,9 +473,8 @@ msgstr "셸 함선은 당신을 송신소에 남겨두고 멀리 도약했습니
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GOTAWAY_AEA_SHLEG_REMAINS\"]/text"
 msgstr ""
-"셸 함선은 도망갔습니다. 처음에는 실망했지만 이내 셸 함선이 떠난 자리에 "
-"스크랩이 조금 남아있는 것을 발견했습니다. 많지는 않지만 실패의 타격을 "
-"완화하는 데 도움이 될 것입니다."
+"셸 함선은 도망갔습니다. 처음에는 실망했지만 이내 셸 함선이 떠난 자리에 스크랩이 조금 남아있는 것을 발견했습니다. 많지는 않지만 실패의"
+" 타격을 완화하는 데 도움이 될 것입니다."
 
 #: src-en/data/events_special_aea_shleg.xml:463
 msgid ""
@@ -508,21 +490,18 @@ msgstr ""
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[1]"
 msgstr ""
-"슬러그 선장이 당신에게 메시지를 보냈습니다. \"오, 위대하씬 분이여, 당씬은 "
-"정말 용감하고 찐쩡으로 역싸쌍 가짱 위대한 쩐싸입니다. 당씬의 무용담을 널리 "
-"퍼트릴 쑤 이또록 우리를 쌀려주씨겠씁니까?\""
+"슬러그 선장이 당신에게 메시지를 보냈습니다. \"오, 위대하씬 분이여, 당씬은 정말 용감하고 찐쩡으로 역싸쌍 가짱 위대한 쩐싸입니다. "
+"당씬의 무용담을 널리 퍼트릴 쑤 이또록 우리를 쌀려주씨겠씁니까?\""
 
 #: src-en/data/events_special_aea_shleg.xml:480
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[2]"
-msgstr "\"알아써, 거찟말은 하찌 않을게. 우리 쌍태는 쩡말 엉망찐창이야. 우릴 놓아주면 "
-"쓰크랩을 쭐게.\""
+msgstr "\"알아써, 거찟말은 하찌 않을게. 우리 쌍태는 쩡말 엉망찐창이야. 우릴 놓아주면 쓰크랩을 쭐게.\""
 
 #: src-en/data/events_special_aea_shleg.xml:481
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[3]"
-msgstr "슬러그는 겁쟁이로 유명합니다. 아니나 다를까 슬러그 함선은 전투를 포기하고 "
-"항복했습니다."
+msgstr "슬러그는 겁쟁이로 유명합니다. 아니나 다를까 슬러그 함선은 전투를 포기하고 항복했습니다."
 
 #: src-en/data/events_special_aea_shleg.xml:482
 msgid ""
@@ -532,24 +511,21 @@ msgstr "\"이런, 이 쩡도일쭐은 몰랐써! 씨비걸어써 미안해. 우�
 #: src-en/data/events_special_aea_shleg.xml:483
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[5]"
-msgstr "\"제발, 당시이인은 너무 강합니다! 우리는 싸아아우고 시이이잎지 않스으읍니다! "
-"우리를 사아아알려주세에에요!\""
+msgstr "\"제발, 당시이인은 너무 강합니다! 우리는 싸아아우고 시이이잎지 않스으읍니다! 우리를 사아아알려주세에에요!\""
 
 #: src-en/data/events_special_aea_shleg.xml:484
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[6]"
 msgstr ""
-"사촌인 슬러그와 달리 셸은 욕심이 많지 않습니다. 그들은 죽는 것보다 약간의 "
-"스크랩을 지불하는 것이 훨씬 낫다고 생각합니다. 그들의 제안을 "
-"수락하시겠습니까?"
+"사촌인 슬러그와 달리 셸은 욕심이 많지 않습니다. 그들은 죽는 것보다 약간의 스크랩을 지불하는 것이 훨씬 낫다고 생각합니다. 그들의 "
+"제안을 수락하시겠습니까?"
 
 #: src-en/data/events_special_aea_shleg.xml:485
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHLEG\"]/text[7]"
 msgstr ""
-"셸 선장으로부터 메시지를 받았습니다. "
-"\"알아써어요 알아써어요. 당시이인들의 무장은 아주 훌륭하군요. 저희를 보내주세"
-"에에요. 스으으크랩을 드리겠스으읍니다!\""
+"셸 선장으로부터 메시지를 받았습니다. \"알아써어요 알아써어요. 당시이인들의 무장은 아주 훌륭하군요. 저희를 보내주세에에요. 스으으크랩을"
+" 드리겠스으읍니다!\""
 
 #: src-en/data/events_special_aea_shleg.xml:494
 msgid ""

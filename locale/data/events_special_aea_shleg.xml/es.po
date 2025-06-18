@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 15:26+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_aea_shlegxml/es/>\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_shleg.xml:4
 msgid ""
@@ -85,8 +78,8 @@ msgstr "Continuar..."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_CRIMINAL\"]/choice/event/text"
 msgstr ""
-"Parece que tu reputación te ha precedido. La tripulación de la nave guardian "
-"ha escuchado lo suficiente sobre los crímenes que has cometido, ¡y parece "
+"Parece que tu reputación te ha precedido. La tripulación de la nave guardian"
+" ha escuchado lo suficiente sobre los crímenes que has cometido, ¡y parece "
 "que ellos no te van a dejar entrar a este sector!."
 
 #: src-en/data/events_special_aea_shleg.xml:91
@@ -177,8 +170,8 @@ msgstr "Cambiar de opinión y dejar al guardia en paz."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_INTERACT\"]/choice[5]/event/text"
 msgstr ""
-"Te disculpas y cortas comunicaciones. El guardia no hace ningún otro intento "
-"para comunicarse."
+"Te disculpas y cortas comunicaciones. El guardia no hace ningún otro intento"
+" para comunicarse."
 
 #: src-en/data/events_special_aea_shleg.xml:161
 msgid ""
@@ -404,9 +397,9 @@ msgstr "No hacer nada."
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_SHLEG\"]/text"
 msgstr ""
-"La tripulación está muerta, dejandote con el control de la nave. Su carga es "
-"tuya ahora. Abordo está la tecnología especial que esperabas, la cual traes "
-"de vuelta a tu nave."
+"La tripulación está muerta, dejandote con el control de la nave. Su carga es"
+" tuya ahora. Abordo está la tecnología especial que esperabas, la cual traes"
+" de vuelta a tu nave."
 
 #: src-en/data/events_special_aea_shleg.xml:416
 msgid ""

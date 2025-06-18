@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 15:25+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_sector_aea_acidxml/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_aea_acid.xml:28
 msgid ""
@@ -91,9 +84,8 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_REFUGEE_AEA_ACID_MV\"]/text"
 msgstr ""
-"우주에서 표류 중인 난민 함선을 마주쳤습니다. 반군의 진격으로부터 도망치다 "
-"연료가 떨어진 것으로 보입니다. 조난 신호기는 작동 중이지만, 탑승자가 "
-"있는지는 확실하지 않습니다."
+"우주에서 표류 중인 난민 함선을 마주쳤습니다. 반군의 진격으로부터 도망치다 연료가 떨어진 것으로 보입니다. 조난 신호기는 작동 중이지만,"
+" 탑승자가 있는지는 확실하지 않습니다."
 
 #: src-en/data/events_sector_aea_acid.xml:114
 msgid ""
@@ -108,8 +100,7 @@ msgstr "피난선을 무시한다."
 #: src-en/data/events_sector_aea_acid.xml:120
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_REFUGEE_AEA_ACID_MV\"]/choice[2]/event/text"
-msgstr "당신은 피난민을 경계했지만, 이내 함선에서 무언가를 해도 될만큼 안전하다는 "
-"결론을 냈습니다."
+msgstr "당신은 피난민을 경계했지만, 이내 함선에서 무언가를 해도 될만큼 안전하다는 결론을 냈습니다."
 
 #: src-en/data/events_sector_aea_acid.xml:122
 msgid ""
@@ -195,9 +186,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_ACIDIC_SURRENDER\"]/event[2]/text"
 msgstr ""
-"슬러그 선장이 말합니다. "
-"\"짤못해써요! 싸쏘한 씰쑤입니다! 물론 돈은 드릴 쑤 이써요! 보쎄요? 보쌍은 이"
-"미 쩐쏭해써요.\" 당신은 그들이 살아서 떠날 수 있게 허락합니다."
+"슬러그 선장이 말합니다. \"짤못해써요! 싸쏘한 씰쑤입니다! 물론 돈은 드릴 쑤 이써요! 보쎄요? 보쌍은 이미 쩐쏭해써요.\" 당신은 "
+"그들이 살아서 떠날 수 있게 허락합니다."
 
 #: src-en/data/events_sector_aea_acid.xml:224
 msgid ""
@@ -283,9 +273,8 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_MYSTERIOUS_TECH\"]/text"
 msgstr ""
-"성운 깊숙이 숨어있던 헥타르 함선의 환영을 받았습니다. "
-"\"안녕하쎄요 썬짱님, 쫗은 함썬이네요. 그런데, 쩌희에게 당씬의 함썬을 더욱 쫗"
-"게 만들 쑤 있는 짱비가 이써요!\""
+"성운 깊숙이 숨어있던 헥타르 함선의 환영을 받았습니다. \"안녕하쎄요 썬짱님, 쫗은 함썬이네요. 그런데, 쩌희에게 당씬의 함썬을 더욱 "
+"쫗게 만들 쑤 있는 짱비가 이써요!\""
 
 #: src-en/data/events_sector_aea_acid.xml:286
 msgid ""
@@ -315,9 +304,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_aea_acid.xml:306
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_MYSTERIOUS_TECH_PURCHASE\"]/event[1]/text"
-msgstr ""
-"\"짤 쓰쎄요! 그리고 기억하쎄요, 환불은 안 받아요!\" 슬러그들은 당신의 함선에 "
-"이상한 빨간색 버튼을 설치한 후 사라졌습니다."
+msgstr "\"짤 쓰쎄요! 그리고 기억하쎄요, 환불은 안 받아요!\" 슬러그들은 당신의 함선에 이상한 빨간색 버튼을 설치한 후 사라졌습니다."
 
 #: src-en/data/events_sector_aea_acid.xml:313
 msgid ""
@@ -1378,9 +1365,8 @@ msgstr "함선을 조사한다."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK\"]/choice[1]/event/text"
 msgstr ""
-"슬러그들이 당신의 승선을 환영하며 함선을 구경시켜줬습니다. 꽤 단정하고 불법 "
-"밀수품도 보이지 않았습니다. 당신은 외계 과일 주스 한 잔을 대접받아 새로운 "
-"우정을 위해 건배한 다음 함선으로 돌아왔습니다."
+"슬러그들이 당신의 승선을 환영하며 함선을 구경시켜줬습니다. 꽤 단정하고 불법 밀수품도 보이지 않았습니다. 당신은 외계 과일 주스 한 잔을"
+" 대접받아 새로운 우정을 위해 건배한 다음 함선으로 돌아왔습니다."
 
 #: src-en/data/events_sector_aea_acid.xml:1157
 msgid ""
@@ -1436,9 +1422,8 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_REFUGEE_AEA_ACID\"]/text"
 msgstr ""
-"인근 성계를 표류하던 피난선 한 척이 센서에 잡혔습니다. 반군의 진격에서 "
-"도망치던 함선일 것입니다. 아직 당신을 발견하지 못한 것 같습니다... 아니면 "
-"괜한 관심을 끌고 싶지 않은 걸수도요."
+"인근 성계를 표류하던 피난선 한 척이 센서에 잡혔습니다. 반군의 진격에서 도망치던 함선일 것입니다. 아직 당신을 발견하지 못한 것 "
+"같습니다... 아니면 괜한 관심을 끌고 싶지 않은 걸수도요."
 
 #: src-en/data/events_sector_aea_acid.xml:1211
 msgid ""
@@ -1453,8 +1438,7 @@ msgstr "피난선을 무시한다."
 #: src-en/data/events_sector_aea_acid.xml:1217
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_REFUGEE_AEA_ACID\"]/choice[2]/event/text"
-msgstr "당신은 피난민을 경계했지만, 이내 함선에서 무언가를 해도 될만큼 안전하다는 "
-"결론을 냈습니다."
+msgstr "당신은 피난민을 경계했지만, 이내 함선에서 무언가를 해도 될만큼 안전하다는 결론을 냈습니다."
 
 #: src-en/data/events_sector_aea_acid.xml:1219
 msgid ""
@@ -1845,8 +1829,7 @@ msgstr "아무것도 하지 않는다."
 #: src-en/data/events_sector_aea_acid.xml:1510
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_SLAVES\"]/event[1]/text"
-msgstr "\"구매해 주셔서 감사합니다! 뭐든간에 이것들이 믿는 멍청한 식물 신이 당신의 앞"
-"길을 축복하길!\""
+msgstr "\"구매해 주셔서 감사합니다! 뭐든간에 이것들이 믿는 멍청한 식물 신이 당신의 앞길을 축복하길!\""
 
 #: src-en/data/events_sector_aea_acid.xml:1516
 msgid ""
@@ -1871,8 +1854,7 @@ msgstr "계속..."
 #: src-en/data/events_sector_aea_acid.xml:1532
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_SLAVES\"]/event[3]/text"
-msgstr "\"구매해 주셔서 감사합니다! 뭐든간에 이것들이 믿는 멍청한 식물 신이 당신의 앞"
-"길을 축복하길!\""
+msgstr "\"구매해 주셔서 감사합니다! 뭐든간에 이것들이 믿는 멍청한 식물 신이 당신의 앞길을 축복하길!\""
 
 #: src-en/data/events_sector_aea_acid.xml:1538
 msgid ""
@@ -1883,10 +1865,8 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER_FAIL\"]/text"
 msgstr ""
-"노예상들은 지루한 표정으로 오키드의 수화를 지켜봤습니다. \"그래, 그래, 뭐 "
-"좋긴 한데 내가 어떤 부분을 신경 써서 들어야 했던건지 모르겠네. 혹시 모를까봐 "
-"말해주는데, 내가 이 일을 하는 이유는 도덕 따윈 좆도 신경 안쓰기 때문이거든. "
-"물건 안살거면 그냥 꺼져.\""
+"노예상들은 지루한 표정으로 오키드의 수화를 지켜봤습니다. \"그래, 그래, 뭐 좋긴 한데 내가 어떤 부분을 신경 써서 들어야 했던건지 "
+"모르겠네. 혹시 모를까봐 말해주는데, 내가 이 일을 하는 이유는 도덕 따윈 좆도 신경 안쓰기 때문이거든. 물건 안살거면 그냥 꺼져.\""
 
 #: src-en/data/events_sector_aea_acid.xml:1547
 msgid ""
@@ -1922,13 +1902,10 @@ msgstr "시간 낭비는 충분히 했습니다."
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER\"]/event[3]/text"
 msgstr ""
-"놀랍게도, 오키드의 메시지가 해적들을 감동시킨 것 같습니다. 아닐 수도 "
-"있고요... 그냥 짜증내는 것 같기도 합니다. \"이런, 알겠어! 당신들도 "
-"사람이라면 어쩌구저쩌구. 요점은 알겠어. 내가 무례하게 굴면 넌 그냥 날 죽일 "
-"거라는 거지. 전에도 배회자들을 만난 적 있거든. 그러니까 그냥 그 망할 식물을 "
-"데려가고 날 내버려 둬.\" 노예상들이 오키드 한 마리의 족쇄를 풀어 당신 쪽으로 "
-"보냈습니다. 당신의 정원지기는 오키드가 새로운 자유에 적응할 수 있도록 "
-"도와주었습니다."
+"놀랍게도, 오키드의 메시지가 해적들을 감동시킨 것 같습니다. 아닐 수도 있고요... 그냥 짜증내는 것 같기도 합니다. \"이런, 알겠어!"
+" 당신들도 사람이라면 어쩌구저쩌구. 요점은 알겠어. 내가 무례하게 굴면 넌 그냥 날 죽일 거라는 거지. 전에도 배회자들을 만난 적 "
+"있거든. 그러니까 그냥 그 망할 식물을 데려가고 날 내버려 둬.\" 노예상들이 오키드 한 마리의 족쇄를 풀어 당신 쪽으로 보냈습니다. "
+"당신의 정원지기는 오키드가 새로운 자유에 적응할 수 있도록 도와주었습니다."
 
 #: src-en/data/events_sector_aea_acid.xml:1574
 msgid ""
@@ -1948,8 +1925,7 @@ msgstr "수감선에 다가가기 위해 엘리트 함선을 공격한다."
 #: src-en/data/events_sector_aea_acid.xml:1598
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_IMPORTANT_PRISONER\"]/choice[1]/event/text"
-msgstr "수감선은 슬그머니 뒤로 사라지고 훨씬 더 강력한 엘리트 함선이 당신을 공격하러 "
-"옵니다."
+msgstr "수감선은 슬그머니 뒤로 사라지고 훨씬 더 강력한 엘리트 함선이 당신을 공격하러 옵니다."
 
 #: src-en/data/events_sector_aea_acid.xml:1601
 msgid ""
@@ -2450,8 +2426,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:2006
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_QUEST_AEA_ACID_PIRATE_TRAP\"]/text"
-msgstr "도약을 마친 당신은 두 척의 슬러그 함선이 통신 가능 거리에 있는 것을 "
-"목격합니다. 그들은 당신을 보지 못했습니다."
+msgstr "도약을 마친 당신은 두 척의 슬러그 함선이 통신 가능 거리에 있는 것을 목격합니다. 그들은 당신을 보지 못했습니다."
 
 #: src-en/data/events_sector_aea_acid.xml:2009
 msgid ""
@@ -2740,8 +2715,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:2250
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_INFECTOR_DEATH\"]/text"
-msgstr "당신의 선원은 고통으로 몸을 뒤틀며 숨을 헐떡입니다. 해독제가 없으니 그가 "
-"죽어가는 것을 꼼짝없이 지켜볼 수밖에 없습니다."
+msgstr "당신의 선원은 고통으로 몸을 뒤틀며 숨을 헐떡입니다. 해독제가 없으니 그가 죽어가는 것을 꼼짝없이 지켜볼 수밖에 없습니다."
 
 #: src-en/data/events_sector_aea_acid.xml:2253
 msgid ""
@@ -2751,8 +2725,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:2266
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ENCOUNTER_AEA_ACID_HACKER\"]/text"
-msgstr "슬러그 해커 함선은 슬러그 영토에서조차 보기 어려울 정도로 희귀합니다. "
-"그런데도 여기서 마주치게 되다니 정말 운이 나쁘네요."
+msgstr "슬러그 해커 함선은 슬러그 영토에서조차 보기 어려울 정도로 희귀합니다. 그런데도 여기서 마주치게 되다니 정말 운이 나쁘네요."
 
 #: src-en/data/events_sector_aea_acid.xml:2270
 msgid ""
@@ -2788,9 +2761,8 @@ msgstr "계속..."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/text"
 msgstr ""
-"성운 속 빈 공간에서 조난 신호가 발신되고 있는 것 같습니다. 신호를 따라가니 "
-"심연을 떠도는 외딴 행성이 나타났습니다. 스캔 결과 지표면에 뭔가 추락한 게 "
-"있다고 나타납니다."
+"성운 속 빈 공간에서 조난 신호가 발신되고 있는 것 같습니다. 신호를 따라가니 심연을 떠도는 외딴 행성이 나타났습니다. 스캔 결과 "
+"지표면에 뭔가 추락한 게 있다고 나타납니다."
 
 #: src-en/data/events_sector_aea_acid.xml:2309
 msgid ""

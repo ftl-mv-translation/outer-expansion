@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 15:28+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_aea_birdxml/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_bird.xml:15
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[1]"
@@ -53,8 +46,7 @@ msgstr "경비정을 공격한다."
 #: src-en/data/events_special_aea_bird.xml:50
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[2]/event/text"
-msgstr "경비대장은 당신이 그들을 공격했다는 사실에 깜짝 놀랐습니다. "
-"\"반군의 스파이가 틀림없군! 가볍게 봐주지는 않을거다!\""
+msgstr "경비대장은 당신이 그들을 공격했다는 사실에 깜짝 놀랐습니다. \"반군의 스파이가 틀림없군! 가볍게 봐주지는 않을거다!\""
 
 #: src-en/data/events_special_aea_bird.xml:53
 msgid ""
@@ -104,8 +96,7 @@ msgstr "계속..."
 #: src-en/data/events_special_aea_bird.xml:90
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/text"
-msgstr "경비정이 당신을 근처에 있던 지원함과 함께 보안선에 데려다 놨습니다. 지원함이 "
-"지시를 기다리고 있습니다."
+msgstr "경비정이 당신을 근처에 있던 지원함과 함께 보안선에 데려다 놨습니다. 지원함이 지시를 기다리고 있습니다."
 
 #: src-en/data/events_special_aea_bird.xml:92
 msgid ""
@@ -280,10 +271,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/text"
 msgstr ""
-"당신의 선원이 수송선 함장에게 이 임무의 중요성을 설명했습니다. 수송선 함장은 "
-"제대로 이해했는지, 현재 수송 중인 화물도 당신의 것과 동일한 임무에 중요한 "
-"물건이라고 언급했습니다. 배상금을 낼 의향이 있다면 예외적으로 화물을 "
-"넘긴다고 합니다."
+"당신의 선원이 수송선 함장에게 이 임무의 중요성을 설명했습니다. 수송선 함장은 제대로 이해했는지, 현재 수송 중인 화물도 당신의 것과 "
+"동일한 임무에 중요한 물건이라고 언급했습니다. 배상금을 낼 의향이 있다면 예외적으로 화물을 넘긴다고 합니다."
 
 #: src-en/data/events_special_aea_bird.xml:304
 msgid ""
@@ -360,36 +349,31 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_BIRD\"]/text"
 msgstr ""
-"선원들은 죽고 수송선만이 남았습니다. 화물은 이제 당신의 것입니다. 수송선 "
-"안에는 기대했던 대로 특별한 병기가 있었고 당신은 그것을 함선으로 가지고 "
-"돌아왔습니다."
+"선원들은 죽고 수송선만이 남았습니다. 화물은 이제 당신의 것입니다. 수송선 안에는 기대했던 대로 특별한 병기가 있었고 당신은 그것을 "
+"함선으로 가지고 돌아왔습니다."
 
 #: src-en/data/events_special_aea_bird.xml:382
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[1]"
-msgstr "\"메이데이! 메이데이! 메이-\" 도움을 요청하는 절박한 외침은 함선이 파괴되자 "
-"사그라듭니다."
+msgstr "\"메이데이! 메이데이! 메이-\" 도움을 요청하는 절박한 외침은 함선이 파괴되자 사그라듭니다."
 
 #: src-en/data/events_special_aea_bird.xml:383
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[2]"
 msgstr ""
-"나중에 다른 함선이 이 참상을 발견하면 십중팔구 반군이나 해적의 소행이라고 "
-"생각할 것입니다. 하지만 그 흔적은 결국 당신에게 이어지겠죠."
+"나중에 다른 함선이 이 참상을 발견하면 십중팔구 반군이나 해적의 소행이라고 생각할 것입니다. 하지만 그 흔적은 결국 당신에게 이어지겠죠."
 
 #: src-en/data/events_special_aea_bird.xml:384
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[3]"
 msgstr ""
-"연방의 새로운 함종이 너무 빨리 실전 배치되는 걸 보니 안타깝네요. 연방은 "
-"개선된 디자인을 제작할 때 반군과의 충돌을 염두에 두었지만... 자신들이 직접 "
-"고용한 배회자까지 고려하진 않았죠."
+"연방의 새로운 함종이 너무 빨리 실전 배치되는 걸 보니 안타깝네요. 연방은 개선된 디자인을 제작할 때 반군과의 충돌을 염두에 "
+"두었지만... 자신들이 직접 고용한 배회자까지 고려하진 않았죠."
 
 #: src-en/data/events_special_aea_bird.xml:385
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[4]"
-msgstr "당신은 연방 함선이 산산조각나는 것을 보면서 섬뜩한 기분이 듭니다. 그래도 "
-"우리 함선만 아니면 됐죠."
+msgstr "당신은 연방 함선이 산산조각나는 것을 보면서 섬뜩한 기분이 듭니다. 그래도 우리 함선만 아니면 됐죠."
 
 #: src-en/data/events_special_aea_bird.xml:386
 msgid ""
@@ -400,9 +384,8 @@ msgstr "마지막 폭발로 우주선이 산산조각나면서 연방 함장의 
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[1]"
 msgstr ""
-"연방 대원이 모두 쓰러졌습니다. 당신은 선체를 해체하는 동안 켜져 있는 "
-"무전기를 발견하고 지휘부가 여전히 상황을 파악하기 위해 무전을 보내고 있는 "
-"것을 확인했습니다. 당신은 무전기를 음소거하고 계속 진행합니다."
+"연방 대원이 모두 쓰러졌습니다. 당신은 선체를 해체하는 동안 켜져 있는 무전기를 발견하고 지휘부가 여전히 상황을 파악하기 위해 무전을 "
+"보내고 있는 것을 확인했습니다. 당신은 무전기를 음소거하고 계속 진행합니다."
 
 #: src-en/data/events_special_aea_bird.xml:395
 msgid ""
@@ -413,23 +396,20 @@ msgstr "\"쓰러졌어, 쓰러졌다고! 으악!\" 연방 대원의 비명은 �
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[3]"
 msgstr ""
-"\"제 죽음은 곧 연방의 죽음을 의미합니다.\" 죽어가는 함장의 말을 끊고 뒤에서 "
-"누군가 소리칩니다. "
-"\"난 과민 반응하는 게 아니야! 젠장... 꼭 그렇게 내 마지막 순간을 망쳐야만 했"
-"던 거야...\""
+"\"제 죽음은 곧 연방의 죽음을 의미합니다.\" 죽어가는 함장의 말을 끊고 뒤에서 누군가 소리칩니다. \"난 과민 반응하는 게 아니야! "
+"젠장... 꼭 그렇게 내 마지막 순간을 망쳐야만 했던 거야...\""
 
 #: src-en/data/events_special_aea_bird.xml:397
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[4]"
-msgstr "\"내 이름은 멀티버스를 위한 봉사로 기념비에 새겨질 것이고... 네 이름은 범죄자"
-" 감시 목록에 영원히 새겨질 것이다...\""
+msgstr "\"내 이름은 멀티버스를 위한 봉사로 기념비에 새겨질 것이고... 네 이름은 범죄자 감시 목록에 영원히 새겨질 것이다...\""
 
 #: src-en/data/events_special_aea_bird.xml:398
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[5]"
 msgstr ""
-"\"난... 승진도 못 해봤어! 아직 죽을 준비 안 됐다고!\" 연방 함장은 선원들이 "
-"하나씩 쓰러지자 흐느껴 울다가 결국 자기 선원들을 따라갔습니다."
+"\"난... 승진도 못 해봤어! 아직 죽을 준비 안 됐다고!\" 연방 함장은 선원들이 하나씩 쓰러지자 흐느껴 울다가 결국 자기 선원들을 "
+"따라갔습니다."
 
 #: src-en/data/events_special_aea_bird.xml:404
 msgid ""
@@ -444,8 +424,7 @@ msgstr "\"더 이상 계속하는 것은 미친 짓입니다. 우리는 같은 �
 #: src-en/data/events_special_aea_bird.xml:418
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[2]"
-msgstr "연방 함선은 너덜너덜해졌습니다. 이 시점에서 항복 조건에 대해 협상할 수 있을 "
-"것입니다."
+msgstr "연방 함선은 너덜너덜해졌습니다. 이 시점에서 항복 조건에 대해 협상할 수 있을 것입니다."
 
 #: src-en/data/events_special_aea_bird.xml:419
 msgid ""
@@ -460,35 +439,30 @@ msgstr "\"파괴하지 마십시오! 우리도 연방입니다! 항복이라도 
 #: src-en/data/events_special_aea_bird.xml:421
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[5]"
-msgstr "\"우리가 가진 것을 전부 받고 그냥 떠나 주십시오. 더 이상 피 흘릴 필요 없습니"
-"다!\""
+msgstr "\"우리가 가진 것을 전부 받고 그냥 떠나 주십시오. 더 이상 피 흘릴 필요 없습니다!\""
 
 #: src-en/data/events_special_aea_bird.xml:422
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[6]"
-msgstr "연방 함선이 계속해서 통신을 보내 공격을 멈추고 자신들을 놓아달라고 "
-"애원합니다."
+msgstr "연방 함선이 계속해서 통신을 보내 공격을 멈추고 자신들을 놓아달라고 애원합니다."
 
 #: src-en/data/events_special_aea_bird.xml:430
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[1]"
-msgstr "\"메이데이! 메이데이! 메이-\" 도움을 요청하는 절박한 외침은 정거장이 "
-"파괴되자 사그라듭니다."
+msgstr "\"메이데이! 메이데이! 메이-\" 도움을 요청하는 절박한 외침은 정거장이 파괴되자 사그라듭니다."
 
 #: src-en/data/events_special_aea_bird.xml:431
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[2]"
 msgstr ""
-"나중에 다른 함선이 이 참상을 발견하면 십중팔구 반군이나 해적의 소행이라고 "
-"생각할 것입니다. 하지만 그 흔적은 결국 당신에게 이어지겠죠."
+"나중에 다른 함선이 이 참상을 발견하면 십중팔구 반군이나 해적의 소행이라고 생각할 것입니다. 하지만 그 흔적은 결국 당신에게 이어지겠죠."
 
 #: src-en/data/events_special_aea_bird.xml:432
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[3]"
 msgstr ""
-"연방의 새로운 함종이 너무 빨리 실전 배치되는 걸 보니 안타깝네요. 연방은 "
-"개선된 디자인을 제작할 때 반군과의 충돌을 염두에 두었지만... 자신들이 직접 "
-"고용한 배회자까지 고려하진 않았죠."
+"연방의 새로운 함종이 너무 빨리 실전 배치되는 걸 보니 안타깝네요. 연방은 개선된 디자인을 제작할 때 반군과의 충돌을 염두에 "
+"두었지만... 자신들이 직접 고용한 배회자까지 고려하진 않았죠."
 
 #: src-en/data/events_special_aea_bird.xml:436
 msgid ""

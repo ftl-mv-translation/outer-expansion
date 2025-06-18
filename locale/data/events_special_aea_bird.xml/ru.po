@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 15:25+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_aea_birdxml/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_bird.xml:15
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[1]"
@@ -29,8 +21,8 @@ msgstr ""
 #: src-en/data/events_special_aea_bird.xml:17
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[3]"
 msgstr ""
-"Вы прибыли в пространство ги. Возможно, в этом секторе много союзников, но и "
-"повстанцев здесь тоже хватает."
+"Вы прибыли в пространство ги. Возможно, в этом секторе много союзников, но и"
+" повстанцев здесь тоже хватает."
 
 #: src-en/data/events_special_aea_bird.xml:31
 msgid ""
@@ -47,9 +39,9 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_aea_bird.xml:41
 msgid "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/text"
 msgstr ""
-"Этот сектор защищает объединенная гвардия кораблей Федерации и ги. Несколько "
-"кораблей поддержки находятся на расстоянии вытянутой руки, предлагая помощь "
-"другим дружественным кораблям в этом регионе."
+"Этот сектор защищает объединенная гвардия кораблей Федерации и ги. Несколько"
+" кораблей поддержки находятся на расстоянии вытянутой руки, предлагая помощь"
+" другим дружественным кораблям в этом регионе."
 
 #: src-en/data/events_special_aea_bird.xml:44
 msgid ""
@@ -176,8 +168,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DESTROY\"]/text"
 msgstr ""
-"Вы победили сторожевой корабль ги. Все, что могло быть в их грузе, наверняка "
-"уничтожено, но вы можете хотя бы подобрать некоторые припасы с корабля."
+"Вы победили сторожевой корабль ги. Все, что могло быть в их грузе, наверняка"
+" уничтожено, но вы можете хотя бы подобрать некоторые припасы с корабля."
 
 #: src-en/data/events_special_aea_bird.xml:137
 msgid ""
@@ -188,8 +180,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DEADCREW\"]/text"
 msgstr ""
-"Вы победили сторожевой корабль ги. Если на борту нет экипажа, который мог бы "
-"помешать вам, вы можете осмотреть их груз. Вы находите оружие, которое "
+"Вы победили сторожевой корабль ги. Если на борту нет экипажа, который мог бы"
+" помешать вам, вы можете осмотреть их груз. Вы находите оружие, которое "
 "поднимаете на корабль, и отправляетесь дальше, чтобы разобрать их корпус."
 
 #: src-en/data/events_special_aea_bird.xml:146
@@ -258,8 +250,8 @@ msgstr ""
 #: src-en/data/events_special_aea_bird.xml:201
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[3]"
 msgstr ""
-"Вы прибыли в пространство ги. Возможно, в этом секторе много союзников, но и "
-"повстанцев здесь тоже хватает."
+"Вы прибыли в пространство ги. Возможно, в этом секторе много союзников, но и"
+" повстанцев здесь тоже хватает."
 
 #: src-en/data/events_special_aea_bird.xml:215
 msgid ""
@@ -298,8 +290,8 @@ msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/text"
 msgstr ""
 "На этом маяке находится транспорт ги. Можно с уверенностью сказать, что "
-"корабль, скорее всего, перевозит какие-то особые технологии. Если вы сможете "
-"убить его экипаж, их груз станет вашим."
+"корабль, скорее всего, перевозит какие-то особые технологии. Если вы сможете"
+" убить его экипаж, их груз станет вашим."
 
 #: src-en/data/events_special_aea_bird.xml:289
 msgid ""
@@ -319,7 +311,8 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_aea_bird.xml:300
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/text"
-msgstr "(Ги или элита Федерации + хорошая репутация) Поговорить с транспортом."
+msgstr ""
+"(Ги или элита Федерации + хорошая репутация) Поговорить с транспортом."
 
 #: src-en/data/events_special_aea_bird.xml:302
 msgid ""
@@ -423,8 +416,8 @@ msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[2]"
 msgstr ""
 "Когда будущие корабли наткнутся на эти обломки, то, скорее всего, "
-"предположат, что это дело рук повстанцев или пиратов. Но след в конце концов "
-"приведет к вам."
+"предположат, что это дело рук повстанцев или пиратов. Но след в конце концов"
+" приведет к вам."
 
 #: src-en/data/events_special_aea_bird.xml:384
 msgid ""
@@ -469,7 +462,8 @@ msgid ""
 msgstr ""
 "\"Моя смерть означает гибель Федерации\". Умирающий капитан делает паузу, "
 "поскольку кто-то на заднем плане обращается к нему. \"Я НЕ преувеличиваю! "
-"Черт возьми... тебе так сильно захотелось испортить мои последние минуты...\""
+"Черт возьми... тебе так сильно захотелось испортить мои последние "
+"минуты...\""
 
 #: src-en/data/events_special_aea_bird.xml:397
 msgid ""
@@ -541,8 +535,8 @@ msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[2]"
 msgstr ""
 "Когда будущие корабли наткнутся на эти обломки, то, скорее всего, "
-"предположат, что это дело рук повстанцев или пиратов. Но след в конце концов "
-"приведет к вам."
+"предположат, что это дело рук повстанцев или пиратов. Но след в конце концов"
+" приведет к вам."
 
 #: src-en/data/events_special_aea_bird.xml:432
 msgid ""
@@ -568,8 +562,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/choice/event/text"
 msgstr ""
-"Похоже, груз корабля элиты ги уцелел в бою. Внутри находится исправный дрон, "
-"который вы поднимаете на борт."
+"Похоже, груз корабля элиты ги уцелел в бою. Внутри находится исправный дрон,"
+" который вы поднимаете на борт."
 
 #: src-en/data/events_special_aea_bird.xml:497
 msgid ""

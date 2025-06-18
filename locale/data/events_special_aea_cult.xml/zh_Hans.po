@@ -1,39 +1,27 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 15:27+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-outer-expansion/dataevents_special_aea_cultxml/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_cult.xml:14
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_START_AEA_CULT\"]/text[1]"
 msgstr ""
-"血草兰花是坚定的工业家、资本家和民主主义者。作为唯一一个在联邦中没有发言权的"
-"完全民主的民族，许多血兰邦成员都感到受到了歧视，并将加入星联视为一种解决方案"
-"。在这里，你会看到很多或敌对或友好的面孔。"
+"血草兰花是坚定的工业家、资本家和民主主义者。作为唯一一个在联邦中没有发言权的完全民主的民族，许多血兰邦成员都感到受到了歧视，并将加入星联视为一种解决方案。在这里，你会看到很多或敌对或友好的面孔。"
 
 #: src-en/data/events_special_aea_cult.xml:15
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_START_AEA_CULT\"]/text[2]"
 msgstr ""
-"长久以来集议会一直抗议血兰邦加入联邦，但苡瓦总理仍在推动统一。血兰邦现在分为"
-"联邦派和星联派两派，这对你来说可能是一个不同寻常的盟友和敌人的组合。"
+"长久以来集议会一直抗议血兰邦加入联邦，但苡瓦总理仍在推动统一。血兰邦现在分为联邦派和星联派两派，这对你来说可能是一个不同寻常的盟友和敌人的组合。"
 
 #: src-en/data/events_special_aea_cult.xml:16
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_START_AEA_CULT\"]/text[3]"
 msgstr ""
-"血兰邦星区是银河系中工业化程度最高的地区之一。由于大部分重工业现在都由血草兰"
-"花完成，这些星区的经济飞速发展，吸引了许多商人的目光。不幸的是，由于地缘政治"
-"因素也引起了星联招募人员的注意。无论敌友，都要保持警惕。"
+"血兰邦星区是银河系中工业化程度最高的地区之一。由于大部分重工业现在都由血草兰花完成，这些星区的经济飞速发展，吸引了许多商人的目光。不幸的是，由于地缘政治因素也引起了星联招募人员的注意。无论敌友，都要保持警惕。"
 
 #: src-en/data/events_special_aea_cult.xml:30
 msgid ""
@@ -50,8 +38,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_cult.xml:40
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_CRIMINAL\"]/text"
-msgstr "这里似乎有些不对劲。通常情况下，血草兰花对你这样的星舰看都不看一眼，但现在，"
-"你监听到守卫舰上有可疑谈话内容。"
+msgstr "这里似乎有些不对劲。通常情况下，血草兰花对你这样的星舰看都不看一眼，但现在，你监听到守卫舰上有可疑谈话内容。"
 
 #: src-en/data/events_special_aea_cult.xml:42
 msgid ""
@@ -71,10 +58,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_cult.xml:55
 msgid "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/text"
 msgstr ""
-"血兰守卫舰向你呼叫，守卫舰舰长念念有词，仿佛这是他今天第一百次说这些话了。"
-"\"欢迎来到血兰邦"
-"。我们代表苡瓦总理欢迎所有和平来访的客人。不过，为了确保我们星区的稳定和秩序"
-"，我们要求所有像你这样的军用战舰在进入之前都要缴纳小额税款。\""
+"血兰守卫舰向你呼叫，守卫舰舰长念念有词，仿佛这是他今天第一百次说这些话了。\"欢迎来到血兰邦。我们代表苡瓦总理欢迎所有和平来访的客人。不过，为了确保我们星区的稳定和秩序，我们要求所有像你这样的军用战舰在进入之前都要缴纳小额税款。\""
 
 #: src-en/data/events_special_aea_cult.xml:57
 msgid ""
@@ -115,9 +99,7 @@ msgstr "(苡瓦)\"嘿，你的工资是我付的！\""
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_ivar\"]/event/text"
 msgstr ""
-"守卫一脸惭愧。"
-"\"呃……非常抱歉，总理阁下！我们不知道您要来。您……呃，有时真是难以捉摸。当然，"
-"费用可以免除。\"警卫眨了眨眼睛。\"请不要向我的上司提及此事。\""
+"守卫一脸惭愧。\"呃……非常抱歉，总理阁下！我们不知道您要来。您……呃，有时真是难以捉摸。当然，费用可以免除。\"警卫眨了眨眼睛。\"请不要向我的上司提及此事。\""
 
 #: src-en/data/events_special_aea_cult.xml:87
 msgid ""
@@ -137,9 +119,7 @@ msgstr "(阿尔科莱)阿尔科莱在该地区有业务。"
 #: src-en/data/events_special_aea_cult.xml:95
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_alkali\"]/event/text"
-msgstr "看到熟悉的面孔，警卫放松了一些。"
-"\"欢迎回来，博士！我们随时欢迎您的到来。当然，我可以免收费用。希望您能度过一"
-"段愉快的时光。\""
+msgstr "看到熟悉的面孔，警卫放松了一些。\"欢迎回来，博士！我们随时欢迎您的到来。当然，我可以免收费用。希望您能度过一段愉快的时光。\""
 
 #: src-en/data/events_special_aea_cult.xml:99
 msgid ""
@@ -149,8 +129,7 @@ msgstr ""
 #: src-en/data/events_special_aea_cult.xml:101
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/text"
-msgstr "\"啊，一位科学家！我们热烈欢迎任何科学家成员进入我们友好的星区。和往常一样，"
-"您有权享受折扣。祝您一路顺风。\""
+msgstr "\"啊，一位科学家！我们热烈欢迎任何科学家成员进入我们友好的星区。和往常一样，您有权享受折扣。祝您一路顺风。\""
 
 #: src-en/data/events_special_aea_cult.xml:103
 msgid ""
@@ -316,9 +295,7 @@ msgstr "(先进驾驶)启动自动驾驶来尝试逃跑。"
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/text"
 msgstr ""
-"\"我为什么要豁免你的费用"
-"？就因为你是变元者，对吗？希望你能意识到，血兰邦并不受制于联邦法律。坦白说，"
-"像你这样的人在这里是一种负担。我们应该向你多收费，而不是少收费。\""
+"\"我为什么要豁免你的费用？就因为你是变元者，对吗？希望你能意识到，血兰邦并不受制于联邦法律。坦白说，像你这样的人在这里是一种负担。我们应该向你多收费，而不是少收费。\""
 
 #: src-en/data/events_special_aea_cult.xml:242
 msgid ""
@@ -349,16 +326,12 @@ msgstr "血草兰花点点头，对废料进行快速的清点。\"很好。守�
 msgid ""
 "data/events_special_aea_cult.xml$//eventList[@name=\"GUARD_AEA_CULT_WAVER\"]/event[3]/text"
 msgstr ""
-"血草兰花用藤蔓抓挠脸上长长的花瓣。\"你可能知道"
-"，血兰邦并不受制于联邦的法律或管辖。尽管如此，我明白你的使命代表了这里所有人"
-"的最大利益。联邦可能不是我们的朋友，但叛军肯定是我们的敌人。我会帮你这个忙，"
-"但不要指望每个人都这么慷慨。\""
+"血草兰花用藤蔓抓挠脸上长长的花瓣。\"你可能知道，血兰邦并不受制于联邦的法律或管辖。尽管如此，我明白你的使命代表了这里所有人的最大利益。联邦可能不是我们的朋友，但叛军肯定是我们的敌人。我会帮你这个忙，但不要指望每个人都这么慷慨。\""
 
 #: src-en/data/events_special_aea_cult.xml:275
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_DESTROY\"]/text"
-msgstr "你已经击败了血兰守卫舰。不管他们的货舱里曾经存什么，现在肯定已经被摧毁了，但"
-"你至少可以从船上搜刮一些物资。"
+msgstr "你已经击败了血兰守卫舰。不管他们的货舱里曾经存什么，现在肯定已经被摧毁了，但你至少可以从船上搜刮一些物资。"
 
 #: src-en/data/events_special_aea_cult.xml:278
 msgid ""
@@ -368,8 +341,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_cult.xml:284
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_DEADCREW\"]/text"
-msgstr "你已经击败了血兰守卫舰。现在舰内没有船员能阻止你，你可以放心大胆地调查货物。"
-"你找到了一件武器带回星舰，然后继续搜刮其舰体。"
+msgstr "你已经击败了血兰守卫舰。现在舰内没有船员能阻止你，你可以放心大胆地调查货物。你找到了一件武器带回星舰，然后继续搜刮其舰体。"
 
 #: src-en/data/events_special_aea_cult.xml:288
 msgid ""
@@ -412,9 +384,7 @@ msgstr "未探索的信标。"
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"REINFORCEMENTS_AEA_CULT\"]/text"
 msgstr ""
-"\"在以前"
-"，我可能会站在联邦一边。但看到它雇佣的野蛮人在整个多元宇宙'宣传和平与繁荣'，"
-"我就明白了！你在来这里破坏和平的路上，屠杀了我们的植物同胞，人渣！\""
+"\"在以前，我可能会站在联邦一边。但看到它雇佣的野蛮人在整个多元宇宙'宣传和平与繁荣'，我就明白了！你在来这里破坏和平的路上，屠杀了我们的植物同胞，人渣！\""
 
 #: src-en/data/events_special_aea_cult.xml:324
 msgid ""
@@ -434,8 +404,7 @@ msgstr "访问市场。"
 #: src-en/data/events_special_aea_cult.xml:382
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[1]/event/text"
-msgstr "多名兰花族向顾客招手，试图引起他们的注意，而各个物种的好奇的购物者们则四处张"
-"望。"
+msgstr "多名兰花族向顾客招手，试图引起他们的注意，而各个物种的好奇的购物者们则四处张望。"
 
 #: src-en/data/events_special_aea_cult.xml:384
 msgid ""
@@ -450,8 +419,7 @@ msgstr "攻击兰花族。"
 #: src-en/data/events_special_aea_cult.xml:392
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[2]/event/text"
-msgstr "看起来没有人急于帮助兰花族们，不过你的攻击使市场被封锁了。没时间担心这个了，"
-"你需要把瞄具对准你的新猎物。"
+msgstr "看起来没有人急于帮助兰花族们，不过你的攻击使市场被封锁了。没时间担心这个了，你需要把瞄具对准你的新猎物。"
 
 #: src-en/data/events_special_aea_cult.xml:395
 msgid ""
@@ -523,9 +491,7 @@ msgstr "(精英血兰邦船员+良好声望)与运输舰协商。"
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/text"
 msgstr ""
-"你的船员与对方舰长对话，向其解释我方任务的重要性。运输舰舰长若有所思，同时提"
-"到自己携带的货物对同一个任务也至关重要。如果你愿意付款以提供补偿的话，他们愿"
-"意破例一次。"
+"你的船员与对方舰长对话，向其解释我方任务的重要性。运输舰舰长若有所思，同时提到自己携带的货物对同一个任务也至关重要。如果你愿意付款以提供补偿的话，他们愿意破例一次。"
 
 #: src-en/data/events_special_aea_cult.xml:456
 msgid ""
@@ -601,8 +567,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_aea_cult.xml:516
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_CULT\"]/text"
-msgstr "对方船员都死了，留给你一艘空船。他们的货物任由你处置。船上就是预想当中的特殊"
-"科技，你将它带回星舰。"
+msgstr "对方船员都死了，留给你一艘空船。他们的货物任由你处置。船上就是预想当中的特殊科技，你将它带回星舰。"
 
 #: src-en/data/events_special_aea_cult.xml:536
 msgid ""
@@ -612,8 +577,7 @@ msgstr ""
 #: src-en/data/events_special_aea_cult.xml:537
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[2]"
-msgstr "没有任何言语，血兰邦飞船爆炸了。昂贵的工厂货物也一同走向深渊，无法触及，但至"
-"少你可以搜刮残骸。"
+msgstr "没有任何言语，血兰邦飞船爆炸了。昂贵的工厂货物也一同走向深渊，无法触及，但至少你可以搜刮残骸。"
 
 #: src-en/data/events_special_aea_cult.xml:538
 msgid ""
@@ -633,8 +597,7 @@ msgstr ""
 #: src-en/data/events_special_aea_cult.xml:549
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_CULT\"]/text[2]"
-msgstr "\"我不是一个信徒，那是绿叶的事…但当你停止呼吸的时候，那一定是个相当神圣的时刻"
-"。上帝啊…我希望没有地狱……\""
+msgstr "\"我不是一个信徒，那是绿叶的事…但当你停止呼吸的时候，那一定是个相当神圣的时刻。上帝啊…我希望没有地狱……\""
 
 #: src-en/data/events_special_aea_cult.xml:550
 msgid ""
@@ -650,9 +613,7 @@ msgstr "接受他们的投降。"
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[1]"
 msgstr ""
-"\"好吧"
-"，好吧！我喝酒喝得有点猛，所以表现得有点傻。也许是我有问题。听着，如果你饶了"
-"我，我会把我所有的东西都给你，而且我保证我会寻求心理咨询，可以吗？成交？\""
+"\"好吧，好吧！我喝酒喝得有点猛，所以表现得有点傻。也许是我有问题。听着，如果你饶了我，我会把我所有的东西都给你，而且我保证我会寻求心理咨询，可以吗？成交？\""
 
 #: src-en/data/events_special_aea_cult.xml:566
 msgid ""
@@ -662,8 +623,7 @@ msgstr ""
 #: src-en/data/events_special_aea_cult.xml:567
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[3]"
-msgstr "\"你们不能杀我，我是工业部门的重要成员！如果我不去给每瓶卡多奇化肥拧瓶盖，那"
-"还有谁会去呢！\""
+msgstr "\"你们不能杀我，我是工业部门的重要成员！如果我不去给每瓶卡多奇化肥拧瓶盖，那还有谁会去呢！\""
 
 #: src-en/data/events_special_aea_cult.xml:568
 msgid ""
@@ -673,8 +633,7 @@ msgstr ""
 #: src-en/data/events_special_aea_cult.xml:569
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[5]"
-msgstr "血兰邦舰长跪倒在地，向你求饶。他代表整个种族为他们过去的错误道歉，并向你提供"
-"他在工厂工作这个月的全部工资，以换取你放过他。"
+msgstr "血兰邦舰长跪倒在地，向你求饶。他代表整个种族为他们过去的错误道歉，并向你提供他在工厂工作这个月的全部工资，以换取你放过他。"
 
 #: src-en/data/events_special_aea_cult.xml:573
 msgid ""
@@ -719,8 +678,7 @@ msgstr ""
 #: src-en/data/events_special_aea_cult.xml:655
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/destroyed/text"
-msgstr "你以为异种猎人好歹有时也会投降一次，但他们从未投降过。相反，你的最后一击震撼"
-"了这艘船，而你看着它爆炸..."
+msgstr "你以为异种猎人好歹有时也会投降一次，但他们从未投降过。相反，你的最后一击震撼了这艘船，而你看着它爆炸..."
 
 #: src-en/data/events_special_aea_cult.xml:658
 msgid ""
@@ -731,8 +689,7 @@ msgstr "继续。"
 #, fuzzy
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/deadCrew/text"
-msgstr "异种猎人的船只已经被消灭了。在船上，你发现了先前的那个异种猎人，他受伤了，但"
-"令人惊讶的是他还活着。"
+msgstr "异种猎人的船只已经被消灭了。在船上，你发现了先前的那个异种猎人，他受伤了，但令人惊讶的是他还活着。"
 
 #: src-en/data/events_special_aea_cult.xml:667
 msgid ""

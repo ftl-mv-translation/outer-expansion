@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 15:25+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_aea_acidxml/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_acid.xml:3
 msgid "data/events_special_aea_acid.xml$//event[@name=\"ADDON_AEA\"]/text"
@@ -635,9 +628,8 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_ACID\"]/text"
 msgstr ""
-"선원들은 죽고 수송선만이 남았습니다. 화물은 이제 당신의 것입니다. 수송선 "
-"안에는 기대했던 대로 특별한 병기가 있었고 당신은 그것을 함선으로 가지고 "
-"돌아왔습니다."
+"선원들은 죽고 수송선만이 남았습니다. 화물은 이제 당신의 것입니다. 수송선 안에는 기대했던 대로 특별한 병기가 있었고 당신은 그것을 "
+"함선으로 가지고 돌아왔습니다."
 
 #: src-en/data/events_special_aea_acid.xml:621
 msgid ""
@@ -667,8 +659,7 @@ msgstr ""
 #: src-en/data/events_special_aea_acid.xml:626
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[6]"
-msgstr "그들이 생명체이건 아니건 간에 당신이 죽인 자들에 대해서는 유감스럽지 않을 수 "
-"없습니다."
+msgstr "그들이 생명체이건 아니건 간에 당신이 죽인 자들에 대해서는 유감스럽지 않을 수 없습니다."
 
 #: src-en/data/events_special_aea_acid.xml:629
 msgid ""
@@ -688,8 +679,7 @@ msgstr ""
 #: src-en/data/events_special_aea_acid.xml:649
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[3]"
-msgstr "살생을 거듭하면 죄책감에 무감각해질 것이라 생각했는데, 당신은 아직 그 경지에 "
-"이르지 못한 모양입니다."
+msgstr "살생을 거듭하면 죄책감에 무감각해질 것이라 생각했는데, 당신은 아직 그 경지에 이르지 못한 모양입니다."
 
 #: src-en/data/events_special_aea_acid.xml:650
 msgid ""
@@ -700,9 +690,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[5]"
 msgstr ""
-"선원들이 적함으로부터 유용한 것들을 가져오는 동안, 당신은 이 함선에 타고 "
-"있던 엔지들이 어떠한 고통이나 두려움도 느끼지 않았을 것이라며 스스로를 "
-"안심시켰습니다."
+"선원들이 적함으로부터 유용한 것들을 가져오는 동안, 당신은 이 함선에 타고 있던 엔지들이 어떠한 고통이나 두려움도 느끼지 않았을 것이라며"
+" 스스로를 안심시켰습니다."
 
 #: src-en/data/events_special_aea_acid.xml:654
 msgid ""
@@ -999,9 +988,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_SHIELDS\"]/deadCrew/text"
 msgstr ""
-"적 선원들이 모두 사망하자 당신은 재빨리 적의 해킹 모듈을 끕니다. 이내 함선의 "
-"방어막 제어실이 정상으로 돌아옵니다. 당신은 적 함선에서 유용한 것들을 "
-"벗겨냅니다."
+"적 선원들이 모두 사망하자 당신은 재빨리 적의 해킹 모듈을 끕니다. 이내 함선의 방어막 제어실이 정상으로 돌아옵니다. 당신은 적 함선에서"
+" 유용한 것들을 벗겨냅니다."
 
 #: src-en/data/events_special_aea_acid.xml:998
 msgid ""
@@ -1012,9 +1000,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_OXYGEN\"]/deadCrew/text"
 msgstr ""
-"적 선원들이 모두 사망하자 당신은 재빨리 적의 해킹 모듈을 끕니다. 이내 함선의 "
-"산소 제어실이 정상으로 돌아옵니다. 당신은 적 함선에서 유용한 것들을 "
-"벗겨냅니다."
+"적 선원들이 모두 사망하자 당신은 재빨리 적의 해킹 모듈을 끕니다. 이내 함선의 산소 제어실이 정상으로 돌아옵니다. 당신은 적 함선에서 "
+"유용한 것들을 벗겨냅니다."
 
 #: src-en/data/events_special_aea_acid.xml:1010
 msgid ""
@@ -1025,9 +1012,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_WEAPONS\"]/deadCrew/text"
 msgstr ""
-"적 선원들이 모두 사망하자 당신은 재빨리 적의 해킹 모듈을 끕니다. 이내 함선의 "
-"무기 시스템이 정상으로 돌아옵니다. 당신은 적 함선에서 유용한 것들을 "
-"벗겨냅니다."
+"적 선원들이 모두 사망하자 당신은 재빨리 적의 해킹 모듈을 끕니다. 이내 함선의 무기 시스템이 정상으로 돌아옵니다. 당신은 적 함선에서 "
+"유용한 것들을 벗겨냅니다."
 
 #: src-en/data/events_special_aea_acid.xml:1022
 msgid ""
@@ -1038,9 +1024,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_HACKING\"]/deadCrew/text"
 msgstr ""
-"적 선원들이 모두 사망하자 당신은 재빨리 적의 해킹 모듈을 끕니다. 이내 함선의 "
-"무기 시스템이 정상으로 돌아옵니다. 당신은 적 함선에서 유용한 것들을 "
-"벗겨냅니다."
+"적 선원들이 모두 사망하자 당신은 재빨리 적의 해킹 모듈을 끕니다. 이내 함선의 무기 시스템이 정상으로 돌아옵니다. 당신은 적 함선에서 "
+"유용한 것들을 벗겨냅니다."
 
 #: src-en/data/events_special_aea_acid.xml:1035
 msgid ""
@@ -1065,8 +1050,7 @@ msgstr "잔해를 버리고 수감선을 뒤쫓는다."
 #: src-en/data/events_special_aea_acid.xml:1046
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/event/text"
-msgstr "당신은 성운속을 따라 수감선을 뒤쫓습니다. 마침내 그들은 포기하고 "
-"항복하는군요."
+msgstr "당신은 성운속을 따라 수감선을 뒤쫓습니다. 마침내 그들은 포기하고 항복하는군요."
 
 #: src-en/data/events_special_aea_acid.xml:1048
 msgid ""
@@ -1101,8 +1085,7 @@ msgstr "잔해를 버리고 수감선을 뒤쫓는다."
 #: src-en/data/events_special_aea_acid.xml:1069
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/event/text"
-msgstr "당신은 성운속을 따라 수감선을 뒤쫓습니다. 마침내 그들은 포기하고 "
-"항복하는군요."
+msgstr "당신은 성운속을 따라 수감선을 뒤쫓습니다. 마침내 그들은 포기하고 항복하는군요."
 
 #: src-en/data/events_special_aea_acid.xml:1071
 msgid ""
@@ -1222,8 +1205,7 @@ msgstr "계속..."
 #: src-en/data/events_special_aea_acid.xml:1183
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/deadCrew/choice/event/text"
-msgstr "다행히 그들 함선 내부의 실험실은 전투 도중 손상되지 않은 것 같습니다. 당신은 "
-"해독제를 잡아 선원들에게 투여합니다."
+msgstr "다행히 그들 함선 내부의 실험실은 전투 도중 손상되지 않은 것 같습니다. 당신은 해독제를 잡아 선원들에게 투여합니다."
 
 #: src-en/data/events_special_aea_acid.xml:1192
 msgid ""

@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 15:26+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-outer-expansion/dataevents_sector_aea_necroxml/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_aea_necro.xml:28
 msgid ""
@@ -130,22 +123,18 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_necro.xml:131
 msgid ""
 "data/events_sector_aea_necro.xml$//eventList[@name=\"DEFUNCT_AEA_NECRO_SALVAGE\"]/event[1]/text"
-msgstr "飞船基本完好无损，拥有丰厚的废料和资源。你把这些物资拖回自己的星舰，完全没有"
-"遇到任何阻力。"
+msgstr "飞船基本完好无损，拥有丰厚的废料和资源。你把这些物资拖回自己的星舰，完全没有遇到任何阻力。"
 
 #: src-en/data/events_sector_aea_necro.xml:135
 msgid ""
 "data/events_sector_aea_necro.xml$//eventList[@name=\"DEFUNCT_AEA_NECRO_SALVAGE\"]/event[2]/text"
-msgstr "飞船基本完好无损，拥有丰厚的废料和资源。在搜刮飞船的过程中，你在货舱里发现了"
-"一张可以使用的无人机蓝图。"
+msgstr "飞船基本完好无损，拥有丰厚的废料和资源。在搜刮飞船的过程中，你在货舱里发现了一张可以使用的无人机蓝图。"
 
 #: src-en/data/events_sector_aea_necro.xml:142
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WORTHLESS_JUNK\"]/text"
 msgstr ""
-"你听见附近舰船上有两位分离者在为某个增强部件吵架。你向他们呼叫。"
-"\"你好，致意。我们获得了物品。物品用途未知，我们留下物品的意愿是0。请将这件["
-"无用的垃圾]从我们手中拿走。\""
+"你听见附近舰船上有两位分离者在为某个增强部件吵架。你向他们呼叫。\"你好，致意。我们获得了物品。物品用途未知，我们留下物品的意愿是0。请将这件[无用的垃圾]从我们手中拿走。\""
 
 #: src-en/data/events_sector_aea_necro.xml:145
 msgid ""
@@ -720,8 +709,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_necro.xml:602
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/text"
-msgstr "一艘分离者舰船在附近飘荡，慢慢与你拉开距离。你感到有些困惑，因为快速扫描后发"
-"现船上没有船员，但是其本身仍在运作，并对外部有响应。"
+msgstr "一艘分离者舰船在附近飘荡，慢慢与你拉开距离。你感到有些困惑，因为快速扫描后发现船上没有船员，但是其本身仍在运作，并对外部有响应。"
 
 #: src-en/data/events_sector_aea_necro.xml:605
 msgid ""
@@ -792,8 +780,7 @@ msgstr "(蛞蝓族船员)试着感应生命迹象。"
 #: src-en/data/events_sector_aea_necro.xml:649
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
-msgstr "你的蛞蝓族船员试图感应船上任何智慧生物迹象。他们感应到微微可能有迹象，但对他"
-"们来说几乎无法分辨。"
+msgstr "你的蛞蝓族船员试图感应船上任何智慧生物迹象。他们感应到微微可能有迹象，但对他们来说几乎无法分辨。"
 
 #: src-en/data/events_sector_aea_necro.xml:651
 msgid ""
@@ -839,8 +826,7 @@ msgstr "(心灵感应甲壳族)试图感应到生命迹象。"
 #: src-en/data/events_sector_aea_necro.xml:680
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_MURDERBOTS\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/text"
-msgstr "你的甲壳族船员试图感应船上任何智慧生物迹象。他们感应到微微可能有迹象，但对他"
-"们来说几乎无法分辨。"
+msgstr "你的甲壳族船员试图感应船上任何智慧生物迹象。他们感应到微微可能有迹象，但对他们来说几乎无法分辨。"
 
 #: src-en/data/events_sector_aea_necro.xml:682
 msgid ""
@@ -1261,8 +1247,7 @@ msgstr "(防护程序)恢复护盾系统的运作。"
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[@req=\"ANTI_VIRUS\"]/event/text"
 msgstr ""
-".....................................................................恢复成功"
-"。"
+".....................................................................恢复成功。"
 
 #: src-en/data/events_sector_aea_necro.xml:1029
 msgid ""
@@ -1278,8 +1263,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"QUEST_AEA_NECRO_ELITE_QUEST\"]/choice[@req=\"hacking\"]/event/text"
 msgstr ""
-".....................................................................恢复成功"
-"。"
+".....................................................................恢复成功。"
 
 #: src-en/data/events_sector_aea_necro.xml:1040
 msgid ""
@@ -1329,15 +1313,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_necro.xml:1101
 msgid ""
 "data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[2]"
-msgstr "一个非常啰嗦的奇怪半械族向你呼叫。"
-"\"这相遇的时机非常不凑巧，联邦舰。我似乎损坏了体内编码理性与逻辑的系统，现在"
-"杀戮欲望正在高涨。\""
+msgstr "一个非常啰嗦的奇怪半械族向你呼叫。\"这相遇的时机非常不凑巧，联邦舰。我似乎损坏了体内编码理性与逻辑的系统，现在杀戮欲望正在高涨。\""
 
 #: src-en/data/events_sector_aea_necro.xml:1102
 msgid ""
 "data/events_sector_aea_necro.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_NECRO\"]/text[3]"
-msgstr "一个被激怒的分离者向你呼叫。"
-"\"问题：你不小心踩到了我一位变成显微尺寸的挚友。解决方案：死。\""
+msgstr "一个被激怒的分离者向你呼叫。\"问题：你不小心踩到了我一位变成显微尺寸的挚友。解决方案：死。\""
 
 #: src-en/data/events_sector_aea_necro.xml:1103
 msgid ""
@@ -1377,10 +1358,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_necro.xml:1126
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"ENCOUNTER_REBEL_AUTO_AEA_NECRO_KILL\"]/text"
-msgstr ""
-"分离者们发出听上去像是机械笑声的声音。"
-"\"太好了，我明白其他人为什么看斗兽场战斗会这么津津有味了。\""
-"他们跃迁离开，将你与自动舰的残骸抛在身后。"
+msgstr "分离者们发出听上去像是机械笑声的声音。\"太好了，我明白其他人为什么看斗兽场战斗会这么津津有味了。\"他们跃迁离开，将你与自动舰的残骸抛在身后。"
 
 #: src-en/data/events_sector_aea_necro.xml:1131
 msgid ""

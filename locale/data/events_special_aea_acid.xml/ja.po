@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 15:24+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Japanese <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_aea_acidxml/ja/>\n"
-"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_acid.xml:3
 msgid "data/events_special_aea_acid.xml$//event[@name=\"ADDON_AEA\"]/text"
@@ -638,8 +631,7 @@ msgstr "何もしない。"
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_ACID\"]/text"
 msgstr ""
-"敵クルーは死亡し、敵船が残されました。その貨物はあなたのものです。自船に持ち"
-"帰った貨物には、あなたが期待していた特別な技術が搭載されていました。"
+"敵クルーは死亡し、敵船が残されました。その貨物はあなたのものです。自船に持ち帰った貨物には、あなたが期待していた特別な技術が搭載されていました。"
 
 #: src-en/data/events_special_aea_acid.xml:621
 msgid ""
@@ -923,8 +915,7 @@ msgstr "放っておく。"
 #: src-en/data/events_special_aea_acid.xml:907
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/destroyed/choice[1]/event/text"
-msgstr "この哀れな連中と戦っても仕方がない。あなたはエンジンを起動し、ワープに備えた"
-"。"
+msgstr "この哀れな連中と戦っても仕方がない。あなたはエンジンを起動し、ワープに備えた。"
 
 #: src-en/data/events_special_aea_acid.xml:911
 msgid ""
@@ -944,8 +935,7 @@ msgstr "放っておく。"
 #: src-en/data/events_special_aea_acid.xml:921
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/choice[1]/event/text"
-msgstr "この哀れな連中と戦っても仕方がない。あなたはエンジンを起動し、ワープに備えた"
-"。"
+msgstr "この哀れな連中と戦っても仕方がない。あなたはエンジンを起動し、ワープに備えた。"
 
 #: src-en/data/events_special_aea_acid.xml:925
 msgid ""
@@ -995,8 +985,7 @@ msgstr ""
 #: src-en/data/events_special_aea_acid.xml:991
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_SHIELDS\"]/deadCrew/text"
-msgstr "敵のクルーが全滅し、すかさずハッキングモジュールを遮断する。シールドが正常に"
-"戻り、あなたは船の略奪にかかった。"
+msgstr "敵のクルーが全滅し、すかさずハッキングモジュールを遮断する。シールドが正常に戻り、あなたは船の略奪にかかった。"
 
 #: src-en/data/events_special_aea_acid.xml:998
 msgid ""
@@ -1016,8 +1005,7 @@ msgstr ""
 #: src-en/data/events_special_aea_acid.xml:1015
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_WEAPONS\"]/deadCrew/text"
-msgstr "敵のクルーが全滅し、すかさずハッキングモジュールを遮断する。兵器システムが正"
-"常に戻り、あなたは船の略奪にかかった。"
+msgstr "敵のクルーが全滅し、すかさずハッキングモジュールを遮断する。兵器システムが正常に戻り、あなたは船の略奪にかかった。"
 
 #: src-en/data/events_special_aea_acid.xml:1022
 msgid ""
@@ -1027,8 +1015,7 @@ msgstr ""
 #: src-en/data/events_special_aea_acid.xml:1027
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_HACKING\"]/deadCrew/text"
-msgstr "敵のクルーが全滅し、すかさずハッキングモジュールを遮断する。システムは正常に"
-"復帰し、あなたは船の略奪にかかった。"
+msgstr "敵のクルーが全滅し、すかさずハッキングモジュールを遮断する。システムは正常に復帰し、あなたは船の略奪にかかった。"
 
 #: src-en/data/events_special_aea_acid.xml:1035
 msgid ""

@@ -1,147 +1,132 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 15:28+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/datatext_miscxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
-#: src-en/data/text_misc.xml.append:4
-msgid "data/text_misc.xml.append$//text[@name=\"aea_acidic_nebula_tooltip\"]"
-msgstr ""
-"Вы находитесь внутри Кислотной туманности. Ваши сенсоры не будут работать, а "
-"в пустых отсеках будут беспорядочно появляться пробоины, создаваемые "
-"кислотными облаками."
-
-#: src-en/data/text_misc.xml.append:6
+#: src-en/data/text_misc.xml.append:5
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_acid_nebula\"]"
 msgstr "КИСЛОТНЫЙ"
 
-#: src-en/data/text_misc.xml.append:7
+#: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_acid_nebula_core\"]"
 msgstr "КИСЛОТНОЕ ЯДРО [!]"
 
-#: src-en/data/text_misc.xml.append:8
+#: src-en/data/text_misc.xml.append:7
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"map_icon_aea_acid_nebula_shipyard\"]"
 msgstr "КИСЛОТНАЯ ВЕРФЬ"
 
-#: src-en/data/text_misc.xml.append:9
+#: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_necro_home\"]"
 msgstr "САНКТУМ"
 
-#: src-en/data/text_misc.xml.append:10
+#: src-en/data/text_misc.xml.append:9
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_transport_aea_acid\"]"
 msgstr "ТРАНСПОРТ [!]"
 
-#: src-en/data/text_misc.xml.append:11
+#: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_flower\"]"
 msgstr "ЦВЕТОК [!]"
 
-#: src-en/data/text_misc.xml.append:12
+#: src-en/data/text_misc.xml.append:11
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_seed\"]"
 msgstr "СЕМЯ [!]"
 
-#: src-en/data/text_misc.xml.append:13
+#: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_conspiracy\"]"
 msgstr "КОНСПИРАЦИЯ [!]"
 
-#: src-en/data/text_misc.xml.append:14
+#: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_bird_engineer\"]"
 msgstr "ИНЖЕНЕРИЯ [!]"
 
-#: src-en/data/text_misc.xml.append:15
+#: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shleg_battle\"]"
 msgstr "СИГНАЛ БЕДСТВИЯ [!]"
 
-#: src-en/data/text_misc.xml.append:16
+#: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_distress\"]"
 msgstr "БЕДСТВИЕ"
 
-#: src-en/data/text_misc.xml.append:17
+#: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shleg_radiant\"]"
 msgstr "БАЗА ЛУЧЕЗАРНЫХ [!]"
 
-#: src-en/data/text_misc.xml.append:18
+#: src-en/data/text_misc.xml.append:17
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shleg_quest\"]"
 msgstr "КВЕСТ [!]"
 
-#: src-en/data/text_misc.xml.append:19
+#: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_broadside\"]"
 msgstr "КОРАБЛЬ [!]"
 
-#: src-en/data/text_misc.xml.append:20
+#: src-en/data/text_misc.xml.append:19
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shard_palace\"]"
 msgstr "ДВОРЕЦ [!]"
 
-#: src-en/data/text_misc.xml.append:21
+#: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shard_auto\"]"
 msgstr "АВТО [!]"
 
-#: src-en/data/text_misc.xml.append:23
+#: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_gate\"]"
 msgstr "ВРАТА [!]"
 
-#: src-en/data/text_misc.xml.append:24
+#: src-en/data/text_misc.xml.append:23
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_cell\"]"
 msgstr "???"
 
-#: src-en/data/text_misc.xml.append:25
+#: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_baron\"]"
 msgstr "БАРОН [!]"
 
-#: src-en/data/text_misc.xml.append:26
+#: src-en/data/text_misc.xml.append:25
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_council\"]"
 msgstr "СОВЕТ [!]"
 
-#: src-en/data/text_misc.xml.append:28
+#: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_1\"]"
 msgstr "Юнифекс"
 
-#: src-en/data/text_misc.xml.append:29
+#: src-en/data/text_misc.xml.append:28
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_2\"]"
 msgstr "Сущность"
 
-#: src-en/data/text_misc.xml.append:30
+#: src-en/data/text_misc.xml.append:29
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_3\"]"
 msgstr "Импульс"
 
-#: src-en/data/text_misc.xml.append:31
+#: src-en/data/text_misc.xml.append:30
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_4\"]"
 msgstr "Тренд"
 
-#: src-en/data/text_misc.xml.append:32
+#: src-en/data/text_misc.xml.append:31
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_5\"]"
 msgstr "Конкорданс"
 
-#: src-en/data/text_misc.xml.append:34
+#: src-en/data/text_misc.xml.append:33
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_1_i\"]"
 msgstr "Юнифекс [!]"
 
-#: src-en/data/text_misc.xml.append:35
+#: src-en/data/text_misc.xml.append:34
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_2_i\"]"
 msgstr "Сущность [!]"
 
-#: src-en/data/text_misc.xml.append:36
+#: src-en/data/text_misc.xml.append:35
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_3_i\"]"
 msgstr "Импульс [!]"
 
-#: src-en/data/text_misc.xml.append:37
+#: src-en/data/text_misc.xml.append:36
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_4_i\"]"
 msgstr "Тренд [!]"
 
-#: src-en/data/text_misc.xml.append:38
+#: src-en/data/text_misc.xml.append:37
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_5_i\"]"
 msgstr "Конкорданс [!]"
 
-#: src-en/data/text_misc.xml.append:41
+#: src-en/data/text_misc.xml.append:40
 msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_acid_1\"]"
 msgstr ""
 "КИСЛОТНАЯ ДОБЫЧА\n"
@@ -149,14 +134,14 @@ msgstr ""
 "3x скорость эрозии\n"
 "2x максимальная скорость эрозии"
 
-#: src-en/data/text_misc.xml.append:45
+#: src-en/data/text_misc.xml.append:44
 msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_necro_1\"]"
 msgstr ""
 "ДОБЫЧА ЕРЕТИКОВ\n"
 "-1 урон\n"
 "+2 выстрела"
 
-#: src-en/data/text_misc.xml.append:48
+#: src-en/data/text_misc.xml.append:47
 msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_old_1\"]"
 msgstr ""
 "ДОБЫЧА ЛИЛМИКОВ\n"
@@ -164,7 +149,7 @@ msgstr ""
 "+100% шанс пробоины\n"
 "Последний выстрел в залпе наносит 1 дополнительный урон корпусу"
 
-#: src-en/data/text_misc.xml.append:52
+#: src-en/data/text_misc.xml.append:51
 msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_cult_1\"]"
 msgstr ""
 "ДОБЫЧА СЕКТАНТОВ\n"
@@ -172,14 +157,14 @@ msgstr ""
 "-2 секундная перезарядка\n"
 "+1 урон за каждого дружественного сектанта с экипированным заклинанием"
 
-#: src-en/data/text_misc.xml.append:56
+#: src-en/data/text_misc.xml.append:55
 msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_bird_1\"]"
 msgstr ""
 "ДОБЫЧА ГИ\n"
 "+1 ионный урон системам с вторичным выстрелом\n"
 "+2 скорость"
 
-#: src-en/data/text_misc.xml.append:59
+#: src-en/data/text_misc.xml.append:58
 msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_shleg_1\"]"
 msgstr ""
 "ДОБЫЧА АНАРХИСТОВ\n"
@@ -187,46 +172,46 @@ msgstr ""
 "-2 урона корпусу\n"
 "-1 урона системам"
 
-#: src-en/data/text_misc.xml.append:63
+#: src-en/data/text_misc.xml.append:62
 msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_shard_1\"]"
 msgstr ""
 "ДОБЫЧА ОСКОЛКОРОЖДЕННЫХ\n"
 "Накладывает эффект потери здоровья при попадании в отсек"
 
-#: src-en/data/text_misc.xml.append:66
+#: src-en/data/text_misc.xml.append:65
 msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_old_unknown\"]"
 msgstr ""
 "Совет: Странное оружие? Вы задаетесь вопросом, не связано ли оно с теми "
 "странными вратами в Узле 17..."
 
-#: src-en/data/text_misc.xml.append:67
+#: src-en/data/text_misc.xml.append:66
 msgid "data/text_misc.xml.append$//text[@name=\"tip_laser_old\"]"
 msgstr ""
 "Совет: каждый лазерный выстрел будет блокирован двумя слоями щита, "
 "независимо от урона лазера."
 
-#: src-en/data/text_misc.xml.append:68
+#: src-en/data/text_misc.xml.append:67
 msgid "data/text_misc.xml.append$//text[@name=\"tip_laser_oldp\"]"
 msgstr ""
 "Совет: каждый лазерный выстрел будет блокирован одним слоем щита, несмотря "
 "на то что урон по корпусу будет равен 0."
 
-#: src-en/data/text_misc.xml.append:69
+#: src-en/data/text_misc.xml.append:68
 msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_spellspore\"]"
 msgstr ""
 "Совет: каждое заклинание, используемое в оружии, может быть направлено "
 "только на вражеский корабль. Заклинания не могут промахнуться, а оружие с "
 "заклинаниями выстреливает каждое заклинание дважды за заряд."
 
-#: src-en/data/text_misc.xml.append:70
+#: src-en/data/text_misc.xml.append:69
 msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_shleg\"]"
 msgstr ""
-"Совет: эффект контроля разума Инкубационного газа накапливается со скоростью "
-"5 ОЗ/с. Как только уровень этого эффекта достигнет текущего уровня здоровья "
-"вражеского экипажа, начнется снижение здоровья со скоростью 8 ОЗ/с, а также "
-"контроль его разума."
+"Совет: эффект контроля разума Инкубационного газа накапливается со скоростью"
+" 5 ОЗ/с. Как только уровень этого эффекта достигнет текущего уровня здоровья"
+" вражеского экипажа, начнется снижение здоровья со скоростью 8 ОЗ/с, а также"
+" контроль его разума."
 
-#: src-en/data/text_misc.xml.append:72
+#: src-en/data/text_misc.xml.append:71
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_acid\"]"
 msgstr ""
 "Название: Родные кислотные миры\n"
@@ -236,11 +221,9 @@ msgstr ""
 "Уровень угрозы повстанцев: Низкий\n"
 "Интересные места: Центральные верфи Кислотных родных миров\n"
 "    \n"
-"Кислотные родные миры - опасное место, только самые мощные корабли способны "
-"выжить в Кислотной туманности, и это еще не считая попыток пережить встречу "
-"с Кислотными кораблями."
+"Кислотные родные миры - опасное место, только самые мощные корабли способны выжить в Кислотной туманности, и это еще не считая попыток пережить встречу с Кислотными кораблями."
 
-#: src-en/data/text_misc.xml.append:81
+#: src-en/data/text_misc.xml.append:80
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_necro\"]"
 msgstr ""
 "Название: Ядро богохульства\n"
@@ -250,12 +233,9 @@ msgstr ""
 "Уровень угрозы повстанцев: Низкий\n"
 "Интересные места: Санктум\n"
 "    \n"
-"Еретики энджи - изгои даже среди Сепаратистов. Вырвавшись из Гармонии, эти "
-"энджи предпочитают использовать органическую жизнь как инструмент для "
-"выполнения своих задач. Вы сможете с ними справиться, если у вас не будет "
-"органического экипажа."
+"Еретики энджи - изгои даже среди Сепаратистов. Вырвавшись из Гармонии, эти энджи предпочитают использовать органическую жизнь как инструмент для выполнения своих задач. Вы сможете с ними справиться, если у вас не будет органического экипажа."
 
-#: src-en/data/text_misc.xml.append:90
+#: src-en/data/text_misc.xml.append:89
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_cult\"]"
 msgstr ""
 "Название: Дом Одноцветка\n"
@@ -265,14 +245,9 @@ msgstr ""
 "Уровень угрозы повстанцев: Средний-низкий\n"
 "Интересные места: Одноцветок\n"
 "    \n"
-"Хотя технически культ не является частью Конфедерации, он имеет тесные связи "
-"с ней, и любые действия против сектантов могут плохо отразиться на вашей "
-"репутации в глазах Конфедерации. В этом секторе находится бог секты - "
-"Одноцветок, многие считают, что их бог на самом деле не является живым "
-"существом, а представляет собой продвинутый искусственный интеллект. Никто "
-"не знает наверняка, кроме, возможно, самого цветка."
+"Хотя технически культ не является частью Конфедерации, он имеет тесные связи с ней, и любые действия против сектантов могут плохо отразиться на вашей репутации в глазах Конфедерации. В этом секторе находится бог секты - Одноцветок, многие считают, что их бог на самом деле не является живым существом, а представляет собой продвинутый искусственный интеллект. Никто не знает наверняка, кроме, возможно, самого цветка."
 
-#: src-en/data/text_misc.xml.append:99
+#: src-en/data/text_misc.xml.append:98
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_bird\"]"
 msgstr ""
 "Название: Места гнездования ги\n"
@@ -282,11 +257,9 @@ msgstr ""
 "Уровень угрозы повстанцев: Средний (Нейтральный флот)\n"
 "Интересные места: Центральный инженерный комплекс\n"
 "    \n"
-"Ги - близкие союзники Федерации. Недавно открытая раса, они еще не успели "
-"присоединиться к Федерации, но уже на пути к этому и имеют большое "
-"представительство Федерации в секторе."
+"Ги - близкие союзники Федерации. Недавно открытая раса, они еще не успели присоединиться к Федерации, но уже на пути к этому и имеют большое представительство Федерации в секторе."
 
-#: src-en/data/text_misc.xml.append:107
+#: src-en/data/text_misc.xml.append:106
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_shleg\"]"
 msgstr ""
 "Название: Центральная туманность Анархистов\n"
@@ -295,12 +268,9 @@ msgstr ""
 "Доминирующая фракция: Анархисты ракушек и слизней\n"
 "Уровень угрозы повстанцев: Средний (автоматический флот)\n"
 "\n"
-"Анархисты - это объединенная группа ракушек и слизней, которые объединились, "
-"чтобы дать отпор своим коллективным правительствам. Хотя они и не находятся "
-"в прямом конфликте с Федерацией, но и не являются ее поклонниками, будьте на "
-"чеку."
+"Анархисты - это объединенная группа ракушек и слизней, которые объединились, чтобы дать отпор своим коллективным правительствам. Хотя они и не находятся в прямом конфликте с Федерацией, но и не являются ее поклонниками, будьте на чеку."
 
-#: src-en/data/text_misc.xml.append:114
+#: src-en/data/text_misc.xml.append:113
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_shard\"]"
 msgstr ""
 "Название: Дворец Осколкорожденных\n"
@@ -310,352 +280,349 @@ msgstr ""
 "Уровень угрозы повстанцев: Низкий\n"
 "Интересные места: Дворец Рассвета\n"
 "\n"
-"Осколкорожденные, хотя и известны как пираты, пользуются большой "
-"популярностью у Федерации и ее союзников. Осколкорожденные существуют со "
-"времен расцвета Империи кристаллинов и зарекомендовали себя как надежные и "
-"достойные союзники для тех, кто может их к себе расположить. Во время "
-"недавнего конфликта между Восстанием и Федерацией Осколкорожденные вступили "
-"в союз с Федерацией в борьбе с повстанцами."
+"Осколкорожденные, хотя и известны как пираты, пользуются большой популярностью у Федерации и ее союзников. Осколкорожденные существуют со времен расцвета Империи кристаллинов и зарекомендовали себя как надежные и достойные союзники для тех, кто может их к себе расположить. Во время недавнего конфликта между Восстанием и Федерацией Осколкорожденные вступили в союз с Федерацией в борьбе с повстанцами."
 
-#: src-en/data/text_misc.xml.append:123
+#: src-en/data/text_misc.xml.append:122
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_BILL_unlock\"]"
 msgstr ""
 "Посоветуйтесь с кислотным изгоем по поводу конкретного артефакта, чтобы "
 "разблокировать корабль."
 
-#: src-en/data/text_misc.xml.append:124
+#: src-en/data/text_misc.xml.append:123
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_KING_unlock\"]"
 msgstr ""
 "Посоветуйтесь с лидером Еретиков по поводу конкретного артефакта, чтобы "
 "разблокировать корабль."
 
-#: src-en/data/text_misc.xml.append:125
+#: src-en/data/text_misc.xml.append:124
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_TINY_unlock\"]"
 msgstr ""
 "Посоветуйтесь с Крошкой-Вампсорняком по поводу конкретного артефакта, чтобы "
 "разблокировать корабль."
 
-#: src-en/data/text_misc.xml.append:126
+#: src-en/data/text_misc.xml.append:125
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_JAY_unlock\"]"
 msgstr ""
 "Посоветуйтесь с птичьим инженером по поводу конкретного артефакта, чтобы "
 "разблокировать корабль."
 
-#: src-en/data/text_misc.xml.append:127
+#: src-en/data/text_misc.xml.append:126
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHLEG_UNI_unlock\"]"
 msgstr ""
 "Посоветуйтесь с основателем Анархистов по поводу конкретного артефакта, "
 "чтобы разблокировать корабль."
 
-#: src-en/data/text_misc.xml.append:128
+#: src-en/data/text_misc.xml.append:127
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_UNI_unlock\"]"
 msgstr ""
 "Посоветуйтесь с королем пиратов по поводу конкретного артефакта, чтобы "
 "разблокировать корабль."
 
-#: src-en/data/text_misc.xml.append:130
+#: src-en/data/text_misc.xml.append:129
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_1_unlock\"]"
 msgstr ""
 "Обратитесь за помощью к члену Совета лилмиков и сбегите из карантина, чтобы "
 "разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:131
+#: src-en/data/text_misc.xml.append:130
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_2_unlock\"]"
 msgstr ""
 "Обратитесь за помощью к члену Совета лилмиков и сбегите из карантина, чтобы "
 "разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:132
+#: src-en/data/text_misc.xml.append:131
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_3_unlock\"]"
 msgstr ""
 "Обратитесь за помощью к члену Совета лилмиков и сбегите из карантина, чтобы "
 "разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:133
+#: src-en/data/text_misc.xml.append:132
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_4_unlock\"]"
 msgstr ""
 "Обратитесь за помощью к члену Совета лилмиков и сбегите из карантина, чтобы "
 "разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:134
+#: src-en/data/text_misc.xml.append:133
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_5_unlock\"]"
 msgstr ""
 "Обратитесь за помощью к члену Совета лилмиков и сбегите из карантина, чтобы "
 "разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:136
+#: src-en/data/text_misc.xml.append:135
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_ARTY_unlock\"]"
 msgstr "Помогите кислотному изгою, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:137
+#: src-en/data/text_misc.xml.append:136
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_ARTY_2_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 с кислотным крейсером типа A, чтобы разблокировать "
 "этот корабль."
 
-#: src-en/data/text_misc.xml.append:138
+#: src-en/data/text_misc.xml.append:137
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_ARTY_3_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на кислотном крейсере типа Б или пройдите игру на "
 "кислотном крейсере типа A, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:140
+#: src-en/data/text_misc.xml.append:139
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_LONG_unlock\"]"
 msgstr ""
 "Найдите центральные верфи Кислотного роста, чтобы разблокировать этот "
 "корабль."
 
-#: src-en/data/text_misc.xml.append:141
+#: src-en/data/text_misc.xml.append:140
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_LONG_2_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на Кислотном разрушителе типа A, чтобы "
 "разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:142
+#: src-en/data/text_misc.xml.append:141
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_LONG_3_unlock\"]"
 msgstr ""
-"Доберитесь до сектора 5 на Кислотном разрушителе типа Б или пройдите игру на "
-"Кислотном разрушителе типа A, чтобы разблокировать этот корабль."
+"Доберитесь до сектора 5 на Кислотном разрушителе типа Б или пройдите игру на"
+" Кислотном разрушителе типа A, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:144
+#: src-en/data/text_misc.xml.append:143
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_ENGI_unlock\"]"
 msgstr ""
 "Посетите Санктум и произведите впечатление на энджи, чтобы разблокировать "
 "этот корабль."
 
-#: src-en/data/text_misc.xml.append:145
+#: src-en/data/text_misc.xml.append:144
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_ENGI_2_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на крейсере Еретиков типа A, чтобы разблокировать "
 "этот корабль."
 
-#: src-en/data/text_misc.xml.append:146
+#: src-en/data/text_misc.xml.append:145
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_ENGI_3_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на крейсере Еретиков типа Б или пройдите игру на "
 "крейсере Еретиков типа A, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:148
+#: src-en/data/text_misc.xml.append:147
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_SEPA_unlock\"]"
 msgstr "Посетите необычного энджи, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:149
+#: src-en/data/text_misc.xml.append:148
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_SEPA_2_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на крейсере Богохульства типа A, чтобы "
 "разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:150
+#: src-en/data/text_misc.xml.append:149
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_SEPA_3_unlock\"]"
 msgstr ""
-"Доберитесь до сектора 5 на крейсере Богохульства типа Б или пройдите игру на "
-"крейсере Богохульства типа A, чтобы разблокировать этот корабль."
+"Доберитесь до сектора 5 на крейсере Богохульства типа Б или пройдите игру на"
+" крейсере Богохульства типа A, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:152
+#: src-en/data/text_misc.xml.append:151
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_ARMOUR_unlock\"]"
 msgstr "Чтобы разблокировать этот корабль, сбегите из карантина."
 
-#: src-en/data/text_misc.xml.append:153
+#: src-en/data/text_misc.xml.append:152
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_ARMOUR_2_unlock\"]"
 msgstr ""
-"Доберитесь до сектора 5 на корабле типа А, чтобы разблокировать этот корабль."
+"Доберитесь до сектора 5 на корабле типа А, чтобы разблокировать этот "
+"корабль."
 
-#: src-en/data/text_misc.xml.append:154
+#: src-en/data/text_misc.xml.append:153
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_ARMOUR_3_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на корабле типа Б или пройдите игру на корабле типа "
 "A, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:156
+#: src-en/data/text_misc.xml.append:155
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_HAMMER_unlock\"]"
 msgstr "Победите Барона, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:157
+#: src-en/data/text_misc.xml.append:156
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_HAMMER_2_unlock\"]"
 msgstr ""
-"Доберитесь до сектора 5 на корабле типа А, чтобы разблокировать этот корабль."
+"Доберитесь до сектора 5 на корабле типа А, чтобы разблокировать этот "
+"корабль."
 
-#: src-en/data/text_misc.xml.append:158
+#: src-en/data/text_misc.xml.append:157
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_HAMMER_3_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на корабле типа Б или пройдите игру на корабле типа "
 "A, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:160
+#: src-en/data/text_misc.xml.append:159
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BUD_unlock\"]"
 msgstr "Сорвите заговор с целью свержения бога."
 
-#: src-en/data/text_misc.xml.append:161
+#: src-en/data/text_misc.xml.append:160
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BUD_2_unlock\"]"
 msgstr ""
-"Доберитесь до сектора 5 на крейсере Бутона типа A, чтобы разблокировать этот "
-"корабль."
+"Доберитесь до сектора 5 на крейсере Бутона типа A, чтобы разблокировать этот"
+" корабль."
 
-#: src-en/data/text_misc.xml.append:162
+#: src-en/data/text_misc.xml.append:161
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BUD_3_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на крейсере Бутона типа Б или пройдите игру на "
 "крейсере Бутона типа А, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:164
+#: src-en/data/text_misc.xml.append:163
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BLOOM_unlock\"]"
 msgstr "Доставьте семя бога."
 
-#: src-en/data/text_misc.xml.append:165
+#: src-en/data/text_misc.xml.append:164
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BLOOM_2_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на крейсере Цветения типа А, чтобы разблокировать "
 "этот корабль."
 
-#: src-en/data/text_misc.xml.append:166
+#: src-en/data/text_misc.xml.append:165
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BLOOM_3_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на крейсере Цветения типа Б или пройдите игру на "
 "крейсере Цветения типа A, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:168
+#: src-en/data/text_misc.xml.append:167
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_BIG_unlock\"]"
 msgstr "Защитите ИИ ядро Центральной инженерной базы."
 
-#: src-en/data/text_misc.xml.append:169
+#: src-en/data/text_misc.xml.append:168
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_BIG_2_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на крейсере Орел типа A, чтобы разблокировать этот "
 "корабль."
 
-#: src-en/data/text_misc.xml.append:170
+#: src-en/data/text_misc.xml.append:169
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_BIG_3_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на крейсере Орел типа Б или пройдите игру на "
 "крейсере Орел типа A, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:172
+#: src-en/data/text_misc.xml.append:171
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_TRAN_unlock\"]"
 msgstr "Обнаружьте и остановите тайную операцию повстанцев."
 
-#: src-en/data/text_misc.xml.append:173
+#: src-en/data/text_misc.xml.append:172
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_TRAN_2_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на крейсере Альбатрос типа А, чтобы разблокировать "
 "этот корабль."
 
-#: src-en/data/text_misc.xml.append:174
+#: src-en/data/text_misc.xml.append:173
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_TRAN_3_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на крейсере Альбатрос типа Б или пройдите игру на "
 "крейсере Альбатрос типа A, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:176
+#: src-en/data/text_misc.xml.append:175
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_LONG_unlock\"]"
 msgstr "Выследите убийц на аванпосте федерации."
 
-#: src-en/data/text_misc.xml.append:177
+#: src-en/data/text_misc.xml.append:176
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_LONG_2_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на крейсере Анархия типа A, чтобы разблокировать "
 "этот корабль."
 
-#: src-en/data/text_misc.xml.append:178
+#: src-en/data/text_misc.xml.append:177
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_LONG_3_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на крейсере Анархия типа Б или пройдите игру на "
 "крейсере Анархия типа A, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:180
+#: src-en/data/text_misc.xml.append:179
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_WIDE_unlock\"]"
 msgstr "Сражайтесь за Анархистов и поучаствуйте в ограблении."
 
-#: src-en/data/text_misc.xml.append:181
+#: src-en/data/text_misc.xml.append:180
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_WIDE_2_unlock\"]"
 msgstr ""
-"Доберитесь до сектора 5 на крейсере Раздор типа A, чтобы разблокировать этот "
-"корабль."
+"Доберитесь до сектора 5 на крейсере Раздор типа A, чтобы разблокировать этот"
+" корабль."
 
-#: src-en/data/text_misc.xml.append:182
+#: src-en/data/text_misc.xml.append:181
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_WIDE_3_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на крейсере Раздор типа Б или пройдите игру на "
 "крейсере Раздор типа A, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:184
+#: src-en/data/text_misc.xml.append:183
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_unlock\"]"
 msgstr "Отыщите странный кристаллический автоматический корабль."
 
-#: src-en/data/text_misc.xml.append:185
+#: src-en/data/text_misc.xml.append:184
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_2_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на крейсере Осколкорожденных типа А, чтобы "
 "разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:186
+#: src-en/data/text_misc.xml.append:185
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_3_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на крейсере Осколкорожденных типа Б или пройдите "
 "игру на крейсере Осколкорожденных типа А, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:188
+#: src-en/data/text_misc.xml.append:187
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_AUTO_unlock\"]"
 msgstr "Спасите короля из его собственного дворца."
 
-#: src-en/data/text_misc.xml.append:189
+#: src-en/data/text_misc.xml.append:188
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_AUTO_2_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на автоматическом крейсере Осколкорожденных типа A, "
 "чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:190
+#: src-en/data/text_misc.xml.append:189
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_AUTO_3_unlock\"]"
 msgstr ""
@@ -663,89 +630,98 @@ msgstr ""
 "или пройдите игру на автоматическом крейсере Осколкорожденных типа A, чтобы "
 "разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:192
+#: src-en/data/text_misc.xml.append:191
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_WHALE_unlock\"]"
 msgstr "Воссоедините двух сильно влюбленных."
 
-#: src-en/data/text_misc.xml.append:193
+#: src-en/data/text_misc.xml.append:192
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_WHALE_2_unlock\"]"
 msgstr ""
-"Доберитесь до сектора 5 на корабле типа А, чтобы разблокировать этот корабль."
+"Доберитесь до сектора 5 на корабле типа А, чтобы разблокировать этот "
+"корабль."
 
-#: src-en/data/text_misc.xml.append:194
+#: src-en/data/text_misc.xml.append:193
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_WHALE_3_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на корабле типа Б или пройдите игру на корабле типа "
 "A, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:195
+#: src-en/data/text_misc.xml.append:194
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BROADSIDE_unlock\"]"
 msgstr ""
 "Из ближайших к Узлу 17 секторов (сектор 7) поступают сообщения о странном "
 "корабле повстанцев, наблюдающем за их флотом."
 
-#: src-en/data/text_misc.xml.append:196
+#: src-en/data/text_misc.xml.append:195
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BROADSIDE_2_unlock\"]"
 msgstr ""
-"Доберитесь до сектора 5 на корабле типа А, чтобы разблокировать этот корабль."
+"Доберитесь до сектора 5 на корабле типа А, чтобы разблокировать этот "
+"корабль."
 
-#: src-en/data/text_misc.xml.append:197
+#: src-en/data/text_misc.xml.append:196
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BROADSIDE_3_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на корабле типа Б или пройдите игру на корабле типа "
 "A, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:198
+#: src-en/data/text_misc.xml.append:197
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_LANIUS_BATTLE_unlock\"]"
 msgstr "Скоро."
 
-#: src-en/data/text_misc.xml.append:200
+#: src-en/data/text_misc.xml.append:199
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_JUSTICE_unlock\"]"
 msgstr ""
 "Найдите и победите таинственного путешественника в составе флота повстанцев."
 
-#: src-en/data/text_misc.xml.append:201
+#: src-en/data/text_misc.xml.append:200
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_JUSTICE_2_unlock\"]"
 msgstr ""
-"Доберитесь до сектора 5 на корабле типа А, чтобы разблокировать этот корабль."
+"Доберитесь до сектора 5 на корабле типа А, чтобы разблокировать этот "
+"корабль."
 
-#: src-en/data/text_misc.xml.append:202
+#: src-en/data/text_misc.xml.append:201
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_JUSTICE_3_unlock\"]"
 msgstr ""
 "Доберитесь до сектора 5 на корабле типа Б или пройдите игру на корабле типа "
 "A, чтобы разблокировать этот корабль."
 
-#: src-en/data/text_misc.xml.append:204
+#: src-en/data/text_misc.xml.append:203
 msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_aea_old\"]"
 msgstr ""
 "Флагман Мультивселенной этой реальности был уничтожен. Силы повстанцев были "
-"ослаблены, и войска Федерации вместе с подкреплением успешно разгромили силы "
-"повстанцев этой реальности."
+"ослаблены, и войска Федерации вместе с подкреплением успешно разгромили силы"
+" повстанцев этой реальности."
 
-#: src-en/data/text_misc.xml.append:206
+#: src-en/data/text_misc.xml.append:205
 msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_burst_laser\"]"
 msgstr ""
 "Совет: Импульсные точечные лучи могут стрелять несколько раз подряд, но "
 "теряют способность нацеливаться на определенные плитки."
 
-#: src-en/data/text_misc.xml.append:208
+#: src-en/data/text_misc.xml.append:207
 msgid "data/text_misc.xml.append$//text[@name=\"aea_super_shields\"]"
 msgstr "Вспомогательные щиты"
 
-#: src-en/data/text_misc.xml.append:209
+#: src-en/data/text_misc.xml.append:208
 msgid "data/text_misc.xml.append$//text[@name=\"aea_super_shields_installed\"]"
 msgstr "Система вспомогательных щитов установлена"
 
-#: src-en/data/text_misc.xml.append:210
+#: src-en/data/text_misc.xml.append:209
 msgid "data/text_misc.xml.append$//text[@name=\"aea_clone_crime_installed\"]"
 msgstr "Модифицированный Клон-отсек установлен"
+
+#~ msgid "data/text_misc.xml.append$//text[@name=\"aea_acidic_nebula_tooltip\"]"
+#~ msgstr ""
+#~ "Вы находитесь внутри Кислотной туманности. Ваши сенсоры не будут работать, а"
+#~ " в пустых отсеках будут беспорядочно появляться пробоины, создаваемые "
+#~ "кислотными облаками."

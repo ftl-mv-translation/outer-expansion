@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 15:24+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-outer-expansion/dataevents_sector_aea_acidxml/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_aea_acid.xml:28
 msgid ""
@@ -90,8 +83,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:112
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_REFUGEE_AEA_ACID_MV\"]/text"
-msgstr "你遇到一艘难民船在太空漂流。看起来它是逃避叛军舰队而来并且用光了燃料。它的求"
-"救信标是激活的，但你不确定是否还有人在船上。"
+msgstr "你遇到一艘难民船在太空漂流。看起来它是逃避叛军舰队而来并且用光了燃料。它的求救信标是激活的，但你不确定是否还有人在船上。"
 
 #: src-en/data/events_sector_aea_acid.xml:114
 #, fuzzy
@@ -192,8 +184,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:189
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_ACIDIC_SURRENDER\"]/event[2]/text"
-msgstr "蛞蝓族舰长向你呼叫：“误会！一个单纯的误会。我们当然会给你报酬！看到了没？一个"
-"增强部件已经运送过去了。”你允许他们活着离开。"
+msgstr "蛞蝓族舰长向你呼叫：“误会！一个单纯的误会。我们当然会给你报酬！看到了没？一个增强部件已经运送过去了。”你允许他们活着离开。"
 
 #: src-en/data/events_sector_aea_acid.xml:224
 msgid ""
@@ -279,9 +270,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:282
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_MYSTERIOUS_TECH\"]/text"
-msgstr "一艘隐藏在星云深处的赫克塔飞船向你发出了邀请。"
-"\"你好，舰长，你有一艘精良的飞船。但，我们还有一些技术，我们保证它们会使你的"
-"飞船变得更好！\""
+msgstr "一艘隐藏在星云深处的赫克塔飞船向你发出了邀请。\"你好，舰长，你有一艘精良的飞船。但，我们还有一些技术，我们保证它们会使你的飞船变得更好！\""
 
 #: src-en/data/events_sector_aea_acid.xml:286
 msgid ""
@@ -312,8 +301,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:306
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_MYSTERIOUS_TECH_PURCHASE\"]/event[1]/text"
-msgstr "\"享受吧！记住，概不退款！\""
-"蛞蝓族们在你的星舰上安装了一个奇怪的红色按钮后跃迁跑路。"
+msgstr "\"享受吧！记住，概不退款！\"蛞蝓族们在你的星舰上安装了一个奇怪的红色按钮后跃迁跑路。"
 
 #: src-en/data/events_sector_aea_acid.xml:313
 msgid ""
@@ -1375,9 +1363,7 @@ msgstr "调查这艘船。"
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK\"]/choice[1]/event/text"
 msgstr ""
-"蛞蝓族们欢迎你上船，以供你参观。它实际上相当不错，而且你也没有发现任何违禁品"
-"。他们用一些外星水果给你提供了一杯果汁，你为你们的新友谊干杯，然后回到了星舰"
-"。"
+"蛞蝓族们欢迎你上船，以供你参观。它实际上相当不错，而且你也没有发现任何违禁品。他们用一些外星水果给你提供了一杯果汁，你为你们的新友谊干杯，然后回到了星舰。"
 
 #: src-en/data/events_sector_aea_acid.xml:1157
 msgid ""
@@ -1432,8 +1418,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:1208
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_REFUGEE_AEA_ACID\"]/text"
-msgstr "你的传感器侦测到一艘漂荡在这个星系中的难民船，毫无疑问，它是众多逃离叛军进攻"
-"的船只之一。它似乎没有发现你...否则它会尽量避免被发现。"
+msgstr "你的传感器侦测到一艘漂荡在这个星系中的难民船，毫无疑问，它是众多逃离叛军进攻的船只之一。它似乎没有发现你...否则它会尽量避免被发现。"
 
 #: src-en/data/events_sector_aea_acid.xml:1211
 #, fuzzy
@@ -1572,8 +1557,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"shields\""
 " and @lvl=\"2\"]/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
 msgstr ""
-".....................................................................恢复成功"
-"。"
+".....................................................................恢复成功。"
 
 #: src-en/data/events_sector_aea_acid.xml:1307
 msgid ""
@@ -1658,8 +1642,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/choice[@req=\"ANTI_VIRUS\"]/event/text"
 msgstr ""
-".....................................................................恢复成功"
-"。"
+".....................................................................恢复成功。"
 
 #: src-en/data/events_sector_aea_acid.xml:1361
 msgid ""
@@ -2742,8 +2725,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:2266
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ENCOUNTER_AEA_ACID_HACKER\"]/text"
-msgstr "蛞蝓族黑客出奇的少，即使在蛞蝓族的星域也是如此。尽管如此，你似乎很不幸地在这"
-"个信标处遇到了一个。"
+msgstr "蛞蝓族黑客出奇的少，即使在蛞蝓族的星域也是如此。尽管如此，你似乎很不幸地在这个信标处遇到了一个。"
 
 #: src-en/data/events_sector_aea_acid.xml:2270
 msgid ""
@@ -2779,8 +2761,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2305
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/text"
-msgstr "这里的求救信标似乎是通过星云中的一块空地进行广播。顺着它，你遇到了一个漂流在"
-"深渊中的流浪星球。扫描显示，有东西坠落在表面。"
+msgstr "这里的求救信标似乎是通过星云中的一块空地进行广播。顺着它，你遇到了一个漂流在深渊中的流浪星球。扫描显示，有东西坠落在表面。"
 
 #: src-en/data/events_sector_aea_acid.xml:2309
 msgid ""

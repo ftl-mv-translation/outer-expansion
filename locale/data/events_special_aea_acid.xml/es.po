@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 15:25+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_aea_acidxml/es/>\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_acid.xml:3
 msgid "data/events_special_aea_acid.xml$//event[@name=\"ADDON_AEA\"]/text"
@@ -179,7 +172,8 @@ msgstr "(Motores Avanzados) Intentar escapar del guardia."
 #: src-en/data/events_special_aea_acid.xml:166
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"pilot\"]/text"
-msgstr "(Pilotaje Avanzado) Activar el piloto automático para intentar escapar."
+msgstr ""
+"(Pilotaje Avanzado) Activar el piloto automático para intentar escapar."
 
 #: src-en/data/events_special_aea_acid.xml:178
 msgid ""
@@ -409,7 +403,8 @@ msgstr "(Motores Avanzados) Intentar escapar del guardia."
 #: src-en/data/events_special_aea_acid.xml:368
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"pilot\"]/text"
-msgstr "(Pilotaje Avanzado) Activar el piloto automático para intentar escapar."
+msgstr ""
+"(Pilotaje Avanzado) Activar el piloto automático para intentar escapar."
 
 #: src-en/data/events_special_aea_acid.xml:375
 msgid ""
@@ -635,9 +630,9 @@ msgstr "No hacer nada."
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_ACID\"]/text"
 msgstr ""
-"La tripulación está muerta, dejandote con el control de la nave. Su carga es "
-"tuya ahora. Abordo está la tecnología especial que esperabas, la cual traes "
-"de vuelta a tu nave."
+"La tripulación está muerta, dejandote con el control de la nave. Su carga es"
+" tuya ahora. Abordo está la tecnología especial que esperabas, la cual traes"
+" de vuelta a tu nave."
 
 #: src-en/data/events_special_aea_acid.xml:621
 msgid ""

@@ -1,42 +1,30 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 15:28+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_aea_cultxml/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_cult.xml:14
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_START_AEA_CULT\"]/text[1]"
 msgstr ""
-"흡혈초는 강경한 산업가이자 자본주의자이며 민주주의자입니다. 공동체는 "
-"유일하게 연방에 발언권이 없는 민주주의 국가로, 많은 시민이 차별을 받고 "
-"있다고 느끼며 연합을 해결책으로 보고 있습니다. 따라서 이곳에는 우호적인 "
-"사람만큼이나 적대적인 사람도 많을 것으로 예상됩니다."
+"흡혈초는 강경한 산업가이자 자본주의자이며 민주주의자입니다. 공동체는 유일하게 연방에 발언권이 없는 민주주의 국가로, 많은 시민이 차별을 "
+"받고 있다고 느끼며 연합을 해결책으로 보고 있습니다. 따라서 이곳에는 우호적인 사람만큼이나 적대적인 사람도 많을 것으로 예상됩니다."
 
 #: src-en/data/events_special_aea_cult.xml:15
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_START_AEA_CULT\"]/text[2]"
 msgstr ""
-"군락은 공동체의 연방 가입을 오랫동안 반대해 왔지만, 이바르 수상은 여전히 "
-"통일을 추진하고 있습니다. 현재 연방파와 연합파로 분열돼 있는 공동체는 아군과 "
-"적이 섞인 특이한 구역이 될 것입니다."
+"군락은 공동체의 연방 가입을 오랫동안 반대해 왔지만, 이바르 수상은 여전히 통일을 추진하고 있습니다. 현재 연방파와 연합파로 분열돼 있는"
+" 공동체는 아군과 적이 섞인 특이한 구역이 될 것입니다."
 
 #: src-en/data/events_special_aea_cult.xml:16
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_START_AEA_CULT\"]/text[3]"
 msgstr ""
-"공동체 구역은 산업화에 있어 둘째 가라면 서러울 곳입니다. 현재 대부분의 "
-"중공업은 흡혈초가 주도하며, 이 구역의 경제는 급성장하는 중이고 많은 상인들의 "
-"관심을 끌고 있습니다. 불행히도 지역 정치가 연합 모집관들의 관심도 "
-"끌어버렸습니다. 아군과 적을 예의주시하세요."
+"공동체 구역은 산업화에 있어 둘째 가라면 서러울 곳입니다. 현재 대부분의 중공업은 흡혈초가 주도하며, 이 구역의 경제는 급성장하는 중이고"
+" 많은 상인들의 관심을 끌고 있습니다. 불행히도 지역 정치가 연합 모집관들의 관심도 끌어버렸습니다. 아군과 적을 예의주시하세요."
 
 #: src-en/data/events_special_aea_cult.xml:30
 msgid ""
@@ -53,8 +41,8 @@ msgstr "계속..."
 #: src-en/data/events_special_aea_cult.xml:40
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_CRIMINAL\"]/text"
-msgstr "뭔가 이상합니다. 평소 같으면 흡혈초는 연방의 함선에 눈 하나 깜짝 안 "
-"하겠지만, 지금은 경비정에서 수상한 대화가 들려옵니다."
+msgstr ""
+"뭔가 이상합니다. 평소 같으면 흡혈초는 연방의 함선에 눈 하나 깜짝 안 하겠지만, 지금은 경비정에서 수상한 대화가 들려옵니다."
 
 #: src-en/data/events_special_aea_cult.xml:42
 msgid ""
@@ -74,10 +62,9 @@ msgstr "계속..."
 #: src-en/data/events_special_aea_cult.xml:55
 msgid "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/text"
 msgstr ""
-"공동체 경비정에서 교신이 옵니다. 그들의 선장은 이것으로 오늘만 백번째라는 "
-"투로 대사를 읊조립니다. \"공동체에 오신 것을 환영합니다. 이바르 수상을 "
-"대신하여 모든 평화적인 방문객을 환영합니다. 그러나 우리 구역의 안정과 질서를 "
-"위해, 귀하의 것과 같은 군함은 입항 전 소정의 세금을 지불할 것을 요청합니다.\""
+"공동체 경비정에서 교신이 옵니다. 그들의 선장은 이것으로 오늘만 백번째라는 투로 대사를 읊조립니다. \"공동체에 오신 것을 환영합니다. "
+"이바르 수상을 대신하여 모든 평화적인 방문객을 환영합니다. 그러나 우리 구역의 안정과 질서를 위해, 귀하의 것과 같은 군함은 입항 전 "
+"소정의 세금을 지불할 것을 요청합니다.\""
 
 #: src-en/data/events_special_aea_cult.xml:57
 msgid ""
@@ -102,8 +89,7 @@ msgstr "요금을 지불한다."
 #: src-en/data/events_special_aea_cult.xml:70
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[2]/event/text"
-msgstr "흡혈초는 잠시 고개를 끄덕이고 스크랩을 살펴봅니다. "
-"\"아주 좋습니다. 보안요원이 곧 당신을 통과시켜 줄 거예요.\""
+msgstr "흡혈초는 잠시 고개를 끄덕이고 스크랩을 살펴봅니다. \"아주 좋습니다. 보안요원이 곧 당신을 통과시켜 줄 거예요.\""
 
 #: src-en/data/events_special_aea_cult.xml:77
 msgid ""
@@ -119,10 +105,8 @@ msgstr "(이바르) \"이봐, 월급 받기 싫나!\""
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_ivar\"]/event/text"
 msgstr ""
-"경비는 창피해하는 것 같습니다. "
-"\"어... 수상님, 죄송합니다! 오시는 줄 몰랐습니다. 가끔 보면... 어, 상당히 예"
-"측불허하시네요. 물론 요금은 면제하겠습니다.\" 경비가 눈을 깜빡입니다. "
-"\"제 상관에게는 말하지 말아 주세요.\""
+"경비는 창피해하는 것 같습니다. \"어... 수상님, 죄송합니다! 오시는 줄 몰랐습니다. 가끔 보면... 어, 상당히 예측불허하시네요. "
+"물론 요금은 면제하겠습니다.\" 경비가 눈을 깜빡입니다. \"제 상관에게는 말하지 말아 주세요.\""
 
 #: src-en/data/events_special_aea_cult.xml:87
 msgid ""
@@ -132,8 +116,7 @@ msgstr "(타이 이'렐) 타이 이'렐의 신임장을 보여준다."
 #: src-en/data/events_special_aea_cult.xml:89
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_tyerel\"]/event/text"
-msgstr "\"어서 오십시오, 대사님. 이 구역에 회의가 있는 줄 모르고 있었군요. 무료로 통"
-"과하셔도 됩니다.\""
+msgstr "\"어서 오십시오, 대사님. 이 구역에 회의가 있는 줄 모르고 있었군요. 무료로 통과하셔도 됩니다.\""
 
 #: src-en/data/events_special_aea_cult.xml:93
 msgid ""
@@ -144,9 +127,8 @@ msgstr "(알칼리) 알칼리는 여기에 볼일이 있습니다."
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"unique_alkali\"]/event/text"
 msgstr ""
-"경비병은 낯익은 얼굴을 보고 안도하는 표정입니다. "
-"\"어서 오세요, 박사님! 당신이라면 언제나 환영입니다. 물론 요금은 면제해 드리"
-"죠. 이곳에서 생산적인 시간을 보내시길 바랍니다.\""
+"경비병은 낯익은 얼굴을 보고 안도하는 표정입니다. \"어서 오세요, 박사님! 당신이라면 언제나 환영입니다. 물론 요금은 면제해 드리죠. "
+"이곳에서 생산적인 시간을 보내시길 바랍니다.\""
 
 #: src-en/data/events_special_aea_cult.xml:99
 msgid ""
@@ -157,9 +139,8 @@ msgstr "(셸 과학자 선원) 이 구역에 볼일이 있다고 설명한다."
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"shell_scientist\"]/event/text"
 msgstr ""
-"\"아, 과학자군요! 우리의 사랑스러운 구역에 여러분을 수용하게 되어 언제나 "
-"기쁩니다. 당신은 평소처럼 할인을 받을 자격이 있습니다. 좋은 성과 기원합니다."
-"\""
+"\"아, 과학자군요! 우리의 사랑스러운 구역에 여러분을 수용하게 되어 언제나 기쁩니다. 당신은 평소처럼 할인을 받을 자격이 있습니다. "
+"좋은 성과 기원합니다.\""
 
 #: src-en/data/events_special_aea_cult.xml:103
 msgid ""
@@ -209,8 +190,7 @@ msgstr "(경작자 선원) 할인을 요구한다."
 #: src-en/data/events_special_aea_cult.xml:142
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT\"]/choice[@req=\"orchid_cultivator\"]/event/text"
-msgstr "\"아, 경작자가 타고 있었군요? 그렇다면 상당한 양을 깎아드릴 수 있습니다. 사업"
-" 잘되시길 바랍니다.\""
+msgstr "\"아, 경작자가 타고 있었군요? 그렇다면 상당한 양을 깎아드릴 수 있습니다. 사업 잘되시길 바랍니다.\""
 
 #: src-en/data/events_special_aea_cult.xml:144
 msgid ""
@@ -326,9 +306,8 @@ msgstr "(최고급 자동항해장치) 자동항해장치를 작동시켜 탈출
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/text"
 msgstr ""
-"\"왜 제가 요금을 제해야 하죠? 당신은 배회자 아닙니까? 모르시나 본데, "
-"공동체는 연방법을 따르지 않습니다. 그리고 당신 같은 사람을 들이는 건 솔직히 "
-"부담되는 일입니다. 차라리 더 청구하는 게 맞지, 덜은 안 됩니다.\""
+"\"왜 제가 요금을 제해야 하죠? 당신은 배회자 아닙니까? 모르시나 본데, 공동체는 연방법을 따르지 않습니다. 그리고 당신 같은 사람을 "
+"들이는 건 솔직히 부담되는 일입니다. 차라리 더 청구하는 게 맞지, 덜은 안 됩니다.\""
 
 #: src-en/data/events_special_aea_cult.xml:242
 msgid ""
@@ -353,26 +332,22 @@ msgstr "요금을 지불한다."
 #: src-en/data/events_special_aea_cult.xml:255
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_WAVER_FAIL\"]/choice[2]/event/text"
-msgstr "흡혈초는 잠시 고개를 끄덕이고 스크랩을 살펴봅니다. "
-"\"아주 좋습니다. 보안요원이 곧 당신을 통과시켜 줄 거예요.\""
+msgstr "흡혈초는 잠시 고개를 끄덕이고 스크랩을 살펴봅니다. \"아주 좋습니다. 보안요원이 곧 당신을 통과시켜 줄 거예요.\""
 
 #: src-en/data/events_special_aea_cult.xml:264
 msgid ""
 "data/events_special_aea_cult.xml$//eventList[@name=\"GUARD_AEA_CULT_WAVER\"]/event[3]/text"
 msgstr ""
-"흡혈초가 덩굴로 얼굴 부분의 긴 꽃잎을 긁습니다. \"아시다시피, 공동체는 "
-"연방의 법이나 관할권을 따르지 않습니다. 그렇지만 당신들의 대의가 여기 있는 "
-"모두의 이익을 대변한다는 건 이해합니다. 연방이 우리의 아군은 아닐지 몰라도 "
-"반군은 확실히 우리의 적입니다. 당신의 부탁을 한 번 들어 드리겠습니다. 하지만 "
-"모두가 저처럼 관대할 거로 생각하지 마십시오.\""
+"흡혈초가 덩굴로 얼굴 부분의 긴 꽃잎을 긁습니다. \"아시다시피, 공동체는 연방의 법이나 관할권을 따르지 않습니다. 그렇지만 당신들의 "
+"대의가 여기 있는 모두의 이익을 대변한다는 건 이해합니다. 연방이 우리의 아군은 아닐지 몰라도 반군은 확실히 우리의 적입니다. 당신의 "
+"부탁을 한 번 들어 드리겠습니다. 하지만 모두가 저처럼 관대할 거로 생각하지 마십시오.\""
 
 #: src-en/data/events_special_aea_cult.xml:275
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_DESTROY\"]/text"
 msgstr ""
-"공동체 경비정을 무찔렀습니다. 그들의 화물에 있었던 것은 그게 무엇이었든 간에 "
-"확실히 파괴되었지만, 적어도 그들의 함선으로부터 약간의 보급품을 수거할 수 "
-"있었습니다."
+"공동체 경비정을 무찔렀습니다. 그들의 화물에 있었던 것은 그게 무엇이었든 간에 확실히 파괴되었지만, 적어도 그들의 함선으로부터 약간의 "
+"보급품을 수거할 수 있었습니다."
 
 #: src-en/data/events_special_aea_cult.xml:278
 msgid ""
@@ -383,9 +358,8 @@ msgstr "계속..."
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_DEADCREW\"]/text"
 msgstr ""
-"공동체 경비정을 무찔렀습니다. 당신을 막을 선원이 모두 죽어서 그들의 화물을 "
-"조사할 수 있었습니다. 당신은 무기를 찾아내 함선으로 갖고 돌아온 후 적함의 "
-"선체를 긁어모으기 위해 이동했습니다."
+"공동체 경비정을 무찔렀습니다. 당신을 막을 선원이 모두 죽어서 그들의 화물을 조사할 수 있었습니다. 당신은 무기를 찾아내 함선으로 갖고 "
+"돌아온 후 적함의 선체를 긁어모으기 위해 이동했습니다."
 
 #: src-en/data/events_special_aea_cult.xml:288
 msgid ""
@@ -396,8 +370,7 @@ msgstr "계속..."
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"GUARD_AEA_CULT_FOLLOWUP\"]/text"
 msgstr ""
-"공동체 경비정을 격침했으니 그들이 당신을 추적하기 위해 증원군을 파견할 것이 "
-"분명합니다. 이 구역을 탐색할 때는 조심히 이동하십시오."
+"공동체 경비정을 격침했으니 그들이 당신을 추적하기 위해 증원군을 파견할 것이 분명합니다. 이 구역을 탐색할 때는 조심히 이동하십시오."
 
 #: src-en/data/events_special_aea_cult.xml:304
 msgid ""
@@ -428,9 +401,8 @@ msgstr "방문하지 않은 송신소입니다."
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"REINFORCEMENTS_AEA_CULT\"]/text"
 msgstr ""
-"\"나도 한때는 연방의 편에 섰지만, 다중 우주에 '평화와 번영'을 강요하기 위해 "
-"고용된 야만인들의 실태를 보고 나서야 깨달았어! 평화를 어지럽히러 이곳에 온 "
-"쓰레기들아! 네놈들이 학살한 식물 동지들의 복수다!\""
+"\"나도 한때는 연방의 편에 섰지만, 다중 우주에 '평화와 번영'을 강요하기 위해 고용된 야만인들의 실태를 보고 나서야 깨달았어! 평화를"
+" 어지럽히러 이곳에 온 쓰레기들아! 네놈들이 학살한 식물 동지들의 복수다!\""
 
 #: src-en/data/events_special_aea_cult.xml:324
 msgid ""
@@ -450,8 +422,8 @@ msgstr "시장에 들른다."
 #: src-en/data/events_special_aea_cult.xml:382
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[1]/event/text"
-msgstr "시장에는 다양한 종족의 호기심 많은 쇼핑객들이 있었고, 여러 오키드 상인들이 "
-"그들의 관심을 끌기 위해 잎을 흔들고 있었습니다."
+msgstr ""
+"시장에는 다양한 종족의 호기심 많은 쇼핑객들이 있었고, 여러 오키드 상인들이 그들의 관심을 끌기 위해 잎을 흔들고 있었습니다."
 
 #: src-en/data/events_special_aea_cult.xml:384
 msgid ""
@@ -467,8 +439,8 @@ msgstr "오키드를 공격한다."
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"STOREEVENT_AEA_CULT_SPELLS\"]/choice[2]/event/text"
 msgstr ""
-"당신의 공격으로 시장이 폐쇄됐지만, 아무도 오키드를 도우려 하지는 않았습니다. "
-"당신은 새로운 사냥감에 집중해야 하니 남들에게 신경쓸 시간은 없습니다."
+"당신의 공격으로 시장이 폐쇄됐지만, 아무도 오키드를 도우려 하지는 않았습니다. 당신은 새로운 사냥감에 집중해야 하니 남들에게 신경쓸 "
+"시간은 없습니다."
 
 #: src-en/data/events_special_aea_cult.xml:395
 msgid ""
@@ -539,10 +511,8 @@ msgstr "(공동체 엘리트 + 좋은 평판) 수송선에 연락한다."
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_AEA_CULT_LOOT\"]/choice[@req=\"VAMPWEED_CREW_MORAL\"]/event/text"
 msgstr ""
-"당신의 선원이 수송선 함장에게 이 임무의 중요성을 설명했습니다. 수송선 함장은 "
-"제대로 이해했는지, 현재 수송 중인 화물도 당신의 것과 동일한 임무에 중요한 "
-"물건이라고 언급했습니다. 배상금을 낼 의향이 있다면 예외적으로 화물을 "
-"넘긴다고 합니다."
+"당신의 선원이 수송선 함장에게 이 임무의 중요성을 설명했습니다. 수송선 함장은 제대로 이해했는지, 현재 수송 중인 화물도 당신의 것과 "
+"동일한 임무에 중요한 물건이라고 언급했습니다. 배상금을 낼 의향이 있다면 예외적으로 화물을 넘긴다고 합니다."
 
 #: src-en/data/events_special_aea_cult.xml:456
 msgid ""
@@ -619,9 +589,8 @@ msgstr "아무것도 하지 않는다."
 msgid ""
 "data/events_special_aea_cult.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_CULT\"]/text"
 msgstr ""
-"선원들은 죽고 수송선만이 남았습니다. 화물은 이제 당신의 것입니다. 수송선 "
-"안에는 기대했던 대로 특별한 병기가 있었고 당신은 그것을 함선으로 가지고 "
-"돌아왔습니다."
+"선원들은 죽고 수송선만이 남았습니다. 화물은 이제 당신의 것입니다. 수송선 안에는 기대했던 대로 특별한 병기가 있었고 당신은 그것을 "
+"함선으로 가지고 돌아왔습니다."
 
 #: src-en/data/events_special_aea_cult.xml:536
 msgid ""
@@ -632,8 +601,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DESTROYED_AEA_CULT\"]/text[2]"
 msgstr ""
-"공동체 함선이 아무 단말마 없이 폭발합니다. 아마도 가장 가치 있을 공장 화물은 "
-"손도 닿지 않는 먼 심연으로 사출됐지만, 그래도 잔해는 인양할 수 있습니다."
+"공동체 함선이 아무 단말마 없이 폭발합니다. 아마도 가장 가치 있을 공장 화물은 손도 닿지 않는 먼 심연으로 사출됐지만, 그래도 잔해는 "
+"인양할 수 있습니다."
 
 #: src-en/data/events_special_aea_cult.xml:538
 msgid ""
@@ -654,8 +623,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_CULT\"]/text[2]"
 msgstr ""
-"\"저는 화초들처럼 종교적이지 않지만... 마지막 숨을 거두는 순간은 분명 영적인 "
-"순간이라 할 수 있죠. 신이시여... 지옥이 같은 건 없기를...\""
+"\"저는 화초들처럼 종교적이지 않지만... 마지막 숨을 거두는 순간은 분명 영적인 순간이라 할 수 있죠. 신이시여... 지옥이 같은 건 "
+"없기를...\""
 
 #: src-en/data/events_special_aea_cult.xml:550
 msgid ""
@@ -671,9 +640,8 @@ msgstr "항복을 받아들인다."
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[1]"
 msgstr ""
-"\"알았어, 알았어! 술을 너무 많이 마셔서 멍청한 행동을 했네. 나한테 문제가 "
-"있는 것 같아. 저기, 나를 살려주면 가진 건 뭐든 다 주고 다시는 이런 실수를 "
-"벌이지 않을게. 알았지? 이거면 될까?\""
+"\"알았어, 알았어! 술을 너무 많이 마셔서 멍청한 행동을 했네. 나한테 문제가 있는 것 같아. 저기, 나를 살려주면 가진 건 뭐든 다 "
+"주고 다시는 이런 실수를 벌이지 않을게. 알았지? 이거면 될까?\""
 
 #: src-en/data/events_special_aea_cult.xml:566
 msgid ""
@@ -684,8 +652,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[3]"
 msgstr ""
-"\"저를 죽여선 안 돼요, 저는 산업 노동체의 소중한 일원입니다! 제가 아니면 누가"
-" 카도체 비료 병의 뚜껑을 하나하나 다 조이겠어요?\""
+"\"저를 죽여선 안 돼요, 저는 산업 노동체의 소중한 일원입니다! 제가 아니면 누가 카도체 비료 병의 뚜껑을 하나하나 다 조이겠어요?\""
 
 #: src-en/data/events_special_aea_cult.xml:568
 msgid ""
@@ -696,9 +663,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_cult.xml$//textList[@name=\"TEXT_SURRENDER_AEA_CULT\"]/text[5]"
 msgstr ""
-"공동체 선장이 무릎을 꿇고 당신에게 자비를 구걸합니다. 그는 자신의 종족 "
-"전체를 대신해 과거의 실수에 대해 사과하고, 자신을 살려주는 대가로 이번 달 "
-"공장 임금 전부를 당신에게 주겠다고 합니다."
+"공동체 선장이 무릎을 꿇고 당신에게 자비를 구걸합니다. 그는 자신의 종족 전체를 대신해 과거의 실수에 대해 사과하고, 자신을 살려주는 "
+"대가로 이번 달 공장 임금 전부를 당신에게 주겠다고 합니다."
 
 #: src-en/data/events_special_aea_cult.xml:573
 msgid ""
@@ -744,9 +710,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_cult.xml$//ship[@name=\"SHIP_AEA_CULT_WHALE_HUNTER\"]/destroyed/text"
 msgstr ""
-"당신은 클랜즈맨들이 적어도 한 번은 항복할 것이라고 예상했지만, 그들은 절대 "
-"그러지 않았습니다. 대신, 마지막 일격이 함선을 뒤흔들고 폭발하는 것을 "
-"지켜봤습니다."
+"당신은 클랜즈맨들이 적어도 한 번은 항복할 것이라고 예상했지만, 그들은 절대 그러지 않았습니다. 대신, 마지막 일격이 함선을 뒤흔들고 "
+"폭발하는 것을 지켜봤습니다."
 
 #: src-en/data/events_special_aea_cult.xml:658
 msgid ""

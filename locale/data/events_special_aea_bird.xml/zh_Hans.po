@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 15:23+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-outer-expansion/dataevents_special_aea_birdxml/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_bird.xml:15
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[1]"
@@ -53,8 +46,7 @@ msgstr "攻击守卫。"
 #: src-en/data/events_special_aea_bird.xml:50
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[2]/event/text"
-msgstr "守卫舰的队长对你背叛他们感到震惊。"
-"\"你一定是叛军的间谍！我们不会掉以轻心的！\""
+msgstr "守卫舰的队长对你背叛他们感到震惊。\"你一定是叛军的间谍！我们不会掉以轻心的！\""
 
 #: src-en/data/events_special_aea_bird.xml:53
 msgid ""
@@ -281,9 +273,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/text"
 msgstr ""
-"你的船员与对方舰长对话，向其解释我方任务的重要性。运输舰舰长若有所思，同时提"
-"到自己携带的货物对同一个任务也至关重要。如果你愿意付款以提供补偿的话，他们愿"
-"意破例一次。"
+"你的船员与对方舰长对话，向其解释我方任务的重要性。运输舰舰长若有所思，同时提到自己携带的货物对同一个任务也至关重要。如果你愿意付款以提供补偿的话，他们愿意破例一次。"
 
 #: src-en/data/events_special_aea_bird.xml:304
 msgid ""
@@ -359,8 +349,7 @@ msgstr "跳过。"
 #: src-en/data/events_special_aea_bird.xml:363
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_BIRD\"]/text"
-msgstr "对方船员都死了，留给你一艘空船。他们的货物任由你处置。船上就是预想当中的特殊"
-"科技，你将它带回星舰。"
+msgstr "对方船员都死了，留给你一艘空船。他们的货物任由你处置。船上就是预想当中的特殊科技，你将它带回星舰。"
 
 #: src-en/data/events_special_aea_bird.xml:382
 msgid ""
@@ -370,14 +359,12 @@ msgstr "“求救！求救！求–”联邦舰长绝望的呼救声突然被他
 #: src-en/data/events_special_aea_bird.xml:383
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[2]"
-msgstr "当未来有飞船遇到这个残骸时，人们很可能会认为这是叛军或海盗干的。但所有线索最"
-"终都会指向你。"
+msgstr "当未来有飞船遇到这个残骸时，人们很可能会认为这是叛军或海盗干的。但所有线索最终都会指向你。"
 
 #: src-en/data/events_special_aea_bird.xml:384
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[3]"
-msgstr "真是可惜，联邦这么快就出动了新型舰。当联邦推动制造新设计时，想的应该要对付叛"
-"军…但没想到还有他们雇用的变元者。"
+msgstr "真是可惜，联邦这么快就出动了新型舰。当联邦推动制造新设计时，想的应该要对付叛军…但没想到还有他们雇用的变元者。"
 
 #: src-en/data/events_special_aea_bird.xml:385
 msgid ""
@@ -392,8 +379,7 @@ msgstr "最后的一次爆炸标志着联邦舰长的命运，他们的飞船被
 #: src-en/data/events_special_aea_bird.xml:394
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[1]"
-msgstr "最后一名联邦船员倒下。当你搜刮他们的舰体时，你注意到他们的无线电仍然活跃，指"
-"挥中心仍在呼叫他们试图询问发生了什么。你关闭无线电并继续。"
+msgstr "最后一名联邦船员倒下。当你搜刮他们的舰体时，你注意到他们的无线电仍然活跃，指挥中心仍在呼叫他们试图询问发生了什么。你关闭无线电并继续。"
 
 #: src-en/data/events_special_aea_bird.xml:395
 msgid ""
@@ -403,20 +389,18 @@ msgstr "“有人受伤！有人受伤！啊！”船员的呼喊声并没有被
 #: src-en/data/events_special_aea_bird.xml:396
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[3]"
-msgstr "“我的死亡意味着联邦的死亡。”垂死的舰长停了下来，因为后台有人对他大喊大叫。“我"
-"并没有反应过激！该死……你就不能让我的最后时刻帅一点吗……”"
+msgstr ""
+"“我的死亡意味着联邦的死亡。”垂死的舰长停了下来，因为后台有人对他大喊大叫。“我并没有反应过激！该死……你就不能让我的最后时刻帅一点吗……”"
 
 #: src-en/data/events_special_aea_bird.xml:397
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[4]"
-msgstr "“我的名字将被铭刻在纪念碑上，以纪念我对多元宇宙的贡献…你的名字将永远被写在精"
-"神错乱罪犯的监视名单上……”"
+msgstr "“我的名字将被铭刻在纪念碑上，以纪念我对多元宇宙的贡献…你的名字将永远被写在精神错乱罪犯的监视名单上……”"
 
 #: src-en/data/events_special_aea_bird.xml:398
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[5]"
-msgstr "“我甚至没有…得到过升职！我还没准备好去死！”联邦舰长在自己的手中哭泣，他的船员"
-"一个接一个死去，最后只剩下他自己。"
+msgstr "“我甚至没有…得到过升职！我还没准备好去死！”联邦舰长在自己的手中哭泣，他的船员一个接一个死去，最后只剩下他自己。"
 
 #: src-en/data/events_special_aea_bird.xml:404
 msgid ""
@@ -461,14 +445,12 @@ msgstr "“求救！求救！求–”联邦站长绝望的呼救声突然被他
 #: src-en/data/events_special_aea_bird.xml:431
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[2]"
-msgstr "当未来有飞船遇到这个残骸时，人们很可能会认为这是叛军或海盗干的。但所有线索最"
-"终都会指向你。"
+msgstr "当未来有飞船遇到这个残骸时，人们很可能会认为这是叛军或海盗干的。但所有线索最终都会指向你。"
 
 #: src-en/data/events_special_aea_bird.xml:432
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[3]"
-msgstr "真是可惜，联邦这么快就出动了新型舰。当联邦推动制造新设计时，想的应该要对付叛"
-"军…但没想到还有他们雇用的变元者。"
+msgstr "真是可惜，联邦这么快就出动了新型舰。当联邦推动制造新设计时，想的应该要对付叛军…但没想到还有他们雇用的变元者。"
 
 #: src-en/data/events_special_aea_bird.xml:436
 msgid ""
