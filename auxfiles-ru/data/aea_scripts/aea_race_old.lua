@@ -615,7 +615,7 @@ script.on_internal_event(Defines.InternalEvents.PRE_CREATE_CHOICEBOX, function(e
 			else
 				local randomSelect = math.random(#genericResponse)
 				if genericResponse[randomSelect].format then
-					pageEvent.text.data = string.format(genericResponse[randomSelect].text, string.sub(crewTable.text, 5, string.len(crewTable.text) - 12))
+					pageEvent.text.data = string.format(genericResponse[randomSelect].text, string.sub(crewTable.text, 18, string.len(crewTable.text) - 15))
 				else
 					pageEvent.text.data = genericResponse[randomSelect].text
 				end
