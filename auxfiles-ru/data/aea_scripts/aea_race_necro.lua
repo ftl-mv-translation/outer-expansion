@@ -627,7 +627,7 @@ script.on_internal_event(Defines.InternalEvents.DAMAGE_BEAM, function(shipManage
 					intruder = false
 				end
 				local slot = Hyperspace.ShipGraph.GetShipInfo(crewShip.iShipId):GetClosestSlot(crewmem:GetLocation(), crewShip.iShipId, intruder)
-				local zombie = crewShip:AddCrewMemberFromString("Zombie", rCrew, intruder, slot.roomId, true, true)
+				local zombie = crewShip:AddCrewMemberFromString("Зомби", rCrew, intruder, slot.roomId, true, true)
 				Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defNOCLONE), zombie)
 				Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defNOSLOT), zombie)
 				Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defHMHP), zombie)
@@ -678,7 +678,7 @@ script.on_internal_event(Defines.InternalEvents.ACTIVATE_POWER, function(power, 
 				intruder = true
 			end
 			local slot = Hyperspace.ShipGraph.GetShipInfo(crewShip.iShipId):GetClosestSlot(crewmem:GetLocation(), crewShip.iShipId, intruder)
-			local zombie = crewShip:AddCrewMemberFromString("Zombie", rCrew, intruder, slot.roomId, true, true)
+			local zombie = crewShip:AddCrewMemberFromString("Зомби", rCrew, intruder, slot.roomId, true, true)
 			Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defNOCLONE), zombie)
 			Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defNOSLOT), zombie)
 			--Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defRMHP), zombie)
@@ -698,7 +698,7 @@ script.on_internal_event(Defines.InternalEvents.ACTIVATE_POWER, function(power, 
 			intruder = true
 		end
 		local slot = Hyperspace.ShipGraph.GetShipInfo(crewShip.iShipId):GetClosestSlot(crewmem:GetLocation(), crewShip.iShipId, intruder)
-		local zombie = crewShip:AddCrewMemberFromString("Zombie", rCrew, intruder, slot.roomId, true, true)
+		local zombie = crewShip:AddCrewMemberFromString("Зомби", rCrew, intruder, slot.roomId, true, true)
 		Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defNOCLONE), zombie)
 		Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defNOSLOT), zombie)
 		Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defHMHP), zombie)
@@ -745,7 +745,7 @@ script.on_internal_event(Defines.InternalEvents.ACTIVATE_POWER, function(power, 
 					end
 					local slot = Hyperspace.ShipGraph.GetShipInfo(crewShip.iShipId):GetClosestSlot(crewmem:GetLocation(), crewShip.iShipId, intruder)
 					--print("CREATE ZOMBIE")
-					local zombie = crewShip:AddCrewMemberFromString("Zombie", rCrew, intruder, slot.roomId, true, true)
+					local zombie = crewShip:AddCrewMemberFromString("Зомби", rCrew, intruder, slot.roomId, true, true)
 					Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defNOCLONE), zombie)
 					Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defNOSLOT), zombie)
 					Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defRMHP), zombie)
@@ -769,7 +769,7 @@ script.on_internal_event(Defines.InternalEvents.ACTIVATE_POWER, function(power, 
 					intruder = true
 				end
 				local slot = Hyperspace.ShipGraph.GetShipInfo(crewShip.iShipId):GetClosestSlot(crewmem:GetLocation(), crewShip.iShipId, intruder)
-				local zombie = crewShip:AddCrewMemberFromString("Zombie", rCrew, intruder, slot.roomId, true, true)
+				local zombie = crewShip:AddCrewMemberFromString("Зомби", rCrew, intruder, slot.roomId, true, true)
 				Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defNOCLONE), zombie)
 				Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defNOSLOT), zombie)
 				Hyperspace.StatBoostManager.GetInstance():CreateTimedAugmentBoost(Hyperspace.StatBoost(defHMHP), zombie)
