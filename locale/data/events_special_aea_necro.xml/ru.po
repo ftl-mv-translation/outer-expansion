@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-06-26 16:01+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_special_aea_necroxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_aea_necro.xml:11
 msgid ""
@@ -59,7 +67,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and not(@lvl)]/text"
-msgstr "Пройти доосмотр."
+msgstr "Пройти досмотр."
 
 #: src-en/data/events_special_aea_necro.xml:49
 msgid ""
@@ -79,7 +87,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/text"
-msgstr "Пройти доосмотр."
+msgstr "Пройти досмотр."
 
 #: src-en/data/events_special_aea_necro.xml:60
 msgid ""
@@ -243,7 +251,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and not(@lvl)]/text"
-msgstr "Пройти доосмотр."
+msgstr "Пройти досмотр."
 
 #: src-en/data/events_special_aea_necro.xml:201
 msgid ""
@@ -263,7 +271,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/text"
-msgstr "Пройти доосмотр."
+msgstr "Пройти досмотр."
 
 #: src-en/data/events_special_aea_necro.xml:212
 msgid ""
