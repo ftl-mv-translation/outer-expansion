@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-09 00:01+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/datahyperspace-xml-append/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/hyperspace.xml.append:40
 msgid ""
@@ -651,9 +658,10 @@ msgid ""
 "append:race[@name=\"aea_necro_engi\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 20s]\n"
-"\t\t\t\tRessuscite le dernier membre d’équipage ennemi tué au combat rapproché par cet Engi.\n"
+"\t\t\t\tRessuscite le dernier membre d'équipage ennemi tué au combat "
+"rapproché par cet Engi.\n"
 "\t\t\t\t-Coûte 1 Essaim de Nanites\n"
-"\t\t\t\t-L’équipage ressuscité reste actif pendant 90 secondes"
+"\t\t\t\t-L'équipage ressuscité reste actif pendant 90 secondes"
 
 #: src-en/data/hyperspace.xml.append:4388
 msgid ""
@@ -680,9 +688,10 @@ msgid ""
 "append:race[@name=\"aea_necro_lich\"]/powerEffect[2]/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 20s]\n"
-"\t\t\t\tRessuscite le dernier membre d’équipage ennemi tué au combat rapproché par cet Engi.\n"
+"\t\t\t\tRessuscite le dernier membre d'équipage ennemi tué au combat "
+"rapproché par cet Engi.\n"
 "\t\t\t\t-Coûte 1 Essaim de Nanites\n"
-"\t\t\t\t-L’équipage ressuscité reste actif pendant 90 secondes"
+"\t\t\t\t-L'équipage ressuscité reste actif pendant 90 secondes"
 
 #: src-en/data/hyperspace.xml.append:4481
 msgid ""
@@ -744,7 +753,8 @@ msgid ""
 "append:race[@name=\"aea_old_unique_3\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE : 30s]\n"
-"\t\t\t\tDétonne des bombes incendiaires sur le vaisseau ennemi, en nombre égal au nombre de membres d’équipage ennemis dans la pièce plus un."
+"\t\t\t\tDétonne des bombes incendiaires sur le vaisseau ennemi, en nombre "
+"égal au nombre de membres d'équipage ennemis dans la pièce plus un."
 
 #: src-en/data/hyperspace.xml.append:4671
 msgid ""
@@ -1334,7 +1344,7 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/secretDescription"
 msgstr ""
-"Échappez aux griffes d’une race puissante à bord de n’importe quelle "
+"Échappez aux griffes d'une race puissante à bord de n'importe quelle "
 "configuration du \\1"
 
 #: src-en/data/hyperspace.xml.append:8932
