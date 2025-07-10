@@ -1,0 +1,15 @@
+<FTL>
+    <mod:findName name="LASER_BURST_1" type="weaponBlueprint">
+        <mod:findLike type="tooltip">
+            <mod:selector>Defense laser; 1 damage, 1 shot. 9 second cooldown.</mod:selector>
+            <mod:setValue>Защитный лазер; 1 урон, 1 выстрел. 9 секунд перезарядки.</mod:setValue>
+        </mod:findLike>
+    </mod:findName>
+	
+    <mod:findName name="LASER_BURST_3" type="weaponBlueprint">
+        <mod:findLike type="tooltip">
+            <mod:selector>Burst laser; 1 damage, 2 shots. 13 second cooldown.</mod:selector>
+            <mod:setValue>Импульсный лазер; 1 урон, 2 выстрела. 13 секунд перезарядки.</mod:setValue>
+        </mod:findLike>
+    </mod:findName>
+</FTL>
