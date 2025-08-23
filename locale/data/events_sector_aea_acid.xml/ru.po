@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-08-23 18:08+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"the-outer-expansion/dataevents_sector_aea_acidxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_aea_acid.xml:28
 msgid ""
@@ -24,8 +32,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"ENCOUNTER_AEA_ACID_CLEARING\"]/text"
 msgstr ""
-"Кислотный рост необычно встречается за пределами своих туманностей. Однако, "
-"похоже, они решило, что вы представляете угрозу, и переходят в атаку!"
+"Необычно, что Кислотный рост встречается за пределами своих туманностей. "
+"Однако он, похоже, решили, что вы представляете угрозу, и переходят к атаку!"
 
 #: src-en/data/events_sector_aea_acid.xml:63
 msgid ""
@@ -3529,7 +3537,7 @@ msgid ""
 msgstr ""
 "Вы прибыли в Кислотное ядро - чрезвычайно плотную Кислотную туманность, "
 "место, где первоначально образовался Кислотный рост. Она настолько плотная, "
-"что Кислотному росту трудно ее охранять, но они все же он пытается."
+"что Кислотному росту трудно ее охранять, но они все же пытаются."
 
 #: src-en/data/events_sector_aea_acid.xml:2537
 msgid ""
