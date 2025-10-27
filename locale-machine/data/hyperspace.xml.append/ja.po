@@ -10,204 +10,204 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
-"酸性フィルタリングシステム：\n"
-"この船の酸素システムは、船内のすべての乗組員を癒し、火を消しますが、酸素は提供されません。"
+"酸性ろ過システム:\n"
+"この船の酸素システムは、船内の全クルーを回復させ、火災を消火しますが、酸素は供給しません。"
 
 #: src-en/data/hyperspace.xml.append:45
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
-"弱酸ろ過システム：\n"
-"酸素システムは、すべての乗組員にゆっくりとした治癒効果を提供します。"
+"弱酸性ろ過システム:\n"
+"酸素システムは、全クルーに遅い回復効果をもたらします。"
 
 #: src-en/data/hyperspace.xml.append:50
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
-"異端の修理が爆発する：\n"
-"敵の船は、5馬力で1回のシステム損傷を修復します。"
+"異端者リペアバースト:\n"
+"敵船はHPが5になると、一度だけ2システムダメージを修理します。"
 
 #: src-en/data/hyperspace.xml.append:55
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
-"弱い異端の修復バースト：\n"
-"敵の船は、5馬力で1回のシステム損傷を修復します。"
+"弱異端者リペアバースト:\n"
+"敵船はHPが5になると、一度だけ1システムダメージを修理します。"
 
 #: src-en/data/hyperspace.xml.append:60
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
-"装甲室：\n"
-"敵の船の装甲部屋は、レーザーやミサイルなどの入ってくる発射体から保護します。\n"
-"アーマーは、それを渡す発射体の1つの損傷を吸収します。"
+"装甲部屋:\n"
+"敵船の装甲部屋は、レーザーやミサイルなどの飛来する発射体から船を保護します。\n"
+"装甲は、その上を通過する発射体のダメージを1吸収します。"
 
 #: src-en/data/hyperspace.xml.append:66
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
-"予測ガイダンス：\n"
-"敵の船は、回避は5％を超えている間、前部から60度から発射体を受け取ります。\n"
-"これにより、レーザーとミサイルが船の鎧に当たる可能性が高くなります。"
+"予測誘導:\n"
+"敵船は回避率が5%を超えている間、前方60度からの発射体を受けます。\n"
+"これにより、レーザーやミサイルが船の装甲に当たりやすくなります。"
 
 #: src-en/data/hyperspace.xml.append:72
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[7]/tooltip"
 msgstr ""
-"弱い予測ガイダンス：\n"
-"敵の船は、回避は10％を超えている間、90度の前部から発射体を受け取ります。\n"
-"これにより、レーザーとミサイルが船の鎧に当たる可能性が高くなります。"
+"弱予測誘導:\n"
+"敵船は回避率が10%を超えている間、前方90度からの発射体を受けます。\n"
+"これにより、レーザーやミサイルが船の装甲に当たりやすくなります。"
 
 #: src-en/data/hyperspace.xml.append:78
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[8]/tooltip"
 msgstr ""
-"神秘的な盾：\n"
-"この敵は、通常よりも強いエネルギーシールドによって保護されています。"
+"謎のシールド:\n"
+"この敵は通常よりも強力なエネルギーシールドで保護されています。"
 
 #: src-en/data/hyperspace.xml.append:83
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[9]/tooltip"
 msgstr ""
-"神秘的な盾：\n"
-"この敵はエネルギーシールドによって保護されています。"
+"謎のシールド:\n"
+"この敵はエネルギーシールドで保護されています。"
 
 #: src-en/data/hyperspace.xml.append:88
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[10]/tooltip"
 msgstr ""
-"教えガス：\n"
-"この敵の船には、致命的な神経毒が満たされています。これは、蓄積し、最終的にはそれらを短時間制御し、3 hp/sの時間の経過とともに乗組員を受動的に損傷します。\n"
-"ドローン、シェル、ヴァンプウィード、ゴースト、ラニウスは免疫があります。"
+"洗脳ガス:\n"
+"この敵船は致死性の神経毒で満たされており、それが蓄積すると短時間マインドコントロールされ、あなたのクルーに3HP/秒の持続ダメージを与えます。\n"
+"ドローン、シェル、ヴァンプウィード、ゴースト、ラニアスは免疫があります。"
 
 #: src-en/data/hyperspace.xml.append:94
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[11]/tooltip"
 msgstr ""
-"スラッグシェル修理ジェル：\n"
-"この敵の違反は、乗組員がいなくても自動的に修復されます。また、フレンドリーな乗組員に3 hp/sの癒しを提供し、空の部屋で3 hp/sで敵の乗組員を排出します。\n"
-"ドローン、シェル、ヴァンプウィード、ゴースト、ラニウスは免疫があります。"
+"スラッグシェル修理ジェル:\n"
+"この敵の船体破壊は、クルーが不在でも自動的に修理されます。また、味方クルーに3HP/秒の回復効果を与え、空の部屋で敵クルーのHPを3HP/秒で減少させます。\n"
+"ドローン、シェル、ヴァンプウィード、ゴースト、ラニアスは免疫があります。"
 
 #: src-en/data/hyperspace.xml.append:100
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[12]/tooltip"
 msgstr ""
-"シャードフォーアーマー：\n"
-"武器でこの敵に船体のダメージを与えるたびに、シャードが壊れて船に向かって飛ぶ可能性が25％あります。シールドは貫通しませんが、ヒットした場合、ランダムな部屋に1ダメージを与えます。"
+"シャードフォージ装甲:\n"
+"武器でこの敵に船体ダメージを与えるたびに、25%の確率で破片が砕け散り、あなたの船に向かって飛んできます。シールドは貫通しませんが、命中するとランダムな部屋に1ダメージを与えます。"
 
 #: src-en/data/hyperspace.xml.append:105
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[13]/tooltip"
 msgstr ""
-"強い補助シールド：\n"
-"この敵の船には、強力な補助シールドジェネレーターが装備されており、6つのエネルギーシールド層で戦闘を開始します。"
+"強力な補助シールド:\n"
+"この敵船は強力な補助シールド発生器を装備しており、戦闘開始時に6層のエネルギーシールドを持っています。"
 
 #: src-en/data/hyperspace.xml.append:110
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[14]/tooltip"
 msgstr ""
-"バリアジェネレーター：\n"
-"この敵の船には、武器を発射するたびに船の1つのランダムな部屋を保護するバリアジェネレーターが装備されており、6つの障壁で最大になります。"
+"バリア発生器:\n"
+"この敵船はバリア発生器を装備しており、武器を発射するたびに船内のランダムな1部屋を保護します。最大6つのバリアまでです。"
 
 #: src-en/data/hyperspace.xml.append:115
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[15]/tooltip"
 msgstr ""
-"カオスバリアジェネレーター：\n"
-"この敵の船には、武器を発射するたびに船の1つのランダムな部屋を保護するバリアジェネレーターが装備されています。"
+"混沌のバリア発生器:\n"
+"この敵船はバリア発生器を装備しており、武器を発射するたびに船内のランダムな1部屋を保護します。"
 
 #: src-en/data/hyperspace.xml.append:554
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_ARTY\"]/crew/aea_acid_soldier[@name=\"Acidic"
 " Soldier\"]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:564
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_ARTY_2\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:565
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_ARTY_2\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:566
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_ARTY_2\"]/crew/aea_acid_soldier[3]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:579
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
-msgstr "酸性リーダー"
+msgstr "アシディック・リーダー"
 
 #: src-en/data/hyperspace.xml.append:589
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG_2\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
-msgstr "酸性リーダー"
+msgstr "アシディック・リーダー"
 
 #: src-en/data/hyperspace.xml.append:590
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG_2\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:591
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG_2\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:599
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG_3\"]/crew/aea_acid_captain[1]/@name"
-msgstr "酸性リーダー"
+msgstr "アシディック・リーダー"
 
 #: src-en/data/hyperspace.xml.append:600
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG_3\"]/crew/aea_acid_captain[2]/@name"
-msgstr "酸性リーダー"
+msgstr "アシディック・リーダー"
 
 #: src-en/data/hyperspace.xml.append:601
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG_3\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:602
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_LONG_3\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:610
 msgid "data/hyperspace.xml.append$//aea_acid_bill[@name=\"Bill\"]/@name"
-msgstr "請求書"
+msgstr "ビル"
 
 #: src-en/data/hyperspace.xml.append:659
 msgid "data/hyperspace.xml.append$//aea_necro_king[@name=\"L-0031\"]/@name"
@@ -215,7 +215,7 @@ msgstr "L-0031"
 
 #: src-en/data/hyperspace.xml.append:697
 msgid "data/hyperspace.xml.append$//aea_cult_tiny[@name=\"Tiny\"]/@name"
-msgstr "小さい"
+msgstr "タイニー"
 
 #: src-en/data/hyperspace.xml.append:732
 msgid "data/hyperspace.xml.append$//aea_bird_unique[@name=\"Jay\"]/@name"
@@ -223,11 +223,11 @@ msgstr "ジェイ"
 
 #: src-en/data/hyperspace.xml.append:1231
 msgid "data/hyperspace.xml.append$//aea_shleg_sickle[@name=\"Sickle\"]/@name"
-msgstr "鎌"
+msgstr "シックル"
 
 #: src-en/data/hyperspace.xml.append:1232
 msgid "data/hyperspace.xml.append$//aea_shleg_sorrow[@name=\"Sorrow\"]/@name"
-msgstr "悲しみ"
+msgstr "ソロー"
 
 #: src-en/data/hyperspace.xml.append:1258
 msgid "data/hyperspace.xml.append$//aea_shard_dawn[@name=\"King Onyx\"]/@name"
@@ -238,35 +238,35 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_JUSTICE\"]/crew/aea_dark_justicier[@name=\"The"
 " Dark Justicier\"]/@name"
-msgstr "暗い暗い"
+msgstr "ダーク・ジャスティシエ"
 
 #: src-en/data/hyperspace.xml.append:1350
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_JUSTICE_2\"]/crew/aea_dark_justicier[@name=\"The"
 " Dark Justicier\"]/@name"
-msgstr "暗い暗い"
+msgstr "ダーク・ジャスティシエ"
 
 #: src-en/data/hyperspace.xml.append:1359
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_JUSTICE_3\"]/crew/aea_dark_justicier[@name=\"The"
 " Dark Justicier\"]/@name"
-msgstr "暗い暗い"
+msgstr "ダーク・ジャスティシエ"
 
 #: src-en/data/hyperspace.xml.append:1369
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_JUSTICE_BATTLESHIP\"]/crew/aea_dark_justicier_enemy[@name=\"The"
 " Dark Justicier\"]/@name"
-msgstr "暗い暗い"
+msgstr "ダーク・ジャスティシエ"
 
 #: src-en/data/hyperspace.xml.append:1388
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_JUSTICE_CRUISER\"]/crew/aea_dark_justicier_enemy[@name=\"The"
 " Dark Justicier\"]/@name"
-msgstr "暗い暗い"
+msgstr "ダーク・ジャスティシエ"
 
 #: src-en/data/hyperspace.xml.append:1443
 msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Sylvan\"]/@name"
@@ -276,38 +276,38 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//aea_old_unique_1[@name=\"Atoning "
 "Unifex\"]/@name"
-msgstr "aToning unifex"
+msgstr "アトーニング・ユニフェックス"
 
 #: src-en/data/hyperspace.xml.append:1554
 msgid ""
 "data/hyperspace.xml.append$//aea_old_unique_2[@name=\"Asymptotic "
 "Essence\"]/@name"
-msgstr "漸近のエッセンス"
+msgstr "アシンプトティック・エッセンス"
 
 #: src-en/data/hyperspace.xml.append:1555
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_OLD_UNIA_2\"]/crew/aea_acid_soldier[@name=\"Acidic"
 " Soldier\"]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:1576
 msgid ""
 "data/hyperspace.xml.append$//aea_old_unique_3[@name=\"Eupathic "
 "Impulse\"]/@name"
-msgstr "ユーパシーの衝動"
+msgstr "ユーパシック・インパルス"
 
 #: src-en/data/hyperspace.xml.append:1587
 msgid ""
 "data/hyperspace.xml.append$//aea_old_unique_4[@name=\"Homologous "
 "Trend\"]/@name"
-msgstr "相同動向"
+msgstr "ホモロガス・トレンド"
 
 #: src-en/data/hyperspace.xml.append:1604
 msgid ""
 "data/hyperspace.xml.append$//aea_old_unique_5[@name=\"Noetic "
 "Concordance\"]/@name"
-msgstr "ノティックな一致"
+msgstr "ノエティック・コンコーダンス"
 
 #: src-en/data/hyperspace.xml.append:2936
 msgid "data/hyperspace.xml.append$//unique_leah[@name=\"Leah\"]/@name"
@@ -317,441 +317,441 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOSS\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3169
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOSS\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
-msgstr "酸性リーダー"
+msgstr "アシディック・リーダー"
 
 #: src-en/data/hyperspace.xml.append:3170
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOSS\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3171
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOSS\"]/crew/aea_acid_soldier[3]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3180
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_SCOUT\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3181
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_SCOUT\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3190
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_OUTRIDER\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3191
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_OUTRIDER\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3192
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_OUTRIDER\"]/crew/aea_acid_soldier[3]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3201
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_FIGHTER\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3202
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_FIGHTER\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3211
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_INSTIGATOR\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3212
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_INSTIGATOR\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3213
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_INSTIGATOR\"]/crew/aea_acid_soldier[3]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3222
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOMBER\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3223
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOMBER\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3224
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOMBER\"]/crew/aea_acid_soldier[3]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3233
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_ASSUALT\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3234
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_ASSUALT\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3235
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_ASSUALT\"]/crew/aea_acid_soldier[3]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3245
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3246
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
-msgstr "酸性リーダー"
+msgstr "アシディック・リーダー"
 
 #: src-en/data/hyperspace.xml.append:3247
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3248
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT\"]/crew/aea_acid_soldier[3]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3249
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT\"]/crew/aea_acid_soldier[4]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3258
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
-msgstr "酸性リーダー"
+msgstr "アシディック・リーダー"
 
 #: src-en/data/hyperspace.xml.append:3259
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3260
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3261
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD\"]/crew/aea_acid_soldier[3]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3271
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_SCOUT_ELITE\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
-msgstr "酸性リーダー"
+msgstr "アシディック・リーダー"
 
 #: src-en/data/hyperspace.xml.append:3272
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_SCOUT_ELITE\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3273
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_SCOUT_ELITE\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3282
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_OUTRIDER_ELITE\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
-msgstr "酸性リーダー"
+msgstr "アシディック・リーダー"
 
 #: src-en/data/hyperspace.xml.append:3283
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_OUTRIDER_ELITE\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3284
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_OUTRIDER_ELITE\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3285
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_OUTRIDER_ELITE\"]/crew/aea_acid_soldier[3]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3294
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_FIGHTER_ELITE\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
-msgstr "酸性リーダー"
+msgstr "アシディック・リーダー"
 
 #: src-en/data/hyperspace.xml.append:3295
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_FIGHTER_ELITE\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3296
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_FIGHTER_ELITE\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3305
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_INSTIGATOR_ELITE\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
-msgstr "酸性リーダー"
+msgstr "アシディック・リーダー"
 
 #: src-en/data/hyperspace.xml.append:3306
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_INSTIGATOR_ELITE\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3307
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_INSTIGATOR_ELITE\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3308
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_INSTIGATOR_ELITE\"]/crew/aea_acid_soldier[3]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3317
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOMBER_ELITE\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
-msgstr "酸性リーダー"
+msgstr "アシディック・リーダー"
 
 #: src-en/data/hyperspace.xml.append:3318
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOMBER_ELITE\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3319
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOMBER_ELITE\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3320
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_BOMBER_ELITE\"]/crew/aea_acid_soldier[3]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3330
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT_ELITE\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3331
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT_ELITE\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
-msgstr "酸性リーダー"
+msgstr "アシディック・リーダー"
 
 #: src-en/data/hyperspace.xml.append:3332
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT_ELITE\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3333
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT_ELITE\"]/crew/aea_acid_soldier[3]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3334
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_TRANSPORT_ELITE\"]/crew/aea_acid_soldier[4]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3343
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD_ELITE\"]/crew/aea_acid_captain[@name=\"Acidic"
 " Leader\"]/@name"
-msgstr "酸性リーダー"
+msgstr "アシディック・リーダー"
 
 #: src-en/data/hyperspace.xml.append:3344
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD_ELITE\"]/crew/aea_acid_soldier[1]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3345
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD_ELITE\"]/crew/aea_acid_soldier[2]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:3346
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"AEA_ACID_GUARD_ELITE\"]/crew/aea_acid_soldier[3]/@name"
-msgstr "酸性兵士"
+msgstr "アシディック・ソルジャー"
 
 #: src-en/data/hyperspace.xml.append:4328
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_acid_bill\"]/powerEffect/buttonText"
-msgstr "絶滅します"
+msgstr "絶滅"
 
 #: src-en/data/hyperspace.xml.append:4329
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_acid_bill\"]/powerEffect/tooltip"
-msgstr "準備：すぐに35hp未満のすべての敵の乗組員を殺します"
+msgstr "準備完了: HP35以下の敵クルーを即座に殺害する"
 
 #: src-en/data/hyperspace.xml.append:4351
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_engi\"]/powerEffect/buttonText"
-msgstr "復活"
+msgstr "蘇生"
 
 #: src-en/data/hyperspace.xml.append:4352
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_engi\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"このエンギーによって近接戦闘で殺された最後の敵の乗組員を復活させます。\n"
-"-1ナナイトの群れをコストします\n"
-"- リセクトされた乗組員は90秒間続きます"
+"[クールダウン:20秒]\n"
+"\t\t\t\tこのエンジが近接戦闘で最後に倒した敵クルーを蘇生させる。\n"
+"\t\t\t\t-ナナイトスウォームを1消費\n"
+"\t\t\t\t-蘇生したクルーは90秒間持続"
 
 #: src-en/data/hyperspace.xml.append:4388
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_lich\"]/powerEffect[1]/buttonText"
-msgstr "バラバラになります"
+msgstr "引き裂く"
 
 #: src-en/data/hyperspace.xml.append:4389
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_lich\"]/powerEffect[1]/tooltip"
 msgstr ""
-"[クールダウン：30秒]\n"
-"部屋の敵を裂き、体の一部を復活させてコピーを作成します。\n"
-"-2ナナイトの群れをコストします\n"
-"- 最後の30秒間の回復された乗組員\n"
-"- リセンスされた乗組員は、HPと損傷が25％少なくなります\n"
-"- 部屋にある敵の乗組員は、HPが10％少なく、損傷\n"
-"- エンギーリッチの損傷は50％増加します"
+"[クールダウン:30秒]\n"
+"\t\t\t\t部屋の敵を引き裂き、その体の一部を蘇生させてコピーを作成する。\n"
+"\t\t\t\t-ナナイトスウォームを2消費\n"
+"\t\t\t\t-蘇生したクルーは30秒間持続\n"
+"\t\t\t\t-蘇生したクルーのHPとダメージが25%減少\n"
+"\t\t\t\t-部屋にいる影響を受けた敵クルーのHPとダメージが10%減少\n"
+"\t\t\t\t-エンジ・リッチのダメージが50%増加"
 
 #: src-en/data/hyperspace.xml.append:4442
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_lich\"]/powerEffect[2]/buttonText"
-msgstr "復活"
+msgstr "蘇生"
 
 #: src-en/data/hyperspace.xml.append:4443
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_lich\"]/powerEffect[2]/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"このエンギーによって近接戦闘で殺された最後の敵の乗組員を復活させます。\n"
-"-1ナナイトの群れをコストします\n"
-"- リセクトされた乗組員は90秒間続きます"
+"[クールダウン:20秒]\n"
+"\t\t\t\tこのエンジが近接戦闘で最後に倒した敵クルーを蘇生させる。\n"
+"\t\t\t\t-ナナイトスウォームを1消費\n"
+"\t\t\t\t-蘇生したクルーは90秒間持続"
 
 #: src-en/data/hyperspace.xml.append:4481
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_king\"]/powerEffect[1]/buttonText"
-msgstr "再生"
+msgstr "再活性化"
 
 #: src-en/data/hyperspace.xml.append:4482
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_king\"]/powerEffect[1]/tooltip"
 msgstr ""
-"[クールダウン：60年代]\n"
-"このエンギーが近接戦闘で殺された最後の敵の乗組員を永久に復活させます。\n"
-"-5ナナイトの群れをコストします"
+"[クールダウン:60秒]\n"
+"\t\t\t\tこのエンジが近接戦闘で最後に倒した敵クルーを永久に蘇生させる。\n"
+"\t\t\t\t-ナナイトスウォームを5消費"
 
 #: src-en/data/hyperspace.xml.append:4497
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_king\"]/powerEffect[2]/buttonText"
-msgstr "復活"
+msgstr "蘇生"
 
 #: src-en/data/hyperspace.xml.append:4498
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_necro_king\"]/powerEffect[2]/tooltip"
 msgstr ""
-"[クールダウン：2秒]\n"
-"このエンギーによって近接戦闘で殺された最後の敵の乗組員を復活させます。\n"
-"-1ナナイトの群れをコストします\n"
-"- リセクトされた乗組員は90秒間続きます"
+"[クールダウン:2秒]\n"
+"\t\t\t\tこのエンジが近接戦闘で最後に倒した敵クルーを蘇生させる。\n"
+"\t\t\t\t-ナナイトスウォームを1消費\n"
+"\t\t\t\t-蘇生したクルーは90秒間持続"
 
 #: src-en/data/hyperspace.xml.append:4557
 msgid ""
@@ -764,22 +764,22 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_1\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：30秒]\n"
-"ルームをハッキングして、すべての乗組員を部屋の10秒間スタンします。"
+"[クールダウン:30秒]\n"
+"\t\t\t\t部屋をハッキングし、部屋にいる全クルーを10秒間スタンさせる。"
 
 #: src-en/data/hyperspace.xml.append:4594
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_2\"]/powerEffect/buttonText"
-msgstr "クレンジング"
+msgstr "浄化"
 
 #: src-en/data/hyperspace.xml.append:4596
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_2\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：30秒]\n"
-"部屋へのすべてのイオン効果をクレンジングし、2つのシステム損傷を癒します。"
+"[クールダウン:30秒]\n"
+"\t\t\t\t部屋のすべてのイオン効果を浄化し、2システムダメージを回復する。"
 
 #: src-en/data/hyperspace.xml.append:4631
 msgid ""
@@ -792,8 +792,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_3\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：30秒]\n"
-"敵の船の火災爆弾は、部屋の敵の乗組員と1つの敵の乗組員の数に等しい。"
+"[クールダウン:30秒]\n"
+"\t\t\t\t部屋にいる敵クルーの数+1に等しい数の火炎爆弾を敵船で爆発させる。"
 
 #: src-en/data/hyperspace.xml.append:4671
 msgid ""
@@ -806,8 +806,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_4\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：30秒]\n"
-"100のヒットポイントで自分自身を含めて、部屋の他のすべてのフレンドリーな乗組員を癒し、1つのダメージを修復します。"
+"[クールダウン:30秒]\n"
+"\t\t\t\t自身を含む部屋にいる他のすべての味方クルーを100ヒットポイント回復し、1ダメージを修理する。"
 
 #: src-en/data/hyperspace.xml.append:4708
 msgid ""
@@ -820,22 +820,22 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_5\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：30秒]\n"
-"2つのスーパーシールドレイヤーを生成します。"
+"[クールダウン:30秒]\n"
+"\t\t\t\t2層のスーパーシールドを生成する。"
 
 #: src-en/data/hyperspace.xml.append:4847
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_shell\"]/powerEffect/buttonText"
-msgstr "燃焼します"
+msgstr "燃焼"
 
 #: src-en/data/hyperspace.xml.append:4848
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_shell\"]/powerEffect/tooltip"
 msgstr ""
-"[CD：5S期間：21S -40HP]\n"
-"部屋のすべてのマインドコントロールされた敵の乗組員に75のダメージを与え、敵の乗組員を10馬力以下に連れて行くことはできません。ゆっくりと42の健康を再生します。"
+"[CD:5秒 持続時間:21秒 -40HP]\n"
+"部屋にいるマインドコントロールされたすべての敵クルーに75ダメージを与える。敵クルーのHPを10未満にすることはできない。ゆっくりと42ヘルスを回復する。"
 
 #: src-en/data/hyperspace.xml.append:4875
 msgid ""
@@ -848,10 +848,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_slug\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：50秒の期間：10秒]\n"
-"30秒間続く毒素爆弾を展開すると、部屋の敵の乗組員は5 hp/sの速度でステータス効果を構築します。\n"
-"ステータス効果は、蓄積が現在の健康に達すると、敵の乗組員をコントロールすることに気をつけます。\n"
-"敵の乗組員から隠れて2 hp/sで癒し、一時的に動きと攻撃を停止します。"
+"[クールダウン:50秒 持続時間:10秒]\n"
+"\t\t\t\t30秒間持続する毒素爆弾を設置する。部屋にいる敵クルーは5HP/秒の割合でステータス効果が蓄積する。\n"
+"\t\t\t\t蓄積が現在のヘルスに達すると、ステータス効果は敵クルーをマインドコントロールする。\n"
+"\t\t\t\t10秒間一時的にクロークし、移動と攻撃を停止し、敵クルーから隠れ、2HP/秒で回復する。"
 
 #: src-en/data/hyperspace.xml.append:4937
 msgid ""
@@ -864,56 +864,56 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_sickle\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：40秒の期間：10秒]\n"
-"部屋の敵の乗組員は、1分間続く毒素爆弾を展開します。\n"
-"ステータス効果は、蓄積が現在の健康に達すると、敵の乗組員をコントロールすることに気をつけます。\n"
-"敵の乗組員から隠れて、半分の損傷と動きで一時的にマントします。"
+"[クールダウン:40秒 持続時間:10秒]\n"
+"1分間持続する毒素爆弾を設置する。部屋にいる敵クルーは10HP/秒の割合でステータス効果が蓄積する。\n"
+"蓄積が現在のヘルスに達すると、ステータス効果は敵クルーをマインドコントロールする。\n"
+"ダメージと移動が半減した状態で一時的にクロークし、敵クルーから隠れる。"
 
 #: src-en/data/hyperspace.xml.append:5000
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_sorrow\"]/powerEffect/buttonText"
-msgstr "燃焼します"
+msgstr "燃焼"
 
 #: src-en/data/hyperspace.xml.append:5001
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shleg_sorrow\"]/powerEffect/tooltip"
 msgstr ""
-"[CD：15S期間：10S -60HP]\n"
-"マインドコントロールされている部屋のすべての敵の乗組員を殺します。他の敵の乗組員に30のダメージを与えます。60の健康を再生します。"
+"[CD:15秒 持続時間:10秒 -60HP]\n"
+"部屋にいるマインドコントロールされたすべての敵クルーを殺害する。他の敵クルーに30ダメージを与える。60ヘルスを回復する。"
 
 #: src-en/data/hyperspace.xml.append:5048
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard\"]/powerEffect/buttonText"
-msgstr "スペル"
+msgstr "呪文"
 
 #: src-en/data/hyperspace.xml.append:5049
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"何もしないことをする現在の部屋に呪文をキャストします\n"
-"キャスト期間：5秒\n"
-"乗組員がダメージを受けると、キャスティング中に中断されます"
+"[クールダウン:20秒]\n"
+"現在の部屋で何も効果のない呪文を詠唱する\n"
+"\t詠唱時間: 5秒\n"
+"\t詠唱中にクルーがダメージを受けると中断される"
 
 #: src-en/data/hyperspace.xml.append:5089
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a01\"]/powerEffect/buttonText"
-msgstr "守る"
+msgstr "プロテクト"
 
 #: src-en/data/hyperspace.xml.append:5090
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a01\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"現在の部屋を船体から保護する呪文とシステムの損傷を10秒間キャストします\n"
-"キャスト期間：1秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:20秒]\n"
+"現在の部屋を10秒間、船体およびシステムダメージから保護する呪文を詠唱する\n"
+"\t詠唱時間: 1秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5129
 msgid ""
@@ -926,10 +926,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a02\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"画面上のすべての敵の発射体を現在の部屋にリターゲットする呪文をキャストします\n"
-"キャスト期間：1秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:20秒]\n"
+"画面上のすべての敵の発射体を現在の部屋に再標的化する呪文を詠唱する\n"
+"\t詠唱時間: 1秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5169
 msgid ""
@@ -942,10 +942,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s03\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"45の個人的なダメージを与えるターゲットルームですべての通常のシールドを貫通する呪文をキャストする\n"
-"キャスト期間：3秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:20秒]\n"
+"すべての通常シールドを貫通し、対象の部屋に45の対人ダメージを与える呪文を詠唱する\n"
+"\t詠唱時間: 3秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5209
 msgid ""
@@ -958,42 +958,42 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s04\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"1ダメージを与えるターゲットルームですべての通常のシールドを貫通する呪文をキャストする\n"
-"キャスト期間：8秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:20秒]\n"
+"すべての通常シールドを貫通し、対象の部屋に1ダメージを与える呪文を詠唱する\n"
+"\t詠唱時間: 8秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5249
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s05\"]/powerEffect/buttonText"
-msgstr "ボルトが破裂します"
+msgstr "ボルトバースト"
 
 #: src-en/data/hyperspace.xml.append:5250
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s05\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"1ダメージを与えるターゲットルームですべての通常のシールドを貫通する3つの呪文をキャストします\n"
-"キャスト期間：20秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:20秒]\n"
+"すべての通常シールドを貫通し、対象の部屋に1ダメージを与える呪文を3つ詠唱する\n"
+"\t詠唱時間: 20秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5289
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s06\"]/powerEffect/buttonText"
-msgstr "船体ボルト"
+msgstr "ハルボルト"
 
 #: src-en/data/hyperspace.xml.append:5290
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s06\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"3頭の船体のダメージを与えますが、システムや乗組員の損傷はないターゲットルームですべての通常のシールドを貫通する呪文をキャストします\n"
-"キャスト期間：10秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:20秒]\n"
+"すべての通常シールドを貫通し、対象の部屋に3の船体ダメージを与えるが、システムやクルーにはダメージを与えない呪文を詠唱する\n"
+"\t詠唱時間: 10秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5329
 msgid ""
@@ -1006,10 +1006,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a07\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"現在の部屋のすべての乗組員を反対側の船のランダムな部屋にゆがめる現在の部屋に呪文をかける\n"
-"キャスト期間：6秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:20秒]\n"
+"現在の部屋にいるすべてのクルーを反対側の船のランダムな部屋にワープさせる呪文を詠唱する\n"
+"\t詠唱時間: 6秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5368
 msgid ""
@@ -1022,42 +1022,42 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s08\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"部屋のすべての乗組員を反対側の船のランダムな部屋にゆがめるターゲットルームですべての盾を貫通する呪文をキャストする\n"
-"キャスト期間：8秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:20秒]\n"
+"すべてのシールドを貫通し、対象の部屋にいるすべてのクルーを反対側の船のランダムな部屋にワープさせる呪文を詠唱する\n"
+"\t詠唱時間: 8秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5407
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s09\"]/powerEffect/buttonText"
-msgstr "ボルトを癒します"
+msgstr "ヒールボルト"
 
 #: src-en/data/hyperspace.xml.append:5408
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s09\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"すべてのフレンドリーな乗組員を75馬力で癒すターゲットルームですべての盾を貫通する呪文をキャストする\n"
-"キャスト期間：2秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:20秒]\n"
+"すべてのシールドを貫通し、対象の部屋にいるすべての味方クルーを75HP回復する呪文を詠唱する\n"
+"\t詠唱時間: 2秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5449
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a10\"]/powerEffect/buttonText"
-msgstr "オーラを癒します"
+msgstr "ヒールオーラ"
 
 #: src-en/data/hyperspace.xml.append:5450
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a10\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"現在の部屋に呪文をかけ、45馬力で部屋のすべてのフレンドリーな乗組員を癒します\n"
-"キャスト期間：5秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:20秒]\n"
+"現在の部屋にいるすべての味方クルーを45HP回復する呪文を詠唱する\n"
+"\t詠唱時間: 5秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5488
 msgid ""
@@ -1070,10 +1070,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a11\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"敵の船の周りに保守的な戦闘ドローンを産みます\n"
-"キャスト期間：10秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:20秒]\n"
+"敵船の周りに控えめな戦闘ドローンを生成する\n"
+"\t詠唱時間: 10秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5528
 msgid ""
@@ -1086,10 +1086,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s12\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"2つの発射体をブロックできる障壁を生成するターゲットルームですべての通常のシールドを貫通する呪文をキャストします。\n"
-"キャスト期間：2秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:20秒]\n"
+"すべての通常シールドを貫通し、対象の部屋に2つの発射体をブロックできるバリアを生成する呪文を詠唱する。同時に8つまでしかアクティブにできない\n"
+"\t詠唱時間: 2秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5568
 msgid ""
@@ -1102,26 +1102,26 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s13\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"ロックダウン効果を適用するターゲットルームですべての通常のシールドを貫通する呪文をキャストする\n"
-"キャスト期間：4秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:20秒]\n"
+"すべての通常シールドを貫通し、対象の部屋にロックダウン効果を適用する呪文を詠唱する\n"
+"\t詠唱時間: 4秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5608
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s14\"]/powerEffect/buttonText"
-msgstr "味方"
+msgstr "アライ"
 
 #: src-en/data/hyperspace.xml.append:5609
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s14\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"ランダムな味方を生み出すターゲットルームですべての通常のシールドを貫通する呪文をキャストする\n"
-"キャスト期間：7秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:20秒]\n"
+"すべての通常シールドを貫通し、対象の部屋にランダムな味方を生成する呪文を詠唱する\n"
+"\t詠唱時間: 7秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5648
 msgid ""
@@ -1134,10 +1134,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s15\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：20秒]\n"
-"心が20秒間敵をコントロールするターゲットルームですべての通常のシールドを貫通する呪文をキャストする\n"
-"キャスト期間：8秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:20秒]\n"
+"すべての通常シールドを貫通し、対象の部屋の敵を20秒間マインドコントロールする呪文を詠唱する\n"
+"\t詠唱時間: 8秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5688
 msgid ""
@@ -1150,26 +1150,26 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_sup\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：13秒]\n"
-"ターゲットルームですべての通常のシールドを刺すランダムなサポートスペルをキャストする\n"
-"キャスト期間：1秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:13秒]\n"
+"すべての通常シールドを貫通するランダムなサポート呪文を対象の部屋に詠唱する\n"
+"\t詠唱時間: 1秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5726
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_off\"]/powerEffect/buttonText"
-msgstr "攻撃"
+msgstr "オフェンス"
 
 #: src-en/data/hyperspace.xml.append:5727
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_off\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"ターゲットルームですべての通常のシールドを刺すランダムな攻撃的な呪文をキャストする\n"
-"キャスト期間：4秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"すべての通常シールドを貫通するランダムな攻撃呪文を対象の部屋に詠唱する\n"
+"\t詠唱時間: 4秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5764
 msgid ""
@@ -1182,42 +1182,42 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_bor\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：12秒]\n"
-"ターゲットルームですべての通常のシールドを刺すランダムな搭乗呪文をキャストする\n"
-"キャスト期間：2秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:12秒]\n"
+"すべての通常シールドを貫通するランダムな白兵戦サポート呪文を対象の部屋に詠唱する\n"
+"\t詠唱時間: 2秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5855
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny\"]/powerEffect/buttonText"
-msgstr "スペル"
+msgstr "呪文"
 
 #: src-en/data/hyperspace.xml.append:5856
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"何もしないことをする現在の部屋に呪文をキャストします\n"
-"キャスト期間：2.5秒\n"
-"乗組員がダメージを受けると、キャスティング中に中断されます"
+"[クールダウン:10秒]\n"
+"現在の部屋で何も効果のない呪文を詠唱する\n"
+"\t詠唱時間: 2.5秒\n"
+"\t詠唱中にクルーがダメージを受けると中断される"
 
 #: src-en/data/hyperspace.xml.append:5898
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a01\"]/powerEffect/buttonText"
-msgstr "守る"
+msgstr "プロテクト"
 
 #: src-en/data/hyperspace.xml.append:5899
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a01\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"現在の部屋を船体から保護する呪文とシステムの損傷を10秒間キャストします\n"
-"キャスト期間：1秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"現在の部屋を10秒間、船体およびシステムダメージから保護する呪文を詠唱する\n"
+"\t詠唱時間: 1秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5938
 msgid ""
@@ -1230,10 +1230,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a02\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"画面上のすべての敵の発射体を現在の部屋にリターゲットする呪文をキャストします\n"
-"キャスト期間：1秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"画面上のすべての敵の発射体を現在の部屋に再標的化する呪文を詠唱する\n"
+"\t詠唱時間: 1秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:5978
 msgid ""
@@ -1246,10 +1246,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s03\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"45の個人的なダメージを与えるターゲットルームですべての通常のシールドを貫通する呪文をキャストする\n"
-"キャスト期間：3秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"すべての通常シールドを貫通し、対象の部屋に45の対人ダメージを与える呪文を詠唱する\n"
+"\t詠唱時間: 3秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:6018
 msgid ""
@@ -1262,42 +1262,42 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s04\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"1ダメージを与えるターゲットルームですべての通常のシールドを貫通する呪文をキャストする\n"
-"キャスト期間：8秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"すべての通常シールドを貫通し、対象の部屋に1ダメージを与える呪文を詠唱する\n"
+"\t詠唱時間: 8秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:6058
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s05\"]/powerEffect/buttonText"
-msgstr "ボルトが破裂します"
+msgstr "ボルトバースト"
 
 #: src-en/data/hyperspace.xml.append:6059
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s05\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"1ダメージを与えるターゲットルームですべての通常のシールドを貫通する3つの呪文をキャストします\n"
-"キャスト期間：20秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"すべての通常シールドを貫通し、対象の部屋に1ダメージを与える呪文を3つ詠唱する\n"
+"\t詠唱時間: 20秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:6098
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s06\"]/powerEffect/buttonText"
-msgstr "船体ボルト"
+msgstr "ハルボルト"
 
 #: src-en/data/hyperspace.xml.append:6099
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s06\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"3頭の船体のダメージを与えますが、システムや乗組員の損傷はないターゲットルームですべての通常のシールドを貫通する呪文をキャストします\n"
-"キャスト期間：10秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"すべての通常シールドを貫通し、対象の部屋に3の船体ダメージを与えるが、システムやクルーにはダメージを与えない呪文を詠唱する\n"
+"\t詠唱時間: 10秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:6138
 msgid ""
@@ -1310,10 +1310,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a07\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"現在の部屋のすべての乗組員を反対側の船のランダムな部屋にゆがめる現在の部屋に呪文をかける\n"
-"キャスト期間：6秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"現在の部屋にいるすべてのクルーを反対側の船のランダムな部屋にワープさせる呪文を詠唱する\n"
+"\t詠唱時間: 6秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:6178
 msgid ""
@@ -1326,42 +1326,42 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s08\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"部屋のすべての乗組員を反対側の船のランダムな部屋にゆがめるターゲットルームですべての盾を貫通する呪文をキャストする\n"
-"キャスト期間：8秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"すべてのシールドを貫通し、対象の部屋にいるすべてのクルーを反対側の船のランダムな部屋にワープさせる呪文を詠唱する\n"
+"\t詠唱時間: 8秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:6218
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s09\"]/powerEffect/buttonText"
-msgstr "ボルトを癒します"
+msgstr "ヒールボルト"
 
 #: src-en/data/hyperspace.xml.append:6219
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s09\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"すべてのフレンドリーな乗組員を75馬力で癒すターゲットルームですべての盾を貫通する呪文をキャストする\n"
-"キャスト期間：2秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"すべてのシールドを貫通し、対象の部屋にいるすべての味方クルーを75HP回復する呪文を詠唱する\n"
+"\t詠唱時間: 2秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:6260
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a10\"]/powerEffect/buttonText"
-msgstr "オーラを癒します"
+msgstr "ヒールオーラ"
 
 #: src-en/data/hyperspace.xml.append:6261
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a10\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"現在の部屋に呪文をかけ、45馬力で部屋のすべてのフレンドリーな乗組員を癒します\n"
-"キャスト期間：5秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"現在の部屋にいるすべての味方クルーを45HP回復する呪文を詠唱する\n"
+"\t詠唱時間: 5秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:6300
 msgid ""
@@ -1374,10 +1374,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a11\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"敵の船の周りに保守的な戦闘ドローンを産みます\n"
-"キャスト期間：10秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"敵船の周りに控えめな戦闘ドローンを生成する\n"
+"\t詠唱時間: 10秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:6340
 msgid ""
@@ -1390,10 +1390,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s12\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"2つの発射体をブロックできる障壁を生成するターゲットルームですべての通常のシールドを貫通する呪文をキャストします。\n"
-"キャスト期間：2秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"すべての通常シールドを貫通し、対象の部屋に2つの発射体をブロックできるバリアを生成する呪文を詠唱する。同時に8つまでしかアクティブにできない\n"
+"\t詠唱時間: 2秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:6380
 msgid ""
@@ -1406,26 +1406,26 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s13\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"ロックダウン効果を適用するターゲットルームですべての通常のシールドを貫通する呪文をキャストする\n"
-"キャスト期間：4秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"すべての通常シールドを貫通し、対象の部屋にロックダウン効果を適用する呪文を詠唱する\n"
+"\t詠唱時間: 4秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:6420
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s14\"]/powerEffect/buttonText"
-msgstr "味方"
+msgstr "アライ"
 
 #: src-en/data/hyperspace.xml.append:6421
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s14\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"ランダムな味方を生み出すターゲットルームですべての通常のシールドを貫通する呪文をキャストする\n"
-"キャスト期間：7秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"すべての通常シールドを貫通し、対象の部屋にランダムな味方を生成する呪文を詠唱する\n"
+"\t詠唱時間: 7秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:6460
 msgid ""
@@ -1438,58 +1438,58 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s15\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：10秒]\n"
-"心が20秒間敵をコントロールするターゲットルームですべての通常のシールドを貫通する呪文をキャストする\n"
-"キャスト期間：8秒\n"
-"乗組員がダメージを受けたり動きたりすると、キャスティング中に邪魔されます"
+"[クールダウン:10秒]\n"
+"すべての通常シールドを貫通し、対象の部屋の敵を20秒間マインドコントロールする呪文を詠唱する\n"
+"\t詠唱時間: 8秒\n"
+"\t詠唱中にクルーがダメージを受けるか移動すると中断される"
 
 #: src-en/data/hyperspace.xml.append:6517
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_breaker\"]/powerEffect/buttonText"
-msgstr "壊す"
+msgstr "ブレークダウン"
 
 #: src-en/data/hyperspace.xml.append:6518
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_breaker\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：12s -25hp]\n"
-"占有された部屋を12秒間ロックし、乗組員が入るのを防ぎます。\n"
-"部屋の敵の乗組員は、1秒あたり4ダメージを与えます。\n"
-"敵の乗組員を攻撃することはできません。"
+"[クールダウン:12秒 -25HP]\n"
+"\t\t\t\t占有している部屋を12秒間ロックダウンし、クルーの侵入を防ぐ。\n"
+"\t\t\t\t部屋にいる敵クルーは毎秒4ダメージを受ける。\n"
+"\t\t\t\t効果時間中、敵クルーを攻撃できない。"
 
 #: src-en/data/hyperspace.xml.append:6590
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_smasher\"]/powerEffect/buttonText"
-msgstr "壊す"
+msgstr "ブレークダウン"
 
 #: src-en/data/hyperspace.xml.append:6591
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_smasher\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：6S -25HP]\n"
-"占有された部屋を12秒間ロックし、乗組員が入るのを防ぎます。\n"
-"部屋の敵の乗組員は、1秒あたり4ダメージを与えます。\n"
-"敵の乗組員を攻撃することはできません。"
+"[クールダウン:6秒 -25HP]\n"
+"\t\t\t\t占有している部屋を12秒間ロックダウンし、クルーの侵入を防ぐ。\n"
+"\t\t\t\t部屋にいる敵クルーは毎秒4ダメージを受ける。\n"
+"\t\t\t\t効果時間中、敵クルーを攻撃できない。"
 
 #: src-en/data/hyperspace.xml.append:6664
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_dawn\"]/powerEffect/buttonText"
-msgstr "壊す"
+msgstr "ブレークダウン"
 
 #: src-en/data/hyperspace.xml.append:6665
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_dawn\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン：3s -25hp]\n"
-"占有された部屋を24秒間ロックし、乗組員が入るのを防ぎます。\n"
-"部屋の敵の乗組員は1秒あたり10ダメージを与えます。\n"
-"敵の乗組員を攻撃することはできません。"
+"[クールダウン:3秒 -25HP]\n"
+"\t\t\t\t占有している部屋を24秒間ロックダウンし、クルーの侵入を防ぐ。\n"
+"\t\t\t\t部屋にいる敵クルーは毎秒10ダメージを受ける。\n"
+"\t\t\t\t効果時間中、敵クルーを攻撃できない。"
 
 #: src-en/data/hyperspace.xml.append:6721
 msgid ""
@@ -1502,9 +1502,9 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_dark_justicier\"]/powerEffect/tooltip"
 msgstr ""
-"暗い儀式を行い、特定の位置で多くの乗組員を犠牲にして、異なる効果を引き起こします。儀式の一部であることを生き延びた乗組員は弱体化し、5ジャンプで移動速度の25％を失います。\n"
-"左クリックして、犠牲のためにクルーを選択します。\n"
-"右クリックして儀式を試みるか、キャンセルします。"
+"闇の儀式を実行し、特定の位置にいるクルーを犠牲にしてさまざまな効果を発動させます。儀式を生き延びたクルーは弱体化し、5ジャンプの間、移動速度が25%低下します。\n"
+"左クリックで犠牲にするクルーを選択します。\n"
+"右クリックで儀式を試行またはキャンセルします。"
 
 #: src-en/data/hyperspace.xml.append:6753
 msgid ""
@@ -1527,33 +1527,33 @@ msgstr "儀式"
 msgid ""
 "data/hyperspace.xml.append$//statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
-"暗い儀式を行い、特定の位置で多くの乗組員を犠牲にして、異なる効果を引き起こします。儀式の一部であることを生き延びた乗組員は弱体化し、5ジャンプで移動速度の25％を失います。\n"
-"左クリックして、犠牲のためにクルーを選択します。\n"
-"右クリックして儀式を試みるか、キャンセルします。"
+"闇の儀式を実行し、特定の位置にいるクルーを犠牲にしてさまざまな効果を発動させます。儀式を生き延びたクルーは弱体化し、5ジャンプの間、移動速度が25%低下します。\n"
+"\t\t左クリックで犠牲にするクルーを選択します。\n"
+"\t\t右クリックで儀式を試行またはキャンセルします。"
 
 #: src-en/data/hyperspace.xml.append:8920
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/name"
-msgstr "\\1隔離エンディング"
+msgstr "\\1 隔離エンディング"
 
 #: src-en/data/hyperspace.xml.append:8921
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/description"
-msgstr "\\1のレイアウトに乗ってlylmik検疫を逃がします"
+msgstr "\\1のいずれかのレイアウトに乗ってライルミックの隔離から脱出する"
 
 #: src-en/data/hyperspace.xml.append:8923
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/secretName"
-msgstr "\\1 ?????エンディング"
+msgstr "\\1 ????? エンディング"
 
 #: src-en/data/hyperspace.xml.append:8924
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/secretDescription"
-msgstr "\\1のレイアウトに乗って強力なレースのクラッチを逃がす"
+msgstr "\\1のいずれかのレイアウトに乗って強力な種族の魔の手から逃れる"
 
 #: src-en/data/hyperspace.xml.append:8932
 msgid ""
@@ -1642,12 +1642,12 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:9346
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[1]/customTitle"
-msgstr "クリアランスセール[25％オフ]"
+msgstr "在庫一掃セール [25% OFF]"
 
 #: src-en/data/hyperspace.xml.append:9361
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[2]/customTitle"
-msgstr "クリアランスセール[25％オフ]"
+msgstr "在庫一掃セール [25% OFF]"
 
 #: src-en/data/hyperspace.xml.append:9376
 msgid ""
@@ -1672,7 +1672,7 @@ msgstr "呪文"
 #: src-en/data/hyperspace.xml.append:9465
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[3]/customTitle"
-msgstr "カルトウィザード"
+msgstr "カルトの魔術師"
 
 #: src-en/data/hyperspace.xml.append:9498
 msgid ""
@@ -1702,237 +1702,237 @@ msgstr "呪文"
 #: src-en/data/hyperspace.xml.append:9591
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_WEAPONS\"]/category[1]/customTitle"
-msgstr "外側の膨張"
+msgstr "アウター・エクスパンション"
 
 #: src-en/data/hyperspace.xml.append:9609
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_WEAPONS\"]/category[2]/customTitle"
-msgstr "外側の膨張"
+msgstr "アウター・エクスパンション"
 
 #: src-en/data/hyperspace.xml.append:9630
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_DRONES\"]/category[1]/customTitle"
-msgstr "外側の膨張"
+msgstr "アウター・エクスパンション"
 
 #: src-en/data/hyperspace.xml.append:9648
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_DRONES\"]/category[2]/customTitle"
-msgstr "外側の膨張"
+msgstr "アウター・エクスパンション"
 
 #: src-en/data/hyperspace.xml.append:9669
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_BOTH\"]/category[1]/customTitle"
-msgstr "外側の膨張"
+msgstr "アウター・エクスパンション"
 
 #: src-en/data/hyperspace.xml.append:9687
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_BOTH\"]/category[2]/customTitle"
-msgstr "外側の膨張"
+msgstr "アウター・エクスパンション"
 
 #: src-en/data/hyperspace.xml.append:9708
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_LYLMIK\"]/category[1]/customTitle"
-msgstr "Lylmik"
+msgstr "ライルミック"
 
 #: src-en/data/hyperspace.xml.append:9726
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_LYLMIK\"]/category[2]/customTitle"
-msgstr "Lylmik"
+msgstr "ライルミック"
 
 #: src-en/data/hyperspace.xml.append:9747
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_LOOT\"]/category[1]/customTitle"
-msgstr "Lylmik"
+msgstr "ライルミック"
 
 #: src-en/data/hyperspace.xml.append:9765
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_LOOT\"]/category[2]/customTitle"
-msgstr "Lylmik"
+msgstr "ライルミック"
 
 #: src-en/data/hyperspace.xml.append:9820
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[1]/section[1]/@text"
-msgstr "戦利品輸送（OE）"
+msgstr "ルート輸送船 (OE)"
 
 #: src-en/data/hyperspace.xml.append:9822
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/name"
-msgstr "酸性輸送"
+msgstr "アシッドトランスポート"
 
 #: src-en/data/hyperspace.xml.append:9823
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/secretDescription"
-msgstr "酸性の戦利品輸送から戦利品を取得します。"
+msgstr "アシディック・ルート輸送船から戦利品を入手する。"
 
 #: src-en/data/hyperspace.xml.append:9824
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/description"
-msgstr "酸性の戦利品輸送から酸性弾幕を取得します。"
+msgstr "アシディック・ルート輸送船からアシディック・バレッジを入手する。"
 
 #: src-en/data/hyperspace.xml.append:9826
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/header"
-msgstr "戦利品を取得"
+msgstr "戦利品獲得"
 
 #: src-en/data/hyperspace.xml.append:9829
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/name"
-msgstr "GI輸送"
+msgstr "ギ・トランスポート"
 
 #: src-en/data/hyperspace.xml.append:9830
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/secretDescription"
-msgstr "Gi Loot Transportから戦利品を取得します。"
+msgstr "ギ・ルート輸送船から戦利品を入手する。"
 
 #: src-en/data/hyperspace.xml.append:9831
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/description"
-msgstr "Gi Loot TransportからTwin Droneを取得します。"
+msgstr "ギ・ルート輸送船からツインドローンを入手する。"
 
 #: src-en/data/hyperspace.xml.append:9833
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/header"
-msgstr "戦利品を取得"
+msgstr "戦利品獲得"
 
 #: src-en/data/hyperspace.xml.append:9836
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/name"
-msgstr "ヴァンプウィードカルト輸送"
+msgstr "ヴァンプウィードカルト教信者輸送船"
 
 #: src-en/data/hyperspace.xml.append:9837
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/secretDescription"
-msgstr "Vampweed Cultist Prot輸送から戦利品を入手してください。"
+msgstr "ヴァンプウィードカルト教信者ルート輸送船から戦利品を入手する。"
 
 #: src-en/data/hyperspace.xml.append:9838
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/description"
-msgstr "VampWeed Cultist Prot Transportから呪文を吹き込みます。"
+msgstr "ヴァンプウィードカルト教信者ルート輸送船からスペルスポアを入手する。"
 
 #: src-en/data/hyperspace.xml.append:9840
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/header"
-msgstr "戦利品を取得"
+msgstr "戦利品獲得"
 
 #: src-en/data/hyperspace.xml.append:9843
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/name"
-msgstr "異端の輸送"
+msgstr "ヘレティックトランスポート"
 
 #: src-en/data/hyperspace.xml.append:9844
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/secretDescription"
-msgstr "異端の戦利品輸送から戦利品を入手してください。"
+msgstr "異端者ルート輸送船から戦利品を入手する。"
 
 #: src-en/data/hyperspace.xml.append:9845
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/description"
-msgstr "異端の戦利品輸送から粉砕レーザーIIを入手してください。"
+msgstr "異端者ルート輸送船からシャッターレーザーIIを入手する。"
 
 #: src-en/data/hyperspace.xml.append:9847
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/header"
-msgstr "戦利品を取得"
+msgstr "戦利品獲得"
 
 #: src-en/data/hyperspace.xml.append:9850
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/name"
-msgstr "シャード焦げた輸送"
+msgstr "シャードフォージドトランスポート"
 
 #: src-en/data/hyperspace.xml.append:9851
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/secretDescription"
-msgstr "シャード焦げた戦利品輸送から戦利品を取得します。"
+msgstr "シャードフォージ・ルート輸送船から戦利品を入手する。"
 
 #: src-en/data/hyperspace.xml.append:9852
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/description"
-msgstr "エリートクリスタルバーストMK IIを、シャードフォーザルートランスポートから入手してください。"
+msgstr "シャードフォージ・ルート輸送船からエリートクリスタルバーストMK IIを入手する。"
 
 #: src-en/data/hyperspace.xml.append:9854
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/header"
-msgstr "戦利品を取得"
+msgstr "戦利品獲得"
 
 #: src-en/data/hyperspace.xml.append:9857
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/name"
-msgstr "アナキスト輸送"
+msgstr "アナーキスト輸送船"
 
 #: src-en/data/hyperspace.xml.append:9858
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/secretDescription"
-msgstr "アナキストの戦利品輸送から戦利品を入手してください。"
+msgstr "アナーキスト・ルート輸送船から戦利品を入手する。"
 
 #: src-en/data/hyperspace.xml.append:9859
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/description"
-msgstr "アナキスト戦利品輸送から「催眠術」ミサイルを入手してください。"
+msgstr "アナーキスト・ルート輸送船から「ヒュプノス」ミサイルを入手する。"
 
 #: src-en/data/hyperspace.xml.append:9861
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/header"
-msgstr "戦利品を取得"
+msgstr "戦利品獲得"
 
 #: src-en/data/hyperspace.xml.append:9864
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/name"
-msgstr "Lylmikステーション"
+msgstr "ライルミックステーション"
 
 #: src-en/data/hyperspace.xml.append:9865
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretName"
-msgstr "秘密の輸送"
+msgstr "秘密の輸送船"
 
 #: src-en/data/hyperspace.xml.append:9866
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/description"
-msgstr "Lylmik Loot StationからLylmik武器を入手してください。"
+msgstr "ライルミック・ルートステーションからライルミックの武器を入手する。"
 
 #: src-en/data/hyperspace.xml.append:9867
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretDescription"
-msgstr "から略奪品を手に入れますか？戦利品輸送。"
+msgstr "???ルート輸送船から戦利品を入手する。"
 
 #: src-en/data/hyperspace.xml.append:9870
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/header"
-msgstr "戦利品を取得"
+msgstr "戦利品獲得"
 
 #: src-en/data/hyperspace.xml.append:9873
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[1]/section[2]/@text"
-msgstr "反逆巡洋艦（OE）"
+msgstr "レネゲイド巡洋艦 (OE)"
 
 #: src-en/data/hyperspace.xml.append:9875
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_ACID\"]/name"
-msgstr "あまりにも多くの銃のようなものはありません"
+msgstr "銃は多すぎることはない"
 
 #: src-en/data/hyperspace.xml.append:9876
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_ACID\"]/description"
-msgstr "酸性駆逐艦Bの反逆者を倒し、酸のスプラッシャーを手に入れます。"
+msgstr "アシディック・デストロイヤー B レネゲイドを倒し、アシッド・スプラッシャーを入手する。"
 
 #: src-en/data/hyperspace.xml.append:9878
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_ACID\"]/header"
-msgstr "レネゲイドは敗北した"
+msgstr "レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:9881
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_BIRD\"]/name"
-msgstr "良い攻撃は良い犯罪です"
+msgstr "良い攻撃は良い攻撃"
 
 #: src-en/data/hyperspace.xml.append:9882
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_BIRD\"]/description"
-msgstr "ウェッジテールBレネゲイドを倒し、惨劇ドローンを手に入れます。"
+msgstr "ウェッジテイル B レネゲイドを倒し、スカージ・ドローンを入手する。"
 
 #: src-en/data/hyperspace.xml.append:9884
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_BIRD\"]/header"
-msgstr "レネゲイドは敗北した"
+msgstr "レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:9887
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_CULT\"]/name"
@@ -1941,60 +1941,60 @@ msgstr "バリアリレー"
 #: src-en/data/hyperspace.xml.append:9888
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_CULT\"]/description"
-msgstr "芽Cの反乱を倒し、バリアジェネレーターを取得します。"
+msgstr "バド C レネゲイドを倒し、バリア発生器を入手する。"
 
 #: src-en/data/hyperspace.xml.append:9890
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_CULT\"]/header"
-msgstr "レネゲイドは敗北した"
+msgstr "レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:9893
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_NECRO\"]/name"
-msgstr "ドロネセプション"
+msgstr "ドローンセプション"
 
 #: src-en/data/hyperspace.xml.append:9894
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_NECRO\"]/description"
-msgstr "冒aspのc反逆者を倒し、ネクロマンサードローンを手に入れます。"
+msgstr "ブラスフェミー C レネゲイドを倒し、ネクロマンサー・ドローンを入手する。"
 
 #: src-en/data/hyperspace.xml.append:9896
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_NECRO\"]/header"
-msgstr "レネゲイドは敗北した"
+msgstr "レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:9899
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHARD\"]/name"
-msgstr "使い古された仕掛け"
+msgstr "使い古されたギミック"
 
 #: src-en/data/hyperspace.xml.append:9900
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHARD\"]/description"
-msgstr "シャード焦げられたオートCの再編成を倒し、「ナギナタ」ビームを取得します。"
+msgstr "シャードフォージオート C レネゲイドを倒し、「ナギナタ」ビームを入手する。"
 
 #: src-en/data/hyperspace.xml.append:9902
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHARD\"]/header"
-msgstr "レネゲイドは敗北した"
+msgstr "レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:9905
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHLEG\"]/name"
-msgstr "自分に気をつけてください"
+msgstr "お気をつけて"
 
 #: src-en/data/hyperspace.xml.append:9906
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHLEG\"]/description"
-msgstr "障害を打ち負かし、レヴィアサンビームを手に入れます。"
+msgstr "ディスオーダー B レネゲイドを倒し、リヴァイアサン・ビームを入手する。"
 
 #: src-en/data/hyperspace.xml.append:9908
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHLEG\"]/header"
-msgstr "レネゲイドは敗北した"
+msgstr "レネゲイド撃破"
 
 #: src-en/data/hyperspace.xml.append:9913
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[2]/section[1]/@text"
-msgstr "thest's Boons（OE）"
+msgstr "セストの恩恵 (OE)"
 
 #: src-en/data/hyperspace.xml.append:9915
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_ACID\"]/name"
@@ -2003,19 +2003,19 @@ msgstr "成長の恩恵"
 #: src-en/data/hyperspace.xml.append:9916
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_ACID\"]/secretDescription"
-msgstr "成長の恩恵を最大から受け取ります。"
+msgstr "セストから成長の恩恵を受ける。"
 
 #: src-en/data/hyperspace.xml.append:9917
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_ACID\"]/description"
 msgstr ""
-"エリートまたは希少な酸性の乗組員を最も見せてください。\n"
-"事実上;酸性の乗組員は2倍速く治癒し、un然とすることはできません。"
+"セストにエリートまたはレアなアシディッククルーを見せる。\n"
+"\t\t\t\t効果中: アシディッククルーの回復速度が2倍になり、スタンしなくなる。"
 
 #: src-en/data/hyperspace.xml.append:9919
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_ACID\"]/header"
-msgstr "ブーンが受け取った"
+msgstr "恩恵受領"
 
 #: src-en/data/hyperspace.xml.append:9924
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_BIRD\"]/name"
@@ -2024,62 +2024,62 @@ msgstr "羽の恩恵"
 #: src-en/data/hyperspace.xml.append:9925
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_BIRD\"]/secretDescription"
-msgstr "羽の恩恵を最大から受け取ります。"
+msgstr "セストから羽の恩恵を受ける。"
 
 #: src-en/data/hyperspace.xml.append:9926
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_BIRD\"]/description"
 msgstr ""
-"エリートまたは珍しいGIの乗組員を最も見せてください。\n"
-"事実上;GIクルーは、自動修理速度にさらに0.25倍を獲得します。"
+"セストにエリートまたはレアなギ・クルーを見せる。\n"
+"\t\t\t\t効果中: ギ・クルーの自動修理速度が0.25倍追加される。"
 
 #: src-en/data/hyperspace.xml.append:9928
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_BIRD\"]/header"
-msgstr "ブーンが受け取った"
+msgstr "恩恵受領"
 
 #: src-en/data/hyperspace.xml.append:9933
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CULT\"]/name"
-msgstr "礼拝の恩恵"
+msgstr "崇拝の恩恵"
 
 #: src-en/data/hyperspace.xml.append:9934
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CULT\"]/secretDescription"
-msgstr "礼拝の恩恵を最も受け取ります。"
+msgstr "セストから崇拝の恩恵を受ける。"
 
 #: src-en/data/hyperspace.xml.append:9935
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CULT\"]/description"
 msgstr ""
-"エリートまたは珍しいカルト主義者の乗組員を最も見せてください。\n"
-"事実上;VampWeed Cultistsは、25％の遠隔ダメージを与えます。"
+"セストにエリートまたはレアなカルト教信者クルーを見せる。\n"
+"\t\t\t\t効果中: ヴァンプウィードカルト教信者の遠距離ダメージが25%増加する。"
 
 #: src-en/data/hyperspace.xml.append:9937
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CULT\"]/header"
-msgstr "ブーンが受け取った"
+msgstr "恩恵受領"
 
 #: src-en/data/hyperspace.xml.append:9942
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_NECRO\"]/name"
-msgstr "復活の恩恵"
+msgstr "蘇生の恩恵"
 
 #: src-en/data/hyperspace.xml.append:9943
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_NECRO\"]/secretDescription"
-msgstr "復活の恩恵を最大から受け取ります。"
+msgstr "セストから蘇生の恩恵を受ける。"
 
 #: src-en/data/hyperspace.xml.append:9944
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_NECRO\"]/description"
 msgstr ""
-"エリートまたは珍しい異端の乗組員を最も見せてください。\n"
-"事実上;ジャンプごとに1ナナイトの群れを獲得します。"
+"セストにエリートまたはレアな異端者クルーを見せる。\n"
+"\t\t\t\t効果中: ジャンプごとにナナイトスウォームを1つ得る。"
 
 #: src-en/data/hyperspace.xml.append:9946
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_NECRO\"]/header"
-msgstr "ブーンが受け取った"
+msgstr "恩恵受領"
 
 #: src-en/data/hyperspace.xml.append:9951
 msgid ""
@@ -2089,19 +2089,19 @@ msgstr "粉砕の恩恵"
 #: src-en/data/hyperspace.xml.append:9952
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHARD\"]/secretDescription"
-msgstr "粉砕の恩恵を受け取ります。"
+msgstr "セストから粉砕の恩恵を受ける。"
 
 #: src-en/data/hyperspace.xml.append:9953
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHARD\"]/description"
 msgstr ""
-"エリートまたは珍しいシャードに焦げた乗組員を最も見せてください。\n"
-"事実上;Shard Forged Crewは、25％の追加妨害による損傷を行います。"
+"セストにエリートまたはレアなシャードフォージクルーを見せる。\n"
+"\t\t\t\t効果中: シャードフォージクルーの妨害ダメージが25%追加される。"
 
 #: src-en/data/hyperspace.xml.append:9955
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHARD\"]/header"
-msgstr "ブーンが受け取った"
+msgstr "恩恵受領"
 
 #: src-en/data/hyperspace.xml.append:9960
 msgid ""
@@ -2111,19 +2111,19 @@ msgstr "軟体動物の恩恵"
 #: src-en/data/hyperspace.xml.append:9961
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHLEG\"]/secretDescription"
-msgstr "軟体動物の恩恵を受け取ります。"
+msgstr "セストから軟体動物の恩恵を受ける。"
 
 #: src-en/data/hyperspace.xml.append:9962
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHLEG\"]/description"
 msgstr ""
-"アナキストの乗組員を最も見せてください。\n"
-"事実上;アナキストのシェルはマインドコントロールの免疫を獲得し、アナキストのスラッグは10％の損傷抵抗を獲得します。"
+"セストにアナーキストクルーを見せる。\n"
+"\t\t\t\t効果中: アナーキストシェルはマインドコントロール免疫を獲得し、アナーキストスラッグは10%のダメージ耐性を得る。"
 
 #: src-en/data/hyperspace.xml.append:9964
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHLEG\"]/header"
-msgstr "ブーンが受け取った"
+msgstr "恩恵受領"
 
 #: src-en/data/hyperspace.xml.append:9969
 msgid ""
@@ -2133,125 +2133,127 @@ msgstr "供物の恩恵"
 #: src-en/data/hyperspace.xml.append:9970
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_JUSTICE\"]/secretName"
-msgstr "の恩恵？"
+msgstr "???の恩恵"
 
 #: src-en/data/hyperspace.xml.append:9971
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_JUSTICE\"]/secretDescription"
-msgstr "の恩恵を受け取りますか？最大から。"
+msgstr "セストから???の恩恵を受ける。"
 
 #: src-en/data/hyperspace.xml.append:9972
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_JUSTICE\"]/description"
-msgstr "テストするために暗いジャスティシアーを表示します。事実上;儀式を実行しながら、暗いジャスティシーは5馬力/sを癒します。"
+msgstr ""
+"セストにダーク・ジャスティシアを見せる。\n"
+"\t\t\t\t効果中: ダーク・ジャスティシアは儀式実行中に5HP/秒回復する。"
 
 #: src-en/data/hyperspace.xml.append:9974
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_JUSTICE\"]/header"
-msgstr "ブーンが受け取った"
+msgstr "恩恵受領"
 
 #: src-en/data/hyperspace.xml.append:9980
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_OLD\"]/name"
-msgstr "Coadunationの恩恵"
+msgstr "連合の恩恵"
 
 #: src-en/data/hyperspace.xml.append:9981
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_OLD\"]/secretName"
-msgstr "の恩恵？"
+msgstr "???の恩恵"
 
 #: src-en/data/hyperspace.xml.append:9982
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_OLD\"]/secretDescription"
-msgstr "の恩恵を受け取りますか？最大から。"
+msgstr "セストから???の恩恵を受ける。"
 
 #: src-en/data/hyperspace.xml.append:9983
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_OLD\"]/description"
 msgstr ""
-"テストするエリートまたは珍しいValmikクルーを見せてください。事実上;Valmik "
-"Crewは、敵の乗組員ごとに10％のダメージボーナスを獲得します。"
+"セストにエリートまたはレアなライルミッククルーを見せる。\n"
+"\t\t\t\t効果中: ライルミッククルーは敵クルー1人につき10%のダメージボーナスを得る。"
 
 #: src-en/data/hyperspace.xml.append:9985
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_OLD\"]/header"
-msgstr "ブーンが受け取った"
+msgstr "恩恵受領"
 
 #: src-en/data/hyperspace.xml.append:9991
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[2]/section[2]/@text"
-msgstr "コービーの助成金（OE）"
+msgstr "コービーの助成金 (OE)"
 
 #: src-en/data/hyperspace.xml.append:9993
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/name"
-msgstr "補助シールドの付与"
+msgstr "補助シールドの助成金"
 
 #: src-en/data/hyperspace.xml.append:9994
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/secretDescription"
-msgstr "Corbyから補助シールドの付与を受け取ります。"
+msgstr "コービーから補助シールドの助成金を受け取る。"
 
 #: src-en/data/hyperspace.xml.append:9995
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/description"
 msgstr ""
-"アップグレードされた補助シールドシステムをCorbyに表示します。\n"
-"事実上;ジャンプ後に1つのエネルギーシールドレイヤーを追加します。"
+"コービーにアップグレードされた補助シールドシステムを見せる。\n"
+"\t\t\t\t効果中: ジャンプ後にエネルギーシールド層を1つ追加する。"
 
 #: src-en/data/hyperspace.xml.append:9997
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/header"
-msgstr "グラントを受け取った"
+msgstr "助成金受領"
 
 #: src-en/data/hyperspace.xml.append:10002
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/name"
-msgstr "違法に修正されたクローンベイの付与"
+msgstr "違法改造クローンベイの助成金"
 
 #: src-en/data/hyperspace.xml.append:10003
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/secretName"
-msgstr "の付与???"
+msgstr "???の助成金"
 
 #: src-en/data/hyperspace.xml.append:10004
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/secretDescription"
-msgstr "の助成金を受け取りますか？コービーから。"
+msgstr "コービーから???の助成金を受け取る。"
 
 #: src-en/data/hyperspace.xml.append:10005
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/description"
 msgstr ""
-"アップグレードされた修正クローンベイシステムをCorbyに表示します。\n"
-"事実上;ジャンプするたびに20秒の寿命が船に乗っている弱い一般的な乗組員を産みます。"
+"コービーにアップグレードされた改造クローンベイシステムを見せる。\n"
+"\t\t\t\t効果中: ジャンプごとに寿命20秒の弱い汎用クルーメンバーを船内に生成する。"
 
 #: src-en/data/hyperspace.xml.append:10007
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/header"
-msgstr "グラントを受け取った"
+msgstr "助成金受領"
 
 #: src-en/data/hyperspace.xml.append:10015
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[3]/section/@text"
-msgstr "音楽（OE）"
+msgstr "音楽 (OE)"
 
 #: src-en/data/hyperspace.xml.append:10017
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_ACID\"]/name"
-msgstr "酸性"
+msgstr "アシディック"
 
 #: src-en/data/hyperspace.xml.append:10026
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_NECRO\"]/name"
-msgstr "異端"
+msgstr "異端者"
 
 #: src-en/data/hyperspace.xml.append:10035
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_CULT\"]/name"
-msgstr "カルト主義者"
+msgstr "カルト信者"
 
 #: src-en/data/hyperspace.xml.append:10044
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_BIRD\"]/name"
-msgstr "gi"
+msgstr "ギ"
 
 #: src-en/data/hyperspace.xml.append:10053
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_SHARD\"]/name"
@@ -2267,7 +2269,7 @@ msgstr "レクイエム"
 
 #: src-en/data/hyperspace.xml.append:10080
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_OLD_1\"]/name"
-msgstr "Lylmik untkirts"
+msgstr "ライルミック郊外"
 
 #: src-en/data/hyperspace.xml.append:10081
 msgid ""
@@ -2276,7 +2278,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:10090
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_OLD_2\"]/name"
-msgstr "Lylmik Core"
+msgstr "ライルミック・コア"
 
 #: src-en/data/hyperspace.xml.append:10091
 msgid ""
@@ -2285,7 +2287,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:10100
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_OLD_3\"]/name"
-msgstr "Lylmik Finale"
+msgstr "ライルミック・フィナーレ"
 
 #: src-en/data/hyperspace.xml.append:10101
 msgid ""

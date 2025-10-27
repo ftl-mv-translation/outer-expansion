@@ -9,8 +9,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/text"
 msgstr ""
-"Lylmikのコア、LylmikとRichまたはPoffiled "
-"Captainの両方でいっぱいの人口の多いゾーンに到着しました。ここにいるので、評議会に連絡する必要があり、評議会に連絡するには、スポンサーが必要です。"
+"リルミックのコアに到着した。ここはリルミックと裕福または強力なキャプテンで満たされた人口密集地帯だ。ここにいるからには評議会に連絡を取る必要があり、そのためにはスポンサーが必要だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:25
 msgid ""
@@ -21,72 +20,72 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/text"
 msgstr ""
-"地元の公開データベースを参照してください。5人の異なる評議員がいます。彼らは1対1の会議を予約するためのシステムさえ持っていますが、いつでも1つのスポンサーと会議を予約することは可能です。"
+"地元の公開データベースを参照すると、5人の異なる評議会メンバーがいる。彼らとの1対1の会議を予約するシステムさえあるが、一度に予約できるのは1人のスポンサーだけだ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:29
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_1\""
 " and not(@lvl)]/text"
-msgstr "Atoning Unifexでスポンサーシップを求めます。"
+msgstr "アトーニング・ユニフェックスに後援を求める。"
 
 #: src-en/data/events_sector_aea_old_2.xml:33
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_1\""
 " and @lvl=\"0\"]/text"
-msgstr "Atoning unifex [利用不能]でスポンサーシップを求めます。"
+msgstr "アトーニング・ユニフェックスに後援を求める [利用不可]。"
 
 #: src-en/data/events_sector_aea_old_2.xml:37
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_2\""
 " and not(@lvl)]/text"
-msgstr "漸近的な本質でスポンサーを求めてください。"
+msgstr "アシンプトティック・エッセンスに後援を求める。"
 
 #: src-en/data/events_sector_aea_old_2.xml:41
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_2\""
 " and @lvl=\"0\"]/text"
-msgstr "漸近的なエッセンスでスポンサーシップを求めます[利用できません]。"
+msgstr "アシンプトティック・エッセンスに後援を求める [利用不可]。"
 
 #: src-en/data/events_sector_aea_old_2.xml:45
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_3\""
 " and not(@lvl)]/text"
-msgstr "ユーパシーの衝動を備えたスポンサーシップを求めてください。"
+msgstr "ユーパシック・インパルスに後援を求める。"
 
 #: src-en/data/events_sector_aea_old_2.xml:49
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_3\""
 " and @lvl=\"0\"]/text"
-msgstr "Eupathic Impulse [利用できない]でスポンサーシップを求めてください。"
+msgstr "ユーパシック・インパルスに後援を求める [利用不可]。"
 
 #: src-en/data/events_sector_aea_old_2.xml:53
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_4\""
 " and not(@lvl)]/text"
-msgstr "相同でスポンサーを求めてください。"
+msgstr "ホモロガス・トレンドに後援を求める。"
 
 #: src-en/data/events_sector_aea_old_2.xml:57
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_4\""
 " and @lvl=\"0\"]/text"
-msgstr "相同動向でスポンサーシップを求めます[利用できません]。"
+msgstr "ホモロガス・トレンドに後援を求める [利用不可]。"
 
 #: src-en/data/events_sector_aea_old_2.xml:61
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_5\""
 " and not(@lvl)]/text"
-msgstr "Noetic Concordanceでスポンサーシップを求めます。"
+msgstr "ノエティック・コンコーダンスに後援を求める。"
 
 #: src-en/data/events_sector_aea_old_2.xml:65
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_5\""
 " and @lvl=\"0\"]/text"
-msgstr "Noetic Concordanceでスポンサーシップを求めます[利用できません]。"
+msgstr "ノエティック・コンコーダンスに後援を求める [利用不可]。"
 
 #: src-en/data/events_sector_aea_old_2.xml:73
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/text"
-msgstr "あなたはアトーニング・ウンエイフォックスとの会議を予約します。評議会の前に行く前に、彼らと交渉する必要があります。"
+msgstr "アトーニング・ユニフェックスとの会議を予約した。評議会の前に出るには、彼らと交渉する必要がある。"
 
 #: src-en/data/events_sector_aea_old_2.xml:77
 msgid ""
@@ -97,10 +96,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
 "\n"
-"[ダウンロード：25％]\n"
-"。"
+"[ダウンロード中：25%]\n"
+"\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:85
 msgid ""
@@ -111,10 +110,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/choice/event/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
-"\n"
-"[ダウンロード：50％]\n"
-"。"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
+"\t\t\n"
+"[ダウンロード中：50%]\n"
+"\t\t\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:93
 msgid ""
@@ -125,10 +124,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
-"\n"
-"[ダウンロード：75％]\n"
-"。"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
+"\t\t\t\t\n"
+"[ダウンロード中：75%]\n"
+"\t\t\t\t\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:101
 msgid ""
@@ -139,10 +138,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
-"\n"
-"[ダウンロード：100％]\n"
-"。"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
+"\t\t\t\t\t\t\n"
+"[ダウンロード中：100%]\n"
+"\t\t\t\t\t\t\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:108
 msgid ""
@@ -152,7 +151,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:122
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/text"
-msgstr "あなたは漸近的な本質で会議を予約します、あなたは評議会の前に行くことができる前に彼らと交渉する必要があります。"
+msgstr "アシンプトティック・エッセンスとの会議を予約した。評議会の前に出るには、彼らと交渉する必要がある。"
 
 #: src-en/data/events_sector_aea_old_2.xml:126
 msgid ""
@@ -163,10 +162,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
 "\n"
-"[ダウンロード：25％]\n"
-"。"
+"[ダウンロード中：25%]\n"
+"\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:134
 msgid ""
@@ -177,10 +176,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/choice/event/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
-"\n"
-"[ダウンロード：50％]\n"
-"。"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
+"\t\t\n"
+"[ダウンロード中：50%]\n"
+"\t\t\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:142
 msgid ""
@@ -191,10 +190,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
-"\n"
-"[ダウンロード：75％]\n"
-"。"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
+"\t\t\t\t\n"
+"[ダウンロード中：75%]\n"
+"\t\t\t\t\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:150
 msgid ""
@@ -205,10 +204,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
-"\n"
-"[ダウンロード：100％]\n"
-"。"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
+"\t\t\t\t\t\t\n"
+"[ダウンロード中：100%]\n"
+"\t\t\t\t\t\t\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:157
 msgid ""
@@ -218,7 +217,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:171
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/text"
-msgstr "あなたはユーパシーの衝動との会議を予約します。評議会の前に行く前に、彼らと交渉する必要があります。"
+msgstr "ユーパシック・インパルスとの会議を予約した。評議会の前に出るには、彼らと交渉する必要がある。"
 
 #: src-en/data/events_sector_aea_old_2.xml:175
 msgid ""
@@ -229,10 +228,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
 "\n"
-"[ダウンロード：25％]\n"
-"。"
+"[ダウンロード中：25%]\n"
+"\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:183
 msgid ""
@@ -243,10 +242,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/choice/event/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
-"\n"
-"[ダウンロード：50％]\n"
-"。"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
+"\t\t\n"
+"[ダウンロード中：50%]\n"
+"\t\t\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:191
 msgid ""
@@ -257,10 +256,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
-"\n"
-"[ダウンロード：75％]\n"
-"。"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
+"\t\t\t\t\n"
+"[ダウンロード中：75%]\n"
+"\t\t\t\t\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:199
 msgid ""
@@ -271,10 +270,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
-"\n"
-"[ダウンロード：100％]\n"
-"。"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
+"\t\t\t\t\t\t\n"
+"[ダウンロード中：100%]\n"
+"\t\t\t\t\t\t\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:206
 msgid ""
@@ -284,7 +283,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:220
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/text"
-msgstr "ご相場のトレンドとの会議を予約してください。評議会の前に行く前に交渉する必要があります。"
+msgstr "ホモロガス・トレンドとの会議を予約した。評議会の前に出るには、彼らと交渉する必要がある。"
 
 #: src-en/data/events_sector_aea_old_2.xml:224
 msgid ""
@@ -295,10 +294,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
 "\n"
-"[ダウンロード：25％]\n"
-"。"
+"[ダウンロード中：25%]\n"
+"\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:232
 msgid ""
@@ -309,10 +308,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/choice/event/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
-"\n"
-"[ダウンロード：50％]\n"
-"。"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
+"\t\t\n"
+"[ダウンロード中：50%]\n"
+"\t\t\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:240
 msgid ""
@@ -323,10 +322,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
-"\n"
-"[ダウンロード：75％]\n"
-"。"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
+"\t\t\t\t\n"
+"[ダウンロード中：75%]\n"
+"\t\t\t\t\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:248
 msgid ""
@@ -337,10 +336,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
-"\n"
-"[ダウンロード：100％]\n"
-"。"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
+"\t\t\t\t\t\t\n"
+"[ダウンロード中：100%]\n"
+"\t\t\t\t\t\t\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:255
 msgid ""
@@ -350,7 +349,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:269
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/text"
-msgstr "Noetic Concordanceでミーティングを予約してください。評議会の前に行く前に、交渉する必要があります。"
+msgstr "ノエティック・コンコーダンスとの会議を予約した。評議会の前に出るには、彼らと交渉する必要がある。"
 
 #: src-en/data/events_sector_aea_old_2.xml:273
 msgid ""
@@ -361,10 +360,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
 "\n"
-"[ダウンロード：25％]\n"
-"。"
+"[ダウンロード中：25%]\n"
+"\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:281
 msgid ""
@@ -375,10 +374,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/choice/event/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
-"\n"
-"[ダウンロード：50％]\n"
-"。"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
+"\t\t\n"
+"[ダウンロード中：50%]\n"
+"\t\t\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:289
 msgid ""
@@ -389,10 +388,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
-"\n"
-"[ダウンロード：75％]\n"
-"。"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
+"\t\t\t\t\n"
+"[ダウンロード中：75%]\n"
+"\t\t\t\t\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:297
 msgid ""
@@ -403,10 +402,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"また、他の評議員の場所をダウンロードしてください、それは役に立つかもしれません。\n"
-"\n"
-"[ダウンロード：100％]\n"
-"。"
+"他の評議会メンバーの場所もダウンロードしておく。役に立つかもしれない。\n"
+"\t\t\t\t\t\t\n"
+"[ダウンロード中：100%]\n"
+"\t\t\t\t\t\t\t\t\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:304
 msgid ""
@@ -417,7 +416,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_CONTINUE\"]/text"
 msgstr ""
-"ダウンロードが終了すると、新しい船が到着します。「ねえ、あなたはここで何をしているのか、この場所はあなたのようなものには立ち入り禁止です！」ここではあまり歓迎されていないようです。"
+"ダウンロードが完了すると同時に新しい船が到着した。「おい、ここで何をしている？ここは貴様のような奴の立ち入り禁止区域だ！」どうやらここではあまり歓迎されていないようだ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:321
 msgid ""
@@ -427,37 +426,32 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:333
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"GUARD_AEA_OLD_2_DESTROY\"]/text"
-msgstr ""
-"Lylmik "
-"Guardを倒しました。彼らの貨物にあったかもしれないものは何でも確実に破壊されましたが、少なくとも船からいくつかの物資を救うことができます。"
+msgstr "リルミックの警備を倒した。彼らの貨物にあったものは確実に破壊されたが、少なくとも船からいくらかの物資を回収することができる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:337
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"GUARD_AEA_OLD_2_DEADCREW\"]/text"
-msgstr ""
-"Lylmik "
-"Guardを倒しました。乗組員があなたを止めるために乗組員がいなければ、彼らの貨物を調査することができます。船に戻す武器を見つけ、船体を廃棄するために移動します。"
+msgstr "リルミックの警備を倒した。船にクルーがいないので、彼らの貨物を調査することができる。船に持ち帰るための兵器を見つけ、船体の解体に移る。"
 
 #: src-en/data/events_sector_aea_old_2.xml:348
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_DESTROY\"]/text"
-msgstr "あなたはエリート船を倒しましたが、施設は完全に封鎖されました。あなたが今入ることができる方法はありません。"
+msgstr "エリートの船を倒したが、施設は完全なロックダウン状態になった。今となっては中に入る方法はない。"
 
 #: src-en/data/events_sector_aea_old_2.xml:358
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr "これは評議員の場所です。"
+msgstr "ここは評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:359
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_FIGHT\"]/beaconType/visitedTooltip"
-msgstr "これは評議員の場所です。"
+msgstr "ここは評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:362
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_FIGHT\"]/text"
-msgstr ""
-"あなたは評議会のメンバーの一人の場所に到着しました。エリートのリルミック船がその場所を守っています。近いアラームが発生し、エリートが攻撃のために移動します。"
+msgstr "評議会メンバーの一人の場所に到着した。エリートのリルミック船がその場所を警備している。近づくと警報が鳴り始め、エリートが攻撃に移る。"
 
 #: src-en/data/events_sector_aea_old_2.xml:365
 msgid ""
@@ -467,18 +461,17 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:375
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr "これは評議員の場所です。"
+msgstr "ここは評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:376
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_FIGHT\"]/beaconType/visitedTooltip"
-msgstr "これは評議員の場所です。"
+msgstr "ここは評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:379
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_FIGHT\"]/text"
-msgstr ""
-"あなたは評議会のメンバーの一人の場所に到着しました。エリートのリルミック船がその場所を守っています。近いアラームが発生し、エリートが攻撃のために移動します。"
+msgstr "評議会メンバーの一人の場所に到着した。エリートのリルミック船がその場所を警備している。近づくと警報が鳴り始め、エリートが攻撃に移る。"
 
 #: src-en/data/events_sector_aea_old_2.xml:382
 msgid ""
@@ -488,18 +481,17 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:392
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr "これは評議員の場所です。"
+msgstr "ここは評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:393
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_FIGHT\"]/beaconType/visitedTooltip"
-msgstr "これは評議員の場所です。"
+msgstr "ここは評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:396
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_FIGHT\"]/text"
-msgstr ""
-"あなたは評議会のメンバーの一人の場所に到着しました。エリートのリルミック船がその場所を守っています。近いアラームが発生し、エリートが攻撃のために移動します。"
+msgstr "評議会メンバーの一人の場所に到着した。エリートのリルミック船がその場所を警備している。近づくと警報が鳴り始め、エリートが攻撃に移る。"
 
 #: src-en/data/events_sector_aea_old_2.xml:399
 msgid ""
@@ -509,18 +501,17 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:409
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr "これは評議員の場所です。"
+msgstr "ここは評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:410
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_FIGHT\"]/beaconType/visitedTooltip"
-msgstr "これは評議員の場所です。"
+msgstr "ここは評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:413
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_FIGHT\"]/text"
-msgstr ""
-"あなたは評議会のメンバーの一人の場所に到着しました。エリートのリルミック船がその場所を守っています。近いアラームが発生し、エリートが攻撃のために移動します。"
+msgstr "評議会メンバーの一人の場所に到着した。エリートのリルミック船がその場所を警備している。近づくと警報が鳴り始め、エリートが攻撃に移る。"
 
 #: src-en/data/events_sector_aea_old_2.xml:416
 msgid ""
@@ -530,18 +521,17 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:426
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr "これは評議員の場所です。"
+msgstr "ここは評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:427
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_FIGHT\"]/beaconType/visitedTooltip"
-msgstr "これは評議員の場所です。"
+msgstr "ここは評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:430
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_FIGHT\"]/text"
-msgstr ""
-"あなたは評議会のメンバーの一人の場所に到着しました。エリートのリルミック船がその場所を守っています。近いアラームが発生し、エリートが攻撃のために移動します。"
+msgstr "評議会メンバーの一人の場所に到着した。エリートのリルミック船がその場所を警備している。近づくと警報が鳴り始め、エリートが攻撃に移る。"
 
 #: src-en/data/events_sector_aea_old_2.xml:433
 msgid ""
@@ -551,17 +541,17 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:443
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/beaconType/unvisitedTooltip"
-msgstr "これは、あなたがスポンサーシップから求めている評議員の場所です。"
+msgstr "ここはあなたが後援を求めている評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:444
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/beaconType/visitedTooltip"
-msgstr "これは、あなたがスポンサーシップから求めている評議員の場所です。"
+msgstr "ここはあなたが後援を求めている評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:448
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/text"
 msgstr ""
-"あなたは評議会のメンバーの一人の場所に到着しました。エリートのリルミック船がその場所を守っています。あなたの会議のために、あなたは上陸してUnifexに挨拶することができます。"
+"評議会メンバーの一人の場所に到着した。エリートのリルミック船がその場所を警備している。会議があるため、着陸してアトーニング・ユニフェックスに挨拶することができる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:450
 msgid ""
@@ -572,7 +562,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/choice/event/text"
 msgstr ""
-"「キャプテン、私はあなたがここにいる理由をすでに知っていると信じています。私たちはあなたのような他の人が彼らの道のすべてを破壊したことを通して来ました。必然的に彼らは去りたいと思っています。"
+"「キャプテン、あなたがなぜここにいるのかはもう分かっていると思う。あなたのような者が、通り道にあるものすべてを破壊しながらやってきたことがある。必然的に彼らは去りたがり、我々はそれを許すが、まず彼ら、いやあなたには、我々のために何かをしてもらう必要がある。」"
 
 #: src-en/data/events_sector_aea_old_2.xml:454
 msgid ""
@@ -583,32 +573,32 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/choice/event/choice/event/text"
 msgstr ""
-"「あなたのための私の仕事は比較的単純です。あなたが私たちのセクターでramp延しているような別のものがあります。あなたがそれらを取り出した場合、あなたが去ることができます、彼らがあなたを連れ出した場合、彼らは去ります。私はあなたと一緒にイベントを見に来ます。」"
+"「あなたへの仕事は比較的簡単だ。我々のセクターで暴れ回っている、あなたのような者がもう一人いる。もしあなたが彼らを倒せば、あなたは去ることができる。もし彼らがあなたを倒せば、彼らが去ることができる。私はそのイベントを直接見るためにあなたに同行しよう。」"
 
 #: src-en/data/events_sector_aea_old_2.xml:457
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/choice/event/choice/event/crewMember"
-msgstr "aToning unifex"
+msgstr "アトーニング・ユニフェックス"
 
 #: src-en/data/events_sector_aea_old_2.xml:459
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/choice/event/choice/event/choice/text"
-msgstr "場所に向かいます。"
+msgstr "その場所へ向かう。"
 
 #: src-en/data/events_sector_aea_old_2.xml:473
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/beaconType/unvisitedTooltip"
-msgstr "これは、あなたがスポンサーシップから求めている評議員の場所です。"
+msgstr "ここはあなたが後援を求めている評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:474
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/beaconType/visitedTooltip"
-msgstr "これは、あなたがスポンサーシップから求めている評議員の場所です。"
+msgstr "ここはあなたが後援を求めている評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:478
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/text"
 msgstr ""
-"あなたは評議会のメンバーの一人の場所に到着しました。エリートのリルミック船がその場所を守っています。あなたの会議のために、あなたは漸近的な本質を着陸させ、挨拶することができます。"
+"評議会メンバーの一人の場所に到着した。エリートのリルミック船がその場所を警備している。会議があるため、着陸してアシンプトティック・エッセンスに挨拶することができる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:480
 msgid ""
@@ -619,7 +609,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/choice/event/text"
 msgstr ""
-"「キャプテン、私はあなたがここにいる理由をすでに知っていると信じています。私たちはあなたのような他の人が彼らの道のすべてを破壊したことを通して来ました。必然的に彼らは去りたいと思っています。"
+"「キャプテン、あなたがなぜここにいるのかはもう分かっていると思う。あなたのような者が、通り道にあるものすべてを破壊しながらやってきたことがある。必然的に彼らは去りたがり、我々はそれを許すが、まず彼ら、いやあなたには、我々のために何かをしてもらう必要がある。」"
 
 #: src-en/data/events_sector_aea_old_2.xml:484
 msgid ""
@@ -630,32 +620,32 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/choice/event/choice/event/text"
 msgstr ""
-"「あなたのための私の仕事は比較的単純です。あなたが私たちのセクターでramp延しているような別のものがあります。あなたがそれらを取り出した場合、あなたが去ることができます、彼らがあなたを連れ出した場合、彼らは去ります。私はあなたと一緒にイベントを見に来ます。」"
+"「あなたへの仕事は比較的簡単だ。我々のセクターで暴れ回っている、あなたのような者がもう一人いる。もしあなたが彼らを倒せば、あなたは去ることができる。もし彼らがあなたを倒せば、彼らが去ることができる。私はそのイベントを直接見るためにあなたに同行しよう。」"
 
 #: src-en/data/events_sector_aea_old_2.xml:487
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/choice/event/choice/event/crewMember"
-msgstr "漸近のエッセンス"
+msgstr "アシンプトティック・エッセンス"
 
 #: src-en/data/events_sector_aea_old_2.xml:489
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/choice/event/choice/event/choice/text"
-msgstr "場所に向かいます。"
+msgstr "その場所へ向かう。"
 
 #: src-en/data/events_sector_aea_old_2.xml:503
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/beaconType/unvisitedTooltip"
-msgstr "これは、あなたがスポンサーシップから求めている評議員の場所です。"
+msgstr "ここはあなたが後援を求めている評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:504
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/beaconType/visitedTooltip"
-msgstr "これは、あなたがスポンサーシップから求めている評議員の場所です。"
+msgstr "ここはあなたが後援を求めている評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:508
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/text"
 msgstr ""
-"あなたは評議会のメンバーの一人の場所に到着しました。エリートのリルミック船がその場所を守っています。あなたの会議のために、あなたは上陸し、陶酔的な衝動に挨拶することができます。"
+"評議会メンバーの一人の場所に到着した。エリートのリルミック船がその場所を警備している。会議があるため、着陸してユーパシック・インパルスに挨拶することができる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:510
 msgid ""
@@ -666,7 +656,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/choice/event/text"
 msgstr ""
-"「キャプテン、私はあなたがここにいる理由をすでに知っていると信じています。私たちはあなたのような他の人が彼らの道のすべてを破壊したことを通して来ました。必然的に彼らは去りたいと思っています。"
+"「キャプテン、あなたがなぜここにいるのかはもう分かっていると思う。あなたのような者が、通り道にあるものすべてを破壊しながらやってきたことがある。必然的に彼らは去りたがり、我々はそれを許すが、まず彼ら、いやあなたには、我々のために何かをしてもらう必要がある。」"
 
 #: src-en/data/events_sector_aea_old_2.xml:514
 msgid ""
@@ -677,32 +667,32 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/choice/event/choice/event/text"
 msgstr ""
-"「あなたのための私の仕事は比較的単純です。あなたが私たちのセクターでramp延しているような別のものがあります。あなたがそれらを取り出した場合、あなたが去ることができます、彼らがあなたを連れ出した場合、彼らは去ります。私はあなたと一緒にイベントを見に来ます。」"
+"「あなたへの仕事は比較的簡単だ。我々のセクターで暴れ回っている、あなたのような者がもう一人いる。もしあなたが彼らを倒せば、あなたは去ることができる。もし彼らがあなたを倒せば、彼らが去ることができる。私はそのイベントを直接見るためにあなたに同行しよう。」"
 
 #: src-en/data/events_sector_aea_old_2.xml:517
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/choice/event/choice/event/crewMember"
-msgstr "ユーパシーの衝動"
+msgstr "ユーパシック・インパルス"
 
 #: src-en/data/events_sector_aea_old_2.xml:519
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/choice/event/choice/event/choice/text"
-msgstr "場所に向かいます。"
+msgstr "その場所へ向かう。"
 
 #: src-en/data/events_sector_aea_old_2.xml:533
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/beaconType/unvisitedTooltip"
-msgstr "これは、あなたがスポンサーシップから求めている評議員の場所です。"
+msgstr "ここはあなたが後援を求めている評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:534
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/beaconType/visitedTooltip"
-msgstr "これは、あなたがスポンサーシップから求めている評議員の場所です。"
+msgstr "ここはあなたが後援を求めている評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:538
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/text"
 msgstr ""
-"あなたは評議会のメンバーの一人の場所に到着しました。エリートのリルミック船がその場所を守っています。あなたの会議のために、あなたは上陸し、相同で挨拶することができます。"
+"評議会メンバーの一人の場所に到着した。エリートのリルミック船がその場所を警備している。会議があるため、着陸してホモロガス・トレンドに挨拶することができる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:540
 msgid ""
@@ -713,7 +703,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/choice/event/text"
 msgstr ""
-"「キャプテン、私はあなたがここにいる理由をすでに知っていると信じています。私たちはあなたのような他の人が彼らの道のすべてを破壊したことを通して来ました。必然的に彼らは去りたいと思っています。"
+"「キャプテン、あなたがなぜここにいるのかはもう分かっていると思う。あなたのような者が、通り道にあるものすべてを破壊しながらやってきたことがある。必然的に彼らは去りたがり、我々はそれを許すが、まず彼ら、いやあなたには、我々のために何かをしてもらう必要がある。」"
 
 #: src-en/data/events_sector_aea_old_2.xml:544
 msgid ""
@@ -724,32 +714,32 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/choice/event/choice/event/text"
 msgstr ""
-"「あなたのための私の仕事は比較的単純です。あなたが私たちのセクターでramp延しているような別のものがあります。あなたがそれらを取り出した場合、あなたが去ることができます、彼らがあなたを連れ出した場合、彼らは去ります。私はあなたと一緒にイベントを見に来ます。」"
+"「あなたへの仕事は比較的簡単だ。我々のセクターで暴れ回っている、あなたのような者がもう一人いる。もしあなたが彼らを倒せば、あなたは去ることができる。もし彼らがあなたを倒せば、彼らが去ることができる。私はそのイベントを直接見るためにあなたに同行しよう。」"
 
 #: src-en/data/events_sector_aea_old_2.xml:547
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/choice/event/choice/event/crewMember"
-msgstr "相同動向"
+msgstr "ホモロガス・トレンド"
 
 #: src-en/data/events_sector_aea_old_2.xml:549
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/choice/event/choice/event/choice/text"
-msgstr "場所に向かいます。"
+msgstr "その場所へ向かう。"
 
 #: src-en/data/events_sector_aea_old_2.xml:563
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/beaconType/unvisitedTooltip"
-msgstr "これは、あなたがスポンサーシップから求めている評議員の場所です。"
+msgstr "ここはあなたが後援を求めている評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:564
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/beaconType/visitedTooltip"
-msgstr "これは、あなたがスポンサーシップから求めている評議員の場所です。"
+msgstr "ここはあなたが後援を求めている評議会メンバーの場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:568
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/text"
 msgstr ""
-"あなたは評議会のメンバーの一人の場所に到着しました。エリートのリルミック船がその場所を守っています。あなたの会議のために、あなたは着陸し、騒音の一致に挨拶することができます。"
+"評議会メンバーの一人の場所に到着した。エリートのリルミック船がその場所を警備している。会議があるため、着陸してノエティック・コンコーダンスに挨拶することができる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:570
 msgid ""
@@ -760,7 +750,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/choice/event/text"
 msgstr ""
-"「キャプテン、私はあなたがここにいる理由をすでに知っていると信じています。私たちはあなたのような他の人が彼らの道のすべてを破壊したことを通して来ました。必然的に彼らは去りたいと思っています。"
+"「キャプテン、あなたがなぜここにいるのかはもう分かっていると思う。あなたのような者が、通り道にあるものすべてを破壊しながらやってきたことがある。必然的に彼らは去りたがり、我々はそれを許すが、まず彼ら、いやあなたには、我々のために何かをしてもらう必要がある。」"
 
 #: src-en/data/events_sector_aea_old_2.xml:574
 msgid ""
@@ -771,27 +761,27 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/choice/event/choice/event/text"
 msgstr ""
-"「あなたのための私の仕事は比較的単純です。あなたが私たちのセクターでramp延しているような別のものがあります。あなたがそれらを取り出した場合、あなたが去ることができます、彼らがあなたを連れ出した場合、彼らは去ります。私はあなたと一緒にイベントを見に来ます。」"
+"「あなたへの仕事は比較的簡単だ。我々のセクターで暴れ回っている、あなたのような者がもう一人いる。もしあなたが彼らを倒せば、あなたは去ることができる。もし彼らがあなたを倒せば、彼らが去ることができる。私はそのイベントを直接見るためにあなたに同行しよう。」"
 
 #: src-en/data/events_sector_aea_old_2.xml:577
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/choice/event/choice/event/crewMember"
-msgstr "ノティックな一致"
+msgstr "ノエティック・コンコーダンス"
 
 #: src-en/data/events_sector_aea_old_2.xml:579
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/choice/event/choice/event/choice/text"
-msgstr "場所に向かいます。"
+msgstr "その場所へ向かう。"
 
 #: src-en/data/events_sector_aea_old_2.xml:593
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr "Unifexのターゲットの位置があなたに与えました。"
+msgstr "アトーニング・ユニフェックスが与えた標的の場所。"
 
 #: src-en/data/events_sector_aea_old_2.xml:598
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_QUEST\"]/text"
-msgstr "スポンサーのターゲットは、ビーコンの近くに浮かびます。あなたが近づくと、彼らの武器とドローンがオンラインで来てあなたを引き付けます。"
+msgstr "スポンサーの標的がビーコンの近くに浮かんでいる。近づくと、彼らの兵器とドローンがオンラインになり、あなたと交戦する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:601
 msgid ""
@@ -801,7 +791,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:612
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_BOUNTY_DESTROY\"]/text"
-msgstr "あなたはエリート船を倒し、ツアースポンサーは満足しているように見え、評議会のためにあなたを後援することに同意しました。"
+msgstr "エリートの船を倒した。あなたのスポンサーは満足したようで、評議会での後援に同意した。"
 
 #: src-en/data/events_sector_aea_old_2.xml:618
 msgid ""
@@ -811,7 +801,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:620
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_BOUNTY_DESTROY\"]/choice/event/text"
-msgstr "残骸には2番目のドローンがあります。"
+msgstr "残骸の中から2つ目のドローンを発見した。"
 
 #: src-en/data/events_sector_aea_old_2.xml:623
 msgid ""
@@ -821,12 +811,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:635
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr "ターゲットの漸近の本質の位置があなたに与えました。"
+msgstr "アシンプトティック・エッセンスが与えた標的の場所。"
 
 #: src-en/data/events_sector_aea_old_2.xml:640
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_QUEST\"]/text"
-msgstr "スポンサーのターゲットは、ビーコンの近くに浮かびます。あなたが近づくと、彼らの武器とドローンがオンラインで来てあなたを引き付けます。"
+msgstr "スポンサーの標的がビーコンの近くに浮かんでいる。近づくと、彼らの兵器とドローンがオンラインになり、あなたと交戦する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:642
 msgid ""
@@ -836,7 +826,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:653
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_BOUNTY_DESTROY\"]/text"
-msgstr "あなたはエリート船を倒し、ツアースポンサーは満足しているように見え、評議会のためにあなたを後援することに同意しました。"
+msgstr "エリートの船を倒した。あなたのスポンサーは満足したようで、評議会での後援に同意した。"
 
 #: src-en/data/events_sector_aea_old_2.xml:659
 msgid ""
@@ -846,12 +836,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:669
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr "ターゲットのユーパシーインパルスの位置があなたに与えました。"
+msgstr "ユーパシック・インパルスが与えた標的の場所。"
 
 #: src-en/data/events_sector_aea_old_2.xml:674
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_QUEST\"]/text"
-msgstr "スポンサーのターゲットは、ビーコンの近くに浮かびます。あなたが近づくと、彼らの武器とドローンがオンラインで来てあなたを引き付けます。"
+msgstr "スポンサーの標的がビーコンの近くに浮かんでいる。近づくと、彼らの兵器とドローンがオンラインになり、あなたと交戦する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:676
 msgid ""
@@ -861,7 +851,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:687
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_BOUNTY_DESTROY\"]/text"
-msgstr "あなたはエリート船を倒し、ツアースポンサーは満足しているように見え、評議会のためにあなたを後援することに同意しました。"
+msgstr "エリートの船を倒した。あなたのスポンサーは満足したようで、評議会での後援に同意した。"
 
 #: src-en/data/events_sector_aea_old_2.xml:693
 msgid ""
@@ -871,12 +861,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:703
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr "ターゲットの相同傾向の位置があなたに与えました。"
+msgstr "ホモロガス・トレンドが与えた標的の場所。"
 
 #: src-en/data/events_sector_aea_old_2.xml:707
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_QUEST\"]/text"
-msgstr "スポンサーのターゲットは、ビーコンの近くに浮かびます。あなたが近づくと、彼らの武器とドローンがオンラインで来てあなたを引き付けます。"
+msgstr "スポンサーの標的がビーコンの近くに浮かんでいる。近づくと、彼らの兵器とドローンがオンラインになり、あなたと交戦する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:709
 msgid ""
@@ -886,7 +876,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:720
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_BOUNTY_DESTROY\"]/text"
-msgstr "あなたはエリート船を倒し、ツアースポンサーは満足しているように見え、評議会のためにあなたを後援することに同意しました。"
+msgstr "エリートの船を倒した。あなたのスポンサーは満足したようで、評議会での後援に同意した。"
 
 #: src-en/data/events_sector_aea_old_2.xml:726
 msgid ""
@@ -896,12 +886,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:736
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr "ターゲットノイックな一致の位置があなたに与えました。"
+msgstr "ノエティック・コンコーダンスが与えた標的の場所。"
 
 #: src-en/data/events_sector_aea_old_2.xml:741
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_QUEST\"]/text"
-msgstr "スポンサーのターゲットは、ビーコンの近くに浮かびます。あなたが近づくと、彼らの武器とドローンがオンラインで来てあなたを引き付けます。"
+msgstr "スポンサーの標的がビーコンの近くに浮かんでいる。近づくと、彼らの兵器とドローンがオンラインになり、あなたと交戦する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:743
 msgid ""
@@ -911,7 +901,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:754
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_BOUNTY_DESTROY\"]/text"
-msgstr "あなたはエリート船を倒し、ツアースポンサーは満足しているように見え、評議会のためにあなたを後援することに同意しました。"
+msgstr "エリートの船を倒した。あなたのスポンサーは満足したようで、評議会での後援に同意した。"
 
 #: src-en/data/events_sector_aea_old_2.xml:760
 msgid ""
@@ -921,28 +911,28 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:778
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/beaconType/unvisitedTooltip"
-msgstr "これは、評議会の管理棟の場所です。"
+msgstr "ここは評議会管理棟の場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:779
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/beaconType/visitedTooltip"
-msgstr "これは、評議会の管理棟の場所です。"
+msgstr "ここは評議会管理棟の場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:783
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/text"
-msgstr "評議会の管理棟の場所に到着しました。これは、評議会が定期的に会って、彼らが検疫されているセクターについて議論し、維持する場所です。"
+msgstr "評議会管理棟の場所に到着した。ここは評議会が定期的に集まり、隔離されているセクターについて議論し、維持する場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:785
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[@req=\"aea_old_completed_sponsor\""
 " and @lvl=\"1\"]/text"
-msgstr "スポンサー評議会のメンバーと一緒に入力してください。"
+msgstr "後援してくれる評議会メンバーと共に入る。"
 
 #: src-en/data/events_sector_aea_old_2.xml:787
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[@req=\"aea_old_completed_sponsor\""
 " and @lvl=\"1\"]/event/text"
-msgstr "あなたは広大な建物に入り、多くのターンと廊下の後、あなたはついに他の評議会のメンバーと顔を合わせて到着します。"
+msgstr "広大な建物に入り、多くの曲がり角や廊下を抜けて、ついに他の評議会メンバーと顔を合わせる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:789
 msgid ""
@@ -955,7 +945,7 @@ msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[@req=\"aea_old_completed_sponsor\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
-"しばらく時間がかかりますが、あなたの存在は評議会によってほとんど必要とされません。ここでのあなたの存在のどれだけが実際に記録されているかを見て、あなたは特に驚いています。彼らはあなたが彼らのスペースで戦ったほぼすべての戦いの証拠を持っています。"
+"しばらく時間がかかるが、評議会にとってあなたの存在はほとんど必要とされていない。特に驚いたのは、ここでのあなたの存在がどれだけ記録されていたかだ。彼らはあなたが彼らの空間で戦ったほぼすべての戦闘の証拠を持っている。"
 
 #: src-en/data/events_sector_aea_old_2.xml:793
 msgid ""
@@ -967,52 +957,51 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[@req=\"aea_old_completed_sponsor\""
 " and @lvl=\"0\"]/text"
-msgstr "スポンサーを見つけたら、後で戻ってくる必要があります。"
+msgstr "スポンサーを見つけたら後で戻ってくる必要がある。"
 
 #: src-en/data/events_sector_aea_old_2.xml:805
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[3]/text"
-msgstr "後で戻ってきてください。"
+msgstr "後で戻ってくる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:815
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/beaconType/unvisitedTooltip"
-msgstr "これは、評議会の管理棟の場所です。"
+msgstr "ここは評議会管理棟の場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:816
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/beaconType/visitedTooltip"
-msgstr "これは、評議会の管理棟の場所です。"
+msgstr "ここは評議会管理棟の場所だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:820
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/text"
 msgstr ""
-"最終的にあなたは評決を受け取り、あなたは去ることを許されます。彼らは、あなたがノード17でアクティブにしたものと同様に、秘密のゲートをあなたに伝えます。\n"
+"やがて評決を受け取り、去ることが許される。彼らは、ノード17で起動したのと同様の秘密のゲートについて教えてくれる。\n"
 "\n"
-"スポンサーがロケーションゲートを護衛する必要があるため、出発する前に、ここで未完成のビジネスに対処する必要があります。\n"
-"。"
+"ゲートの場所の関係で、スポンサーに護衛してもらう必要がある。去る前に、ここでの未解決の用事を済ませておくべきだ。\n"
+"\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:825
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/choice[1]/text"
-msgstr "すぐにゲートに向けて出発します。"
+msgstr "すぐにゲートへ向かう。"
 
 #: src-en/data/events_sector_aea_old_2.xml:832
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/choice[2]/text"
-msgstr "準備してください。"
+msgstr "準備に少し時間をくれ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:838
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/choice[3]/text"
-msgstr "後でここに戻ります。"
+msgstr "後でここに戻ってこよう。"
 
 #: src-en/data/events_sector_aea_old_2.xml:857
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/text"
-msgstr ""
-"驚くべきことに、Lylmikの商人は重武装したエリートから攻撃を受けているように見えます。あなたが彼らと取引したいなら、あなたはエリートの世話をする必要があります。"
+msgstr "驚くべきことに、リルミックの商人が重武装のエリートから攻撃を受けているようだ。彼らと取引したいなら、エリートを始末する必要がある。"
 
 #: src-en/data/events_sector_aea_old_2.xml:860
 msgid ""
@@ -1037,7 +1026,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:873
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/choice[2]/event/text"
-msgstr "幸いなことに、エリートはあなたの存在に気づかないままです。"
+msgstr "幸いにも、エリートはあなたの存在に気づいていない。"
 
 #: src-en/data/events_sector_aea_old_2.xml:875
 msgid ""
@@ -1052,27 +1041,27 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:917
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/text"
-msgstr "遠くに小さな人口の多い月が見えます。店の外には渋滞があります。アプローチしましょうか？"
+msgstr "遠くに小さな、人口の多い月が見える。店の外は交通量が多い。近づきますか？"
 
 #: src-en/data/events_sector_aea_old_2.xml:919
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/choice[1]/text"
-msgstr "並んで着陸します。"
+msgstr "着陸の列に並ぶ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:921
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/choice[1]/event/text"
-msgstr "最終的には限られたスペースに着陸し、店に入ることができます。信じられないほど、店内のすべてが販売されているように見えます。"
+msgstr "やがて限られたスペースに着陸し、店に入ることができた。信じられないことに、店内のすべてのものがセール中のようだ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:926
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/choice[2]/text"
-msgstr "月を無視します。"
+msgstr "月を無視する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:928
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/choice[2]/event/text"
-msgstr "FTLドライブが充電されるのを待つと、広告船が過ぎて飛んでいることに気付きます。"
+msgstr "FTLドライブがチャージされるのを待っていると、広告船が通り過ぎるのに気づく。どうやら下の大きな店はクリアランスセールをしているようだ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:930
 msgid ""
@@ -1087,28 +1076,29 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:944
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/text"
 msgstr ""
-"あなたはビーコンに到着し、いくつかの惑星フェアを参照する複数の広告によってすぐに砲撃されます。人々は、自分の食べ物を食べて披露するためにセクター全体から来ているようです。"
+"ビーコンに到着すると、すぐに惑星のフェアに言及する複数の広告に bombarded "
+"された。セクター中から人々が食べに来て、自分たちの料理を披露しているようだ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:946
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/text"
-msgstr "頭を下げて見回してください。"
+msgstr "下りて見て回る。"
 
 #: src-en/data/events_sector_aea_old_2.xml:948
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/text"
-msgstr "あなたは惑星に到着し、見本市を探検し始めます。選択できる多くの異なるオプションがあります。"
+msgstr "惑星に降り立ち、フェアを探索し始める。選べる選択肢はたくさんある。"
 
 #: src-en/data/events_sector_aea_old_2.xml:950
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[1]/text"
-msgstr "緑の卵とハムを訪れてください。"
+msgstr "グリーンエッグ・アンド・ハムを訪れる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:952
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"あなたは屋台まで歩いていますが、残念なことに屋台は完全に食べ物がありません。さらに悪いことに、屋台で働いている人は船に残されており、乗組員に加わることを申し出ています。"
+"屋台に歩いていくが、残念ながら屋台は完全に食べ物がなくなっていた。さらに悪いことに、屋台で働いていた人は船に置き去りにされており、クルーに加わることを申し出てきた。"
 
 #: src-en/data/events_sector_aea_old_2.xml:955
 msgid ""
@@ -1118,13 +1108,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:961
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[2]/text"
-msgstr "ソフトライトにアクセスしてください。"
+msgstr "ソフトライトを訪れる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:963
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
-"あなたは屋台まで歩いていますが、残念なことに屋台は完全に食べ物がありません。さらに悪いことに、屋台で働いている人は船に残されており、乗組員に加わることを申し出ています。"
+"屋台に歩いていくが、残念ながら屋台は完全に食べ物がなくなっていた。さらに悪いことに、屋台で働いていた人は船に置き去りにされており、クルーに加わることを申し出てきた。"
 
 #: src-en/data/events_sector_aea_old_2.xml:966
 msgid ""
@@ -1134,13 +1124,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:972
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[3]/text"
-msgstr "自然の蜜をご覧ください。"
+msgstr "ネイチャーズ・ネクターを訪れる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:974
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
-"あなたは屋台まで歩いていますが、残念なことに屋台は完全に食べ物がありません。さらに悪いことに、屋台で働いている人は船に残されており、乗組員に加わることを申し出ています。"
+"屋台に歩いていくが、残念ながら屋台は完全に食べ物がなくなっていた。さらに悪いことに、屋台で働いていた人は船に置き去りにされており、クルーに加わることを申し出てきた。"
 
 #: src-en/data/events_sector_aea_old_2.xml:977
 msgid ""
@@ -1150,13 +1140,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:983
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[4]/text"
-msgstr "ボブの腸をご覧ください。"
+msgstr "ボブズ・インテスティンズを訪れる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:985
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
-"あなたは屋台まで歩いていますが、残念なことに屋台は完全に食べ物がありません。さらに悪いことに、屋台で働いている人は船に残されており、乗組員に加わることを申し出ています。"
+"屋台に歩いていくが、残念ながら屋台は完全に食べ物がなくなっていた。さらに悪いことに、屋台で働いていた人は船に置き去りにされており、クルーに加わることを申し出てきた。"
 
 #: src-en/data/events_sector_aea_old_2.xml:988
 msgid ""
@@ -1166,13 +1156,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:994
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[5]/text"
-msgstr "変曲にアクセスしてください。"
+msgstr "インフレクションを訪れる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:996
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[5]/event/text"
 msgstr ""
-"あなたは屋台まで歩いていますが、残念なことに屋台は完全に食べ物がありません。さらに悪いことに、屋台で働いている人は船に残されており、乗組員に加わることを申し出ています。"
+"屋台に歩いていくが、残念ながら屋台は完全に食べ物がなくなっていた。さらに悪いことに、屋台で働いていた人は船に置き去りにされており、クルーに加わることを申し出てきた。"
 
 #: src-en/data/events_sector_aea_old_2.xml:999
 msgid ""
@@ -1182,13 +1172,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1005
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[6]/text"
-msgstr "ホットロックにアクセスしてください。"
+msgstr "ホットロックを訪れる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1007
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[6]/event/text"
 msgstr ""
-"あなたは屋台まで歩いていますが、残念なことに屋台は完全に食べ物がありません。さらに悪いことに、屋台で働いている人は船に残されており、乗組員に加わることを申し出ています。"
+"屋台に歩いていくが、残念ながら屋台は完全に食べ物がなくなっていた。さらに悪いことに、屋台で働いていた人は船に置き去りにされており、クルーに加わることを申し出てきた。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1010
 msgid ""
@@ -1198,13 +1188,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1016
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[7]/text"
-msgstr "レタスの食べ物を訪れてください。"
+msgstr "レタス・イートを訪れる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1018
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[7]/event/text"
 msgstr ""
-"あなたは屋台まで歩いていますが、残念なことに屋台は完全に食べ物がありません。さらに悪いことに、屋台で働いている人は船に残されており、乗組員に加わることを申し出ています。"
+"屋台に歩いていくが、残念ながら屋台は完全に食べ物がなくなっていた。さらに悪いことに、屋台で働いていた人は船に置き去りにされており、クルーに加わることを申し出てきた。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1021
 msgid ""
@@ -1214,13 +1204,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1027
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[8]/text"
-msgstr "Ethereal Foodsをご覧ください。"
+msgstr "エスリアル・フーズを訪れる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1029
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[8]/event/text"
 msgstr ""
-"あなたは屋台まで歩いていますが、残念なことに屋台は完全に食べ物がありません。さらに悪いことに、屋台で働いている人は船に残されており、乗組員に加わることを申し出ています。"
+"屋台に歩いていくが、残念ながら屋台は完全に食べ物がなくなっていた。さらに悪いことに、屋台で働いていた人は船に置き去りにされており、クルーに加わることを申し出てきた。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1032
 msgid ""
@@ -1230,13 +1220,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1038
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[9]/text"
-msgstr "Gregs Scrapyardにアクセスしてください。"
+msgstr "グレッグズ・スクラップヤードを訪れる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1040
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[9]/event/text"
 msgstr ""
-"あなたは屋台まで歩いていますが、残念なことに屋台は完全に食べ物がありません。さらに悪いことに、屋台で働いている人は船に残されており、乗組員に加わることを申し出ています。"
+"屋台に歩いていくが、残念ながら屋台は完全に食べ物がなくなっていた。さらに悪いことに、屋台で働いていた人は船に置き去りにされており、クルーに加わることを申し出てきた。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1043
 msgid ""
@@ -1251,12 +1241,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1055
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[2]/text"
-msgstr "イベントを無視してください。"
+msgstr "イベントを無視する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1057
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[2]/event/text"
-msgstr "FTLドライブの充電を開始します。"
+msgstr "FTLドライブのチャージを開始する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1059
 msgid ""
@@ -1272,17 +1262,17 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/text"
 msgstr ""
-"このビーコンに到着すると、あなたは...あなた自身と顔を合わせますか？位置データは不安定ですが、センサーが知る限り、船、ライフシグムなどの正確なコピーを見ています。"
+"このビーコンに到着すると、あなたは…自分自身と顔を合わせる？位置データは不安定だが、センサーが感知する限り、あなたは生命反応も含め、自分の船の完全なコピーを見ている。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1074
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[1]/text"
-msgstr "できるだけ早く出発します。"
+msgstr "できるだけ早く去る。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1076
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[1]/event/text"
-msgstr "安全な距離で飛び、FTLドライブの充電を開始します。"
+msgstr "安全な距離まで飛び去り、FTLドライブのチャージを開始する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1078
 msgid ""
@@ -1297,13 +1287,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1088
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[2]/text"
-msgstr "その船で発射します。"
+msgstr "あの船に発砲する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1090
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[2]/event/text"
 msgstr ""
-"あなたは武器で直接ヒットを記録しましたが、神秘的な鏡の船は同時に発砲し、同じように激しく反撃しました。実際、船体の損傷があなた自身のものと一致することに気づくので、まさにそれと同じくらい硬いです。結局のところ、エリアを離れるのが最善かもしれないと判断します。"
+"あなたの兵器は直撃したが、謎の鏡の船も同時に発砲し、同じ強さで反撃してきた。実際、彼らの船体の損傷が自分自身のものと一致していることに気づく。結局、このエリアを去るのが最善だと判断する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1093
 msgid ""
@@ -1319,7 +1309,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[@req=\"UPG_AETHER_SCANNERS\"]/event/text"
 msgstr ""
-"エーテル強化スキャナーは何が起こっているのかを理解することができます。ある種のスペースベンディングデバイスは、実際の入り口への別の、より複雑なルートを提供すると同時に、ITのループに向かうパスをその原点に戻すことでストレージキャッシュを隠していました。この新たな知識により、その内容を確保します。"
+"エーテル強化スキャナーが状況を解明した。何らかの空間を曲げる装置が、そこへ向かうどんな道も出発点に戻るようにループさせることで保管庫を隠していたが、実際の入り口には別の、はるかに複雑なルートを提供していた。この新たな知識を得て、あなたはその中身を確保する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1104
 msgid ""
@@ -1329,17 +1319,17 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1113
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/text"
-msgstr "ビーコンは小惑星畑の内側にあり、近くには2つの岩の間に挟まれたリルミックの自動車が見えます。自動車はオフラインになります。"
+msgstr "ビーコンは小惑星帯の中にあり、近くにリルミックの自動船が2つの岩の間に挟まっているのが見える。自動船はオフラインのようだ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1115
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[1]/text"
-msgstr "船を吹き飛ばします。"
+msgstr "船を爆破する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1117
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[1]/event/text"
-msgstr "あなたは船に穴を開けてから、それを廃棄するためにそれを廃棄します。"
+msgstr "船に穴を開けてから、役立つものを求めて解体する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1120
 msgid ""
@@ -1349,14 +1339,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1126
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[2]/text"
-msgstr "自動車に電力を供給しようとします。"
+msgstr "自動船の電源を入れようと試みる。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1128
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[2]/event/text"
 msgstr ""
-"船が電力を供給し、それ自体を取り除こうとしますが、船はどこにでもrap散弾を送る間に岩を爆破しようとし始め、船を後退させますが、軽い損傷を避けることができません。\n"
-"自動車を踏みにじるのではなく、自動車の中央プロセッサを破壊する大きな岩の塊を失うことができます。あなたは遺体を廃棄します。"
+"船の電源が入り、自らを解放しようと試みる。船は挟まっている岩を爆破しようとし始め、破片を四方八方に飛ばす。あなたは船を後退させるが、軽微な損傷を避けることはできない。\n"
+"抜け出す代わりに、自動船は大きな岩の塊を落とし、それが自動船の中央プロセッサを破壊してしまった。あなたはその残骸を解体する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1133
 msgid ""
@@ -1371,7 +1361,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1141
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[3]/event/text"
-msgstr "安全な距離で飛び、FTLドライブの充電を開始します。"
+msgstr "安全な距離まで飛び去り、FTLドライブのチャージを開始する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1143
 msgid ""
@@ -1386,34 +1376,32 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1157
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/text"
-msgstr ""
-"あなたは小さな自動修理ヤードを見つけるために到着します、あなたはおそらくあなたがあなたを無料で修理することを願っています、そしてそれはあなたがいくつかの修理を購入できるようにも見えます。"
+msgstr "到着すると、小さな自動修理ヤードを発見した。忍び込んで無料で修理してもらうことを期待できるかもしれないし、修理を購入することもできそうだ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1159
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[1]/text"
-msgstr "キューに忍び込みます。"
+msgstr "列にこっそり忍び込む。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1163
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[2]/text"
-msgstr "20個のスクラップで10個の船体修理を購入します。"
+msgstr "20スクラップで船体修理10を購入する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1165
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[2]/event/text"
-msgstr ""
-"トランザクションを実行し、マシンが船体にパッチするのを注意深く監視します。しかし、すべては問題ないようです。それらが完了すると、ジャンプする準備ができます。"
+msgstr "取引を行い、機械が船体を修理するのを注意深く見守る。しかし、すべて問題ないようだ。完了したら、ジャンプの準備をする。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1173
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[3]/text"
-msgstr "修理庭を避けてください。"
+msgstr "修理場を避ける。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1175
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[3]/event/text"
-msgstr "ジャンプする準備をします。"
+msgstr "ジャンプの準備をする。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1177
 msgid ""
@@ -1428,7 +1416,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1189
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[1]/text"
-msgstr "あなたがあなたが無料の修理の仕事を得ようとしていると思うように、船はあなたの後ろのキューから出て、彼らの武器を活性化します。"
+msgstr "無料の修理を受けられると思った矢先、後ろの列から船が出てきて兵器を起動した。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1192
 msgid ""
@@ -1438,7 +1426,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1197
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[2]/text"
-msgstr "ラインの前面に到達し、無料の修理を受け取ります。"
+msgstr "列の先頭にたどり着き、無料の修理を受ける。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1200
 msgid ""
@@ -1448,7 +1436,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1202
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[2]/choice/event/text"
-msgstr "あなたがそれで逃げようとしていると思うように、あなたはキューの反対側からの動揺した容器によって傍受されます。"
+msgstr "うまく逃げ切れると思った矢先、列の反対側から怒った船に妨害された。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1205
 msgid ""
@@ -1458,7 +1446,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1212
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[3]/text"
-msgstr "ラインの前面に到達し、無料の修理を受け取ります。"
+msgstr "列の先頭にたどり着き、無料の修理を受ける。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1215
 msgid ""
@@ -1468,7 +1456,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1217
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[3]/choice/event/text"
-msgstr "あなたがそれで逃げようとしていると思うように、あなたはキューの反対側からの動揺した容器によって傍受されます。"
+msgstr "うまく逃げ切れると思った矢先、列の反対側から怒った船に妨害された。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1220
 msgid ""
@@ -1478,24 +1466,24 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1222
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[3]/choice/event/choice/event/text"
-msgstr "しかし、船はあなたを過ぎて飛んでいるだけで、結局のところあなたを傍受していないようです。"
+msgstr "しかし、その船はただあなたを通り過ぎて飛んでいった。どうやら彼らはあなたを妨害していたわけではなかったようだ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1248
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/text"
 msgstr ""
-"私たちのセンサーは、Lylmik Autoship "
-"Signatureを見つけます。それは非常に長い間同じ方向に加速していたようで、その結果、途方もない速度を蓄積しました。これが、崇高な旅行の実行可能性に関するある種の実験なのか、単に誤動作であるかどうかはわかりませんが、より差し迫った問題は、あなたの船がたまたまその経路で麻原の空間から脱落したことです。"
+"センサーがリルミックの自動船のシグネチャを捉えた。それは非常に長い間同じ方向に加速し続け、結果としてとてつもない速度を蓄積したようだ。これが亜光速移動の実現可能性に関する何らかの実験なのか、単なる故障なのかは分からないが、もっと差し迫った問題は、あなたの船がハイパースペースからちょうどその進路上に現れてしまったことだ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1250
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[1]/text"
-msgstr "インパクトのためのブレース！"
+msgstr "衝撃に備えよ！"
 
 #: src-en/data/events_sector_aea_old_2.xml:1252
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[1]/event/text"
 msgstr ""
-"高速で衝突するすべての船のうち、Lylmikが作った船はおそらく最悪の結果であり、重い鎧のめっきが大好きでした。一見小さな自動車の膨大な塊は、あなたが黒くするときにあなたの容器を空間を介してcareenすることを送ります。誰もが自分の感覚に来ると、ダメージレポートは、衝撃から船体の多くの隙間の穴を明らかにします。それは奇跡であり、誰もそれらの1つを倒しませんでした。"
+"高速で衝突する船の中で、リルミック製の船はおそらく最悪の結果だっただろう。彼らの重装甲への愛を考えれば。見た目に反して小さい自動船の純粋な質量が、あなたの船を宇宙に放り出し、あなたは意識を失う。全員が意識を取り戻すと、損傷報告書は衝撃による船体の多くの"
+" gaping holes を明らかにした。誰もそれらの穴から落ちなかったのは奇跡だ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1257
 msgid ""
@@ -1505,12 +1493,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1263
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"engines\"]/text"
-msgstr "（Upg。Engines）回避策！"
+msgstr "（アップグレード・エンジン）回避行動！"
 
 #: src-en/data/events_sector_aea_old_2.xml:1265
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"engines\"]/event/text"
-msgstr "ありがたいことに、スラスタは、衝撃の前に船を邪魔にならないほど強力です。乗組員全員がスピードデーモンが安心して過ぎて飛ぶのを見ています。"
+msgstr "ありがたいことに、スラスターは衝突前に船をどけるのに十分な力を持っていた。全クルーは安堵してスピードの悪魔が通り過ぎるのを見守る。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1267
 msgid ""
@@ -1520,13 +1508,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1273
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"weapons\"]/text"
-msgstr "（Upg。Weapons）は、どちらかを止めさせます。"
+msgstr "（アップグレード・兵器）何とかして止めろ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1275
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"weapons\"]/event/text"
 msgstr ""
-"Lylmikの船は非常に効果的な鎧で知られていますが、すべての船には弱点があります。いくつかのよく狙ったショットは、いくつかのスラスタをノックダウンし、アラインメントから自動車を捨て、武器からのその後の弾幕が制御不能な容器を収穫したスクラップの雲に変換します。"
+"リルミックの船はその非常に効果的な装甲で知られているが、どんな船にも弱点はある。いくつかの狙いを定めた射撃がいくつかのスラスターを破壊し、自動船を軌道から外し、その後の兵器の一斉射撃が制御不能になった船をスクラップの雲に変え、それをあなたは回収する。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1278
 msgid ""
@@ -1536,13 +1524,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1284
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"shields\"]/text"
-msgstr "（Upg。Shields）すべてのパワーをシールドに再ルーティングします！"
+msgstr "（アップグレード・シールド）全電力をシールドに回せ！"
 
 #: src-en/data/events_sector_aea_old_2.xml:1286
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"shields\"]/event/text"
 msgstr ""
-"あなたのシールドは力の矢面に立たされ、自動車は半分押しつけられ、かなりの量のスクラップを残して側面に偏向します。残念ながら、衝撃はシールドコンデンサに過負荷になり、爆発しました。"
+"あなたのシールドが力の大部分を受け止め、自動船は半分押しつぶされて横に逸れ、かなりの量のスクラップを残した。残念ながら、衝撃でシールドコンデンサが過負荷になり、爆発した。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1291
 msgid ""
@@ -1557,21 +1545,19 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1333
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[1]"
-msgstr "大きな船があなたに近づきます、彼らはあなたがあなたの船に持っているかもしれない新しい技術のいずれかを手に入れることに興味があるようです。"
+msgstr "大型船があなたに接近してくる。どうやら彼らはあなたの船にあるかもしれない新しい技術を手に入れたいようだ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1334
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[2]"
-msgstr "あなたが攻撃するために移動する船が非常に危険であることから長い間生き残ったことは明らかです。"
+msgstr "攻撃してくる船がこれほど長く生き延びてきたのは、信じられないほど危険だからであることは明らかだ。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1335
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[3]"
-msgstr ""
-"マルチバースのこのセクションで閉じ込められた生き残るための唯一の方法は、他の人から資源を奪うことであり、現在あなたに近づいている生存者がいます。"
+msgstr "このマルチバースの区画に閉じ込められて生き延びる唯一の方法は、他者から資源を奪うことだ。そして今、生存者があなたに接近している。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1336
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[4]"
-msgstr ""
-"自分自身を殺すことに対して、Lylmikは彼らの領域の市民がお互いを殺さないようにすることについて何もしません。それが起こると、市民が攻撃位置に移動します。"
+msgstr "リルミックは自殺には反対だが、彼らの領域の市民が互いに殺し合うのを止めることについては何もしない。ちょうど今、ある市民が攻撃態勢に入った。"

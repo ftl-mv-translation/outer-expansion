@@ -9,8 +9,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_SUPER_SHIELD\"]/text"
 msgstr ""
-"どこからも、あなたはあなたに話しかける声を聞きます。「[補助シールド] "
-"I-Iインストールの付与。インストールされた！助成金は、エネルギーシールドの単一層、他のエネルギーシールドのスタックをスタックします。"
+"どこからともなく、あなたに話しかける声が聞こえます。「[補助シールド]の付与がイ、インストールされました。インストール完了！付与内容：エネルギーシールドの単一層、他のエネルギーシールドと重複可能。もし前の挑戦者を目撃したら、感謝を伝えてください。私にも会いに来ることをお勧めします」"
 
 #: src-en/data/events_special_boons.xml.append:8
 msgid ""
@@ -21,6 +20,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_CLONE_CRIME\"]/text"
 msgstr ""
+"どこからともなく、あなたに話しかける声が聞こえます。「[違法改造クローンベイ]の付与がイ、インストールされました。インストール完了！付与内容：ジャンプごとに、20秒の寿命を持つ弱い汎用クルーを船内に生成します。もし前の挑戦者を目撃したら、感謝を伝えてください。私にも会いに来ることをお勧めします」"
 
 #: src-en/data/events_special_boons.xml.append:18
 msgid ""
@@ -31,8 +31,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_ACID\"]/text"
 msgstr ""
-"どこからも、あなたはあなたに話しかける声を聞きます。「成長の恩恵。あなたの酸性の乗組員は... "
-"2倍の速さで癒し、un然とすることはできません。あなたは...以前の挑戦者に感謝します。"
+"どこからともなく、あなたに話しかける声が聞こえます。「成長の...恩恵。あなたのアシディックのクルーは...2倍の速さで回復し、気絶しなくなるでしょう。前の挑戦者に...感謝してもいい。あるいは...しなくてもいい？誰にもわからない...」"
 
 #: src-en/data/events_special_boons.xml.append:29
 msgid ""
@@ -43,7 +42,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_BIRD\"]/text"
 msgstr ""
-"どこからも、あなたはあなたに話しかける声を聞きます。「羽の恩恵...あなたのGIクルーは...自動修理速度にさらに0.25倍を獲得します。あなたは...以前の挑戦者に感謝します。"
+"どこからともなく、あなたに話しかける声が聞こえます。「羽の...恩恵。あなたのGiのクルーは...自動修理速度に0.25倍の追加ボーナスを得るでしょう。前の挑戦者に...感謝してもいい。あるいは...しなくてもいい？誰にもわからない...」"
 
 #: src-en/data/events_special_boons.xml.append:39
 msgid ""
@@ -54,8 +53,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_CULT\"]/text"
 msgstr ""
-"どこからも、あなたはあなたに話しかける声を聞きます。「礼拝の恩恵。あなたのカルト主義者の乗組員は... "
-"25％以上の範囲のダメージをします。あなたは...以前の挑戦者に感謝します。"
+"どこからともなく、あなたに話しかける声が聞こえます。「崇拝の...恩恵。あなたのカルト信者のクルーは...遠距離ダメージが25%増加するでしょう。前の挑戦者に...感謝してもいい。あるいは...しなくてもいい？誰にもわからない...」"
 
 #: src-en/data/events_special_boons.xml.append:49
 msgid ""
@@ -66,7 +64,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_NECRO\"]/text"
 msgstr ""
-"どこからも、あなたはあなたに話しかける声を聞きます。「復活の恩恵。あなたは...ジャンプごとに1ナナイトの群れを獲得します。あなたは...前の挑戦者に感謝します。"
+"どこからともなく、あなたに話しかける声が聞こえます。「復活の...恩恵。あなたは...ジャンプごとにナナイトスウォームを1つ得るでしょう。前の挑戦者に...感謝してもいい。あるいは...しなくてもいい？誰にもわからない...」"
 
 #: src-en/data/events_special_boons.xml.append:59
 msgid ""
@@ -77,8 +75,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_SHLEG\"]/text"
 msgstr ""
-"どこからも、あなたはあなたに話しかける声を聞きます。「軟体動物の恩恵...あなたのアナキストのシェルクルーは...マインドコントロールの免疫とアナキストのスラッグの乗組員を獲得します..."
-" 10％の損傷抵抗を獲得します。あなたは前の挑戦者に感謝します。"
+"どこからともなく、あなたに話しかける声が聞こえます。「軟体動物の...恩恵。あなたのアナーキストのシェルのクルーは...マインドコントロール耐性を得、アナーキストのスラグのクルーは...10%のダメージ耐性を得るでしょう。前の挑戦者に...感謝してもいい。あるいは...しなくてもいい？誰にもわからない...」"
 
 #: src-en/data/events_special_boons.xml.append:69
 msgid ""
@@ -89,8 +86,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_SHARD\"]/text"
 msgstr ""
-"どこからも、あなたはあなたに話しかける声を聞きます。「ザ・ブーン...粉砕の恩恵。あなたのシャードに焦げた乗組員は... "
-"25％の追加の妨害妨害をします。あなたは...以前の挑戦者に感謝するかもしれません。"
+"どこからともなく、あなたに話しかける声が聞こえます。「粉砕の...恩恵。あなたのシャードフォージのクルーは...妨害ダメージが25%増加するでしょう。前の挑戦者に...感謝してもいい。あるいは...しなくてもいい？誰にもわからない...」"
 
 #: src-en/data/events_special_boons.xml.append:79
 msgid ""
@@ -101,8 +97,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_JUSTICE\"]/text"
 msgstr ""
-"どこからも、あなたはあなたに話しかける声を聞きます。「供物の恩恵。暗いジャスティシャルは...儀式を実行しながら5 "
-"hp/sを癒します。あなたは...以前の挑戦者に感謝します。"
+"どこからともなく、あなたに話しかける声が聞こえます。「捧げ物の...恩恵。ダーク・ジャスティシエは...儀式を行っている間、毎秒5HP回復するでしょう。前の挑戦者に...感謝してもいい。あるいは...しなくてもいい？誰にもわからない...」"
 
 #: src-en/data/events_special_boons.xml.append:89
 msgid ""
@@ -113,7 +108,7 @@ msgstr ""
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_OLD\"]/text"
 msgstr ""
-"どこからも、あなたはあなたに話しかける声を聞きます。「Coadunationの恩恵...あなたのLylmikの乗組員は...敵の乗組員ごとに10％のダメージボーナスを獲得します。あなたは...以前の挑戦者に感謝します。"
+"どこからともなく、あなたに話しかける声が聞こえます。「癒着の...恩恵。あなたのライルミックのクルーは...敵クルー一人につき10%のダメージボーナスを得るでしょう。前の挑戦者に...感謝してもいい。あるいは...しなくてもいい？誰にもわからない...」"
 
 #: src-en/data/events_special_boons.xml.append:99
 msgid ""

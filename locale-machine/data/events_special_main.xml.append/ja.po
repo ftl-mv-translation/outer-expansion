@@ -8,12 +8,12 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:71
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/text"
-msgstr "スロット1の砲兵を選択します"
+msgstr "スロット1の砲撃を選択してください"
 
 #: src-en/data/events_special_main.xml.append:73
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[1]/text"
-msgstr "レーザー砲兵。"
+msgstr "レーザー砲。"
 
 #: src-en/data/events_special_main.xml.append:75
 msgid ""
@@ -33,7 +33,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:89
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr "ミサイル砲兵（最大：2）。"
+msgstr "ミサイル砲 (最大: 2)。"
 
 #: src-en/data/events_special_main.xml.append:91
 msgid ""
@@ -53,12 +53,12 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:106
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/text"
-msgstr "スロット1の砲兵を選択します"
+msgstr "スロット1の砲撃を選択してください"
 
 #: src-en/data/events_special_main.xml.append:108
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[1]/text"
-msgstr "レーザー砲兵。"
+msgstr "レーザー砲。"
 
 #: src-en/data/events_special_main.xml.append:110
 msgid ""
@@ -78,7 +78,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:124
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr "ミサイル砲兵（最大：2）。"
+msgstr "ミサイル砲 (最大: 2)。"
 
 #: src-en/data/events_special_main.xml.append:126
 msgid ""
@@ -98,7 +98,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:145
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_LASER_1\"]/text"
-msgstr "レーザーを選択します。"
+msgstr "あなたはレーザーを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:148
 msgid ""
@@ -108,7 +108,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:153
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_BEAM_1\"]/text"
-msgstr "ビームを選択します。"
+msgstr "あなたはビームを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:156
 msgid ""
@@ -118,7 +118,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:161
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_MISSILE_1\"]/text"
-msgstr "ミサイルを選択します。"
+msgstr "あなたはミサイルを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:165
 msgid ""
@@ -128,7 +128,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:170
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ION_1\"]/text"
-msgstr "イオンを選択します。"
+msgstr "あなたはイオンを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:173
 msgid ""
@@ -138,12 +138,12 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:179
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/text"
-msgstr "スロット2の砲兵を選択してください"
+msgstr "スロット2の砲撃を選択してください"
 
 #: src-en/data/events_special_main.xml.append:181
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[1]/text"
-msgstr "レーザー砲兵。"
+msgstr "レーザー砲。"
 
 #: src-en/data/events_special_main.xml.append:183
 msgid ""
@@ -163,7 +163,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:197
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr "ミサイル砲兵（最大：2）。"
+msgstr "ミサイル砲 (最大: 2)。"
 
 #: src-en/data/events_special_main.xml.append:199
 msgid ""
@@ -183,7 +183,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:216
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_LASER_2\"]/text"
-msgstr "レーザーを選択します。"
+msgstr "あなたはレーザーを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:219
 msgid ""
@@ -193,7 +193,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:224
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_BEAM_2\"]/text"
-msgstr "ビームを選択します。"
+msgstr "あなたはビームを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:227
 msgid ""
@@ -203,7 +203,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:232
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_MISSILE_2\"]/text"
-msgstr "ミサイルを選択します。"
+msgstr "あなたはミサイルを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:236
 msgid ""
@@ -213,7 +213,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:241
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ION_2\"]/text"
-msgstr "イオンを選択します。"
+msgstr "あなたはイオンを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:244
 msgid ""
@@ -223,12 +223,12 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:250
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/text"
-msgstr "スロット3の砲兵を選択してください"
+msgstr "スロット3の砲撃を選択してください"
 
 #: src-en/data/events_special_main.xml.append:252
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[1]/text"
-msgstr "レーザー砲兵。"
+msgstr "レーザー砲。"
 
 #: src-en/data/events_special_main.xml.append:254
 msgid ""
@@ -248,7 +248,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:268
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr "ミサイル砲兵（最大：2）。"
+msgstr "ミサイル砲 (最大: 2)。"
 
 #: src-en/data/events_special_main.xml.append:270
 msgid ""
@@ -268,7 +268,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:286
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_LASER_3\"]/text"
-msgstr "レーザーを選択します。"
+msgstr "あなたはレーザーを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:289
 msgid ""
@@ -278,7 +278,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:294
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_BEAM_3\"]/text"
-msgstr "ビームを選択します。"
+msgstr "あなたはビームを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:297
 msgid ""
@@ -288,7 +288,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:302
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_MISSILE_3\"]/text"
-msgstr "ミサイルを選択します。"
+msgstr "あなたはミサイルを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:306
 msgid ""
@@ -298,7 +298,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:311
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ION_3\"]/text"
-msgstr "イオンを選択します。"
+msgstr "あなたはイオンを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:314
 msgid ""
@@ -308,7 +308,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:321
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_LASER_1\"]/text"
-msgstr "レーザーを選択します。"
+msgstr "あなたはレーザーを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:324
 msgid ""
@@ -318,7 +318,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:329
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_BEAM_1\"]/text"
-msgstr "ビームを選択します。"
+msgstr "あなたはビームを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:332
 msgid ""
@@ -328,7 +328,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:337
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_MISSILE_1\"]/text"
-msgstr "ミサイルを選択します。"
+msgstr "あなたはミサイルを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:341
 msgid ""
@@ -338,7 +338,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:346
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ION_1\"]/text"
-msgstr "イオンを選択します。"
+msgstr "あなたはイオンを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:349
 msgid ""
@@ -348,12 +348,12 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:355
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/text"
-msgstr "スロット2の砲兵を選択してください"
+msgstr "スロット2の砲撃を選択してください"
 
 #: src-en/data/events_special_main.xml.append:357
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[1]/text"
-msgstr "レーザー砲兵。"
+msgstr "レーザー砲。"
 
 #: src-en/data/events_special_main.xml.append:359
 msgid ""
@@ -373,7 +373,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:373
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr "ミサイル砲兵（最大：2）。"
+msgstr "ミサイル砲 (最大: 2)。"
 
 #: src-en/data/events_special_main.xml.append:375
 msgid ""
@@ -393,7 +393,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:392
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_LASER_2\"]/text"
-msgstr "レーザーを選択します。"
+msgstr "あなたはレーザーを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:395
 msgid ""
@@ -403,7 +403,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:400
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_BEAM_2\"]/text"
-msgstr "ビームを選択します。"
+msgstr "あなたはビームを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:403
 msgid ""
@@ -413,7 +413,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:408
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_MISSILE_2\"]/text"
-msgstr "ミサイルを選択します。"
+msgstr "あなたはミサイルを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:412
 msgid ""
@@ -423,7 +423,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:417
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ION_2\"]/text"
-msgstr "イオンを選択します。"
+msgstr "あなたはイオンを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:420
 msgid ""
@@ -433,12 +433,12 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:426
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/text"
-msgstr "スロット3の砲兵を選択してください"
+msgstr "スロット3の砲撃を選択してください"
 
 #: src-en/data/events_special_main.xml.append:428
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[1]/text"
-msgstr "レーザー砲兵。"
+msgstr "レーザー砲。"
 
 #: src-en/data/events_special_main.xml.append:430
 msgid ""
@@ -458,7 +458,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:444
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr "ミサイル砲兵（最大：2）。"
+msgstr "ミサイル砲 (最大: 2)。"
 
 #: src-en/data/events_special_main.xml.append:446
 msgid ""
@@ -478,7 +478,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:462
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_LASER_3\"]/text"
-msgstr "レーザーを選択します。"
+msgstr "あなたはレーザーを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:465
 msgid ""
@@ -488,7 +488,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:470
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_BEAM_3\"]/text"
-msgstr "ビームを選択します。"
+msgstr "あなたはビームを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:473
 msgid ""
@@ -498,7 +498,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:478
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_MISSILE_3\"]/text"
-msgstr "ミサイルを選択します。"
+msgstr "あなたはミサイルを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:482
 msgid ""
@@ -508,7 +508,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:487
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ION_3\"]/text"
-msgstr "イオンを選択します。"
+msgstr "あなたはイオンを選択しました。"
 
 #: src-en/data/events_special_main.xml.append:490
 msgid ""
@@ -519,7 +519,7 @@ msgstr ""
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_ENEMY_BROADSIDE_EVENT\"]/text"
 msgstr ""
-"あなたは奇妙な反乱軍の船で顔を合わせてビーコンに到着します、それはあなたが以前に見たどんなデザインとも異なります。それがあなたの武器を回すので、あなたは熟考する時間がありません。"
+"ビーコンに到着すると、奇妙な反乱軍の船と対面します。これまで見たことのないデザインです。それがあなたに武器を向けるので、考える時間はありません。"
 
 #: src-en/data/events_special_main.xml.append:508
 msgid ""
@@ -529,17 +529,17 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:518
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"DESTROYED_AEA_BROADSIDE\"]/text"
-msgstr "爆発の燃えるような赤は、反乱軍の船のオレンジ色の船体を補完します。あなたの手仕事に満足して、あなたは船を廃棄します。"
+msgstr "爆発の燃えるような赤が反乱軍の船のオレンジ色の船体を引き立てます。自分の手際に満足し、船をスクラップにします。"
 
 #: src-en/data/events_special_main.xml.append:524
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"DEAD_CREW_AEA_BROADSIDE\"]/text"
-msgstr "反乱軍の船が乗組員を避けているので、あなたは遺体を自由に廃棄することができます。"
+msgstr "反乱軍の船からクルーが一掃された今、残骸を自由にスクラップにできます。"
 
 #: src-en/data/events_special_main.xml.append:532
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/text"
-msgstr "スロット1の武器を砲システムの1つに取り付けます。以前に設置された武器が失われます。"
+msgstr "スロット1の武器を砲撃システムの一つにインストールします。以前にインストールされた武器は失われます。"
 
 #: src-en/data/events_special_main.xml.append:534
 msgid ""
@@ -549,38 +549,38 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:538
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[2]/text"
-msgstr "砲兵スロット1に取り付けます（ほとんどの左）"
+msgstr "砲撃スロット1（左端）にインストールする"
 
 #: src-en/data/events_special_main.xml.append:540
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_C_SLOT1\"]/text"
-msgstr "武器を砲システムに設置します。"
+msgstr "武器を砲撃システムにインストールします。"
 
 #: src-en/data/events_special_main.xml.append:544
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[3]/text"
-msgstr "砲兵スロット2（中央）にインストールする"
+msgstr "砲撃スロット2（中央）にインストールする"
 
 #: src-en/data/events_special_main.xml.append:546
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_C_SLOT2\"]/text"
-msgstr "武器を砲システムに設置します。"
+msgstr "武器を砲撃システムにインストールします。"
 
 #: src-en/data/events_special_main.xml.append:550
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[4]/text"
-msgstr "砲兵スロット3にインストールします（最も右）"
+msgstr "砲撃スロット3（右端）にインストールする"
 
 #: src-en/data/events_special_main.xml.append:552
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_C_SLOT3\"]/text"
-msgstr "武器を砲システムに設置します。"
+msgstr "武器を砲撃システムにインストールします。"
 
 #: src-en/data/events_special_main.xml.append:556
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[@req=\"aea_broadside_c_has_weapon\""
 " and @lvl=\"0\"]/text"
-msgstr "設置するには、武器システムに武器が必要です。"
+msgstr "インストールするには、武器システムに武器が必要です。"
 
 #: src-en/data/events_special_main.xml.append:564
 msgid ""
@@ -590,12 +590,12 @@ msgstr "結果1"
 #: src-en/data/events_special_main.xml.append:566
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/choice[1]/text"
-msgstr "続く"
+msgstr "続行"
 
 #: src-en/data/events_special_main.xml.append:572
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/choice[2]/text"
-msgstr "終わり"
+msgstr "終了"
 
 #: src-en/data/events_special_main.xml.append:577
 msgid ""
@@ -605,16 +605,16 @@ msgstr "結果2"
 #: src-en/data/events_special_main.xml.append:579
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/choice[1]/text"
-msgstr "続く"
+msgstr "続行"
 
 #: src-en/data/events_special_main.xml.append:585
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/choice[2]/text"
-msgstr "終わり"
+msgstr "終了"
 
 #: src-en/data/events_special_main.xml.append:593
 msgid "data/events_special_main.xml.append$//event[@name=\"RANDOM_LOAD\"]/text"
-msgstr "負荷"
+msgstr "ロード"
 
 #: src-en/data/events_special_main.xml.append:595
 msgid ""

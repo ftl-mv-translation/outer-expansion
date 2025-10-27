@@ -7,26 +7,30 @@ msgstr ""
 
 #: src-en/data/text_tooltips.xml.append:1
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_aea_shields\"]"
-msgstr "シールド：ターゲットシステムからのイオン損傷を吸収します。"
+msgstr "シールド: ターゲットシステムからのイオンダメージを吸収します。"
 
 #: src-en/data/text_tooltips.xml.append:2
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_aea_shields_enemy\"]"
-msgstr "シールド：他の敵システムからのイオン損傷を吸収します。"
+msgstr "シールド: 他の敵システムからのイオンダメージを吸収します。"
 
 #: src-en/data/text_tooltips.xml.append:3
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_aea_super_shields\"]"
-msgstr "補助シールド：すべての発射体とビームをブロックできるスーパーシールドレイヤーを生成します。"
+msgstr "補助シールド: 全ての発射体とビームをブロックできるスーパーシールド層を生成します。"
 
 #: src-en/data/text_tooltips.xml.append:4
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_aea_super_shields_enemy\"]"
-msgstr "補助シールド：すべての発射体とビームをブロックできるスーパーシールドレイヤーを生成します。"
+msgstr "補助シールド: 全ての発射体とビームをブロックできるスーパーシールド層を生成します。"
 
 #: src-en/data/text_tooltips.xml.append:5
 msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_aea_clone_crime\"]"
-msgstr "修正されたクローンベイ：ジャンプで擬似クローンを生成し、クローンや他の乗組員が死のタイマーが死ぬのを防ぎます。"
+msgstr "改造クローンベイ: ジャンプ時に擬似クローンを生成し、クローンやその他の死亡タイマーを持つクルーがそれによって死亡するのを防ぎます。"
 
 #: src-en/data/text_tooltips.xml.append:6
 msgid ""
 "data/text_tooltips.xml.append$//text[@name=\"tooltip_aea_clone_crime_enemy\"]"
-msgstr "修正されたクローンベイ：ジャンプで擬似クローンを生成し、クローンや他の乗組員が死のタイマーが死ぬのを防ぎます。"
+msgstr "改造クローンベイ: ジャンプ時に擬似クローンを生成し、クローンやその他の死亡タイマーを持つクルーがそれによって死亡するのを防ぎます。"
+
+#: src-en/data/text_tooltips.xml.append:8
+msgid "data/text_tooltips.xml.append$//text[@name=\"tooltip_aea_acidic_nebula\"]"
+msgstr "あなたはアシディック星雲の中にいます。センサーは機能せず、空の部屋は酸性の雲によってランダムにゆっくりと破壊されます。"

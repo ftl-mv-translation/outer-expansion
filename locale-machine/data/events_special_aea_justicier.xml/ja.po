@@ -9,18 +9,18 @@ msgstr ""
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/text"
 msgstr ""
-"ダークジャスティエは、クローンベイを違法に変更できます。\n"
-"[エフェクト：クローンベイは死んだ乗組員のクローンではなくなりました。ジャンプ修正クローンベイは、30秒のデスタイマーを持つ2つのランダムな違法クローンを生成します。"
+"ダーク・ジャスティシエはあなたのクローンベイを違法に改造できます。\n"
+"\t[効果: クローンベイは死亡したクルーをクローンしなくなり、ジャンプ時に改造されたクローンベイは30秒の死亡タイマーを持つランダムな違法クローンを2体生成し、改造されたクローンベイは電源が入っている間、死亡タイマーの進行を防ぎます。]"
 
 #: src-en/data/events_special_aea_justicier.xml:6
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/text"
-msgstr "クローンベイを変換します。[コスト：40〜、3 |]"
+msgstr "クローンベイを改造する。[コスト: 40スクラップ, 3ミサイル]"
 
 #: src-en/data/events_special_aea_justicier.xml:8
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/event/text"
-msgstr "既存のクローンベイは、アップグレードの道を作るために部分的に分解されます。"
+msgstr "アップグレードのために、既存のクローンベイは部分的に解体されます。"
 
 #: src-en/data/events_special_aea_justicier.xml:15
 msgid ""
@@ -30,7 +30,7 @@ msgstr ""
 #: src-en/data/events_special_aea_justicier.xml:17
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/event/choice/event/text"
-msgstr "変更が行われ、修飾子クローンベイが残されています。"
+msgstr "変更が行われ、あなたは改造されたクローンベイを手にします。"
 
 #: src-en/data/events_special_aea_justicier.xml:24
 msgid ""
@@ -40,7 +40,7 @@ msgstr ""
 #: src-en/data/events_special_aea_justicier.xml:34
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/text"
-msgstr "あなたは本を開きます。"
+msgstr "本を開く。"
 
 #: src-en/data/events_special_aea_justicier.xml:36
 msgid ""
@@ -50,64 +50,64 @@ msgstr ""
 #: src-en/data/events_special_aea_justicier.xml:40
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[2]/text"
-msgstr "儀式のルールを読んでください。"
+msgstr "儀式の規則を読む。"
 
 #: src-en/data/events_special_aea_justicier.xml:44
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[3]/text"
-msgstr "Blood Ritualsのセクションを読んでください。"
+msgstr "血の儀式のセクションを読む。"
 
 #: src-en/data/events_special_aea_justicier.xml:48
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[4]/text"
-msgstr "契約儀式のセクションを読んでください。"
+msgstr "契約の儀式のセクションを読む。"
 
 #: src-en/data/events_special_aea_justicier.xml:52
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[5]/text"
-msgstr "攻撃の儀式に関するセクションを読んでください。"
+msgstr "攻撃の儀式のセクションを読む。"
 
 #: src-en/data/events_special_aea_justicier.xml:58
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/text"
 msgstr ""
-"儀式のルールについて本のセクションに目を向けます。\n"
-"一部の儀式には複数の要件がある場合があります。この場合、リストの最低値が使用されています。"
+"儀式の規則に関する本のセクションを開きます。\n"
+"いくつかの儀式には複数の要件がある場合があり、その場合はリストの一番下のものが使用されます。"
 
 #: src-en/data/events_special_aea_justicier.xml:69
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/choice/text"
-msgstr "戻って行きます。"
+msgstr "戻る。"
 
 #: src-en/data/events_special_aea_justicier.xml:77
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_CREW\"]/text"
-msgstr "あなたは血の儀式についての本のセクションに目を向けます。"
+msgstr "血の儀式に関する本のセクションを開きます。"
 
 #: src-en/data/events_special_aea_justicier.xml:79
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_CREW\"]/choice/text"
-msgstr "戻って行きます。"
+msgstr "戻る。"
 
 #: src-en/data/events_special_aea_justicier.xml:87
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TRADE\"]/text"
-msgstr "契約の儀式についての本のセクションに目を向けます。"
+msgstr "契約の儀式に関する本のセクションを開きます。"
 
 #: src-en/data/events_special_aea_justicier.xml:89
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TRADE\"]/choice/text"
-msgstr "戻って行きます。"
+msgstr "戻る。"
 
 #: src-en/data/events_special_aea_justicier.xml:97
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_ATTACK\"]/text"
-msgstr "攻撃の儀式についての本のセクションに目を向けます。"
+msgstr "攻撃の儀式に関する本のセクションを開きます。"
 
 #: src-en/data/events_special_aea_justicier.xml:99
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_ATTACK\"]/choice/text"
-msgstr "戻って行きます。"
+msgstr "戻る。"
 
 #: src-en/data/events_special_aea_justicier.xml:105
 msgid ""
@@ -117,7 +117,7 @@ msgstr "テスト"
 #: src-en/data/events_special_aea_justicier.xml:107
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_CREW\"]/choice/text"
-msgstr "戻って行きます。"
+msgstr "戻る。"
 
 #: src-en/data/events_special_aea_justicier.xml:113
 msgid ""
@@ -127,7 +127,7 @@ msgstr "テスト"
 #: src-en/data/events_special_aea_justicier.xml:115
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_TRADE\"]/choice/text"
-msgstr "戻って行きます。"
+msgstr "戻る。"
 
 #: src-en/data/events_special_aea_justicier.xml:121
 msgid ""
@@ -137,13 +137,13 @@ msgstr "テスト"
 #: src-en/data/events_special_aea_justicier.xml:123
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_ATTACK\"]/choice/text"
-msgstr "戻って行きます。"
+msgstr "戻る。"
 
 #: src-en/data/events_special_aea_justicier.xml:184
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_ONE\"]/text"
 msgstr ""
-"あなたはそれが破壊されたことを発見するために反乱軍の艦隊の真ん中に到着しました。デブリーフィールドの真ん中に座っていた今まで見たことのない大きな赤い戦い。残念ながら、それはあなたに注意を向け、武器を武装させます。"
+"反乱軍艦隊があった場所の真ん中に到着すると、それが破壊されているのを発見します。これまで見たことのないような大きな赤い戦艦が破片のフィールドの真ん中に鎮座しています。残念ながら、それはあなたに注意を向け、武器を構えます。"
 
 #: src-en/data/events_special_aea_justicier.xml:188
 msgid ""
@@ -153,19 +153,20 @@ msgstr ""
 #: src-en/data/events_special_aea_justicier.xml:199
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_BATTLESHIP\"]/text"
-msgstr "船は、エネルギーパルスを検出すると、容器からのテレポーテーションシステムからのエネルギーパルスを検出します。あなたは船の遺跡を廃棄します。"
+msgstr ""
+"船は断片化して爆発します。その際、船からテレポートシステムからのものに似たエネルギーパルスを検出します。あなたは船の残骸をスクラップにします。"
 
 #: src-en/data/events_special_aea_justicier.xml:204
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_BATTLESHIP\"]/text"
 msgstr ""
-"最後の乗組員が死んだとき、あなたは船の不思議な船長を殺すことができた直前に、彼らがテレポートしたことを思い出します。あなたは船の遺跡を廃棄します。"
+"最後のクルーが死に絶えるとき、あなたは船の謎の船長を殺す直前に、彼らがテレポートして逃げたことを思い出します。あなたは船の残骸をスクラップにします。"
 
 #: src-en/data/events_special_aea_justicier.xml:217
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_TWO\"]/text"
 msgstr ""
-"もう一度、あなたはそれが破壊されたことを発見するために反乱軍の艦隊の真ん中に到着しました。デブリーフィールドの真ん中に座っていた今まで見たことのない大きな赤い戦い。残念ながら、それはあなたに注意を向け、武器を武装させます。"
+"再び反乱軍艦隊があった場所の真ん中に到着すると、それが破壊されているのを発見します。これまで見たことのないような大きな赤い戦艦が破片のフィールドの真ん中に鎮座しています。残念ながら、それはあなたに注意を向け、武器を構えます。"
 
 #: src-en/data/events_special_aea_justicier.xml:221
 msgid ""
@@ -176,22 +177,22 @@ msgstr ""
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/text"
 msgstr ""
-"船は断片と爆発し、奇妙な人が船に乗ってテレポートします。「反逆者、あなたは自分自身が非常に有能な戦闘員であることを証明しましたが、私の神は私が船なしでは満たすことができない血に飢えています。おそらく私はしばらくの間あなたの船に乗ることができますか？」"
+"船は断片化して爆発し、奇妙な人物があなたの船にテレポートしてきます。「レネゲイドよ、お前はかなりの戦闘能力を証明した。しかし、私の神は血に飢えている。それを船なしでは満たすことができない。しばらくの間、お前の船で活動させてもらえないだろうか？」"
 
 #: src-en/data/events_special_aea_justicier.xml:236
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/text"
-msgstr "船内を受け入れます。"
+msgstr "彼らを乗船させる。"
 
 #: src-en/data/events_special_aea_justicier.xml:238
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/event/text"
-msgstr "暗いジャスティエが乗組員に加わります。"
+msgstr "ダーク・ジャスティシエがクルーに加わります。"
 
 #: src-en/data/events_special_aea_justicier.xml:239
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/event/crewMember"
-msgstr "暗い暗い"
+msgstr "ダーク・ジャスティシエ"
 
 #: src-en/data/events_special_aea_justicier.xml:243
 msgid ""
@@ -201,28 +202,28 @@ msgstr ""
 #: src-en/data/events_special_aea_justicier.xml:245
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[2]/event/text"
-msgstr "彼らは再びテレポートして、そこであなたが確信していませんでした。"
+msgstr "彼らは再びテレポートして去り、どこへ行ったのかはわかりません。"
 
 #: src-en/data/events_special_aea_justicier.xml:250
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/text"
 msgstr ""
-"最後の乗組員が死んでいると、奇妙な人があなたの船に乗ってテレポートします。「反逆者、あなたは自分自身が非常に有能な戦闘員であることを証明しましたが、私の神は私が船なしでは満たすことができない血に飢えています。おそらく私はしばらくの間あなたの船に乗ることができますか？」"
+"最後のクルーが死に絶えるとき、奇妙な人物があなたの船にテレポートしてきます。「レネゲイドよ、お前はかなりの戦闘能力を証明した。しかし、私の神は血に飢えている。それを船なしでは満たすことができない。しばらくの間、お前の船で活動させてもらえないだろうか？」"
 
 #: src-en/data/events_special_aea_justicier.xml:255
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/text"
-msgstr "船内を受け入れます。"
+msgstr "彼らを乗船させる。"
 
 #: src-en/data/events_special_aea_justicier.xml:257
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/event/text"
-msgstr "暗いジャスティエが乗組員に加わります。"
+msgstr "ダーク・ジャスティシエがクルーに加わります。"
 
 #: src-en/data/events_special_aea_justicier.xml:258
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/event/crewMember"
-msgstr "暗い暗い"
+msgstr "ダーク・ジャスティシエ"
 
 #: src-en/data/events_special_aea_justicier.xml:262
 msgid ""
@@ -232,12 +233,12 @@ msgstr ""
 #: src-en/data/events_special_aea_justicier.xml:264
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[2]/event/text"
-msgstr "彼らは再びテレポートして、そこであなたが確信していませんでした。"
+msgstr "彼らは再びテレポートして去り、どこへ行ったのかはわかりません。"
 
 #: src-en/data/events_special_aea_justicier.xml:274
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/text"
-msgstr "破壊された反乱軍の艦隊の残骸はここにありますが、援軍が到着したときにそれを検索する時間はありません！"
+msgstr "破壊された反乱軍艦隊の残骸がここにありますが、増援が到着したため、それを捜索する時間はありません！"
 
 #: src-en/data/events_special_aea_justicier.xml:281
 msgid ""
@@ -247,7 +248,7 @@ msgstr ""
 #: src-en/data/events_special_aea_justicier.xml:285
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[@req=\"engines\"]/text"
-msgstr "（Adv。Engines）エリートから逃れようとします。"
+msgstr "（高度なエンジン）エリートから逃亡を試みる。"
 
 #: src-en/data/events_special_aea_justicier.xml:289
 msgid ""

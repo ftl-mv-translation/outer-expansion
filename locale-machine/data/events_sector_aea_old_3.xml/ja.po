@@ -8,7 +8,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_3.xml:18
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"START_BEACON_AEA_OLD_3\"]/text"
-msgstr "検疫から門の近くに到着しました。"
+msgstr "隔離区域からのゲートの近くに到着した。"
 
 #: src-en/data/events_sector_aea_old_3.xml:22
 msgid ""
@@ -23,16 +23,16 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_3.xml:35
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_3_EXIT\"]/beaconType/unvisitedTooltip"
-msgstr "これは、評議会の管理棟の場所です。"
+msgstr "ここは評議会管理棟の場所だ。"
 
 #: src-en/data/events_sector_aea_old_3.xml:36
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_3_EXIT\"]/beaconType/visitedTooltip"
-msgstr "これは、評議会の管理棟の場所です。"
+msgstr "ここは評議会管理棟の場所だ。"
 
 #: src-en/data/events_sector_aea_old_3.xml:38
 msgid "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_3_EXIT\"]/text"
-msgstr "出口からゲートの近くに到着しました。"
+msgstr "出口のゲートの近くに到着した。"
 
 #: src-en/data/events_sector_aea_old_3.xml:40
 msgid ""
@@ -47,14 +47,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_3.xml:100
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_SHOWDOWN_AUTO\"]/text"
-msgstr ""
-"この船には高度なAIシステムも装備されているようです。乗組員が死んだ今、それはコントロールしました！あなたは旗艦でも酸素レベルが低下しているのを感じます..."
+msgstr "この船も高度なAIシステムを装備しているようだ。クルーが死んだ今、それが制御を握った！フラグシップの酸素レベルも低下しているのを感じる…"
 
 #: src-en/data/events_sector_aea_old_3.xml:108
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_CASUAL\"]/text"
 msgstr ""
-"あなたはビーコンに到着し、あなたの道をブロックする巨大な容器を発見します。あなたのスポンサーは関係しているように見えますが、Lylmiksに伝えるのは困難です。「これはここにあるはずではありません。私は彼らに手を差し伸べようとします。」チャットのためにここにいないことに気付くのに時間がかかりません。"
+"ビーコンに到着すると、巨大な船があなたの進路を塞いでいるのを発見した。スポンサーは心配しているようだが、リルミックでは判断が難しい。「これはここにいるべきではない。連絡を取ってみよう。」彼らが話し合いのためにここにいるわけではないと気づくのに時間はかからなかった。"
 
 #: src-en/data/events_sector_aea_old_3.xml:111
 msgid ""
@@ -65,7 +64,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_CASUAL\"]/choice/event/text"
 msgstr ""
-"あなたは今ここまで来ませんでした。逃げたいならこの船を破壊する以外に何もすることはありません。Lylmikのスポンサーは、彼らを立ち上がらせようとすることを明らかにあきらめました。"
+"ここまで来て諦めるわけにはいかない。脱出したいなら、この船を破壊するしかない。リルミックのスポンサーは、彼らを退かせる試みを明らかに諦めた。"
 
 #: src-en/data/events_sector_aea_old_3.xml:116
 msgid ""
@@ -76,7 +75,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_NORMAL\"]/text"
 msgstr ""
-"あなたはビーコンに到着し、あなたの道をブロックする巨大な容器を発見します。あなたのスポンサーは関係しているように見えますが、Lylmiksに伝えるのは困難です。「これはここにあるはずではありません。私は彼らに手を差し伸べようとします。」チャットのためにここにいないことに気付くのに時間がかかりません。"
+"ビーコンに到着すると、巨大な船があなたの進路を塞いでいるのを発見した。スポンサーは心配しているようだが、リルミックでは判断が難しい。「これはここにいるべきではない。連絡を取ってみよう。」彼らが話し合いのためにここにいるわけではないと気づくのに時間はかからなかった。"
 
 #: src-en/data/events_sector_aea_old_3.xml:127
 msgid ""
@@ -87,7 +86,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_NORMAL\"]/choice/event/text"
 msgstr ""
-"あなたは今ここまで来ませんでした。逃げたいならこの船を破壊する以外に何もすることはありません。Lylmikのスポンサーは、彼らを立ち上がらせようとすることを明らかにあきらめました。"
+"ここまで来て諦めるわけにはいかない。脱出したいなら、この船を破壊するしかない。リルミックのスポンサーは、彼らを退かせる試みを明らかに諦めた。"
 
 #: src-en/data/events_sector_aea_old_3.xml:132
 msgid ""
@@ -98,7 +97,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_CHALLENGE\"]/text"
 msgstr ""
-"あなたはビーコンに到着し、あなたの道をブロックする巨大な容器を発見します。あなたのスポンサーは関係しているように見えますが、Lylmiksに伝えるのは困難です。「これはここにあるはずではありません。私は彼らに手を差し伸べようとします。」チャットのためにここにいないことに気付くのに時間がかかりません。"
+"ビーコンに到着すると、巨大な船があなたの進路を塞いでいるのを発見した。スポンサーは心配しているようだが、リルミックでは判断が難しい。「これはここにいるべきではない。連絡を取ってみよう。」彼らが話し合いのためにここにいるわけではないと気づくのに時間はかからなかった。"
 
 #: src-en/data/events_sector_aea_old_3.xml:143
 msgid ""
@@ -109,7 +108,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_CHALLENGE\"]/choice/event/text"
 msgstr ""
-"あなたは今ここまで来ませんでした。逃げたいならこの船を破壊する以外に何もすることはありません。Lylmikのスポンサーは、彼らを立ち上がらせようとすることを明らかにあきらめました。"
+"ここまで来て諦めるわけにはいかない。脱出したいなら、この船を破壊するしかない。リルミックのスポンサーは、彼らを退かせる試みを明らかに諦めた。"
 
 #: src-en/data/events_sector_aea_old_3.xml:148
 msgid ""
@@ -120,7 +119,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_EXTREME\"]/text"
 msgstr ""
-"あなたはビーコンに到着し、あなたの道をブロックする巨大な容器を発見します。あなたのスポンサーは関係しているように見えますが、Lylmiksに伝えるのは困難です。「これはここにあるはずではありません。私は彼らに手を差し伸べようとします。」チャットのためにここにいないことに気付くのに時間がかかりません。"
+"ビーコンに到着すると、巨大な船があなたの進路を塞いでいるのを発見した。スポンサーは心配しているようだが、リルミックでは判断が難しい。「これはここにいるべきではない。連絡を取ってみよう。」彼らが話し合いのためにここにいるわけではないと気づくのに時間はかからなかった。"
 
 #: src-en/data/events_sector_aea_old_3.xml:159
 msgid ""
@@ -131,7 +130,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_3.xml$/dummyroot/FTL/event[@name=\"AEA_OLD_SHOWDOWN_EXTREME\"]/choice/event/text"
 msgstr ""
-"あなたは今ここまで来ませんでした。逃げたいならこの船を破壊する以外に何もすることはありません。Lylmikのスポンサーは、彼らを立ち上がらせようとすることを明らかにあきらめました。"
+"ここまで来て諦めるわけにはいかない。脱出したいなら、この船を破壊するしかない。リルミックのスポンサーは、彼らを退かせる試みを明らかに諦めた。"
 
 #: src-en/data/events_sector_aea_old_3.xml:164
 msgid ""
@@ -141,7 +140,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_3.xml:177
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_SHOWDOWN_WIN\"]/text"
-msgstr "旗艦が爆発すると、あなたは勝利の歓喜で見ます。あなたはこの戦いに勝ちました！"
+msgstr "フラグシップが爆発するのを、勝利の歓喜の中で見守る。この戦いに勝ったのだ！"
 
 #: src-en/data/events_sector_aea_old_3.xml:182
 msgid ""
@@ -151,26 +150,26 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_3.xml:195
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/beaconType/unvisitedTooltip"
-msgstr "これは大きな構造の場所です。"
+msgstr "ここは大きな構造物の場所だ。"
 
 #: src-en/data/events_sector_aea_old_3.xml:196
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/beaconType/visitedTooltip"
-msgstr "これは大きな構造の場所です。"
+msgstr "ここは大きな構造物の場所だ。"
 
 #: src-en/data/events_sector_aea_old_3.xml:198
 msgid "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/text"
-msgstr "あなたはついにゲートに着きました。マルチバースに戻って旗艦を殺すことができるのはほんの少し離れています。"
+msgstr "ついにゲートにたどり着いた。マルチバースに戻り、フラグシップを倒すまであとわずかだ。"
 
 #: src-en/data/events_sector_aea_old_3.xml:202
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/choice[1]/text"
-msgstr "ゲートに入ります。"
+msgstr "ゲートに入る。"
 
 #: src-en/data/events_sector_aea_old_3.xml:204
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/choice[1]/event/text"
-msgstr "あなたはゲートを通してあなたの船を操縦します、それは誰もがこの場所についてあなたを信じることは決してないでしょう。"
+msgstr "船を操縦してゲートを通り抜ける。この場所について誰かが信じてくれることはまずないだろう。"
 
 #: src-en/data/events_sector_aea_old_3.xml:206
 msgid ""
@@ -180,12 +179,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_3.xml:215
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY\"]/choice[@req=\"LIST_CREW_PARAGON_UNIQUE\"]/text"
-msgstr "乗組員と話してください。"
+msgstr "クルーと話す。"
 
 #: src-en/data/events_sector_aea_old_3.xml:220
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_CREW\"]/text"
-msgstr "立っている乗組員を見回して、あなたの評決を待っています。"
+msgstr "クルーを見渡すと、彼らは立って、あなたの評決を待っている。"
 
 #: src-en/data/events_sector_aea_old_3.xml:224
 msgid "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_VICTORY_\"]/text"
@@ -199,7 +198,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_3.xml:234
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_ENDING_START\"]/text"
-msgstr "ちょうど間に合うようにノード17に到着しました。反乱軍の旗艦は破損していますが、連邦基地を引き継ぐこともできます。"
+msgstr "ノード17にちょうど間に合って到着した。反乱軍のフラグシップは損傷しているが、連邦基地を乗っ取ることができる寸前だ。"
 
 #: src-en/data/events_sector_aea_old_3.xml:237
 msgid ""
@@ -209,9 +208,9 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_3.xml:246
 msgid ""
 "data/events_sector_aea_old_3.xml$//ship[@name=\"AEA_OLD_ENDBOSS\"]/finalBoss/@text"
-msgstr "これはあなたが望んでいた勝利ではありませんが、それでも1つです。"
+msgstr "これは望んでいた勝利ではないが、それでも一つの勝利だ。"
 
 #: src-en/data/events_sector_aea_old_3.xml:249
 msgid ""
 "data/events_sector_aea_old_3.xml$//event[@name=\"AEA_OLD_ENDBOSS_WIN\"]/win/@text"
-msgstr "旗艦に対するあなたの勝利は、あなたのリルミクからの脱出によって影を落とされました"
+msgstr "フラグシップに対するあなたの勝利は、リルミックからの脱出によって影が薄くなった"

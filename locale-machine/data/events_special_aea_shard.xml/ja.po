@@ -9,19 +9,19 @@ msgstr ""
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_START_AEA_SHARD\"]/text[1]"
 msgstr ""
-"あなたはシャードに焦げたスペースに到着しました。連邦の同盟国として、友達を作るのに問題はありません。これらの海賊は通常フレンドリーで、反乱の真ん中に入らないようにしてください。"
+"シャードフォージ空間に到着しました。連邦の同盟国として、友人を作るのに苦労はしないでしょう。これらの海賊は通常友好的ですが、反乱の真っ只中に巻き込まれないように注意してください。"
 
 #: src-en/data/events_special_aea_shard.xml:16
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_START_AEA_SHARD\"]/text[2]"
 msgstr ""
-"あなたはシャードに焦げたスペースに到着しました。連邦の同盟国として、友達を作るのに問題はありません。これらの海賊は通常フレンドリーで、反乱の真ん中に入らないようにしてください。"
+"シャードフォージ空間に到着しました。連邦の同盟国として、友人を作るのに苦労はしないでしょう。これらの海賊は通常友好的ですが、反乱の真っ只中に巻き込まれないように注意してください。"
 
 #: src-en/data/events_special_aea_shard.xml:17
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_START_AEA_SHARD\"]/text[3]"
 msgstr ""
-"あなたはシャードに焦げたスペースに到着しました。連邦の同盟国として、友達を作るのに問題はありません。これらの海賊は通常フレンドリーで、反乱の真ん中に入らないようにしてください。"
+"シャードフォージ空間に到着しました。連邦の同盟国として、友人を作るのに苦労はしないでしょう。これらの海賊は通常友好的ですが、反乱の真っ只中に巻き込まれないように注意してください。"
 
 #: src-en/data/events_special_aea_shard.xml:30
 msgid ""
@@ -35,7 +35,7 @@ msgstr ""
 
 #: src-en/data/events_special_aea_shard.xml:52
 msgid "data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD\"]/text"
-msgstr "反乱との最近の戦争により、シャードフォードはこのビーコンに警備員を配備しましたが、彼らはあなたに興味がないようです。"
+msgstr "最近の反乱軍との戦争で、シャードフォージはこのビーコンに警備隊を配置しましたが、彼らはあなたに興味がないようです。"
 
 #: src-en/data/events_special_aea_shard.xml:54
 msgid ""
@@ -75,7 +75,7 @@ msgstr ""
 #: src-en/data/events_special_aea_shard.xml:85
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_GUARD_AEA_SHARD_CONTACT\"]/text"
-msgstr "画面に大きなクリスタルが現れ、肩に独特の白いマークを見ることができ、シャードが焦げているメンバーであることを示しています。"
+msgstr "画面に大きなクリスタルが現れます。肩にシャードフォージの一員であることを示す特徴的な白いマークが見えます。"
 
 #: src-en/data/events_special_aea_shard.xml:90
 msgid ""
@@ -90,7 +90,7 @@ msgstr ""
 #: src-en/data/events_special_aea_shard.xml:98
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_INTERACT\"]/choice[@req=\"weapons\"]/text"
-msgstr "（Upg。Weapons）警備員を脅かす。"
+msgstr "（アップグレード兵器）警備を脅す。"
 
 #: src-en/data/events_special_aea_shard.xml:102
 msgid ""
@@ -115,23 +115,22 @@ msgstr ""
 #: src-en/data/events_special_aea_shard.xml:119
 msgid ""
 "data/events_special_aea_shard.xml$//eventList[@name=\"GUARD_AEA_SHARD_REQUEST\"]/event[1]/text"
-msgstr "「新しい人を発見するのは非常に興味深いことですが、物資をspareしまないのではないかと心配しています。」"
+msgstr "「新しい人々を発見するのは非常に興味深いですが、残念ながら物資を分け与えることはできません」"
 
 #: src-en/data/events_special_aea_shard.xml:122
 msgid ""
 "data/events_special_aea_shard.xml$//eventList[@name=\"GUARD_AEA_SHARD_REQUEST\"]/event[2]/text"
-msgstr "「あなたはいくつかの物資を望んでいますか？最も確かに！それは私が新しい友達を作る機会を得ることはあまりありません！」"
+msgstr "「物資が欲しいのですか？もちろんですとも！新しい友人を作る機会は滅多にありませんからね！」"
 
 #: src-en/data/events_special_aea_shard.xml:128
 msgid ""
 "data/events_special_aea_shard.xml$//eventList[@name=\"GUARD_AEA_SHARD_DEMAND\"]/event/text"
-msgstr ""
-"「あなたはそのような失礼な要求で私たちを侮辱します、あなたはあなたが連邦にいることを幸運です。」クリスタルはあなたと接触しますが、そうでなければ受動的なままです。"
+msgstr "「そのような失礼な要求で我々を侮辱するとは、連邦と一緒で幸運でしたな」クリスタルはあなたとの連絡を絶ちますが、それ以外は受動的なままです。"
 
 #: src-en/data/events_special_aea_shard.xml:133
 msgid ""
 "data/events_special_aea_shard.xml$//eventList[@name=\"GUARD_AEA_SHARD_THREATEN\"]/event/text"
-msgstr "結晶はあなたの脅威にうまくいきません。従うのではなく、彼らは銃を上げて攻撃します。"
+msgstr "クリスタルはあなたの脅迫を快く思いません。従う代わりに、彼らは銃を構えて攻撃してきます。"
 
 #: src-en/data/events_special_aea_shard.xml:136
 msgid ""
@@ -142,7 +141,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_DESTROY\"]/text"
 msgstr ""
-"あなたはシャードに焦げた警備員を倒しました。彼らの貨物にあったかもしれないものは何でも確実に破壊されましたが、少なくとも船からいくつかの物資を救うことができます。"
+"シャードフォージの警備隊を打ち負かしました。積荷にあったものは間違いなく破壊されてしまいましたが、少なくとも船からいくつかの物資を回収できます。"
 
 #: src-en/data/events_special_aea_shard.xml:152
 msgid ""
@@ -153,7 +152,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_DEADCREW\"]/text"
 msgstr ""
-"あなたはシャードに焦げた警備員を倒しました。乗組員があなたを止めるために乗組員がいなければ、彼らの貨物を調査することができます。船に戻す武器を見つけ、船体を廃棄するために移動します。"
+"シャードフォージの警備隊を打ち負かしました。船内にあなたを止めるクルーはいないので、積荷を調査できます。船に持ち帰る武器を見つけ、船体をスクラップにします。"
 
 #: src-en/data/events_special_aea_shard.xml:161
 msgid ""
@@ -164,7 +163,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_FOLLOWUP\"]/text"
 msgstr ""
-"シャードに焦げた警備員を殺すことで、あなたは間違いなく彼らがあなたを追跡するために補強材を派遣させた。セクターを探索するときのステップをご覧ください。"
+"シャードフォージの警備隊を殺したことで、彼らがあなたを追跡するために増援を派遣したことは間違いありません。セクターを探索する際は足元に注意してください。"
 
 #: src-en/data/events_special_aea_shard.xml:183
 msgid ""
@@ -195,7 +194,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"REINFORCEMENTS_AEA_SHARD\"]/text"
 msgstr ""
-"「部外者、私たちはあなたが野barであることを知っていましたが、ここに移住したとき、私たちはあなたが私たちのセクターを侵入し、そのような暴力的な行為で私たちの道を脅かすとは思いもしませんでした！"
+"「外部の者よ、お前たちが野蛮であることは知っていたが、我々がここに移住したとき、お前たちが我々のセクターに侵入し、そのような暴力的な行為で我々のやり方を脅かすとは思いもしなかった！お前が冷酷に破壊した警備船に乗っていた、倒れた兄弟たちの仇を討つ！」"
 
 #: src-en/data/events_special_aea_shard.xml:203
 msgid ""
@@ -221,7 +220,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHARD\"]/text"
 msgstr ""
-"「部外者、私たちはあなたが野barであることを知っていましたが、ここに移住したとき、私たちはあなたが私たちのセクターを侵入し、そのような暴力的な行為で私たちの道を脅かすとは思いもしませんでした！"
+"「外部の者よ、お前たちが野蛮であることは知っていたが、我々がここに移住したとき、お前たちが我々のセクターに侵入し、そのような暴力的な行為で我々のやり方を脅かすとは思いもしなかった！お前が冷酷に破壊した警備船に乗っていた、倒れた兄弟たちの仇を討つ！」"
 
 #: src-en/data/events_special_aea_shard.xml:220
 msgid ""
@@ -232,43 +231,44 @@ msgstr ""
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_OUTPOST_AEA_SHARD\"]/text[1]"
 msgstr ""
-"「エイリアン、どれほど好奇心が強い。イカシンは、どのような神秘的な物語を伝えることができるかを知っている！」クリスタルあくび。「または、それは私が考えていたことです。残念ながら、あなたは皆かなり退屈なようです。それは、退屈かどうかにかかわらず、私は連邦に義務を誓約し、私は彼らを支持するつもりです。あなたは何が必要ですか？」"
+"「エイリアンか、興味深いな。イカサインは君たちがどんな神秘的な物語を語れるか知っているだろう！」クリスタルはあくびをします。「あるいは、そう思っていた時期もあった。残念ながら、君たちは皆、かなり退屈そうだ。とはいえ、退屈かどうかに関わらず、私は連邦に忠誠を誓っており、それを守るつもりだ。何が必要だ？」"
 
 #: src-en/data/events_special_aea_shard.xml:268
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_OUTPOST_AEA_SHARD\"]/text[2]"
 msgstr ""
-"近くのクリスタルステーションは、すべての武器をあなたの上に閉じ込め、発砲を脅かしています。「すぐに立ち止まってください！これは帝国の空間です！迷子になります。"
+"近くのクリスタルステーションがすべての武器をあなたに向け、発砲すると脅します。「そこまでだ！ここは帝国空間だ！立ち去れ、さもなくば... "
+"おお、クリプトよ、お前はレネゲイドか！すごいな！申し訳ない。自由にドッキングしてくれ。クルーに必要な資源を提供するよう手配する」"
 
 #: src-en/data/events_special_aea_shard.xml:285
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[@req=\"challenge_level\"]/text"
-msgstr "無料の修理をリクエストします。[7 $]"
+msgstr "無料の修理を要請する。[7$]"
 
 #: src-en/data/events_special_aea_shard.xml:291
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[2]/text"
-msgstr "燃料をリクエストします。"
+msgstr "燃料を要請する。"
 
 #: src-en/data/events_special_aea_shard.xml:299
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[3]/text"
-msgstr "弾薬を要求します。"
+msgstr "弾薬を要請する。"
 
 #: src-en/data/events_special_aea_shard.xml:307
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[4]/text"
-msgstr "DronePartsをリクエストします。"
+msgstr "ドローン部品を要請する。"
 
 #: src-en/data/events_special_aea_shard.xml:315
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[5]/text"
-msgstr "前post基地を攻撃します！"
+msgstr "前哨基地を攻撃する！"
 
 #: src-en/data/events_special_aea_shard.xml:317
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[5]/event/text"
-msgstr "武器を武装して駅に携わる！"
+msgstr "武器を構え、ステーションと交戦する！"
 
 #: src-en/data/events_special_aea_shard.xml:320
 msgid ""
@@ -299,7 +299,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/text"
 msgstr ""
-"このビーコンには、シャードが焦げたトランスポートがホストされています。船が特別な技術を運んでいる可能性が最も高いことは安全です。あなたがその乗組員を殺すことができれば、彼らの貨物はあなたのものになります。"
+"このビーコンにはシャードフォージの輸送船がいます。その船は特殊な技術を運んでいる可能性が高いでしょう。そのクルーを殺すことができれば、積荷はあなたのものです。"
 
 #: src-en/data/events_special_aea_shard.xml:348
 msgid ""
@@ -324,7 +324,7 @@ msgstr ""
 #: src-en/data/events_special_aea_shard.xml:361
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[2]/event/text"
-msgstr "船は武器の範囲外にとどまり、最終的には跳ね上がります。"
+msgstr "船は兵器の射程外に留まり、やがてジャンプして去っていく。"
 
 #: src-en/data/events_special_aea_shard.xml:363
 msgid ""
@@ -344,50 +344,50 @@ msgstr ""
 #: src-en/data/events_special_aea_shard.xml:393
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHARD\"]/text[1]"
-msgstr "それはすべての価値があるため、船を保護するクリスタルアーマーはあなたの武器から火に耐えることができませんでした。"
+msgstr "価値があるとはいえ、彼らの船を守るクリスタル装甲はあなたの武器の砲火に耐えることができませんでした。"
 
 #: src-en/data/events_special_aea_shard.xml:394
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHARD\"]/text[2]"
 msgstr ""
-"驚くべきことに、クリスタル船の遺跡は、小さなクリスタル船と簡単に間違えられる可能性があります。あなたが実際に戦うためにもっと敵を持っていないことをうれしく思います、あなたはあなたの最新の犠牲者を廃棄します。"
+"驚くべきことに、クリスタル船の残骸は、より小さなクリスタル船と簡単に見間違えられます。実際には戦うべき敵が増えなくてよかったと思いながら、最新の犠牲者をスクラップにします。"
 
 #: src-en/data/events_special_aea_shard.xml:395
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHARD\"]/text[3]"
 msgstr ""
-"粉砕された鎧からの数枚の破片はほとんどあなたの船に当たりましたが、幸運なことに、あなたはちょうど間に合うように邪魔にならないようにします。あなたはあなたができることをスクラップします。"
+"粉々になった装甲の破片がいくつかあなたの船に当たりそうになりましたが、幸運にもちょうど間に合うように操縦して避けました。できる限りのものをスクラップにします。"
 
 #: src-en/data/events_special_aea_shard.xml:403
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHARD\"]/text[1]"
-msgstr "すべての派手な能力があるため、クリスタルは他のクルーと同じくらい簡単に殺すことができます。あなたは船をスクラップします。"
+msgstr "彼らの派手な能力にもかかわらず、クリスタルは他の誰とも同じくらいあなたのクルーにとって簡単な獲物です。船をスクラップにします。"
 
 #: src-en/data/events_special_aea_shard.xml:404
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHARD\"]/text[2]"
-msgstr "あなたは、なぜあなたがそのような簡単に彼らを殺すことができるとき、なぜロックマンが神として結晶を崇拝したのだろうと思います。"
+msgstr "なぜロックマンが、こんなに簡単に殺せるクリスタルを神として崇拝していたのか不思議に思います。"
 
 #: src-en/data/events_special_aea_shard.xml:405
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHARD\"]/text[3]"
-msgstr "クリスタル船は正常に中和されています。あなたは遺体を廃棄します。"
+msgstr "クリスタル船は無事に無力化されました。残骸をスクラップにします。"
 
 #: src-en/data/events_special_aea_shard.xml:412
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_ESCAPE_AEA_SHARD\"]/text"
-msgstr "Shard Forged Shipは、この戦いを終了するために滞在することを再考したようです。彼らは逃げようとしています！"
+msgstr "シャードフォージの船は、この戦いを終えるために留まることを再考したようです。逃げようとしています！"
 
 #: src-en/data/events_special_aea_shard.xml:425
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_SHARD\"]/text"
-msgstr "シャード焦げた船が飛び去り、ビーコンにあなたを置き去りにします。"
+msgstr "シャードフォージの船はジャンプして去り、ビーコンにあなたを置き去りにします。"
 
 #: src-en/data/events_special_aea_shard.xml:428
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"GOTAWAY_AEA_SHARD_REMAINS\"]/text"
 msgstr ""
-"シャード焦げた船が飛び降ります。最初は失望していますが、スクラップの問題の一部が戦いから残されていることに気付きます。それほどではありませんが、失敗の打撃を和らげるのに役立ちます。"
+"シャードフォージの船はジャンプして去ります。最初はがっかりしますが、その後、戦いでスクラップの一部が残されていることに気づきます。大したものではありませんが、失敗の打撃を和らげるのに役立ちます。"
 
 #: src-en/data/events_special_aea_shard.xml:435
 msgid ""
@@ -397,42 +397,43 @@ msgstr ""
 #: src-en/data/events_special_aea_shard.xml:444
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[1]"
-msgstr "「私たちは、エイリアンを譲ります。私たちはあなたと戦って死ぬことを望んでいません。」"
+msgstr "「我々は降伏する、エイリアンよ。お前たちと戦って死にたいとは思わない」"
 
 #: src-en/data/events_special_aea_shard.xml:445
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[2]"
-msgstr "「あなたは私たちを打ち負かしました！私はもうあなたの外国人を過小評価しません。どうぞ、平和に去りましょう。」"
+msgstr "「我々を打ち負かしたか！もうお前たち外国人を過小評価はしない。どうか、平和に去らせてくれ」"
 
 #: src-en/data/events_special_aea_shard.xml:446
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[3]"
-msgstr "それらは、降伏のために普遍的な信号を送信しているようです。彼らを手放しますか？"
+msgstr "彼らは降伏の普遍的な信号を送信しているようです。彼らを逃しますか？"
 
 #: src-en/data/events_special_aea_shard.xml:447
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[4]"
-msgstr "彼らはあなたにメッセージを送っています。"
+msgstr ""
+"彼らはあなたにメッセージを送ります。「今、誤解があったことがわかりました。これ以上の流血は必要ありません。我々の軽率さを許していただけますか？」"
 
 #: src-en/data/events_special_aea_shard.xml:448
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[5]"
-msgstr "「私たちはあなたを打ち負かすことはできません。私たちは降伏します。確かにあなたがどこから来たとしても慈悲があります。」"
+msgstr "「我々はあなたに勝てない。降伏する。きっとあなたの故郷には慈悲があるだろう」"
 
 #: src-en/data/events_special_aea_shard.xml:451
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[6]"
-msgstr "クリスタル船は発砲を止めました。彼らは降伏しようとしているようです。"
+msgstr "クリスタル船は発砲をやめました。彼らは降伏しようとしているようです。"
 
 #: src-en/data/events_special_aea_shard.xml:452
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[7]"
-msgstr "「キャプテン、私たちの違いはいくつかのスクラップで解決できると確信しています。"
+msgstr "「キャプテン、我々の違いはスクラップで解決できるはずだ、そうだろう？ここではそうやって物事が進むのだと理解した」"
 
 #: src-en/data/events_special_aea_shard.xml:453
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[8]"
-msgstr "「私がこれを嫌うのと同じくらい、私たちは降伏する必要がないふりをする条件ではありません。あなたは私たちに生きることを許しますか？」"
+msgstr "「これがどれほど嫌であろうと、我々は降伏する必要がないふりをする余裕はない。我々を生かしてくれるか？」"
 
 #: src-en/data/events_special_aea_shard.xml:462
 msgid ""

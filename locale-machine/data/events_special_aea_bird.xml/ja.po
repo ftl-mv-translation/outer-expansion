@@ -8,15 +8,15 @@ msgstr ""
 #: src-en/data/events_special_aea_bird.xml:15
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[1]"
 msgstr ""
-"GIスペースに到着しました。GIは連邦の一部ではないかもしれませんが、彼らはまだ緊密な同盟国であり、反乱に対してしっかりと反対しています。反乱はまだここに忍び込むのに苦労します。"
+"Gi空間に到着しました。Giは連邦の一員ではないかもしれませんが、依然として親密な同盟国であり、反乱に断固として反対しています。反乱軍はここに忍び込むのに苦労するでしょう。"
 
 #: src-en/data/events_special_aea_bird.xml:16
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[2]"
-msgstr "GIスペースに到着しました。ここにはたくさんの友好的な顔がありますが、反乱軍のスカムも侵略することがたくさんあります。"
+msgstr "Gi空間に到着しました。ここにはたくさんの友好的な顔ぶれがいますが、侵略してくる反乱軍のクズもたくさんいます。"
 
 #: src-en/data/events_special_aea_bird.xml:17
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[3]"
-msgstr "GIスペースに到着しました。これは同盟国でいっぱいのセクターかもしれませんが、多くの反逆者を引き付けることになります。"
+msgstr "Gi空間に到着しました。ここは同盟国でいっぱいのセクターかもしれませんが、たくさんの反乱軍も引き寄せるに違いありません。"
 
 #: src-en/data/events_special_aea_bird.xml:31
 msgid ""
@@ -33,12 +33,12 @@ msgstr ""
 #: src-en/data/events_special_aea_bird.xml:41
 msgid "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/text"
 msgstr ""
-"このセクターは、連邦船とGI船の統合された警備員によって保護されています。いくつかの支援船はバックグラウンドに残り、地区の他のフレンドリーな船に援助を提供します。"
+"このセクターは連邦とGiの船による合同警備隊によって守られています。背景にはいくつかの支援船が滞在しており、地区内の他の友好的な船に援助を提供しています。"
 
 #: src-en/data/events_special_aea_bird.xml:44
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[1]/text"
-msgstr "サポートをリクエストします。"
+msgstr "支援を要請する。"
 
 #: src-en/data/events_special_aea_bird.xml:48
 msgid ""
@@ -48,8 +48,7 @@ msgstr ""
 #: src-en/data/events_special_aea_bird.xml:50
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/choice[2]/event/text"
-msgstr ""
-"警備員のキャプテンは、あなたが彼らをオンにしたことにショックを受けました。「あなたは反逆者のスパイでなければなりません！私たちはこれを軽く服用しません！」"
+msgstr "警備隊の船長は、あなたが彼らに背を向けたことにショックを受けています。「お前は反乱軍のスパイに違いない！我々はこれを軽くは見ないぞ！」"
 
 #: src-en/data/events_special_aea_bird.xml:53
 msgid ""
@@ -79,8 +78,7 @@ msgstr ""
 #: src-en/data/events_special_aea_bird.xml:75
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/text"
-msgstr ""
-"ここに何かが外れているようです。通常、GIは確かにあなたのような船で目を打つことはありませんが、今では警備船で疑わしいおしゃべりを見つけます。"
+msgstr "何かがおかしいです。通常、Giはあなたのような船には目もくれないはずですが、今、あなたは警備船で不審な会話を耳にします。"
 
 #: src-en/data/events_special_aea_bird.xml:77
 msgid ""
@@ -91,7 +89,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/choice/event/text"
 msgstr ""
-"あなたの実績があなたに追いついたようです。警備員の乗組員は、あなたが犯してきた犯罪を十分に聞いており、彼らはあなたをセクターに入れるつもりはありません！"
+"あなたの過去の行いが追いついてきたようです。警備隊のクルーはあなたが犯してきた犯罪について十分に聞いており、あなたをセクターに入れるつもりはありません！"
 
 #: src-en/data/events_special_aea_bird.xml:82
 msgid ""
@@ -101,7 +99,7 @@ msgstr ""
 #: src-en/data/events_special_aea_bird.xml:90
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/text"
-msgstr "警備員は、あなたの命令を待っている近くの支援船の1つと、あなたを安全なラインに置きます。"
+msgstr "警備隊は、あなたの命令を待っている近くの支援船の一隻と、あなたを安全な回線につなぎます。"
 
 #: src-en/data/events_special_aea_bird.xml:92
 msgid ""
@@ -111,7 +109,7 @@ msgstr "修理。"
 #: src-en/data/events_special_aea_bird.xml:94
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[1]/event/text"
-msgstr "修理するためにいくつかの修理ドローンが派遣されます。"
+msgstr "いくつかの修理ドローンがあなたを修理するために派遣されます。"
 
 #: src-en/data/events_special_aea_bird.xml:99
 msgid ""
@@ -121,7 +119,7 @@ msgstr "燃料。"
 #: src-en/data/events_special_aea_bird.xml:101
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[2]/event/text"
-msgstr "燃料補給ドローンは、船を燃料補給するために派遣されます。"
+msgstr "給油ドローンがあなたの船に給油するために派遣されます。"
 
 #: src-en/data/events_special_aea_bird.xml:108
 msgid ""
@@ -131,23 +129,22 @@ msgstr "弾薬。"
 #: src-en/data/events_special_aea_bird.xml:110
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[3]/event/text"
-msgstr "補給ドローンが派遣され、船が補給されます。"
+msgstr "補給ドローンがあなたの船に補給するために派遣されます。"
 
 #: src-en/data/events_special_aea_bird.xml:117
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[4]/text"
-msgstr "ドローンパーツ。"
+msgstr "ドローン部品。"
 
 #: src-en/data/events_special_aea_bird.xml:119
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_SUPPORT\"]/choice[4]/event/text"
-msgstr "補給ドローンが派遣され、船が補給されます。"
+msgstr "補給ドローンがあなたの船に補給するために派遣されます。"
 
 #: src-en/data/events_special_aea_bird.xml:134
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DESTROY\"]/text"
-msgstr ""
-"あなたはGIガードを倒しました。彼らの貨物にあったかもしれないものは何でも確実に破壊されましたが、少なくとも船からいくつかの物資を救うことができます。"
+msgstr "Giの警備隊を打ち負かしました。積荷にあったものは間違いなく破壊されてしまいましたが、少なくとも船からいくつかの物資を回収できます。"
 
 #: src-en/data/events_special_aea_bird.xml:137
 msgid ""
@@ -158,7 +155,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DEADCREW\"]/text"
 msgstr ""
-"あなたはGIガードを倒しました。乗組員があなたを止めるために乗組員がいなければ、彼らの貨物を調査することができます。船に戻す武器を見つけ、船体を廃棄するために移動します。"
+"Giの警備隊を打ち負かしました。船内にあなたを止めるクルーはいないので、積荷を調査できます。船に持ち帰る武器を見つけ、船体をスクラップにします。"
 
 #: src-en/data/events_special_aea_bird.xml:146
 msgid ""
@@ -168,7 +165,8 @@ msgstr ""
 #: src-en/data/events_special_aea_bird.xml:159
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_FOLLOWUP\"]/text"
-msgstr "GIガードを殺すことで、あなたは間違いなく彼らがあなたを追跡するために補強材を派遣させた。セクターを探索するときのステップをご覧ください。"
+msgstr ""
+"Giの警備隊を殺したことで、彼らがあなたを追跡するために増援を派遣したことは間違いありません。セクターを探索する際は足元に注意してください。"
 
 #: src-en/data/events_special_aea_bird.xml:162
 msgid ""
@@ -199,7 +197,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/text"
 msgstr ""
-"あなたは珍しいGIエリートを見ていますが、彼らはあなたに会えて喜んでいるようには見えません。船は攻撃に移動しますが、これが攻撃のためにあなたを追い詰めるために警備員から送られた船の1つであることに気付くのにそれほど時間はかかりません。"
+"珍しいGiのエリートを見かけますが、彼らはあなたに会えて嬉しくないようです。船は攻撃態勢に入り、これが攻撃したあなたを狩るために警備隊から送られた船の一つであることに気づくのに時間はかかりませんでした。"
 
 #: src-en/data/events_special_aea_bird.xml:182
 msgid ""
@@ -209,15 +207,15 @@ msgstr ""
 #: src-en/data/events_special_aea_bird.xml:199
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[1]"
 msgstr ""
-"GIスペースに到着しました。GIは連邦の一部ではないかもしれませんが、彼らはまだ緊密な同盟国であり、反乱に対してしっかりと反対しています。反乱はまだここに忍び込むのに苦労します。"
+"Gi空間に到着しました。Giは連邦の一員ではないかもしれませんが、依然として親密な同盟国であり、反乱に断固として反対しています。反乱軍はここに忍び込むのに苦労するでしょう。"
 
 #: src-en/data/events_special_aea_bird.xml:200
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[2]"
-msgstr "GIスペースに到着しました。ここにはたくさんの友好的な顔がありますが、反乱軍のスカムも侵略することがたくさんあります。"
+msgstr "Gi空間に到着しました。ここにはたくさんの友好的な顔ぶれがいますが、侵略してくる反乱軍のクズもたくさんいます。"
 
 #: src-en/data/events_special_aea_bird.xml:201
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[3]"
-msgstr "GIスペースに到着しました。これは同盟国でいっぱいのセクターかもしれませんが、多くの反逆者を引き付けることになります。"
+msgstr "Gi空間に到着しました。ここは同盟国でいっぱいのセクターかもしれませんが、たくさんの反乱軍も引き寄せるに違いありません。"
 
 #: src-en/data/events_special_aea_bird.xml:215
 msgid ""
@@ -255,7 +253,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/text"
 msgstr ""
-"このビーコンはGIトランスポートをホストしています。船が特別な技術を運んでいる可能性が最も高いことは安全です。あなたがその乗組員を殺すことができれば、彼らの貨物はあなたのものになります。"
+"このビーコンにはGiの輸送船がいます。その船は特殊な技術を運んでいる可能性が高いでしょう。そのクルーを殺すことができれば、積荷はあなたのものです。"
 
 #: src-en/data/events_special_aea_bird.xml:289
 msgid ""
@@ -275,13 +273,13 @@ msgstr ""
 #: src-en/data/events_special_aea_bird.xml:300
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/text"
-msgstr "（GIまたはFederation Elite +良い評判）交通機関に話しかけます。"
+msgstr "（Giまたは連邦のエリート + 良い評判）輸送船と話す。"
 
 #: src-en/data/events_special_aea_bird.xml:302
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/event/text"
 msgstr ""
-"あなたの乗組員は、あなたの使命の重要性を説明し、交通機関の船長に話しかけます。輸送の船長は理解しているようですが、運んでいる貨物は、同じミッションに不可欠です。あなたが補償で支払うことをいとわないなら、彼らは例外を作ることをいとわない。"
+"あなたのクルーは輸送船の船長と話し、あなたの任務の重要性を説明します。輸送船の船長は理解しているようですが、彼らが運んでいる積荷もその任務にとって不可欠であると述べています。もしあなたが補償金を支払う意思があるなら、彼らは例外を認めるつもりです。"
 
 #: src-en/data/events_special_aea_bird.xml:304
 msgid ""
@@ -361,57 +359,59 @@ msgstr ""
 #: src-en/data/events_special_aea_bird.xml:382
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[1]"
-msgstr "「メイデイ！メイデイ！メイ - 」連邦船長の助けに対する絶望的な叫びは、船の破壊によって突然沈黙します。"
+msgstr "「メーデー！メーデー！メー...」連邦の船長の必死の助けを求める叫びは、船の破壊によって突然静かになります。"
 
 #: src-en/data/events_special_aea_bird.xml:383
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[2]"
-msgstr "将来の船がこの難破船に出くわすと、人々はこれが反乱軍や海賊の仕事であると仮定するでしょう。しかし、トレイルは最終的にあなたにつながります。"
+msgstr "将来の船がこの残骸に遭遇したとき、人々はこれが反乱軍か海賊の仕業だと考えるでしょう。しかし、その痕跡は最終的にあなたへと繋がります。"
 
 #: src-en/data/events_special_aea_bird.xml:384
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[3]"
 msgstr ""
-"連邦の真新しいモデルが非常に速く派遣されたのを見て、それは残念です。連盟が更新されたデザインの製造を推進したとき、彼らは反乱軍と矛盾していました...しかし、必ずしも彼ら自身の雇われた反逆者ではありません。"
+"連邦の最新モデルがこんなに早く撃破されるのを見るのは残念です。連邦が最新デザインの製造を推し進めたとき、彼らは反乱軍との紛争を念頭に置いていました..."
+" しかし、必ずしも自分たちが雇ったレネゲイドとの紛争ではありませんでした。"
 
 #: src-en/data/events_special_aea_bird.xml:385
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[4]"
-msgstr "連邦船が鍛冶屋に減らされるのを見ると、あなたは不気味な感覚に襲われていますが、少なくともあなたのものではありませんでした。"
+msgstr "連邦の船が粉々にされるのを見て、不気味な感覚に襲われます。しかし、少なくともそれはあなたの船ではありませんでした。"
 
 #: src-en/data/events_special_aea_bird.xml:386
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD\"]/text[5]"
-msgstr "最後の爆発は、彼らの船が引き裂かれたとき、連邦船長の運命を示しています。"
+msgstr "最後の爆発が連邦の船長の運命を告げ、彼らの船は引き裂かれます。"
 
 #: src-en/data/events_special_aea_bird.xml:394
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[1]"
 msgstr ""
-"連邦の乗組員が倒れました。あなたが彼らの船体を廃棄すると、あなたは彼らの無線がアクティブであることに気づき、コマンドはまだ何が起こっているのかを理解しようとしている彼らに呼びかけます。あなたはラジオをミュートして続行します。"
+"連邦のクルーが倒されました。彼らの船体をスクラップにしていると、彼らの無線がアクティブで、司令部がまだ何が起こっているのか理解しようと彼らに呼びかけているのに気づきます。あなたは無線をミュートにして続けます。"
 
 #: src-en/data/events_special_aea_bird.xml:395
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[2]"
-msgstr "「男、男！ああ！」乗組員の叫び声は、彼が残りの乗組員と一緒に置かれているので、前代未聞になります。"
+msgstr "「仲間がやられた、仲間が！うわぁ！」クルーの叫びは、彼が他のクルーと共に倒される中で聞こえませんでした。"
 
 #: src-en/data/events_special_aea_bird.xml:396
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[3]"
 msgstr ""
-"「私のこの死は、連邦の死を意味します。」死にかけているキャプテンは、バックグラウンドの誰かが彼を叫ぶように一時停止します。「私は過剰に反応していません！神はそれを気にしています...あなたは私の最後の瞬間を台無しにしなければなりませんでした...」"
+"「私のこの死は連邦の死を意味する」瀕死の船長は、背景で誰かが彼に叫ぶと一時停止します。「大げさじゃない！くそっ... "
+"お前は私の最後の瞬間を台無しにしやがった...」"
 
 #: src-en/data/events_special_aea_bird.xml:397
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[4]"
 msgstr ""
-"「私の名前は、マルチバースへの私の奉仕のために記念碑に刻まれています...あなたは犯罪的に混乱した人のためにウォッチリストに永遠に刻まれます...」"
+"「私の名前はマルチバースへの奉仕を記念する碑に刻まれるだろう... お前の名前は犯罪的に狂った者たちの監視リストに永遠に刻まれるだろう...」"
 
 #: src-en/data/events_special_aea_bird.xml:398
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_BIRD\"]/text[5]"
 msgstr ""
-"「私は決して...私の昇進を得ました！私は死ぬ準備ができていません！」連盟のキャプテンは、乗組員が1つずつ倒れ、彼らと一緒に終わると、彼らの手にすすります。"
+"「昇進さえ...できなかった！死ぬ準備はできていない！」連邦の船長は、クルーが一人ずつ倒れていき、最後に自分が倒れるまで、手に顔をうずめてすすり泣きます。"
 
 #: src-en/data/events_special_aea_bird.xml:404
 msgid ""
@@ -421,54 +421,54 @@ msgstr ""
 #: src-en/data/events_special_aea_bird.xml:417
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[1]"
-msgstr "「これをさらに続けることは狂気になるでしょう - 私たちは同じ側にいます！」"
+msgstr "「これ以上続けるのは狂気の沙汰だ。我々は同じ側にいるんだ！」"
 
 #: src-en/data/events_special_aea_bird.xml:418
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[2]"
-msgstr "連邦船はボロボロになっています。おそらく、この時点で彼らの降伏を交渉することができます。"
+msgstr "連邦の船はボロボロです。この時点でおそらく彼らの降伏を交渉できるでしょう。"
 
 #: src-en/data/events_special_aea_bird.xml:419
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[3]"
-msgstr "「どうか、私たちはこれをする必要はありません！私たちはあなたに私たちを手放すために何でも喜んで与えてくれます！」"
+msgstr "「お願いだ、こんなことする必要はない！我々を逃してくれるなら何でもあげる！」"
 
 #: src-en/data/events_special_aea_bird.xml:420
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[4]"
-msgstr "「私たちを破壊しないでください！私たちはフェデレーションです！少なくとも降伏させてください！」"
+msgstr "「我々を破壊しないでくれ！我々は連邦だ！せめて降伏させてくれ！」"
 
 #: src-en/data/events_special_aea_bird.xml:421
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[5]"
-msgstr "「私たちが持っているものすべてを取り、ただ去るだけで、それ以上血がこぼれなければなりません！」"
+msgstr "「我々の持っているものすべてを持っていけ、ただ去ってくれ、これ以上血を流す必要はない！」"
 
 #: src-en/data/events_special_aea_bird.xml:422
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_SURRENDER_AEA_BIRD\"]/text[6]"
-msgstr "船は繰り返しあなたを歓迎し、あなたがあなたの攻撃を止めて彼らを手放すように嘆願します。"
+msgstr "船は繰り返しあなたに通信し、攻撃をやめて彼らを逃してくれるよう懇願しています。"
 
 #: src-en/data/events_special_aea_bird.xml:430
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[1]"
-msgstr "「メイデイ！メイデイ！メイ - 」連邦船長の助けに対する絶望的な叫び声は、駅の破壊によって突然沈黙します。"
+msgstr "「メーデー！メーデー！メー...」連邦の船長の必死の助けを求める叫びは、ステーションの破壊によって突然静かになります。"
 
 #: src-en/data/events_special_aea_bird.xml:431
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[2]"
-msgstr "将来の船がこの難破船に出くわすと、人々はこれが反乱軍や海賊の仕事であると仮定するでしょう。しかし、トレイルは最終的にあなたにつながります。"
+msgstr "将来の船がこの残骸に遭遇したとき、人々はこれが反乱軍か海賊の仕業だと考えるでしょう。しかし、その痕跡は最終的にあなたへと繋がります。"
 
 #: src-en/data/events_special_aea_bird.xml:432
 msgid ""
 "data/events_special_aea_bird.xml$//textList[@name=\"TEXT_DESTROYED_AEA_BIRD_STATION\"]/text[3]"
 msgstr ""
-"連邦の真新しいモデルが非常に速く派遣されたのを見て、それは残念です。連盟が更新されたデザインの製造を推進したとき、彼らは反乱軍と矛盾していました...しかし、必ずしも彼ら自身の雇われた反逆者ではありません。"
+"連邦の最新モデルがこんなに早く撃破されるのを見るのは残念です。連邦が最新デザインの製造を推し進めたとき、彼らは反乱軍との紛争を念頭に置いていました..."
+" しかし、必ずしも自分たちが雇ったレネゲイドとの紛争ではありませんでした。"
 
 #: src-en/data/events_special_aea_bird.xml:436
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/text"
-msgstr ""
-"連邦の同盟国、特にエリートの同盟国を排除することは、あなたの使命に非常に反していますが、それはあなたが遺体を救うことを超えているという意味ではありません。"
+msgstr "連邦の同盟国、特にエリートを排除することは、あなたの任務に著しく反しますが、だからといって残骸を回収できないわけではありません。"
 
 #: src-en/data/events_special_aea_bird.xml:439
 msgid ""
@@ -478,12 +478,12 @@ msgstr ""
 #: src-en/data/events_special_aea_bird.xml:441
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/choice/event/text"
-msgstr "エリートGI船の貨物が戦いを生き延びたようです。内部には機能的なドローンがあり、これを搭載しています。"
+msgstr "エリートのGi船の積荷は戦闘を生き延びたようです。中には機能するドローンがあり、それを船に持ち帰ります。"
 
 #: src-en/data/events_special_aea_bird.xml:497
 msgid ""
 "data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/destroyed/text"
-msgstr "真菌に感染した船を破壊し、遺体から有用なものを集めました。"
+msgstr "菌類に感染した船を破壊し、残骸から役に立つものをすべて集めます。"
 
 #: src-en/data/events_special_aea_bird.xml:500
 msgid ""
@@ -493,7 +493,7 @@ msgstr ""
 #: src-en/data/events_special_aea_bird.xml:505
 msgid ""
 "data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/deadCrew/text"
-msgstr "感染した船の乗組員を片付けて、有用な部分のために廃棄しました。"
+msgstr "感染した船からクルーを一掃し、役に立つ部品のためにスクラップにします。"
 
 #: src-en/data/events_special_aea_bird.xml:508
 msgid ""

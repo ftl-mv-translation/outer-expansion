@@ -8,20 +8,19 @@ msgstr ""
 #: src-en/data/events_special_aea_necro.xml:11
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_START_AEA_NECRO\"]/text[1]"
-msgstr ""
-"Engi Hereticsは、オーガニックライフに共感することや一般的な憎しみの不正さのために、分離主義社会からのグループ分離主義者の追放者です。"
+msgstr "エンギ・ヘレティックは、有機生命体への共感能力の欠如または一般的な憎悪のために、分離主義社会から追放された分離主義者のグループです。"
 
 #: src-en/data/events_special_aea_necro.xml:12
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_START_AEA_NECRO\"]/text[2]"
 msgstr ""
-"このセクターは、他の多くの派ionsに嫌われているため、エンギーの異端者の本拠地にあります。セクターは常に攻撃を受けています。これにより、Engi異端者は、自分自身を擁護するより少ない従来の方法に頼ることを余儀なくされました。"
+"このセクターはエンギ・ヘレティックの故郷であり、他の多くの派閥から憎まれているため、常に攻撃を受けています。これにより、エンギ・ヘレティックはより型破りな防御方法に頼らざるを得なくなりました。"
 
 #: src-en/data/events_special_aea_necro.xml:13
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_START_AEA_NECRO\"]/text[3]"
 msgstr ""
-"調和と分離主義者の両方に嫌われていますが、エンギの異端者は実際にどちらの派factを嫌っていませんが、彼らが憎む唯一の派ionsは有機生命体だけです。"
+"ハーモニーと分離主義者の両方から嫌われていますが、エンギ・ヘレティックは実際にはどちらの派閥も嫌っていません。彼らが憎む唯一の派閥は有機生命体です。"
 
 #: src-en/data/events_special_aea_necro.xml:28
 msgid ""
@@ -30,12 +29,12 @@ msgstr ""
 
 #: src-en/data/events_special_aea_necro.xml:34
 msgid "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/text"
-msgstr "あなたは奇妙なエンギ容器に歓迎されています。「私たちのドメインへようこそ、すべてのオーガニックを私たちに引き渡してください。」"
+msgstr "奇妙なエンギの船から通信が入ります。「我々の領域へようこそ。すべての有機体を我々に引き渡してください」"
 
 #: src-en/data/events_special_aea_necro.xml:36
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[1]/text"
-msgstr "あなたの道を戦う！"
+msgstr "戦って突破する！"
 
 #: src-en/data/events_special_aea_necro.xml:38
 msgid ""
@@ -51,13 +50,13 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and not(@lvl)]/text"
-msgstr "検査を受けます。"
+msgstr "検査を受ける。"
 
 #: src-en/data/events_special_aea_necro.xml:49
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and not(@lvl)]/event/text"
-msgstr "Engiはすぐにあなたのオーガニッククルーをピックアップし、彼らの船は攻撃位置に移動します。"
+msgstr "エンギはすぐにあなたの有機体のクルーに気づき、彼らの船は攻撃態勢に入ります。"
 
 #: src-en/data/events_special_aea_necro.xml:52
 msgid ""
@@ -69,14 +68,14 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/text"
-msgstr "検査を受けます。"
+msgstr "検査を受ける。"
 
 #: src-en/data/events_special_aea_necro.xml:60
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"あなたはエンギの異端者による検査に提出すると、彼らは船内で有機的な生活を見つけません。あなたは紛争なしに彼らのセクターに自由に入ることができます。"
+"エンギ・ヘレティックによる検査を受け、船内に有機生命体はいないことが判明しました。あなたは紛争なしで自由に彼らのセクターに入ることができます。"
 
 #: src-en/data/events_special_aea_necro.xml:62
 msgid ""
@@ -87,12 +86,12 @@ msgstr ""
 #: src-en/data/events_special_aea_necro.xml:68
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_AEA_NECRO\"]/text"
-msgstr "（異端の乗組員）供給を要求します。"
+msgstr "（ヘレティックのクルー）物資を要請する。"
 
 #: src-en/data/events_special_aea_necro.xml:70
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_AEA_NECRO\"]/event/text"
-msgstr "警備員は、あなたの船に乗って別の異端者を見て、いくつかの物資に同意して転送します。"
+msgstr "警備隊は、あなたの船に別のヘレティックがいるのを見て同意し、いくつかの物資を譲渡します。"
 
 #: src-en/data/events_special_aea_necro.xml:73
 msgid ""
@@ -123,7 +122,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"GUARD_AEA_NECRO_DESTROY\"]/text"
 msgstr ""
-"あなたは異端の警備員を倒しました。貨物に含まれていたかもしれないものは何でも確実に破壊されましたが、少なくとも船からいくつかの物資を救うことができます。"
+"ヘレティックの警備隊を打ち負かしました。積荷にあったものは間違いなく破壊されてしまいましたが、少なくとも船からいくつかの物資を回収できます。"
 
 #: src-en/data/events_special_aea_necro.xml:106
 msgid ""
@@ -134,7 +133,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"GUARD_AEA_NECRO_DEADCREW\"]/text"
 msgstr ""
-"あなたは異端の警備員を倒しました。あなたを止めるために機内にあるエンギーの異端者がいなければ、あなたは彼らの貨物を調査することができます。船に戻す武器を見つけ、船体を廃棄するために移動します。"
+"ヘレティックの警備隊を打ち負かしました。船内にあなたを止めるエンギ・ヘレティックはいないので、積荷を調査できます。船に持ち帰る武器を見つけ、船体をスクラップにします。"
 
 #: src-en/data/events_special_aea_necro.xml:115
 msgid ""
@@ -145,7 +144,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"GUARD_AEA_NECRO_FOLLOWUP\"]/text"
 msgstr ""
-"異端の警備員を殺すことで、あなたは間違いなく彼らがあなたを追跡するために補強材を派遣させた。セクターを探索するときのステップをご覧ください。"
+"ヘレティックの警備隊を殺したことで、彼らがあなたを追跡するために増援を派遣したことは間違いありません。セクターを探索する際は足元に注意してください。"
 
 #: src-en/data/events_special_aea_necro.xml:134
 msgid ""
@@ -175,7 +174,7 @@ msgstr ""
 #: src-en/data/events_special_aea_necro.xml:150
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"REINFORCEMENTS_AEA_NECRO\"]/text"
-msgstr "エンギの異端者は、あなたのセクターへの友好的なエントリをうまく取っておらず、あなたを止めるために特別に船を派遣したようです。"
+msgstr "エンギ・ヘレティックは、あなたの非友好的なセクターへの進入を快く思っておらず、あなたを止めるために特別に船を派遣したようです。"
 
 #: src-en/data/events_special_aea_necro.xml:154
 msgid ""
@@ -186,7 +185,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"START_AEA_NECRO_UNIQUE\"]/text"
 msgstr ""
-"あなたは異端の作戦の中心に到着しました。このセクターは、異端者のさまざまな敵からの絶え間ない攻撃のために常に崩壊の脅威にさらされているため、最もよく擁護された異端部門の1つでもあります。"
+"ヘレティックの作戦の中心地に到着しました。このセクターはヘレティックの様々な敵からの絶え間ない攻撃により常に崩壊の危機に瀕しており、そのため最も防御の固いヘレティックのセクターの一つでもあります。"
 
 #: src-en/data/events_special_aea_necro.xml:180
 msgid ""
@@ -195,12 +194,12 @@ msgstr ""
 
 #: src-en/data/events_special_aea_necro.xml:186
 msgid "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/text"
-msgstr "あなたは奇妙なエンギ容器に歓迎されています。「オーガニックのない人だけが過去に許可されているので、検査の準備をしてください。」"
+msgstr "奇妙なエンギの船から通信が入ります。「有機体のいない者のみが通過を許可されます。検査の準備をしてください」"
 
 #: src-en/data/events_special_aea_necro.xml:188
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[1]/text"
-msgstr "あなたの道を戦う！"
+msgstr "戦って突破する！"
 
 #: src-en/data/events_special_aea_necro.xml:190
 msgid ""
@@ -216,13 +215,13 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and not(@lvl)]/text"
-msgstr "検査を受けます。"
+msgstr "検査を受ける。"
 
 #: src-en/data/events_special_aea_necro.xml:201
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and not(@lvl)]/event/text"
-msgstr "Engiはすぐにあなたのオーガニッククルーをピックアップし、彼らの船は攻撃位置に移動します。"
+msgstr "エンギはすぐにあなたの有機体のクルーに気づき、彼らの船は攻撃態勢に入ります。"
 
 #: src-en/data/events_special_aea_necro.xml:204
 msgid ""
@@ -234,14 +233,14 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/text"
-msgstr "検査を受けます。"
+msgstr "検査を受ける。"
 
 #: src-en/data/events_special_aea_necro.xml:212
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"あなたはエンギの異端者による検査に提出すると、彼らは船内で有機的な生活を見つけません。あなたは紛争なしに彼らのセクターに自由に入ることができます。"
+"エンギ・ヘレティックによる検査を受け、船内に有機生命体はいないことが判明しました。あなたは紛争なしで自由に彼らのセクターに入ることができます。"
 
 #: src-en/data/events_special_aea_necro.xml:214
 msgid ""
@@ -252,12 +251,12 @@ msgstr ""
 #: src-en/data/events_special_aea_necro.xml:220
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[@req=\"LIST_CREW_AEA_NECRO\"]/text"
-msgstr "（異端の乗組員）供給を要求します。"
+msgstr "（ヘレティックのクルー）物資を要請する。"
 
 #: src-en/data/events_special_aea_necro.xml:222
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[@req=\"LIST_CREW_AEA_NECRO\"]/event/text"
-msgstr "警備員は、あなたの船に乗って別の異端者を見て、いくつかの物資に同意して転送します。"
+msgstr "警備隊は、あなたの船に別のヘレティックがいるのを見て同意し、いくつかの物資を譲渡します。"
 
 #: src-en/data/events_special_aea_necro.xml:225
 msgid ""
@@ -288,7 +287,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"GUARD_AEA_NECRO_DESTROY_UNIQUE\"]/text"
 msgstr ""
-"あなたは異端の警備員を倒しました。貨物に含まれていたかもしれないものは何でも確実に破壊されましたが、少なくとも船からいくつかの物資を救うことができます。"
+"ヘレティックの警備隊を打ち負かしました。積荷にあったものは間違いなく破壊されてしまいましたが、少なくとも船からいくつかの物資を回収できます。"
 
 #: src-en/data/events_special_aea_necro.xml:258
 msgid ""
@@ -299,7 +298,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"GUARD_AEA_NECRO_DEADCREW_UNIQUE\"]/text"
 msgstr ""
-"あなたは異端の警備員を倒しました。あなたを止めるために機内にあるエンギーの異端者がいなければ、あなたは彼らの貨物を調査することができます。船に戻す武器を見つけ、船体を廃棄するために移動します。"
+"ヘレティックの警備隊を打ち負かしました。船内にあなたを止めるエンギ・ヘレティックはいないので、積荷を調査できます。船に持ち帰る武器を見つけ、船体をスクラップにします。"
 
 #: src-en/data/events_special_aea_necro.xml:267
 msgid ""
@@ -310,7 +309,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"GUARD_AEA_NECRO_FOLLOWUP_UNIQUE\"]/text"
 msgstr ""
-"異端の警備員を殺すことで、あなたは間違いなく彼らがあなたを追跡するために補強材を派遣させた。セクターを探索するときのステップをご覧ください。"
+"ヘレティックの警備隊を殺したことで、彼らがあなたを追跡するために増援を派遣したことは間違いありません。セクターを探索する際は足元に注意してください。"
 
 #: src-en/data/events_special_aea_necro.xml:287
 msgid ""
@@ -340,7 +339,7 @@ msgstr ""
 #: src-en/data/events_special_aea_necro.xml:303
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"REINFORCEMENTS_AEA_NECRO_UNIQUE\"]/text"
-msgstr "エンギの異端者は、あなたのセクターへの友好的なエントリをうまく取っておらず、あなたを止めるために特別に船を派遣したようです。"
+msgstr "エンギ・ヘレティックは、あなたの非友好的なセクターへの進入を快く思っておらず、あなたを止めるために特別に船を派遣したようです。"
 
 #: src-en/data/events_special_aea_necro.xml:307
 msgid ""
@@ -371,17 +370,17 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"TRANSPORT_AEA_NECRO_LOOT\"]/text"
 msgstr ""
-"このビーコンは異端の輸送をホストしています。船が特別な技術を運んでいる可能性が最も高いことは安全です。船内の乗組員を殺すことができれば、貨物はあなたのものになります。"
+"このビーコンにはヘレティックの輸送船がいます。その船は特殊な技術を運んでいる可能性が高いでしょう。船内のクルーを殺すことができれば、積荷はあなたのものです。"
 
 #: src-en/data/events_special_aea_necro.xml:359
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"TRANSPORT_AEA_NECRO_LOOT\"]/choice[1]/text"
-msgstr "商品の降伏を要求します。"
+msgstr "物資の降伏を要求する。"
 
 #: src-en/data/events_special_aea_necro.xml:361
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"TRANSPORT_AEA_NECRO_LOOT\"]/choice[1]/event/text"
-msgstr "あなたは力で貨物を確保する準備をします。"
+msgstr "力ずくで貨物を確保する準備をする。"
 
 #: src-en/data/events_special_aea_necro.xml:364
 msgid ""
@@ -396,7 +395,7 @@ msgstr ""
 #: src-en/data/events_special_aea_necro.xml:372
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"TRANSPORT_AEA_NECRO_LOOT\"]/choice[2]/event/text"
-msgstr "船は武器の範囲外にとどまり、最終的には跳ね上がります。"
+msgstr "船は兵器の射程外に留まり、やがてジャンプして去っていく。"
 
 #: src-en/data/events_special_aea_necro.xml:374
 msgid ""
@@ -417,78 +416,81 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_DESTROYED_AEA_NECRO\"]/text[1]"
 msgstr ""
-"異端の船を破壊することは、おそらくあなたがこの宇宙のためにできる最高のことの1つです。彼らが有機的な生活を破壊することについて同じと考えることは間違いありません。"
+"ヘレティックの船を破壊することは、おそらくこの宇宙のためにできる最善のことの一つです。彼らが有機生命体を破壊することについて同じように考えることは間違いありません。"
 
 #: src-en/data/events_special_aea_necro.xml:406
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_DESTROYED_AEA_NECRO\"]/text[2]"
-msgstr "異端船は破壊されました。あなたはおそらく他の有機的な生活は言うまでもなく、数え切れないほどの人間の命を救ったでしょう。"
+msgstr "ヘレティックの船は破壊されました。他の有機生命体はもちろんのこと、おそらく数え切れないほどの人間の命を救ったでしょう。"
 
 #: src-en/data/events_special_aea_necro.xml:407
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_DESTROYED_AEA_NECRO\"]/text[3]"
 msgstr ""
-"あなたは、異端者が船の爆発によって消費されたときに最終的に何かを感じるのだろうかと思います。おそらく彼らの最後の瞬間に、彼らは有機的な生活に与える苦しみを理解しています。"
+"ヘレティックが船の爆発に飲み込まれるとき、ついに何かを感じるのか疑問に思います。おそらく最後の瞬間に、彼らが有機生命体に与えた苦しみを理解するのでしょう。"
 
 #: src-en/data/events_special_aea_necro.xml:410
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"DESTROYED_AEA_NECRO_NECRO_DRONE\"]/text"
-msgstr "驚いたことに、異端者のドローンの1つが爆発を生き延びました。爆発から少し鮮明ですが、いくつかの修理があればそれを救うことができます。"
+msgstr "驚いたことに、ヘレティックのドローンの一つが爆発を生き延びました。爆発で少し焦げていますが、少し修理すれば回収できます。"
 
 #: src-en/data/events_special_aea_necro.xml:428
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_NECRO\"]/text[1]"
-msgstr "あなたが異端者の容器の遺跡の中に忍び寄るとき、あなたは最終的に他のエンギーの異端がやって来て彼らを復活させるかどうか疑問に思います..."
+msgstr "ヘレティックの船の残骸の中を歩き回りながら、いつか他のエンギ・ヘレティックがやって来て彼らを蘇生させるのではないかと考えます..."
 
 #: src-en/data/events_special_aea_necro.xml:429
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_NECRO\"]/text[2]"
-msgstr "Engi異端者は現在、床で壊れており、以前に何百もの有機的な生命体に行ったのとほぼ同じ方法で壊れています。"
+msgstr "エンギ・ヘレティックは今や床に壊れており、それは彼らが以前に何百もの有機生命体にしてきたことと全く同じです。"
 
 #: src-en/data/events_special_aea_necro.xml:430
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_NECRO\"]/text[3]"
-msgstr "あなたはこれらのエンギーの異端者を破壊することに罪を犯していません。"
+msgstr "これらのエンギ・ヘレティックを破壊することに罪悪感はありません。彼らは自分たちにされたことすべてに値する以上のことをしてきました。"
 
 #: src-en/data/events_special_aea_necro.xml:431
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_NECRO\"]/text[4]"
-msgstr "Engi異端者が他の人に痛みを感じたことがあるかどうかはまだ不明です。おそらく、あなたは最終的に今日それを与えたでしょう。"
+msgstr ""
+"エンギ・ヘレティックが他者に与える痛みを感じたことがあるかどうかはまだわかりません。もしかしたら、今日あなたがそれを彼らに与えたのかもしれません。"
 
 #: src-en/data/events_special_aea_necro.xml:434
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"DEAD_CREW_AEA_NECRO_NECRO_DRONE\"]/text"
-msgstr "今、乗組員を空にして、あなたは船内の異端のドローンの1つを見つけます。船を廃棄する前に、あなたと一緒に戻します。"
+msgstr "クルーがいなくなった船内で、ヘレティックのドローンの一つを見つけました。船をスクラップにする前にそれを持ち帰ります。"
 
 #: src-en/data/events_special_aea_necro.xml:443
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_ESCAPE_AEA_NECRO\"]/text[1]"
-msgstr "異端の船はそのエンジンを強化し、あなたから離れます。逃げようとしています！"
+msgstr "ヘレティックの船がエンジンを始動させ、あなたから急に方向を変えます。逃げようとしています！"
 
 #: src-en/data/events_special_aea_necro.xml:444
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_ESCAPE_AEA_NECRO\"]/text[2]"
-msgstr "異端船のエンジンパワーの高いスパイクを検出します。逃げようとしています。"
+msgstr "ヘレティックの船のエンジン出力に急激なスパイクを検出しました。逃げようとしています。"
 
 #: src-en/data/events_special_aea_necro.xml:457
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_NECRO\"]/text[1]"
-msgstr "異端船が逃げます。これがエンギーの異端者でなければ、これにより彼らが敵対的になることを願っています。"
+msgstr "ヘレティックの船は逃げました。これがエンギ・ヘレティックでなければ、これが彼らをより敵対的でなくすることを願うでしょう。"
 
 #: src-en/data/events_special_aea_necro.xml:458
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_NECRO\"]/text[2]"
-msgstr "異端の船が飛び降ります。船上の異端者が逃げたときに恐怖を感じたのではないかと思います。彼らが何かを感じているかどうかさえわかりません。"
+msgstr ""
+"ヘレティックの船はジャンプして去りました。船内のエンギ・ヘレティックが逃げるときに恐怖を感じたかどうか疑問に思います。彼らが何かを感じるかどうかさえわかりません。"
 
 #: src-en/data/events_special_aea_necro.xml:459
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_NECRO\"]/text[3]"
-msgstr "異端の船のエンジンの電力がさらに高くなり、船が飛び降ります。"
+msgstr "ヘレティックの船のエンジン出力がさらに急上昇し、船はジャンプして去りました。"
 
 #: src-en/data/events_special_aea_necro.xml:462
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"GOTAWAY_AEA_NECRO_REMAINS\"]/text"
-msgstr "異端の船が飛び降りると、壊れた船から残されたスクラップの跡があります。少なくともあなたはスクラップする何かを持っています。"
+msgstr ""
+"ヘレティックの船がジャンプして去る際に、壊れた船からスクラップの痕跡が残っていることに気づきました。少なくともスクラップにするものはあります。"
 
 #: src-en/data/events_special_aea_necro.xml:469
 msgid ""
@@ -498,37 +500,37 @@ msgstr ""
 #: src-en/data/events_special_aea_necro.xml:473
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"SURRENDER_AEA_NECRO\"]/choice[@req=\"aea_necro_engi\"]/text"
-msgstr "（Engi Heretic）別の取引を交渉します。"
+msgstr "（エンギ・ヘレティック）別の取引を交渉する。"
 
 #: src-en/data/events_special_aea_necro.xml:480
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"SURRENDER_AEA_NECRO\"]/choice[@req=\"aea_necro_lich\"]/text"
-msgstr "（Engi lich）彼らにもっと要求します。"
+msgstr "（エンギ・リッチ）彼らにもっと要求する。"
 
 #: src-en/data/events_special_aea_necro.xml:492
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_SURRENDER_AEA_NECRO\"]/text[1]"
-msgstr "「私たちのダメージレベルは高いです。これがスクラップに対するあなたの欲望を満たすことを願っています。」"
+msgstr "「我々の損害レベルは高い。[この申し出]があなたのスクラップへの渇望を満たすことを願う」"
 
 #: src-en/data/events_special_aea_necro.xml:493
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_SURRENDER_AEA_NECRO\"]/text[2]"
-msgstr "異端船が降伏します。あなたが彼らを生きさせれば、彼らはいくつかの物資を提供します。"
+msgstr "ヘレティックの船は降伏します。生かしてくれるなら、いくつかの物資を提供すると申し出ています。"
 
 #: src-en/data/events_special_aea_necro.xml:494
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_SURRENDER_AEA_NECRO\"]/text[3]"
-msgstr "「私たちを破壊しようとするあなたの試みは[かなり]ことです。私たちを殺さないように要求します。」"
+msgstr "「我々を破壊しようとするあなたの試みは[相当なもの]だった。我々を殺さないよう要請する」"
 
 #: src-en/data/events_special_aea_necro.xml:495
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_SURRENDER_AEA_NECRO\"]/text[4]"
-msgstr "「貪欲>殺人。」異端船は、あなたが彼らを生きさせれば、いくつかの物資を提供します。"
+msgstr "「貪欲＞殺人」ヘレティックの船は、生かしてくれるならいくつかの物資を提供します。"
 
 #: src-en/data/events_special_aea_necro.xml:496
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_SURRENDER_AEA_NECRO\"]/text[5]"
-msgstr "「生き残りたいという私たちの欲求は、私たちを殺したいというあなたの欲求を上回ります。私たちを行かせてください。」"
+msgstr "「我々の[生き残りたい]という願望は、あなた方が我々を[殺したい]という願望を上回る。我々を解放しろ」"
 
 #: src-en/data/events_special_aea_necro.xml:507
 msgid ""
@@ -544,17 +546,17 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AUTO_AEA_NECRO\"]/escape/text"
 msgstr ""
-"自動車のエンジンがさらに明るく輝き始めることに気付きます。異端者は、それが逃げようとしていること、そしてそれができる前にそれを殺さなければならないことをあなたに警告します。"
+"オート船のエンジンがさらに明るく輝き始めるのに気づきます。ヘレティックは、それが逃げようとしており、逃げる前にそれを殺さなければならないと警告します。"
 
 #: src-en/data/events_special_aea_necro.xml:557
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AUTO_AEA_NECRO\"]/gotaway/text"
-msgstr "あなたが仕上げの打撃を得ることができる前に、自動車は飛び降ります。あなたはそれが艦隊に警告し、異端者が幸せではないことを知っています。"
+msgstr "オート船は、あなたがとどめを刺す前にジャンプして去ります。それが艦隊に警告し、ヘレティックが喜ばないことをあなたは知っています。"
 
 #: src-en/data/events_special_aea_necro.xml:560
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AUTO_AEA_NECRO\"]/gotaway/choice/text"
-msgstr "分離主義者に連絡してください。"
+msgstr "分離主義者と連絡を取る。"
 
 #: src-en/data/events_special_aea_necro.xml:565
 msgid ""
@@ -564,27 +566,27 @@ msgstr ""
 #: src-en/data/events_special_aea_necro.xml:568
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AUTO_AEA_NECRO\"]/destroyed/choice/text"
-msgstr "異端者に連絡してください。"
+msgstr "ヘレティックと連絡を取る。"
 
 #: src-en/data/events_special_aea_necro.xml:576
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_PIRATE\"]/surrender/text"
-msgstr "「あなたは勝ちます、私たちを生きさせてください。」"
+msgstr "「あなたの勝ちだ。どうか我々を生かしてくれ」"
 
 #: src-en/data/events_special_aea_necro.xml:578
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_PIRATE\"]/surrender/choice[1]/text"
-msgstr "海賊と異端者の間で何かをしてください。"
+msgstr "海賊とヘレティックの間で何かを解決する。"
 
 #: src-en/data/events_special_aea_necro.xml:580
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_PIRATE\"]/surrender/choice[1]/event/text"
-msgstr "海賊は船を維持することを断念し、最終的にはエンギーの異端者は、代わりにあなたの船に参加するように要求します。"
+msgstr "海賊は船を維持することに固執し、最終的にエンギ・ヘレティックは降伏し、代わりにあなたの船に加わることを要求します。"
 
 #: src-en/data/events_special_aea_necro.xml:591
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_PIRATE\"]/destroyed/text"
-msgstr "あなたは異端者の願いに反して船を破壊しました。少なくとも利回りはまともです。"
+msgstr "ヘレティックの意に反して船を破壊しました。少なくとも収穫はまずまずです。"
 
 #: src-en/data/events_special_aea_necro.xml:594
 msgid ""
@@ -595,7 +597,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_PIRATE\"]/deadCrew/text"
 msgstr ""
-"すべての幽霊が死んでいると、異端者は船を取り戻すことができます。「感謝の気持ち。私の[船]は無傷です。侵入者は何かを残して、あなたと一緒に持っていきます。」"
+"すべてのゴーストが死んだので、ヘレティックは船を取り戻すことができます。「大変感謝する。私の[船]は無傷だ。侵入者たちが何かを残していった。それを[持って]いけ」"
 
 #: src-en/data/events_special_aea_necro.xml:603
 msgid ""
@@ -606,7 +608,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_PIRATE_PLATFORM\"]/destroyed/text"
 msgstr ""
-"あなたは異端者の願いに反して船を破壊しました。少なくとも利回りはまともです。異端者は完全な破壊とはっきりしていますが、とにかくあなたに報酬を送ります。"
+"ヘレティックの意に反して船を破壊しました。少なくとも収穫はまずまずです。ヘレティックは完全な破壊に失望しましたが、とにかく報酬を送ってきます。"
 
 #: src-en/data/events_special_aea_necro.xml:621
 msgid ""
@@ -617,7 +619,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_PIRATE_PLATFORM\"]/deadCrew/text"
 msgstr ""
-"パイレーツが全員死んでいると、異端者はあなたに連絡してください。「それは非常に大きなキャプテンでした。これらのオーガニックに対処するスキルは賞賛されるべきです。将来、私がオーガニックとのあなたの戦いに参加できるように、私はあなたに参加したいと思います。」"
+"海賊が全員死んだ後、ヘレティックがあなたに連絡してきます。「[非常に]見事だった、キャプテン。これらの有機体を扱うあなたのスキルは称賛に値する。将来、有機体との戦いに参加できるように、あなたに加わりたい」"
 
 #: src-en/data/events_special_aea_necro.xml:631
 msgid ""
@@ -627,7 +629,7 @@ msgstr ""
 #: src-en/data/events_special_aea_necro.xml:649
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_ZOLTAN_AUTO_FIGHT_AEA_NECRO\"]/destroyed/text"
-msgstr "自動容器は破壊されました。あなたは遺体を廃棄しますが、面白いものは見つかりません。"
+msgstr "オート船は破壊されました。残骸をスクラップにしますが、面白いものは何も見つかりません。"
 
 #: src-en/data/events_special_aea_necro.xml:652
 msgid ""
@@ -638,7 +640,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_BOSS\"]/destroyed/text"
 msgstr ""
-"敗北によって生み出された巨大な難破船を探しているので、あなたは異端の巡洋艦を破壊しました。それは無傷のデータバンクを見つけ、その上で船の概略図を見つけます。"
+"ヘレティックの巡洋艦を破壊しました。その敗北によって生じた巨大な残骸を捜索していると、無傷のデータバンクを見つけ、その中には船の設計図がありました。"
 
 #: src-en/data/events_special_aea_necro.xml:682
 msgid ""
@@ -649,7 +651,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_BOSS\"]/deadCrew/text"
 msgstr ""
-"あなたはその敗北によって作成された巨大な死体を探しているので、あなたはその敗北によって作成された巨大な死体を探しているので、あなたはそのクルーの大きな異端の巡洋艦をクリアしました。"
+"巨大なヘレティックの巡洋艦からクルーを一掃しました。その敗北によって生じた巨大な残骸を捜索していると、無傷のデータバンクを見つけ、その中には船の設計図がありました。"
 
 #: src-en/data/events_special_aea_necro.xml:692
 msgid ""
@@ -669,7 +671,7 @@ msgstr ""
 #: src-en/data/events_special_aea_necro.xml:719
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_ANGEL\"]/destroyed/text"
-msgstr "あなたは天使のような巡洋艦を破壊しました、あなたは容器を救い始めます。"
+msgstr "エンジェリック巡洋艦を破壊しました。船の回収を開始します。"
 
 #: src-en/data/events_special_aea_necro.xml:722
 msgid ""
@@ -679,7 +681,7 @@ msgstr ""
 #: src-en/data/events_special_aea_necro.xml:727
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_ANGEL\"]/deadCrew/text"
-msgstr "あなたはその乗組員の大きな異端の巡洋艦をきれいにしました、あなたは容器を救い始めます。"
+msgstr "巨大なヘレティックの巡洋艦からクルーを一掃しました。船の回収を開始します。"
 
 #: src-en/data/events_special_aea_necro.xml:731
 msgid ""
@@ -688,7 +690,7 @@ msgstr ""
 
 #: src-en/data/events_special_aea_necro.xml:738
 msgid "data/events_special_aea_necro.xml$//event[@name=\"AEA_TEST_SHIELDS\"]/text"
-msgstr "テストシールドreq。"
+msgstr "テストシールド要請。"
 
 #: src-en/data/events_special_aea_necro.xml:740
 msgid ""
@@ -699,7 +701,7 @@ msgstr "成功。"
 #: src-en/data/events_special_aea_necro.xml:742
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"AEA_UPGRADE_SHIELDS\"]/text"
-msgstr "今すぐシールドをアップグレードします。"
+msgstr "シールドを今すぐアップグレードせよ。"
 
 #: src-en/data/events_special_aea_necro.xml:746
 msgid ""
@@ -710,4 +712,4 @@ msgstr "失敗。"
 #: src-en/data/events_special_aea_necro.xml:750
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"AEA_TEST_SHIELDS\"]/choice[3]/text"
-msgstr "続く..."
+msgstr "続行..."

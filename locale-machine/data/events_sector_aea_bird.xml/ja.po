@@ -22,32 +22,32 @@ msgstr ""
 
 #: src-en/data/events_sector_aea_bird.xml:58
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/text"
-msgstr "あなたは重いGI輸送に出くわしました、彼らはモバイル供給ステーションとして働いており、同盟船を通過するために物資を配っているようです。"
+msgstr "重ギ輸送船に出くわした。彼らは移動補給基地として機能し、通りかかる味方船に物資を配給しているようだ。"
 
 #: src-en/data/events_sector_aea_bird.xml:61
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[1]/text"
-msgstr "燃料を購入します。"
+msgstr "燃料を購入する。"
 
 #: src-en/data/events_sector_aea_bird.xml:70
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[2]/text"
-msgstr "ドローンパーツを購入します。"
+msgstr "ドローンパーツを購入する。"
 
 #: src-en/data/events_sector_aea_bird.xml:79
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[3]/text"
-msgstr "ドローンを購入します。"
+msgstr "ドローンを購入する。"
 
 #: src-en/data/events_sector_aea_bird.xml:88
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[4]/text"
-msgstr "輸送を攻撃します！"
+msgstr "輸送船を攻撃しろ！"
 
 #: src-en/data/events_sector_aea_bird.xml:90
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[4]/event/text"
-msgstr "誰もあなたから安全ではなく、同盟供給輸送さえもしません。"
+msgstr "誰もあなたから安全ではない。味方の補給輸送船でさえも。"
 
 #: src-en/data/events_sector_aea_bird.xml:93
 msgid ""
@@ -62,7 +62,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:101
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[5]/event/text"
-msgstr "あなたは物資に興味がありません。あなたはそれらを無視します。"
+msgstr "物資に興味はない。彼らを無視する。"
 
 #: src-en/data/events_sector_aea_bird.xml:103
 msgid ""
@@ -77,78 +77,78 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:114
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLIES_KILL\"]/text"
-msgstr ""
-"あなたが彼らを成功として殺すことができれば、あなたの不必要で、挑発されていない、同盟供給輸送に対する野barな攻撃が成功しました。あなたは残っているものをスクラップします。"
+msgstr "味方の補給輸送船に対するあなたの不必要で、挑発もなく、野蛮な攻撃は成功した。もし彼らを殺すことを成功と呼べるなら。残骸をスクラップにする。"
 
 #: src-en/data/events_sector_aea_bird.xml:119
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/text"
 msgstr ""
-"ビーコンの近くに損傷したGIシャトルが浮かんでいます。「ああ、あなたがここにいる連盟に感謝します。私が壊滅的な脱構築を経験し、爆発でシャトルを傷つけた母性に縛られました。私はエンジンの技術者であり、私のスキルはあなたに役立つと確信しています。」"
+"損傷したギのシャトルがビーコンの近くに浮いている。「ああ、連邦に感謝だ、あなたがここにいてくれて。ドッキングしていた母船が壊滅的な解体を経験し、爆発でシャトルが損傷したんだ。私はエンジン技術者で、私のスキルはあなたの役に立つと確信している。」"
 
 #: src-en/data/events_sector_aea_bird.xml:122
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/choice[1]/text"
-msgstr "ようこそ。"
+msgstr "乗船を歓迎する。"
 
 #: src-en/data/events_sector_aea_bird.xml:124
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/choice[1]/event/text"
-msgstr "GI役員はあなたの援助に感謝しています。"
+msgstr "ギの士官はあなたの援助に感謝している。"
 
 #: src-en/data/events_sector_aea_bird.xml:129
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/choice[2]/text"
-msgstr "最寄りの駅でそれらを降ろすことを申し出ます。"
+msgstr "最寄りのステーションで彼らを降ろすことを提案する。"
 
 #: src-en/data/events_sector_aea_bird.xml:131
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/choice[2]/event/text"
-msgstr "「ああ...わかりました。シャトルに残っているものは何でもお気軽に略奪してください。」"
+msgstr "「ああ...わかった。シャトルに残っているものは何でも自由に略奪してくれていい。」"
 
 #: src-en/data/events_sector_aea_bird.xml:138
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/text"
 msgstr ""
-"あなたは大きな人口の多い惑星に到着しました、あなたはすぐに表面が起こっているある種の競争についての広告に襲われました。綿密な検査では、2つのチームがバッティングとキャッチを切り替えると、何らかのスポーツゲームをプレイしているように見えます。彼らはそれをクリケットと呼んでいます。"
+"大きな人口の多い惑星に到着し、地表で開催されている何らかの競技会の広告にすぐに "
+"bombardedされる。よく見ると、2つのチームが打撃と捕球を交互に行うスポーツゲームをしているようだ。彼らはそれをクリケットと呼んでいる。"
 
 #: src-en/data/events_sector_aea_bird.xml:141
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[1]/text"
-msgstr "レッドチームに20〜。"
+msgstr "赤チームに20~賭ける。"
 
 #: src-en/data/events_sector_aea_bird.xml:145
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[2]/text"
-msgstr "青いチームに20〜。"
+msgstr "青チームに20~賭ける。"
 
 #: src-en/data/events_sector_aea_bird.xml:149
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[3]/text"
-msgstr "レッドチームに50〜50〜。"
+msgstr "赤チームに50~賭ける。"
 
 #: src-en/data/events_sector_aea_bird.xml:153
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[4]/text"
-msgstr "青いチームに50〜50〜。"
+msgstr "青チームに50~賭ける。"
 
 #: src-en/data/events_sector_aea_bird.xml:157
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[5]/text"
-msgstr "赤いチームに100〜を賭けます。"
+msgstr "赤チームに100~賭ける。"
 
 #: src-en/data/events_sector_aea_bird.xml:161
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[6]/text"
-msgstr "青いチームに100〜を賭けます。"
+msgstr "青チームに100~賭ける。"
 
 #: src-en/data/events_sector_aea_bird.xml:165
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[7]/text"
-msgstr "イベントを無視してください。"
+msgstr "イベントを無視する。"
 
 #: src-en/data/events_sector_aea_bird.xml:167
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[7]/event/text"
-msgstr "あなたは物資に興味がありません。あなたはそれらを無視します。"
+msgstr "物資に興味はない。彼らを無視する。"
 
 #: src-en/data/events_sector_aea_bird.xml:169
 msgid ""
@@ -163,7 +163,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:182
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[1]/text"
-msgstr "ゲームが最後の瞬間になると、座席の端から見ます。"
+msgstr "試合が最後の1秒まで続くのを、固唾を飲んで見守る。"
 
 #: src-en/data/events_sector_aea_bird.xml:187
 msgid ""
@@ -173,7 +173,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:189
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[1]/choice/event/text"
-msgstr "残念ながら、あなたのチームは、他のチームによって最後の瞬間に縁取られたばかりです。"
+msgstr "残念ながら、あなたのチームは最後の瞬間に相手チームに僅差で負けてしまう。"
 
 #: src-en/data/events_sector_aea_bird.xml:191
 msgid ""
@@ -188,7 +188,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:202
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[2]/text"
-msgstr "ゲームが最後の瞬間になると、座席の端から見ます。"
+msgstr "試合が最後の1秒まで続くのを、固唾を飲んで見守る。"
 
 #: src-en/data/events_sector_aea_bird.xml:207
 msgid ""
@@ -198,12 +198,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:209
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[2]/choice/event/text"
-msgstr "あなたのチームが最後の数分で勝利を獲得することができたので、あなたは応援します、あなたはあなたの賞金を集めに行きます。"
+msgstr "あなたのチームが最後の数分で僅差で勝利を収めたので、あなたは歓声を上げ、賞金を受け取りに行く。"
 
 #: src-en/data/events_sector_aea_bird.xml:217
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[3]/text"
-msgstr "あるチームは他のチームよりもはるかに優れていることは明らかであり、この場合、それはあなたのチームが苦労していることです。"
+msgstr "早い段階で片方のチームがはるかに優れていることは明らかで、この場合はあなたのチームが苦戦している。"
 
 #: src-en/data/events_sector_aea_bird.xml:222
 msgid ""
@@ -213,7 +213,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:224
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[3]/choice/event/text"
-msgstr "あなたは最後まで見守り続けますが、あなたのチームが戻ってくることはほとんど不可能でした。"
+msgstr "最後まで見続けるが、あなたのチームが逆転するのはほとんど不可能だった。"
 
 #: src-en/data/events_sector_aea_bird.xml:226
 msgid ""
@@ -228,7 +228,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:237
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[4]/text"
-msgstr "あるチームが他のチームよりもはるかに優れていることは早い段階で、この場合、それはあなたのチームが明らかにリードしていることです。"
+msgstr "早い段階で片方のチームがはるかに優れていることは明らかで、この場合はあなたのチームが明らかにリードしている。"
 
 #: src-en/data/events_sector_aea_bird.xml:242
 msgid ""
@@ -238,12 +238,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:244
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[4]/choice/event/text"
-msgstr "あなたのチームは予想通り勝ちます。あなたはあなたの賞金を集めます。"
+msgstr "あなたのチームは予想通り勝利する。あなたは賞金を集める。"
 
 #: src-en/data/events_sector_aea_bird.xml:252
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[5]/text"
-msgstr "あるチームは他のチームよりもはるかに優れていることは明らかであり、この場合、それはあなたのチームが苦労していることです。"
+msgstr "早い段階で片方のチームがはるかに優れていることは明らかで、この場合はあなたのチームが苦戦している。"
 
 #: src-en/data/events_sector_aea_bird.xml:257
 msgid ""
@@ -253,12 +253,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:259
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[5]/choice/event/text"
-msgstr "驚くべきことに、あなたのチームはリードを引き戻し、他のチームを上回り、ゲームに勝ち、賞金を集めます。"
+msgstr "驚いたことに、あなたのチームはリードを取り戻し、相手チームを上回り、試合に勝利する。あなたは賞金を集める。"
 
 #: src-en/data/events_sector_aea_bird.xml:269
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[1]/text"
-msgstr "ゲームが最後の瞬間になると、座席の端から見ます。"
+msgstr "試合が最後の1秒まで続くのを、固唾を飲んで見守る。"
 
 #: src-en/data/events_sector_aea_bird.xml:274
 msgid ""
@@ -268,7 +268,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:276
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[1]/choice/event/text"
-msgstr "残念ながら、あなたのチームは、他のチームによって最後の瞬間に縁取られたばかりです。"
+msgstr "残念ながら、あなたのチームは最後の瞬間に相手チームに僅差で負けてしまう。"
 
 #: src-en/data/events_sector_aea_bird.xml:278
 msgid ""
@@ -283,7 +283,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:289
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[2]/text"
-msgstr "ゲームが最後の瞬間になると、座席の端から見ます。"
+msgstr "試合が最後の1秒まで続くのを、固唾を飲んで見守る。"
 
 #: src-en/data/events_sector_aea_bird.xml:294
 msgid ""
@@ -293,12 +293,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:296
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[2]/choice/event/text"
-msgstr "あなたのチームが最後の数分で勝利を獲得することができたので、あなたは応援します、あなたはあなたの賞金を集めに行きます。"
+msgstr "あなたのチームが最後の数分で僅差で勝利を収めたので、あなたは歓声を上げ、賞金を受け取りに行く。"
 
 #: src-en/data/events_sector_aea_bird.xml:304
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[3]/text"
-msgstr "あるチームは他のチームよりもはるかに優れていることは明らかであり、この場合、それはあなたのチームが苦労していることです。"
+msgstr "早い段階で片方のチームがはるかに優れていることは明らかで、この場合はあなたのチームが苦戦している。"
 
 #: src-en/data/events_sector_aea_bird.xml:309
 msgid ""
@@ -308,7 +308,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:311
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[3]/choice/event/text"
-msgstr "あなたは最後まで見守り続けますが、あなたのチームが戻ってくることはほとんど不可能でした。"
+msgstr "最後まで見続けるが、あなたのチームが逆転するのはほとんど不可能だった。"
 
 #: src-en/data/events_sector_aea_bird.xml:313
 msgid ""
@@ -323,7 +323,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:324
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[4]/text"
-msgstr "あるチームが他のチームよりもはるかに優れていることは早い段階で、この場合、それはあなたのチームが明らかにリードしていることです。"
+msgstr "早い段階で片方のチームがはるかに優れていることは明らかで、この場合はあなたのチームが明らかにリードしている。"
 
 #: src-en/data/events_sector_aea_bird.xml:329
 msgid ""
@@ -333,12 +333,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:331
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[4]/choice/event/text"
-msgstr "あなたのチームは予想通り勝ちます。あなたはあなたの賞金を集めます。"
+msgstr "あなたのチームは予想通り勝利する。あなたは賞金を集める。"
 
 #: src-en/data/events_sector_aea_bird.xml:339
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[5]/text"
-msgstr "あるチームは他のチームよりもはるかに優れていることは明らかであり、この場合、それはあなたのチームが苦労していることです。"
+msgstr "早い段階で片方のチームがはるかに優れていることは明らかで、この場合はあなたのチームが苦戦している。"
 
 #: src-en/data/events_sector_aea_bird.xml:344
 msgid ""
@@ -348,12 +348,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:346
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[5]/choice/event/text"
-msgstr "驚くべきことに、あなたのチームはリードを引き戻し、他のチームを上回り、ゲームに勝ち、賞金を集めます。"
+msgstr "驚いたことに、あなたのチームはリードを取り戻し、相手チームを上回り、試合に勝利する。あなたは賞金を集める。"
 
 #: src-en/data/events_sector_aea_bird.xml:356
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[1]/text"
-msgstr "ゲームが最後の瞬間になると、座席の端から見ます。"
+msgstr "試合が最後の1秒まで続くのを、固唾を飲んで見守る。"
 
 #: src-en/data/events_sector_aea_bird.xml:361
 msgid ""
@@ -363,7 +363,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:363
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[1]/choice/event/text"
-msgstr "残念ながら、あなたのチームは、他のチームによって最後の瞬間に縁取られたばかりです。"
+msgstr "残念ながら、あなたのチームは最後の瞬間に相手チームに僅差で負けてしまう。"
 
 #: src-en/data/events_sector_aea_bird.xml:365
 msgid ""
@@ -378,7 +378,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:376
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[2]/text"
-msgstr "ゲームが最後の瞬間になると、座席の端から見ます。"
+msgstr "試合が最後の1秒まで続くのを、固唾を飲んで見守る。"
 
 #: src-en/data/events_sector_aea_bird.xml:381
 msgid ""
@@ -388,12 +388,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:383
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[2]/choice/event/text"
-msgstr "あなたのチームが最後の数分で勝利を獲得することができたので、あなたは応援します、あなたはあなたの賞金を集めに行きます。"
+msgstr "あなたのチームが最後の数分で僅差で勝利を収めたので、あなたは歓声を上げ、賞金を受け取りに行く。"
 
 #: src-en/data/events_sector_aea_bird.xml:391
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[3]/text"
-msgstr "あるチームは他のチームよりもはるかに優れていることは明らかであり、この場合、それはあなたのチームが苦労していることです。"
+msgstr "早い段階で片方のチームがはるかに優れていることは明らかで、この場合はあなたのチームが苦戦している。"
 
 #: src-en/data/events_sector_aea_bird.xml:396
 msgid ""
@@ -403,7 +403,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:398
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[3]/choice/event/text"
-msgstr "あなたは最後まで見守り続けますが、あなたのチームが戻ってくることはほとんど不可能でした。"
+msgstr "最後まで見続けるが、あなたのチームが逆転するのはほとんど不可能だった。"
 
 #: src-en/data/events_sector_aea_bird.xml:400
 msgid ""
@@ -418,7 +418,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:411
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[4]/text"
-msgstr "あるチームが他のチームよりもはるかに優れていることは早い段階で、この場合、それはあなたのチームが明らかにリードしていることです。"
+msgstr "早い段階で片方のチームがはるかに優れていることは明らかで、この場合はあなたのチームが明らかにリードしている。"
 
 #: src-en/data/events_sector_aea_bird.xml:416
 msgid ""
@@ -428,12 +428,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:418
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[4]/choice/event/text"
-msgstr "あなたのチームは予想通り勝ちます。あなたはあなたの賞金を集めます。"
+msgstr "あなたのチームは予想通り勝利する。あなたは賞金を集める。"
 
 #: src-en/data/events_sector_aea_bird.xml:426
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[5]/text"
-msgstr "あるチームは他のチームよりもはるかに優れていることは明らかであり、この場合、それはあなたのチームが苦労していることです。"
+msgstr "早い段階で片方のチームがはるかに優れていることは明らかで、この場合はあなたのチームが苦戦している。"
 
 #: src-en/data/events_sector_aea_bird.xml:431
 msgid ""
@@ -443,42 +443,42 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:433
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[5]/choice/event/text"
-msgstr "驚くべきことに、あなたのチームはリードを引き戻し、他のチームを上回り、ゲームに勝ち、賞金を集めます。"
+msgstr "驚いたことに、あなたのチームはリードを取り戻し、相手チームを上回り、試合に勝利する。あなたは賞金を集める。"
 
 #: src-en/data/events_sector_aea_bird.xml:443
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/text"
 msgstr ""
-"あなたはビーコンに到着しました、驚くべきことに連邦局がここにセットアップされています。ステーションは、スクラップの見返りに、弾薬のリクエストを送信しています。彼らの高い需要は、反政府勢力の封鎖の数が増えている可能性が高い。"
+"ビーコンに到着すると、驚くべきことに連邦ステーションが設置されている。ステーションは弾薬を要求し、その見返りにスクラップを提供している。彼らの高い需要は、反乱軍の封鎖が増加しているためだろう。"
 
 #: src-en/data/events_sector_aea_bird.xml:445
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/choice[1]/text"
-msgstr "3つのミサイルを販売します。"
+msgstr "ミサイル3発を売る。"
 
 #: src-en/data/events_sector_aea_bird.xml:455
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/choice[2]/text"
-msgstr "7つのミサイルを販売します。"
+msgstr "ミサイル7発を売る。"
 
 #: src-en/data/events_sector_aea_bird.xml:465
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/choice[3]/text"
-msgstr "12個のミサイルを販売します。"
+msgstr "ミサイル12発を売る。"
 
 #: src-en/data/events_sector_aea_bird.xml:475
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/choice[4]/text"
-msgstr "ドローンの見返りに8つのミサイルを販売します。"
+msgstr "ドローンと引き換えにミサイル8発を売る。"
 
 #: src-en/data/events_sector_aea_bird.xml:485
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/choice[5]/text"
-msgstr "販売するものは何もありません。"
+msgstr "売るものがない。"
 
 #: src-en/data/events_sector_aea_bird.xml:487
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/choice[5]/event/text"
-msgstr "あなたは駅を無視します。"
+msgstr "ステーションを無視する。"
 
 #: src-en/data/events_sector_aea_bird.xml:489
 msgid ""
@@ -494,19 +494,19 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/text"
 msgstr ""
-"ビーコンは、GI産業惑星の軌道に座っています。この惑星には、GIがドローンを生産するために使用する大規模な製造工場のいくつかがあります。\n"
-"あなたは惑星の表面にある施設からあられを受け取ります、彼らはあなたが降りてきて、彼らの新しい製造業者のテストを手伝うことができるかどうか尋ねます。"
+"ビーコンはギの工業惑星の軌道上にある。この惑星はギがドローンを生産するために使用するいくつかの大規模な製造工場がある。\n"
+"惑星の地表の施設から通信が入り、彼らの新しい製造機のテストを手伝ってくれないかと尋ねられる。"
 
 #: src-en/data/events_sector_aea_bird.xml:511
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/text"
-msgstr "施設に向かいます。"
+msgstr "施設に向かう。"
 
 #: src-en/data/events_sector_aea_bird.xml:513
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/text"
 msgstr ""
-"施設に到着し、GIエンジニアに迎えられます。彼らは、彼らが実験的な製造業者を開発したが、それを動かすためにいくらかの燃料が必要であると説明し、彼らが燃料のために注文した配達は到着していないので、それを始めるためにあなたの燃料のいくらかが必要です。"
+"施設に到着すると、ギの技術者に迎えられる。彼らは実験的な製造機を開発したが、それを動かすための燃料が必要だと説明する。注文した燃料の配達がまだ到着していないため、起動するためにあなたの燃料がいくらか必要だという。"
 
 #: src-en/data/events_sector_aea_bird.xml:515
 msgid ""
@@ -516,18 +516,17 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:517
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
-"補償として、彼らは最初にファブリケーターを使用できるようにします。稼働している今、それを実行しているので、進むには少量のスクラップが必要です。"
+msgstr "補償として、彼らはあなたに最初に製造機を使わせてくれると申し出る。今や稼働しており、起動するには少量のスクラップが必要なだけだ。"
 
 #: src-en/data/events_sector_aea_bird.xml:522
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr "スクラップを入れます。"
+msgstr "スクラップを入れる。"
 
 #: src-en/data/events_sector_aea_bird.xml:524
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr "マシンにスクラップをロードすると、スクラップを有用な供給に変えると鳴き始めます。"
+msgstr "機械にスクラップを投入すると、それが有用な物資に変わるにつれて、機械はうなり始める。"
 
 #: src-en/data/events_sector_aea_bird.xml:529
 msgid ""
@@ -538,19 +537,19 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
-"マシンは停止し、消耗品を吐き出します。\n"
+"機械が停止し、あなたの物資を吐き出す。\n"
 "\n"
-"もう一度使用できますが、反乱軍に追いつく時間が与えられます。"
+"もう一度使えるが、それは反乱軍に追いつく時間を与えることになる。"
 
 #: src-en/data/events_sector_aea_bird.xml:536
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr "スクラップを入れます。"
+msgstr "スクラップを入れる。"
 
 #: src-en/data/events_sector_aea_bird.xml:538
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
-msgstr "マシンにスクラップをロードすると、スクラップを有用な供給に変えると鳴き始めます。"
+msgstr "機械にスクラップを投入すると、それが有用な物資に変わるにつれて、機械はうなり始める。"
 
 #: src-en/data/events_sector_aea_bird.xml:543
 msgid ""
@@ -560,7 +559,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:545
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr "マシンはあなたの物資を吐き出します。"
+msgstr "機械があなたの物資を吐き出す。"
 
 #: src-en/data/events_sector_aea_bird.xml:552
 msgid ""
@@ -570,7 +569,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:554
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
-msgstr "あなたはこれ以上物資に興味がありません。"
+msgstr "これ以上物資に興味はない。"
 
 #: src-en/data/events_sector_aea_bird.xml:556
 msgid ""
@@ -590,7 +589,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:570
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
-msgstr "あなたはこれ以上物資に興味がありません。"
+msgstr "これ以上物資に興味はない。"
 
 #: src-en/data/events_sector_aea_bird.xml:572
 msgid ""
@@ -610,7 +609,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:588
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[2]/event/text"
-msgstr "あなたはこれ以上物資に興味がありません。"
+msgstr "これ以上物資に興味はない。"
 
 #: src-en/data/events_sector_aea_bird.xml:590
 msgid ""
@@ -630,7 +629,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:604
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[2]/event/text"
-msgstr "施設やスケッチリクエストには興味がありません。"
+msgstr "施設や怪しい依頼に興味はない。"
 
 #: src-en/data/events_sector_aea_bird.xml:606
 msgid ""
@@ -650,7 +649,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:638
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_CHOICE\"]/choice[1]/event/text"
-msgstr "あなたがそれを助けることができる限り、反乱軍は生きることを許されません。"
+msgstr "あなたが助けられる限り、反乱軍を生かしておくわけにはいかない。"
 
 #: src-en/data/events_sector_aea_bird.xml:641
 msgid ""
@@ -665,7 +664,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:649
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_CHOICE\"]/choice[2]/event/text"
-msgstr "あなたは反乱軍の船と戦うことに興味がありません。"
+msgstr "反乱軍の船と戦うことに興味はない。"
 
 #: src-en/data/events_sector_aea_bird.xml:651
 msgid ""
@@ -680,38 +679,38 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:662
 msgid ""
 "data/events_sector_aea_bird.xml$//textList[@name=\"TEXT_AEA_BIRD_REBEL_CHOICE\"]/text[1]"
-msgstr "反乱軍の船は、このビーコンで軽微な修理を行っています。彼らはあなたの存在を知らない。"
+msgstr "反乱軍の船がこのビーコンで軽微な修理を行っている。彼らはあなたの存在に気づいていない。"
 
 #: src-en/data/events_sector_aea_bird.xml:663
 msgid ""
 "data/events_sector_aea_bird.xml$//textList[@name=\"TEXT_AEA_BIRD_REBEL_CHOICE\"]/text[2]"
-msgstr "近くの反政府勢力船は、フェデレーション船を探しています。どういうわけか彼らはまだあなたを見ていません。"
+msgstr "近くの反乱軍の船が連邦船を探している。どういうわけか、彼らはまだあなたを見ていない。"
 
 #: src-en/data/events_sector_aea_bird.xml:664
 msgid ""
 "data/events_sector_aea_bird.xml$//textList[@name=\"TEXT_AEA_BIRD_REBEL_CHOICE\"]/text[3]"
-msgstr "このセクターは、反逆者にとって最高の場所です。FRBを殺すための彼らの通常の渇きにもかかわらず、ここの反政府勢力はあなたを無視しています。"
+msgstr "このセクターは反乱軍にとって絶好の場所だ。通常は連邦を殺すことに飢えているにもかかわらず、ここの反乱軍の船はあなたを無視している。"
 
 #: src-en/data/events_sector_aea_bird.xml:665
 msgid ""
 "data/events_sector_aea_bird.xml$//textList[@name=\"TEXT_AEA_BIRD_REBEL_CHOICE\"]/text[4]"
-msgstr "このビーコンの反乱軍は、連邦とGI船が戦うために偵察しています。まだあなたに会っていません。"
+msgstr "このビーコンの反乱軍の船は、戦うために連邦船とギ船を偵察している。まだあなたを見ていない。"
 
 #: src-en/data/events_sector_aea_bird.xml:669
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/text"
 msgstr ""
-"あなたは到着し、小さなシャトルに追われているGIインターセプターに気付きます。「レネゲイド、私たちはあなたの助けが必要です、私たちはインテルドローンからドローンモジュールを小さなシャトルにインストールしようとしていました。残念ながら、それは私たちを殺そうとしています。"
+"到着すると、小さなシャトルに追われているギの迎撃機に気づく。「レネゲイド、助けてくれ。諜報ドローンのドローンモジュールを小さなシャトルにインストールしようとしたんだが、残念ながら暴走して我々を殺そうとしている。船内に兵器はなく、反撃できない。」"
 
 #: src-en/data/events_sector_aea_bird.xml:671
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[1]/text"
-msgstr "シャトルを攻撃します。"
+msgstr "シャトルを攻撃する。"
 
 #: src-en/data/events_sector_aea_bird.xml:673
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[1]/event/text"
-msgstr "シャトルを遮るドローンを傍受するために移動します。"
+msgstr "ドローンと化したシャトルを妨害するために動く。"
 
 #: src-en/data/events_sector_aea_bird.xml:676
 msgid ""
@@ -726,7 +725,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:684
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[2]/event/text"
-msgstr "ドローンシャトルとの戦いには興味がありません。"
+msgstr "ドローンシャトルと戦うことに興味はない。"
 
 #: src-en/data/events_sector_aea_bird.xml:686
 msgid ""
@@ -742,35 +741,35 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL\"]/text"
 msgstr ""
-"あなたはGIインターセプターの乗組員を救いました、彼らはあなたが彼ら自身の物資でドローンの遺跡から得たスクラップを嘆きます。また、必要のない予備のインテルドローンを転送します。"
+"ギの迎撃機のクルーを救った。彼らはドローンの残骸から得られるスクラップを自分たちの物資で補う。また、不要になった予備の諜報ドローンも譲渡してくれる。"
 
 #: src-en/data/events_sector_aea_bird.xml:704
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/text"
-msgstr "あなたはGIの営巣惑星に到着しました。これらは、種のメンバーが若者をhatch化させるために旅行するGIの伝統的な営巣地です。"
+msgstr "ギの営巣惑星に到着した。ここはギの伝統的な営巣地であり、種族のメンバーが子供を孵化させるために旅をする場所だ。"
 
 #: src-en/data/events_sector_aea_bird.xml:707
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/text"
-msgstr "表面に移動します。"
+msgstr "地表に降りる。"
 
 #: src-en/data/events_sector_aea_bird.xml:709
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/text"
-msgstr "あなたは惑星の表面に到着しました。惑星のほとんどは訪問者にとって立ち入り禁止です。近くにビジターセンターがあります。"
+msgstr "惑星の地表に到着した。惑星のほとんどは訪問者立ち入り禁止だ。近くにビジターセンターがある。"
 
 #: src-en/data/events_sector_aea_bird.xml:712
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[1]/text"
-msgstr "ビジターセンターをご覧ください。"
+msgstr "ビジターセンターを訪れる。"
 
 #: src-en/data/events_sector_aea_bird.xml:715
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[1]/event/text"
 msgstr ""
-"ビジターセンターは、GIの短い歴史から始まり、その後ほとんどの大きなギフトショップになります。\n"
+"ビジターセンターはギの簡単な歴史から始まり、結局はほとんど大きなギフトショップであることがわかる。\n"
 "\n"
-"あなたが買い物をする前に、あなたはまだ船に乗って何か他のことをする時間があります。"
+"買い物をする前に、まだ船で何かをする時間がある。"
 
 #: src-en/data/events_sector_aea_bird.xml:719
 msgid ""
@@ -785,15 +784,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:729
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[2]/text"
-msgstr "訪問者エリアから忍び寄る。"
+msgstr "ビジターエリアからこっそり抜け出す。"
 
 #: src-en/data/events_sector_aea_bird.xml:731
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[2]/event/text"
 msgstr ""
-"トランスポンダーをオフにして、こっそり逃げます。\n"
+"トランスポンダーをオフにしてこっそり立ち去る。\n"
 "\n"
-"あなたはそれを遠くまで行うことができません、GI船はあなたの侵入に気づき、攻撃に移動します。"
+"しかし、遠くへは行けない。ギの船があなたの侵入に気づき、攻撃に移る。"
 
 #: src-en/data/events_sector_aea_bird.xml:736
 msgid ""
@@ -808,7 +807,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:744
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[3]/event/text"
-msgstr "あなたは飛び去る準備をします。"
+msgstr "ジャンプして去る準備をする。"
 
 #: src-en/data/events_sector_aea_bird.xml:746
 msgid ""
@@ -824,20 +823,20 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/text"
 msgstr ""
-"あなたは近くのGI船に歓迎されています。「ああ、反逆者、おそらくあなたは偶然のゲームに興味があるでしょう。このビーコンには、あなたがそれを入力する場所からあなたを吐き出すだけの短いワームホールがあります。しかし、私たちは船の外に出るときに虫によってくしゃくしゃになる可能性がほぼ1/6になることがわかりました。\n"
+"近くのギの船から通信が入る。「ああ、レネゲイドか。運試しのゲームに興味はないか？このビーコンには奇妙な異常がある。入った場所から吐き出されるだけの短いワームホールだ。しかし、出てくる途中で船の一部がワームホールに潰される確率がほぼ正確に1/6だとわかったんだ。\n"
 "\n"
-"「ゲームはそのように機能します。コインをひっくり返します。最初に入る必要があることを示す人は誰でも、誰かが鶏を出すまで、または誰かが少ししわが寄るまで続けます。敗者はもう一方に5〜を支払わなければなりません。\n"
-"。"
+"「ゲームはこうだ。コインを投げて、出た方が先に入る。どちらかが怖気づくか、少し潰れるまで続ける。負けた方は相手に5~払う。どうだ、ゲームに参加するか？」\n"
+"\t."
 
 #: src-en/data/events_sector_aea_bird.xml:767
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/text"
-msgstr "ゲームオン！。"
+msgstr "ゲーム開始だ！"
 
 #: src-en/data/events_sector_aea_bird.xml:769
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/event/text"
-msgstr "コインをひっくり返し、土地の鳥の側面で、GI船が最初に入ります。GI船はワームホールに飛びます。"
+msgstr "コインを投げると鳥の面が上に出た。ギの船が先に入る。ギの船はワームホールに飛び込む。"
 
 #: src-en/data/events_sector_aea_bird.xml:771
 msgid ""
@@ -847,18 +846,18 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:773
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/event/choice/event/text"
-msgstr "しばらくして、GI船は無傷でワームホールから飛び出します。「大丈夫、あなたの番。」"
+msgstr "少しして、ギの船が無傷でワームホールから出てくる。「よし、君の番だ。」"
 
 #: src-en/data/events_sector_aea_bird.xml:775
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/event/choice/event/choice[1]/text"
-msgstr "ワームホールを入力します。"
+msgstr "ワームホールに入る。"
 
 #: src-en/data/events_sector_aea_bird.xml:777
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_1\"]/text"
 msgstr ""
-"ワームホールに入り、すぐにすぐにGI船のすぐ隣にある他の人を飛び出します。あなたはあなたの容器を損傷していないことをチェックして見つけます。「大丈夫、もう一度順番！」GIキャプテンは、このギャンブルにほとんど興奮しているようです。"
+"ワームホールに入ると、ほぼ即座に反対側、ギの船のすぐ隣に出てくる。船を確認すると、損傷はない。「よし、また私の番だ！」ギの船長はこのギャンブルにほとんど興奮しているようだ。"
 
 #: src-en/data/events_sector_aea_bird.xml:779
 msgid ""
@@ -868,17 +867,17 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:785
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/event/choice/event/choice[2]/text"
-msgstr "チキンアウト。"
+msgstr "怖気づく。"
 
 #: src-en/data/events_sector_aea_bird.xml:793
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[2]/text"
-msgstr "申し出と攻撃を無視します。"
+msgstr "申し出を無視して攻撃する。"
 
 #: src-en/data/events_sector_aea_bird.xml:795
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[2]/event/text"
-msgstr "あなたは通信をカットして武器を作動させます、Gi容器はあなたの意味をキャッチし、同じことをします。"
+msgstr "通信を切り、兵器を起動する。ギの船はあなたの意図を察し、同じことをする。"
 
 #: src-en/data/events_sector_aea_bird.xml:798
 msgid ""
@@ -893,7 +892,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:806
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[3]/event/text"
-msgstr "偶然の危険なゲームをプレイすることに興味がありません。"
+msgstr "危険な運試しのゲームに興味はない。"
 
 #: src-en/data/events_sector_aea_bird.xml:808
 msgid ""
@@ -908,12 +907,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:820
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_LOSE\"]/text"
-msgstr "スクラップを渡しますが、GIキャプテンは再びプレイすることを申し出ます。"
+msgstr "スクラップを渡すが、ギの船長はもう一度プレイしようと申し出る。"
 
 #: src-en/data/events_sector_aea_bird.xml:825
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_LOSE\"]/choice[1]/text"
-msgstr "もう一度遊ぶ。"
+msgstr "もう一度プレイする。"
 
 #: src-en/data/events_sector_aea_bird.xml:831
 msgid ""
@@ -923,23 +922,22 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:833
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_LOSE\"]/choice[2]/event/text"
-msgstr "GI容器は、ジャンプする前に少し待って、ビーコンに一人で残します。"
+msgstr "ギの船は少し待ってからジャンプし、あなたをビーコンに一人残していく。"
 
 #: src-en/data/events_sector_aea_bird.xml:840
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/text"
-msgstr ""
-"GIキャプテンはコインをひっくり返します。あなたはそれが着陸する側を呼ぶ時間があります。あなたが正しい場合は2番目に行く、あなたが間違っている場合、あなたは最初に行かなければならないでしょう。"
+msgstr "ギの船長がコインを投げる。どちらの面が出るか予想する時間がある。正しければ後攻、間違っていれば先攻になる。"
 
 #: src-en/data/events_sector_aea_bird.xml:842
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[1]/text"
-msgstr "「ビーク」と呼ぶ"
+msgstr "「くちばし」と予想する"
 
 #: src-en/data/events_sector_aea_bird.xml:844
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_2\"]/text"
-msgstr "コインはくちばしを上に着陸させ、GIキャプテンは最初にワームホールを飛びます。"
+msgstr "コインはくちばしの面が上に出た。ギの船長が最初にワームホールを飛ぶ。"
 
 #: src-en/data/events_sector_aea_bird.xml:846
 msgid ""
@@ -949,52 +947,52 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:852
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[2]/text"
-msgstr "「羽」と呼ぶ"
+msgstr "「羽」と予想する"
 
 #: src-en/data/events_sector_aea_bird.xml:854
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_1\"]/text"
-msgstr "コインはコインを間違えたと呼んだので、ワームホールを飛ぶためにあなたの番を間違えたので、くちばしを上に着陸させます。"
+msgstr "コインはくちばしの面が上に出た。予想が外れたので、あなたの番でワームホールを飛ぶ。"
 
 #: src-en/data/events_sector_aea_bird.xml:856
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_1\"]/choice[1]/text"
-msgstr "ワームホールを入力します。"
+msgstr "ワームホールに入る。"
 
 #: src-en/data/events_sector_aea_bird.xml:860
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_1\"]/choice[2]/text"
-msgstr "チキンアウト。"
+msgstr "怖気づく。"
 
 #: src-en/data/events_sector_aea_bird.xml:866
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[3]/text"
-msgstr "「ビーク」と呼ぶ"
+msgstr "「くちばし」と予想する"
 
 #: src-en/data/events_sector_aea_bird.xml:868
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_2\"]/text"
-msgstr "コインは羽を上に上に上げます。なぜなら、あなたはコインを間違えたので、ワームホールを飛ぶためにあなたの番を間違っています。"
+msgstr "コインは羽の面が上に出た。予想が外れたので、あなたの番でワームホールを飛ぶ。"
 
 #: src-en/data/events_sector_aea_bird.xml:870
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_2\"]/choice[1]/text"
-msgstr "ワームホールを入力します。"
+msgstr "ワームホールに入る。"
 
 #: src-en/data/events_sector_aea_bird.xml:874
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_2\"]/choice[2]/text"
-msgstr "チキンアウト。"
+msgstr "怖気づく。"
 
 #: src-en/data/events_sector_aea_bird.xml:880
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[4]/text"
-msgstr "「羽」と呼ぶ"
+msgstr "「羽」と予想する"
 
 #: src-en/data/events_sector_aea_bird.xml:882
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_4\"]/text"
-msgstr "コインはくちばしを羽毛に覆い、GIキャプテンは最初にワームホールを飛びます。"
+msgstr "コインは羽の面が上に出た。ギの船長が最初にワームホールを飛ぶ。"
 
 #: src-en/data/events_sector_aea_bird.xml:884
 msgid ""
@@ -1004,38 +1002,38 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:892
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER\"]/text"
-msgstr "あなたはコインをひっくり返し、土地の鳥の側に下を下ろして、最初に入る番です。"
+msgstr "コインを投げると鳥の面が下に出た。あなたの番で先に入る。"
 
 #: src-en/data/events_sector_aea_bird.xml:894
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER\"]/choice[1]/text"
-msgstr "ワームホールを入力します。"
+msgstr "ワームホールに入る。"
 
 #: src-en/data/events_sector_aea_bird.xml:898
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER\"]/choice[2]/text"
-msgstr "チキンアウト。"
+msgstr "怖気づく。"
 
 #: src-en/data/events_sector_aea_bird.xml:904
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_SPIN\"]/text"
-msgstr "ワームホールを通過するのはあなたの番です、あなたが反対側に出てきたとき、あなたが損傷した1/6のチャンスがあります。"
+msgstr "あなたの番でワームホールを通過する。反対側から出てくるときに損傷する確率は1/6だ。"
 
 #: src-en/data/events_sector_aea_bird.xml:906
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_SPIN\"]/choice[1]/text"
-msgstr "ワームホールを入力します。"
+msgstr "ワームホールに入る。"
 
 #: src-en/data/events_sector_aea_bird.xml:910
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_SPIN\"]/choice[2]/text"
-msgstr "チキンアウト。"
+msgstr "怖気づく。"
 
 #: src-en/data/events_sector_aea_bird.xml:920
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_LIST_PLAYER\"]/loadEventList/event[2]/text"
 msgstr ""
-"ワームホールに入りますが、他の側に飛び出すと、顕著なクランチが聞こえると、船がワームホールによって損傷しています。あなたは負けて、GIキャプテンは気づき、期待して待っています。"
+"ワームホールに入るが、反対側から出てくるときに顕著な軋み音が聞こえる。あなたの船はワームホールによって損傷した。あなたは負けた。ギの船長はそれに気づき、期待して待っている。"
 
 #: src-en/data/events_sector_aea_bird.xml:923
 msgid ""
@@ -1046,7 +1044,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_3\"]/text"
 msgstr ""
-"ワームホールに入り、すぐにすぐにGI船のすぐ隣にある他の人を飛び出します。あなたはあなたの容器を損傷していないことをチェックして見つけます。「大丈夫、もう一度順番！」GIキャプテンは、このギャンブルにほとんど興奮しているようです。"
+"ワームホールに入ると、ほぼ即座に反対側、ギの船のすぐ隣に出てくる。船を確認すると、損傷はない。「よし、また私の番だ！」ギの船長はこのギャンブルにほとんど興奮しているようだ。"
 
 #: src-en/data/events_sector_aea_bird.xml:934
 msgid ""
@@ -1056,7 +1054,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:943
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_LIST_ENEMY\"]/loadEventList/event[1]/text"
-msgstr "しばらくして、GI船は無傷でワームホールから飛び出します。「大丈夫、あなたの番。」"
+msgstr "少しして、ギの船が無傷でワームホールから出てくる。「よし、君の番だ。」"
 
 #: src-en/data/events_sector_aea_bird.xml:945
 msgid ""
@@ -1067,18 +1065,18 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_LIST_ENEMY\"]/loadEventList/event[2]/text"
 msgstr ""
-"しばらくして、GI船はワームホールから飛び出します。または、少なくともその部分は、船舶が容器には多すぎて、輸送中に引き裂かれたようです。あなたはヴィーゼルの残りのものを廃棄します。"
+"少しして、ギの船がワームホールから出てくる。少なくともその一部が。どうやらワームホールは彼らの船には強すぎ、輸送中に引き裂かれたようだ。船の残骸をスクラップにする。"
 
 #: src-en/data/events_sector_aea_bird.xml:961
 msgid ""
 "data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_ROULETTE_ROLL_START_2\"]/text"
 msgstr ""
-"しばらくして、Gi船がワームホールから飛び出しますが、今回は船に残された液体の跡が見えますが、もある顕著なクランチマークが横にあります。「よろしくお願いしますが、私はまだ再び行きたいと思っています、どうですか？」"
+"少しして、ギの船がワームホールから出てくるが、今度は船から液体の跡が残っているのが見える。側面には顕著なへこみがある。「よし、君の勝ちだ。でも、私はまだもう一度やる気がある。どうだい？」"
 
 #: src-en/data/events_sector_aea_bird.xml:968
 msgid ""
 "data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_ROULETTE_ROLL_START_2\"]/choice[1]/text"
-msgstr "もう一度遊ぶ。"
+msgstr "もう一度プレイする。"
 
 #: src-en/data/events_sector_aea_bird.xml:974
 msgid ""
@@ -1088,33 +1086,33 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:976
 msgid ""
 "data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_ROULETTE_ROLL_START_2\"]/choice[2]/event/text"
-msgstr "GI容器は、ジャンプする前に少し待って、ビーコンに一人で残します。"
+msgstr "ギの船は少し待ってからジャンプし、あなたをビーコンに一人残していく。"
 
 #: src-en/data/events_sector_aea_bird.xml:1003
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/text"
-msgstr "ビーコンに到着すると、GIコロニーが見つかります。あなたは植民地を呼びかけようとしますが、応答はありません。"
+msgstr "ビーコンに到着すると、ギのコロニーが救難信号を送っているのを見つける。コロニーに通信を試みるが、応答はない。"
 
 #: src-en/data/events_sector_aea_bird.xml:1006
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/text"
-msgstr "植民地に着地します。"
+msgstr "コロニーに着陸する。"
 
 #: src-en/data/events_sector_aea_bird.xml:1009
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/text"
-msgstr "あなたは着陸し、植民地を捨てて放棄されていることに気づき、さらに、闘争や戦いの兆候を見つけることができません。"
+msgstr "コロニーに着陸すると、そこは放棄されており、さらに争いや戦闘の兆候も見られない。"
 
 #: src-en/data/events_sector_aea_bird.xml:1011
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/text"
-msgstr "コロニーの検索を続けます。"
+msgstr "コロニーの捜索を続ける。"
 
 #: src-en/data/events_sector_aea_bird.xml:1013
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"最終的には、ロックされた部屋に隠れているコロニーのメンバーを発見します。彼らの安全を保証した後、彼らは出てきます。「ここで何が起こったのか疑問に思っていると思いますが、残念ながら何が起こったのかはわかりません。私は通常、部屋を閉じ込めて寝ているので、今朝目が覚めたとき、ドアを詰めてロックしました。"
+"やがて、鍵のかかった部屋に隠れているコロニーのメンバーを発見する。安全を保証すると、彼らは出てくる。「ここで何が起こったのか不思議に思っているだろう。残念ながら、私も何が起こったのかわからないんだ。私はいつも部屋に鍵をかけて寝ているので、今朝ドアを叩く音で目が覚めたときも鍵をかけたままにした。何が起こったのかわからないが、部屋から救難ビーコンを作動させることができた。」"
 
 #: src-en/data/events_sector_aea_bird.xml:1015
 msgid ""
@@ -1125,31 +1123,31 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
-"GIは、システムにログインしてセキュリティ映像を再生することができるセキュリティセンターに戻ります。この映像は、ここの植民地の友人が苦痛のビーコンをオンにしたときにのみ遡ります。植民地の残りの部分は、東に向かう州のようなトランスの中で、あなたは何が起こったのか確信が持てませんが、あなたは科学研究所で奇妙な真菌について話しているいくつかのメモを見つけました。"
+"ギはあなたをセキュリティセンターに案内し、システムにログインしてセキュリティ映像を再生する。映像は、ここのコロニーの友人が救難ビーコンをつけた時にまでしか遡らない。コロニーの残りのメンバーは、トランス状態のように東に向かったようだ。何が起こったのかはわからないが、科学研究所で奇妙な菌類について書かれたメモを見つけた。"
 
 #: src-en/data/events_sector_aea_bird.xml:1019
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr "東に向かいます。"
+msgstr "東へ向かう。"
 
 #: src-en/data/events_sector_aea_bird.xml:1021
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"残りの植民地メンバーによってレイアウトされたトレイルに続いて、あなたは東に出発しました。最終的にあなたは大きな崖の顔に来ます、トレイルはここで止まっているように見えます。真菌や苔がそれらを所定の位置に保持しているように見えます。"
+"コロニーの残りのメンバーが残した跡をたどり、東へ出発する。やがて、大きな崖にたどり着き、跡はここで途切れているように見える。しかし、見上げると、コロニーのメンバー全員が崖に広がっているのが見える。菌類か苔のようなものが彼らを固定しているようだ。"
 
 #: src-en/data/events_sector_aea_bird.xml:1023
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr "くさびを使用して崖からコロニーのメンバーを取り除こうとします。"
+msgstr "くさびを使って崖からコロニーのメンバーを剥がそうとする。"
 
 #: src-en/data/events_sector_aea_bird.xml:1025
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
-"コロニーのメンバーが壁にゆるく取り付けられているのを見つけ、壁からそっと離脱します。彼らは反応しない地面に落ちます。しばらくして、残りの植民地から大きな金切り声が聞こえます。別の騒音がそれを追い越すまで数分間続きます。船の上から来る船の騒音。\n"
+"壁に緩く付着しているコロニーのメンバーを見つけ、そっと壁から引き離す。彼らは反応なく地面に落ちる。少しして、残りのコロニーから大きな金切り声が聞こえる。それは数分間続き、やがて別の音、崖の上から来る船の音に圧倒される。\n"
 "\n"
-"GI船が上から現れ、あなたに対する攻撃の実行を開始します。あなたはあなたの船に戻ってスクランブルします。"
+"ギの船が崖の上から現れ、あなたへの攻撃を開始する。あなたは急いで船に戻る。"
 
 #: src-en/data/events_sector_aea_bird.xml:1030
 msgid ""
@@ -1159,13 +1157,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1036
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr "犠牲者の一人の周りに真菌のいくつかを吹き飛ばそうとします。"
+msgstr "犠牲者の一人の周りの菌類の一部を吹き飛ばそうとする。"
 
 #: src-en/data/events_sector_aea_bird.xml:1038
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
-"あなたは、主要な質量から分離された真菌が枯れて死に始めているのを見ると、植民地のメンバーの周りの真菌のいくつかを慎重に吹き飛ばします。最終的にコロニーのメンバーは壁から離れて復活し、他の真菌からの反応はないため、すべてのコロニーメンバーが分離されるまでプロセスを繰り返します。"
+"慎重にコロニーのメンバーの一人の周りの菌類の一部を吹き飛ばすと、本体から分離した菌類がしおれて死んでいくのを見る。やがて、コロニーのメンバーは壁から離れて蘇生し、残りの菌類からの反応はない。そこで、すべてのコロニーのメンバーが離れるまでこのプロセスを繰り返す。"
 
 #: src-en/data/events_sector_aea_bird.xml:1040
 msgid ""
@@ -1175,21 +1173,20 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1042
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/text"
-msgstr ""
-"あなたはすべてのコロニーのメンバーのすべてを生き生きとさせることができます。彼らは信じられないほど感謝しており、大量のスクラップと彼らの店からの戦闘ドローンであなたに報いることができます。"
+msgstr "コロニーのメンバー全員を無事にコロニーに連れ戻すことができ、彼らは非常に感謝し、大量のスクラップと店の戦闘ドローンであなたに報酬を与える。"
 
 #: src-en/data/events_sector_aea_bird.xml:1050
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_WEAPONS_FIRE_ALL\"]/text"
-msgstr "（火の武器）それをすべて燃やしてください！"
+msgstr "(火器) 全て燃やせ！"
 
 #: src-en/data/events_sector_aea_bird.xml:1052
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_WEAPONS_FIRE_ALL\"]/event/text"
 msgstr ""
-"あなたは壁に火をつけ、火が真菌にすぐに広がるのを見て、多くの植民地のメンバーを消費します。ほぼすぐに残りのコロニーのメンバーは金切り声を上げ始めます。別の騒音がそれを追い越すまで数分間続きます。船の上から来る船の騒音。\n"
+"壁に火をつけると、火はすぐに菌類全体に広がり、多くのコロニーのメンバーを飲み込んでいくのが見える。ほぼ即座に、残りのコロニーのメンバーが金切り声を上げ始める。それは数分間続き、やがて別の音、崖の上から来る船の音に圧倒される。\n"
 "\n"
-"GI船が上から現れ、あなたに対する攻撃の実行を開始します。あなたはあなたの船に戻ってスクランブルします。"
+"ギの船が崖の上から現れ、あなたへの攻撃を開始する。あなたは急いで船に戻る。"
 
 #: src-en/data/events_sector_aea_bird.xml:1061
 msgid ""
@@ -1199,12 +1196,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1075
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[2]/text"
-msgstr "コロニーを無視してください。"
+msgstr "コロニーを無視する。"
 
 #: src-en/data/events_sector_aea_bird.xml:1077
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[2]/event/text"
-msgstr "植民地の調査には興味がありません。"
+msgstr "コロニーを調査することに興味はない。"
 
 #: src-en/data/events_sector_aea_bird.xml:1079
 msgid ""
@@ -1220,61 +1217,61 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/text"
 msgstr ""
-"元のGIコロニーのメンバーがあなたが彼らを去った崖側に隠れているのを見つけます。船を倒した後、それは残りの真菌が投資した植民地のメンバーが死んだように見えます。GIが乗組員に加わることを申し出て、植民地に戻る人は誰もいません。"
+"船を倒した後、あなたが残した崖っぷちに隠れていた元のギのコロニーメンバーを見つける。残りの菌類に侵されたコロニーメンバーは死んだようだ。コロニーに戻る相手がいないため、ギはあなたのクルーに加わることを申し出る。"
 
 #: src-en/data/events_sector_aea_bird.xml:1093
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/choice[1]/text"
-msgstr "船内を受け入れます。"
+msgstr "彼らを乗船させる。"
 
 #: src-en/data/events_sector_aea_bird.xml:1095
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/choice[1]/event/text"
-msgstr "彼らは植民地と彼らの友人の喪失について悲しいですが、あなたが彼らを救うために少なくとも非常に大きなです。"
+msgstr "彼らはコロニーと友人の喪失を悲しんでいるが、少なくともあなたに救われたことに感謝している。"
 
 #: src-en/data/events_sector_aea_bird.xml:1100
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/choice[2]/text"
-msgstr "近くの駅でそれらを降ろすことを申し出ます。"
+msgstr "近くのステーションで彼らを降ろすことを提案する。"
 
 #: src-en/data/events_sector_aea_bird.xml:1102
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/choice[2]/event/text"
-msgstr "彼らは失望しているように見えますが、あなたがそれらを救ってくれたことにまだ少なくとも感謝しています。"
+msgstr "彼らはがっかりしているようだが、それでも少なくともあなたに救われたことに感謝している。"
 
 #: src-en/data/events_sector_aea_bird.xml:1124
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/text"
 msgstr ""
-"ビーコンに到着すると、近くにあるGI輸送船が漂流していることがわかります。スキャンは、原子炉が吹き飛ばされ、電力がないことを示しています。彼らは生命維持システムのためにバックアップを持っているようであるため、乗組員はこれまで生き残っています。"
+"ビーコンに到着すると、近くに漂流するギの輸送船を発見する。スキャンによると、リアクターが爆発し、電力が供給されていない。生命維持システムのバックアップを運んでいるようで、クルーはこれまで生き延びている。"
 
 #: src-en/data/events_sector_aea_bird.xml:1128
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[1]/text"
-msgstr "ドックして乗組員に連絡してください。"
+msgstr "ドッキングしてクルーに連絡する。"
 
 #: src-en/data/events_sector_aea_bird.xml:1130
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[1]/event/text"
 msgstr ""
-"すぐにGIクルーの1人に会います。「素早く、この薬を植民地に届ける必要があります。何百もの命が危機にatしています。」彼らはすぐに貨物を船上に移動し始めるので、あなたはほとんど言うことはありません。\n"
+"すぐにギのクルーの一人に会う。「急いで、この薬をコロニーに届けてくれ。何百もの命がかかっている。」あなたはほとんど口を挟む間もなく、彼らはすぐに貨物を船内に移動させ始める。一人が貨物と一緒に乗船し、他の者は別の船が迎えに来るのを待つと言う。\n"
 "\n"
-"彼らは、薬の有効期限が切れる数分しかないので、時間内にそこに着くために速く移動する必要があるとあなたに言います。"
+"彼らは薬が期限切れになるまで数分しかないとあなたに告げる。間に合うように急いで移動する必要がある。"
 
 #: src-en/data/events_sector_aea_bird.xml:1137
 msgid ""
 "data/events_sector_aea_bird.xml$//triggeredEvent[@name=\"AEA_BIRD_DELIVERY_TIMER\"]/triggeredEventBox/tooltip"
-msgstr "このタイマーがなくなると、薬は期限切れになります！"
+msgstr "このタイマーが切れると薬は期限切れになります！"
 
 #: src-en/data/events_sector_aea_bird.xml:1147
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[2]/text"
-msgstr "無防備である間、船を廃棄します。"
+msgstr "無防備な船をスクラップにする。"
 
 #: src-en/data/events_sector_aea_bird.xml:1149
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[2]/event/text"
-msgstr "あなたは船を解体し、あなたが空白に犠牲にした輸送の乗組員について考えることを避けようとします。"
+msgstr "船を解体し、虚空に犠牲にした輸送船のクルーのことを考えないようにする。"
 
 #: src-en/data/events_sector_aea_bird.xml:1155
 msgid ""
@@ -1284,7 +1281,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1157
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[3]/event/text"
-msgstr "次のビーコンにジャンプする準備をします。"
+msgstr "次のビーコンへのジャンプ準備をする。"
 
 #: src-en/data/events_sector_aea_bird.xml:1159
 msgid ""
@@ -1299,45 +1296,45 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1171
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_FAILED\"]/text"
-msgstr "薬は期限切れになっていますが、今はコロニーを救うことができません..."
+msgstr "薬は期限切れだ。もうコロニーを救う方法はない..."
 
 #: src-en/data/events_sector_aea_bird.xml:1179
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/beaconType/unvisitedTooltip"
-msgstr "ここのコロニーはあなたの薬に頼ってそれらを救っています。"
+msgstr "ここのコロニーはあなたの薬に救いを求めている。"
 
 #: src-en/data/events_sector_aea_bird.xml:1183
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/text"
-msgstr "あなたは植民地に到着しました、うまくいけば薬が消えていないことを願っています。"
+msgstr "コロニーに到着した。薬がダメになっていないことを願う。"
 
 #: src-en/data/events_sector_aea_bird.xml:1185
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[@req=\"aea_bird_medicine\""
 " and @lvl=\"1\"]/text"
-msgstr "薬を届けます。"
+msgstr "薬を届ける。"
 
 #: src-en/data/events_sector_aea_bird.xml:1187
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[@req=\"aea_bird_medicine\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
-"あなたは薬を届け、植民地の医療スタッフはすぐにそれを病人に分配する仕事に取り掛かります。スタッフは非常に感謝しており、店舗からドローンを大量に廃棄して返済します。"
+"薬を届けると、コロニーの医療スタッフはすぐに病人にそれを配布し始める。スタッフは非常に感謝し、大量のスクラップと店のドローンであなたに返礼する。"
 
 #: src-en/data/events_sector_aea_bird.xml:1194
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[@req=\"aea_bird_medicine\""
 " and @lvl=\"0\"]/text"
-msgstr "薬の有効期限が切れました。"
+msgstr "薬は期限切れだ。"
 
 #: src-en/data/events_sector_aea_bird.xml:1198
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[3]/text"
-msgstr "コロニーを避けてください。"
+msgstr "コロニーを避ける。"
 
 #: src-en/data/events_sector_aea_bird.xml:1200
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[3]/event/text"
-msgstr "次のビーコンにジャンプする準備をします。"
+msgstr "次のビーコンへのジャンプ準備をする。"
 
 #: src-en/data/events_sector_aea_bird.xml:1202
 msgid ""
@@ -1352,7 +1349,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1233
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"ENCOUNTER_AEA_BIRD_SALVAGE\"]/text"
-msgstr "あなたは近くに連邦船の難破船を見つけます。救助を検討する前に、GI船が飛び込み、シーンを調査し、船の破壊を非難します！"
+msgstr "近くに連邦船の残骸を見つける。サルベージを考え始める前に、ギの船がジャンプインし、現場を調査し、船の破壊をあなたのせいにする！"
 
 #: src-en/data/events_sector_aea_bird.xml:1236
 msgid ""
@@ -1362,7 +1359,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1242
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"ENCOUNTER_AEA_BIRD_FED_SALVAGE\"]/text"
-msgstr "近くにGI船の難破船が見つかります。救助を検討する前に、フェデレーション船が飛び込み、シーンを調査し、船の破壊を非難します！"
+msgstr "近くにギの船の残骸を見つける。サルベージを考え始める前に、連邦船がジャンプインし、現場を調査し、船の破壊をあなたのせいにする！"
 
 #: src-en/data/events_sector_aea_bird.xml:1245
 msgid ""
@@ -1372,7 +1369,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1269
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES\"]/text"
 msgstr ""
-"あなたはビーコンに到着し、民間船を追いかけている大規模なエリート連盟の船を発見します。民間人の船が連邦船によって細断されているので、あなたが見ることができる前に。その後、大きな船は武器の武器であなたに向き合います。"
+"ビーコンに到着すると、大きなエリート連邦船が民間船を追いかけているのを発見する。何かをする前に、民間船が連邦船によって引き裂かれるのを見る。大きな船は次に兵器を構えてあなたに向き直る。"
 
 #: src-en/data/events_sector_aea_bird.xml:1272
 msgid ""
@@ -1383,30 +1380,30 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_SURRENDER\"]/text"
 msgstr ""
-"船の船長がスクリーンに登場し、彼らは急いで連邦の衣装をまとめています。「キャプテン、明らかに私たちは間違った足で降りました。停戦をしましょう。謝罪としてスクラップを送ります」"
+"船の船長が画面に現れる。彼らは急ごしらえの連邦の服を着ている。「船長、明らかに我々は出だしを間違えた。停戦して、謝罪としてスクラップをいくつか送ろう。」"
 
 #: src-en/data/events_sector_aea_bird.xml:1280
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_SURRENDER\"]/choice[1]/text"
-msgstr "停戦に同意します。"
+msgstr "停戦に同意する。"
 
 #: src-en/data/events_sector_aea_bird.xml:1282
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_SURRENDER\"]/choice[1]/event/text"
 msgstr ""
-"あなたはあなたの武器を無効にし、彼らはシャトルの上に送ります。それはあなたの船でドッキングすることになりますが、あなたがそれを開けることができる前に、あなたの船体に爆発が裂けます。シャトルは爆発的でいっぱいで、あなたは彼らのtrapのために落ちました。\n"
+"兵器を停止させると、彼らはシャトルを送ってくる。あなたの船にドッキングするが、開ける前に爆発が船体を切り裂く。シャトルは爆発物でいっぱいだった。あなたは彼らの罠に落ちたのだ。\n"
 "\n"
-"どういうわけか、あなたは連邦船が反政府勢力でいっぱいであることに気づきませんでした。"
+"どういうわけか、連邦船が反乱軍でいっぱいであることに気づかなかった。"
 
 #: src-en/data/events_sector_aea_bird.xml:1290
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_SURRENDER\"]/choice[2]/text"
-msgstr "それらをミュートし、戦い続けます。"
+msgstr "彼らをミュートして戦いを続ける。"
 
 #: src-en/data/events_sector_aea_bird.xml:1295
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_DESTROY\"]/text"
-msgstr "あなたは連邦船を破壊し、それとともに反乱軍の乗組員を破壊しました。あなたが調査するとき、あなたは難破船を救います。"
+msgstr "連邦船と、それに乗っていた反乱軍クルーを破壊した。調査しながら残骸をサルベージする。"
 
 #: src-en/data/events_sector_aea_bird.xml:1298
 msgid ""
@@ -1416,7 +1413,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1303
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_DEADCREW\"]/text"
-msgstr "あなたはすべての反乱軍の乗組員を殺しました。あなたが調査するとき、あなたは難破船を救います。"
+msgstr "反乱軍クルーを全員殺した。調査しながら残骸をサルベージする。"
 
 #: src-en/data/events_sector_aea_bird.xml:1306
 msgid ""
@@ -1427,29 +1424,29 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_INVEST\"]/text"
 msgstr ""
-"船を検索してください。ストレージベイの遺跡では、多くの連邦衣装があります。衣装のポケットの中を検索してデータパッドを見つけます。船は、コンピューターによれば、完全に空で、面白いものがないことをビーコンに駐留しているようです。マップ上の場所をマークします。"
+"船を捜索し、保管庫の残骸から多数の連邦の服を見つける。服の一つのポケットの中を探すとデータパッドを見つける。どうやら船は、あなたのコンピュータによれば完全に空で何も興味深いものがないビーコンに駐留していたようだ。その場所を地図にマークする。"
 
 #: src-en/data/events_sector_aea_bird.xml:1330
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_REBEL_BASE\"]/beaconType/unvisitedTooltip"
-msgstr "連邦の巡洋艦が反乱軍の乗組員が駐留していた空のビーコン。"
+msgstr "反乱軍クルーを乗せた連邦巡洋艦が駐留していた空のビーコン。"
 
 #: src-en/data/events_sector_aea_bird.xml:1333
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_REBEL_BASE\"]/text"
 msgstr ""
-"あなたは明らかに空のビーコンに到着し、ビーコンの近くにかなり大きなGI軍事基地を発見しました。あなたはそれにドッキングされた小さな反乱軍のシャトルに気づき、スキャンは、シャトルがステルス能力で変更されたことを示しました、彼らはそれらを使用して船上にこっそりとベースを引き継いだに違いありません。"
+"一見空っぽのビーコンに到着すると、ビーコンの近くにかなり大きなギの軍事基地を発見する。小さな反乱軍シャトルがドッキングしているのに気づく。スキャンによると、シャトルはステルス機能で改造されており、それを使って基地に忍び込み、乗っ取ったに違いない。"
 
 #: src-en/data/events_sector_aea_bird.xml:1335
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_REBEL_BASE\"]/choice/text"
-msgstr "シャトルを吹き飛ばして駅に閉じ込めます。"
+msgstr "シャトルを爆破してステーションに奴らを閉じ込める。"
 
 #: src-en/data/events_sector_aea_bird.xml:1337
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_REBEL_BASE\"]/choice/event/text"
 msgstr ""
-"いくつかのボレーが必要ですが、駅にドッキングされたすべてのシャトルを爆発させることができます。しかし、最後のシャトルを破壊すると、空のハンガーが開いてGIトランスポートが明らかになったと思ったハンガーを破壊すると、この輸送はアップグレードされ、非常に危険であるように見えます。これが軍事基地がそんなに秘密だった理由であるのだろうかと思いますが、あなたは輸送で切断されて、自分の船をまっすぐ飛んでいるハンガーを離れています。"
+"数回の斉射の末、ステーションにドッキングしているすべてのシャトルを爆破することに成功した。しかし最後のシャトルを破壊すると、空だと思っていた格納庫が開き、Giの輸送船が現れた。この輸送船はアップグレードされており、非常に危険なようだ。この軍事基地が極秘だったのはこのせいかと考えていると、輸送船が格納庫から飛び出し、自船にまっすぐ向かってきたため思考は遮られた。"
 
 #: src-en/data/events_sector_aea_bird.xml:1340
 msgid ""
@@ -1459,7 +1456,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1348
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_TRANS_DESTROY\"]/text"
-msgstr "盗まれた輸送を破壊しました。GIにとってそれほど重要ではないことを願っています。あなたは難破船の遺跡を廃棄します。"
+msgstr "盗まれた輸送船を破壊した。Giにとってあまり重要でないことを祈る。残骸からスクラップを回収した。"
 
 #: src-en/data/events_sector_aea_bird.xml:1351
 msgid ""
@@ -1470,7 +1467,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_TRANS_DEADCREW\"]/text"
 msgstr ""
-"あなたは盗まれた輸送で反乱軍のすべての乗組員を殺し、あなたはすべての反乱軍のスクラップと物資を搭乗させて服用しますが、輸送を無傷のままにします。"
+"盗まれた輸送船に乗っていた反乱軍クルーを全員始末した。船に乗り込み、反乱軍のスクラップと物資をすべて奪ったが、輸送船自体は無傷のままにした。"
 
 #: src-en/data/events_sector_aea_bird.xml:1360
 msgid ""
@@ -1481,73 +1478,72 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_TRANS_INVEST\"]/text"
 msgstr ""
-"輸送が残りの反政府勢力を扱っていると、駅に完全に閉じ込められています。GIとFederationを送信して、状況を清掃します。\n"
+"輸送船を処理したことで、残りの反乱軍はステーション内に完全に閉じ込められた。Giと連邦に状況の収拾を要請する。\n"
 "\n"
-"最終的にあなたのサポートが到着し、GIと連邦の兵士は反乱軍がすぐに降伏した後、基地を取り戻します。GIは、基地を救うためのあなたの助けに非常に感謝しており、彼らは反政府勢力に基地が引き継がれたことに気づかなかった。\n"
-"GIは、彼らのプロトタイプの巡洋艦の青写真をあなたに送って、スクラップや物資の山と一緒に送っています。"
+"やがて援軍が到着し、Giと連邦の兵士たちは、すぐに降伏した反乱軍から基地を奪還した。Giは基地を救ってくれたことに非常に感謝している。彼らは基地が反乱軍に乗っ取られていたことにさえ気づいていなかった。どうやら反乱軍は基地を稼働させ続けていたようだ。\n"
+"Giはプロトタイプの巡洋艦の設計図を、大量のスクラップや物資と共に送ってくれた。"
 
 #: src-en/data/events_sector_aea_bird.xml:1388
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/beaconType/unvisitedTooltip"
-msgstr "GI連合の中央工学施設。"
+msgstr "Gi連邦中央技術施設。"
 
 #: src-en/data/events_sector_aea_bird.xml:1391
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/text"
-msgstr ""
-"セントラルエンジニアリング施設に到着しましたが、施設のほとんどは訪問者には立ち入り禁止ですが、GIエンジニアの革新が提示されている大規模な博物館があります。"
+msgstr "中央技術施設に到着した。施設のほとんどは訪問者立ち入り禁止だが、Giの技術者たちの革新的な発明が展示されている大きな博物館がある。"
 
 #: src-en/data/events_sector_aea_bird.xml:1393
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/text"
-msgstr "博物館を訪れてください。"
+msgstr "博物館を訪れる。"
 
 #: src-en/data/events_sector_aea_bird.xml:1395
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/text"
 msgstr ""
-"最初の展示は、中央工学施設の最初の設計であるツインドローンをカバーしています。\n"
-"「ツインドローンは標準的な戦闘ドローンの変更です。GIエンジニアは、一部の戦闘ドローンが敵の船の保護シールド層に浸透できないことに気付きました。GIエンジニアはドローン、小さくて弱いイオンキャノン、イオン化シールドに十分なほど十分なほど十分な小さくて弱いイオンキャノンに添付されていましたが、ドローンの最大のドローンは、ドローンのドローンではありませんでした。追加の武器によって減速しました。」"
+"最初の展示は、中央技術施設の最初の設計であるツインドローンについてだ。\n"
+"「ツインドローンは標準的な戦闘ドローンの改造版です。Giの技術者たちは、一部の戦闘ドローンが敵船の保護シールド層を貫通できないことに気づきました。そこで、ドローンにアタッチメント、つまり小型で弱いイオンキャノンを開発しました。これはシールドをイオン化するには十分でしたが、それ以上の威力はありませんでした。このドローンの最大の欠点は、動力源が2つの兵器を同時に動かすようには設計されておらず、追加の兵器によって速度が低下することでした。」"
 
 #: src-en/data/events_sector_aea_bird.xml:1398
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/text"
-msgstr "次の展示に移動します。"
+msgstr "次の展示へ進む。"
 
 #: src-en/data/events_sector_aea_bird.xml:1400
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"次の展示はバーストドローンをカバーします。\n"
-"「バーストドローンは施設原産の最初の設計でした。ドローンは適応電源を中心に設計されていました。この電源は武器の効力を大幅に向上させることができましたが、ドローンの速度を増加させることができました。"
+"次の展示はバーストドローンについてだ。\n"
+"「バーストドローンは、この施設で最初に設計されたものです。このドローンは適応型電源を中心に設計されており、この電源によって兵器の威力を大幅に向上させることができましたが、出力を上げるとドローンの速度はやはり低下しました。このドローンは依然として非常に電力効率が良く、ドローンリアクター設計におけるこれらの発展は、さらなる発展へと繋がりました。」"
 
 #: src-en/data/events_sector_aea_bird.xml:1403
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "次の展示に移動します。"
+msgstr "次の展示へ進む。"
 
 #: src-en/data/events_sector_aea_bird.xml:1405
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"次の展示は、Intelドローンをカバーしています。\n"
-"「インテルドローンは、ドローンデザインの異なる領域で前方に飛躍していました。インテリジェンスドローンには真新しいAIモジュールが組み込まれています。これにより、敵船の重要なコンポーネントをターゲットにすることでドローンの効力が大幅に増加し、損傷の信頼性が高まります。"
+"次の展示はインテルドローンについてだ。\n"
+"「インテルドローンは、ドローン設計の異なる分野における飛躍的な前進でした。インテリジェンスドローンは全く新しいAIモジュールを搭載しており、これにより敵船の重要コンポーネントを標的にできるようになり、ダメージの信頼性を高め、ドローンの威力を大幅に向上させました。また、このドローンはドローンリアクター設計における以前の進歩も取り入れており、2つのレーザーキャノンを同時に動かすことができます。」"
 
 #: src-en/data/events_sector_aea_bird.xml:1408
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "最終展示に移動します。"
+msgstr "最後の展示へ進む。"
 
 #: src-en/data/events_sector_aea_bird.xml:1410
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"最後の展示は、バイオドローンをカバーしています。\n"
-"「バイオドローンは、この施設によるドローンデザインの最も近代的な開発です。このドローンの進歩の1つには、IntelドローンのAIモジュールが組み込まれていますが、今回はAIが敵の乗組員をターゲットに調整しました。これにより、武器の有効性が大幅に向上します。すぐ近くに。」"
+"最後の展示はバイオドローンについてだ。\n"
+"「バイオドローンは、この施設によるドローン設計における最も近代的な開発です。このドローンの進歩の1つは、インテルドローンのAIモジュールを取り入れたことですが、今回はAIが敵クルーを標的にするように調整されており、これにより兵器の有効性が大幅に向上しました。これは次の開発に繋がり、このドローンシリーズの兵器は、標的が死亡時に爆発して周囲にダメージを与える強力なバイオレーザーを搭載しています。」"
 
 #: src-en/data/events_sector_aea_bird.xml:1413
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "ギフトショップに向かいます。"
+msgstr "ギフトショップへ向かう。"
 
 #: src-en/data/events_sector_aea_bird.xml:1417
 msgid ""
@@ -1572,12 +1568,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1441
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[2]/text"
-msgstr "博物館を無視してください。"
+msgstr "博物館を無視する。"
 
 #: src-en/data/events_sector_aea_bird.xml:1443
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[2]/event/text"
-msgstr "次のビーコンにジャンプする準備をします。"
+msgstr "次のビーコンへのジャンプ準備をする。"
 
 #: src-en/data/events_sector_aea_bird.xml:1445
 msgid ""
@@ -1592,12 +1588,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1457
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/text"
 msgstr ""
-"ギフトショップはほとんど役に立たないニックのコツでいっぱいですが、何かがあなたの目を引いています。「この簡単なアンケートに記入することができれば、あなた自身のインテルドローンを獲得できます！」"
+"ギフトショップはほとんどが役に立たない小物でいっぱいだが、あるものが目に留まった。「この簡単なアンケートに答えるだけで、あなただけのインテルドローンが当たるチャンス！」"
 
 #: src-en/data/events_sector_aea_bird.xml:1460
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/text"
-msgstr "アンケートを試してください。"
+msgstr "アンケートに挑戦する。"
 
 #: src-en/data/events_sector_aea_bird.xml:1462
 msgid ""
@@ -1607,22 +1603,22 @@ msgstr "質問1：ツインドローンの最大の欠点は何でしたか？"
 #: src-en/data/events_sector_aea_bird.xml:1464
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/choice[1]/text"
-msgstr "イオン大砲がシステムをイオン化することができない。"
+msgstr "イオンキャノンがシステムをイオン化できないこと。"
 
 #: src-en/data/events_sector_aea_bird.xml:1468
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/choice[2]/text"
-msgstr "追加の武器によって追加されたドラッグ。"
+msgstr "追加兵器による抵抗の増加。"
 
 #: src-en/data/events_sector_aea_bird.xml:1472
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/choice[3]/text"
-msgstr "レーザーキャノンがシールド層に浸透できないこと。"
+msgstr "レーザーキャノンがシールド層を貫通できないこと。"
 
 #: src-en/data/events_sector_aea_bird.xml:1476
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/choice[4]/text"
-msgstr "ドローンを遅くする電源の衰弱。"
+msgstr "動力源の弱さによるドローンの速度低下。"
 
 #: src-en/data/events_sector_aea_bird.xml:1482
 msgid ""
@@ -1632,7 +1628,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1488
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/text"
-msgstr "質問2：バーストドローンの背後にある主要な革新は何でしたか？"
+msgstr "質問2：バーストドローンの背後にあった主な革新は何でしたか？"
 
 #: src-en/data/events_sector_aea_bird.xml:1490
 msgid ""
@@ -1642,22 +1638,22 @@ msgstr "マルチショットレーザーキャノン。"
 #: src-en/data/events_sector_aea_bird.xml:1494
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/choice[2]/text"
-msgstr "適応電源ユニット。"
+msgstr "適応型電源ユニット。"
 
 #: src-en/data/events_sector_aea_bird.xml:1498
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/choice[3]/text"
-msgstr "精度バレルの増加。"
+msgstr "命中精度を向上させた砲身。"
 
 #: src-en/data/events_sector_aea_bird.xml:1502
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/choice[4]/text"
-msgstr "ドローン部品のより効率的な使用。"
+msgstr "ドローンパーツのより効率的な使用。"
 
 #: src-en/data/events_sector_aea_bird.xml:1508
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/text"
-msgstr "質問2：バーストドローンの背後にある主要な革新は何でしたか？"
+msgstr "質問2：バーストドローンの背後にあった主な革新は何でしたか？"
 
 #: src-en/data/events_sector_aea_bird.xml:1510
 msgid ""
@@ -1667,219 +1663,227 @@ msgstr "マルチショットレーザーキャノン。"
 #: src-en/data/events_sector_aea_bird.xml:1514
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/choice[2]/text"
-msgstr "適応電源ユニット。"
+msgstr "適応型電源ユニット。"
 
 #: src-en/data/events_sector_aea_bird.xml:1518
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/choice[3]/text"
-msgstr "精度バレルの増加。"
+msgstr "命中精度を向上させた砲身。"
 
 #: src-en/data/events_sector_aea_bird.xml:1522
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/choice[4]/text"
-msgstr "ドローン部品のより効率的な使用。"
+msgstr "ドローンパーツのより効率的な使用。"
 
 #: src-en/data/events_sector_aea_bird.xml:1528
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/text"
-msgstr "質問3：Intelドローンのカスタムモジュールは何をしましたか？"
+msgstr "質問3：インテルドローンのカスタムモジュールは何をしましたか？"
 
 #: src-en/data/events_sector_aea_bird.xml:1530
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/choice[1]/text"
-msgstr "星雲でもターゲットのセンサービューをユーザーに提供しました。"
+msgstr "星雲内でもターゲットのセンサービューをユーザーに提供した。"
 
 #: src-en/data/events_sector_aea_bird.xml:1534
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/choice[2]/text"
-msgstr "ドローンがシステムレスルームをターゲットにするのを止めました。"
+msgstr "ドローンがシステムのない部屋を標的にするのを防いだ。"
 
 #: src-en/data/events_sector_aea_bird.xml:1538
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/choice[3]/text"
-msgstr "ヒットルームに敵の船を搭載したホログラムを配備します。"
+msgstr "命中した部屋の敵船内にホログラムを展開した。"
 
 #: src-en/data/events_sector_aea_bird.xml:1542
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/choice[4]/text"
-msgstr "2つの武器が別々の部屋を標的にすることを許可しました。"
+msgstr "2つの兵器が別々の部屋を標的にできるようにした。"
 
 #: src-en/data/events_sector_aea_bird.xml:1548
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/text"
-msgstr "質問3：Intelドローンのカスタムモジュールは何をしましたか？"
+msgstr "質問3：インテルドローンのカスタムモジュールは何をしましたか？"
 
 #: src-en/data/events_sector_aea_bird.xml:1550
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/choice[1]/text"
-msgstr "星雲でもターゲットのセンサービューをユーザーに提供しました。"
+msgstr "星雲内でもターゲットのセンサービューをユーザーに提供した。"
 
 #: src-en/data/events_sector_aea_bird.xml:1554
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/choice[2]/text"
-msgstr "ドローンがシステムレスルームをターゲットにするのを止めました。"
+msgstr "ドローンがシステムのない部屋を標的にするのを防いだ。"
 
 #: src-en/data/events_sector_aea_bird.xml:1558
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/choice[3]/text"
-msgstr "ヒットルームに敵の船を搭載したホログラムを配備します。"
+msgstr "命中した部屋の敵船内にホログラムを展開した。"
 
 #: src-en/data/events_sector_aea_bird.xml:1562
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/choice[4]/text"
-msgstr "2つの武器が別々の部屋を標的にすることを許可しました。"
+msgstr "2つの兵器が別々の部屋を標的にできるようにした。"
 
 #: src-en/data/events_sector_aea_bird.xml:1568
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/text"
-msgstr "質問4：バイオドローンの武器について特別なことは何ですか？"
+msgstr "質問4：バイオドローンの兵器の特別な点は何でしたか？"
 
 #: src-en/data/events_sector_aea_bird.xml:1570
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/choice[1]/text"
-msgstr "レーザーは、ターゲット船の敵の乗組員に登場します。"
+msgstr "レーザーが標的船の敵クルーを追尾する。"
 
 #: src-en/data/events_sector_aea_bird.xml:1574
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/choice[2]/text"
-msgstr "発射体は、ヒットルームと隣接する部屋のすべての敵を損傷します。"
+msgstr "発射物が命中した部屋と隣接する部屋のすべての敵にダメージを与える。"
 
 #: src-en/data/events_sector_aea_bird.xml:1578
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/choice[3]/text"
-msgstr "レーザーにより、敵は部屋への対処ダメージを爆発させます。"
+msgstr "レーザーが敵を爆発させ、部屋にダメージを与える。"
 
 #: src-en/data/events_sector_aea_bird.xml:1582
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/choice[4]/text"
-msgstr "発射体は、敵の乗組員を数秒間心に制御するようになります。"
+msgstr "発射物が敵クルーを数秒間マインドコントロールする。"
 
 #: src-en/data/events_sector_aea_bird.xml:1588
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/text"
-msgstr "質問4：バイオドローンの武器について特別なことは何ですか？"
+msgstr "質問4：バイオドローンの兵器の特別な点は何でしたか？"
 
 #: src-en/data/events_sector_aea_bird.xml:1590
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/choice[1]/text"
-msgstr "レーザーは、ターゲット船の敵の乗組員に登場します。"
+msgstr "レーザーが標的船の敵クルーを追尾する。"
 
 #: src-en/data/events_sector_aea_bird.xml:1594
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/choice[2]/text"
-msgstr "発射体は、ヒットルームと隣接する部屋のすべての敵を損傷します。"
+msgstr "発射物が命中した部屋と隣接する部屋のすべての敵にダメージを与える。"
 
 #: src-en/data/events_sector_aea_bird.xml:1598
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/choice[3]/text"
-msgstr "レーザーにより、敵は部屋への対処ダメージを爆発させます。"
+msgstr "レーザーが敵を爆発させ、部屋にダメージを与える。"
 
 #: src-en/data/events_sector_aea_bird.xml:1602
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/choice[4]/text"
-msgstr "発射体は、敵の乗組員を数秒間心に制御するようになります。"
+msgstr "発射物が敵クルーを数秒間マインドコントロールする。"
 
 #: src-en/data/events_sector_aea_bird.xml:1610
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[1]/text"
 msgstr ""
-"最後の質問を完了した後、結果を受け取ります。結果：3/4（失敗）\n"
-"残念ながら、すべての質問に正しく答えることができませんでした。"
+"最後の質問を終え、結果を受け取った。\n"
+"\t結果：3/4（失敗）\n"
+"残念ながら、すべての質問に正しく答えることはできなかった。"
 
 #: src-en/data/events_sector_aea_bird.xml:1614
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[1]/choice/text"
-msgstr "博物館を離れます。"
+msgstr "博物館を去る。"
 
 #: src-en/data/events_sector_aea_bird.xml:1619
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[2]/text"
 msgstr ""
-"最後の質問を完了した後、結果を受け取ります。結果：2/4（失敗）\n"
-"残念ながら、すべての質問に正しく答えることができませんでした。"
+"最後の質問を終え、結果を受け取った。\n"
+"\t結果：2/4（失敗）\n"
+"残念ながら、すべての質問に正しく答えることはできなかった。"
 
 #: src-en/data/events_sector_aea_bird.xml:1623
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[2]/choice/text"
-msgstr "博物館を離れます。"
+msgstr "博物館を去る。"
 
 #: src-en/data/events_sector_aea_bird.xml:1628
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[3]/text"
 msgstr ""
-"最後の質問を完了した後、結果を受け取ります。結果：1/4（失敗）\n"
-"残念ながら、すべての質問に正しく答えることができませんでした。"
+"最後の質問を終え、結果を受け取った。\n"
+"\t結果：1/4（失敗）\n"
+"残念ながら、すべての質問に正しく答えることはできなかった。"
 
 #: src-en/data/events_sector_aea_bird.xml:1632
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[3]/choice/text"
-msgstr "博物館を離れます。"
+msgstr "博物館を去る。"
 
 #: src-en/data/events_sector_aea_bird.xml:1637
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[4]/text"
 msgstr ""
-"最後の質問を完了した後、結果を受け取ります。結果：0/4（失敗）\n"
-"残念ながら、すべての質問に正しく答えることができませんでした。"
+"最後の質問を終え、結果を受け取った。\n"
+"\t結果：0/4（失敗）\n"
+"残念ながら、すべての質問に正しく答えることはできなかった。"
 
 #: src-en/data/events_sector_aea_bird.xml:1641
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[4]/choice/text"
-msgstr "博物館を離れます。"
+msgstr "博物館を去る。"
 
 #: src-en/data/events_sector_aea_bird.xml:1650
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[1]/text"
 msgstr ""
-"最後の質問を完了した後、結果を受け取ります。結果：4/4（合格）\n"
-"成功！あなたは何とかすべての質問を正しく受け取ることができ、無料のインテルドローンを受け取りました。"
+"最後の質問を終え、結果を受け取った。\n"
+"\t結果：4/4（合格）\n"
+"成功！すべての質問に正解し、無料のインテルドローンを受け取った。"
 
 #: src-en/data/events_sector_aea_bird.xml:1655
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[1]/choice/text"
-msgstr "博物館を離れます。"
+msgstr "博物館を去る。"
 
 #: src-en/data/events_sector_aea_bird.xml:1660
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[2]/text"
 msgstr ""
-"最後の質問を完了した後、結果を受け取ります。結果：3/4（失敗）\n"
-"残念ながら、すべての質問に正しく答えることができませんでした。"
+"最後の質問を終え、結果を受け取った。\n"
+"\t結果：3/4（失敗）\n"
+"残念ながら、すべての質問に正しく答えることはできなかった。"
 
 #: src-en/data/events_sector_aea_bird.xml:1664
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[2]/choice/text"
-msgstr "博物館を離れます。"
+msgstr "博物館を去る。"
 
 #: src-en/data/events_sector_aea_bird.xml:1669
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[3]/text"
 msgstr ""
-"最後の質問を完了した後、結果を受け取ります。結果：2/4（失敗）\n"
-"残念ながら、すべての質問に正しく答えることができませんでした。"
+"最後の質問を終え、結果を受け取った。\n"
+"\t結果：2/4（失敗）\n"
+"残念ながら、すべての質問に正しく答えることはできなかった。"
 
 #: src-en/data/events_sector_aea_bird.xml:1673
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[3]/choice/text"
-msgstr "博物館を離れます。"
+msgstr "博物館を去る。"
 
 #: src-en/data/events_sector_aea_bird.xml:1678
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[4]/text"
 msgstr ""
-"最後の質問を完了した後、結果を受け取ります。結果：1/4（失敗）\n"
-"残念ながら、すべての質問に正しく答えることができませんでした。"
+"最後の質問を終え、結果を受け取った。\n"
+"\t結果：1/4（失敗）\n"
+"残念ながら、すべての質問に正しく答えることはできなかった。"
 
 #: src-en/data/events_sector_aea_bird.xml:1682
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[4]/choice/text"
-msgstr "博物館を離れます。"
+msgstr "博物館を去る。"
 
 #: src-en/data/events_sector_aea_bird.xml:1689
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEERING_LEAVE\"]/text"
 msgstr ""
-"博物館を出ると、頭上の大きな爆発が聞こえます。あなたがカバーを求めてアヒルすると、あなたは爆発から離れて射撃するGIシャトルをメイクアップすると、それは戻って施設で別のパスを実行します。あなたはスプリントバックして戦闘のために船を準備します、誰かがそのシャトルを止める必要があります！"
+"博物館を出ようとすると、頭上で大きな爆発音が聞こえた。身をかがめると、爆発から飛び去るGiのシャトルが見えた。それは素早く旋回し、施設に再び攻撃を仕掛けてきた。急いで船に戻り、戦闘準備を整える。誰かがそのシャトルを止めなければ！"
 
 #: src-en/data/events_sector_aea_bird.xml:1692
 msgid ""
@@ -1890,18 +1894,18 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/text"
 msgstr ""
-"ドローンシャトルの遺跡を廃棄すると、別のGIシャトルがあなたに飛び立ち、きちんと見えるGIエンジニアを提供します。「こんにちは、これについてごめんなさい、ドローンがこのように逃げるつもりはありませんでした。それは彼らに知性のレベルを与えることの問題です。"
+"ドローンシャトルの残骸を解体していると、別のGiシャトルが飛んできて、身なりの良いGiの技術者を降ろした。「こんにちは、本当にごめんなさい。ドローンをこんな風に逃がすつもりはなかったんです。知能を与えるとこういう問題が起きるんですよね、どう反応するか全く読めなくて……。ああ、そうでした、私の名前はジェイ、ここのチーフエンジニアです。それにしても、あのドローンをうまく処理しましたね。あなたに興味を持ってもらえそうな、似たような任務があるんです。ただし、私を一緒に連れて行ってもらう必要がありますが。」"
 
 #: src-en/data/events_sector_aea_bird.xml:1701
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/choice[1]/text"
-msgstr "ジェイを輸送することに同意します。"
+msgstr "ジェイを輸送することに同意する。"
 
 #: src-en/data/events_sector_aea_bird.xml:1703
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/choice[1]/event/text"
 msgstr ""
-"「大丈夫！私たちは最近、反政府勢力がこのセクターに大きな自動船を動かし、高度な反乱軍のコアに手を差し伸べようとしていることを知らせましたが、私たちが倒した反乱軍の自動船のすべては小さくてシンプルでした。"
+"「よし！最近、反乱軍が大型の自動船をこのセクターに移動させたという情報が入りました。私たちは高度な反乱軍のAIコアを手に入れようとしていますが、これまで撃墜した反乱軍の自動船はどれも小型で単純なものでした。あなたにはその大型自動船を倒しに行ってもらい、その後で私がコアを回収します。コアは非常に頑丈に保護されているので、誤って爆破してしまう心配はありません！」"
 
 #: src-en/data/events_sector_aea_bird.xml:1708
 msgid ""
@@ -1912,17 +1916,17 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/choice[2]/event/text"
 msgstr ""
-"「ああ、あまりにも悪い、ドローンに対処してくれてありがとう、それを削ってください！」エンジニアはシャトルに戻り、施設に戻ってきて、損傷したセクションの周りで既に修理ドローンが登場するのを見ることができます。"
+"「あら、残念。まあ、ドローンを処理してくれてありがとう。自由に解体してください！」技術者はシャトルに戻り、施設へと飛び去った。すでに損傷した区画の周りを修理ドローンが飛び回っているのが見える。"
 
 #: src-en/data/events_sector_aea_bird.xml:1720
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_JAY_AUTO_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr "あなたが狩っている大きな自動船の最後の報告場所。"
+msgstr "追跡中の大型自動船の最後の報告地点。"
 
 #: src-en/data/events_sector_aea_bird.xml:1723
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_JAY_AUTO_QUEST\"]/text"
-msgstr "目的地に到着しました。大きな自動船が少し離れています。船はあなたに向かって動き始めます、それは小さな護衛船が見に戻っています。"
+msgstr "目的地に到着した。少し離れたところに大型の自動船が停泊している。船はこちらに向かって動き始め、小型の護衛船は後方で見守っている。"
 
 #: src-en/data/events_sector_aea_bird.xml:1726
 msgid ""
@@ -1933,8 +1937,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/text"
 msgstr ""
-"Auto-"
-"Shipが分解されると、遺体を廃棄し始めます。最終的に、GIエンジニアのチーフであるJayが望んでいたAIコアを発見します。あなたは彼女のためにそれを搭載し、彼女はほとんど難破した放棄でそれを引き離し始めます。"
+"自動船を解体し、残骸からスクラップを回収し始める。やがて、Giのチーフエンジニアであるジェイが求めていたAIコアを発見する。それを船内に持ち込むと、彼女はほとんど無謀な勢いで分解を始めた。"
 
 #: src-en/data/events_sector_aea_bird.xml:1736
 msgid ""
@@ -1945,14 +1948,14 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/text"
 msgstr ""
-"貨物室でかなり大きな混乱を犯した後、ジェイはついにデータスティックを持って没頭します。「あはは、私は最終的に反乱軍が使用するaiに手を伸ばしました。彼女はあなたの船からエンジニアリング施設にそれをアップロードし始めます。\n"
+"貨物室をかなり散らかした後、ジェイはついにデータスティックを手に現れた。「やった、ついに反乱軍が使っているAIを手に入れたわ。少なくとも、自動船を制御していた部分はね。」彼女はあなたの船から技術施設へデータのアップロードを始める。\n"
 "\n"
-"「それはちょっと楽しかったです。乗組員に加わらせることを考えてみてください。私はいつも外に出て宇宙の残りを見たいと思っていました。さらに、あなたは敵の船を解体するのに非常に熟達しているようで、他の誰もが船を作る方法を間違いなく見たいです。」"
+"「ねえ、結構楽しかったわ。あなたのクルーに加えてもらえないかしら？ずっと外に出て宇宙の他の場所を見てみたかったの。それに、あなたは敵船の解体がとても得意みたいだし、他の人たちがどうやって船を造っているのか、ぜひ見てみたいわ。」"
 
 #: src-en/data/events_sector_aea_bird.xml:1743
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[1]/text"
-msgstr "彼女を乗組員に受け入れてください"
+msgstr "彼女をクルーに加える"
 
 #: src-en/data/events_sector_aea_bird.xml:1745
 msgid ""
@@ -1967,9 +1970,9 @@ msgstr "ジェイ"
 #: src-en/data/events_sector_aea_bird.xml:1750
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[2]/text"
-msgstr "丁寧に衰退します"
+msgstr "丁重に断る"
 
 #: src-en/data/events_sector_aea_bird.xml:1752
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[2]/event/text"
-msgstr "近くのGI駅で彼女を降ろします。"
+msgstr "近くのGiステーションで彼女を降ろす。"
