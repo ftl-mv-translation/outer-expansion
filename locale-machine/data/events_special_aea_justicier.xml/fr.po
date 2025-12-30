@@ -1,0 +1,280 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_aea_justicier.xml:3
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/text"
+msgstr ""
+"Le Justicier Sombre peut modifier illégalement votre baie de clonage.\n"
+"\t[Effets : La baie de clonage ne clone plus les membres d'équipage morts, au saut, la baie de clonage modifiée produit deux clones illégaux aléatoires ayant un compte à rebours de mort de 30 secondes, la baie de clonage modifiée empêche les comptes à rebours de mort de progresser tant qu'elle est alimentée.]"
+
+#: src-en/data/events_special_aea_justicier.xml:6
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/text"
+msgstr "Convertissez votre baie de clonage. [Coût : 40~, 3|]"
+
+#: src-en/data/events_special_aea_justicier.xml:8
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/event/text"
+msgstr ""
+"La baie de clonage existante est partiellement déconstruite afin de faire "
+"place aux améliorations."
+
+#: src-en/data/events_special_aea_justicier.xml:15
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:17
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"Les changements sont effectués et il vous reste une baie de clonage "
+"modifiée."
+
+#: src-en/data/events_special_aea_justicier.xml:24
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:34
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/text"
+msgstr "Vous ouvrez le livre."
+
+#: src-en/data/events_special_aea_justicier.xml:36
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:40
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[2]/text"
+msgstr "Lisez les Règles du Rituel."
+
+#: src-en/data/events_special_aea_justicier.xml:44
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[3]/text"
+msgstr "Lisez la section sur les Rituels Sanguinaires."
+
+#: src-en/data/events_special_aea_justicier.xml:48
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[4]/text"
+msgstr "Lisez la section sur les Rituels de Contrat."
+
+#: src-en/data/events_special_aea_justicier.xml:52
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[5]/text"
+msgstr "Lisez la section sur les Rituels d'Attaque."
+
+#: src-en/data/events_special_aea_justicier.xml:58
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/text"
+msgstr ""
+"Vous tournez à la section du livre sur les Règles du Rituel.\n"
+"Certains Rituels peuvent avoir plusieurs exigences, auquel cas la plus basse de la liste est utilisée."
+
+#: src-en/data/events_special_aea_justicier.xml:69
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/choice/text"
+msgstr "Retourner."
+
+#: src-en/data/events_special_aea_justicier.xml:77
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_CREW\"]/text"
+msgstr "Vous tournez à la section du livre sur les Rituels Sanguinaires."
+
+#: src-en/data/events_special_aea_justicier.xml:79
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_CREW\"]/choice/text"
+msgstr "Retourner."
+
+#: src-en/data/events_special_aea_justicier.xml:87
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TRADE\"]/text"
+msgstr "Vous tournez à la section du livre sur les Rituels de Contrat."
+
+#: src-en/data/events_special_aea_justicier.xml:89
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TRADE\"]/choice/text"
+msgstr "Retourner."
+
+#: src-en/data/events_special_aea_justicier.xml:97
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_ATTACK\"]/text"
+msgstr "Vous tournez à la section du livre sur les Rituels d'Attaque."
+
+#: src-en/data/events_special_aea_justicier.xml:99
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_ATTACK\"]/choice/text"
+msgstr "Retourner."
+
+#: src-en/data/events_special_aea_justicier.xml:105
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_CREW\"]/text"
+msgstr "Test"
+
+#: src-en/data/events_special_aea_justicier.xml:107
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_CREW\"]/choice/text"
+msgstr "Retourner."
+
+#: src-en/data/events_special_aea_justicier.xml:113
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_TRADE\"]/text"
+msgstr "Test"
+
+#: src-en/data/events_special_aea_justicier.xml:115
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_TRADE\"]/choice/text"
+msgstr "Retourner."
+
+#: src-en/data/events_special_aea_justicier.xml:121
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_ATTACK\"]/text"
+msgstr "Test"
+
+#: src-en/data/events_special_aea_justicier.xml:123
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_ATTACK\"]/choice/text"
+msgstr "Retourner."
+
+#: src-en/data/events_special_aea_justicier.xml:184
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_ONE\"]/text"
+msgstr ""
+"Vous êtes arrivé au milieu de ce qui était la flotte rebelle et l'avez "
+"découverte détruite. Un grand cuirassé rouge, comme vous n'en avez jamais "
+"vu, se trouve au milieu du champ de débris. Malheureusement, il tourne son "
+"attention vers vous, armes armées."
+
+#: src-en/data/events_special_aea_justicier.xml:188
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_ONE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:199
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_BATTLESHIP\"]/text"
+msgstr ""
+"Le vaisseau se fragmente et explose, ce faisant vous détectez une impulsion "
+"énergétique, ressemblant à celle d'un système de téléportation, provenant du"
+" vaisseau. Vous démantèlement les restes du vaisseau."
+
+#: src-en/data/events_special_aea_justicier.xml:204
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_BATTLESHIP\"]/text"
+msgstr ""
+"Alors que le dernier membre d'équipage tombe mort, vous vous souvenez que "
+"juste avant de pouvoir tuer le mystérieux capitaine du vaisseau, celui-ci "
+"s'est téléporté. Vous démantèlement les restes du vaisseau."
+
+#: src-en/data/events_special_aea_justicier.xml:217
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_TWO\"]/text"
+msgstr ""
+"Une fois de plus, vous êtes arrivé au milieu de ce qui était la flotte "
+"rebelle et l'avez découverte détruite. Un grand cuirassé rouge, comme vous "
+"n'en avez jamais vu, se trouve au milieu du champ de débris. "
+"Malheureusement, il tourne son attention vers vous, armes armées."
+
+#: src-en/data/events_special_aea_justicier.xml:221
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_TWO\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:231
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/text"
+msgstr ""
+"Le vaisseau se fragmente et explose. Une étrange personne se téléporte à "
+"bord de votre vaisseau. « Renégat, vous vous êtes montré un combattant très "
+"capable, cependant mon dieu a soif de sang, soif que je ne peux étancher "
+"sans un vaisseau. Peut-être puis-je opérer à bord de votre vaisseau pendant "
+"un certain temps ? »"
+
+#: src-en/data/events_special_aea_justicier.xml:236
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/text"
+msgstr "Acceptez-les à bord."
+
+#: src-en/data/events_special_aea_justicier.xml:238
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/event/text"
+msgstr "Le justicier sombre rejoint l'équipage."
+
+#: src-en/data/events_special_aea_justicier.xml:239
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/event/crewMember"
+msgstr "Le Justicier Sombre"
+
+#: src-en/data/events_special_aea_justicier.xml:243
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:245
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[2]/event/text"
+msgstr "Ils se téléportent à nouveau, où ils sont allés, vous n'êtes pas sûr."
+
+#: src-en/data/events_special_aea_justicier.xml:250
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/text"
+msgstr ""
+"Alors que le dernier membre d'équipage tombe mort, une étrange personne se "
+"téléporte à bord de votre vaisseau. « Renégat, vous vous êtes montré un "
+"combattant très capable, cependant mon dieu a soif de sang, soif que je ne "
+"peux étancher sans un vaisseau. Peut-être puis-je opérer à bord de votre "
+"vaisseau pendant un certain temps ? »"
+
+#: src-en/data/events_special_aea_justicier.xml:255
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/text"
+msgstr "Acceptez-les à bord."
+
+#: src-en/data/events_special_aea_justicier.xml:257
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/event/text"
+msgstr "Le justicier sombre rejoint l'équipage."
+
+#: src-en/data/events_special_aea_justicier.xml:258
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/event/crewMember"
+msgstr "Le Justicier Sombre"
+
+#: src-en/data/events_special_aea_justicier.xml:262
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:264
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[2]/event/text"
+msgstr "Ils se téléportent à nouveau, où ils sont allés, vous n'êtes pas sûr."
+
+#: src-en/data/events_special_aea_justicier.xml:274
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/text"
+msgstr ""
+"Les vestiges d'une flotte rebelle détruite gisent ici, cependant vous n'avez"
+" pas le temps de les fouiller car des renforts sont arrivés !"
+
+#: src-en/data/events_special_aea_justicier.xml:281
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_aea_justicier.xml:285
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[@req=\"engines\"]/text"
+msgstr "(Moteurs Avancés) Tentez d'échapper à l'Élite."
+
+#: src-en/data/events_special_aea_justicier.xml:289
+msgid ""
+"data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
+msgstr "(Jerry) « Bonjour ! »"

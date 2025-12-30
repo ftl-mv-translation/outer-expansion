@@ -1,0 +1,2259 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_aea_bird.xml:29
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"FINISH_BEACON_AEA_BIRD\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:33
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"FINISH_BEACON_AEA_BIRD\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:37
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"FINISH_BEACON_AEA_BIRD\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:58
+msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/text"
+msgstr ""
+"Vous avez croisé un lourd Transport Gi, il semble qu'il serve de station de "
+"ravitaillement mobile, distribuant des fournitures aux vaisseaux alliés de "
+"passage."
+
+#: src-en/data/events_sector_aea_bird.xml:61
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:70
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[2]/text"
+msgstr "Acheter des pièces de drone."
+
+#: src-en/data/events_sector_aea_bird.xml:79
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:88
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[4]/text"
+msgstr "Attaquer le transport !"
+
+#: src-en/data/events_sector_aea_bird.xml:90
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[4]/event/text"
+msgstr ""
+"Personne n'est en sécurité face à vous, pas même les transports de "
+"ravitaillement alliés."
+
+#: src-en/data/events_sector_aea_bird.xml:93
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:99
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:101
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[5]/event/text"
+msgstr "Vous n'êtes pas intéressé par les fournitures. Vous les ignorez."
+
+#: src-en/data/events_sector_aea_bird.xml:103
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[5]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:107
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[5]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:114
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLIES_KILL\"]/text"
+msgstr ""
+"Votre attaque inutile, non provoquée et barbare sur un transport de "
+"ravitaillement allié a été un succès, si l'on peut appeler leur mort un "
+"succès. Vous récupérez ce qui reste."
+
+#: src-en/data/events_sector_aea_bird.xml:119
+msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/text"
+msgstr ""
+"Une navette Gi endommagée flotte près de la balise. « Oh, merci à la "
+"fédération d'être là, le vaisseau-mère auquel j'étais amarré a subi une "
+"déconstruction catastrophique et a endommagé la navette dans l'explosion. Je"
+" suis technicien moteur et je suis sûr que mes compétences pourraient vous "
+"être utiles. »"
+
+#: src-en/data/events_sector_aea_bird.xml:122
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:124
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/choice[1]/event/text"
+msgstr "L'officier Gi est reconnaissant de votre aide."
+
+#: src-en/data/events_sector_aea_bird.xml:129
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/choice[2]/text"
+msgstr "Offrez de les déposer à la station la plus proche."
+
+#: src-en/data/events_sector_aea_bird.xml:131
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/choice[2]/event/text"
+msgstr ""
+"« Oh... d'accord. N'hésitez pas à piller tout ce qui reste sur la navette. »"
+
+#: src-en/data/events_sector_aea_bird.xml:138
+msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/text"
+msgstr ""
+"Vous êtes arrivé sur une grande planète peuplée, vous êtes immédiatement "
+"bombardé de publicités concernant une sorte de compétition se déroulant à la"
+" surface. En y regardant de plus près, il semble qu'ils jouent à une sorte "
+"de jeu sportif où deux équipes alternent entre le frappeur et le receveur, "
+"ils appellent cela le cricket."
+
+#: src-en/data/events_sector_aea_bird.xml:141
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[1]/text"
+msgstr "Parier 20~ sur l'équipe rouge."
+
+#: src-en/data/events_sector_aea_bird.xml:145
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[2]/text"
+msgstr "Parier 20~ sur l'équipe bleue."
+
+#: src-en/data/events_sector_aea_bird.xml:149
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[3]/text"
+msgstr "Parier 50~ sur l'équipe rouge."
+
+#: src-en/data/events_sector_aea_bird.xml:153
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[4]/text"
+msgstr "Parier 50~ sur l'équipe bleue."
+
+#: src-en/data/events_sector_aea_bird.xml:157
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[5]/text"
+msgstr "Parier 100~ sur l'équipe rouge."
+
+#: src-en/data/events_sector_aea_bird.xml:161
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[6]/text"
+msgstr "Parier 100~ sur l'équipe bleue."
+
+#: src-en/data/events_sector_aea_bird.xml:165
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[7]/text"
+msgstr "Ignorer l'événement."
+
+#: src-en/data/events_sector_aea_bird.xml:167
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[7]/event/text"
+msgstr "Vous n'êtes pas intéressé par les fournitures. Vous les ignorez."
+
+#: src-en/data/events_sector_aea_bird.xml:169
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[7]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:173
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[7]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:182
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[1]/text"
+msgstr ""
+"Vous regardez du bout de votre siège alors que le match se joue à la "
+"dernière seconde."
+
+#: src-en/data/events_sector_aea_bird.xml:187
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:189
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[1]/choice/event/text"
+msgstr ""
+"Malheureusement, votre équipe est juste battue au dernier moment par l'autre"
+" équipe."
+
+#: src-en/data/events_sector_aea_bird.xml:191
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[1]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:195
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[1]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:202
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[2]/text"
+msgstr ""
+"Vous regardez du bout de votre siège alors que le match se joue à la "
+"dernière seconde."
+
+#: src-en/data/events_sector_aea_bird.xml:207
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:209
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[2]/choice/event/text"
+msgstr ""
+"Vous encouragez votre équipe qui parvient de justesse à remporter la "
+"victoire dans les dernières minutes, vous allez collecter vos gains."
+
+#: src-en/data/events_sector_aea_bird.xml:217
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[3]/text"
+msgstr ""
+"Il est clair dès le début qu'une équipe est bien meilleure que l'autre, et "
+"dans ce cas, c'est votre équipe qui est en difficulté."
+
+#: src-en/data/events_sector_aea_bird.xml:222
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[3]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:224
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[3]/choice/event/text"
+msgstr ""
+"Vous continuez à regarder jusqu'à la fin, mais il était presque impossible "
+"pour votre équipe de revenir."
+
+#: src-en/data/events_sector_aea_bird.xml:226
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[3]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:230
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[3]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:237
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[4]/text"
+msgstr ""
+"Il est clair dès le début qu'une équipe est bien meilleure que l'autre, et "
+"dans ce cas, c'est votre équipe qui est clairement en tête."
+
+#: src-en/data/events_sector_aea_bird.xml:242
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[4]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:244
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[4]/choice/event/text"
+msgstr "Votre équipe gagne comme prévu. Vous collectez vos gains."
+
+#: src-en/data/events_sector_aea_bird.xml:252
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[5]/text"
+msgstr ""
+"Il est clair dès le début qu'une équipe est bien meilleure que l'autre, et "
+"dans ce cas, c'est votre équipe qui est en difficulté."
+
+#: src-en/data/events_sector_aea_bird.xml:257
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[5]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:259
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[5]/choice/event/text"
+msgstr ""
+"Étonnamment, votre équipe parvient à refaire son retard et à dépasser "
+"l'autre équipe, remportant le match, vous collectez vos gains."
+
+#: src-en/data/events_sector_aea_bird.xml:269
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[1]/text"
+msgstr ""
+"Vous regardez du bout de votre siège alors que le match se joue à la "
+"dernière seconde."
+
+#: src-en/data/events_sector_aea_bird.xml:274
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:276
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[1]/choice/event/text"
+msgstr ""
+"Malheureusement, votre équipe est juste battue au dernier moment par l'autre"
+" équipe."
+
+#: src-en/data/events_sector_aea_bird.xml:278
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[1]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:282
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[1]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:289
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[2]/text"
+msgstr ""
+"Vous regardez du bout de votre siège alors que le match se joue à la "
+"dernière seconde."
+
+#: src-en/data/events_sector_aea_bird.xml:294
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:296
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[2]/choice/event/text"
+msgstr ""
+"Vous encouragez votre équipe qui parvient de justesse à remporter la "
+"victoire dans les dernières minutes, vous allez collecter vos gains."
+
+#: src-en/data/events_sector_aea_bird.xml:304
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[3]/text"
+msgstr ""
+"Il est clair dès le début qu'une équipe est bien meilleure que l'autre, et "
+"dans ce cas, c'est votre équipe qui est en difficulté."
+
+#: src-en/data/events_sector_aea_bird.xml:309
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[3]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:311
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[3]/choice/event/text"
+msgstr ""
+"Vous continuez à regarder jusqu'à la fin, mais il était presque impossible "
+"pour votre équipe de revenir."
+
+#: src-en/data/events_sector_aea_bird.xml:313
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[3]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:317
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[3]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:324
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[4]/text"
+msgstr ""
+"Il est clair dès le début qu'une équipe est bien meilleure que l'autre, et "
+"dans ce cas, c'est votre équipe qui est clairement en tête."
+
+#: src-en/data/events_sector_aea_bird.xml:329
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[4]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:331
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[4]/choice/event/text"
+msgstr "Votre équipe gagne comme prévu. Vous collectez vos gains."
+
+#: src-en/data/events_sector_aea_bird.xml:339
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[5]/text"
+msgstr ""
+"Il est clair dès le début qu'une équipe est bien meilleure que l'autre, et "
+"dans ce cas, c'est votre équipe qui est en difficulté."
+
+#: src-en/data/events_sector_aea_bird.xml:344
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[5]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:346
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[5]/choice/event/text"
+msgstr ""
+"Étonnamment, votre équipe parvient à refaire son retard et à dépasser "
+"l'autre équipe, remportant le match, vous collectez vos gains."
+
+#: src-en/data/events_sector_aea_bird.xml:356
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[1]/text"
+msgstr ""
+"Vous regardez du bout de votre siège alors que le match se joue à la "
+"dernière seconde."
+
+#: src-en/data/events_sector_aea_bird.xml:361
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:363
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[1]/choice/event/text"
+msgstr ""
+"Malheureusement, votre équipe est juste battue au dernier moment par l'autre"
+" équipe."
+
+#: src-en/data/events_sector_aea_bird.xml:365
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[1]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:369
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[1]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:376
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[2]/text"
+msgstr ""
+"Vous regardez du bout de votre siège alors que le match se joue à la "
+"dernière seconde."
+
+#: src-en/data/events_sector_aea_bird.xml:381
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:383
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[2]/choice/event/text"
+msgstr ""
+"Vous encouragez votre équipe qui parvient de justesse à remporter la "
+"victoire dans les dernières minutes, vous allez collecter vos gains."
+
+#: src-en/data/events_sector_aea_bird.xml:391
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[3]/text"
+msgstr ""
+"Il est clair dès le début qu'une équipe est bien meilleure que l'autre, et "
+"dans ce cas, c'est votre équipe qui est en difficulté."
+
+#: src-en/data/events_sector_aea_bird.xml:396
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[3]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:398
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[3]/choice/event/text"
+msgstr ""
+"Vous continuez à regarder jusqu'à la fin, mais il était presque impossible "
+"pour votre équipe de revenir."
+
+#: src-en/data/events_sector_aea_bird.xml:400
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[3]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:404
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[3]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:411
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[4]/text"
+msgstr ""
+"Il est clair dès le début qu'une équipe est bien meilleure que l'autre, et "
+"dans ce cas, c'est votre équipe qui est clairement en tête."
+
+#: src-en/data/events_sector_aea_bird.xml:416
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[4]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:418
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[4]/choice/event/text"
+msgstr "Votre équipe gagne comme prévu. Vous collectez vos gains."
+
+#: src-en/data/events_sector_aea_bird.xml:426
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[5]/text"
+msgstr ""
+"Il est clair dès le début qu'une équipe est bien meilleure que l'autre, et "
+"dans ce cas, c'est votre équipe qui est en difficulté."
+
+#: src-en/data/events_sector_aea_bird.xml:431
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[5]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:433
+msgid ""
+"data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[5]/choice/event/text"
+msgstr ""
+"Étonnamment, votre équipe parvient à refaire son retard et à dépasser "
+"l'autre équipe, remportant le match, vous collectez vos gains."
+
+#: src-en/data/events_sector_aea_bird.xml:443
+msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/text"
+msgstr ""
+"Vous êtes arrivé à la balise, étonnamment une station de la Fédération est "
+"installée ici. La station envoie une demande de munitions, en échange de "
+"ferraille. Leur forte demande est probablement due à l'augmentation du "
+"nombre de blocus rebelles."
+
+#: src-en/data/events_sector_aea_bird.xml:445
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:455
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:465
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:475
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/choice[4]/text"
+msgstr "Vendre 8 missiles en échange d'un drone."
+
+#: src-en/data/events_sector_aea_bird.xml:485
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:487
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/choice[5]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:489
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/choice[5]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:493
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/choice[5]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:508
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/text"
+msgstr ""
+"La balise est en orbite d'une planète industrielle Gi. Cette planète abrite certaines des grandes usines de fabrication que les Gi utilisent pour produire leurs drones.\n"
+"Vous recevez un appel d'une installation à la surface de la planète, ils vous demandent si vous pouviez descendre et aider à tester leur nouveau fabriqueur."
+
+#: src-en/data/events_sector_aea_bird.xml:511
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/text"
+msgstr "Descendez à l'installation."
+
+#: src-en/data/events_sector_aea_bird.xml:513
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/text"
+msgstr ""
+"Vous arrivez à l'installation et êtes accueilli par un Ingénieur Gi. Ils "
+"expliquent qu'ils ont développé un fabriqueur expérimental mais qu'ils ont "
+"besoin de carburant pour l'alimenter. La livraison qu'ils avaient commandée "
+"pour le carburant n'est pas arrivée et ils ont donc besoin d'une partie de "
+"votre carburant pour le démarrer."
+
+#: src-en/data/events_sector_aea_bird.xml:515
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:517
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"En guise de compensation, ils vous proposent d'utiliser le fabriqueur en "
+"premier. Maintenant qu'il est opérationnel, il ne nécessite qu'une petite "
+"quantité de ferraille pour fonctionner."
+
+#: src-en/data/events_sector_aea_bird.xml:522
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr "Mettez la ferraille."
+
+#: src-en/data/events_sector_aea_bird.xml:524
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/text"
+msgstr ""
+"Vous chargez la machine de ferraille et elle se met à vrombir en "
+"transformant la ferraille en fournitures utiles."
+
+#: src-en/data/events_sector_aea_bird.xml:529
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:531
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
+msgstr ""
+"La machine s'arrête et crache vos fournitures.\n"
+"\n"
+"Vous pourriez l'utiliser à nouveau, mais cela donnerait le temps aux rebelles de vous rattraper."
+
+#: src-en/data/events_sector_aea_bird.xml:536
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
+msgstr "Mettez la ferraille."
+
+#: src-en/data/events_sector_aea_bird.xml:538
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Vous chargez la machine de ferraille et elle se met à vrombir en "
+"transformant la ferraille en fournitures utiles."
+
+#: src-en/data/events_sector_aea_bird.xml:543
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:545
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/text"
+msgstr "La machine crache vos fournitures."
+
+#: src-en/data/events_sector_aea_bird.xml:552
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:554
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
+msgstr "Vous n'êtes pas intéressé par d'autres fournitures."
+
+#: src-en/data/events_sector_aea_bird.xml:556
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:560
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:568
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:570
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
+msgstr "Vous n'êtes pas intéressé par d'autres fournitures."
+
+#: src-en/data/events_sector_aea_bird.xml:572
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:576
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:586
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:588
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[2]/event/text"
+msgstr "Vous n'êtes pas intéressé par d'autres fournitures."
+
+#: src-en/data/events_sector_aea_bird.xml:590
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:594
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:602
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:604
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[2]/event/text"
+msgstr ""
+"Vous n'êtes pas intéressé par l'installation ou la demande d'esquisse."
+
+#: src-en/data/events_sector_aea_bird.xml:606
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:610
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:636
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_CHOICE\"]/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:638
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_CHOICE\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:641
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_CHOICE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:647
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_CHOICE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:649
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_CHOICE\"]/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:651
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_CHOICE\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:655
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_CHOICE\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:662
+msgid ""
+"data/events_sector_aea_bird.xml$//textList[@name=\"TEXT_AEA_BIRD_REBEL_CHOICE\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:663
+msgid ""
+"data/events_sector_aea_bird.xml$//textList[@name=\"TEXT_AEA_BIRD_REBEL_CHOICE\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:664
+msgid ""
+"data/events_sector_aea_bird.xml$//textList[@name=\"TEXT_AEA_BIRD_REBEL_CHOICE\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:665
+msgid ""
+"data/events_sector_aea_bird.xml$//textList[@name=\"TEXT_AEA_BIRD_REBEL_CHOICE\"]/text[4]"
+msgstr ""
+"Le vaisseau Rebelle à cette balise cherche des vaisseaux de la Fédération et"
+" Gi à combattre. Il ne vous a pas encore vu."
+
+#: src-en/data/events_sector_aea_bird.xml:669
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/text"
+msgstr ""
+"Vous arrivez et remarquez un intercepteur GI poursuivi par une petite "
+"navette. « Renégat, nous avons besoin de votre aide, nous tentions "
+"d'installer le module de drone d'un drone de renseignement dans une petite "
+"navette, malheureusement il est devenu fou et tente maintenant de nous tuer,"
+" nous n'avons pas d'armes à bord et ne pouvons pas riposter. »"
+
+#: src-en/data/events_sector_aea_bird.xml:671
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[1]/text"
+msgstr "Attaquer la navette."
+
+#: src-en/data/events_sector_aea_bird.xml:673
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[1]/event/text"
+msgstr "Vous vous déplacez pour intercepter la navette devenue drone."
+
+#: src-en/data/events_sector_aea_bird.xml:676
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:682
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[2]/text"
+msgstr "Ignorer les vaisseaux."
+
+#: src-en/data/events_sector_aea_bird.xml:684
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[2]/event/text"
+msgstr "Vous n'avez aucun intérêt à combattre la navette-drone."
+
+#: src-en/data/events_sector_aea_bird.xml:686
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:690
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:698
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL\"]/text"
+msgstr ""
+"Vous avez sauvé l'équipage de l'intercepteur GI, ils complètent la ferraille"
+" que vous obtenez des restes du drone avec leurs propres fournitures. Ils "
+"transfèrent également un drone de renseignement de rechange dont ils n'ont "
+"plus besoin."
+
+#: src-en/data/events_sector_aea_bird.xml:704
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/text"
+msgstr ""
+"Vous êtes arrivé sur une planète de nidification Gi, ce sont les lieux de "
+"nidification traditionnels des Gi où les membres de l'espèce se rendent pour"
+" faire éclore leurs petits."
+
+#: src-en/data/events_sector_aea_bird.xml:707
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/text"
+msgstr "Descendez à la surface."
+
+#: src-en/data/events_sector_aea_bird.xml:709
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/text"
+msgstr ""
+"Vous êtes arrivé à la surface de la planète, la majeure partie de la planète"
+" est interdite aux visiteurs. Il y a un centre d'accueil à proximité."
+
+#: src-en/data/events_sector_aea_bird.xml:712
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[1]/text"
+msgstr "Visitez le centre d'accueil."
+
+#: src-en/data/events_sector_aea_bird.xml:715
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"Le centre d'accueil commence par une brève histoire des Gi avant de s'avérer n'être qu'une grande boutique de souvenirs.\n"
+"\n"
+"Avant de faire vos achats, vous avez encore le temps de faire autre chose à bord du vaisseau."
+
+#: src-en/data/events_sector_aea_bird.xml:719
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:723
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:729
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[2]/text"
+msgstr "Faufilez-vous hors de la zone des visiteurs."
+
+#: src-en/data/events_sector_aea_bird.xml:731
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"Vous éteignez votre transpondeur et vous faufilez.\n"
+"\n"
+"Cependant, vous ne pouvez pas aller loin, un vaisseau Gi a remarqué votre intrusion et se met en mouvement pour attaquer."
+
+#: src-en/data/events_sector_aea_bird.xml:736
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:742
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:744
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[3]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:746
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:750
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:760
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/text"
+msgstr ""
+"Vous êtes hélé par un vaisseau Gi à proximité. « Ah, un renégat, peut-être seriez-vous intéressé par un jeu de hasard. À cette balise, il y a une anomalie particulière, un court trou de ver qui vous recrache là où vous l'avez pénétré. Cependant, nous avons découvert qu'il y a presque 1 chance sur 6 qu'en ressortant, une partie du vaisseau soit froissée par le trou de ver.\n"
+"\n"
+"« Le jeu fonctionne comme suit : nous lançons une pièce, celui qu'elle indique doit entrer en premier, puis nous continuons jusqu'à ce que quelqu'un se dégonfle, ou jusqu'à ce que quelqu'un soit un peu froissé. Le perdant doit payer 5~ à l'autre. Alors, qu'en dites-vous, ça vous tente une partie ? »\n"
+"\t."
+
+#: src-en/data/events_sector_aea_bird.xml:767
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/text"
+msgstr "C'est parti !"
+
+#: src-en/data/events_sector_aea_bird.xml:769
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/event/text"
+msgstr ""
+"Vous lancez une pièce et elle tombe côté oiseau, le vaisseau Gi entre en "
+"premier. Le vaisseau Gi s'envole dans le trou de ver."
+
+#: src-en/data/events_sector_aea_bird.xml:771
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:773
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"Un instant plus tard, le vaisseau Gi ressort indemne du trou de ver. « Très "
+"bien, votre tour. »"
+
+#: src-en/data/events_sector_aea_bird.xml:775
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/event/choice/event/choice[1]/text"
+msgstr "Entrez dans le trou de ver."
+
+#: src-en/data/events_sector_aea_bird.xml:777
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_1\"]/text"
+msgstr ""
+"Vous entrez dans le trou de ver et presque immédiatement vous ressortez de "
+"l'autre côté, juste à côté du vaisseau GI. Vous vérifiez et constatez que "
+"votre vaisseau est intact. « Très bien, mon tour encore ! » Le capitaine Gi "
+"semble presque excité par ce jeu."
+
+#: src-en/data/events_sector_aea_bird.xml:779
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_1\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:785
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/event/choice/event/choice[2]/text"
+msgstr "Faire marche arrière."
+
+#: src-en/data/events_sector_aea_bird.xml:793
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[2]/text"
+msgstr "Ignorez l'offre et attaquez."
+
+#: src-en/data/events_sector_aea_bird.xml:795
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[2]/event/text"
+msgstr ""
+"Vous coupez les communications et activez vos armes, le vaisseau Gi comprend"
+" votre intention et fait de même."
+
+#: src-en/data/events_sector_aea_bird.xml:798
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:804
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:806
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[3]/event/text"
+msgstr "Vous n'avez aucun intérêt à jouer à un jeu de hasard risqué."
+
+#: src-en/data/events_sector_aea_bird.xml:808
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:812
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:820
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_LOSE\"]/text"
+msgstr "Vous remettez la ferraille, mais le capitaine Gi propose de rejouer."
+
+#: src-en/data/events_sector_aea_bird.xml:825
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_LOSE\"]/choice[1]/text"
+msgstr "Rejouez."
+
+#: src-en/data/events_sector_aea_bird.xml:831
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_LOSE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:833
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_LOSE\"]/choice[2]/event/text"
+msgstr ""
+"Le vaisseau Gi attend un instant avant de sauter, vous laissant seul à la "
+"balise."
+
+#: src-en/data/events_sector_aea_bird.xml:840
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/text"
+msgstr ""
+"Le capitaine Gi lance une pièce. Vous avez un instant pour annoncer le côté "
+"sur lequel elle va tomber. Si vous avez raison, vous jouerez en deuxième, si"
+" vous avez tort, vous devrez commencer."
+
+#: src-en/data/events_sector_aea_bird.xml:842
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[1]/text"
+msgstr "Appelez « becs »"
+
+#: src-en/data/events_sector_aea_bird.xml:844
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_2\"]/text"
+msgstr ""
+"La pièce tombe côté bec, le capitaine Gi est le premier à traverser le trou "
+"de ver."
+
+#: src-en/data/events_sector_aea_bird.xml:846
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_2\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:852
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[2]/text"
+msgstr "Appelez « plumes »"
+
+#: src-en/data/events_sector_aea_bird.xml:854
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_1\"]/text"
+msgstr ""
+"La pièce tombe côté bec, puisque vous vous êtes trompé, c'est à votre tour "
+"de traverser le trou de ver."
+
+#: src-en/data/events_sector_aea_bird.xml:856
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_1\"]/choice[1]/text"
+msgstr "Entrez dans le trou de ver."
+
+#: src-en/data/events_sector_aea_bird.xml:860
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_1\"]/choice[2]/text"
+msgstr "Faire marche arrière."
+
+#: src-en/data/events_sector_aea_bird.xml:866
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[3]/text"
+msgstr "Appelez « becs »"
+
+#: src-en/data/events_sector_aea_bird.xml:868
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_2\"]/text"
+msgstr ""
+"La pièce tombe côté plumes, puisque vous vous êtes trompé, c'est à votre "
+"tour de traverser le trou de ver."
+
+#: src-en/data/events_sector_aea_bird.xml:870
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_2\"]/choice[1]/text"
+msgstr "Entrez dans le trou de ver."
+
+#: src-en/data/events_sector_aea_bird.xml:874
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_2\"]/choice[2]/text"
+msgstr "Faire marche arrière."
+
+#: src-en/data/events_sector_aea_bird.xml:880
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[4]/text"
+msgstr "Appelez « plumes »"
+
+#: src-en/data/events_sector_aea_bird.xml:882
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_4\"]/text"
+msgstr ""
+"La pièce tombe côté becs-plumes, le capitaine Gi est le premier à traverser "
+"le trou de ver."
+
+#: src-en/data/events_sector_aea_bird.xml:884
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_4\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:892
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER\"]/text"
+msgstr ""
+"Vous lancez une pièce et elle tombe côté oiseau vers le bas, c'est à votre "
+"tour d'entrer en premier."
+
+#: src-en/data/events_sector_aea_bird.xml:894
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER\"]/choice[1]/text"
+msgstr "Entrez dans le trou de ver."
+
+#: src-en/data/events_sector_aea_bird.xml:898
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER\"]/choice[2]/text"
+msgstr "Faire marche arrière."
+
+#: src-en/data/events_sector_aea_bird.xml:904
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_SPIN\"]/text"
+msgstr ""
+"C'est votre tour de traverser le trou de ver, il y a 1 chance sur 6 que vous"
+" soyez endommagé en ressortant de l'autre côté."
+
+#: src-en/data/events_sector_aea_bird.xml:906
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_SPIN\"]/choice[1]/text"
+msgstr "Entrez dans le trou de ver."
+
+#: src-en/data/events_sector_aea_bird.xml:910
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_SPIN\"]/choice[2]/text"
+msgstr "Faire marche arrière."
+
+#: src-en/data/events_sector_aea_bird.xml:920
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_LIST_PLAYER\"]/loadEventList/event[2]/text"
+msgstr ""
+"Vous entrez dans le trou de ver, cependant en ressortant de l'autre côté "
+"vous entendez un craquement notable, votre vaisseau a été endommagé par le "
+"trou de ver. Vous avez perdu, le capitaine Gi l'a remarqué et attend avec "
+"impatience."
+
+#: src-en/data/events_sector_aea_bird.xml:923
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_LIST_PLAYER\"]/loadEventList/event[2]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:931
+msgid ""
+"data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_3\"]/text"
+msgstr ""
+"Vous entrez dans le trou de ver et presque immédiatement vous ressortez de "
+"l'autre côté, juste à côté du vaisseau GI. Vous vérifiez et constatez que "
+"votre vaisseau est intact. « Très bien, mon tour encore ! » Le capitaine Gi "
+"semble presque excité par ce jeu."
+
+#: src-en/data/events_sector_aea_bird.xml:934
+msgid ""
+"data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_3\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:943
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_LIST_ENEMY\"]/loadEventList/event[1]/text"
+msgstr ""
+"Un instant plus tard, le vaisseau Gi ressort indemne du trou de ver. « Très "
+"bien, votre tour. »"
+
+#: src-en/data/events_sector_aea_bird.xml:945
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_LIST_ENEMY\"]/loadEventList/event[1]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:952
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_LIST_ENEMY\"]/loadEventList/event[2]/text"
+msgstr ""
+"Un instant plus tard, le vaisseau Gi ressort du trou de ver, ou du moins une"
+" partie. Il semble que le trou de ver ait été trop puissant pour leur "
+"vaisseau et qu'il ait été déchiré en transit. Vous récupérez ce qui reste du"
+" vaisseau."
+
+#: src-en/data/events_sector_aea_bird.xml:961
+msgid ""
+"data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_ROULETTE_ROLL_START_2\"]/text"
+msgstr ""
+"Un instant plus tard, le vaisseau Gi ressort du trou de ver, cependant cette"
+" fois vous voyez une traînée de liquide laissée par le vaisseau, il y a des "
+"marques de craquement notables sur le côté. « D'accord, vous gagnez, "
+"cependant je suis toujours prêt à recommencer, qu'en dites-vous ? »"
+
+#: src-en/data/events_sector_aea_bird.xml:968
+msgid ""
+"data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_ROULETTE_ROLL_START_2\"]/choice[1]/text"
+msgstr "Rejouez."
+
+#: src-en/data/events_sector_aea_bird.xml:974
+msgid ""
+"data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_ROULETTE_ROLL_START_2\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:976
+msgid ""
+"data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_ROULETTE_ROLL_START_2\"]/choice[2]/event/text"
+msgstr ""
+"Le vaisseau Gi attend un instant avant de sauter, vous laissant seul à la "
+"balise."
+
+#: src-en/data/events_sector_aea_bird.xml:1003
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/text"
+msgstr ""
+"En arrivant à la balise, vous découvrez qu'une colonie Gi envoie un signal "
+"de détresse. Vous tentez de héler la colonie mais n'obtenez aucune réponse."
+
+#: src-en/data/events_sector_aea_bird.xml:1006
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/text"
+msgstr "Atterrir à la colonie."
+
+#: src-en/data/events_sector_aea_bird.xml:1009
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/text"
+msgstr ""
+"Vous atterrissez sur la colonie et la trouvez abandonnée, de plus vous ne "
+"trouvez aucun signe de lutte ou de bataille."
+
+#: src-en/data/events_sector_aea_bird.xml:1011
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/text"
+msgstr "Continuez à fouiller la colonie."
+
+#: src-en/data/events_sector_aea_bird.xml:1013
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/text"
+msgstr ""
+"Finalement, vous découvrez un membre de la colonie caché dans une pièce "
+"verrouillée. Après leur avoir assuré leur sécurité, ils sortent. « Je "
+"suppose que vous vous demandez ce qui s'est passé ici, et malheureusement je"
+" ne suis pas sûr non plus. Je dors normalement avec ma chambre verrouillée, "
+"alors quand je me suis réveillé ce matin avec des coups sur ma porte, je "
+"l'ai gardée verrouillée. Je ne sais pas ce qui s'est passé, mais j'ai pu "
+"activer la balise de détresse depuis ma chambre. »"
+
+#: src-en/data/events_sector_aea_bird.xml:1015
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1017
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+"Le Gi vous ramène au centre de sécurité où ils peuvent se connecter au "
+"système et visionner les images de surveillance. Les images ne remontent "
+"qu'au moment où votre ami ici à la colonie a activé la balise de détresse. "
+"Il semble que le reste de la colonie, dans un état de transe, se soit dirigé"
+" vers l'est. Vous n'êtes pas sûr de ce qui s'est passé, mais vous avez "
+"trouvé quelques notes dans le laboratoire scientifique parlant d'un étrange "
+"champignon."
+
+#: src-en/data/events_sector_aea_bird.xml:1019
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "Dirigez-vous vers l'est."
+
+#: src-en/data/events_sector_aea_bird.xml:1021
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"Vous partez vers l'est, suivant la piste tracée par le reste des membres de "
+"la colonie. Finalement, vous arrivez à une grande falaise, la piste semble "
+"s'arrêter ici, jusqu'à ce que vous leviez les yeux et voyiez tous les "
+"membres de la colonie éparpillés sur la paroi. Il semble qu'un champignon ou"
+" une mousse les maintienne en place."
+
+#: src-en/data/events_sector_aea_bird.xml:1023
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/text"
+msgstr ""
+"Tentez de déloger un membre de la colonie de la falaise à l'aide d'un coin."
+
+#: src-en/data/events_sector_aea_bird.xml:1025
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+"Vous trouvez un membre de la colonie lâchement attaché au mur et le séparez doucement de la paroi. Il tombe au sol, inerte. Un instant plus tard, vous entendez un hurlement strident provenant du reste de la colonie. Cela dure plusieurs minutes jusqu'à ce qu'un autre bruit le submerge, le bruit d'un vaisseau venant du haut de la falaise.\n"
+"\n"
+"Un vaisseau Gi apparaît par le haut et commence une passe d'attaque sur vous. Vous vous précipitez vers votre vaisseau."
+
+#: src-en/data/events_sector_aea_bird.xml:1030
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1036
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/text"
+msgstr ""
+"Tentez de faire exploser une partie du champignon autour d'une des victimes."
+
+#: src-en/data/events_sector_aea_bird.xml:1038
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+"Vous éliminez prudemment une partie du champignon autour d'un membre de la "
+"colonie, et vous observez le champignon séparé de la masse principale "
+"commencer à se flétrir et à mourir. Finalement, le membre de la colonie se "
+"détache du mur et reprend conscience. Il n'y a aucune réaction du reste du "
+"champignon, et vous répétez donc le processus jusqu'à ce que tous les "
+"membres de la colonie soient détachés."
+
+#: src-en/data/events_sector_aea_bird.xml:1040
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1042
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/text"
+msgstr ""
+"Vous réussissez à ramener tous les membres de la colonie vivants à la "
+"colonie, ils sont incroyablement reconnaissants et vous récompensent avec "
+"une grande quantité de ferraille et un drone de combat de leurs stocks."
+
+#: src-en/data/events_sector_aea_bird.xml:1050
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_WEAPONS_FIRE_ALL\"]/text"
+msgstr "(Arme de Tir) Brûlez tout !"
+
+#: src-en/data/events_sector_aea_bird.xml:1052
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_WEAPONS_FIRE_ALL\"]/event/text"
+msgstr ""
+"Vous enflammez le mur, vous observez le feu se propager rapidement sur le champignon, consumant de nombreux membres de la colonie. Presque immédiatement, les membres restants de la colonie commencent à hurler. Cela dure plusieurs minutes jusqu'à ce qu'un autre bruit le submerge, le bruit d'un vaisseau venant du haut de la falaise.\n"
+"\n"
+"Un vaisseau Gi apparaît par le haut et commence une passe d'attaque sur vous. Vous vous précipitez vers votre vaisseau."
+
+#: src-en/data/events_sector_aea_bird.xml:1061
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_WEAPONS_FIRE_ALL\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1075
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1077
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[2]/event/text"
+msgstr "Vous n'avez aucun intérêt à enquêter sur la colonie."
+
+#: src-en/data/events_sector_aea_bird.xml:1079
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1083
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1091
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/text"
+msgstr ""
+"Vous trouvez le membre original de la colonie Gi caché au bord de la falaise"
+" où vous l'avez laissé. Après avoir vaincu le vaisseau, il semble que les "
+"autres membres de la colonie infestés par le champignon soient morts. "
+"N'ayant personne pour retourner à la colonie, le Gi propose de rejoindre "
+"votre équipage."
+
+#: src-en/data/events_sector_aea_bird.xml:1093
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/choice[1]/text"
+msgstr "Acceptez-les à bord."
+
+#: src-en/data/events_sector_aea_bird.xml:1095
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/choice[1]/event/text"
+msgstr ""
+"Ils sont tristes de la perte de la colonie et de leurs amis mais vous sont "
+"au moins reconnaissants de les avoir sauvés."
+
+#: src-en/data/events_sector_aea_bird.xml:1100
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/choice[2]/text"
+msgstr "Proposez de les déposer à une station proche."
+
+#: src-en/data/events_sector_aea_bird.xml:1102
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/choice[2]/event/text"
+msgstr ""
+"Ils semblent déçus mais vous sont toujours reconnaissants de les avoir "
+"sauvés."
+
+#: src-en/data/events_sector_aea_bird.xml:1124
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/text"
+msgstr ""
+"En arrivant à la balise, vous découvrez un vaisseau de transport Gi à la "
+"dérive à proximité, les scans indiquent que le réacteur est explosé et "
+"qu'ils n'ont plus d'énergie. Il semble qu'ils transportent une alimentation "
+"de secours pour le système de survie, et l'équipage a donc survécu jusqu'à "
+"présent."
+
+#: src-en/data/events_sector_aea_bird.xml:1128
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[1]/text"
+msgstr "Amarrage et contact avec l'équipage."
+
+#: src-en/data/events_sector_aea_bird.xml:1130
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[1]/event/text"
+msgstr ""
+"Vous êtes immédiatement accueilli par l'un des membres d'équipage Gi. « Vite, vous devez livrer ce médicament à la colonie, des centaines de vies sont en jeu. » Vous n'avez presque pas votre mot à dire alors qu'ils commencent immédiatement à déplacer la cargaison à bord, l'un d'eux monte avec elle tandis que les autres disent qu'ils attendront derrière qu'un autre vaisseau vienne les chercher.\n"
+"\n"
+"Ils vous disent qu'il ne reste que quelques minutes avant l'expiration du médicament, vous devrez voyager vite pour l'y emmener à temps."
+
+#: src-en/data/events_sector_aea_bird.xml:1137
+msgid ""
+"data/events_sector_aea_bird.xml$//triggeredEvent[@name=\"AEA_BIRD_DELIVERY_TIMER\"]/triggeredEventBox/tooltip"
+msgstr "Le médicament expirera quand ce compte à rebours sera écoulé !"
+
+#: src-en/data/events_sector_aea_bird.xml:1147
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[2]/text"
+msgstr "Démolissez le vaisseau pendant qu'il est sans défense."
+
+#: src-en/data/events_sector_aea_bird.xml:1149
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[2]/event/text"
+msgstr ""
+"Vous démantèlement le vaisseau, en essayant d'éviter de penser à l'équipage "
+"du transport que vous avez sacrifié au vide."
+
+#: src-en/data/events_sector_aea_bird.xml:1155
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1157
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[3]/event/text"
+msgstr "Vous vous préparez à sauter vers la prochaine balise."
+
+#: src-en/data/events_sector_aea_bird.xml:1159
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1163
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1171
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_FAILED\"]/text"
+msgstr ""
+"Le médicament a expiré, il n'y a plus aucun moyen de sauver la colonie "
+"maintenant..."
+
+#: src-en/data/events_sector_aea_bird.xml:1179
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/beaconType/unvisitedTooltip"
+msgstr "La colonie ici compte sur votre médicament pour les sauver."
+
+#: src-en/data/events_sector_aea_bird.xml:1183
+msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/text"
+msgstr ""
+"Vous êtes arrivé à la colonie, espérons que le médicament n'a pas tourné."
+
+#: src-en/data/events_sector_aea_bird.xml:1185
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[@req=\"aea_bird_medicine\""
+" and @lvl=\"1\"]/text"
+msgstr "Livrez le médicament."
+
+#: src-en/data/events_sector_aea_bird.xml:1187
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[@req=\"aea_bird_medicine\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"Vous livrez le médicament et le personnel médical de la colonie se met "
+"immédiatement au travail pour le distribuer aux malades. Le personnel est "
+"très reconnaissant et vous récompense avec une grande quantité de ferraille "
+"et un drone de leurs stocks."
+
+#: src-en/data/events_sector_aea_bird.xml:1194
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[@req=\"aea_bird_medicine\""
+" and @lvl=\"0\"]/text"
+msgstr "Le médicament a expiré."
+
+#: src-en/data/events_sector_aea_bird.xml:1198
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1200
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[3]/event/text"
+msgstr "Vous vous préparez à sauter vers la prochaine balise."
+
+#: src-en/data/events_sector_aea_bird.xml:1202
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[3]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1206
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[3]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1233
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"ENCOUNTER_AEA_BIRD_SALVAGE\"]/text"
+msgstr ""
+"Vous trouvez l'épave d'un vaisseau de la Fédération à proximité. Avant même "
+"que vous ne puissiez envisager de le récupérer, un vaisseau Gi arrive en "
+"saut, examine la scène et vous accuse de la destruction du vaisseau !"
+
+#: src-en/data/events_sector_aea_bird.xml:1236
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"ENCOUNTER_AEA_BIRD_SALVAGE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1242
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"ENCOUNTER_AEA_BIRD_FED_SALVAGE\"]/text"
+msgstr ""
+"Vous trouvez l'épave d'un vaisseau Gi à proximité. Avant même que vous ne "
+"puissiez envisager de le récupérer, un vaisseau de la Fédération arrive en "
+"saut, examine la scène et vous accuse de la destruction du vaisseau !"
+
+#: src-en/data/events_sector_aea_bird.xml:1245
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"ENCOUNTER_AEA_BIRD_FED_SALVAGE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1269
+msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES\"]/text"
+msgstr ""
+"Vous arrivez à la balise et découvrez un grand vaisseau d'élite de la "
+"Fédération pourchassant un vaisseau civil. Avant de pouvoir faire quoi que "
+"ce soit, vous observez le vaisseau civil se faire déchirer par le vaisseau "
+"de la Fédération. Le grand vaisseau se tourne ensuite vers vous, ses armes "
+"armées."
+
+#: src-en/data/events_sector_aea_bird.xml:1272
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1278
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_SURRENDER\"]/text"
+msgstr ""
+"Le capitaine du vaisseau apparaît à l'écran, il porte un uniforme de la "
+"fédération hâtivement assemblé. « Capitaine, il est clair que nous avons mal"
+" commencé, faisons un cessez-le-feu et nous vous enverrons de la ferraille "
+"en guise d'excuses. »"
+
+#: src-en/data/events_sector_aea_bird.xml:1280
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_SURRENDER\"]/choice[1]/text"
+msgstr "Accepter le cessez-le-feu."
+
+#: src-en/data/events_sector_aea_bird.xml:1282
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_SURRENDER\"]/choice[1]/event/text"
+msgstr ""
+"Vous désactivez vos armes et ils envoient une navette. Elle vient s'amarrer à votre vaisseau, mais avant que vous ne puissiez l'ouvrir, une explosion déchire votre coque. La navette était pleine d'explosifs, vous êtes tombé dans leur piège.\n"
+"\n"
+"Vous n'avez pas remarqué que le vaisseau de la fédération était plein de rebelles."
+
+#: src-en/data/events_sector_aea_bird.xml:1290
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_SURRENDER\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1295
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_DESTROY\"]/text"
+msgstr ""
+"Vous avez détruit le vaisseau de la Fédération, et avec lui l'équipage "
+"Rebelle. Vous récupérez l'épave pendant que vous enquêtez."
+
+#: src-en/data/events_sector_aea_bird.xml:1298
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_DESTROY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1303
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_DEADCREW\"]/text"
+msgstr ""
+"Vous avez éliminé tout l'équipage Rebelle. Vous récupérez l'épave pendant "
+"que vous enquêtez."
+
+#: src-en/data/events_sector_aea_bird.xml:1306
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1312
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_INVEST\"]/text"
+msgstr ""
+"Vous fouillez le vaisseau, dans les restes de la soute, vous trouvez "
+"plusieurs tenues de la fédération. Vous fouillez dans la poche de l'une des "
+"tenues et trouvez un datapad, il semble que le vaisseau ait été stationné à "
+"une balise qui, selon votre ordinateur, est complètement vide et dépourvue "
+"de tout intérêt. Vous marquez l'emplacement sur votre carte."
+
+#: src-en/data/events_sector_aea_bird.xml:1330
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_REBEL_BASE\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"La balise vide où était stationné le croiseur de la Fédération avec "
+"l'équipage rebelle."
+
+#: src-en/data/events_sector_aea_bird.xml:1333
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_REBEL_BASE\"]/text"
+msgstr ""
+"Vous êtes arrivé à la balise apparemment vide et avez découvert une base "
+"militaire Gi assez grande près de la balise. Vous remarquez de petites "
+"navettes rebelles amarrées, les scans indiquent que les navettes ont été "
+"modifiées avec des capacités de furtivité, ils ont dû les utiliser pour "
+"s'introduire à bord et prendre le contrôle de la base."
+
+#: src-en/data/events_sector_aea_bird.xml:1335
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_REBEL_BASE\"]/choice/text"
+msgstr "Piégez-les sur la station en faisant exploser les navettes."
+
+#: src-en/data/events_sector_aea_bird.xml:1337
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_REBEL_BASE\"]/choice/event/text"
+msgstr ""
+"Il faut quelques volées, mais vous parvenez à faire exploser toutes les "
+"navettes amarrées à la station. Cependant, lorsque vous détruisez la "
+"dernière navette, un hangar que vous pensiez vide s'ouvre, révélant un "
+"transport Gi. Ce transport semble avoir été amélioré et est assez dangereux."
+" Vous vous demandez si c'est pour cela que la base militaire était si "
+"secrète, mais vous êtes interrompu par le transport qui quitte le hangar en "
+"volant directement vers votre propre vaisseau."
+
+#: src-en/data/events_sector_aea_bird.xml:1340
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_REBEL_BASE\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1348
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_TRANS_DESTROY\"]/text"
+msgstr ""
+"Vous avez détruit le transport volé, vous espérez qu'il n'était pas trop "
+"important pour les Gi. Vous récupérez les restes de l'épave."
+
+#: src-en/data/events_sector_aea_bird.xml:1351
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_TRANS_DESTROY\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1357
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_TRANS_DEADCREW\"]/text"
+msgstr ""
+"Vous avez éliminé tout l'équipage Rebelle du transport volé, vous abordez et"
+" prenez toute la ferraille et les fournitures des rebelles mais laissez le "
+"transport intact."
+
+#: src-en/data/events_sector_aea_bird.xml:1360
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_TRANS_DEADCREW\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1366
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_TRANS_INVEST\"]/text"
+msgstr ""
+"Le transport ayant été neutralisé, les rebelles restants sont complètement piégés à bord de la station. Vous envoyez un appel aux Gi et à la Fédération pour qu'ils viennent résoudre la situation.\n"
+"\n"
+"Finalement, votre soutien arrive, des soldats Gi et de la Fédération reprennent la base après que les rebelles se soient rapidement rendus. Les Gi sont très reconnaissants de votre aide pour sauver la base, ils n'avaient même pas réalisé que la base avait été prise par les rebelles, apparemment les rebelles avaient maintenu la base en fonctionnement.\n"
+"Les Gi vous envoient même les plans d'un de leurs croiseurs prototypes, ainsi qu'un tas de ferraille et de fournitures."
+
+#: src-en/data/events_sector_aea_bird.xml:1388
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/beaconType/unvisitedTooltip"
+msgstr "Le Centre d'Ingénierie Central de la Fédération Gi."
+
+#: src-en/data/events_sector_aea_bird.xml:1391
+msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/text"
+msgstr ""
+"Vous êtes arrivé à la Centrale d'Ingénierie, la majeure partie de "
+"l'installation est interdite aux visiteurs, mais il y a un grand musée où "
+"sont présentées les innovations des Ingénieurs Gi."
+
+#: src-en/data/events_sector_aea_bird.xml:1393
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/text"
+msgstr "Visitez le musée."
+
+#: src-en/data/events_sector_aea_bird.xml:1395
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/text"
+msgstr ""
+"La première exposition couvre la première conception de la Centrale d'Ingénierie, le Drone Jumeau.\n"
+"« Le Drone Jumeau est une modification du drone de combat standard. Les ingénieurs Gi ont remarqué l'incapacité de certains drones de combat à pénétrer les couches de boucliers protecteurs d'un vaisseau ennemi. Les ingénieurs Gi ont développé un accessoire pour le drone, un petit canon ionique faible, suffisant pour ioniser un bouclier, mais pas plus. Le plus grand inconvénient du drone était que la source d'énergie du drone n'était pas conçue pour alimenter deux armes à la fois, et était donc ralentie par l'arme supplémentaire. »"
+
+#: src-en/data/events_sector_aea_bird.xml:1398
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/text"
+msgstr "Passez à l'exposition suivante."
+
+#: src-en/data/events_sector_aea_bird.xml:1400
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"L'exposition suivante couvre le Drone Rafale.\n"
+"« Le Drone Rafale fut la première conception native de l'installation. Le drone fut conçu autour d'une alimentation adaptative, cette alimentation étant capable d'augmenter considérablement la puissance de l'arme, mais l'augmentation de la puissance réduisait tout de même la vitesse du drone. Le drone reste très économe en énergie et ces développements dans la conception des réacteurs de drones ont conduit à d'autres avancées. »"
+
+#: src-en/data/events_sector_aea_bird.xml:1403
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Passez à l'exposition suivante."
+
+#: src-en/data/events_sector_aea_bird.xml:1405
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"L'exposition suivante couvre le Drone Intel.\n"
+"« Le Drone Intel fut un bond en avant dans un autre domaine de la conception de drones. Le drone de renseignement intègre un tout nouveau module d'IA, ce qui a considérablement augmenté la puissance du drone en lui permettant de cibler des composants importants sur le vaisseau ennemi, augmentant la fiabilité des dégâts. Le drone intègre également certaines des avancées précédentes en matière de conception de réacteurs de drones et est donc capable d'alimenter deux canons laser simultanément. »"
+
+#: src-en/data/events_sector_aea_bird.xml:1408
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Passez à l'exposition finale."
+
+#: src-en/data/events_sector_aea_bird.xml:1410
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"La dernière exposition porte sur le Bio-Drone.\n"
+"« Le Bio-Drone est le développement le plus moderne en matière de conception de drones par cette installation. L'une des avancées de ce drone intègre le module d'IA du drone Intel, cependant cette fois l'IA a été ajustée pour cibler l'équipage ennemi, ce qui augmente considérablement l'efficacité de l'arme. Cela conduit au développement suivant : l'arme de cette série de drones intègre un puissant bio-laser qui provoque la détonation de la cible à sa mort, infligeant des dégâts à la zone immédiate. »"
+
+#: src-en/data/events_sector_aea_bird.xml:1413
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr "Dirigez-vous vers la boutique de souvenirs."
+
+#: src-en/data/events_sector_aea_bird.xml:1417
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1423
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1429
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1435
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1441
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[2]/text"
+msgstr "Ignorer le musée."
+
+#: src-en/data/events_sector_aea_bird.xml:1443
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[2]/event/text"
+msgstr "Vous vous préparez à sauter vers la prochaine balise."
+
+#: src-en/data/events_sector_aea_bird.xml:1445
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1449
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1457
+msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/text"
+msgstr ""
+"La boutique de souvenirs est pleine de babioles pour la plupart inutiles, "
+"mais quelque chose attire votre attention. « Vous pourriez gagner votre "
+"propre drone de renseignement si vous parvenez à remplir ce simple "
+"questionnaire ! »"
+
+#: src-en/data/events_sector_aea_bird.xml:1460
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/text"
+msgstr "Tentez le questionnaire."
+
+#: src-en/data/events_sector_aea_bird.xml:1462
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/text"
+msgstr "Question 1 : Quel était le plus grand inconvénient du Drone Jumeau ?"
+
+#: src-en/data/events_sector_aea_bird.xml:1464
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/choice[1]/text"
+msgstr "L'incapacité du canon ionique à ioniser les systèmes."
+
+#: src-en/data/events_sector_aea_bird.xml:1468
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/choice[2]/text"
+msgstr "La traînée ajoutée par l'arme supplémentaire."
+
+#: src-en/data/events_sector_aea_bird.xml:1472
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/choice[3]/text"
+msgstr "L'incapacité du canon laser à pénétrer les couches de boucliers."
+
+#: src-en/data/events_sector_aea_bird.xml:1476
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/choice[4]/text"
+msgstr "La faiblesse de l'alimentation ralentissant le drone."
+
+#: src-en/data/events_sector_aea_bird.xml:1482
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1488
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/text"
+msgstr ""
+"Question 2 : Quelle a été la principale innovation derrière le Drone Rafale "
+"?"
+
+#: src-en/data/events_sector_aea_bird.xml:1490
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/choice[1]/text"
+msgstr "Un canon laser à tirs multiples."
+
+#: src-en/data/events_sector_aea_bird.xml:1494
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/choice[2]/text"
+msgstr "Une unité d'alimentation adaptative."
+
+#: src-en/data/events_sector_aea_bird.xml:1498
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/choice[3]/text"
+msgstr "Un canon à précision accrue."
+
+#: src-en/data/events_sector_aea_bird.xml:1502
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/choice[4]/text"
+msgstr "Une utilisation plus efficace des pièces de drone."
+
+#: src-en/data/events_sector_aea_bird.xml:1508
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/text"
+msgstr ""
+"Question 2 : Quelle a été la principale innovation derrière le Drone Rafale "
+"?"
+
+#: src-en/data/events_sector_aea_bird.xml:1510
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/choice[1]/text"
+msgstr "Un canon laser à tirs multiples."
+
+#: src-en/data/events_sector_aea_bird.xml:1514
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/choice[2]/text"
+msgstr "Une unité d'alimentation adaptative."
+
+#: src-en/data/events_sector_aea_bird.xml:1518
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/choice[3]/text"
+msgstr "Un canon à précision accrue."
+
+#: src-en/data/events_sector_aea_bird.xml:1522
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/choice[4]/text"
+msgstr "Une utilisation plus efficace des pièces de drone."
+
+#: src-en/data/events_sector_aea_bird.xml:1528
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/text"
+msgstr "Question 3 : Que faisait le module personnalisé du Drone Intel ?"
+
+#: src-en/data/events_sector_aea_bird.xml:1530
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/choice[1]/text"
+msgstr ""
+"Fournissait une vue du capteur de la cible à l'utilisateur même dans une "
+"nébuleuse."
+
+#: src-en/data/events_sector_aea_bird.xml:1534
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/choice[2]/text"
+msgstr "Empêchait le drone de cibler les pièces sans système."
+
+#: src-en/data/events_sector_aea_bird.xml:1538
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/choice[3]/text"
+msgstr ""
+"Déploie un hologramme à bord du vaisseau ennemi dans la pièce touchée."
+
+#: src-en/data/events_sector_aea_bird.xml:1542
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/choice[4]/text"
+msgstr "Permettait aux deux armes de cibler des pièces distinctes."
+
+#: src-en/data/events_sector_aea_bird.xml:1548
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/text"
+msgstr "Question 3 : Que faisait le module personnalisé du Drone Intel ?"
+
+#: src-en/data/events_sector_aea_bird.xml:1550
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/choice[1]/text"
+msgstr ""
+"Fournissait une vue du capteur de la cible à l'utilisateur même dans une "
+"nébuleuse."
+
+#: src-en/data/events_sector_aea_bird.xml:1554
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/choice[2]/text"
+msgstr "Empêchait le drone de cibler les pièces sans système."
+
+#: src-en/data/events_sector_aea_bird.xml:1558
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/choice[3]/text"
+msgstr ""
+"Déploie un hologramme à bord du vaisseau ennemi dans la pièce touchée."
+
+#: src-en/data/events_sector_aea_bird.xml:1562
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/choice[4]/text"
+msgstr "Permettait aux deux armes de cibler des pièces distinctes."
+
+#: src-en/data/events_sector_aea_bird.xml:1568
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/text"
+msgstr ""
+"Question 4 : Quelle était la particularité de l'arme sur le Bio-Drone ?"
+
+#: src-en/data/events_sector_aea_bird.xml:1570
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/choice[1]/text"
+msgstr "Les lasers traquent l'équipage ennemi sur le vaisseau cible."
+
+#: src-en/data/events_sector_aea_bird.xml:1574
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/choice[2]/text"
+msgstr ""
+"Le projectile blesse tous les ennemis dans la pièce touchée et les pièces "
+"adjacentes."
+
+#: src-en/data/events_sector_aea_bird.xml:1578
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/choice[3]/text"
+msgstr "Les lasers font exploser l'ennemi, infligeant des dégâts à la pièce."
+
+#: src-en/data/events_sector_aea_bird.xml:1582
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/choice[4]/text"
+msgstr ""
+"Le projectile provoque le contrôle mental de l'équipage ennemi pendant "
+"quelques secondes."
+
+#: src-en/data/events_sector_aea_bird.xml:1588
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/text"
+msgstr ""
+"Question 4 : Quelle était la particularité de l'arme sur le Bio-Drone ?"
+
+#: src-en/data/events_sector_aea_bird.xml:1590
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/choice[1]/text"
+msgstr "Les lasers traquent l'équipage ennemi sur le vaisseau cible."
+
+#: src-en/data/events_sector_aea_bird.xml:1594
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/choice[2]/text"
+msgstr ""
+"Le projectile blesse tous les ennemis dans la pièce touchée et les pièces "
+"adjacentes."
+
+#: src-en/data/events_sector_aea_bird.xml:1598
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/choice[3]/text"
+msgstr "Les lasers font exploser l'ennemi, infligeant des dégâts à la pièce."
+
+#: src-en/data/events_sector_aea_bird.xml:1602
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/choice[4]/text"
+msgstr ""
+"Le projectile provoque le contrôle mental de l'équipage ennemi pendant "
+"quelques secondes."
+
+#: src-en/data/events_sector_aea_bird.xml:1610
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[1]/text"
+msgstr ""
+"Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
+"\tRÉSULTAT : 3/4 (ÉCHEC)\n"
+"Malheureusement, vous n'avez pas réussi à répondre correctement à toutes les questions."
+
+#: src-en/data/events_sector_aea_bird.xml:1614
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[1]/choice/text"
+msgstr "Quittez le musée."
+
+#: src-en/data/events_sector_aea_bird.xml:1619
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[2]/text"
+msgstr ""
+"Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
+"\tRÉSULTAT : 2/4 (ÉCHEC)\n"
+"Malheureusement, vous n'avez pas réussi à répondre correctement à toutes les questions."
+
+#: src-en/data/events_sector_aea_bird.xml:1623
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[2]/choice/text"
+msgstr "Quittez le musée."
+
+#: src-en/data/events_sector_aea_bird.xml:1628
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[3]/text"
+msgstr ""
+"Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
+"\tRÉSULTAT : 1/4 (ÉCHEC)\n"
+"Malheureusement, vous n'avez pas réussi à répondre correctement à toutes les questions."
+
+#: src-en/data/events_sector_aea_bird.xml:1632
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[3]/choice/text"
+msgstr "Quittez le musée."
+
+#: src-en/data/events_sector_aea_bird.xml:1637
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[4]/text"
+msgstr ""
+"Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
+"\tRÉSULTAT : 0/4 (ÉCHEC)\n"
+"Malheureusement, vous n'avez pas réussi à répondre correctement à toutes les questions."
+
+#: src-en/data/events_sector_aea_bird.xml:1641
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[4]/choice/text"
+msgstr "Quittez le musée."
+
+#: src-en/data/events_sector_aea_bird.xml:1650
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[1]/text"
+msgstr ""
+"Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
+"\tRÉSULTAT : 4/4 (RÉUSSITE)\n"
+"Succès ! Vous avez réussi à répondre correctement à toutes les questions et vous recevez votre drone Intel gratuit."
+
+#: src-en/data/events_sector_aea_bird.xml:1655
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[1]/choice/text"
+msgstr "Quittez le musée."
+
+#: src-en/data/events_sector_aea_bird.xml:1660
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[2]/text"
+msgstr ""
+"Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
+"\tRÉSULTAT : 3/4 (ÉCHEC)\n"
+"Malheureusement, vous n'avez pas réussi à répondre correctement à toutes les questions."
+
+#: src-en/data/events_sector_aea_bird.xml:1664
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[2]/choice/text"
+msgstr "Quittez le musée."
+
+#: src-en/data/events_sector_aea_bird.xml:1669
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[3]/text"
+msgstr ""
+"Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
+"\tRÉSULTAT : 2/4 (ÉCHEC)\n"
+"Malheureusement, vous n'avez pas réussi à répondre correctement à toutes les questions."
+
+#: src-en/data/events_sector_aea_bird.xml:1673
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[3]/choice/text"
+msgstr "Quittez le musée."
+
+#: src-en/data/events_sector_aea_bird.xml:1678
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[4]/text"
+msgstr ""
+"Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
+"\tRÉSULTAT : 1/4 (ÉCHEC)\n"
+"Malheureusement, vous n'avez pas réussi à répondre correctement à toutes les questions."
+
+#: src-en/data/events_sector_aea_bird.xml:1682
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[4]/choice/text"
+msgstr "Quittez le musée."
+
+#: src-en/data/events_sector_aea_bird.xml:1689
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEERING_LEAVE\"]/text"
+msgstr ""
+"En quittant le musée, vous entendez une forte explosion au-dessus de votre "
+"tête. En vous baissant pour vous abriter, vous apercevez une navette Gi "
+"s'éloignant de l'explosion, elle vire et effectue un autre passage sur "
+"l'installation. Vous sprintez pour contourner et préparer le vaisseau au "
+"combat, quelqu'un doit arrêter cette navette !"
+
+#: src-en/data/events_sector_aea_bird.xml:1692
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEERING_LEAVE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1698
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/text"
+msgstr ""
+"Alors que vous démantèlement les restes de la navette-drone, une autre "
+"navette Gi survole et vous livre un ingénieur Gi d'allure soignée. « Salut, "
+"je suis tellement désolé, je n'ai pas voulu que le drone s'échappe comme ça,"
+" c'est le problème de leur donner un niveau d'intelligence, on ne peut "
+"jamais être vraiment sûr de leur réaction... Oh, au fait, je m'appelle Jay, "
+"je suis l'ingénieur en chef ici. Dites, vous avez plutôt bien géré ce drone,"
+" j'ai une mission similaire qui pourrait vous intéresser, bien que j'aurais "
+"besoin que vous me laissiez venir avec vous. »"
+
+#: src-en/data/events_sector_aea_bird.xml:1701
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/choice[1]/text"
+msgstr "Accepter de transporter Jay."
+
+#: src-en/data/events_sector_aea_bird.xml:1703
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/choice[1]/event/text"
+msgstr ""
+"« D'accord ! Nous avons récemment appris que les rebelles ont déplacé un "
+"grand vaisseau Auto dans le secteur, nous essayons de mettre la main sur un "
+"noyau d'IA rebelle avancé, mais tous les vaisseaux Auto rebelles que nous "
+"avons abattus étaient petits et simples. J'ai besoin que vous alliez vaincre"
+" le grand vaisseau Auto et ensuite je pourrai y entrer et récupérer le "
+"noyau, ces choses sont très bien protégées alors ne vous inquiétez pas de le"
+" faire accidentellement exploser ! »"
+
+#: src-en/data/events_sector_aea_bird.xml:1708
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1710
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/choice[2]/event/text"
+msgstr ""
+"« Oh, dommage, mais merci d'avoir géré le drone, n'hésitez pas à le "
+"ferrailler ! » L'ingénieure retourne à sa navette et s'envole vers "
+"l'installation. Vous pouvez déjà voir des drones de réparation filer autour "
+"des sections endommagées."
+
+#: src-en/data/events_sector_aea_bird.xml:1720
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_JAY_AUTO_QUEST\"]/beaconType/unvisitedTooltip"
+msgstr ""
+"Dernier emplacement signalé du grand vaisseau automatique que vous chassez."
+
+#: src-en/data/events_sector_aea_bird.xml:1723
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_JAY_AUTO_QUEST\"]/text"
+msgstr ""
+"Vous êtes arrivé à destination. Un grand vaisseau automatique est en "
+"position à une certaine distance. Le vaisseau commence à se diriger vers "
+"vous, ses plus petits vaisseaux d'escorte restent en arrière pour observer."
+
+#: src-en/data/events_sector_aea_bird.xml:1726
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_JAY_AUTO_QUEST\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1732
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/text"
+msgstr ""
+"Le vaisseau automatique désassemblé, vous commencez à ferrailler ses restes."
+" Vous découvrez finalement le cœur d'IA que Jay, l'ingénieure en chef Gi, "
+"voulait. Vous le lui apportez à bord et elle commence à le démonter avec un "
+"abandon presque imprudent."
+
+#: src-en/data/events_sector_aea_bird.xml:1736
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1738
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/text"
+msgstr ""
+"Après avoir fait un grand désordre dans votre soute, Jay émerge enfin tenant une clé USB. « Aha, j'ai enfin mis la main sur l'IA que les rebelles utilisent, du moins la partie qui contrôlait le vaisseau automatique. » Elle commence à la télécharger vers l'installation d'ingénierie depuis votre vaisseau.\n"
+"\n"
+"« Dis donc, c'était plutôt amusant ! Voudriez-vous me laisser rejoindre votre équipage ? J'ai toujours voulu sortir et voir le reste de l'Univers. De plus, il semble que vous soyez très doué pour démanteler les vaisseaux ennemis et je veux absolument voir comment les autres construisent leurs vaisseaux. »"
+
+#: src-en/data/events_sector_aea_bird.xml:1743
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[1]/text"
+msgstr "L'accepter dans l'équipage"
+
+#: src-en/data/events_sector_aea_bird.xml:1745
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[1]/event/text"
+msgstr "Bienvenue à bord !"
+
+#: src-en/data/events_sector_aea_bird.xml:1746
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[1]/event/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_aea_bird.xml:1750
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[2]/text"
+msgstr "Refuser poliment"
+
+#: src-en/data/events_sector_aea_bird.xml:1752
+msgid ""
+"data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[2]/event/text"
+msgstr "Vous la déposez à une station Gi voisine."
