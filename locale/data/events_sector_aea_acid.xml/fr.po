@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-25 10:49+0000\n"
+"PO-Revision-Date: 2026-01-08 17:44+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_acidxml/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_aea_acid.xml:28
 msgid ""
@@ -131,6 +131,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/text"
 msgstr ""
+"L'appel de détresse semble provenir d'un vaisseau Limace pris au piège dans "
+"l'espace ouvert par un vaisseau Acide. Ils vous contactent sur les "
+"fréquences d'urgence : \"Sss'il vous plaît, nous vous donnerons tout ccce "
+"que nous avons sssi vous nous sssauvez !\""
 
 #: src-en/data/events_sector_aea_acid.xml:147
 msgid ""
@@ -2511,6 +2515,10 @@ msgstr "Continuer..."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/choice/event/text"
 msgstr ""
+"Soudain, le premier vaisseau s'embrase, et un appel urgent arrive des "
+"Limaces restantes. \"Nous vous sssuggérons de dissstraire le vaisssseau "
+"Acccide pendant que nous récupérons les zzobjets de valeur. On partage fifty-"
+"fifty.\""
 
 #: src-en/data/events_sector_aea_acid.xml:2044
 msgid ""
@@ -2536,6 +2544,10 @@ msgstr "Vous diriger vers la cachette."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"Quand il vous voit vous diriger vers la cache, le capitaine Limace vous "
+"interpelle : \"Ssstupides aliens, vous ne sssavez pas reconnaître une bonne "
+"affaire. Bonne chanccce à vous.\" Ils s'envolent, vous laissant face à face "
+"avec le vaisseau Acide !"
 
 #: src-en/data/events_sector_aea_acid.xml:2060
 msgid ""
