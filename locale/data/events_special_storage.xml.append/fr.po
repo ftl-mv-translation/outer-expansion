@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-04 14:20+0000\n"
+"PO-Revision-Date: 2026-01-11 16:12+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_special_storagexmlappend/fr/>\n"
@@ -120,7 +120,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:86
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELDS\"]/choice[5]/text"
 msgstr "Laisser tomber."
@@ -161,7 +160,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:119
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_LINKER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -202,7 +200,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:158
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_OVERCHARGER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -243,7 +240,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:192
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME\"]/choice[6]/text"
 msgstr "Laisser tomber."
@@ -284,7 +280,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:225
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_LIFETIME\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -325,7 +320,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:264
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_BUFF\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -397,7 +391,6 @@ msgstr ""
 "modification."
 
 #: src-en/data/events_special_storage.xml.append:334
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_COMMUNION\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -408,7 +401,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:347
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -605,7 +597,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:532
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -646,7 +637,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:566
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -991,7 +981,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:850
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO\"]/choice[3]/text"
 msgstr "Laisser tomber."
@@ -1026,7 +1015,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:876
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1239,7 +1227,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1067
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[41]/text"
 msgstr "Laisser tomber."
@@ -1279,7 +1266,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1098
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1319,7 +1305,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1133
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1359,7 +1344,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1168
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1399,7 +1383,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1203
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1439,7 +1422,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1238
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1479,7 +1461,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1273
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1519,7 +1500,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1308
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1559,7 +1539,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1343
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1599,7 +1578,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1379
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1634,7 +1612,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1410
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -1825,7 +1802,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1567
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -1841,7 +1817,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1575
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[1]/text"
 msgstr "Laisser tomber."
@@ -2017,7 +1992,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1713
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a01\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2043,7 +2017,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1731
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a02\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2069,7 +2042,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1749
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s03\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2095,7 +2067,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1767
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s04\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2121,7 +2092,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1785
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s05\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2147,7 +2117,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1803
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s06\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2173,7 +2142,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1821
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a07\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2199,7 +2167,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1839
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s08\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2225,7 +2192,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1857
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s09\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2251,7 +2217,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1875
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a10\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2277,7 +2242,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1893
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a11\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2303,7 +2267,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1911
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s12\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2329,7 +2292,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1929
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s13\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2355,7 +2317,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1947
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s14\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2381,7 +2342,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1965
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s15\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2392,7 +2352,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1980
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -2408,7 +2367,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1988
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[1]/text"
 msgstr "Laisser tomber."
@@ -2654,7 +2612,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2169
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2700,7 +2657,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2200
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2746,7 +2702,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2231
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2792,7 +2747,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2262
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2838,7 +2792,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2293
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2884,7 +2837,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2324
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2930,7 +2882,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2355
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -2976,7 +2927,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2386
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3022,7 +2972,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2417
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3068,7 +3017,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2448
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3079,7 +3027,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2459
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[1]/text"
 msgstr "Laisser tomber."
@@ -3095,7 +3042,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2467
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[1]/text"
 msgstr "Laisser tomber."
@@ -3271,7 +3217,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2605
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a01\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3297,7 +3242,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2623
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a02\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3323,7 +3267,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2641
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s03\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3349,7 +3292,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2659
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s04\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3375,7 +3317,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2677
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s05\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3401,7 +3342,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2695
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s06\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3427,7 +3367,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2713
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a07\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3453,7 +3392,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2731
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s08\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3479,7 +3417,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2749
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s09\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3505,7 +3442,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2767
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a10\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3531,7 +3467,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2785
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a11\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3557,7 +3492,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2803
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s12\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3583,7 +3517,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2821
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s13\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3609,7 +3542,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2839
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s14\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -3635,7 +3567,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2857
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s15\"]/event/choice[2]/text"
 msgstr "Laisser tomber."
@@ -4029,7 +3960,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3212
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_REPAIR\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4055,7 +3985,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3241
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_SENSOR\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4081,7 +4010,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3272
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_COOLING\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4167,7 +4095,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3356
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_ESCAPESPEED\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4193,7 +4120,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3386
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_AUTODESTROY\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4219,7 +4145,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3417
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_SOCIAL\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4305,7 +4230,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3504
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_RESOLVE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4331,7 +4255,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3533
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_COMPROMISED\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4357,7 +4280,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3564
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_ELITE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
