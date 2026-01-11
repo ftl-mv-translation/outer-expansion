@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-09 00:01+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"PO-Revision-Date: 2026-01-11 16:12+0000\n"
+"Last-Translator: Sullyvan RIT <sulky004@gmail.com>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_old_1xml/fr/>\n"
 "Language: fr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_aea_old_1.xml:20
 msgid ""
@@ -33,7 +33,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and not(@lvl)]/event/choice/text"
-msgstr ""
+msgstr "Quoi?"
 
 #: src-en/data/events_sector_aea_old_1.xml:36
 msgid ""
@@ -93,6 +93,12 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/text"
 msgstr ""
+"\"Il y a longtemps, avant votre fédération, ou la rébellion il n'y avait que "
+"nous, les Lylmiks. Nous nous sommes étendons à travers tous le multivers "
+"asseyant notre domination sur les autres races. Cependant, au fil du temps, "
+"notre contrôle se fit moindre et nous commencions à perdre. Nous perdions "
+"notre contrôle à travers le multivers, les races que nous avions tenu sous "
+"notre joug depuis si longtemps commencèrent à s'unir et à nous attaquer.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:74
 msgid ""
