@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-30 22:46+0000\n"
+"PO-Revision-Date: 2026-01-11 16:12+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datablueprintsxmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
@@ -5749,10 +5749,9 @@ msgid ""
 msgstr "Santé max. augmentée à 125"
 
 #: src-en/data/blueprints.xml.append:11430
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/powerList/power[4]"
-msgstr "Inflige 0.8x de dégâts au combat"
+msgstr "Inflige 0.6x de dégâts au combat d'équipage"
 
 #: src-en/data/blueprints.xml.append:11448
 msgid ""
@@ -5785,10 +5784,9 @@ msgid ""
 msgstr "Santé max. augmentée à 150"
 
 #: src-en/data/blueprints.xml.append:11458
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/powerList/power[4]"
-msgstr "Inflige 0.8x de dégâts au combat"
+msgstr "Inflige 0.4x de dégâts au combat d'équipage"
 
 #: src-en/data/blueprints.xml.append:11476
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/desc"
@@ -5818,10 +5816,9 @@ msgid ""
 msgstr "Santé max. augmentée à 200"
 
 #: src-en/data/blueprints.xml.append:11486
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/powerList/power[4]"
-msgstr "Inflige 0.8x de dégâts au combat"
+msgstr "Inflige 0.25x de dégâts au combat d'équipage"
 
 #: src-en/data/blueprints.xml.append:11520
 msgid ""
@@ -6535,10 +6532,9 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:13509
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[3]"
-msgstr "Santé max. augmentée à 200"
+msgstr "Immunisé à la suffocation"
 
 #: src-en/data/blueprints.xml.append:13510
 msgid ""
@@ -6663,7 +6659,7 @@ msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_slug\"]/powerList/power[1]"
 msgstr ""
 "Leurs pouvoirs télépathiques révèlent salles et formes de vie, même sans "
-"capteurs"
+"capteurs."
 
 #: src-en/data/blueprints.xml.append:13602
 msgid ""
