@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-01-11 16:12+0000\n"
-"Last-Translator: Sullyvan RIT <sulky004@gmail.com>\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/dataevents_sector_aea_old_1xml/fr/>\n"
 "Language: fr\n"
@@ -33,7 +33,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and not(@lvl)]/event/choice/text"
-msgstr "Quoi?"
+msgstr "Quoi ?."
 
 #: src-en/data/events_sector_aea_old_1.xml:36
 msgid ""
@@ -871,7 +871,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_sector_aea_old_1.xml:781
-#, fuzzy
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[3]/text"
 msgstr "Laisser tomber."
