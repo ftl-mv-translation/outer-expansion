@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-20 10:46+0000\n"
+"PO-Revision-Date: 2026-01-16 06:44+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-outer-expansion/datahyperspace-xml-append/ru/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/hyperspace.xml.append:40
 msgid ""
@@ -1772,17 +1772,17 @@ msgstr "Кислотный транспорт"
 #: src-en/data/hyperspace.xml.append:9823
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/secretDescription"
-msgstr "Получить добычу из транспорта кислотных."
+msgstr "Получите прототип с транспорта кислотных."
 
 #: src-en/data/hyperspace.xml.append:9824
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/description"
-msgstr "Получить Залповую кислоту из добычи кислотного транспорта."
+msgstr "Получите Залповую кислоту с транспорта кислотных."
 
 #: src-en/data/hyperspace.xml.append:9826
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/header"
-msgstr "Полученная добыча"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml.append:9829
 msgid ""
@@ -1792,7 +1792,7 @@ msgstr "Транспорт ги"
 #: src-en/data/hyperspace.xml.append:9830
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/secretDescription"
-msgstr "Получить добычу из транспорта ги."
+msgstr "Получите прототип с транспорта ги."
 
 #: src-en/data/hyperspace.xml.append:9831
 msgid ""
@@ -1802,7 +1802,7 @@ msgstr "Получить Дрон-близнец из транспорта ги.
 #: src-en/data/hyperspace.xml.append:9833
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/header"
-msgstr "Полученная добыча"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml.append:9836
 msgid ""
@@ -1812,7 +1812,7 @@ msgstr "Транспорт Вампсорняков-сектантов"
 #: src-en/data/hyperspace.xml.append:9837
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/secretDescription"
-msgstr "Получить добычу из транспорта Вампсорняков-сектантов."
+msgstr "Получите прототип с транспорта Вампсорняков-сектантов."
 
 #: src-en/data/hyperspace.xml.append:9838
 msgid ""
@@ -1822,7 +1822,7 @@ msgstr "Получить Заклинающий споромет из транс
 #: src-en/data/hyperspace.xml.append:9840
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/header"
-msgstr "Полученная добыча"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml.append:9843
 msgid ""
@@ -1832,7 +1832,7 @@ msgstr "Транспорт Еретиков"
 #: src-en/data/hyperspace.xml.append:9844
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/secretDescription"
-msgstr "Получить добычу из транспорта Еретиков."
+msgstr "Получите прототип с транспорта Еретиков."
 
 #: src-en/data/hyperspace.xml.append:9845
 msgid ""
@@ -1842,7 +1842,7 @@ msgstr "Получить Осколочный лазер мод. II из тра�
 #: src-en/data/hyperspace.xml.append:9847
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/header"
-msgstr "Полученная добыча"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml.append:9850
 msgid ""
@@ -1852,7 +1852,7 @@ msgstr "Транспорт Осколкорожденных"
 #: src-en/data/hyperspace.xml.append:9851
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/secretDescription"
-msgstr "Получить добычу из транспорта Осколкорожденных."
+msgstr "Получите прототип с транспорта Осколкорожденных."
 
 #: src-en/data/hyperspace.xml.append:9852
 msgid ""
@@ -1863,7 +1863,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:9854
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/header"
-msgstr "Полученная добыча"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml.append:9857
 msgid ""
@@ -1873,7 +1873,7 @@ msgstr "Транспорт Анархистов"
 #: src-en/data/hyperspace.xml.append:9858
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/secretDescription"
-msgstr "Получить добычу из транспорта Анархистов."
+msgstr "Получите прототип с транспорта Анархистов."
 
 #: src-en/data/hyperspace.xml.append:9859
 msgid ""
@@ -1883,7 +1883,7 @@ msgstr "Получить ракетную установка \"Гипноз\" и
 #: src-en/data/hyperspace.xml.append:9861
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/header"
-msgstr "Полученная добыча"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml.append:9864
 msgid ""
@@ -1898,17 +1898,17 @@ msgstr "Секретный транспорт"
 #: src-en/data/hyperspace.xml.append:9866
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/description"
-msgstr "Получить оружие лилмиков из станции с добычей лилмиков."
+msgstr "Получите оружие лилмиков из станции с прототипами лилмиков."
 
 #: src-en/data/hyperspace.xml.append:9867
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretDescription"
-msgstr "Получить добычу ??? из транспорта с добычей."
+msgstr "Получите прототип с транспорта ???."
 
 #: src-en/data/hyperspace.xml.append:9870
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/header"
-msgstr "Полученная добыча"
+msgstr "Прототип получен"
 
 #: src-en/data/hyperspace.xml.append:9873
 msgid ""
