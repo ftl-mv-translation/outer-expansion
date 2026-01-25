@@ -24,21 +24,21 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SLUG\"]/text"
 msgstr ""
-"Un vaisseau Anarchiste et un vaisseau de la Kleptocratie se sont engagés "
-"dans un combat aérien à cette balise. Il semble que le seul moyen de passer "
-"est d'affronter l'un d'eux."
+"Un vaisseau Anarchiste et un vaisseau Kleptocratie se sont lancés dans un "
+"combat aérien à cette balise. Il semble que le seul moyen de passer est "
+"d'affronter l'un d'eux."
 
 #: src-en/data/events_sector_aea_shleg.xml:60
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SLUG\"]/choice[1]/text"
-msgstr "Attaquez les Anarchistes."
+msgstr "Attaquer les Anarchistes."
 
 #: src-en/data/events_sector_aea_shleg.xml:62
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SLUG\"]/choice[1]/event/text"
 msgstr ""
 "Vous attaquez le vaisseau Anarchiste de front, ce qui pousse le vaisseau "
-"Slug à se désengager. Apparemment, leur dévouement à la chasse ne va pas "
+"Limace à se désengager. Apparemment, leur dévouement à la chasse ne va pas "
 "jusqu'à s'endetter auprès d'un vaisseau de la Fédération, et ils sautent "
 "donc pour vous laisser seul avec les Anarchistes."
 
@@ -50,14 +50,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_shleg.xml:71
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SLUG\"]/choice[2]/text"
-msgstr "Attaquez les Slugs."
+msgstr "Attaquer les Limaces."
 
 #: src-en/data/events_sector_aea_shleg.xml:73
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SLUG\"]/choice[2]/event/text"
 msgstr ""
-"Vous attaquez les Slugs de front. Les Anarchistes ne semblent pas vouloir "
-"rester pour voir le résultat, et sautent."
+"Vous attaquez les Limaces de front. Les Anarchistes ne semblent pas vouloir "
+"rester pour voir le résultat et sautent."
 
 #: src-en/data/events_sector_aea_shleg.xml:76
 msgid ""
@@ -78,23 +78,23 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SHELL\"]/text"
 msgstr ""
-"Un vaisseau Anarchiste et un vaisseau de la Géniecratie se sont engagés dans"
-" un combat aérien à cette balise. Il semble que le seul moyen de passer est "
+"Un vaisseau Anarchiste et un vaisseau Géniocratie se sont lancés dans un "
+"combat aérien à cette balise. Il semble que le seul moyen de passer est "
 "d'affronter l'un d'eux."
 
 #: src-en/data/events_sector_aea_shleg.xml:94
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SHELL\"]/choice[1]/text"
-msgstr "Attaquez les Anarchistes."
+msgstr "Attaquer les Anarchistes."
 
 #: src-en/data/events_sector_aea_shleg.xml:96
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SHELL\"]/choice[1]/event/text"
 msgstr ""
 "Vous attaquez le vaisseau Anarchiste de front, ce qui pousse le vaisseau "
-"Coque à se désengager. Les Coques sont bien connues pour être des lâches, il"
-" n'est donc pas surprenant qu'elles sautent pour vous laisser seul avec les "
-"Anarchistes."
+"Coquille à se désengager. Les Coquilles sont réputées pour être des lâches, "
+"il n'est donc pas surprenant qu'elles sautent pour vous laisser seul avec "
+"les Anarchistes."
 
 #: src-en/data/events_sector_aea_shleg.xml:99
 msgid ""
@@ -110,8 +110,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SHELL\"]/choice[2]/event/text"
 msgstr ""
-"Vous attaquez les Coques de front. Les Anarchistes ne semblent pas vouloir "
-"rester pour voir le résultat, et sautent."
+"Vous attaquez les Coquilles de front. Les Anarchistes ne semblent pas "
+"vouloir rester pour voir le résultat et sautent."
 
 #: src-en/data/events_sector_aea_shleg.xml:110
 msgid ""
@@ -132,52 +132,52 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/text"
 msgstr ""
-"Vous êtes arrivé à la balise et avez découvert un Capitaine Slug Anarchiste "
-"et un Capitaine Coque Anarchiste en pleine dispute acharnée pour savoir qui "
-"est le plus maléfique, la Kleptocratie ou la Géniecratie. Le Capitaine Slug "
-"se tourne vers vous et vous demande quel camp vous pensez être le plus "
-"maléfique."
+"Vous êtes arrivé à la balise et avez découvert un Capitaine Limace "
+"Anarchiste et un Capitaine Coquille Anarchiste en pleine discussion animée "
+"sur qui est le plus maléfique, la Kleptocratie ou la Géniocratie. Le "
+"Capitaine Limace se tourne vers vous et vous demande de quel côté vous "
+"pensez que le mal est le plus grand."
 
 #: src-en/data/events_sector_aea_shleg.xml:142
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/choice[1]/text"
-msgstr "« Vous avez raison, la Kleptocratie est plus maléfique. »"
+msgstr "« Vous avez raison, la Kleptocratie est plus maléfique. »"
 
 #: src-en/data/events_sector_aea_shleg.xml:144
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/choice[1]/event/text"
 msgstr ""
-"« Vooooyez, même la Fédération pensssse que la Kleptocratie est plusss maléfique. »\n"
-"Le Slug se tourne vers vous. « En gage de ma bonne volonté, s'il vousss plaît, prenez cette arme. »"
+"« Voooyezzz, même la Fédération pense que la Kleptocratie est plus maléfique. »\n"
+"La Limace se tourne vers vous. « En tant que marque de ma bonne volonté, veuillez prendre cette arrme. »"
 
 #: src-en/data/events_sector_aea_shleg.xml:150
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/choice[2]/text"
-msgstr "« La Coque a raison, la Géniecratie est plus maléfique. »"
+msgstr "« La Coquille a raison, la Géniocratie est plus maléfique. »"
 
 #: src-en/data/events_sector_aea_shleg.xml:152
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/choice[2]/event/text"
 msgstr ""
-"« Vous voyez, même la Fédération pensssse que la Géniecratie est plusss maléfique. »\n"
-"La Coque se tourne vers vous. « En gage de ma bonne volonté, s'il vousss plaît, prenez cette arme. »"
+"« Vous vhooyez, mêêême la Fédératioon peennse que la Géniocratie est pluuus maléfique. »\n"
+"La Coquille se tourne vers vous. « En tant que marque de ma bonne volonté, veuillez prendre cettte arrme. »"
 
 #: src-en/data/events_sector_aea_shleg.xml:158
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/choice[3]/text"
-msgstr "« La Fédération est plus maléfique. »"
+msgstr "« La Fédération est plus maléfique. »"
 
 #: src-en/data/events_sector_aea_shleg.xml:160
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/choice[3]/event/text"
 msgstr ""
-"« C'esst une idée intéresssante, capitaine. » Répond le capitaine coque.\n"
-"Le slug se tourne vers vous. « C'esst une réponssse trèss honnête, en gage de notre bonne volonté, s'il vouss plaît, acceptez cesss fournituress. »"
+"« C'eest une idée intéressanttte capitaine. » Répond le capitaine Coquille.\n"
+"La Limace se tourne vers vous. « C'essst une réponsse très honnête, en gage de notre bonne volonté, veuillez accepter ces ressssourcesss. »"
 
 #: src-en/data/events_sector_aea_shleg.xml:166
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/choice[4]/text"
-msgstr "Partez avant de les insulter accidentellement."
+msgstr "Partir avant de les insulter accidentellement."
 
 #: src-en/data/events_sector_aea_shleg.xml:168
 msgid ""
@@ -198,20 +198,20 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_FUEL\"]/text"
 msgstr ""
-"À cette balise se trouve une station commerciale anarchiste. Vous êtes hélé "
-"par une Coque à bord de la station. « Bonjour Capitaine, il semble que nous "
-"ayons trop de carburant en stock, seriez-vous prêt à nous l'acheter à prix "
-"réduit ? »"
+"À cette balise se trouve une station de commerce Anarchiste. Une Coquille à "
+"bord de la station vous hèle. « Bonjour Capitaine, il semble que nous ayons "
+"surstocké du carburant, seriez-vous prêt à nous l'acheter à un prix réduit ?"
+" »"
 
 #: src-en/data/events_sector_aea_shleg.xml:186
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_FUEL\"]/choice[1]/text"
-msgstr "Achetez le carburant"
+msgstr "Acheter le carburant"
 
 #: src-en/data/events_sector_aea_shleg.xml:188
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_FUEL\"]/choice[1]/event/text"
-msgstr "La coque transfère le carburant."
+msgstr "La Coquille transfère le carburant."
 
 #: src-en/data/events_sector_aea_shleg.xml:194
 msgid ""
@@ -226,12 +226,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_shleg.xml:204
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_FUEL\"]/choice[2]/text"
-msgstr "Refusez poliment."
+msgstr "Refuser poliment."
 
 #: src-en/data/events_sector_aea_shleg.xml:206
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_FUEL\"]/choice[2]/event/text"
-msgstr "Vous n'avez pas besoin de carburant supplémentaire."
+msgstr "Vous n'avez pas besoin du carburant supplémentaire."
 
 #: src-en/data/events_sector_aea_shleg.xml:208
 msgid ""
@@ -247,9 +247,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/text"
 msgstr ""
-"Vous êtes arrivé à la balise et avez découvert un Chevalier Slug caché dans "
-"la nébuleuse, vous avez de la chance d'être arrivé juste à temps pour les "
-"détecter à travers la nébuleuse autour de vous."
+"Vous êtes arrivé à la balise et avez découvert un Chevalier Limace se "
+"cachant dans la nébuleuse, vous avez de la chance d'être arrivé juste à "
+"temps pour le détecter à travers la nébuleuse qui vous entoure."
 
 #: src-en/data/events_sector_aea_shleg.xml:241
 msgid ""
@@ -260,26 +260,26 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[1]/event/text"
 msgstr ""
-"« Bonjour Capitaine, il est surprenant de voir un capitaine de la fédération"
-" jusqu'ici. Faisons-nous affaire avec les Anarchistes ? Eh bien, ne vous "
-"inquiétez pas, tout ce dont nous avons besoin est de quelques informations. "
-"Nous recherchons une station commerciale Anarchiste quelque part ici, si "
-"vous nous donniez les coordonnées des derniers Anarchistes que vous avez "
-"vus, nous serons sur notre chemin. »"
+"« Bonjour Capitaine, çaa m'étonnnne de voirr un capitaine de la Fédération "
+"aussi loinnn ici. On complote avec les Anarchistesss, hein ? Eh bien, ne "
+"vous inquiétez pas, tout ce dont nous avonss besoooin, c'essst de quelquesss"
+" informatiooonsss. Nous recherchons une station de trrrade Anarchiste "
+"quelque part par ici, si vous pouviez nous donner les cooordonnées des "
+"dernierrss Anarchistesss que vous avez vusss, nous partirionnns. »"
 
 #: src-en/data/events_sector_aea_shleg.xml:245
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[1]/event/choice[@req=\"aea_shleg_trading_station\"]/text"
 msgstr ""
-"(Coordonnées de la station commerciale) Donnez-leur les coordonnées réelles "
-"de la station commerciale."
+"(Coordonnées de la station de commerce) Leur donner les coordonnées réelles "
+"de la station de commerce."
 
 #: src-en/data/events_sector_aea_shleg.xml:247
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[1]/event/choice[@req=\"aea_shleg_trading_station\"]/event/text"
 msgstr ""
-"« Un choix judicieux, Capitaine, nous leur ferons part de votre trahison. » "
-"Le vaisseau s'éloigne, cependant vous remarquez qu'ils étaient en train de "
+"« Un choix judicieux, Capitaine, nous leur parlerons de votre trahison. » Le"
+" vaisseau saute, cependant vous remarquez qu'ils étaient en train de "
 "démanteler un petit vaisseau Anarchiste. Vous pillez les restes."
 
 #: src-en/data/events_sector_aea_shleg.xml:251
@@ -290,14 +290,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_shleg.xml:257
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[1]/event/choice[2]/text"
-msgstr "Inventez des coordonnées."
+msgstr "Inventer des coordonnées."
 
 #: src-en/data/events_sector_aea_shleg.xml:259
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
-"« Un choix judicieux, Capitaine, nous leur ferons part de votre trahison. » "
-"Le vaisseau s'éloigne, cependant vous remarquez qu'ils étaient en train de "
+"« Un choix judicieux, Capitaine, nous leur parlerons de votre trahison. » Le"
+" vaisseau saute, cependant vous remarquez qu'ils étaient en train de "
 "démanteler un petit vaisseau Anarchiste. Vous pillez les restes."
 
 #: src-en/data/events_sector_aea_shleg.xml:265
@@ -309,8 +309,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
-"C'esst un choix malheureuxs, Capitaine, nous devronss prendre cesss "
-"coordonnées sur votre cadavre."
+"C'essst un choix malheureux, Capitaine, Nous devrronss prrrendre c'essst "
+"coordonnéess surrr votrrre caadaavrre."
 
 #: src-en/data/events_sector_aea_shleg.xml:270
 msgid ""
@@ -337,14 +337,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_shleg.xml:289
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[3]/text"
-msgstr "Cachez-vous avant qu'ils ne vous détectent."
+msgstr "Vous cacher avant qu'ils ne vous détectent."
 
 #: src-en/data/events_sector_aea_shleg.xml:291
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[3]/event/text"
 msgstr ""
 "Vous parvenez à vous dissimuler dans la nébuleuse et à charger votre "
-"propulseur FTL."
+"générateur SPL."
 
 #: src-en/data/events_sector_aea_shleg.xml:293
 msgid ""
@@ -360,22 +360,22 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_DIGGING\"]/text"
 msgstr ""
-"Vous êtes arrivé à la balise et avez découvert une planète en cours "
-"d'excavation. Vous ne savez pas ce qu'ils font, mais ils ont creusé une "
-"fosse immense à la surface de la planète. En vous approchant, vous remarquez"
-" qu'ils excavent en fait un énorme vaisseau spatial écrasé, il est "
-"majoritairement noir avec une légère teinte verte par endroits. Un garde "
+"Vous êtes arrivé à la balise pour découvrir une planète en cours "
+"d'excavation. Vous n'êtes pas sûr de ce qu'ils font, mais ils ont creusé un "
+"énorme cratère à la surface de la planète. En vous approchant, vous "
+"remarquez qu'ils excavent en fait un énorme vaisseau spatial écrasé, il est "
+"principalement noir avec une légère teinte verte par endroits. Une garde "
 "protège la zone."
 
 #: src-en/data/events_sector_aea_shleg.xml:310
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_DIGGING\"]/choice[1]/text"
-msgstr "Attaquez le garde pour accéder aux ruines."
+msgstr "Attaquer la garde pour accéder aux ruines."
 
 #: src-en/data/events_sector_aea_shleg.xml:312
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_DIGGING\"]/choice[1]/event/text"
-msgstr "Le garde vous voit arriver et active ses armes."
+msgstr "La garde vous voit arriver et active ses armes."
 
 #: src-en/data/events_sector_aea_shleg.xml:315
 msgid ""
@@ -385,14 +385,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_shleg.xml:321
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_DIGGING\"]/choice[2]/text"
-msgstr "Laissez-les tranquilles"
+msgstr "Les laisser tranquilles"
 
 #: src-en/data/events_sector_aea_shleg.xml:323
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_DIGGING\"]/choice[2]/event/text"
 msgstr ""
 "Vous parvenez à vous dissimuler dans la nébuleuse et à charger votre "
-"propulseur FTL."
+"générateur SPL."
 
 #: src-en/data/events_sector_aea_shleg.xml:325
 msgid ""
@@ -408,9 +408,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"DESTROYED_AEA_SHLEG_RUIN\"]/text"
 msgstr ""
-"Malgré toutes leurs mesures défensives, le vaisseau de garde a été vaincu. Vous démantèlement les restes.\n"
+"Malgré toutes leurs mesures défensives, le vaisseau de garde a été vaincu. Vous démanteler les restes. \n"
 "\t\t\n"
-"Le vaisseau étant maintenant hors de votre chemin, vous êtes libre d'inspecter les ruines."
+"Le vaisseau étant désormais hors de portée, vous êtes libre d'inspecter les ruines."
 
 #: src-en/data/events_sector_aea_shleg.xml:347
 msgid ""
@@ -421,14 +421,14 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_SPACE_WHALE\"]/text"
 msgstr ""
-"Il y a une colonie de baleines spatiales à cette balise, vous remarquez un "
-"homme du clan Slug caché dans la nébuleuse attendant qu'une des baleines se "
-"sépare du groupe."
+"Il y a un banc de baleines spatiales à cette balise, vous remarquez un "
+"loubard limace se cachant dans la nébuleuse, attendant qu'une des baleines "
+"se sépare du groupe."
 
 #: src-en/data/events_sector_aea_shleg.xml:358
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_SPACE_WHALE\"]/choice[1]/text"
-msgstr "Attaquez l'homme du clan"
+msgstr "Attaquer le loubard."
 
 #: src-en/data/events_sector_aea_shleg.xml:361
 msgid ""
@@ -443,14 +443,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_shleg.xml:369
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_SPACE_WHALE\"]/choice[2]/text"
-msgstr "Ignorez-les"
+msgstr "Les ignorer"
 
 #: src-en/data/events_sector_aea_shleg.xml:371
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_SPACE_WHALE\"]/choice[2]/event/text"
 msgstr ""
 "Vous parvenez à vous dissimuler dans la nébuleuse et à charger votre "
-"propulseur FTL."
+"générateur SPL."
 
 #: src-en/data/events_sector_aea_shleg.xml:373
 msgid ""
@@ -467,8 +467,8 @@ msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_NEUROTOXINLAB\"]/text"
 msgstr ""
 "À travers les nuages de cette nébuleuse, vous apercevez une station "
-"scientifique Rebelle. C'est étrange d'en voir une dans l'espace Anarchiste, "
-"mais il y a sûrement une bonne raison."
+"scientifique Rebelle. Il est étrange d'en voir une dans l'espace Anarchiste,"
+" mais il y a sûrement une bonne raison."
 
 #: src-en/data/events_sector_aea_shleg.xml:388
 msgid ""
@@ -554,8 +554,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_HIDDEN_COLONY\"]/text"
 msgstr ""
-"Vous apercevez l'arrière d'un vaisseau Anarchiste qui s'échappe dans la "
-"nébuleuse. Si vous êtes rapide, vous pourriez peut-être les rattraper."
+"Vous apercevez l'arrière d'un vaisseau Anarchiste s'éclipser dans la "
+"nébuleuse. Si vous êtes rapide, vous pourriez être en mesure de les "
+"rattraper."
 
 #: src-en/data/events_sector_aea_shleg.xml:452
 msgid ""
@@ -656,8 +657,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//eventList[@name=\"AEA_SHLEG_HIDDEN_COLONY_DEMAND\"]/event[1]/text"
 msgstr ""
-"Les Anarchistes veulent éviter un combat à tout prix. Ils vous remettent les"
-" fournitures qu'ils peuvent épargner."
+"Les Anarchistes veulent éviter un combat à tout prix. Ils remettent les "
+"ressources qu'ils peuvent épargner."
 
 #: src-en/data/events_sector_aea_shleg.xml:530
 msgid ""
@@ -699,8 +700,8 @@ msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_DISTRESS_AEA_SHLEG_CHOICE\"]/text"
 msgstr ""
 "Vous apercevez un vaisseau Anarchiste s'approchant d'un petit transporteur "
-"Slug. Vous ne savez pas ce que les Slugs ont fait pour mériter cela, mais "
-"ils semblent être en difficulté."
+"Limace. Vous n'êtes pas sûr de ce que les Limaces ont fait pour mériter "
+"cela, mais ils semblent être en difficulté."
 
 #: src-en/data/events_sector_aea_shleg.xml:582
 msgid ""
@@ -711,9 +712,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_DISTRESS_AEA_SHLEG_CHOICE\"]/choice[1]/event/text"
 msgstr ""
-"Presque immédiatement après s'être déplacés pour aider les Slugs, ils "
-"sautent, envoyant un dernier message à l'ordinateur de votre vaisseau. "
-"« Psych ! » Le vaisseau Anarchiste est confus mais suppose que vous y êtes "
+"Presque immédiatement après s'être déplacés pour aider les Limaces, ils "
+"sautent, envoyant un dernier message à l'ordinateur de votre vaisseau. « "
+"Psych ! » Le vaisseau Anarchiste est confus mais suppose que vous y êtes "
 "pour quelque chose et attaque !"
 
 #: src-en/data/events_sector_aea_shleg.xml:587
@@ -745,16 +746,16 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_DISTRESS_AEA_SHLEG_GAS\"]/text"
 msgstr ""
-"La balise de détresse provient d'un vaisseau Coque voisin, ils vous "
-"contactent dès votre arrivée. « S'il vous plaît, sauvez-nous, notre vaisseau"
-" a été inondé de gaz de contrôle mental Anarchiste. Si vous vous amarrez à "
+"La balise de détresse provient d'un vaisseau coquille voisin, ils vous "
+"contactent dès votre arrivée. « S'il vous plaît, sauvez-nous, notre vaisseau"
+" a été inondé de gaz de contrôle mental Anarchiste. Si vous accostez chez "
 "nous, votre vaisseau sera également inondé, mais votre système d'oxygène "
-"devrait s'en débarrasser en 90 secondes. »"
+"devrait s'en débarrasser en 90 secondes. »"
 
 #: src-en/data/events_sector_aea_shleg.xml:615
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_DISTRESS_AEA_SHLEG_GAS\"]/choice[1]/text"
-msgstr "Amarrez-vous et purgez le gaz pour sauver les coquilles !"
+msgstr "Accoster et purger le gaz pour sauver les Coquilles !"
 
 #: src-en/data/events_sector_aea_shleg.xml:617
 msgid ""
@@ -762,32 +763,34 @@ msgid ""
 msgstr ""
 "Vous accostez le vaisseau et commencez à purger le gaz de contrôle mental "
 "sur votre propre vaisseau. Il faudra maintenant 90 secondes pour que le gaz "
-"se draine."
+"se vide."
 
 #: src-en/data/events_sector_aea_shleg.xml:621
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_GAS_TIMER_START_LONG\"]/triggeredEvent[@name=\"AEA_SHLEG_GAS_TIMER\"]/triggeredEventBox/tooltip"
 msgstr ""
-"Le gaz se dissipera une fois ce compte à rebours terminé, survivez d'ici là."
+"Le gaz se dissipera quand ce compte à rebours sera écoulé, survivez jusque-"
+"là."
 
 #: src-en/data/events_sector_aea_shleg.xml:627
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_DISTRESS_AEA_SHLEG_GAS\"]/choice[@req=\"oxygen\"]/text"
-msgstr "(Amél. Oxygène) Amarrez-vous et purgez le gaz 1,5 fois plus vite."
+msgstr "(Oxygène amélioré) Accoster et purger le gaz 1,5 fois plus vite."
 
 #: src-en/data/events_sector_aea_shleg.xml:629
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_GAS_TIMER_START_SHORT\"]/text"
 msgstr ""
-"Vous amarrez le vaisseau et commencez à purger le gaz de contrôle mental sur"
-" votre propre vaisseau. Il faudra maintenant 60 secondes pour que le gaz se "
-"draine."
+"Vous accostez le vaisseau et commencez à purger le gaz de contrôle mental "
+"sur votre propre vaisseau. Il faudra maintenant 60 secondes pour que le gaz "
+"se vide."
 
 #: src-en/data/events_sector_aea_shleg.xml:634
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_GAS_TIMER_START_SHORT\"]/triggeredEvent[@name=\"AEA_SHLEG_GAS_TIMER\"]/triggeredEventBox/tooltip"
 msgstr ""
-"Le gaz se dissipera une fois ce compte à rebours terminé, survivez d'ici là."
+"Le gaz se dissipera quand ce compte à rebours sera écoulé, survivez jusque-"
+"là."
 
 #: src-en/data/events_sector_aea_shleg.xml:640
 msgid ""
@@ -814,16 +817,17 @@ msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_GAS_TIMER\"]/text"
 msgstr ""
 "Vous avez survécu au gaz et l'avez purgé de votre propre vaisseau et de "
-"celui du Shell. Ils vous remercient et vous envoient une grande récompense."
+"celui de la Coquille. Ils vous remercient et vous envoient une grande "
+"récompense."
 
 #: src-en/data/events_sector_aea_shleg.xml:688
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_ENCOUNTER_AEA_SHLEG\"]/text"
 msgstr ""
-"Les civils anarchistes ne sont généralement pas adeptes du combat direct... "
-"mais avec leurs conflits avec la Génécratie et la Kleptocratie, quelques-uns"
-" ont ressenti le besoin de prendre les choses en main pour protéger le "
-"secteur. Apparemment, vous êtes une menace, car le vaisseau anarchiste "
+"Les civils Anarchistes ne sont généralement pas adeptes du combat direct... "
+"mais avec leurs conflits avec la Géniocratie et la Kleptocratie, quelques-"
+"uns ont ressenti le besoin de prendre les choses en main pour protéger le "
+"secteur. Apparemment, vous êtes une menace, car le vaisseau Anarchiste "
 "voisin attaque !"
 
 #: src-en/data/events_sector_aea_shleg.xml:692
@@ -837,7 +841,7 @@ msgid ""
 msgstr ""
 "Il semble qu'un vaisseau Anarchiste attende à l'intérieur de cette tempête "
 "ionique. Pour quelles raisons ils vous trouvent hostile, vous n'êtes pas "
-"sûr, mais il semble que vous ne pourrez pas vous tirer de ce combat si "
+"sûr, mais il semble que vous ne pourrez pas sortir de ce combat si "
 "facilement."
 
 #: src-en/data/events_sector_aea_shleg.xml:701
@@ -849,8 +853,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_ENCOUNTER_AEA_SHLEG_SLUG\"]/text"
 msgstr ""
-"Normalement, un vaisseau Slug standard n'aurait pas pu atteindre aussi loin "
-"dans les secteurs anarchistes. Cependant, un vaisseau aberrant semble avoir "
+"Normalement, un vaisseau Limace standard n'aurait pas pu aller aussi loin "
+"dans les secteurs Anarchistes. Cependant, un vaisseau aberrant semble avoir "
 "croisé votre chemin, et maintenant il semble qu'il cherche à se battre !"
 
 #: src-en/data/events_sector_aea_shleg.xml:711
@@ -864,8 +868,8 @@ msgid ""
 msgstr ""
 "Les Rebelles ne sont pas de grands fans des Anarchistes, mais ils ont "
 "généralement trop peur de leurs toxines pour les attaquer en personne. Au "
-"lieu de cela, ils préfèrent envoyer des vaisseaux autonomes faire leur sale "
-"besogne. Malheureusement, l'un de ces vaisseaux autonomes vous reconnaît et "
+"lieu de cela, ils préfèrent envoyer des Auto-vaisseaux pour faire leur sale "
+"boulot. Malheureusement, l'un de ces Auto-vaisseaux vous reconnaît et "
 "attaque !"
 
 #: src-en/data/events_sector_aea_shleg.xml:721
@@ -887,8 +891,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_UNIQUE_BATTLE\"]/beaconType/unvisitedTooltip"
 msgstr ""
-"Une bataille à grande échelle a lieu ici, les Anarchistes ont une balise de "
-"détresse active."
+"Une bataille de grande envergure a lieu ici, les Anarchistes ont une balise "
+"de détresse active."
 
 #: src-en/data/events_sector_aea_shleg.xml:771
 msgid ""
@@ -896,21 +900,21 @@ msgid ""
 msgstr ""
 "Une bataille massive a lieu à cette balise, vous pouvez immédiatement "
 "constater que les Anarchistes sont en train de perdre. Un grand vaisseau "
-"Anarchiste au centre de la bataille est attaqué par un vaisseau KoN Slug de "
-"taille égale, il semble qu'ils soient sur la défensive et n'ont plus "
+"Anarchiste au centre de la bataille est attaqué par un vaisseau KoN Limace "
+"de taille égale, il semble qu'ils soient sur la défensive et n'ont pas "
 "longtemps à vivre."
 
 #: src-en/data/events_sector_aea_shleg.xml:774
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_UNIQUE_BATTLE\"]/choice[1]/text"
-msgstr "Placez-vous devant pour défendre le vaisseau anarchiste."
+msgstr "Se déplacer devant pour défendre le vaisseau Anarchiste."
 
 #: src-en/data/events_sector_aea_shleg.xml:776
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_UNIQUE_BATTLE\"]/choice[1]/event/text"
 msgstr ""
-"Le vaisseau Anarchiste est désormais incapable de se défendre, et donc "
-"lorsque vous vous déplacez pour les protéger, ils sont incapables de vous "
+"Le vaisseau Anarchiste est maintenant incapable de se défendre, et donc "
+"quand vous vous déplacez pour les protéger, ils sont incapables de vous "
 "aider."
 
 #: src-en/data/events_sector_aea_shleg.xml:779
@@ -921,16 +925,16 @@ msgstr ""
 #: src-en/data/events_sector_aea_shleg.xml:785
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_UNIQUE_BATTLE\"]/choice[2]/text"
-msgstr "Laissez-les mourir."
+msgstr "Les laisser mourir."
 
 #: src-en/data/events_sector_aea_shleg.xml:787
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_UNIQUE_BATTLE\"]/choice[2]/event/text"
 msgstr ""
-"Le grand vaisseau Anarchiste finit par se disloquer sous le feu des slugs, "
-"la bataille tourne alors rapidement, les Anarchistes restants étant détruits"
-" ou fuyant. Vous vous cachez dans la nébuleuse et chargez votre propulseur "
-"FTL."
+"Le grand vaisseau Anarchiste finit par se désintégrer sous le feu des "
+"Limaces, à ce moment-là, la bataille tourne rapidement, les Anarchistes "
+"restants étant soit détruits, soit en fuite. Vous vous cachez dans la "
+"nébuleuse et chargez votre générateur SPL."
 
 #: src-en/data/events_sector_aea_shleg.xml:789
 msgid ""
@@ -946,9 +950,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_KNIGHT_BATTLE_WIN\"]/text"
 msgstr ""
-"Vous avez détruit le vaisseau chevalier et sécurisé le grand vaisseau "
-"Anarchiste. Avec cette victoire, la bataille a tourné et les vaisseaux "
-"Anarchistes commencent à repousser les Slugs."
+"Vous avez détruit le vaisseau chevalier et assuré la sécurité du grand "
+"vaisseau Anarchiste. Grâce à cette victoire, la bataille a tourné et les "
+"vaisseaux Anarchistes commencent à repousser les Limaces."
 
 #: src-en/data/events_sector_aea_shleg.xml:814
 msgid ""
@@ -959,35 +963,35 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_KNIGHT_BATTLE_WIN\"]/choice/event/text"
 msgstr ""
-"Les Slugs étant en retraite, le vaisseau Anarchiste que vous avez sauvé vous"
-" hèle. Un Slug et un Shell apparaissent tous deux à l'écran, ces deux-là ne "
-"sont pas aux couleurs anarchistes normales. « Bonjour Capitaine, nous vous "
-"sommes reconnaissants de votre aide là-bas. Nous nous demandions si vous "
-"voudriez nous aider pour une tâche que nous avons prévue. Nous vous "
-"épargnerons la plupart des détails, mais sachez que vous devrez distraire "
-"l'ennemi pendant un certain temps. »"
+"Les Limaces étant en retraite, le vaisseau Anarchiste que vous avez secouru "
+"vous hèle. Une Limace et une Coquille apparaissent toutes deux à l'écran, "
+"elles ne sont pas aux couleurs anarchistes normales. « Bonjour Capitaine, "
+"nous vous sommes reconnaissants de votre aide là-bas. Nous nous demandions "
+"si vous voudriez nous aider pour une mission que nous avons prévue. Nous "
+"vous épargnerons la plupart des détails, mais sachez simplement que vous "
+"devrez distraire l'ennemi pendant un certain temps. »"
 
 #: src-en/data/events_sector_aea_shleg.xml:818
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_KNIGHT_BATTLE_WIN\"]/choice/event/choice[1]/text"
-msgstr "Acceptez la mission."
+msgstr "Accepter la mission."
 
 #: src-en/data/events_sector_aea_shleg.xml:820
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_KNIGHT_BATTLE_WIN\"]/choice/event/choice[1]/event/text"
 msgstr ""
-"« D'accord, nous avons découvert une base de recherche Radiante fortement "
+"« D'accord, nous avons découvert une base de recherche Radiante fortement "
 "défendue à proximité, nous aurons besoin de vous pour les distraire pendant "
-"que nous nous infiltrons à bord de la station. Vous devrez faire attention, "
-"nous ne pouvons pas risquer que vous tuiez le garde et que vous mettiez la "
-"base en confinement. Au lieu de cela, vous devrez simplement les maintenir "
-"en combat pendant quelques minutes pendant que nous travaillons sur la base "
-"de recherche. Nous vous enverrons les coordonnées. »"
+"que nous nous infiltrerons à bord de la station. Vous devrez être prudent "
+"cependant, nous ne pouvons pas risquer que vous tuiez la garde et que vous "
+"mettiez la base en verrouillage. Au lieu de cela, vous devrez juste les "
+"maintenir en combat pendant quelques minutes pendant que nous travaillons "
+"sur la base de recherche. Nous vous enverrons les coordonnées. »"
 
 #: src-en/data/events_sector_aea_shleg.xml:825
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_KNIGHT_BATTLE_WIN\"]/choice/event/choice[2]/text"
-msgstr "Refusez la mission."
+msgstr "Refuser la mission."
 
 #: src-en/data/events_sector_aea_shleg.xml:835
 msgid ""
@@ -1003,9 +1007,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/text"
 msgstr ""
-"À travers une clairière dans la nébuleuse, vous trouvez la base de recherche"
-" promise par les Anarchistes, ainsi qu'un garde d'apparence dangereuse. Vous"
-" retournez dans la nébuleuse pour attendre l'arrivée des Anarchistes."
+"À travers une éclaircie dans la nébuleuse, vous trouvez la base de recherche"
+" promise par les Anarchistes, ainsi qu'une garde d'apparence dangereuse. "
+"Vous retournez dans la nébuleuse pour attendre l'arrivée des Anarchistes."
 
 #: src-en/data/events_sector_aea_shleg.xml:851
 msgid ""
@@ -1017,11 +1021,11 @@ msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/text"
 msgstr ""
 "Quelques instants plus tard, un petit vaisseau sombre arrive, vous pensez "
-"d'abord qu'il doit appartenir aux chevaliers slugs mais quand il vous hèle, "
-"vous réalisez que ce sont les Anarchistes. Ces deux mêmes Anarchistes "
-"réapparaissent sur les communications. « Nous sommes là Capitaine, rappelez-"
-"vous de ne pas tuer le garde, distrayez-les simplement jusqu'à ce que nous "
-"ayons fini. Nous passerons à l'action une fois que vous aurez commencé. »"
+"d'abord qu'il doit appartenir aux chevaliers limaces, mais quand il vous "
+"hèle, vous réalisez que ce sont les Anarchistes. Ces deux mêmes Anarchistes "
+"apparaissent à nouveau sur les communications. « Nous sommes là Capitaine, "
+"souvenez-vous de ne pas tuer la garde, juste de les distraire jusqu'à ce que"
+" nous ayons terminé. Nous interviendrons une fois que vous aurez commencé. »"
 
 #: src-en/data/events_sector_aea_shleg.xml:855
 msgid ""
@@ -1032,8 +1036,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[1]/event/text"
 msgstr ""
-"Vous sortez de la nébuleuse avec les armes prêtes. Le garde répond de la "
-"même manière."
+"Vous sortez de la nébuleuse avec les armes activées. La garde répond de "
+"même."
 
 #: src-en/data/events_sector_aea_shleg.xml:860
 msgid ""
@@ -1043,14 +1047,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_shleg.xml:866
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[2]/text"
-msgstr "Faites demi-tour maintenant."
+msgstr "Fuir maintenant."
 
 #: src-en/data/events_sector_aea_shleg.xml:868
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[2]/event/text"
 msgstr ""
-"Lorsque les anarchistes réalisent que vous n'allez pas attaquer, ils "
-"sautent, clairement frustrés par vous."
+"Quand les Anarchistes réalisent que vous n'allez pas attaquer, ils sautent, "
+"clairement frustrés par vous."
 
 #: src-en/data/events_sector_aea_shleg.xml:870
 msgid ""
@@ -1066,9 +1070,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"DEFEAT_AEA_SHLEG_RADIANT_ELITE\"]/text"
 msgstr ""
-"Un vaisseau Radiant a succombé à votre vaisseau. Vous auriez mieux fait de "
-"ne pas détruire ce vaisseau, sinon vous auriez peut-être juste fait tuer ces"
-" Anarchistes."
+"Un vaisseau Radiant a succombé à votre vaisseau. Vous feriez mieux de ne pas"
+" avoir détruit ce vaisseau, sinon vous auriez pu faire tuer ces Anarchistes."
 
 #: src-en/data/events_sector_aea_shleg.xml:887
 msgid ""
@@ -1083,13 +1086,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_shleg.xml:901
 msgid ""
 "data/events_sector_aea_shleg.xml$//ship[@name=\"AEA_SHLEG_RADIANT_QUESTSHIP\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr "Maintenez le garde en vie jusqu'à la fin de ce compte à rebours."
+msgstr "Maintenir la garde en vie jusqu'à la fin de ce compte à rebours."
 
 #: src-en/data/events_sector_aea_shleg.xml:912
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/text"
 msgstr ""
-"« Nous sommes sortis. Nous allonsss nousss amarrer à votre vaisssseau. »"
+"« Nousss sommmeesss sortisss. Nousss viendrronss nousss amarrrerrr à votrrre"
+" vaisssseau. »"
 
 #: src-en/data/events_sector_aea_shleg.xml:914
 msgid ""
@@ -1100,11 +1104,11 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/text"
 msgstr ""
-"Les deux anarchistes s'amarrent à votre vaisseau et montent à bord, l'un d'eux tient un grand réservoir rempli de gaz qui semble changer de couleur. « Excellent travail, Capitaine, vous avez géré cela de manière très professionnelle et nous avez permis de mettre la main sur ce gaz prototype.\"\n"
+"Les deux Anarchistes accostent votre vaisseau et montent à bord, l'un d'eux tient un grand réservoir rempli de gaz qui semble changer de couleurs. « Excellent travhail Capitaine, vous avez géré cela de manière très professsionnelle et nouss avez perrmisss de mettrrre la main ssur ceettte gazze prrrototype. »\n"
 "\n"
-"Le Slug reprend la conversation : « Désolé, nous ne nous sommes pas présentés correctement, je suis Faucille et voici Chagrin, nous étions les membres fondateurs originaux des Anarchistes.\"\n"
-"Chagrin continue ensuite : « Nous avons une dernière proposition pour vous. Nous aimerions tous les deux continuer avec vous sur votre vaisseau, cependant l'un de nous doit ramener ce gaz à nos chercheurs.\"\n"
-"« Nous avons besoin que vous choisissiez entre nous.\"\n"
+"La Limace reprend la conversation, « Désoléss nousss ne nousss sommmeesss paass prrrésentéss corrrrectement, je sssuisss Sickle et voici Sssorrow, nousss étionsss les membrresss fondateuurrsss originaux des Anarchistesss. »\n"
+"Sorrow continue ensuite : « Nous avons une dernière proposition pour vous. Nous aimerions tous deux continuer avec vous sur votre vaisseau, cependant l'un de nous doit ramener ce gaz à nos chercheurs. »\n"
+"« Vous devez nousss choiisirrr, l'un ou l'autre. »\n"
 "\n"
 "En plus de leur offre, ils vous donnent également les plans d'un nouveau vaisseau et une bonne quantité de ferraille."
 
@@ -1112,15 +1116,15 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/text"
 msgstr ""
-"(Équipage anarchiste + Bonne réputation) Proposez d'envoyer votre propre "
-"membre d'équipage à la place."
+"(Membre d'équipage Anarchiste + Bonne Réputation) Proposer d'envoyer votre "
+"propre membre d'équipage à la place."
 
 #: src-en/data/events_sector_aea_shleg.xml:928
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/event/text"
 msgstr ""
-"« Quelle excellente idée, capitaine, j'espère que votre équipage n'y verra "
-"pas d'inconvénient. »"
+"« Quelle excellente idée, Capitaine, j'espère que votre équipage ne s'en "
+"souciera pas. »"
 
 #: src-en/data/events_sector_aea_shleg.xml:929
 msgid ""
@@ -1145,14 +1149,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_shleg.xml:944
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[2]/text"
-msgstr "Prenez Sickle."
+msgstr "Prendre Sickle."
 
 #: src-en/data/events_sector_aea_shleg.xml:946
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[2]/event/text"
 msgstr ""
-"« C'essst mon plaisssir de vousss ssservir, Capitaine. » Sickle se tourne "
-"vers Sorrow et lui fait ses adieuxss."
+"« C'essst un plaisirrr de ssservirrr à vosss côtéss, Capitaine. » Sickle se "
+"tourne vers Sorrow et lui fait ses adieux."
 
 #: src-en/data/events_sector_aea_shleg.xml:947
 msgid ""
@@ -1162,14 +1166,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_shleg.xml:951
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[3]/text"
-msgstr "Prenez Sorrow."
+msgstr "Prendre Sorrow."
 
 #: src-en/data/events_sector_aea_shleg.xml:953
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[3]/event/text"
 msgstr ""
-"« C'esst un bon changgement de rythme. » Sorrow se tourne vers Sickle et lui"
-" fait ses adieux."
+"« Ce serrra un beau changementtt. » Sorrow se tourne vers Sickle et lui dit "
+"ses adieux."
 
 #: src-en/data/events_sector_aea_shleg.xml:954
 msgid ""
@@ -1179,16 +1183,16 @@ msgstr ""
 #: src-en/data/events_sector_aea_shleg.xml:958
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[4]/text"
-msgstr "Refusez-les tous les deux."
+msgstr "Les refuser tous les deux."
 
 #: src-en/data/events_sector_aea_shleg.xml:974
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/text"
 msgstr ""
-"Vous arrivez à la balise et découvrez une station de la fédération, "
-"cependant lorsque vous les halez, vous obtenez une étrange réponse, une "
-"vidéo apparaît montrant l'intérieur du poste avancé qui semble être rempli "
-"d'un étrange gaz, vous ne voyez personne aux alentours."
+"Vous arrivez à la balise et découvrez une station de la Fédération, mais "
+"lorsque vous les halez, vous recevez une étrange réponse : un flux vidéo "
+"apparaît montrant l'intérieur de l'avant-poste, qui semble rempli d'un "
+"étrange gaz, vous ne voyez personne autour."
 
 #: src-en/data/events_sector_aea_shleg.xml:977
 msgid ""
@@ -1199,15 +1203,15 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[1]/event/text"
 msgstr ""
-"Alors que vous vous approchez pour vous amarrer, vous êtes interrompu "
-"lorsqu'un vaisseau Anarchiste émerge des nuages. « Hé, c'est notre expéri- "
-"Oh, zut, c'est un renégat, on dirait qu'ils sont avec la Fédération, il faut"
-" qu'on parte d'ici ! » Le vaisseau Anarchiste s'envole dans les nuages."
+"Alors que vous vous approchez pour accoster, vous êtes interrompu lorsqu'un "
+"vaisseau Anarchiste émerge des nuages. « Hé, c'est notre expéri- Oh, zut, "
+"c'est un renégat, on dirait qu'ils sont avec la Fédération, nous devons "
+"partir d'ici ! » Le vaisseau Anarchiste s'envole dans les nuages."
 
 #: src-en/data/events_sector_aea_shleg.xml:981
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[1]/event/choice[1]/text"
-msgstr "Poursuivez-les !"
+msgstr "Les pourchasser !"
 
 #: src-en/data/events_sector_aea_shleg.xml:983
 msgid ""
@@ -1222,24 +1226,24 @@ msgstr ""
 #: src-en/data/events_sector_aea_shleg.xml:988
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[1]/event/choice[2]/text"
-msgstr "Laissez-les partir"
+msgstr "Les laisser partir."
 
 #: src-en/data/events_sector_aea_shleg.xml:990
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
-"Vous retournez au poste avancé, mais en vous amarrant, vous trouvez tout "
-"l'équipage mort. Vous récupérez ce que vous pouvez."
+"Vous retournez à l'avant-poste mais lorsque vous accostez, vous trouvez tout"
+" l'équipage mort. Vous démanteler ce que vous pouvez."
 
 #: src-en/data/events_sector_aea_shleg.xml:997
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[2]/text"
-msgstr "Partez avant que quelque chose de mauvais ne vous arrive aussi."
+msgstr "Partir avant que quelque chose de grave ne vous arrive aussi."
 
 #: src-en/data/events_sector_aea_shleg.xml:999
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[2]/event/text"
-msgstr "Vous reculez dans la nébuleuse et chargez votre propulseur FTL."
+msgstr "Vous reculez dans la nébuleuse et chargez votre générateur SPL."
 
 #: src-en/data/events_sector_aea_shleg.xml:1001
 msgid ""
@@ -1265,8 +1269,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/text"
 msgstr ""
-"Vous arrivez à la balise et détectez les Anarchistes. Il semble qu'ils "
-"communiquent avec un petit poste de recherche."
+"Vous arrivez à la balise et détectez les Anarchistes. Il apparaît qu'ils "
+"communiquent avec un minuscule avant-poste de recherche."
 
 #: src-en/data/events_sector_aea_shleg.xml:1029
 msgid ""
@@ -1277,8 +1281,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/choice[1]/event/text"
 msgstr ""
-"« Oh non, ils nous ont suivis, je vous avais dit que nous avions laissé les "
-"communications allumées ! »"
+"« Oh non, ils nous ont suivis, je vous avais dit que nous avions laissé les "
+"communications allumées ! »"
 
 #: src-en/data/events_sector_aea_shleg.xml:1034
 msgid ""
@@ -1293,7 +1297,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_shleg.xml:1042
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/choice[2]/event/text"
-msgstr "Vous reculez dans la nébuleuse et chargez votre propulseur FTL."
+msgstr "Vous reculez dans la nébuleuse et chargez votre générateur SPL."
 
 #: src-en/data/events_sector_aea_shleg.xml:1044
 msgid ""
@@ -1309,8 +1313,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST_WIN\"]/text"
 msgstr ""
-"Vous avez détruit le vaisseau habituel et vous le pillez de tout ce qu'il "
-"contient. Vous trouvez une arme parmi l'épave."
+"Vous avez détruit le vaisseau habituel et vous le pillez pour tout ce qu'ils"
+" ont. Vous trouvez une arme parmi l'épave."
 
 #: src-en/data/events_sector_aea_shleg.xml:1065
 msgid ""
@@ -1322,5 +1326,5 @@ msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST_WIN\"]/choice/event/text"
 msgstr ""
 "Vous vous tournez ensuite vers la base de recherche, à bord vous trouvez une"
-" carte complète du secteur, ainsi que les plans du vaisseau que vous avez "
+" carte de secteur complète, ainsi que le plan du vaisseau que vous avez "
 "détruit."
