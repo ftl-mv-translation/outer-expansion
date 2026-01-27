@@ -25,7 +25,7 @@ msgid "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/text"
 msgstr ""
 "Vous êtes arrivé sur une planète de vacances en plein milieu de l'espace "
 "cultiste. Vous êtes encore plus surpris lorsque tout le marketing de "
-"l'endroit est destiné aux cultistes."
+"l'endroit est dirigé vers les cultistes."
 
 #: src-en/data/events_sector_aea_cult.xml:63
 msgid ""
@@ -37,9 +37,9 @@ msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/choice[1]/event/text"
 msgstr ""
 "Vous atterrissez et laissez votre équipage se détendre dans le complexe. "
-"L'endroit est relativement normal à part les membres du culte, mais même eux"
-" se révèlent plutôt cools, l'un d'eux propose même de rejoindre votre "
-"équipage."
+"L'endroit est relativement normal en dehors des membres du culte, mais même "
+"eux se révèlent être plutôt cools, l'un d'eux propose même de rejoindre "
+"votre équipage."
 
 #: src-en/data/events_sector_aea_cult.xml:67
 msgid ""
@@ -50,8 +50,8 @@ msgstr "Acceptez-les à bord."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"En quittant la planète, vous remarquez que la flotte rebelle a effectué un "
-"saut en avant pendant que vous vous relaxiez."
+"En quittant la planète, vous remarquez que la flotte rebelle a fait un bond "
+"en avant pendant que vous vous détendiez."
 
 #: src-en/data/events_sector_aea_cult.xml:75
 msgid ""
@@ -62,8 +62,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
-"En quittant la planète, vous remarquez que la flotte rebelle a effectué un "
-"saut en avant pendant que vous vous relaxiez."
+"En quittant la planète, vous remarquez que la flotte rebelle a fait un bond "
+"en avant pendant que vous vous détendiez."
 
 #: src-en/data/events_sector_aea_cult.xml:84
 msgid ""
@@ -74,7 +74,7 @@ msgstr "Prendre des collations gratuites dans le hall."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/choice[2]/event/text"
 msgstr ""
-"Vous passez par le hall et prenez quelques fournitures avant de repartir."
+"Vous passez par le hall et prenez quelques provisions avant de repartir."
 
 #: src-en/data/events_sector_aea_cult.xml:91
 msgid ""
@@ -85,7 +85,7 @@ msgstr "Voler quelque chose aux objets trouvés."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_BEACH\"]/choice[3]/event/text"
 msgstr ""
-"Vous prenez un objet des objets trouvés avant de vous enfuir en courant "
+"Vous prenez un objet aux objets trouvés avant de vous enfuir en sprintant "
 "avant que quiconque ne puisse vous rattraper."
 
 #: src-en/data/events_sector_aea_cult.xml:96
@@ -97,14 +97,14 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FOOD_DRIVE\"]/text"
 msgstr ""
-"Vous êtes arrivé à la balise et découvrez que le culte organise une collecte"
-" de nourriture ; il y a une longue file de personnes qui attendent un repas "
-"gratuit."
+"Vous êtes arrivé à la balise pour découvrir que le culte organise une "
+"collecte de nourriture, il y a une longue file de personnes qui attendent un"
+" repas gratuit."
 
 #: src-en/data/events_sector_aea_cult.xml:106
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FOOD_DRIVE\"]/choice[1]/text"
-msgstr "Faire don de fournitures à la cause."
+msgstr "Faire don de quelques provisions à la cause."
 
 #: src-en/data/events_sector_aea_cult.xml:108
 msgid ""
@@ -157,24 +157,24 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MAGIC_GATE\"]/text"
 msgstr ""
-"Un événement étrange se déroule à cette balise ; il semble que les cultistes"
-" aient mis en place une sorte de porte de saut prototype. Ils affirment "
-"qu'elle vous permettra de sauter vers n'importe quelle balise du secteur, et"
-" vous demandent de participer au test."
+"Un événement étrange se déroule à cette balise, il semble que les cultistes "
+"aient mis en place une sorte de portail de saut prototype. Ils affirment "
+"qu'il vous permettra de sauter vers n'importe quelle balise du secteur, ils "
+"vous demandent de participer au test."
 
 #: src-en/data/events_sector_aea_cult.xml:149
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MAGIC_GATE\"]/choice[1]/text"
-msgstr "Utiliser la porte de saut."
+msgstr "Utiliser le portail de saut."
 
 #: src-en/data/events_sector_aea_cult.xml:152
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MAGIC_GATE\"]/choice[1]/event/text"
 msgstr ""
-"Vous entrez dans la porte de saut et vous retrouvez en hyperspace ; il "
-"semble y avoir quelques épaves flottant près de vous que vous ferraillez "
-"pour des pièces. Il apparaît que les cultistes avaient raison, vous pouvez "
-"sauter vers n'importe quelle balise du secteur d'ici !"
+"Vous vous dirigez vers le portail de saut et vous vous retrouvez en "
+"hyperespace, il semble y avoir quelques épaves flottant près de vous que "
+"vous démantelé pour des pièces. Il apparaît que les cultistes avaient "
+"raison, vous pouvez sauter vers n'importe quelle balise du secteur d'ici !"
 
 #: src-en/data/events_sector_aea_cult.xml:158
 msgid ""
@@ -200,37 +200,37 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/text"
 msgstr ""
-"Vous arrivez sur une planète luxuriante et inexplorée. Votre équipage "
-"commence à entendre de faibles murmures sur les communications. "
-"Initialement, vous pensez que c'est du statique, mais bientôt il devient "
+"Vous arrivez sur une planète luxuriante et inexplorée, votre équipage "
+"commence à entendre de faibles murmures sur les communications. Au début, "
+"vous pensez que c'est de l'électricité statique, mais bientôt il devient "
 "clair que les murmures vous guident."
 
 #: src-en/data/events_sector_aea_cult.xml:189
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/text"
-msgstr "Suivre la voix et enquêter plus loin."
+msgstr "Suivre la voix et enquêter davantage."
 
 #: src-en/data/events_sector_aea_cult.xml:191
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/event/text"
 msgstr ""
 "Vous suivez les faibles murmures et arrivez finalement sur une petite lune "
-"cachée, couverte de fleurs lumineuses. Il y a une grande structure à la "
-"surface, qui semble être un jardin immense. Lorsque vous entrez au cœur de "
-"leur jardin, les voix deviennent plus fortes, elles vous demandent ce que "
-"vous cherchez..."
+"cachée, couverte de fleurs lumineuses. Une grande structure se trouve à la "
+"surface, elle semble être un jardin immense. En pénétrant au cœur de leur "
+"jardin, les voix deviennent plus fortes, elles vous demandent ce que vous "
+"cherchez..."
 
 #: src-en/data/events_sector_aea_cult.xml:193
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/event/choice[1]/text"
-msgstr "Fournitures."
+msgstr "Provisions."
 
 #: src-en/data/events_sector_aea_cult.xml:195
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Une plateforme s'élève du sol, et sur elle un plateau de diverses "
-"fournitures."
+"Une plateforme s'élève du sol, et sur elle, un plateau de diverses "
+"provisions."
 
 #: src-en/data/events_sector_aea_cult.xml:200
 msgid ""
@@ -240,7 +240,7 @@ msgstr "Outils."
 #: src-en/data/events_sector_aea_cult.xml:202
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/event/choice[2]/event/text"
-msgstr "Une plateforme s'élève du sol, et sur elle un drone."
+msgstr "Une plateforme s'élève du sol, et sur elle, un drone."
 
 #: src-en/data/events_sector_aea_cult.xml:207
 msgid ""
@@ -250,7 +250,7 @@ msgstr "Armement."
 #: src-en/data/events_sector_aea_cult.xml:209
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MYSTERIOUS_VOICE\"]/choice[1]/event/choice[3]/event/text"
-msgstr "Une plateforme s'élève du sol, et sur elle une arme."
+msgstr "Une plateforme s'élève du sol, et sur elle, une arme."
 
 #: src-en/data/events_sector_aea_cult.xml:214
 msgid ""
@@ -295,9 +295,9 @@ msgstr ""
 #: src-en/data/events_sector_aea_cult.xml:264
 msgid "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FACTORY\"]/text"
 msgstr ""
-"Une usine est en service à cette balise ; elle semble gardée par un seul "
-"vaisseau cultiste. Vos capteurs détectent un vaisseau pirate caché dans un "
-"champ d'astéroïdes à proximité."
+"Une usine est en activité à cette balise, elle semble être gardée par un "
+"unique vaisseau cultiste. Vos capteurs détectent un vaisseau pirate caché "
+"dans un champ d'astéroïdes à proximité."
 
 #: src-en/data/events_sector_aea_cult.xml:266
 msgid ""
@@ -308,8 +308,8 @@ msgstr "Attaquer le garde et piller l'usine."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FACTORY\"]/choice[1]/event/text"
 msgstr ""
-"Vous avancez et activez vos armes, le vaisseau pirate reste en arrière pour "
-"observer l'engagement."
+"Vous avancez et mettez vos armes sous tension, le vaisseau pirate reste en "
+"arrière pour observer l'engagement."
 
 #: src-en/data/events_sector_aea_cult.xml:271
 msgid ""
@@ -325,8 +325,8 @@ msgstr "Attaquer le pirate et défendre l'usine."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FACTORY\"]/choice[2]/event/text"
 msgstr ""
-"Vous engagez le pirate, malheureusement le vaisseau cultiste ne se presse "
-"pas de vous rejoindre."
+"Vous engagez le pirate, malheureusement le vaisseau Cultiste n'est pas "
+"pressé de vous rejoindre."
 
 #: src-en/data/events_sector_aea_cult.xml:282
 msgid ""
@@ -358,33 +358,34 @@ msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/text"
 msgstr ""
 "Vous arrivez à la balise et découvrez un vaisseau cultiste en flammes près "
-"de celle-ci. Il n'y a pas de balise de détresse mais ils ne doivent pas être"
-" en très bonne posture."
+"d'elle. Il n'y a pas de balise de détresse, mais ils ne doivent pas aller "
+"très bien là-bas."
 
 #: src-en/data/events_sector_aea_cult.xml:307
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/choice[@req=\"BLUELIST_CREW_NOFIRE\"]/text"
 msgstr ""
-"(Équipage Ignifugé) Accoster le vaisseau et envoyer votre équipage ignifugé."
+"(Membre d'équipage Ignifugé) Accostez le vaisseau et envoyez votre membre "
+"d'équipage ignifugé."
 
 #: src-en/data/events_sector_aea_cult.xml:311
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/choice[@req=\"BLUELIST_DRONES_REPAIR_CREW\"]/text"
 msgstr ""
-"(Drone de Réparation) Accoster le vaisseau et envoyer un drone de réparation"
-" dans le feu."
+"(Drone de maintenance) Accostez le vaisseau et envoyez un drone de "
+"maintenance dans l'incendie."
 
 #: src-en/data/events_sector_aea_cult.xml:315
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/choice[@req=\"FIRE_EXTINGUISHERS\"]/text"
 msgstr ""
-"(Extincteurs) Accoster le vaisseau et utiliser le système d'extinction de "
-"votre vaisseau sur le leur."
+"(Extincteurs) Accostez le vaisseau et utilisez le système de suppression "
+"d'incendies de votre vaisseau sur le leur."
 
 #: src-en/data/events_sector_aea_cult.xml:319
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/choice[@req=\"LIST_CHECK_ANY_CREW\"]/text"
-msgstr "Accoster le vaisseau et envoyer votre équipage aider."
+msgstr "Accostez le vaisseau et envoyez votre équipage pour aider."
 
 #: src-en/data/events_sector_aea_cult.xml:323
 msgid ""
@@ -395,8 +396,8 @@ msgstr "Profiter de leur situation et attaquer."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/choice[5]/event/text"
 msgstr ""
-"Vous activez vos armes et avancez pour attaquer ; ils remarquent ce que vous"
-" faites et répondent avec leur propre armement."
+"Vous activez vos armes et avancez pour attaquer, ils remarquent ce que vous "
+"faites et ripostent avec leurs propres armes."
 
 #: src-en/data/events_sector_aea_cult.xml:332
 msgid ""
@@ -406,7 +407,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_cult.xml:338
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE\"]/choice[6]/text"
-msgstr "Vous ne pouvez pas aider, les laisser à leur sort."
+msgstr "Vous ne pouvez pas aider, abandonnez-les à leur sort."
 
 #: src-en/data/events_sector_aea_cult.xml:340
 msgid ""
@@ -427,17 +428,17 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE_SUCCEED_GOOD\"]/text"
 msgstr ""
-"« Oh, merci la fleur d'être là, nous ne savons pas ce que nous aurions fait sans vous !\n"
+"\"Oh, merci la fleur d'être là, nous ne savons pas ce que nous aurions fait sans vous !\n"
 "\n"
-"Prenez cette ferraille en guise de remerciement. »"
+"Prenez cette ferraille en guise de remerciement.\""
 
 #: src-en/data/events_sector_aea_cult.xml:361
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_FIRE_SUCCEED_BAD\"]/text"
 msgstr ""
-"« Vous avez ruiné le cercle d'invocation, ce feu était entièrement sous contrôle !\n"
+"\"Vous avez ruiné le cercle d'invocation, ce feu était entièrement sous contrôle !\n"
 "\t\t\t\n"
-"Vous avez tout ruiné, préparez-vous à mourir ! »"
+"Vous avez tout ruiné, préparez-vous à mourir !\""
 
 #: src-en/data/events_sector_aea_cult.xml:366
 msgid ""
@@ -448,64 +449,63 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//eventList[@name=\"AEA_CULT_CULTIST_FIRE_LIST\"]/event[3]/text"
 msgstr ""
-"Votre équipage tente d'éteindre l'incendie mais est coupé et contraint de retourner à bord de votre propre vaisseau ; vous parvenez à peine à vous désengager avant que le feu ne se propage trop.\n"
+"Votre équipage tente d'éteindre l'incendie mais est coupé et contraint de retourner à bord de votre propre vaisseau. Vous parvenez à peine à vous désengager avant que le feu ne se propage trop.\n"
 "\n"
-"Vous regardez le vaisseau orchidée prendre feu, une fois les débris refroidis, vous le fouillez à la recherche de toute ferraille utile."
+"Vous regardez le vaisseau Orchidée s'embraser. Une fois les débris refroidis, vous les fouillez à la recherche de ferraille utile."
 
 #: src-en/data/events_sector_aea_cult.xml:378
 msgid ""
 "data/events_sector_aea_cult.xml$//eventList[@name=\"AEA_CULT_CULTIST_FIRE_LIST\"]/event[4]/text"
 msgstr ""
-"Votre équipage arrive à bord et découvre un immense cercle d'invocation fait de feu, plusieurs orchidées semblent le canaliser.\n"
+"Votre équipage arrive à bord et découvre un cercle d'invocation massif fait de feu, plusieurs Orchidées semblent le canaliser.\n"
 "\n"
-"Vous remarquez qu'une des orchidées a tourné son attention vers votre équipage et vous ordonnez une retraite ; malheureusement, l'un de vos membres d'équipage est pris et vous le regardez s'enflammer dans un éclair de feu.\n"
+"Vous remarquez qu'une des Orchidées a tourné son attention vers votre équipage et vous ordonnez une retraite. Malheureusement, un de vos membres d'équipage est pris au piège et vous le regardez s'enflammer dans un éclair de feu.\n"
 "\n"
-"Vous parvenez à peine à retourner à votre vaisseau avant que l'ennemi ne saute."
+"Vous réussissez de justesse à regagner votre vaisseau avant que l'ennemi ne disparaisse."
 
 #: src-en/data/events_sector_aea_cult.xml:386
 msgid ""
 "data/events_sector_aea_cult.xml$//eventList[@name=\"AEA_CULT_CULTIST_FIRE_LIST\"]/event[4]/removeCrew/text"
 msgstr ""
-"Heureusement, vous disposez d'un Module de Clonage pour réanimer votre "
+"Heureusement, vous disposez d'une salle des clones pour ranimer votre "
 "équipage."
 
 #: src-en/data/events_sector_aea_cult.xml:397
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_REQUEST\"]/text"
 msgstr ""
-"Un cultiste vous approche avec une humble requête. Les cultistes de la vamp-"
-"herbe ont besoin d'une ressource rare, un cristal spécifique provenant d'un "
-"champ d'astéroïdes voisin. Ils affirment que le cristal sera utilisé lors "
-"d'une cérémonie sacrée."
+"Un cultiste vous approche avec une humble requête. Les cultistes Vampiflores"
+" ont besoin d'une ressource rare, un cristal spécifique provenant d'un champ"
+" d'astéroïdes voisin. Ils affirment que le cristal sera utilisé lors d'une "
+"cérémonie sacrée."
 
 #: src-en/data/events_sector_aea_cult.xml:400
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_REQUEST\"]/choice[1]/text"
-msgstr "Accepter de les aider et de chercher le cristal."
+msgstr "Acceptez de les aider et cherchez le cristal."
 
 #: src-en/data/events_sector_aea_cult.xml:402
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_REQUEST\"]/choice[1]/event/text"
 msgstr ""
-"Vous commencez à scanner le champ d'astéroïdes, et après un certain temps, "
-"vous détectez quelque chose juste au bord du champ. En y regardant de plus "
-"près, vous découvrez le cristal que les cultistes recherchent, et de plus, "
-"ce n'est pas un vieux cristal, c'est un diamant de la taille d'un Rockman."
+"Vous commencez à scanner le champ d'astéroïdes. Après un certain temps, vous"
+" détectez quelque chose juste au bord du champ. En y regardant de plus près,"
+" vous découvrez le cristal que les cultistes recherchent, et ce n'est pas "
+"n'importe quel cristal, c'est un diamant de la taille d'un Rocailleux."
 
 #: src-en/data/events_sector_aea_cult.xml:404
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_REQUEST\"]/choice[1]/event/choice[1]/text"
 msgstr ""
-"Prendre le cristal avant que les cultistes ne le voient et s'en aller."
+"Prenez le cristal avant que les cultistes ne le voient et partez d'ici."
 
 #: src-en/data/events_sector_aea_cult.xml:406
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_REQUEST\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Juste au moment où vous pensez que personne n'a rien vu, un vaisseau "
-"cultiste vous intercepte avant que vous ne puissiez sortir du champ. Ils "
-"vous ont clairement vu prendre le cristal et ne sont pas d'humeur à "
-"négocier."
+"Alors que vous pensez que personne ne vous a vu, un vaisseau cultiste vous "
+"intercepte avant que vous ne puissiez quitter le champ. Ils vous ont "
+"clairement vu prendre le cristal et ne sont pas d'humeur à négocier."
 
 #: src-en/data/events_sector_aea_cult.xml:412
 msgid ""
@@ -515,15 +515,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_cult.xml:418
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_REQUEST\"]/choice[1]/event/choice[2]/text"
-msgstr "Tenir votre promesse et leur apporter le cristal."
+msgstr "Tenez votre promesse et apportez-leur le cristal."
 
 #: src-en/data/events_sector_aea_cult.xml:420
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CULTIST_REQUEST\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
-"Vous retournez auprès des orchidées et leur présentez le cristal ; elles "
-"sont incroyablement reconnaissantes pour votre aide et vous remercient même "
-"en vous donnant plus de ferraille que le cristal n'en valait."
+"Vous retournez auprès des Orchidées et leur présentez le cristal. Elles sont"
+" incroyablement reconnaissantes de votre aide et vous remercient même en "
+"vous donnant plus de ferraille que le cristal ne valait."
 
 #: src-en/data/events_sector_aea_cult.xml:425
 msgid ""
@@ -553,9 +553,9 @@ msgstr ""
 #: src-en/data/events_sector_aea_cult.xml:449
 msgid "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/text"
 msgstr ""
-"Vous êtes arrivé à la balise et découvrez un immense troupeau de baleines "
-"spatiales passant devant la balise. La grande baleine en tête du groupe se "
-"sépare et se dirige vers vous."
+"Vous arrivez à la balise et découvrez un immense troupeau de baleines "
+"spatiales passant devant. La grande baleine en tête de groupe se sépare et "
+"se dirige vers vous."
 
 #: src-en/data/events_sector_aea_cult.xml:453
 msgid ""
@@ -575,7 +575,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_cult.xml:464
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"AEA_CULTISTS_ALL\"]/text"
-msgstr "(Équipage Cultiste) Communiquer avec la baleine."
+msgstr "(Membre d'équipage Cultiste) Communiquer avec la baleine."
 
 #: src-en/data/events_sector_aea_cult.xml:466
 msgid ""
@@ -583,20 +583,20 @@ msgid ""
 msgstr ""
 "Votre cultiste commence à communiquer avec la baleine. Après avoir compris vos intentions pacifiques, la baleine vous fait une requête.\n"
 "\n"
-"Il semble que le compagnon de la baleine se soit séparé d'elle dans un champ d'astéroïdes il y a quelque temps ; elle veut que vous alliez le chercher."
+"Il semblerait que le compagnon de la baleine se soit séparé d'elle dans un champ d'astéroïdes il y a quelque temps. Elle souhaite que vous partiez à sa recherche."
 
 #: src-en/data/events_sector_aea_cult.xml:470
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"AEA_CULTISTS_ALL\"]/event/choice[1]/text"
-msgstr "Accepter de retrouver le compagnon de la baleine."
+msgstr "Acceptez de retrouver le compagnon de la baleine."
 
 #: src-en/data/events_sector_aea_cult.xml:472
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"AEA_CULTISTS_ALL\"]/event/choice[1]/event/text"
 msgstr ""
-"La baleine indique à votre cultiste où ils ont été séparés de leur "
-"compagnon. Elle vous dit également où escorter leur compagnon une fois que "
-"vous l'aurez trouvé."
+"La baleine dit à votre cultiste où ils ont été séparés de leur compagnon. "
+"Elle vous dit également où escorter son compagnon une fois que vous l'aurez "
+"trouvé."
 
 #: src-en/data/events_sector_aea_cult.xml:477
 msgid ""
@@ -611,7 +611,7 @@ msgstr "La baleine semble déçue mais s'éloigne pour rejoindre le troupeau."
 #: src-en/data/events_sector_aea_cult.xml:485
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"LIST_CREW_AEA_BIRD\"]/text"
-msgstr "(Équipage Gi) Communiquer avec la baleine."
+msgstr "(Membre d'équipage Gi) Communiquer avec la baleine."
 
 #: src-en/data/events_sector_aea_cult.xml:487
 msgid ""
@@ -619,20 +619,20 @@ msgid ""
 msgstr ""
 "Votre Gi commence à communiquer avec la baleine. Après avoir compris vos intentions pacifiques, la baleine vous fait une requête.\n"
 "\n"
-"Il semble que le compagnon de la baleine se soit séparé d'elle dans un champ d'astéroïdes il y a quelque temps ; elle veut que vous alliez le chercher."
+"Il semblerait que le compagnon de la baleine se soit séparé d'elle dans un champ d'astéroïdes il y a quelque temps. Elle souhaite que vous partiez à sa recherche."
 
 #: src-en/data/events_sector_aea_cult.xml:491
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"LIST_CREW_AEA_BIRD\"]/event/choice[1]/text"
-msgstr "Accepter de retrouver le compagnon de la baleine."
+msgstr "Acceptez de retrouver le compagnon de la baleine."
 
 #: src-en/data/events_sector_aea_cult.xml:493
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"LIST_CREW_AEA_BIRD\"]/event/choice[1]/event/text"
 msgstr ""
-"La baleine indique à votre cultiste où ils ont été séparés de leur "
-"compagnon. Elle vous dit également où escorter leur compagnon une fois que "
-"vous l'aurez trouvé."
+"La baleine dit à votre cultiste où ils ont été séparés de leur compagnon. "
+"Elle vous dit également où escorter son compagnon une fois que vous l'aurez "
+"trouvé."
 
 #: src-en/data/events_sector_aea_cult.xml:498
 msgid ""
@@ -647,19 +647,19 @@ msgstr "La baleine semble déçue mais s'éloigne pour rejoindre le troupeau."
 #: src-en/data/events_sector_aea_cult.xml:506
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"SHIP_AEA_WHALE\"]/text"
-msgstr "(Baleine Spatiale) Courtiser la baleine."
+msgstr "(Baleine spatiale) Faire la cour à la baleine."
 
 #: src-en/data/events_sector_aea_cult.xml:508
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[@req=\"SHIP_AEA_WHALE\"]/event/text"
 msgstr ""
-"Vous, en tant que baleine, tentez de séduire la baleine.\n"
-"Malheureusement, la baleine n'est pas intéressée par vos avances et une fois qu'elle réalise que vous n'appartenez pas au troupeau, elle s'en va."
+"En tant que baleine, vous tentez de séduire l'autre baleine.\n"
+"Malheureusement, la baleine n'est pas intéressée par vos avances et, une fois qu'elle réalise que vous n'appartenez pas au troupeau, elle s'en va."
 
 #: src-en/data/events_sector_aea_cult.xml:514
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE\"]/choice[5]/text"
-msgstr "Reculer et éviter les baleines."
+msgstr "Reculez et évitez les baleines."
 
 #: src-en/data/events_sector_aea_cult.xml:516
 msgid ""
@@ -680,16 +680,16 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_FIELD\"]/beaconType/unvisitedTooltip"
 msgstr ""
-"L'emplacement du champ d'astéroïdes où la baleine spatiale a été séparée de "
-"son compagnon."
+"L'emplacement du champ d'astéroïdes où la baleine de l'espace a été séparée "
+"de son compagnon."
 
 #: src-en/data/events_sector_aea_cult.xml:537
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_FIELD\"]/text"
 msgstr ""
 "Vous êtes arrivé à la balise où les baleines se sont séparées. Vous "
-"commencez à scanner à la recherche de la baleine perdue, mais vous ne "
-"trouvez rien immédiatement."
+"commencez à scanner pour trouver la baleine perdue, mais vous ne détectez "
+"rien immédiatement."
 
 #: src-en/data/events_sector_aea_cult.xml:539
 msgid ""
@@ -752,14 +752,14 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_FIELD\"]/choice[4]/text"
 msgstr ""
-"Continuer à chercher la baleine, cela pourrait prendre un certain temps."
+"Continuez à chercher la baleine, cela pourrait prendre un certain temps."
 
 #: src-en/data/events_sector_aea_cult.xml:582
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_FIELD\"]/choice[4]/event/text"
 msgstr ""
 "Vous continuez à chercher la baleine, le temps passe et la flotte rebelle "
-"vous a rattrapé davantage."
+"vous a rattrapé."
 
 #: src-en/data/events_sector_aea_cult.xml:585
 msgid ""
@@ -791,8 +791,8 @@ msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_FIND\"]/text"
 msgstr ""
 "Finalement, vous détectez un grand objet organique. En y regardant de plus "
-"près, vous découvrez que c'est la baleine, malheureusement, elle semble être"
-" attaquée par un vaisseau slug."
+"près, vous constatez que c'est la baleine, malheureusement elle semble être "
+"attaquée par un vaisseau limace."
 
 #: src-en/data/events_sector_aea_cult.xml:610
 msgid ""
@@ -803,8 +803,8 @@ msgstr "Protégez cette baleine !"
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_SAVE\"]/text"
 msgstr ""
-"Votre membre d'équipage commence à communiquer avec la baleine désormais en "
-"sécurité ; elle accepte de vous suivre au point de rendez-vous."
+"Votre membre d'équipage commence à communiquer avec la baleine maintenant en"
+" sécurité, elle accepte de vous suivre jusqu'au point de rendez-vous."
 
 #: src-en/data/events_sector_aea_cult.xml:623
 msgid ""
@@ -815,9 +815,9 @@ msgstr "L'emplacement du point de rendez-vous de la baleine."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_MEETING\"]/text"
 msgstr ""
-"En arrivant à la balise, vous regardez et voyez votre compagnon baleine "
-"courir avec enthousiasme devant ; il semble que la baleine puisse sentir le "
-"troupeau devant, et son compagnon."
+"En arrivant à la balise, vous apercevez votre compagnon baleine s'élancer "
+"avec excitation. Il semble que la baleine puisse sentir le troupeau devant "
+"elle, ainsi que son compagnon."
 
 #: src-en/data/events_sector_aea_cult.xml:631
 msgid ""
@@ -828,7 +828,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_MEETING\"]/choice/event/text"
 msgstr ""
-"Même vous pouvez ressentir l'atmosphère d'excitation créée par le retour de la baleine. Vous attendez et regardez les baleines se réunir, après un moment la baleine originale revient vers vous.\n"
+"Même vous pouvez ressentir l'atmosphère excitée créée par le retour de la baleine. Vous attendez et observez les baleines se réunir, après un instant la baleine d'origine revient vers vous.\n"
 "La baleine exprime sa gratitude et vous demande de la suivre."
 
 #: src-en/data/events_sector_aea_cult.xml:636
@@ -840,9 +840,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_WHALE_MEETING\"]/choice/event/choice/event/text"
 msgstr ""
-"Vous arrivez finalement sur une lune proche, il semble que les baleines "
-"aient découvert une cache de ravitaillement rebelle cachée. La baleine, "
-"satisfaite d'avoir remboursé votre dette, retourne auprès de son troupeau."
+"Finalement, vous arrivez à une lune proche, il semble que les baleines aient"
+" découvert une cache de ravitaillement rebelle cachée. La baleine, "
+"maintenant satisfaite d'avoir remboursé votre dette, retourne au troupeau."
 
 #: src-en/data/events_sector_aea_cult.xml:648
 msgid ""
@@ -868,17 +868,17 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"DISTRESS_AEA_CULT_NO_MAGIC\"]/text"
 msgstr ""
-"Vous êtes arrivé à la balise pour découvrir un vaisseau cultiste. Ils vous "
-"hèlent. « Bonjour, je ne suppose pas que vous puissiez nous aider, nous "
-"transportions des sorts mais nous avons été frappés par un astéroïde et les "
-"avons perdus à proximité, nos capteurs ne sont pas assez puissants pour les "
-"détecter. »"
+"Vous êtes arrivé à la balise et avez découvert un vaisseau cultiste. Ils "
+"vous hèlent. « Bonjour, nous ne pensons pas que vous puissiez nous aider, "
+"nous transportions des sorts, mais nous avons été frappés par un astéroïde "
+"et les avons perdus à proximité, nos capteurs ne sont pas assez puissants "
+"pour les détecter. »"
 
 #: src-en/data/events_sector_aea_cult.xml:696
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"DISTRESS_AEA_CULT_NO_MAGIC\"]/choice[@req=\"sensors\""
 " and @lvl=\"2\"]/text"
-msgstr "(Capteurs améliorés) Lancez un scan à sensibilité maximale."
+msgstr "(Capteurs améliorés) Effectuez un scan à sensibilité maximale."
 
 #: src-en/data/events_sector_aea_cult.xml:698
 msgid ""
@@ -898,7 +898,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"DISTRESS_AEA_CULT_NO_MAGIC\"]/choice[@req=\"sensors\""
 " and @lvl=\"3\"]/text"
-msgstr "(Capteurs avancés) Lancez un scan à sensibilité maximale."
+msgstr "(Capteurs de pointe) Effectuez un scan à sensibilité maximale."
 
 #: src-en/data/events_sector_aea_cult.xml:711
 msgid ""
@@ -917,7 +917,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_cult.xml:723
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"DISTRESS_AEA_CULT_NO_MAGIC\"]/choice[@req=\"ADV_SCANNERS\"]/text"
-msgstr "(Scanners longue portée) Lancez un scan à sensibilité maximale."
+msgstr "(Scanners à longue portée) Effectuez un scan à sensibilité maximale."
 
 #: src-en/data/events_sector_aea_cult.xml:725
 msgid ""
@@ -944,7 +944,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_cult.xml:743
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"DISTRESS_AEA_CULT_NO_MAGIC\"]/choice[5]/event/text"
-msgstr "Vous activez vos armes et engagez les cultistes."
+msgstr "Vous allumez vos armes et engagez les cultistes."
 
 #: src-en/data/events_sector_aea_cult.xml:746
 msgid ""
@@ -975,9 +975,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_MAGIC_FIND\"]/text"
 msgstr ""
-"Vous localisez finalement les sorts perdus, vous les livrez aux cultistes et"
-" ils vous offrent de vous rembourser avec de la ferraille et votre choix de "
-"sorts."
+"Finalement, vous localisez les sorts perdus, vous les rapportez aux "
+"cultistes et ils vous offrent de vous récompenser avec de la ferraille et un"
+" choix de sorts."
 
 #: src-en/data/events_sector_aea_cult.xml:770
 msgid ""
@@ -1023,21 +1023,21 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_CULT\"]/text[2]"
 msgstr ""
-"Après la guerre Fédération-Mantis, il fut convenu lors du Traité de "
-"Kadahellian'ek que le Rassemblement et la Confédération n'entreraient jamais"
-" en guerre l'un contre l'autre. Malgré cela, les tensions restent élevées, "
-"et il semble que de nombreux Vampweeds gardent encore une rancune historique"
-" envers la Fédération. Un vaisseau particulièrement radical à proximité vous"
-" verrouille !"
+"Suite à la guerre Fédération-Mantis, il fut convenu lors du Traité de "
+"Kadahellian'ek que la Congrégation et la Confédération n'entreraient jamais "
+"en guerre l'une contre l'autre. Malgré cela, les tensions restent élevées, "
+"et il semble que de nombreuses Vampiflores gardent encore de l'amertume "
+"envers la Fédération. Un vaisseau particulièrement radical à proximité vous "
+"prend pour cible !"
 
 #: src-en/data/events_sector_aea_cult.xml:844
 msgid ""
 "data/events_sector_aea_cult.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_CULT\"]/text[3]"
 msgstr ""
-"Les Vampweeds ne sont peut-être pas vos amis, mais il n'est pas typique pour"
-" eux d'agir de manière aussi agressive. Cependant, les scanners montrent que"
-" l'équipage du vaisseau voisin a succombé à une sorte de parasite qui crée "
-"un comportement irrationnel. Préparez-vous à combattre !"
+"Les Vampiflores ne sont peut-être pas vos amis, mais il n'est pas typique "
+"qu'elles agissent de manière aussi agressive. Cependant, les scans montrent "
+"que l'équipage du vaisseau proche a succombé à un parasite qui provoque un "
+"comportement irrationnel. Préparez-vous à combattre !"
 
 #: src-en/data/events_sector_aea_cult.xml:845
 msgid ""
@@ -1048,19 +1048,19 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_CULT\"]/text[5]"
 msgstr ""
-"Le vaisseau d'un ouvrier d'usine Vampweed ivre tangue vers vous. « Ehhh... "
-"imbécile... Fédérés dans mon secteur ? Tu vas le regretter, écoute-moi ! » "
-"Bien qu'il puisse à peine former une phrase cohérente, le capitaine parvient"
-" à ordonner à son équipage d'attaquer !"
+"Le vaisseau d'un ouvrier d'usine Vampiflore ivre se dirige vers vous. « "
+"Euhh… idiot… Des Fédérés dans mon secteur ? Vous allez le regretter, "
+"entendez-moi ! » Bien qu'à peine capable de former une phrase cohérente, le "
+"capitaine parvient à ordonner à son équipage d'attaquer !"
 
 #: src-en/data/events_sector_aea_cult.xml:847
 msgid ""
 "data/events_sector_aea_cult.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_CULT\"]/text[6]"
 msgstr ""
-"Les Vampweeds sont connus pour boire pas mal culturellement, et les "
+"Les Vampiflores sont connues pour boire pas mal dans leur culture, et les "
 "Orchidées ivres ne sont pas rares ici. Malheureusement, les effets "
 "secondaires d'une forte consommation d'alcool ont tendance à provoquer des "
-"décisions irrationnelles, comme engager des Renégats au combat !"
+"décisions irrationnelles, comme engager les Renégats au combat !"
 
 #: src-en/data/events_sector_aea_cult.xml:848
 msgid ""
@@ -1076,11 +1076,11 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"ENCOUNTER_AEA_CULT_STATION\"]/text"
 msgstr ""
-"« Arrêtez-vous là ! Ce secteur est une zone de sécurité désignée, les "
-"vaisseaux militaires non-confédérés ont interdiction d'entrer dans cette "
-"région ! » Vous ne vous souvenez pas avoir vu de telles restrictions "
-"affichées, mais il semble que vous n'ayez pas le temps d'argumenter. "
-"Préparez-vous à combattre !"
+"« Halte là ! Ce secteur est une zone de sécurité désignée, les vaisseaux "
+"militaires non-Confédérés ont l'interdiction d'entrer dans cette région ! » "
+"Vous ne vous souvenez pas avoir vu de telles restrictions affichées, mais il"
+" semble que vous n'ayez pas le temps d'argumenter. Préparez-vous à combattre"
+" !"
 
 #: src-en/data/events_sector_aea_cult.xml:856
 msgid ""
@@ -1105,57 +1105,56 @@ msgstr ""
 #: src-en/data/events_sector_aea_cult.xml:902
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/beaconType/unvisitedTooltip"
-msgstr ""
-"L'emplacement de la gigantesque fleur spatiale que les cultistes vénèrent."
+msgstr "L'emplacement de la fleur spatiale géante que les cultistes vénèrent."
 
 #: src-en/data/events_sector_aea_cult.xml:908
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/text"
 msgstr ""
-"Vous êtes arrivé à l'emplacement de la fleur unique, vous pouvez voir "
-"l'énorme fleur en orbite au-dessus de la planète, ainsi que des centaines de"
-" vaisseaux l'entourant."
+"Vous êtes arrivé à l'emplacement de l'Unifleur, vous pouvez voir l'énorme "
+"fleur en orbite au-dessus de la planète, ainsi que des centaines de "
+"vaisseaux l'entourant."
 
 #: src-en/data/events_sector_aea_cult.xml:910
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/text"
-msgstr "Approcher la fleur."
+msgstr "Approchez-vous de la fleur."
 
 #: src-en/data/events_sector_aea_cult.xml:912
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/text"
 msgstr ""
-"Vous approchez la fleur et recevez un contact direct de celle-ci. Il semble que de nombreux autres vaisseaux communiquent également avec la fleur.\n"
+"Vous vous approchez de la fleur et recevez un appel directement d'elle. Il semble que de nombreux autres vaisseaux soient également en communication avec la fleur.\n"
 "\n"
-"Une voix inorganique vous parle. « Ah, un renégat, je ne vois pas souvent les vôtres ici. J'ai une tâche pour vous si vous êtes intéressé, deux en fait. »"
+"Une voix inorganique vous parle. « Ah, un renégat, je ne vois pas souvent votre espèce ici. J'ai une tâche pour vous si vous êtes intéressé, deux en fait. »"
 
 #: src-en/data/events_sector_aea_cult.xml:916
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/text"
-msgstr "Écouter."
+msgstr "Écoutez-la."
 
 #: src-en/data/events_sector_aea_cult.xml:918
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"« La première tâche est facile, je dois vous demander de transporter l'une de mes graines vers un secteur voisin. La seule chose dont vous devrez vous soucier est la fragilité de la graine, essayez de la garder en sécurité. »\n"
+"« La première tâche est facile, je dois vous transporter une de mes graines vers un secteur proche. La seule chose dont vous devrez vous méfier est la fragilité de la graine, essayez de la garder en sécurité. »\n"
 "\n"
-"« La deuxième tâche que j'ai pour vous est plus compliquée, j'ai récemment eu connaissance d'un complot visant à me détruire et à me remplacer par un faux. Je dois vous demander d'enquêter sur la situation et de la résoudre, la manière dont vous le ferez vous appartient. »"
+"« La deuxième tâche que j'ai pour vous est plus compliquée, j'ai récemment appris l'existence d'un complot visant à me détruire et à me remplacer par un faux. Je dois vous enquêter sur la situation et la résoudre, la manière dont vous le faites dépend de vous. »"
 
 #: src-en/data/events_sector_aea_cult.xml:922
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/event/choice[1]/text"
-msgstr "Accepter les deux tâches."
+msgstr "Acceptez les deux tâches."
 
 #: src-en/data/events_sector_aea_cult.xml:924
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
-"La fleur transmet les coordonnées et vous souhaite bonne chance pour les "
-"tâches. Vous quittez la fleur et explorez la planète. Vous trouvez un grand "
-"magasin sur la planète, plusieurs Orchidées saluent les clients, essayant "
-"d'attirer leur attention, tandis que des acheteurs curieux de diverses "
-"espèces regardent autour d'eux."
+"La fleur vous transmet les coordonnées et vous souhaite bonne chance pour "
+"les tâches. Vous quittez la fleur et explorez la planète. Vous trouvez un "
+"grand magasin sur la planète, plusieurs Orchidées saluent les clients, "
+"essayant d'attirer leur attention, tandis que des acheteurs curieux de "
+"diverses espèces regardent autour d'eux."
 
 #: src-en/data/events_sector_aea_cult.xml:932
 msgid ""
@@ -1186,8 +1185,8 @@ msgstr "Accepter la première tâche."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
-"La fleur transmet les coordonnées et vous souhaite bonne chance pour la "
-"tâche. Vous quittez la fleur et explorez la planète. Vous trouvez un grand "
+"La fleur vous transmet les coordonnées et vous souhaite bonne chance pour la"
+" tâche. Vous quittez la fleur et explorez la planète. Vous trouvez un grand "
 "magasin sur la planète, plusieurs Orchidées saluent les clients, essayant "
 "d'attirer leur attention, tandis que des acheteurs curieux de diverses "
 "espèces regardent autour d'eux."
@@ -1211,8 +1210,8 @@ msgstr "Accepter la deuxième tâche."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[1]/event/choice/event/choice[3]/event/text"
 msgstr ""
-"La fleur transmet les coordonnées et vous souhaite bonne chance pour la "
-"tâche. Vous quittez la fleur et explorez la planète. Vous trouvez un grand "
+"La fleur vous transmet les coordonnées et vous souhaite bonne chance pour la"
+" tâche. Vous quittez la fleur et explorez la planète. Vous trouvez un grand "
 "magasin sur la planète, plusieurs Orchidées saluent les clients, essayant "
 "d'attirer leur attention, tandis que des acheteurs curieux de diverses "
 "espèces regardent autour d'eux."
@@ -1262,7 +1261,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_cult.xml:1000
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_FLOWER_GOD\"]/choice[3]/text"
-msgstr "Partir dès que votre moteur est chargé."
+msgstr "Partir dès que votre générateur est chargé."
 
 #: src-en/data/events_sector_aea_cult.xml:1002
 msgid ""
@@ -1282,12 +1281,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_cult.xml:1018
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/beaconType/unvisitedTooltip"
-msgstr "La planète que la fleur vous a envoyée ensemencer."
+msgstr "La planète où la fleur vous a envoyé ensemencer."
 
 #: src-en/data/events_sector_aea_cult.xml:1023
 msgid "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/text"
 msgstr ""
-"Vous êtes arrivé à l'endroit où la fleur vous a demandé de livrer la graine."
+"Vous êtes arrivé à l'emplacement où la fleur vous a demandé de livrer la "
+"graine."
 
 #: src-en/data/events_sector_aea_cult.xml:1025
 msgid ""
@@ -1300,24 +1300,25 @@ msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/choice[@req=\"aea_seed\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
-"Vous emportez la graine sur la planète et trouvez un grand jardin à la "
-"surface. Au centre du jardin, vous trouvez une structure étrange, elle "
-"semble avoir une sorte de piédestal où vous pourriez placer la graine."
+"Vous descendez la graine sur la planète et trouvez un grand jardin à la "
+"surface. Au centre du jardin, vous trouvez une étrange structure, elle "
+"semble avoir une excroissance en forme de piédestal où vous pourriez déposer"
+" la graine."
 
 #: src-en/data/events_sector_aea_cult.xml:1029
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/choice[@req=\"aea_seed\""
 " and @lvl=\"1\"]/event/choice/text"
-msgstr "Placer la graine dessus."
+msgstr "Y déposer la graine."
 
 #: src-en/data/events_sector_aea_cult.xml:1031
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/choice[@req=\"aea_seed\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
-"Vous insérez la graine dans la structure et elle se déplace et se rétracte "
-"dans le sol. Un instant plus tard, une petite orchidée pousse du sol. Elle "
-"ne semble pas pouvoir parler, mais elle vous fait signe de la suivre."
+"Vous insérez la graine dans la structure qui se déplace et se rétracte dans "
+"le sol. Un instant plus tard, une minuscule orchidée germe du sol. Elle ne "
+"semble pas pouvoir parler, mais elle vous fait signe de la suivre."
 
 #: src-en/data/events_sector_aea_cult.xml:1034
 msgid ""
@@ -1336,9 +1337,9 @@ msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/choice[@req=\"aea_seed\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
 msgstr ""
-"Finalement, elle vous mène à une cache de ravitaillement, elle vous aide à "
-"la charger dans le vaisseau puis monte à bord avec vous, il semble que cette"
-" petite orchidée soit un nouveau membre d'équipage."
+"Finalement, elle vous mène à une cache de provisions, elle vous aide à la "
+"charger dans le vaisseau puis monte à bord avec vous, il semble que cette "
+"minuscule orchidée soit un nouveau membre d'équipage."
 
 #: src-en/data/events_sector_aea_cult.xml:1041
 msgid ""
@@ -1355,7 +1356,7 @@ msgstr "Vous ne pouvez pas livrer la graine."
 #: src-en/data/events_sector_aea_cult.xml:1059
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_POLLEN\"]/choice[3]/text"
-msgstr "Oubliez les instructions de la fleur et partez."
+msgstr "Oublier les instructions de la fleur et partir."
 
 #: src-en/data/events_sector_aea_cult.xml:1061
 msgid ""
@@ -1375,16 +1376,16 @@ msgstr ""
 #: src-en/data/events_sector_aea_cult.xml:1077
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CONSPIRACY\"]/beaconType/unvisitedTooltip"
-msgstr "L'emplacement du repaire de la conspiration."
+msgstr "L'emplacement de la cachette des conspirateurs."
 
 #: src-en/data/events_sector_aea_cult.xml:1082
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CONSPIRACY\"]/text"
 msgstr ""
-"Vous êtes arrivé à l'emplacement du repaire de la conspiration, ils ont pris"
-" le contrôle d'une usine abandonnée, cependant, pour garder leur secret, il "
-"n'y a pas de gardes ou d'autres systèmes qui révèlent leur emplacement, vous"
-" pouvez atterrir à proximité et vous faufiler dans le complexe."
+"Vous êtes arrivé à l'emplacement de la cachette des conspirateurs. Ils ont "
+"pris le contrôle d'une usine abandonnée, mais pour préserver leur secret, il"
+" n'y a ni gardes ni autres systèmes qui révèlent leur emplacement. Vous "
+"pouvez atterrir à proximité et vous faufiler dans le complexe."
 
 #: src-en/data/events_sector_aea_cult.xml:1084
 msgid ""
@@ -1395,14 +1396,14 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CONSPIRACY_COMPOUND\"]/text"
 msgstr ""
-"Vous pouvez distinguer quelques endroits différents autour du complexe. Il y"
-" a un atelier avec des composants de vaisseau visibles à l'intérieur. Un "
-"dépôt avec quelques conteneurs d'expédition dispersés. Un bâtiment de "
-"générateur qui semble alimenter le reste de l'installation. Un ancien hangar"
-" sur un côté, vous ne pouvez pas voir à l'intérieur. Enfin, il y a "
-"l'installation de commandement principale, vos capteurs indiquent que c'est "
-"là que se trouvent les conspirateurs, il semble qu'ils dorment tous "
-"actuellement."
+"Vous pouvez distinguer quelques emplacements différents autour du complexe. "
+"Il y a un atelier avec des composants de vaisseau visibles à l'intérieur. Un"
+" parc de stockage avec quelques conteneurs d'expédition éparpillés. Un "
+"bâtiment générateur qui semble alimenter le reste de l'installation. Un "
+"vieux hangar sur le côté, vous ne pouvez pas voir à l'intérieur. Enfin, il y"
+" a l'installation de commandement principale, vos capteurs indiquent que "
+"c'est là que se trouvent les conspirateurs, il semble qu'ils soient tous "
+"actuellement endormis."
 
 #: src-en/data/events_sector_aea_cult.xml:1095
 msgid ""
@@ -1412,7 +1413,7 @@ msgstr "Fouiller l'atelier."
 #: src-en/data/events_sector_aea_cult.xml:1099
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CONSPIRACY_COMPOUND\"]/choice[2]/text"
-msgstr "Fouiller le dépôt."
+msgstr "Fouiller le parc de stockage."
 
 #: src-en/data/events_sector_aea_cult.xml:1103
 msgid ""
@@ -1433,7 +1434,7 @@ msgstr "Fouiller le complexe."
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_WORKSHOP\"]/text"
 msgstr ""
-"Vous arrivez à l'atelier, il semble que les ouvriers soient partis dormir "
+"Vous arrivez dans l'atelier, il semble que les ouvriers se soient endormis "
 "pour la nuit."
 
 #: src-en/data/events_sector_aea_cult.xml:1123
@@ -1447,7 +1448,7 @@ msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_WORKSHOP\"]/choice[@req=\"aea_cult_visit_eng\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Votre fouille ne révèle rien d'utile, en fait les seuls éléments que vous "
+"Votre fouille ne révèle rien d'utile, en fait, les seuls éléments que vous "
 "pouvez utiliser sont quelques pièces de drone."
 
 #: src-en/data/events_sector_aea_cult.xml:1131
@@ -1471,23 +1472,23 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_STORAGE\"]/text"
 msgstr ""
-"Vous arrivez dans le dépôt, il est désert et vide à l'exception de quelques "
-"conteneurs d'expédition."
+"Vous arrivez dans le parc de stockage, il est désert et vide à l'exception "
+"de quelques conteneurs d'expédition.."
 
 #: src-en/data/events_sector_aea_cult.xml:1153
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_STORAGE\"]/choice[@req=\"aea_cult_visit_str\""
 " and @lvl=\"0\"]/text"
-msgstr "Fouiller les conteneurs."
+msgstr "Fouiller les conteneurs d'expédition."
 
 #: src-en/data/events_sector_aea_cult.xml:1155
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_STORAGE\"]/choice[@req=\"aea_cult_visit_str\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Vous commencez à ouvrir les conteneurs, la plupart sont vides. Ce n'est que "
-"dans l'avant-dernier caisson que vous découvrez un module de vaisseau. Vous "
-"ne trouvez rien d'autre."
+"Vous commencez à ouvrir les conteneurs d'expédition, la plupart sont vides. "
+"Ce n'est que dans la deuxième à dernière caisse que vous découvrez une "
+"augmentation de vaisseau. Vous ne trouvez rien d'autre."
 
 #: src-en/data/events_sector_aea_cult.xml:1159
 msgid ""
@@ -1499,7 +1500,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_STORAGE\"]/choice[@req=\"aea_cult_visit_str\""
 " and @lvl=\"1\"]/text"
-msgstr "Vous avez déjà fouillé le dépôt."
+msgstr "Vous avez déjà fouillé le parc de stockage."
 
 #: src-en/data/events_sector_aea_cult.xml:1169
 msgid ""
@@ -1510,9 +1511,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_GENERATOR\"]/text"
 msgstr ""
-"Vous arrivez dans la salle du générateur, l'accès au générateur lui-même est"
-" bloqué par un lourd poste de sécurité. Il est peu probable que vous "
-"puissiez entrer dans le générateur."
+"Vous arrivez dans la salle du générateur, l'accès au générateur est bloqué "
+"par un lourd poste de contrôle de sécurité. Il est peu probable que vous "
+"puissiez entrer dans le générateur lui-même."
 
 #: src-en/data/events_sector_aea_cult.xml:1181
 msgid ""
@@ -1525,7 +1526,7 @@ msgid ""
 msgstr ""
 "La pièce dans laquelle vous vous trouvez est plutôt vide, d'un côté il y a une épaisse vitre donnant sur la salle de contrôle de la sécurité, sur un autre mur se trouve une carte d'itinéraire d'évacuation d'urgence, probablement un vestige de l'époque où cet endroit n'était pas abandonné.\n"
 "\n"
-"Vous ne trouvez rien dans la pièce, cependant vous remarquez un post-it à travers la vitre avec un code dessus : ."
+"Vous ne trouvez rien dans la pièce, mais vous remarquez un post-it à travers la vitre avec un code dessus : ."
 
 #: src-en/data/events_sector_aea_cult.xml:1187
 msgid ""
@@ -1548,7 +1549,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_HANGER\"]/choice[1]/text"
 msgstr ""
-"Vous ne pouvez pas fouiller le hangar car vous ne trouvez pas de moyen "
+"Vous ne pouvez pas fouiller le hangar car vous ne trouvez aucun moyen "
 "d'entrer."
 
 #: src-en/data/events_sector_aea_cult.xml:1205
@@ -1561,9 +1562,9 @@ msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_COMPOUND\"]/text"
 msgstr ""
 "Vous cherchez un moyen d'entrer dans le complexe, mais il semble qu'ils "
-"aient fait un travail très minutieux pour le sécuriser et la seule façon "
-"d'entrer est par la porte d'entrée, de plus elle est verrouillée derrière un"
-" clavier, vous devrez trouver le code pour déverrouiller la porte."
+"aient fait un travail très minutieux pour le sécuriser et le seul moyen "
+"d'entrer est par la porte d'entrée. De plus, elle est verrouillée par un "
+"clavier numérique, vous devrez trouver le code pour déverrouiller la porte."
 
 #: src-en/data/events_sector_aea_cult.xml:1213
 msgid ""
@@ -1642,8 +1643,8 @@ msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_ENTER_CODE\"]/choice[@req=\"aea_cult_code\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Vous soumettez le code, cependant il semble que vous vous soyez trompé et la"
-" porte envoie une impulsion électrique qui endommage votre vaisseau."
+"Vous soumettez le code, mais il semble que vous vous soyez trompé et la "
+"porte envoie une impulsion électrique qui endommage votre vaisseau."
 
 #: src-en/data/events_sector_aea_cult.xml:1286
 msgid ""
@@ -1665,35 +1666,37 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_INSIDE\"]/text"
 msgstr ""
-"Vous réussissez à entrer et à vous faufiler dans le complexe, pour "
-"finalement arriver aux contrôles de sécurité du complexe."
+"Vous parvenez à entrer et à vous faufiler dans le complexe, et finissez par "
+"arriver aux contrôles de sécurité du complexe."
 
 #: src-en/data/events_sector_aea_cult.xml:1306
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_INSIDE\"]/choice/text"
-msgstr "Enfermer les conspirateurs dans leurs chambres."
+msgstr "Enfermer les conspirateurs dans leurs pièces."
 
 #: src-en/data/events_sector_aea_cult.xml:1308
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_INSIDE\"]/choice/event/text"
 msgstr ""
-"Vous réussissez à maîtriser les conspirateurs et à alerter les forces de police sectaires.\n"
-"\n"
-"Alors que vous surveillez, vous remarquez que l'une des chambres des conspirateurs ne s'est pas correctement verrouillée. De plus, vous êtes incapable de les retrouver. En rembobinant les images, vous les voyez s'échapper vers le hangar."
+"Vous réussissez à maîtriser les conspirateurs et alertez les forces de "
+"police cultistes.\\n\\nAlors que vous les surveillez, vous remarquez que "
+"l'une des pièces des conspirateurs ne s'est pas verrouillée correctement, et"
+" de plus, vous ne parvenez pas à les trouver. En rembobinant les images, "
+"vous les voyez s'échapper vers le hangar."
 
 #: src-en/data/events_sector_aea_cult.xml:1312
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_INSIDE\"]/choice/event/choice/text"
-msgstr "À leur poursuite !"
+msgstr "Après eux !"
 
 #: src-en/data/events_sector_aea_cult.xml:1314
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_INSIDE\"]/choice/event/choice/event/text"
 msgstr ""
-"En sortant de la base, vous voyez un étrange vaisseau décoller. Il ressemble"
-" au Oneflower, mais quelque chose cloche. Vous n'avez pas le temps de "
-"comprendre, car il commence une passe d'attaque sur vous. Vous ne parvenez à"
-" regagner votre vaisseau qu'à la dernière seconde."
+"En sortant de la base, vous voyez un étrange vaisseau s'envoler. Il "
+"ressemble à l'Unifleur, mais quelque chose ne va pas. Vous n'avez pas le "
+"temps de comprendre qu'il commence une attaque contre vous. Vous retournez "
+"de justesse à votre vaisseau."
 
 #: src-en/data/events_sector_aea_cult.xml:1317
 msgid ""
@@ -1704,9 +1707,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_FLOWER_DEAD\"]/text"
 msgstr ""
-"Le vaisseau explose, et ses fragments révèlent l'intérieur. Il s'avère que la « fleur » était en fait un vaisseau autonome avancé construit par les conspirateurs.\n"
-"\n"
-"Vous parvenez à récupérer les fragments du vaisseau et découvrez une arme parmi l'épave."
+"Le vaisseau explose, et en se fragmentant, il révèle son intérieur. Il "
+"s'avère que la fleur était en fait un auto-vaisseau avancé construit par les"
+" conspirateurs.\\n\\nVous pouvez démonter les fragments du vaisseau et "
+"découvrir une arme parmi l'épave."
 
 #: src-en/data/events_sector_aea_cult.xml:1334
 msgid ""
@@ -1717,22 +1721,24 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"AEA_CULT_CON_FLOWER_DEAD\"]/choice/event/text"
 msgstr ""
-"Le vaisseau autonome étant éliminé, vous réussissez à capturer le dernier conspirateur juste à temps pour l'arrivée des forces de police sectaires, qui sécurisent les conspirateurs.\n"
-"\n"
-"Vous recevez un message du Oneflower, qui vous remercie pour le travail accompli et vous remet un paiement en ferraille."
+"Une fois l'auto-vaisseau maîtrisé, vous parvenez à arrêter le dernier "
+"conspirateur juste à temps pour que les forces de police cultistes arrivent "
+"et sécurisent les conspirateurs.\\n\\nVous recevez un message de l'Unifleur,"
+" qui vous remercie pour le travail bien fait et vous recevez un paiement en "
+"ferraille."
 
 #: src-en/data/events_sector_aea_cult.xml:1356
 msgid "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/text"
 msgstr ""
-"« Renégat, c'est une zone restreinte. N'avez-vous pas remarqué le champ de "
-"mines à cette balise ? Vous ne pouvez pas être ici ! » Un poseur de mines "
-"sectaire observe vos mouvements, espérant clairement que vous partirez sans "
-"faire d'histoire."
+"\"Renégat, c'est une zone restreinte. N'avez-vous pas remarqué le champ de "
+"mines à cette balise ? Vous ne pouvez pas être ici !\" Un poseur de mines "
+"cultiste observe vos mouvements, espérant clairement que vous partirez sans "
+"faire plus d'histoires."
 
 #: src-en/data/events_sector_aea_cult.xml:1359
 msgid ""
 "data/events_sector_aea_cult.xml$//event[@name=\"TRAPPER_AEA_CULT\"]/choice[1]/text"
-msgstr "Attaquez, nous pouvons voler leur technologie de lance-mines !"
+msgstr "Attaquons, nous pouvons voler leur technologie de lance-mines !"
 
 #: src-en/data/events_sector_aea_cult.xml:1361
 msgid ""

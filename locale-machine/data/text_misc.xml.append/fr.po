@@ -11,7 +11,7 @@ msgstr "ACIDE"
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_acid_nebula_core\"]"
-msgstr "NOYAU ACIDE [!]"
+msgstr "CŒUR ACIDE [!]"
 
 #: src-en/data/text_misc.xml.append:7
 msgid ""
@@ -36,7 +36,7 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_conspiracy\"]"
-msgstr "CONSPIRATION [!]"
+msgstr "COMPLOT [!]"
 
 #: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_bird_engineer\"]"
@@ -131,8 +131,8 @@ msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_acid_1\"]"
 msgstr ""
 "BUTIN ACIDE\n"
 "-1 dégât ionique\n"
-"3x vitesse d'érosion\n"
-"2x vitesse d'érosion max"
+"vitesse d'érosion x3\n"
+"vitesse d'érosion max x2"
 
 #: src-en/data/text_misc.xml.append:44
 msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_necro_1\"]"
@@ -144,183 +144,170 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:47
 msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_old_1\"]"
 msgstr ""
-"BUTIN LYLMIK\n"
-"-100% chance d'incendie\n"
-"+100% chance de brèche\n"
-"Le dernier tir de la salve inflige 1 dégât de coque supplémentaire"
+"BUTIN LYLMIK\\n-100% chance d'incendie\\n+100% chance de brèche\\nLe dernier"
+" tir de la volée inflige 1 dégât de coque supplémentaire"
 
 #: src-en/data/text_misc.xml.append:51
 msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_cult_1\"]"
 msgstr ""
-"BUTIN CULTISTE\n"
-"Ne peut équiper de sorts\n"
-"-2 secondes de recharge\n"
-"+1 dégât par cultiste allié avec un sort équipé"
+"BUTIN CULTISTE\\nNe peut pas équiper de sorts\\n-2 secondes de temps de "
+"recharge\\n+1 dégât par cultiste allié avec un sort équipé"
 
 #: src-en/data/text_misc.xml.append:55
 msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_bird_1\"]"
 msgstr ""
-"BUTIN GI\n"
-"+1 dégât ionique aux systèmes avec le tir secondaire\n"
-"+2 vitesse"
+"BUTIN GI\\n+1 dégât ionique aux systèmes avec le tir secondaire\\n+2 vitesse"
 
 #: src-en/data/text_misc.xml.append:58
 msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_shleg_1\"]"
 msgstr ""
 "BUTIN ANARCHISTE\n"
 "+30 secondes de durée\n"
-"-2 dégâts de coque\n"
-"-1 dégât système"
+"-2 dégâts à la coque\n"
+"-1 dégât au système"
 
 #: src-en/data/text_misc.xml.append:62
 msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_shard_1\"]"
-msgstr ""
-"BUTIN FORGE-ÉCLAT\n"
-"Effet de drainage de vie sur la pièce touchée"
+msgstr "BUTIN ÉCLAT-FORGÉ\\nEffet de drainage de santé sur la pièce touchée"
 
 #: src-en/data/text_misc.xml.append:65
 msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_old_unknown\"]"
 msgstr ""
 "Astuce : Une arme étrange ? Vous vous demandez si elle est liée à cette "
-"étrange porte au Nœud 17..."
+"étrange porte dans le Nœud 17..."
 
 #: src-en/data/text_misc.xml.append:66
 msgid "data/text_misc.xml.append$//text[@name=\"tip_laser_old\"]"
 msgstr ""
-"Astuce : Chaque tir laser sera bloqué par deux bulles de bouclier, "
-"indépendamment des dégâts du laser."
+"Astuce : Chaque tir laser sera bloqué par deux bulles de bouclier, quel que "
+"soit le dégât du laser."
 
 #: src-en/data/text_misc.xml.append:67
 msgid "data/text_misc.xml.append$//text[@name=\"tip_laser_oldp\"]"
 msgstr ""
-"Astuce : Chaque tir laser sera bloqué par une seule bulle de bouclier, "
-"malgré 0 dégât de coque."
+"Astuce : Chaque tir laser sera bloqué par une seule bulle de bouclier, même "
+"s'il n'inflige aucun dégât à la coque."
 
 #: src-en/data/text_misc.xml.append:68
 msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_spellspore\"]"
 msgstr ""
-"Astuce : Chaque sort équipé sur l'arme ne peut être tiré que sur le vaisseau"
-" ennemi. Les sorts ne peuvent pas rater et les armes Sporalchimie tirent "
-"chaque sort deux fois par charge."
+"Astuce : Chaque sort équipé à l'arme ne peut être tiré que sur le vaisseau "
+"ennemi. Les sorts ne peuvent pas rater et les armes Sporesort tirent chaque "
+"sort deux fois par charge."
 
 #: src-en/data/text_misc.xml.append:69
 msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_shleg\"]"
 msgstr ""
 "Astuce : L'effet de contrôle mental du Gaz d'Inculcation s'accumule à 5 "
-"PV/s. Une fois que l'effet de statut atteint les PV actuels de l'équipage "
-"ennemi, il draine alors à 8 PV/s et contrôle mentalement l'ennemi."
+"PV/s. Une once que l'effet de statut atteint les PV actuels du membre "
+"d'équipage ennemi, il draine ensuite à 8 PV/s et contrôle mentalement "
+"l'ennemi."
 
 #: src-en/data/text_misc.xml.append:71
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_acid\"]"
 msgstr ""
-"Nom : Origines Acides\n"
-"Type : Hostile (Nébuleuse)\n"
-"Unique : Vrai\n"
-"Faction Dominante : La Croissance Acide\n"
-"Niveau de Menace Rebelle : Faible\n"
-"Lieux d'Intérêt : Chantiers Spatiaux Acides Centraux\n"
-"    \n"
-"Les Origines Acides sont un endroit dangereux, seuls les vaisseaux les plus extrêmes survivent à la nébuleuse Acide, et cela sans même considérer d'essayer de survivre aux vaisseaux Acides eux-mêmes."
+"Nom : Origines Acides\\nType : Hostile (Nébuleuse)\\nUnique : Oui\\nFaction "
+"Dominante : La Croissance Acide\\nNiveau de menace rebelle : "
+"Faible\\nEmplacements d'intérêt : Chantiers spatiaux acides centraux\\n    "
+"\\nLes Origines Acides sont un endroit dangereux, seuls les vaisseaux les "
+"plus extrêmes survivent à la nébuleuse Acide, sans même considérer d'essayer"
+" de survivre aux vaisseaux Acides eux-mêmes."
 
 #: src-en/data/text_misc.xml.append:80
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_necro\"]"
 msgstr ""
-"Nom : Noyau Blasphématoire\n"
-"Type : Hostile\n"
-"Unique : Vrai\n"
-"Faction Dominante : Hérétiques Engi\n"
-"Niveau de Menace Rebelle : Faible\n"
-"Lieux d'Intérêt : Le Sanctum\n"
-"    \n"
-"Les Hérétiques Engi sont des parias même parmi les séparatistes, libérés de l'harmonie, ces engi préfèrent utiliser la vie organique comme un outil pour leurs desseins. Vous vous en sortirez si vous n'avez pas d'équipage organique."
+"Nom : Cœur Blasphématoire\\nType : Hostile\\nUnique : Oui\\nFaction "
+"Dominante : Hérétiques Engi\\nNiveau de menace rebelle : "
+"Faible\\nEmplacements d'intérêt : Le Sanctum\\n    \\nLes Hérétiques Engi "
+"sont des parias même pour les séparatistes ; libérés de l'harmonie, ces Engi"
+" préfèrent utiliser la vie organique comme outil pour faire leur volonté. "
+"Vous vous en sortirez si vous n'avez pas d'équipage organique."
 
 #: src-en/data/text_misc.xml.append:89
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_cult\"]"
 msgstr ""
-"Nom : Foyer de la Fleur Unique\n"
-"Type : Neutre\n"
-"Unique : Vrai\n"
-"Faction Dominante : Culte des Vampiroïdes\n"
-"Niveau de Menace Rebelle : Moyen-Faible\n"
-"Lieux d'Intérêt : La Fleur Unique\n"
-"    \n"
-"Bien que techniquement ne faisant pas partie de la Confédération, le culte entretient des liens étroits avec elle ; toute action contre les cultistes pourrait encore vous être préjudiciable aux yeux de la confédération. Ce secteur abrite la Fleur Unique, la déesse du culte. Beaucoup théorisent que leur déesse n'est pas réellement une créature vivante, mais plutôt une intelligence artificielle avancée. Personne ne le sait avec certitude, sauf probablement la fleur elle-même."
+"Nom : Demeure de l'Unifleur\\nType : Neutre\\nUnique : Oui\\nFaction "
+"Dominante : Culte de la Vampiflore\\nNiveau de menace rebelle : Moyen-"
+"Faible\\nEmplacements d'intérêt : L'Unifleur\\n    \\nBien que techniquement"
+" pas partie de la Confédération, le culte entretient des liens étroits avec "
+"elle. Toute action contre les cultistes pourrait encore vous desservir aux "
+"yeux de la Confédération. Ce secteur abrite l'Unifleur, le dieu du culte. "
+"Beaucoup théorisent que leur dieu n'est pas réellement une créature vivante,"
+" et certains pensent qu'il s'agit plutôt d'une intelligence IA avancée. "
+"Personne ne sait avec certitude, sauf probablement la fleur elle-même."
 
 #: src-en/data/text_misc.xml.append:98
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_bird\"]"
 msgstr ""
-"Nom : Sites de Nidification Gi\n"
-"Type : Amical\n"
-"Unique : Vrai\n"
-"Faction Dominante : Fédération Gi\n"
-"Niveau de Menace Rebelle : Moyen (Flotte Neutre)\n"
-"Lieux d'Intérêt : Installation d'Ingénierie Centrale\n"
-"    \n"
-"Les Gi sont des alliés proches de la fédération. Race récemment découverte, ils n'ont pas encore réussi à rejoindre la fédération, mais ils sont en bonne voie et ont une forte présence fédérale dans le secteur."
+"Nom : Zones de Nidification Gi\\nType : Amical\\nUnique : Oui\\nFaction "
+"Dominante : Fédération Gi\\nNiveau de menace rebelle : Moyen (Flotte "
+"Neutre)\\nEmplacements d'intérêt : Installation d'ingénierie centrale\\n    "
+"\\nLes Gi sont de proches alliés de la fédération. Race récemment "
+"découverte, ils n'ont pas encore réussi à rejoindre la fédération, mais ils "
+"sont en bonne voie et ont une forte présence fédérale dans le secteur."
 
 #: src-en/data/text_misc.xml.append:106
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_shleg\"]"
 msgstr ""
-"Nom : Nébuleuse Centrale Anarchiste\n"
-"Type : Hostile (Nébuleuse)\n"
-"Unique : Vrai\n"
-"Faction Dominante : Anarchistes Carapaces et Limaces\n"
-"Niveau de Menace Rebelle : Moyen (Flotte Auto)\n"
-"\n"
-"Les Anarchistes sont un groupe combiné de carapaces et de limaces qui se sont unis pour lutter contre leurs gouvernements collectifs. Bien qu'ils ne soient pas directement en conflit avec la fédération, ils ne sont pas non plus de grands fans, soyez prudent."
+"Nom : Nébuleuse Centrale Anarchiste\\nType : Hostile (Nébuleuse)\\nUnique : "
+"Oui\\nFaction Dominante : Anarchistes Coquilles et Limaces\\nNiveau de "
+"menace rebelle : Moyen (Flotte Automatique)\\n\\nLes Anarchistes sont un "
+"groupe combiné de coquilles et de limaces qui se sont unis pour lutter "
+"contre leurs gouvernements collectifs. Bien que n'étant pas directement en "
+"conflit avec la fédération, ils n'en sont pas non plus fans, soyez prudent."
 
 #: src-en/data/text_misc.xml.append:113
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_shard\"]"
 msgstr ""
-"Nom : Palais Forge-Éclat\n"
-"Type : Amical\n"
-"Unique : Vrai\n"
-"Faction Dominante : Pirates Forge-Éclat\n"
-"Niveau de Menace Rebelle : Faible\n"
-"Lieux d'Intérêt : Palais de l'Aube\n"
-"\n"
-"Les Forge-Éclat, bien que connus comme des pirates, sont plutôt appréciés de la fédération et de ses alliés. Les Forge-Éclat existent depuis l'apogée de l'Empire Cristallin et se sont avérés être un allié fiable et digne de ceux qui peuvent se les permettre. Avec le récent conflit entre la Rébellion et la Fédération, les Forge-Éclat se sont alliés à la fédération contre le fléau rebelle."
+"Nom : Palais Éclat-Forgé\\nType : Amical\\nUnique : Oui\\nFaction Dominante "
+": Pirates Éclat-Forgés\\nNiveau de menace rebelle : Faible\\nEmplacements "
+"d'intérêt : Palais de l'Aube\\n\\nLes Éclat-Forgés, bien que connus comme "
+"des pirates, sont plutôt appréciés par la fédération et ses alliés. Les "
+"Éclat-Forgés existent depuis l'apogée de l'Empire Cristallin et se sont "
+"avérés être un allié fiable et digne de confiance pour ceux qui peuvent se "
+"les offrir. Avec le récent conflit entre la Rébellion et la Fédération, les "
+"Éclat-Forgés se sont alliés à la fédération contre le fléau rebelle."
 
 #: src-en/data/text_misc.xml.append:122
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_BILL_unlock\"]"
 msgstr ""
-"Consultez les conseils d'un certain paria Acide à propos d'un certain "
+"Consultez les conseils d'un certain exilé Acide concernant un certain "
 "artefact pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:123
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_KING_unlock\"]"
 msgstr ""
-"Consultez les conseils d'un certain leader Hérétique à propos d'un certain "
+"Consultez les conseils d'un certain chef Hérétique concernant un certain "
 "artefact pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:124
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_TINY_unlock\"]"
 msgstr ""
-"Consultez les conseils d'un certain Petit Vampiroïde à propos d'un certain "
-"artefact pour débloquer ce vaisseau."
+"Consultez les conseils d'une certaine petite Vampiflore concernant un "
+"certain artefact pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:125
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_JAY_unlock\"]"
 msgstr ""
-"Consultez les conseils d'un certain Ingénieur Aviaire à propos d'un certain "
+"Consultez les conseils d'un certain Ingénieur Avien concernant un certain "
 "artefact pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:126
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHLEG_UNI_unlock\"]"
 msgstr ""
-"Consultez les conseils de l'un des membres fondateurs anarchistes à propos "
-"d'un certain artefact pour débloquer ce vaisseau."
+"Consultez les conseils de l'un des membres fondateurs anarchistes concernant"
+" un certain artefact pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:127
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_UNI_unlock\"]"
 msgstr ""
-"Consultez les conseils d'un certain Roi Pirate à propos d'un certain "
+"Consultez les conseils d'un certain Roi Pirate concernant un certain "
 "artefact pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:129
@@ -351,7 +338,7 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:135
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_ARTY_unlock\"]"
-msgstr "Aidez un paria Acide pour débloquer ce vaisseau."
+msgstr "Aidez un exilé Acide pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:136
 msgid ""
@@ -364,8 +351,8 @@ msgstr ""
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_ARTY_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Croiseur Acide Type B ou battez le jeu avec "
-"le Croiseur Acide Type A pour débloquer ce vaisseau."
+"Atteignez le Secteur 5 avec le Croiseur Acide Type B ou terminez le jeu avec"
+" le Croiseur Acide Type A pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:139
 msgid ""
@@ -378,15 +365,15 @@ msgstr ""
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_LONG_2_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Destructeur Acide Type A pour débloquer ce "
+"Atteignez le Secteur 5 avec le Destroyer Acide Type A pour débloquer ce "
 "vaisseau."
 
 #: src-en/data/text_misc.xml.append:141
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_LONG_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Destructeur Acide Type B ou battez le jeu "
-"avec le Destructeur Acide Type A pour débloquer ce vaisseau."
+"Atteignez le Secteur 5 avec le Destroyer Acide Type B ou terminez le jeu "
+"avec le Destroyer Acide Type A pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:143
 msgid ""
@@ -405,27 +392,27 @@ msgstr ""
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_ENGI_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Croiseur Hérésie Type B ou battez le jeu avec"
-" le Croiseur Hérésie Type A pour débloquer ce vaisseau."
+"Atteignez le Secteur 5 avec le Croiseur Hérésie Type B ou terminez le jeu "
+"avec le Croiseur Hérésie Type A pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:147
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_SEPA_unlock\"]"
-msgstr "Visitez un lien engi inhabituel pour débloquer ce vaisseau."
+msgstr "Visitez un lien Engi inhabituel pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:148
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_SEPA_2_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Croiseur Blasphème Type A pour débloquer ce "
-"vaisseau."
+"Atteignez le Secteur 5 avec le Croiseur Blasphématoire Type A pour débloquer"
+" ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:149
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_SEPA_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Croiseur Blasphème Type B ou battez le jeu "
-"avec le Croiseur Blasphème Type A pour débloquer ce vaisseau."
+"Atteignez le Secteur 5 avec le Croiseur Blasphématoire Type B ou terminez le"
+" jeu avec le Croiseur Blasphématoire Type A pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:151
 msgid ""
@@ -441,13 +428,13 @@ msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_ARMOUR_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Type B ou battez le jeu avec le Type A pour "
-"débloquer ce vaisseau."
+"Atteignez le Secteur 5 avec le Type B ou terminez le jeu avec le Type A pour"
+" débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:155
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_HAMMER_unlock\"]"
-msgstr "Vainquez le baron pour débloquer ce vaisseau."
+msgstr "Battez le baron pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:156
 msgid ""
@@ -458,8 +445,8 @@ msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_HAMMER_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Type B ou battez le jeu avec le Type A pour "
-"débloquer ce vaisseau."
+"Atteignez le Secteur 5 avec le Type B ou terminez le jeu avec le Type A pour"
+" débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:159
 msgid ""
@@ -477,13 +464,13 @@ msgstr ""
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BUD_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Croiseur Bourgeon Type B ou battez le jeu "
+"Atteignez le Secteur 5 avec le Croiseur Bourgeon Type B ou terminez le jeu "
 "avec le Croiseur Bourgeon Type A pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:163
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BLOOM_unlock\"]"
-msgstr "Livre la graine d'un dieu."
+msgstr "Délivrez la graine d'un dieu."
 
 #: src-en/data/text_misc.xml.append:164
 msgid ""
@@ -496,13 +483,13 @@ msgstr ""
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BLOOM_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Croiseur Floraison Type B ou battez le jeu "
+"Atteignez le Secteur 5 avec le Croiseur Floraison Type B ou terminez le jeu "
 "avec le Croiseur Floraison Type A pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:167
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_BIG_unlock\"]"
-msgstr "Sécurisez un noyau d'IA pour l'Installation d'Ingénierie Centrale."
+msgstr "Sécurisez un cœur d'IA pour l'Installation d'ingénierie centrale."
 
 #: src-en/data/text_misc.xml.append:168
 msgid ""
@@ -515,13 +502,13 @@ msgstr ""
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_BIG_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Croiseur Aigle Type B ou battez le jeu avec "
-"le Croiseur Aigle Type A pour débloquer ce vaisseau."
+"Atteignez le Secteur 5 avec le Croiseur Aigle Type B ou terminez le jeu avec"
+" le Croiseur Aigle Type A pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:171
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_TRAN_unlock\"]"
-msgstr "Découvrez et arrêtez une attaque d'infiltration rebelle secrète."
+msgstr "Découvrez et arrêtez une attaque d'infiltration Rebelle secrète."
 
 #: src-en/data/text_misc.xml.append:172
 msgid ""
@@ -534,13 +521,13 @@ msgstr ""
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_TRAN_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Croiseur Albatros Type B ou battez le jeu "
+"Atteignez le Secteur 5 avec le Croiseur Albatros Type B ou terminez le jeu "
 "avec le Croiseur Albatros Type A pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:175
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_LONG_unlock\"]"
-msgstr "Traquez les assassins d'un avant-poste de la fédération."
+msgstr "Traquez les tueurs d'un avant-poste de la fédération."
 
 #: src-en/data/text_misc.xml.append:176
 msgid ""
@@ -553,7 +540,7 @@ msgstr ""
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_LONG_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Croiseur Anarchie Type B ou battez le jeu "
+"Atteignez le Secteur 5 avec le Croiseur Anarchie Type B ou terminez le jeu "
 "avec le Croiseur Anarchie Type A pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:179
@@ -572,7 +559,7 @@ msgstr ""
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_WIDE_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Croiseur Désordre Type B ou battez le jeu "
+"Atteignez le Secteur 5 avec le Croiseur Désordre Type B ou terminez le jeu "
 "avec le Croiseur Désordre Type A pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:183
@@ -584,39 +571,39 @@ msgstr ""
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_2_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Croiseur Brise-Éclat Type A pour débloquer ce"
+"Atteignez le Secteur 5 avec le Croiseur Éclat-Brisé Type A pour débloquer ce"
 " vaisseau."
 
 #: src-en/data/text_misc.xml.append:185
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Croiseur Brise-Éclat Type B ou battez le jeu "
-"avec le Croiseur Brise-Éclat Type A pour débloquer ce vaisseau."
+"Atteignez le Secteur 5 avec le Croiseur Éclat-Brisé Type B ou terminez le "
+"jeu avec le Croiseur Éclat-Brisé Type A pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:187
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_AUTO_unlock\"]"
-msgstr "Sauvez un roi de son propre palais."
+msgstr "Sauvez un Roi de son propre palais."
 
 #: src-en/data/text_misc.xml.append:188
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_AUTO_2_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec l'Auto-Croiseur Forge-Éclat Type A pour "
+"Atteignez le Secteur 5 avec l'Auto-Croiseur Éclat-Forgé Type A pour "
 "débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:189
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_AUTO_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec l'Auto-Croiseur Forge-Éclat Type B ou battez le "
-"jeu avec l'Auto-Croiseur Forge-Éclat Type A pour débloquer ce vaisseau."
+"Atteignez le Secteur 5 avec l'Auto-Croiseur Éclat-Forgé Type B ou terminez "
+"le jeu avec l'Auto-Croiseur Éclat-Forgé Type A pour débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:191
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_WHALE_unlock\"]"
-msgstr "Réunissez deux grands amants."
+msgstr "Réunissez deux grands amoureux."
 
 #: src-en/data/text_misc.xml.append:192
 msgid ""
@@ -627,8 +614,8 @@ msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_WHALE_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Type B ou battez le jeu avec le Type A pour "
-"débloquer ce vaisseau."
+"Atteignez le Secteur 5 avec le Type B ou terminez le jeu avec le Type A pour"
+" débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:194
 msgid ""
@@ -644,8 +631,8 @@ msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BROADSIDE_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Type B ou battez le jeu avec le Type A pour "
-"débloquer ce vaisseau."
+"Atteignez le Secteur 5 avec le Type B ou terminez le jeu avec le Type A pour"
+" débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:197
 msgid ""
@@ -666,8 +653,8 @@ msgstr "Atteignez le Secteur 5 avec le Type A pour débloquer ce vaisseau."
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_JUSTICE_3_unlock\"]"
 msgstr ""
-"Atteignez le Secteur 5 avec le Type B ou battez le jeu avec le Type A pour "
-"débloquer ce vaisseau."
+"Atteignez le Secteur 5 avec le Type B ou terminez le jeu avec le Type A pour"
+" débloquer ce vaisseau."
 
 #: src-en/data/text_misc.xml.append:203
 msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_aea_old\"]"
@@ -676,8 +663,8 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:205
 msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_burst_laser\"]"
 msgstr ""
-"Astuce : Les Tirs Précis en Rafale peuvent tirer plusieurs fois rapidement "
-"mais perdent la capacité de cibler des cases spécifiques"
+"Astuce : Les Aiguillons Rafale peuvent tirer plusieurs fois rapidement mais "
+"perdent la capacité de cibler des tuiles spécifiques."
 
 #: src-en/data/text_misc.xml.append:207
 msgid "data/text_misc.xml.append$//text[@name=\"aea_super_shields\"]"
@@ -689,4 +676,4 @@ msgstr "Système de Boucliers Auxiliaires installé"
 
 #: src-en/data/text_misc.xml.append:209
 msgid "data/text_misc.xml.append$//text[@name=\"aea_clone_crime_installed\"]"
-msgstr "Baie de Clonage Modifiée installée"
+msgstr "Salle des Clones Modifiée installée"
