@@ -11,7 +11,7 @@ msgid ""
 "append:shipIcon[1]/tooltip"
 msgstr ""
 "SYSTÈME DE FILTRATION ACIDE :\n"
-"Le système d'oxygène de ce vaisseau soignera tout l'équipage à bord et éteindra les incendies, cependant il ne fournira pas d'oxygène."
+"Le système d'oxygène de ce vaisseau guérira tous les membres d'équipage à bord et éteindra les incendies, mais il ne fournira pas d'oxygène."
 
 #: src-en/data/hyperspace.xml.append:45
 msgid ""
@@ -19,23 +19,23 @@ msgid ""
 "append:shipIcon[2]/tooltip"
 msgstr ""
 "SYSTÈME DE FILTRATION ACIDE FAIBLE :\n"
-"Le système d'oxygène fournira un effet de soin lent à tout l'équipage."
+"Le système d'oxygène fournira un effet de guérison lent à tous les membres d'équipage."
 
 #: src-en/data/hyperspace.xml.append:50
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
-"Rafale de Réparation Hérétique :\n"
-"Le vaisseau ennemi réparera 2 dégâts de système une fois à 5pv."
+"Bombe Réparante Hérétique :\n"
+"Le vaisseau ennemi réparera 2 dégâts système une fois à 5pv."
 
 #: src-en/data/hyperspace.xml.append:55
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
-"Rafale de Réparation Hérétique Faible :\n"
-"Le vaisseau ennemi réparera 1 dégât de système une fois à 5pv."
+"Bombe Réparante Hérétique Faible :\n"
+"Le vaisseau ennemi réparera 1 dégât système une fois à 5pv."
 
 #: src-en/data/hyperspace.xml.append:60
 msgid ""
@@ -44,7 +44,7 @@ msgid ""
 msgstr ""
 "Pièces Blindées :\n"
 "Les pièces blindées du vaisseau ennemi le protégeront contre les projectiles entrants tels que les lasers et les missiles.\n"
-"L'armure absorbera 1 dégât des projectiles qui la traversent."
+"Le blindage absorbera 1 dégât des projectiles qui le traversent."
 
 #: src-en/data/hyperspace.xml.append:66
 msgid ""
@@ -52,8 +52,8 @@ msgid ""
 "append:shipIcon[6]/tooltip"
 msgstr ""
 "Guidage Prédictif :\n"
-"Le vaisseau ennemi recevra des projectiles de l'avant à 60 degrés tant que l'évasion est supérieure à 5%.\n"
-"Cela rend les lasers et les missiles plus susceptibles de toucher l'armure du vaisseau."
+"Le vaisseau ennemi recevra des projectiles depuis l'avant à 60 degrés tant que l'évasion est supérieure à 5%.\n"
+"Cela rend les lasers et les missiles plus susceptibles de toucher le blindage du vaisseau."
 
 #: src-en/data/hyperspace.xml.append:72
 msgid ""
@@ -61,8 +61,8 @@ msgid ""
 "append:shipIcon[7]/tooltip"
 msgstr ""
 "Guidage Prédictif Faible :\n"
-"Le vaisseau ennemi recevra des projectiles de l'avant à 90 degrés tant que l'évasion est supérieure à 10%.\n"
-"Cela rend les lasers et les missiles plus susceptibles de toucher l'armure du vaisseau."
+"Le vaisseau ennemi recevra des projectiles depuis l'avant à 90 degrés tant que l'évasion est supérieure à 10%.\n"
+"Cela rend les lasers et les missiles plus susceptibles de toucher le blindage du vaisseau."
 
 #: src-en/data/hyperspace.xml.append:78
 msgid ""
@@ -70,7 +70,7 @@ msgid ""
 "append:shipIcon[8]/tooltip"
 msgstr ""
 "BOUCLIER MYSTÉRIEUX :\n"
-"Cet ennemi est protégé par un Bouclier Énergétique plus fort que d'habitude."
+"Cet ennemi est protégé par un Bouclier d'Énergie plus puissant que d'habitude."
 
 #: src-en/data/hyperspace.xml.append:83
 msgid ""
@@ -78,7 +78,7 @@ msgid ""
 "append:shipIcon[9]/tooltip"
 msgstr ""
 "BOUCLIER MYSTÉRIEUX :\n"
-"Cet ennemi est protégé par un Bouclier Énergétique."
+"Cet ennemi est protégé par un Bouclier d'Énergie."
 
 #: src-en/data/hyperspace.xml.append:88
 msgid ""
@@ -86,7 +86,7 @@ msgid ""
 "append:shipIcon[10]/tooltip"
 msgstr ""
 "GAZ D'INCULCATION :\n"
-"Ce vaisseau ennemi est rempli d'une neurotoxine mortelle qui s'accumulera et finira par les contrôler mentalement pendant une courte période et endommagera passivement votre équipage au fil du temps à 3pv/s.\n"
+"Ce vaisseau ennemi est rempli d'une neurotoxine mortelle qui s'accumulera et finira par les contrôler mentalement pendant une courte période et endommagera passivement votre équipage au fil du temps pour 3pv/s.\n"
 "Les Drones, Coquilles, Vampiflores, Fantômes et Lanius sont immunisés."
 
 #: src-en/data/hyperspace.xml.append:94
@@ -94,8 +94,8 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[11]/tooltip"
 msgstr ""
-"GEL DE RÉPARATION DE COQUILLE LIMACE :\n"
-"Les brèches sur cet ennemi seront automatiquement réparées même en l'absence d'équipage. Fournit également à l'équipage allié 3pv/s de soin et draine l'équipage ennemi à 3pv/s dans les pièces vides.\n"
+"GEL RÉPARATEUR DE COQUILLES DE LIMACES :\n"
+"Les brèches sur cet ennemi seront automatiquement réparées même en l'absence de membres d'équipage. Fournit également aux membres d'équipage alliés 3pv/s de guérison et draine les membres d'équipage ennemis à 3pv/s dans les pièces vides.\n"
 "Les Drones, Coquilles, Vampiflores, Fantômes et Lanius sont immunisés."
 
 #: src-en/data/hyperspace.xml.append:100
@@ -103,8 +103,8 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[12]/tooltip"
 msgstr ""
-"Armure Éclat-Forgée :\n"
-"Chaque fois que vous infligez des dégâts de coque à cet ennemi avec vos armes, il y a 25% de chances qu'un éclat se détache et vole vers votre vaisseau. Il ne percera aucun bouclier, mais infligera 1 dégât à une pièce aléatoire s'il touche."
+"Armure Forgée d'Éclats :\n"
+"Chaque fois que vous infligez des dégâts de coque à cet ennemi avec vos armes, il y a 25% de chances qu'un éclat se détache et vole vers votre vaisseau. Il ne perforera aucun bouclier, mais infligera 1 dégât à une pièce aléatoire s'il touche."
 
 #: src-en/data/hyperspace.xml.append:105
 msgid ""
@@ -112,7 +112,7 @@ msgid ""
 "append:shipIcon[13]/tooltip"
 msgstr ""
 "Boucliers Auxiliaires Puissants :\n"
-"Ce vaisseau ennemi est équipé d'un puissant générateur de boucliers auxiliaires. Il commence le combat avec 6 couches de boucliers énergétiques."
+"Ce vaisseau ennemi est équipé d'un puissant générateur de bouclier auxiliaire. Il commence le combat avec 6 couches de bouclier d'énergie."
 
 #: src-en/data/hyperspace.xml.append:110
 msgid ""
@@ -120,7 +120,7 @@ msgid ""
 "append:shipIcon[14]/tooltip"
 msgstr ""
 "Générateur de Barrière :\n"
-"Ce vaisseau ennemi est équipé d'un générateur de barrière qui protégera une pièce aléatoire de leur vaisseau chaque fois qu'ils tirent une arme, avec un maximum de 6 barrières."
+"Ce vaisseau ennemi est équipé d'un générateur de barrière qui protégera une pièce aléatoire de leur vaisseau chaque fois qu'ils tirent avec une arme, plafonné à 6 barrières."
 
 #: src-en/data/hyperspace.xml.append:115
 msgid ""
@@ -128,7 +128,7 @@ msgid ""
 "append:shipIcon[15]/tooltip"
 msgstr ""
 "Générateur de Barrière Chaotique :\n"
-"Ce vaisseau ennemi est équipé d'un générateur de barrière qui protégera une pièce aléatoire de leur vaisseau chaque fois qu'ils tirent une arme."
+"Ce vaisseau ennemi est équipé d'un générateur de barrière qui protégera une pièce aléatoire de leur vaisseau chaque fois qu'ils tirent avec une arme."
 
 #: src-en/data/hyperspace.xml.append:554
 msgid ""
@@ -695,12 +695,12 @@ msgid ""
 "append:race[@name=\"aea_necro_lich\"]/powerEffect[1]/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:30s]\n"
-"\t\t\t\tDéchiquette les ennemis dans la pièce, ressuscite une partie de leurs corps pour créer une copie.\n"
+"\t\t\t\tDéchiqueter les ennemis dans la pièce, ressusciter une partie de leurs corps pour créer une copie.\n"
 "\t\t\t\t-Coûte 2 Essaims de Nanites\n"
-"\t\t\t\t-L'équipage ressuscité dure 30 secondes\n"
-"\t\t\t\t-L'équipage ressuscité a 25% moins de pv et de dégâts\n"
-"\t\t\t\t-L'équipage ennemi affecté dans la pièce a 10% moins de pv et de dégâts\n"
-"\t\t\t\t-Les dégâts de la Liche Engi sont augmentés de 50%"
+"\t\t\t\t-Les membres d'équipage ressuscités durent 30 secondes\n"
+"\t\t\t\t-Les membres d'équipage ressuscités ont 25% de pv et de dégâts en moins\n"
+"\t\t\t\t-Les membres d'équipage ennemis affligés dans la pièce ont 10% de pv et de dégâts en moins\n"
+"\t\t\t\t-Les dégâts de l'Engi Lich sont augmentés de 50%"
 
 #: src-en/data/hyperspace.xml.append:4442
 msgid ""
@@ -726,7 +726,7 @@ msgid ""
 "append:race[@name=\"aea_necro_king\"]/powerEffect[1]/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:60s]\n"
-"\t\t\t\tRessuscite de manière permanente le dernier membre d'équipage ennemi tué au corps à corps par cet Engi.\n"
+"\t\t\t\tRessusciter en permanence le dernier membre d'équipage ennemi tué en combat rapproché par cet Engi.\n"
 "\t\t\t\t-Coûte 5 Essaims de Nanites"
 
 #: src-en/data/hyperspace.xml.append:4497
@@ -741,15 +741,15 @@ msgid ""
 "append:race[@name=\"aea_necro_king\"]/powerEffect[2]/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:2s]\n"
-"\t\t\t\tRessuscite le dernier membre d'équipage ennemi tué au corps à corps par cet Engi.\n"
+"\t\t\t\tRessusciter le dernier membre d'équipage ennemi tué en combat rapproché par cet Engi.\n"
 "\t\t\t\t-Coûte 1 Essaim de Nanites\n"
-"\t\t\t\t-L'équipage ressuscité dure 90 secondes"
+"\t\t\t\t-Les membres d'équipage ressuscités durent 90 secondes"
 
 #: src-en/data/hyperspace.xml.append:4557
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_1\"]/powerEffect/buttonText"
-msgstr "PIRATAGE"
+msgstr "PIRATER"
 
 #: src-en/data/hyperspace.xml.append:4558
 msgid ""
@@ -757,7 +757,7 @@ msgid ""
 "append:race[@name=\"aea_old_unique_1\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:30s]\n"
-"\t\t\t\tPirate la pièce et étourdit tout l'équipage dans la pièce pendant 10 secondes."
+"\t\t\t\tPiratage la pièce et étourdit tous les membres d'équipage dans la pièce pendant 10 secondes."
 
 #: src-en/data/hyperspace.xml.append:4594
 msgid ""
@@ -771,7 +771,7 @@ msgid ""
 "append:race[@name=\"aea_old_unique_2\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:30s]\n"
-"\t\t\t\tNettoie tous les effets ioniques de la pièce et soigne 2 dégâts de système."
+"\t\t\t\tPurifie tous les effets ioniques sur la pièce et répare 2 dégâts système."
 
 #: src-en/data/hyperspace.xml.append:4631
 msgid ""
@@ -789,7 +789,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_old_unique_4\"]/powerEffect/buttonText"
-msgstr "RAFALE DE SOIN"
+msgstr "DÉCHARGE CURATIVE"
 
 #: src-en/data/hyperspace.xml.append:4673
 msgid ""
@@ -825,7 +825,7 @@ msgid ""
 "append:race[@name=\"aea_shleg_shell\"]/powerEffect/tooltip"
 msgstr ""
 "[TR:5s  DURÉE:21s  -40PV]\n"
-"Inflige 75 dégâts à tous les membres d'équipage ennemis sous contrôle mental dans la pièce. Ne peut pas réduire les pv de l'équipage ennemi en dessous de 10. Régénère lentement 42 points de vie."
+"Inflige 75 dégâts à tous les membres d'équipage ennemis contrôlés mentalement dans la pièce. Ne peut pas réduire les pv des membres d'équipage ennemis en dessous de 10. Régénère lentement 42 points de vie."
 
 #: src-en/data/hyperspace.xml.append:4875
 msgid ""
@@ -839,9 +839,9 @@ msgid ""
 "append:race[@name=\"aea_shleg_slug\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:50s  DURÉE:10s]\n"
-"\t\t\t\tDéploie une bombe toxique qui dure 30 secondes, l'équipage ennemi dans la pièce accumulera un effet de statut à raison de 5pv/s.\n"
-"\t\t\t\tL'effet de statut contrôlera mentalement l'équipage ennemi une fois que l'accumulation aura atteint ses points de vie actuels.\n"
-"\t\t\t\tSe camouflera temporairement et cessera ses mouvements et attaques pendant 10 secondes, se cachant de l'équipage ennemi et soignant à 2 pv/s."
+"\t\t\t\tDéploie une bombe toxique qui dure 30 secondes, les membres d'équipage ennemis dans la pièce accumuleront un effet de statut à un rythme de 5pv/s.\n"
+"\t\t\t\tL'effet de statut contrôlera mentalement les membres d'équipage ennemis une fois que l'accumulation atteindra leurs points de vie actuels.\n"
+"\t\t\t\tSe camouflera temporairement et cessera ses mouvements et attaques pendant 10 secondes, se cachant des membres d'équipage ennemis et guérissant à 2 pv/s."
 
 #: src-en/data/hyperspace.xml.append:4937
 msgid ""
@@ -855,9 +855,9 @@ msgid ""
 "append:race[@name=\"aea_shleg_sickle\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:40s  DURÉE:10s]\n"
-"Déploie une bombe toxique qui dure 1 minute, l'équipage ennemi dans la pièce accumulera un effet de statut à raison de 10pv/s.\n"
-"L'effet de statut contrôlera mentalement l'équipage ennemi une fois que l'accumulation aura atteint ses points de vie actuels.\n"
-"Se camouflera temporairement avec des dégâts et des mouvements réduits de moitié, se cachant de l'équipage ennemi."
+"Déploie une bombe toxique qui dure 1 minute, les membres d'équipage ennemis dans la pièce accumuleront un effet de statut à un rythme de 10pv/s.\n"
+"L'effet de statut contrôlera mentalement les membres d'équipage ennemis une fois que l'accumulation atteindra leurs points de vie actuels.\n"
+"Se camouflera temporairement avec des dégâts et un mouvement réduits de moitié, se cachant des membres d'équipage ennemis."
 
 #: src-en/data/hyperspace.xml.append:5000
 msgid ""
@@ -871,7 +871,7 @@ msgid ""
 "append:race[@name=\"aea_shleg_sorrow\"]/powerEffect/tooltip"
 msgstr ""
 "[TR:15s  DURÉE:10s  -60PV]\n"
-"Tue tous les membres d'équipage ennemis sous contrôle mental dans la pièce. Inflige 30 dégâts aux autres membres d'équipage ennemis. Régénère 60 points de vie."
+"Tue tous les membres d'équipage ennemis dans la pièce qui sont contrôlés mentalement. Inflige 30 dégâts aux autres membres d'équipage ennemis. Régénère 60 points de vie."
 
 #: src-en/data/hyperspace.xml.append:5048
 msgid ""
@@ -887,7 +887,7 @@ msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
 "Lance un sort dans la pièce actuelle qui ne fait rien\n"
 "\tDurée d'incantation : 5s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts"
 
 #: src-en/data/hyperspace.xml.append:5089
 msgid ""
@@ -903,7 +903,7 @@ msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
 "Lance un sort qui protège la pièce actuelle des dégâts de coque et de système pendant 10 secondes\n"
 "\tDurée d'incantation : 1s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5129
 msgid ""
@@ -919,13 +919,13 @@ msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
 "Lance un sort qui redirige tous les projectiles ennemis à l'écran vers la pièce actuelle\n"
 "\tDurée d'incantation : 1s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5169
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s03\"]/powerEffect/buttonText"
-msgstr "Bio-Éclair"
+msgstr "Éclair Bio"
 
 #: src-en/data/hyperspace.xml.append:5170
 msgid ""
@@ -933,9 +933,9 @@ msgid ""
 "append:race[@name=\"aea_cult_wizard_s03\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
-"Lance un sort qui perce tous les boucliers normaux dans une pièce cible infligeant 45 dégâts personnels\n"
+"Lance un sort qui perfore tous les boucliers normaux dans une pièce ciblée, infligeant 45 dégâts personnels\n"
 "\tDurée d'incantation : 3s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5209
 msgid ""
@@ -949,9 +949,9 @@ msgid ""
 "append:race[@name=\"aea_cult_wizard_s04\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
-"Lance un sort qui perce tous les boucliers normaux dans une pièce cible infligeant 1 dégât\n"
+"Lance un sort qui perfore tous les boucliers normaux dans une pièce ciblée, infligeant 1 dégât\n"
 "\tDurée d'incantation : 8s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5249
 msgid ""
@@ -965,9 +965,9 @@ msgid ""
 "append:race[@name=\"aea_cult_wizard_s05\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
-"Lance 3 sorts qui percent tous les boucliers normaux dans une pièce cible infligeant 1 dégât\n"
+"Lance 3 sorts qui perforent tous les boucliers normaux dans une pièce ciblée, infligeant 1 dégât\n"
 "\tDurée d'incantation : 20s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5289
 msgid ""
@@ -981,9 +981,9 @@ msgid ""
 "append:race[@name=\"aea_cult_wizard_s06\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
-"Lance un sort qui perce tous les boucliers normaux dans une pièce cible infligeant 3 dégâts de coque mais aucun dégât de système ou d'équipage\n"
+"Lance un sort qui perfore tous les boucliers normaux dans une pièce ciblée, infligeant 3 dégâts de coque mais aucun dégât système ou d'équipage\n"
 "\tDurée d'incantation : 10s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5329
 msgid ""
@@ -997,9 +997,9 @@ msgid ""
 "append:race[@name=\"aea_cult_wizard_a07\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
-"Lance un sort dans la pièce actuelle qui téléporte tout l'équipage de la pièce actuelle vers une pièce aléatoire du vaisseau opposé\n"
+"Lance un sort dans la pièce actuelle qui téléporte tous les membres d'équipage de la pièce actuelle vers une pièce aléatoire du vaisseau opposé\n"
 "\tDurée d'incantation : 6s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5368
 msgid ""
@@ -1013,9 +1013,9 @@ msgid ""
 "append:race[@name=\"aea_cult_wizard_s08\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
-"Lance un sort qui perce tous les boucliers dans une pièce cible qui téléporte tout l'équipage de la pièce vers une pièce aléatoire du vaisseau opposé\n"
+"Lance un sort qui perfore tous les boucliers dans une pièce ciblée qui téléporte tous les membres d'équipage de la pièce vers une pièce aléatoire du vaisseau opposé\n"
 "\tDurée d'incantation : 8s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5407
 msgid ""
@@ -1029,9 +1029,9 @@ msgid ""
 "append:race[@name=\"aea_cult_wizard_s09\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
-"Lance un sort qui perce tous les boucliers dans une pièce cible qui soigne tous les membres d'équipage alliés de 75pv\n"
+"Lance un sort qui perfore tous les boucliers dans une pièce ciblée qui soigne tous les membres d'équipage alliés de 75pv\n"
 "\tDurée d'incantation : 2s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5449
 msgid ""
@@ -1047,7 +1047,7 @@ msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
 "Lance un sort dans la pièce actuelle qui soigne tous les membres d'équipage alliés dans la pièce de 45 pv\n"
 "\tDurée d'incantation : 5s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5488
 msgid ""
@@ -1063,7 +1063,7 @@ msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
 "Fait apparaître un drone de combat conservateur autour du vaisseau ennemi\n"
 "\tDurée d'incantation : 10s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5528
 msgid ""
@@ -1077,9 +1077,9 @@ msgid ""
 "append:race[@name=\"aea_cult_wizard_s12\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
-"Lance un sort qui perce tous les boucliers normaux dans une pièce cible qui fait apparaître une barrière capable de bloquer 2 projectiles, pas plus de 8 ne peuvent être actifs à la fois\n"
+"Lance un sort qui perfore tous les boucliers normaux dans une pièce ciblée qui fait apparaître une barrière capable de bloquer 2 projectiles, pas plus de 8 ne peuvent être actifs simultanément\n"
 "\tDurée d'incantation : 2s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5568
 msgid ""
@@ -1093,9 +1093,9 @@ msgid ""
 "append:race[@name=\"aea_cult_wizard_s13\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
-"Lance un sort qui perce tous les boucliers normaux dans une pièce cible qui applique un effet de verrouillage\n"
+"Lance un sort qui perfore tous les boucliers normaux dans une pièce ciblée qui applique un effet de verrouillage\n"
 "\tDurée d'incantation : 4s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5608
 msgid ""
@@ -1109,9 +1109,9 @@ msgid ""
 "append:race[@name=\"aea_cult_wizard_s14\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
-"Lance un sort qui perce tous les boucliers normaux dans une pièce cible qui fait apparaître un allié aléatoire\n"
+"Lance un sort qui perfore tous les boucliers normaux dans une pièce ciblée qui fait apparaître un allié aléatoire\n"
 "\tDurée d'incantation : 7s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5648
 msgid ""
@@ -1125,9 +1125,9 @@ msgid ""
 "append:race[@name=\"aea_cult_wizard_s15\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:20s]\n"
-"Lance un sort qui perce tous les boucliers normaux dans une pièce cible qui contrôle mentalement l'ennemi pendant 20 secondes\n"
+"Lance un sort qui perfore tous les boucliers normaux dans une pièce ciblée qui contrôle mentalement l'ennemi pendant 20 secondes\n"
 "\tDurée d'incantation : 8s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5688
 msgid ""
@@ -1141,9 +1141,9 @@ msgid ""
 "append:race[@name=\"aea_cult_priest_sup\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:13s]\n"
-"Lance un sort de soutien aléatoire qui perce tous les boucliers normaux dans une pièce cible\n"
+"Lance un sort de soutien aléatoire qui perfore tous les boucliers normaux dans une pièce ciblée\n"
 "\tDurée d'incantation : 1s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5726
 msgid ""
@@ -1157,9 +1157,9 @@ msgid ""
 "append:race[@name=\"aea_cult_priest_off\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:10s]\n"
-"Lance un sort offensif aléatoire qui perce tous les boucliers normaux dans une pièce cible\n"
+"Lance un sort offensif aléatoire qui perfore tous les boucliers normaux dans une pièce ciblée\n"
 "\tDurée d'incantation : 4s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5764
 msgid ""
@@ -1173,9 +1173,9 @@ msgid ""
 "append:race[@name=\"aea_cult_priest_bor\"]/powerEffect/tooltip"
 msgstr ""
 "[TEMPS DE RECHARGE:12s]\n"
-"Lance un sort de soutien d'abordage aléatoire qui perce tous les boucliers normaux dans une pièce cible\n"
+"Lance un sort de soutien d'abordage aléatoire qui perfore tous les boucliers normaux dans une pièce ciblée\n"
 "\tDurée d'incantation : 2s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5855
 msgid ""
@@ -1191,7 +1191,7 @@ msgstr ""
 "[TEMPS DE RECHARGE:10s]\n"
 "Lance un sort dans la pièce actuelle qui ne fait rien\n"
 "\tDurée d'incantation : 2.5s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts"
 
 #: src-en/data/hyperspace.xml.append:5898
 msgid ""
@@ -1207,7 +1207,7 @@ msgstr ""
 "[TEMPS DE RECHARGE:10s]\n"
 "Lance un sort qui protège la pièce actuelle des dégâts de coque et de système pendant 10 secondes\n"
 "\tDurée d'incantation : 1s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5938
 msgid ""
@@ -1223,23 +1223,23 @@ msgstr ""
 "[TEMPS DE RECHARGE:10s]\n"
 "Lance un sort qui redirige tous les projectiles ennemis à l'écran vers la pièce actuelle\n"
 "\tDurée d'incantation : 1s\n"
-"\tSera interrompu pendant l'incantation si l'équipage subit des dégâts ou se déplace"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:5978
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s03\"]/powerEffect/buttonText"
-msgstr "Bio-Éclair"
+msgstr "Éclair Bio"
 
 #: src-en/data/hyperspace.xml.append:5979
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s03\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE:10s]\\nLance un sort qui perce tous les boucliers normaux"
-" d'une pièce ciblée infligeant 45 dégâts personnels.\\n\\tDurée "
-"d'incantation : 3s\\n\\tL'incantation sera interrompue si le membre "
-"d'équipage subit des dégâts ou se déplace."
+"[TEMPS DE RECHARGE:10s]\n"
+"Lance un sort qui perfore tous les boucliers normaux dans une pièce ciblée, infligeant 45 dégâts personnels\n"
+"\tDurée d'incantation : 3s\n"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:6018
 msgid ""
@@ -1252,10 +1252,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s04\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE:10s]\\nLance un sort qui perce tous les boucliers normaux"
-" d'une pièce ciblée infligeant 1 dégât.\\n\\tDurée d'incantation : "
-"8s\\n\\tL'incantation sera interrompue si le membre d'équipage subit des "
-"dégâts ou se déplace."
+"[TEMPS DE RECHARGE:10s]\n"
+"Lance un sort qui perfore tous les boucliers normaux dans une pièce ciblée, infligeant 1 dégât\n"
+"\tDurée d'incantation : 8s\n"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:6058
 msgid ""
@@ -1268,10 +1268,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s05\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE:10s]\\nLance 3 sorts qui percent tous les boucliers "
-"normaux d'une pièce ciblée infligeant 1 dégât.\\n\\tDurée d'incantation : "
-"20s\\n\\tL'incantation sera interrompue si le membre d'équipage subit des "
-"dégâts ou se déplace."
+"[TEMPS DE RECHARGE:10s]\n"
+"Lance 3 sorts qui perforent tous les boucliers normaux dans une pièce ciblée, infligeant 1 dégât\n"
+"\tDurée d'incantation : 20s\n"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:6098
 msgid ""
@@ -1284,10 +1284,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s06\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE:10s]\\nLance un sort qui perce tous les boucliers normaux"
-" d'une pièce ciblée infligeant 3 dégâts à la coque, mais aucun dégât aux "
-"systèmes ou à l'équipage.\\n\\tDurée d'incantation : 10s\\n\\tL'incantation "
-"sera interrompue si le membre d'équipage subit des dégâts ou se déplace."
+"[TEMPS DE RECHARGE:10s]\n"
+"Lance un sort qui perfore tous les boucliers normaux dans une pièce ciblée, infligeant 3 dégâts de coque mais aucun dégât système ou d'équipage\n"
+"\tDurée d'incantation : 10s\n"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:6138
 msgid ""
@@ -1300,10 +1300,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a07\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE:10s]\\nLance un sort dans la pièce occupée qui téléporte "
-"tous les membres d'équipage de la pièce occupée vers une pièce aléatoire du "
-"vaisseau ennemi.\\n\\tDurée d'incantation : 6s\\n\\tL'incantation sera "
-"interrompue si le membre d'équipage subit des dégâts ou se déplace."
+"[TEMPS DE RECHARGE:10s]\n"
+"Lance un sort dans la pièce actuelle qui téléporte tous les membres d'équipage de la pièce actuelle vers une pièce aléatoire du vaisseau opposé\n"
+"\tDurée d'incantation : 6s\n"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:6178
 msgid ""
@@ -1316,11 +1316,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s08\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE:10s]\\nLance un sort qui perce tous les boucliers d'une "
-"pièce ciblée et téléporte tous les membres d'équipage de la pièce vers une "
-"pièce aléatoire du vaisseau ennemi.\\n\\tDurée d'incantation : "
-"8s\\n\\tL'incantation sera interrompue si le membre d'équipage subit des "
-"dégâts ou se déplace."
+"[TEMPS DE RECHARGE:10s]\n"
+"Lance un sort qui perfore tous les boucliers dans une pièce ciblée qui téléporte tous les membres d'équipage de la pièce vers une pièce aléatoire du vaisseau opposé\n"
+"\tDurée d'incantation : 8s\n"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:6218
 msgid ""
@@ -1333,10 +1332,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s09\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE:10s]\\nLance un sort qui perce tous les boucliers d'une "
-"pièce ciblée et soigne tous les membres d'équipage alliés de 75 "
-"PV.\\n\\tDurée d'incantation : 2s\\n\\tL'incantation sera interrompue si le "
-"membre d'équipage subit des dégâts ou se déplace."
+"[TEMPS DE RECHARGE:10s]\n"
+"Lance un sort qui perfore tous les boucliers dans une pièce ciblée qui soigne tous les membres d'équipage alliés de 75pv\n"
+"\tDurée d'incantation : 2s\n"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:6260
 msgid ""
@@ -1349,10 +1348,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a10\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE:10s]\\nLance un sort dans la pièce occupée qui soigne "
-"tous les membres d'équipage alliés de la pièce de 45 PV.\\n\\tDurée "
-"d'incantation : 5s\\n\\tL'incantation sera interrompue si le membre "
-"d'équipage subit des dégâts ou se déplace."
+"[TEMPS DE RECHARGE:10s]\n"
+"Lance un sort dans la pièce actuelle qui soigne tous les membres d'équipage alliés dans la pièce de 45 pv\n"
+"\tDurée d'incantation : 5s\n"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:6300
 msgid ""
@@ -1365,9 +1364,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a11\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE:10s]\\nFait apparaître un drone de combat conservateur "
-"autour du vaisseau ennemi.\\n\\tDurée d'incantation : 10s\\n\\tL'incantation"
-" sera interrompue si le membre d'équipage subit des dégâts ou se déplace."
+"[TEMPS DE RECHARGE:10s]\n"
+"Fait apparaître un drone de combat conservateur autour du vaisseau ennemi\n"
+"\tDurée d'incantation : 10s\n"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:6340
 msgid ""
@@ -1380,11 +1380,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s12\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE:10s]\\nLance un sort qui perce tous les boucliers normaux"
-" d'une pièce ciblée et fait apparaître une barrière capable de bloquer 2 "
-"projectiles, 8 au maximum peuvent être actives simultanément.\\n\\tDurée "
-"d'incantation : 2s\\n\\tL'incantation sera interrompue si le membre "
-"d'équipage subit des dégâts ou se déplace."
+"[TEMPS DE RECHARGE:10s]\n"
+"Lance un sort qui perfore tous les boucliers normaux dans une pièce ciblée qui fait apparaître une barrière capable de bloquer 2 projectiles, pas plus de 8 ne peuvent être actifs simultanément\n"
+"\tDurée d'incantation : 2s\n"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:6380
 msgid ""
@@ -1397,10 +1396,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s13\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE:10s]\\nLance un sort qui perce tous les boucliers normaux"
-" d'une pièce ciblée et applique un effet de verrouillage.\\n\\tDurée "
-"d'incantation : 4s\\n\\tL'incantation sera interrompue si le membre "
-"d'équipage subit des dégâts ou se déplace."
+"[TEMPS DE RECHARGE:10s]\n"
+"Lance un sort qui perfore tous les boucliers normaux dans une pièce ciblée qui applique un effet de verrouillage\n"
+"\tDurée d'incantation : 4s\n"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:6420
 msgid ""
@@ -1413,10 +1412,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s14\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE:10s]\\nLance un sort qui perce tous les boucliers normaux"
-" d'une pièce ciblée et fait apparaître un allié aléatoire.\\n\\tDurée "
-"d'incantation : 7s\\n\\tL'incantation sera interrompue si le membre "
-"d'équipage subit des dégâts ou se déplace."
+"[TEMPS DE RECHARGE:10s]\n"
+"Lance un sort qui perfore tous les boucliers normaux dans une pièce ciblée qui fait apparaître un allié aléatoire\n"
+"\tDurée d'incantation : 7s\n"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:6460
 msgid ""
@@ -1429,10 +1428,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s15\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE:10s]\\nLance un sort qui perce tous les boucliers normaux"
-" d'une pièce ciblée et contrôle mentalement l'ennemi pendant 20 "
-"secondes.\\n\\tDurée d'incantation : 8s\\n\\tL'incantation sera interrompue "
-"si le membre d'équipage subit des dégâts ou se déplace."
+"[TEMPS DE RECHARGE:10s]\n"
+"Lance un sort qui perfore tous les boucliers normaux dans une pièce ciblée qui contrôle mentalement l'ennemi pendant 20 secondes\n"
+"\tDurée d'incantation : 8s\n"
+"\tSera interrompu pendant l'incantation si le membre d'équipage subit des dégâts ou se déplace"
 
 #: src-en/data/hyperspace.xml.append:6517
 msgid ""
@@ -1445,10 +1444,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_breaker\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE : 12s  -25 PV]\n"
-"\t\t\t\tVerrouille la pièce occupée pendant 12 secondes, empêchant l'équipage d'y entrer.\n"
-"\t\t\t\tL'équipage ennemi dans la pièce subit 4 dégâts par seconde.\n"
-"\t\t\t\tNe peut pas attaquer l'équipage ennemi pendant la durée."
+"[TEMPS DE RECHARGE:12s  -25PV]\n"
+"\t\t\t\tVerrouille la pièce occupée pendant 12 secondes, empêchant les membres d'équipage d'y entrer.\n"
+"\t\t\t\tLes membres d'équipage ennemis dans la pièce subissent 4 dégâts par seconde.\n"
+"\t\t\t\tNe peut pas attaquer les membres d'équipage ennemis pendant la durée."
 
 #: src-en/data/hyperspace.xml.append:6590
 msgid ""
@@ -1461,10 +1460,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_smasher\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE : 6s  -25 PV]\n"
-"\t\t\t\tVerrouille la pièce occupée pendant 12 secondes, empêchant l'équipage d'y entrer.\n"
-"\t\t\t\tL'équipage ennemi dans la pièce subit 4 dégâts par seconde.\n"
-"\t\t\t\tNe peut pas attaquer l'équipage ennemi pendant la durée."
+"[TEMPS DE RECHARGE:6s  -25PV]\n"
+"\t\t\t\tVerrouille la pièce occupée pendant 12 secondes, empêchant les membres d'équipage d'y entrer.\n"
+"\t\t\t\tLes membres d'équipage ennemis dans la pièce subissent 4 dégâts par seconde.\n"
+"\t\t\t\tNe peut pas attaquer les membres d'équipage ennemis pendant la durée."
 
 #: src-en/data/hyperspace.xml.append:6664
 msgid ""
@@ -1477,10 +1476,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_dawn\"]/powerEffect/tooltip"
 msgstr ""
-"[TEMPS DE RECHARGE : 3s  -25 PV]\n"
-"\t\t\t\tVerrouille la pièce occupée pendant 24 secondes, empêchant l'équipage d'y entrer.\n"
-"\t\t\t\tL'équipage ennemi dans la pièce subit 10 dégâts par seconde.\n"
-"\t\t\t\tNe peut pas attaquer l'équipage ennemi pendant la durée."
+"[TEMPS DE RECHARGE:3s  -25PV]\n"
+"\t\t\t\tVerrouille la pièce occupée pendant 24 secondes, empêchant les membres d'équipage d'y entrer.\n"
+"\t\t\t\tLes membres d'équipage ennemis dans la pièce subissent 10 dégâts par seconde.\n"
+"\t\t\t\tNe peut pas attaquer les membres d'équipage ennemis pendant la durée."
 
 #: src-en/data/hyperspace.xml.append:6721
 msgid ""
@@ -1493,12 +1492,9 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_dark_justicier\"]/powerEffect/tooltip"
 msgstr ""
-"Effectuez un rituel sombre, sacrifiez un certain nombre de membres "
-"d'équipage à des positions spécifiques pour déclencher différents effets. "
-"Les membres d'équipage qui survivent au rituel seront affaiblis et perdront "
-"25% de leur vitesse de déplacement pendant 5 sauts.\\nClic gauche pour "
-"sélectionner les membres d'équipage à sacrifier.\\nClic droit pour tenter le"
-" rituel ou annuler."
+"Effectuez un rituel sombre, sacrifiez un certain nombre de membres d'équipage à des positions spécifiques pour déclencher différents effets. Les membres d'équipage qui survivent au rituel seront affaiblis et perdront 25% de leur vitesse de déplacement pendant 5 sauts.\n"
+"Clic gauche pour sélectionner les membres d'équipage à sacrifier.\n"
+"Clic droit pour tenter le rituel ou annuler."
 
 #: src-en/data/hyperspace.xml.append:6753
 msgid ""
@@ -1521,12 +1517,9 @@ msgstr "RITUEL"
 msgid ""
 "data/hyperspace.xml.append$//statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
-"Effectuez un rituel sombre, sacrifiez un certain nombre de membres "
-"d'équipage à des positions spécifiques pour déclencher différents effets. "
-"Les membres d'équipage qui survivent au rituel seront affaiblis et perdront "
-"25% de leur vitesse de déplacement pendant 5 sauts.\\n\\t\\tClic gauche pour"
-" sélectionner les membres d'équipage à sacrifier.\\n\\t\\tClic droit pour "
-"tenter le rituel ou annuler."
+"Effectuez un rituel sombre, sacrifiez un certain nombre de membres d'équipage à des positions spécifiques pour déclencher différents effets. Les membres d'équipage qui survivent au rituel seront affaiblis et perdront 25% de leur vitesse de déplacement pendant 5 sauts.\n"
+"\t\tClic gauche pour sélectionner les membres d'équipage à sacrifier.\n"
+"\t\tClic droit pour tenter le rituel ou annuler."
 
 #: src-en/data/hyperspace.xml.append:8920
 msgid ""
@@ -1750,7 +1743,7 @@ msgstr "LYLMIK"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[1]/section[1]/@text"
-msgstr "Transports de Butin (OE)"
+msgstr "Transporteurs de Butin (EE)"
 
 #: src-en/data/hyperspace.xml.append:9822
 msgid ""
@@ -1760,12 +1753,12 @@ msgstr "Transport Acide"
 #: src-en/data/hyperspace.xml.append:9823
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/secretDescription"
-msgstr "Obtenez le butin du transport de butin Acide."
+msgstr "Obtenez le butin du transporteur de butin Acide."
 
 #: src-en/data/hyperspace.xml.append:9824
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/description"
-msgstr "Obtenez le Barrage Acide du transport de butin Acide."
+msgstr "Obtenez la Barrage Acide du transporteur de butin Acide."
 
 #: src-en/data/hyperspace.xml.append:9826
 msgid ""
@@ -1780,12 +1773,12 @@ msgstr "Transport Gi"
 #: src-en/data/hyperspace.xml.append:9830
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/secretDescription"
-msgstr "Obtenez le butin du transport de butin Gi."
+msgstr "Obtenez le butin du transporteur de butin Gi."
 
 #: src-en/data/hyperspace.xml.append:9831
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/description"
-msgstr "Obtenez le Drone Jumeau du transport de butin Gi."
+msgstr "Obtenez le Drone Jumeau du transporteur de butin Gi."
 
 #: src-en/data/hyperspace.xml.append:9833
 msgid ""
@@ -1795,17 +1788,18 @@ msgstr "Butin Acquis"
 #: src-en/data/hyperspace.xml.append:9836
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/name"
-msgstr "Transport de Cultistes Vampiflores"
+msgstr "Transporteur de Cultistes Vampiflores"
 
 #: src-en/data/hyperspace.xml.append:9837
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/secretDescription"
-msgstr "Obtenez le butin du transport de butin des Cultistes Vampiflores."
+msgstr "Obtenez le butin du transporteur de butin des Cultistes Vampiflores."
 
 #: src-en/data/hyperspace.xml.append:9838
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/description"
-msgstr "Obtenez la Sporesort du transport de butin des Cultistes Vampiflores."
+msgstr ""
+"Obtenez la Spore magique du transporteur de butin des Cultistes Vampiflores."
 
 #: src-en/data/hyperspace.xml.append:9840
 msgid ""
@@ -1820,12 +1814,12 @@ msgstr "Transport Hérétique"
 #: src-en/data/hyperspace.xml.append:9844
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/secretDescription"
-msgstr "Obtenez le butin du transport de butin Hérétique."
+msgstr "Obtenez le butin du transporteur de butin Hérétique."
 
 #: src-en/data/hyperspace.xml.append:9845
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/description"
-msgstr "Obtenez le Laser Fracassant II du transport de butin Hérétique."
+msgstr "Obtenez le Laser Fracassant II du transporteur de butin Hérétique."
 
 #: src-en/data/hyperspace.xml.append:9847
 msgid ""
@@ -1840,13 +1834,14 @@ msgstr "Transport Éclat-Forgé"
 #: src-en/data/hyperspace.xml.append:9851
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/secretDescription"
-msgstr "Obtenez le butin du transport de butin Éclat-Forgé."
+msgstr "Obtenez le butin du transporteur de butin Forgé d'Éclats."
 
 #: src-en/data/hyperspace.xml.append:9852
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/description"
 msgstr ""
-"Obtenez la Rafale de Cristal Élite MK II du transport de butin Éclat-Forgé."
+"Obtenez le Cristal Rafale Élite MK II du transporteur de butin Forgé "
+"d'Éclats."
 
 #: src-en/data/hyperspace.xml.append:9854
 msgid ""
@@ -1856,17 +1851,17 @@ msgstr "Butin Acquis"
 #: src-en/data/hyperspace.xml.append:9857
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/name"
-msgstr "Transport Anarchiste"
+msgstr "Transporteur Anarchiste"
 
 #: src-en/data/hyperspace.xml.append:9858
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/secretDescription"
-msgstr "Obtenez le butin du transport de butin Anarchiste."
+msgstr "Obtenez le butin du transporteur de butin Anarchiste."
 
 #: src-en/data/hyperspace.xml.append:9859
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/description"
-msgstr "Obtenez le Missile 'Hypnos' du transport de butin Anarchiste."
+msgstr "Obtenez le Missile 'Hypnos' du transporteur de butin Anarchiste."
 
 #: src-en/data/hyperspace.xml.append:9861
 msgid ""
@@ -1881,7 +1876,7 @@ msgstr "Station Lylmik"
 #: src-en/data/hyperspace.xml.append:9865
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretName"
-msgstr "Transport Secret"
+msgstr "Transporteur Secret"
 
 #: src-en/data/hyperspace.xml.append:9866
 msgid ""
@@ -1891,7 +1886,7 @@ msgstr "Obtenez une arme Lylmik de la station de butin Lylmik."
 #: src-en/data/hyperspace.xml.append:9867
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretDescription"
-msgstr "Obtenez le butin du transport de butin ???"
+msgstr "Obtenez le butin du transporteur de butin ???."
 
 #: src-en/data/hyperspace.xml.append:9870
 msgid ""
@@ -1902,16 +1897,16 @@ msgstr "Butin Acquis"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[1]/section[2]/@text"
-msgstr "Croiseurs Renégats (OE)"
+msgstr "Croiseurs Renégats (EE)"
 
 #: src-en/data/hyperspace.xml.append:9875
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_ACID\"]/name"
-msgstr "Jamais trop de canons"
+msgstr "Jamais trop d'armes"
 
 #: src-en/data/hyperspace.xml.append:9876
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_ACID\"]/description"
-msgstr "Battez le Destroyer B Acide Renégat et obtenez l'Aspersion Acide."
+msgstr "Vainquez le Destroyer Acide B Renégat et obtenez le Lanceur d'Acide."
 
 #: src-en/data/hyperspace.xml.append:9878
 msgid ""
@@ -1920,12 +1915,12 @@ msgstr "Renégat Vaincu"
 
 #: src-en/data/hyperspace.xml.append:9881
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_BIRD\"]/name"
-msgstr "Une Bonne Attaque est une Bonne Attaque"
+msgstr "Une bonne attaque est une bonne attaque"
 
 #: src-en/data/hyperspace.xml.append:9882
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_BIRD\"]/description"
-msgstr "Battez le Renégat B à queue en coin et obtenez le Drone Fléau."
+msgstr "Vainquez le Renégat Queue-de-coin B et obtenez le Drone du Fléau."
 
 #: src-en/data/hyperspace.xml.append:9884
 msgid ""
@@ -1939,7 +1934,7 @@ msgstr "Relais de Barrière"
 #: src-en/data/hyperspace.xml.append:9888
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_CULT\"]/description"
-msgstr "Battez le Renégat C du Bourgeon et obtenez le Générateur de Barrière."
+msgstr "Vainquez le Renégat Bourgeon C et obtenez le Générateur de Barrière."
 
 #: src-en/data/hyperspace.xml.append:9890
 msgid ""
@@ -1948,12 +1943,12 @@ msgstr "Renégat Vaincu"
 
 #: src-en/data/hyperspace.xml.append:9893
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_NECRO\"]/name"
-msgstr "Dronception"
+msgstr "Droneception"
 
 #: src-en/data/hyperspace.xml.append:9894
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_NECRO\"]/description"
-msgstr "Battez le Renégat C Blasphématoire et obtenez le Drone Nécromancien."
+msgstr "Vainquez le Renégat Blasphème C et obtenez le Drone Nécromancien."
 
 #: src-en/data/hyperspace.xml.append:9896
 msgid ""
@@ -1967,7 +1962,8 @@ msgstr "Gimmick surexploité"
 #: src-en/data/hyperspace.xml.append:9900
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHARD\"]/description"
-msgstr "Battez le Renégat C Auto Éclat-Forgé et obtenez le rayon 'Naginata'."
+msgstr ""
+"Vainquez le Renégat Auto-Forgé d'Éclats C et obtenez le rayon 'Naginata'."
 
 #: src-en/data/hyperspace.xml.append:9902
 msgid ""
@@ -1976,12 +1972,12 @@ msgstr "Renégat Vaincu"
 
 #: src-en/data/hyperspace.xml.append:9905
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHLEG\"]/name"
-msgstr "Prenez garde"
+msgstr "Attention à vous"
 
 #: src-en/data/hyperspace.xml.append:9906
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHLEG\"]/description"
-msgstr "Battez le Renégat B du Désordre et obtenez le Rayon Léviathan."
+msgstr "Vainquez le Renégat Désordre B et obtenez le Rayon Léviathan."
 
 #: src-en/data/hyperspace.xml.append:9908
 msgid ""
@@ -2007,8 +2003,8 @@ msgstr "Recevez la Faveur de la Croissance de Thest."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_ACID\"]/description"
 msgstr ""
-"Montrer un membre d'équipage Acide d'élite ou rare à Thest. \n"
-"\t\t\t\tPendant l'effet ; les membres d'équipage Acides se soignent deux fois plus vite et ne peuvent pas être étourdis."
+"Montrez un membre d'équipage Acide d'élite ou rare à Thest. \n"
+"\t\t\t\tPendant l'effet ; les membres d'équipage Acides guérissent deux fois plus vite et ne peuvent pas être étourdis."
 
 #: src-en/data/hyperspace.xml.append:9919
 msgid ""
@@ -2028,8 +2024,8 @@ msgstr "Recevez la Faveur des Plumes de Thest."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_BIRD\"]/description"
 msgstr ""
-"Montrer un membre d'équipage Gi d'élite ou rare à Thest. \n"
-"\t\t\t\tPendant l'effet ; les membres d'équipage Gi gagnent 0.25x de plus en vitesse de réparation automatique."
+"Montrez un membre d'équipage Gi d'élite ou rare à Thest. \n"
+"\t\t\t\tPendant l'effet ; les membres d'équipage Gi gagnent un bonus de 0.25x à leur vitesse de réparation automatique."
 
 #: src-en/data/hyperspace.xml.append:9928
 msgid ""
@@ -2038,18 +2034,18 @@ msgstr "Faveur Reçue"
 
 #: src-en/data/hyperspace.xml.append:9933
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CULT\"]/name"
-msgstr "Faveur de l'Adoration"
+msgstr "Faveur du Culte"
 
 #: src-en/data/hyperspace.xml.append:9934
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CULT\"]/secretDescription"
-msgstr "Recevez la Faveur de l'Adoration de Thest."
+msgstr "Recevez la Faveur du Culte de Thest."
 
 #: src-en/data/hyperspace.xml.append:9935
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CULT\"]/description"
 msgstr ""
-"Montrer un membre d'équipage Cultiste d'élite ou rare à Thest. \n"
+"Montrez un membre d'équipage Cultiste d'élite ou rare à Thest. \n"
 "\t\t\t\tPendant l'effet ; les Cultistes Vampiflores infligent 25% de dégâts à distance supplémentaires."
 
 #: src-en/data/hyperspace.xml.append:9937
@@ -2071,8 +2067,8 @@ msgstr "Recevez la Faveur de la Résurrection de Thest."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_NECRO\"]/description"
 msgstr ""
-"Montrer un membre d'équipage Hérétique d'élite ou rare à Thest. \n"
-"\t\t\t\tPendant l'effet ; Gagne 1 Essaim de nanites à chaque saut."
+"Montrez un membre d'équipage Hérétique d'élite ou rare à Thest. \n"
+"\t\t\t\tPendant l'effet ; Gagnez 1 Essaim de Nanites à chaque saut."
 
 #: src-en/data/hyperspace.xml.append:9946
 msgid ""
@@ -2093,8 +2089,8 @@ msgstr "Recevez la Faveur de la Fragmentation de Thest."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHARD\"]/description"
 msgstr ""
-"Montrer un membre d'équipage Éclat-Forgé d'élite ou rare à Thest. \n"
-"\t\t\t\tPendant l'effet ; les membres d'équipage Éclat-Forgé infligent 25% de dégâts de sabotage supplémentaires."
+"Montrez un membre d'équipage Forgé d'Éclats d'élite ou rare à Thest. \n"
+"\t\t\t\tPendant l'effet ; les membres d'équipage Forgés d'Éclats infligent 25% de dégâts de sabotage supplémentaires."
 
 #: src-en/data/hyperspace.xml.append:9955
 msgid ""
@@ -2115,7 +2111,7 @@ msgstr "Recevez la Faveur des Mollusques de Thest."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHLEG\"]/description"
 msgstr ""
-"Montrer un membre d'équipage Anarchiste à Thest. \n"
+"Montrez un membre d'équipage Anarchiste à Thest. \n"
 "\t\t\t\tPendant l'effet ; les Coquilles Anarchistes obtiennent l'immunité au contrôle mental et les Limaces Anarchistes gagnent 10% de résistance aux dégâts."
 
 #: src-en/data/hyperspace.xml.append:9964
@@ -2142,8 +2138,8 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_JUSTICE\"]/description"
 msgstr ""
-"Montrer le Justicier Sombre à Thest. \n"
-"\t\t\t\tPendant l'effet ; le Justicier Sombre se soigne 5 PV/s en effectuant un rituel."
+"Montrez le Justicier Obscur à Thest. \n"
+"\t\t\t\tPendant l'effet ; Le Justicier Obscur soigne 5pv/s pendant l'exécution d'un rituel."
 
 #: src-en/data/hyperspace.xml.append:9974
 msgid ""
@@ -2168,8 +2164,8 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_OLD\"]/description"
 msgstr ""
-"Montrer un membre d'équipage Lylmik d'élite ou rare à Thest. \n"
-"\t\t\t\tPendant l'effet ; les membres d'équipage Lylmik gagnent un bonus de dégâts de 10% par membre d'équipage ennemi."
+"Montrez un membre d'équipage Lylmik d'élite ou rare à Thest. \n"
+"\t\t\t\tPendant l'effet ; les membres d'équipage Lylmik gagnent 10% de bonus de dégâts par membre d'équipage ennemi."
 
 #: src-en/data/hyperspace.xml.append:9985
 msgid ""
@@ -2180,64 +2176,62 @@ msgstr "Faveur Reçue"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[2]/section[2]/@text"
-msgstr "Subventions de Corby (OE)"
+msgstr "Dons de Corby (EE)"
 
 #: src-en/data/hyperspace.xml.append:9993
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/name"
-msgstr "Subvention de Blindage Auxiliaire"
+msgstr "Don de Blindage Auxiliaire"
 
 #: src-en/data/hyperspace.xml.append:9994
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/secretDescription"
-msgstr "Recevez la Subvention de Blindage Auxiliaire de Corby."
+msgstr "Recevez le Don de Blindage Auxiliaire de Corby."
 
 #: src-en/data/hyperspace.xml.append:9995
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/description"
 msgstr ""
-"Montrer un Système de boucliers auxiliaires amélioré à Corby. \n"
-"\t\t\t\tPendant l'effet ; Ajoute 1 couche de bouclier d'énergie après le saut."
+"Montrez un Système de Boucliers Auxiliaires amélioré à Corby. \n"
+"\t\t\t\tPendant l'effet ; Ajoute 1 couche de bouclier d'énergie après un saut."
 
 #: src-en/data/hyperspace.xml.append:9997
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/header"
-msgstr "Subvention Reçue"
+msgstr "Don Reçu"
 
 #: src-en/data/hyperspace.xml.append:10002
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/name"
-msgstr "Subvention de Salle des Clones Illégalement Modifiée"
+msgstr "Don de Salle des Clones Illégalement Modifiée"
 
 #: src-en/data/hyperspace.xml.append:10003
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/secretName"
-msgstr "Subvention de ???"
+msgstr "Don de ???"
 
 #: src-en/data/hyperspace.xml.append:10004
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/secretDescription"
-msgstr "Recevez la Subvention de ??? de Corby."
+msgstr "Recevez le Don de ??? de Corby."
 
 #: src-en/data/hyperspace.xml.append:10005
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/description"
 msgstr ""
-"Montrez un Système de Salle des Clones Modifiée amélioré à Corby. "
-"\\n\\t\\t\\t\\tPendant l'effet ; Fait apparaître un membre d'équipage "
-"générique faible avec une durée de vie de 20 secondes à bord de votre "
-"vaisseau après chaque saut."
+"Montrez un Système de Salle des Clones Modifiée amélioré à Corby. \n"
+"\t\t\t\tPendant l'effet ; Fait apparaître un membre d'équipage générique faible avec une durée de vie de 20 secondes à bord de votre vaisseau après chaque saut."
 
 #: src-en/data/hyperspace.xml.append:10007
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/header"
-msgstr "Subvention Reçue"
+msgstr "Don Reçu"
 
 #: src-en/data/hyperspace.xml.append:10015
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[3]/section/@text"
-msgstr "Musique (OE)"
+msgstr "Musique (EE)"
 
 #: src-en/data/hyperspace.xml.append:10017
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_ACID\"]/name"
@@ -2278,7 +2272,7 @@ msgstr ""
 
 #: src-en/data/hyperspace.xml.append:10090
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_OLD_2\"]/name"
-msgstr "Cœur Lylmik"
+msgstr "Noyau Lylmik"
 
 #: src-en/data/hyperspace.xml.append:10091
 msgid ""

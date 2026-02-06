@@ -9,8 +9,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_START_AEA_NECRO\"]/text[1]"
 msgstr ""
-"Les Hérétiques Engi sont un groupe de Séparatistes exclus de la société "
-"Séparatiste en raison de leur incapacité à faire preuve d'empathie ou de "
+"Les Hérétiques Engi sont un groupe de Séparatistes mis au ban de la société "
+"Séparatiste en raison de leur incapacité à ressentir de l'empathie ou de "
 "leur haine générale de la vie organique."
 
 #: src-en/data/events_special_aea_necro.xml:12
@@ -34,13 +34,13 @@ msgstr ""
 #: src-en/data/events_special_aea_necro.xml:34
 msgid "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/text"
 msgstr ""
-"Vous êtes hélé par un étrange vaisseau engi. « Bienvenue dans notre domaine,"
-" veuillez nous remettre tous les êtres organiques. »"
+"Vous êtes hélé par un étrange vaisseau engi. \" Bienvenue dans notre "
+"domaine, veuillez nous remettre tous les êtres organiques. \""
 
 #: src-en/data/events_special_aea_necro.xml:36
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[1]/text"
-msgstr "Frayez-vous un chemin !."
+msgstr "Frayez-vous un chemin par la force !"
 
 #: src-en/data/events_special_aea_necro.xml:38
 msgid ""
@@ -56,15 +56,15 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and not(@lvl)]/text"
-msgstr "Subir l'inspection."
+msgstr "Subir une inspection."
 
 #: src-en/data/events_special_aea_necro.xml:49
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"L'engi détecte immédiatement votre équipage organique et son vaisseau se met"
-" en position d'attaque."
+"L'engi détecte immédiatement votre équipage organique et leur vaisseau se "
+"met en position d'attaque."
 
 #: src-en/data/events_special_aea_necro.xml:52
 msgid ""
@@ -76,7 +76,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/text"
-msgstr "Subir l'inspection."
+msgstr "Subir une inspection."
 
 #: src-en/data/events_special_aea_necro.xml:60
 msgid ""
@@ -84,8 +84,8 @@ msgid ""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
 "Vous vous soumettez à l'inspection des Hérétiques Engi et ils ne trouvent "
-"aucune forme de vie organique à bord. Vous pouvez entrer librement dans leur"
-" secteur sans aucun conflit."
+"aucune vie organique à bord. Vous êtes capable d'entrer librement dans leur "
+"secteur sans aucun conflit."
 
 #: src-en/data/events_special_aea_necro.xml:62
 msgid ""
@@ -102,7 +102,7 @@ msgstr "(Membre d'équipage Hérétique) Demander des provisions."
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[2]/choice[@req=\"LIST_CREW_AEA_NECRO\"]/event/text"
 msgstr ""
-"Le garde, voyant un autre Hérétique à bord de votre vaisseau, accepte et "
+"La garde, voyant un autre Hérétique à bord de votre vaisseau, accepte et "
 "transfère des provisions."
 
 #: src-en/data/events_special_aea_necro.xml:73
@@ -144,9 +144,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"GUARD_AEA_NECRO_DEADCREW\"]/text"
 msgstr ""
-"Vous avez vaincu le garde Hérétique. Sans aucun des Hérétiques Engi à bord "
-"pour vous arrêter, vous pouvez fouiller leur cargaison. Vous trouvez une "
-"arme à rapporter au vaisseau et passez à la démolition de leur coque."
+"Vous avez vaincu la garde Hérétique. Sans aucun des Hérétiques Engi à bord "
+"pour vous arrêter, vous pouvez enquêter sur leur cargaison. Vous trouvez une"
+" arme à ramener au vaisseau, et passez à démanteler leur coque."
 
 #: src-en/data/events_special_aea_necro.xml:115
 msgid ""
@@ -157,9 +157,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"GUARD_AEA_NECRO_FOLLOWUP\"]/text"
 msgstr ""
-"En tuant le garde Hérétique, vous avez sans doute provoqué l'envoi de "
-"renforts pour vous traquer. Faites attention où vous mettez les pieds en "
-"explorant le secteur."
+"En tuant la garde Hérétique, vous les avez sans aucun doute fait dépêcher "
+"des renforts pour vous traquer. Soyez prudent en explorant le secteur."
 
 #: src-en/data/events_special_aea_necro.xml:134
 msgid ""
@@ -190,8 +189,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"REINFORCEMENTS_AEA_NECRO\"]/text"
 msgstr ""
-"Les Hérétiques Engi n'ont pas bien pris votre entrée peu amicale dans le "
-"secteur et il semble qu'ils aient envoyé un vaisseau spécifiquement pour "
+"Les Hérétiques Engi n'ont pas bien pris votre entrée moins qu'amicale dans "
+"le secteur et il semble qu'il ait dépêché un vaisseau spécifiquement pour "
 "vous arrêter."
 
 #: src-en/data/events_special_aea_necro.xml:154
@@ -203,10 +202,10 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"START_AEA_NECRO_UNIQUE\"]/text"
 msgstr ""
-"Vous êtes arrivé au centre des opérations hérétiques. Ce secteur est "
-"constamment menacé d'effondrement en raison des attaques incessantes des "
-"divers ennemis des Hérétiques, et c'est aussi l'un des secteurs hérétiques "
-"les mieux défendus."
+"Vous êtes arrivé au centre des opérations Hérétiques. Ce secteur est "
+"constamment menacé d'effondrement en raison des attaques constantes des "
+"divers ennemis des Hérétiques. En tant que tel, c'est aussi l'un des "
+"secteurs hérétiques les mieux défendus."
 
 #: src-en/data/events_special_aea_necro.xml:180
 msgid ""
@@ -216,13 +215,13 @@ msgstr ""
 #: src-en/data/events_special_aea_necro.xml:186
 msgid "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/text"
 msgstr ""
-"Vous êtes hélé par un étrange vaisseau engi. \"Seuls ceux sans organismes "
-"sont autorisés à passer, veuillez vous préparer à l'inspection.\""
+"Vous êtes hélé par un étrange vaisseau engi. \" Seuls ceux sans organismes "
+"sont autorisés à passer, veuillez vous préparer à l'inspection. \""
 
 #: src-en/data/events_special_aea_necro.xml:188
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[1]/text"
-msgstr "Frayez-vous un chemin !."
+msgstr "Frayez-vous un chemin par la force !"
 
 #: src-en/data/events_special_aea_necro.xml:190
 msgid ""
@@ -238,15 +237,15 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and not(@lvl)]/text"
-msgstr "Subir l'inspection."
+msgstr "Subir une inspection."
 
 #: src-en/data/events_special_aea_necro.xml:201
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"L'engi détecte immédiatement votre équipage organique et son vaisseau se met"
-" en position d'attaque."
+"L'engi détecte immédiatement votre équipage organique et leur vaisseau se "
+"met en position d'attaque."
 
 #: src-en/data/events_special_aea_necro.xml:204
 msgid ""
@@ -258,7 +257,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/text"
-msgstr "Subir l'inspection."
+msgstr "Subir une inspection."
 
 #: src-en/data/events_special_aea_necro.xml:212
 msgid ""
@@ -266,8 +265,8 @@ msgid ""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
 "Vous vous soumettez à l'inspection des Hérétiques Engi et ils ne trouvent "
-"aucune forme de vie organique à bord. Vous pouvez entrer librement dans leur"
-" secteur sans aucun conflit."
+"aucune vie organique à bord. Vous êtes capable d'entrer librement dans leur "
+"secteur sans aucun conflit."
 
 #: src-en/data/events_special_aea_necro.xml:214
 msgid ""
@@ -284,7 +283,7 @@ msgstr "(Membre d'équipage Hérétique) Demander des provisions."
 msgid ""
 "data/events_special_aea_necro.xml$/dummyroot/FTL/event[8]/choice[@req=\"LIST_CREW_AEA_NECRO\"]/event/text"
 msgstr ""
-"Le garde, voyant un autre Hérétique à bord de votre vaisseau, accepte et "
+"La garde, voyant un autre Hérétique à bord de votre vaisseau, accepte et "
 "transfère des provisions."
 
 #: src-en/data/events_special_aea_necro.xml:225
@@ -326,9 +325,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"GUARD_AEA_NECRO_DEADCREW_UNIQUE\"]/text"
 msgstr ""
-"Vous avez vaincu le garde Hérétique. Sans aucun des Hérétiques Engi à bord "
-"pour vous arrêter, vous pouvez fouiller leur cargaison. Vous trouvez une "
-"arme à rapporter au vaisseau et passez à la démolition de leur coque."
+"Vous avez vaincu la garde Hérétique. Sans aucun des Hérétiques Engi à bord "
+"pour vous arrêter, vous pouvez enquêter sur leur cargaison. Vous trouvez une"
+" arme à ramener au vaisseau, et passez à démanteler leur coque."
 
 #: src-en/data/events_special_aea_necro.xml:267
 msgid ""
@@ -339,9 +338,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"GUARD_AEA_NECRO_FOLLOWUP_UNIQUE\"]/text"
 msgstr ""
-"En tuant le garde Hérétique, vous avez sans doute provoqué l'envoi de "
-"renforts pour vous traquer. Faites attention où vous mettez les pieds en "
-"explorant le secteur."
+"En tuant la garde Hérétique, vous les avez sans aucun doute fait dépêcher "
+"des renforts pour vous traquer. Soyez prudent en explorant le secteur."
 
 #: src-en/data/events_special_aea_necro.xml:287
 msgid ""
@@ -372,8 +370,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"REINFORCEMENTS_AEA_NECRO_UNIQUE\"]/text"
 msgstr ""
-"Les Hérétiques Engi n'ont pas bien pris votre entrée peu amicale dans le "
-"secteur et il semble qu'ils aient envoyé un vaisseau spécifiquement pour "
+"Les Hérétiques Engi n'ont pas bien pris votre entrée moins qu'amicale dans "
+"le secteur et il semble qu'il ait dépêché un vaisseau spécifiquement pour "
 "vous arrêter."
 
 #: src-en/data/events_special_aea_necro.xml:307
@@ -405,9 +403,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"TRANSPORT_AEA_NECRO_LOOT\"]/text"
 msgstr ""
-"Cette balise abrite un transporteur Hérétique. Il est probable que le "
-"vaisseau transporte de la technologie spéciale. Si vous parvenez à tuer "
-"l'équipage à bord, la cargaison sera à vous."
+"Cette balise abrite un transporteur Hérétique. Il est sûr de parier que le "
+"vaisseau transporte très probablement de la technologie spéciale. Si vous "
+"pouvez tuer l'équipage à bord, la cargaison sera à vous."
 
 #: src-en/data/events_special_aea_necro.xml:359
 msgid ""
@@ -454,8 +452,8 @@ msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_DESTROYED_AEA_NECRO\"]/text[1]"
 msgstr ""
 "Détruire les vaisseaux Hérétiques est peut-être l'une des meilleures choses "
-"que vous puissiez faire pour cet univers, il est certain qu'ils penseraient "
-"la même chose de la destruction de la vie organique."
+"que vous puissiez faire pour cet univers, il ne fait aucun doute qu'ils "
+"penseraient la même chose à propos de la destruction de la vie organique."
 
 #: src-en/data/events_special_aea_necro.xml:406
 msgid ""
@@ -470,43 +468,43 @@ msgid ""
 msgstr ""
 "Vous vous demandez si les Hérétiques ressentent enfin quelque chose "
 "lorsqu'ils sont consumés par les explosions de leurs vaisseaux. Peut-être "
-"qu'à leurs derniers instants, ils comprennent le tourment qu'ils infligent à"
-" la vie organique."
+"dans leurs derniers instants comprennent-ils le tourment qu'ils infligent à "
+"la vie organique."
 
 #: src-en/data/events_special_aea_necro.xml:410
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"DESTROYED_AEA_NECRO_NECRO_DRONE\"]/text"
 msgstr ""
-"À votre surprise, un des drones de l'Hérétique a survécu à l'explosion. Il "
-"est un peu carbonisé par l'explosion mais avec quelques réparations vous "
-"pouvez le récupérer."
+"À votre surprise, l'un des drones de l'Hérétique a survécu à l'explosion. Il"
+" est un peu croustillant à cause de l'explosion, mais avec quelques "
+"réparations, vous pouvez le récupérer."
 
 #: src-en/data/events_special_aea_necro.xml:428
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_NECRO\"]/text[1]"
 msgstr ""
-"Alors que vous rôdez parmi les restes du vaisseau Hérétique, vous vous "
-"demandez si un autre Hérétique Engi ne viendra pas les réanimer..."
+"Alors que vous traquez parmi les restes du vaisseau de l'Hérétique, vous "
+"vous demandez si un autre Hérétique Engi ne viendra pas les réanimer..."
 
 #: src-en/data/events_special_aea_necro.xml:429
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_NECRO\"]/text[2]"
 msgstr ""
 "Les Hérétiques Engi sont maintenant brisés au sol, de la même manière qu'ils"
-" l'ont fait pour des centaines de formes de vie organique auparavant."
+" l'ont fait à des centaines de formes de vie organique auparavant."
 
 #: src-en/data/events_special_aea_necro.xml:430
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_NECRO\"]/text[3]"
 msgstr ""
 "Vous ne vous sentez pas coupable d'avoir détruit ces Hérétiques Engi, ils "
-"ont largement mérité tout ce qui leur est arrivé."
+"ont fait plus que mériter tout ce qui leur est arrivé."
 
 #: src-en/data/events_special_aea_necro.xml:431
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_NECRO\"]/text[4]"
 msgstr ""
-"Il vous est encore inconnu si les Hérétiques Engi ont jamais ressenti la "
+"Il est encore inconnu de vous si les Hérétiques Engi ont jamais ressenti la "
 "douleur qu'ils infligent aux autres, peut-être leur avez-vous enfin donné "
 "cela aujourd'hui."
 
@@ -514,22 +512,22 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"DEAD_CREW_AEA_NECRO_NECRO_DRONE\"]/text"
 msgstr ""
-"Maintenant vidé de son équipage, vous trouvez un des drones de l'Hérétique à"
-" bord. Vous le ramenez avec vous avant de démanteler le vaisseau."
+"Maintenant vide de son équipage, vous trouvez l'un des drones de l'Hérétique"
+" à bord. Vous le ramenez avec vous avant de démanteler le vaisseau."
 
 #: src-en/data/events_special_aea_necro.xml:443
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_ESCAPE_AEA_NECRO\"]/text[1]"
 msgstr ""
-"Le vaisseau Hérétique met ses moteurs en marche et s'éloigne de vous. Il "
-"essaie de s'échapper !"
+"Le vaisseau Hérétique allume ses moteurs et s'écarte de vous. Il essaie de "
+"s'échapper !"
 
 #: src-en/data/events_special_aea_necro.xml:444
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_ESCAPE_AEA_NECRO\"]/text[2]"
 msgstr ""
-"Vous détectez de fortes fluctuations de puissance moteur sur le vaisseau "
-"Hérétique. Il essaie de s'échapper."
+"Vous détectez des pics élevés de puissance moteur sur le vaisseau Hérétique."
+" Il essaie de s'échapper."
 
 #: src-en/data/events_special_aea_necro.xml:457
 msgid ""
@@ -542,23 +540,23 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_NECRO\"]/text[2]"
 msgstr ""
-"Le vaisseau Hérétique s'éloigne. Vous vous demandez si les Hérétiques Engi à"
-" bord ont ressenti de la peur en s'échappant, vous n'êtes même pas sûr "
-"qu'ils ressentent quoi que ce soit."
+"Le vaisseau Hérétique saute. Vous vous demandez si les Hérétiques Engi à "
+"bord ont ressenti de la peur en s'échappant, vous n'êtes même pas sûr qu'ils"
+" ressentent quoi que ce soit."
 
 #: src-en/data/events_special_aea_necro.xml:459
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_NECRO\"]/text[3]"
 msgstr ""
-"La puissance des moteurs du vaisseau Hérétique monte encore plus haut et le "
-"vaisseau s'éloigne."
+"La puissance moteur du vaisseau Hérétique monte encore plus haut et le "
+"vaisseau saute."
 
 #: src-en/data/events_special_aea_necro.xml:462
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"GOTAWAY_AEA_NECRO_REMAINS\"]/text"
 msgstr ""
-"Alors que le vaisseau Hérétique s'éloigne, vous remarquez une traînée de "
-"ferraille laissée par le vaisseau brisé. Au moins, vous aurez quelque chose "
+"Alors que le vaisseau Hérétique saute, vous remarquez une traînée de "
+"ferraille laissée par le vaisseau cassé. Au moins, vous aurez quelque chose "
 "à démanteler."
 
 #: src-en/data/events_special_aea_necro.xml:469
@@ -569,12 +567,12 @@ msgstr ""
 #: src-en/data/events_special_aea_necro.xml:473
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"SURRENDER_AEA_NECRO\"]/choice[@req=\"aea_necro_engi\"]/text"
-msgstr "(Hérétique Engi) Négocier un accord différent."
+msgstr "(Hérétique Engi) Négociez un accord différent."
 
 #: src-en/data/events_special_aea_necro.xml:480
 msgid ""
 "data/events_special_aea_necro.xml$//event[@name=\"SURRENDER_AEA_NECRO\"]/choice[@req=\"aea_necro_lich\"]/text"
-msgstr "(Liche Engi) Exiger plus d'eux."
+msgstr "(Liche Engi) Exigez plus d'eux."
 
 #: src-en/data/events_special_aea_necro.xml:492
 msgid ""
@@ -604,7 +602,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//textList[@name=\"TEXT_SURRENDER_AEA_NECRO\"]/text[5]"
 msgstr ""
-"\"Notre désir de [survivre] l'emporte sur votre désir de nous [tuer]. "
+"\"Notre désir de [survivre] l'emporte sur votre désir de [nous tuer]. "
 "Laissez-nous partir.\""
 
 #: src-en/data/events_special_aea_necro.xml:507
@@ -623,15 +621,14 @@ msgid ""
 msgstr ""
 "Vous remarquez que les moteurs de l'Auto commencent à briller encore plus "
 "fort. Les Hérétiques vous avertissent qu'il essaie de s'échapper, et que "
-"vous devez le détruire avant qu'il ne le puisse."
+"vous devez le tuer avant qu'il ne le puisse."
 
 #: src-en/data/events_special_aea_necro.xml:557
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AUTO_AEA_NECRO\"]/gotaway/text"
 msgstr ""
-"L'Auto s'éloigne avant que vous ne puissiez porter le coup de grâce. Vous "
-"savez qu'il alertera la flotte, et que les Hérétiques ne seront pas "
-"contents."
+"L'Auto saute avant que vous ne puissiez porter le coup final. Vous savez "
+"qu'il alertera la flotte, et que les Hérétiques ne seront pas contents."
 
 #: src-en/data/events_special_aea_necro.xml:560
 msgid ""
@@ -651,26 +648,26 @@ msgstr "Contacter les Hérétiques."
 #: src-en/data/events_special_aea_necro.xml:576
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_PIRATE\"]/surrender/text"
-msgstr "\"Vous avez gagné, s'il vous plaît, laissez-nous vivre.\""
+msgstr "\"Vous gagnez, s'il vous plaît laissez-nous vivre.\""
 
 #: src-en/data/events_special_aea_necro.xml:578
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_PIRATE\"]/surrender/choice[1]/text"
-msgstr "Trouver un arrangement entre les pirates et l'Hérétique."
+msgstr "Trouver un arrangement entre les Pirates et l'Hérétique."
 
 #: src-en/data/events_special_aea_necro.xml:580
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_PIRATE\"]/surrender/choice[1]/event/text"
 msgstr ""
-"Les Pirates sont catégoriques sur la conservation du vaisseau, l'Hérétique "
-"Engi finit par capituler et demande à rejoindre votre vaisseau à la place."
+"Les Pirates sont catégoriques sur la conservation du vaisseau, finalement "
+"l'Hérétique Engi capitule et demande à rejoindre votre vaisseau à la place."
 
 #: src-en/data/events_special_aea_necro.xml:591
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_PIRATE\"]/destroyed/text"
 msgstr ""
-"Vous avez détruit le vaisseau contre la volonté de l'Hérétique. Le butin est"
-" décent, au moins."
+"Vous avez détruit le vaisseau contre la volonté de l'Hérétique. Le rendement"
+" est décent, au moins."
 
 #: src-en/data/events_special_aea_necro.xml:594
 msgid ""
@@ -681,9 +678,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_PIRATE\"]/deadCrew/text"
 msgstr ""
-"Tous les Fantômes étant morts, l'Hérétique peut récupérer son vaisseau. "
-"\"Grande gratitude. Mon [vaisseau] est intact. Les intrus ont laissé quelque"
-" chose, prenez-le [avec] vous.\""
+"Avec tous les Fantômes morts, l'Hérétique peut récupérer son vaisseau. \" "
+"Beaucoup de gratitude. Mon [vaisseau] est intact. Les intrus ont laissé "
+"quelque chose, prenez-le [avec] vous. \""
 
 #: src-en/data/events_special_aea_necro.xml:603
 msgid ""
@@ -694,8 +691,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_PIRATE_PLATFORM\"]/destroyed/text"
 msgstr ""
-"Vous avez détruit le vaisseau contre la volonté des Hérétiques. Le butin est"
-" décent, au moins. Les Hérétiques, bien que déçus par la destruction "
+"Vous avez détruit le vaisseau contre la volonté des Hérétiques. Le rendement"
+" est décent, au moins. Les Hérétiques, bien que déçus par la destruction "
 "complète, vous envoient quand même la récompense."
 
 #: src-en/data/events_special_aea_necro.xml:621
@@ -707,10 +704,10 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_PIRATE_PLATFORM\"]/deadCrew/text"
 msgstr ""
-"Tous les pirates étant morts, les Hérétiques vous contactent. \"C'était "
-"[très] impressionnant Capitaine, vos compétences à traiter avec ces "
-"organiques sont à admirer, je souhaite vous rejoindre afin qu'à l'avenir je "
-"puisse participer à vos combats contre les organiques.\""
+"Avec tous les pirates morts, les Hérétiques vous contactent. \" C'était "
+"[très] impressionnant, Capitaine, vos compétences à traiter avec ces "
+"organiques sont à admirer. Je souhaite vous rejoindre afin qu'à l'avenir je "
+"puisse participer à vos combats avec les organiques. \""
 
 #: src-en/data/events_special_aea_necro.xml:631
 msgid ""
@@ -721,7 +718,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_ZOLTAN_AUTO_FIGHT_AEA_NECRO\"]/destroyed/text"
 msgstr ""
-"L'auto-vaisseau a été détruit. Vous démanteler les restes mais ne trouvez "
+"Le vaisseau Auto a été détruit. Vous démanteler les restes mais ne trouvez "
 "rien d'intéressant."
 
 #: src-en/data/events_special_aea_necro.xml:652
@@ -734,8 +731,8 @@ msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_BOSS\"]/destroyed/text"
 msgstr ""
 "Vous avez détruit le croiseur Hérétique. Alors que vous fouillez l'énorme "
-"épave créée par sa défaite, vous trouvez une base de données intacte, et sur"
-" celle-ci, les schémas d'un vaisseau."
+"épave créée par sa défaite, vous trouvez une banque de données intacte, et "
+"sur celle-ci les schémas d'un vaisseau."
 
 #: src-en/data/events_special_aea_necro.xml:682
 msgid ""
@@ -746,9 +743,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_BOSS\"]/deadCrew/text"
 msgstr ""
-"Vous avez débarrassé le grand croiseur Hérétique de son équipage. Alors que "
-"vous fouillez l'énorme carcasse créée par sa défaite, vous trouvez une base "
-"de données intacte, et sur celle-ci, les schémas d'un vaisseau."
+"Vous avez vidé le grand croiseur Hérétique de son équipage. Alors que vous "
+"fouillez l'énorme carcasse créée par sa défaite, vous trouvez une banque de "
+"données intacte, et sur celle-ci les schémas d'un vaisseau."
 
 #: src-en/data/events_special_aea_necro.xml:692
 msgid ""
@@ -781,8 +778,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_necro.xml$//ship[@name=\"SHIP_AEA_NECRO_ANGEL\"]/deadCrew/text"
 msgstr ""
-"Vous avez débarrassé le grand croiseur Hérétique de son équipage, vous "
-"commencez à récupérer le vaisseau."
+"Vous avez vidé le grand croiseur Hérétique de son équipage, vous commencez à"
+" récupérer le vaisseau."
 
 #: src-en/data/events_special_aea_necro.xml:731
 msgid ""

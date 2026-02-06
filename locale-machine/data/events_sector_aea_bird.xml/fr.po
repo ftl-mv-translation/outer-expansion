@@ -23,9 +23,9 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:58
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/text"
 msgstr ""
-"Vous êtes tombé sur un lourd transporteur Gi, il semble qu'ils servent de "
-"station d'approvisionnement mobile, distribuant des fournitures aux "
-"vaisseaux alliés de passage."
+"Vous êtes tombé sur un lourd transporteur Engi, il semble qu'il serve de "
+"station de ravitaillement mobile, distribuant des ressources aux vaisseaux "
+"alliés de passage."
 
 #: src-en/data/events_sector_aea_bird.xml:61
 msgid ""
@@ -45,13 +45,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:88
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[4]/text"
-msgstr "Attaquez le transport !."
+msgstr "Attaquez le transporteur !"
 
 #: src-en/data/events_sector_aea_bird.xml:90
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[4]/event/text"
 msgstr ""
-"Personne n'est en sécurité avec vous, pas même les transports de "
+"Personne n'est à l'abri de vous, pas même les transporteurs de "
 "ravitaillement alliés."
 
 #: src-en/data/events_sector_aea_bird.xml:93
@@ -67,7 +67,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:101
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[5]/event/text"
-msgstr "Vous n'êtes pas intéressé par les fournitures. Vous les ignorez."
+msgstr "Vous n'êtes pas intéressé par les ressources. Vous les ignorez."
 
 #: src-en/data/events_sector_aea_bird.xml:103
 msgid ""
@@ -83,17 +83,17 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLIES_KILL\"]/text"
 msgstr ""
-"Votre attaque inutile, non provoquée et barbare sur un transport de "
+"Votre attaque inutile, non provoquée et barbare sur un transporteur de "
 "ravitaillement allié a été un succès, si l'on peut appeler cela un succès. "
-"Vous démanteler ce qui reste."
+"Vous démantelé ce qu'il en reste."
 
 #: src-en/data/events_sector_aea_bird.xml:119
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/text"
 msgstr ""
-"Une navette Gi endommagée flotte près de la balise. \"Oh, merci la "
-"fédération d'être là, le vaisseau-mère auquel j'étais amarré a subi une "
-"déconstruction catastrophique et a endommagé la navette dans l'explosion. Je"
-" suis technicien moteur et je suis sûr que mes compétences pourraient vous "
+"Une navette Engi endommagée flotte près de la balise. \"Oh, Dieu merci, vous"
+" êtes là, le vaisseau-mère auquel j'étais amarré a subi une déconstruction "
+"catastrophique et la navette a été endommagée dans l'explosion. Je suis "
+"technicien en moteurs et je suis sûr que mes compétences pourraient vous "
 "être utiles.\""
 
 #: src-en/data/events_sector_aea_bird.xml:122
@@ -104,7 +104,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:124
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/choice[1]/event/text"
-msgstr "L'officier Gi est reconnaissant pour votre aide."
+msgstr "L'officier Engi est reconnaissant de votre aide."
 
 #: src-en/data/events_sector_aea_bird.xml:129
 msgid ""
@@ -114,16 +114,16 @@ msgstr "Proposez de les déposer à la station la plus proche."
 #: src-en/data/events_sector_aea_bird.xml:131
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/choice[2]/event/text"
-msgstr "\"Oh... ok. N'hésitez pas à piller ce qui reste dans la navette.\""
+msgstr "\"Oh... d'accord. N'hésitez pas à piller ce qui reste dans la navette.\""
 
 #: src-en/data/events_sector_aea_bird.xml:138
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/text"
 msgstr ""
 "Vous êtes arrivé sur une grande planète peuplée, vous êtes immédiatement "
-"bombardé de publicités concernant une sorte de compétition se déroulant à la"
-" surface. En y regardant de plus près, il semble qu'ils jouent à une sorte "
-"de jeu de sport où deux équipes alternent entre le batting et le catching, "
-"ils appellent ça le cricket."
+"bombardé de publicités concernant une sorte de compétition ayant lieu à la "
+"surface. En y regardant de plus près, il semble qu'ils jouent à un jeu de "
+"sport où deux équipes alternent entre frapper et attraper, ils appellent ça "
+"le cricket."
 
 #: src-en/data/events_sector_aea_bird.xml:141
 msgid ""
@@ -163,7 +163,7 @@ msgstr "Ignorez l'événement."
 #: src-en/data/events_sector_aea_bird.xml:167
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[7]/event/text"
-msgstr "Vous n'êtes pas intéressé par les fournitures. Vous les ignorez."
+msgstr "Vous n'êtes pas intéressé par les ressources. Vous les ignorez."
 
 #: src-en/data/events_sector_aea_bird.xml:169
 msgid ""
@@ -179,8 +179,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[1]/text"
 msgstr ""
-"Vous regardez depuis le bord de votre siège alors que le match se joue à la "
-"dernière seconde."
+"Vous regardez, au bord de votre siège, le match se jouer à la dernière "
+"seconde."
 
 #: src-en/data/events_sector_aea_bird.xml:187
 msgid ""
@@ -208,8 +208,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[2]/text"
 msgstr ""
-"Vous regardez depuis le bord de votre siège alors que le match se joue à la "
-"dernière seconde."
+"Vous regardez, au bord de votre siège, le match se jouer à la dernière "
+"seconde."
 
 #: src-en/data/events_sector_aea_bird.xml:207
 msgid ""
@@ -220,15 +220,15 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[2]/choice/event/text"
 msgstr ""
-"Vous applaudissez alors que votre équipe parvient à arracher la victoire "
-"dans les dernières minutes, vous allez collecter vos gains."
+"Vous acclamez votre équipe qui parvient à remporter la victoire dans les "
+"dernières minutes, vous allez chercher vos gains."
 
 #: src-en/data/events_sector_aea_bird.xml:217
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[3]/text"
 msgstr ""
 "Il est clair dès le début qu'une équipe est bien meilleure que l'autre, et "
-"dans ce cas, c'est votre équipe qui a du mal."
+"dans ce cas, c'est votre équipe qui est en difficulté."
 
 #: src-en/data/events_sector_aea_bird.xml:222
 msgid ""
@@ -239,7 +239,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[3]/choice/event/text"
 msgstr ""
-"Vous continuez à regarder jusqu'à la fin, cependant il était presque "
+"Vous continuez à regarder jusqu'à la fin, cependant, il était presque "
 "impossible pour votre équipe de revenir."
 
 #: src-en/data/events_sector_aea_bird.xml:226
@@ -274,7 +274,7 @@ msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[5]/text"
 msgstr ""
 "Il est clair dès le début qu'une équipe est bien meilleure que l'autre, et "
-"dans ce cas, c'est votre équipe qui a du mal."
+"dans ce cas, c'est votre équipe qui est en difficulté."
 
 #: src-en/data/events_sector_aea_bird.xml:257
 msgid ""
@@ -285,15 +285,15 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[5]/choice/event/text"
 msgstr ""
-"Étonnamment, votre équipe parvient à remonter et à dépasser l'autre équipe, "
-"remportant le match, vous collectez vos gains."
+"Étonnamment, votre équipe parvient à reprendre l'avantage et à dépasser "
+"l'autre équipe, remportant le match, vous collectez vos gains."
 
 #: src-en/data/events_sector_aea_bird.xml:269
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[1]/text"
 msgstr ""
-"Vous regardez depuis le bord de votre siège alors que le match se joue à la "
-"dernière seconde."
+"Vous regardez, au bord de votre siège, le match se jouer à la dernière "
+"seconde."
 
 #: src-en/data/events_sector_aea_bird.xml:274
 msgid ""
@@ -321,8 +321,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[2]/text"
 msgstr ""
-"Vous regardez depuis le bord de votre siège alors que le match se joue à la "
-"dernière seconde."
+"Vous regardez, au bord de votre siège, le match se jouer à la dernière "
+"seconde."
 
 #: src-en/data/events_sector_aea_bird.xml:294
 msgid ""
@@ -333,15 +333,15 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[2]/choice/event/text"
 msgstr ""
-"Vous applaudissez alors que votre équipe parvient à arracher la victoire "
-"dans les dernières minutes, vous allez collecter vos gains."
+"Vous acclamez votre équipe qui parvient à remporter la victoire dans les "
+"dernières minutes, vous allez chercher vos gains."
 
 #: src-en/data/events_sector_aea_bird.xml:304
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[3]/text"
 msgstr ""
 "Il est clair dès le début qu'une équipe est bien meilleure que l'autre, et "
-"dans ce cas, c'est votre équipe qui a du mal."
+"dans ce cas, c'est votre équipe qui est en difficulté."
 
 #: src-en/data/events_sector_aea_bird.xml:309
 msgid ""
@@ -352,7 +352,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[3]/choice/event/text"
 msgstr ""
-"Vous continuez à regarder jusqu'à la fin, cependant il était presque "
+"Vous continuez à regarder jusqu'à la fin, cependant, il était presque "
 "impossible pour votre équipe de revenir."
 
 #: src-en/data/events_sector_aea_bird.xml:313
@@ -387,7 +387,7 @@ msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[5]/text"
 msgstr ""
 "Il est clair dès le début qu'une équipe est bien meilleure que l'autre, et "
-"dans ce cas, c'est votre équipe qui a du mal."
+"dans ce cas, c'est votre équipe qui est en difficulté."
 
 #: src-en/data/events_sector_aea_bird.xml:344
 msgid ""
@@ -398,15 +398,15 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[5]/choice/event/text"
 msgstr ""
-"Étonnamment, votre équipe parvient à remonter et à dépasser l'autre équipe, "
-"remportant le match, vous collectez vos gains."
+"Étonnamment, votre équipe parvient à reprendre l'avantage et à dépasser "
+"l'autre équipe, remportant le match, vous collectez vos gains."
 
 #: src-en/data/events_sector_aea_bird.xml:356
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[1]/text"
 msgstr ""
-"Vous regardez depuis le bord de votre siège alors que le match se joue à la "
-"dernière seconde."
+"Vous regardez, au bord de votre siège, le match se jouer à la dernière "
+"seconde."
 
 #: src-en/data/events_sector_aea_bird.xml:361
 msgid ""
@@ -434,8 +434,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[2]/text"
 msgstr ""
-"Vous regardez depuis le bord de votre siège alors que le match se joue à la "
-"dernière seconde."
+"Vous regardez, au bord de votre siège, le match se jouer à la dernière "
+"seconde."
 
 #: src-en/data/events_sector_aea_bird.xml:381
 msgid ""
@@ -446,15 +446,15 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[2]/choice/event/text"
 msgstr ""
-"Vous applaudissez alors que votre équipe parvient à arracher la victoire "
-"dans les dernières minutes, vous allez collecter vos gains."
+"Vous acclamez votre équipe qui parvient à remporter la victoire dans les "
+"dernières minutes, vous allez chercher vos gains."
 
 #: src-en/data/events_sector_aea_bird.xml:391
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[3]/text"
 msgstr ""
 "Il est clair dès le début qu'une équipe est bien meilleure que l'autre, et "
-"dans ce cas, c'est votre équipe qui a du mal."
+"dans ce cas, c'est votre équipe qui est en difficulté."
 
 #: src-en/data/events_sector_aea_bird.xml:396
 msgid ""
@@ -465,7 +465,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[3]/choice/event/text"
 msgstr ""
-"Vous continuez à regarder jusqu'à la fin, cependant il était presque "
+"Vous continuez à regarder jusqu'à la fin, cependant, il était presque "
 "impossible pour votre équipe de revenir."
 
 #: src-en/data/events_sector_aea_bird.xml:400
@@ -500,7 +500,7 @@ msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[5]/text"
 msgstr ""
 "Il est clair dès le début qu'une équipe est bien meilleure que l'autre, et "
-"dans ce cas, c'est votre équipe qui a du mal."
+"dans ce cas, c'est votre équipe qui est en difficulté."
 
 #: src-en/data/events_sector_aea_bird.xml:431
 msgid ""
@@ -511,8 +511,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[5]/choice/event/text"
 msgstr ""
-"Étonnamment, votre équipe parvient à remonter et à dépasser l'autre équipe, "
-"remportant le match, vous collectez vos gains."
+"Étonnamment, votre équipe parvient à reprendre l'avantage et à dépasser "
+"l'autre équipe, remportant le match, vous collectez vos gains."
 
 #: src-en/data/events_sector_aea_bird.xml:443
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/text"
@@ -566,8 +566,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/text"
 msgstr ""
-"La balise est en orbite d'une planète industrielle Gi. Cette planète abrite certaines des grandes usines de fabrication que les Gi utilisent pour produire leurs drones.\n"
-"Vous recevez un appel d'une installation à la surface de la planète, ils vous demandent si vous pourriez descendre et aider à tester leur nouveau fabriqueur."
+"La balise est en orbite d'une planète industrielle Engi. Cette planète abrite certaines des grandes usines de fabrication que les Engi utilisent pour produire leurs drones.\n"
+"Vous recevez un appel d'une installation à la surface de la planète, ils vous demandent si vous pourriez venir les aider à tester leur nouveau fabricateur."
 
 #: src-en/data/events_sector_aea_bird.xml:511
 msgid ""
@@ -578,11 +578,11 @@ msgstr "Descendez à l'installation."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/text"
 msgstr ""
-"Vous arrivez à l'installation et êtes accueilli par un Ingénieur Gi. Ils "
-"expliquent qu'ils ont développé un fabriqueur expérimental mais qu'ils ont "
-"besoin de carburant pour l'alimenter, la livraison qu'ils ont commandée pour"
-" le carburant n'est pas arrivée et ils ont donc besoin d'une partie de votre"
-" carburant pour le démarrer."
+"Vous arrivez à l'installation et êtes accueilli par un ingénieur Engi. Ils "
+"expliquent qu'ils ont développé un fabricateur expérimental mais ont besoin "
+"de carburant pour l'alimenter. La livraison qu'ils avaient commandée pour le"
+" carburant n'est pas arrivée et ils ont donc besoin de votre carburant pour "
+"le démarrer."
 
 #: src-en/data/events_sector_aea_bird.xml:515
 msgid ""
@@ -593,9 +593,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"En compensation, ils vous offrent d'utiliser le fabriqueur en premier. "
-"Maintenant qu'il est opérationnel, il ne nécessite qu'une petite quantité de"
-" ferraille pour fonctionner."
+"En guise de compensation, ils vous proposent d'utiliser le fabricateur en "
+"premier. Maintenant qu'il est opérationnel, il ne nécessite qu'une petite "
+"quantité de ferraille pour fonctionner."
 
 #: src-en/data/events_sector_aea_bird.xml:522
 msgid ""
@@ -606,8 +606,8 @@ msgstr "Mettez la ferraille."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
-"Vous chargez la machine de ferraille et elle commence à ronronner en "
-"transformant la ferraille en fournitures utiles."
+"Vous chargez la machine de ferraille et elle se met à ronronner en "
+"transformant la ferraille en ressources utiles."
 
 #: src-en/data/events_sector_aea_bird.xml:529
 msgid ""
@@ -618,7 +618,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
-"La machine s'arrête et crache vos provisions.\n"
+"La machine s'arrête et vous livre vos ressources.\n"
 "\n"
 "Vous pourriez l'utiliser à nouveau mais cela donnerait le temps aux rebelles de vous rattraper."
 
@@ -631,8 +631,8 @@ msgstr "Mettez la ferraille."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Vous chargez la machine de ferraille et elle commence à ronronner en "
-"transformant la ferraille en fournitures utiles."
+"Vous chargez la machine de ferraille et elle se met à ronronner en "
+"transformant la ferraille en ressources utiles."
 
 #: src-en/data/events_sector_aea_bird.xml:543
 msgid ""
@@ -642,7 +642,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:545
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr "La machine crache vos provisions."
+msgstr "La machine vous livre vos ressources."
 
 #: src-en/data/events_sector_aea_bird.xml:552
 msgid ""
@@ -652,7 +652,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:554
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
-msgstr "Vous n'êtes pas intéressé par plus de provisions."
+msgstr "Vous n'êtes pas intéressé par davantage de ressources."
 
 #: src-en/data/events_sector_aea_bird.xml:556
 msgid ""
@@ -672,7 +672,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:570
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
-msgstr "Vous n'êtes pas intéressé par plus de provisions."
+msgstr "Vous n'êtes pas intéressé par davantage de ressources."
 
 #: src-en/data/events_sector_aea_bird.xml:572
 msgid ""
@@ -692,7 +692,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:588
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[2]/event/text"
-msgstr "Vous n'êtes pas intéressé par plus de provisions."
+msgstr "Vous n'êtes pas intéressé par davantage de ressources."
 
 #: src-en/data/events_sector_aea_bird.xml:590
 msgid ""
@@ -779,18 +779,18 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//textList[@name=\"TEXT_AEA_BIRD_REBEL_CHOICE\"]/text[4]"
 msgstr ""
-"Le vaisseau Rebelle à cette balise recherche des vaisseaux de la Fédération "
-"et Gi à combattre. Il ne vous a pas encore vu."
+"Le vaisseau Rebelle à cette balise cherche des vaisseaux de la Fédération et"
+" des Engi à combattre. Il ne vous a pas encore vu."
 
 #: src-en/data/events_sector_aea_bird.xml:669
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/text"
 msgstr ""
-"Vous arrivez et remarquez un intercepteur GI poursuivi par une petite "
+"Vous arrivez et remarquez un intercepteur Engi poursuivi par une petite "
 "navette. \"Renégat, nous avons besoin de votre aide, nous tentions "
-"d'installer le module de drone d'un drone intel dans une petite navette, "
-"malheureusement cela a mal tourné et elle tente maintenant de nous tuer, "
-"nous n'avons pas d'armes à bord et ne pouvons pas riposter.\""
+"d'installer le module de drone d'un drone de renseignement dans une petite "
+"navette, malheureusement il est devenu incontrôlable et tente maintenant de "
+"nous tuer, nous n'avons pas d'armes à bord et ne pouvons pas riposter.\""
 
 #: src-en/data/events_sector_aea_bird.xml:671
 msgid ""
@@ -800,7 +800,8 @@ msgstr "Attaquez la navette."
 #: src-en/data/events_sector_aea_bird.xml:673
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[1]/event/text"
-msgstr "Vous vous avancez pour intercepter la navette devenue drone."
+msgstr ""
+"Vous vous rapprochez pour intercepter la navette transformée en drone."
 
 #: src-en/data/events_sector_aea_bird.xml:676
 msgid ""
@@ -815,7 +816,7 @@ msgstr "Ignorez les vaisseaux."
 #: src-en/data/events_sector_aea_bird.xml:684
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[2]/event/text"
-msgstr "Vous n'êtes pas intéressé par le combat contre la navette drone."
+msgstr "Vous n'avez aucun intérêt à combattre la navette-drone."
 
 #: src-en/data/events_sector_aea_bird.xml:686
 msgid ""
@@ -831,17 +832,18 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL\"]/text"
 msgstr ""
-"Vous avez sauvé l'équipage de l'intercepteur GI, ils complètent la ferraille"
-" que vous obtenez des restes du drone avec leurs propres provisions. Ils "
-"transfèrent également un drone intel de rechange dont ils n'ont plus besoin."
+"Vous avez sauvé l'équipage de l'intercepteur Engi, ils complètent la "
+"ferraille que vous obtenez des restes du drone avec leurs propres "
+"ressources. Ils transfèrent également un drone de renseignement de rechange "
+"dont ils n'ont plus besoin."
 
 #: src-en/data/events_sector_aea_bird.xml:704
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/text"
 msgstr ""
-"Vous êtes arrivé sur une planète de nidification Gi, ce sont les lieux de "
-"nidification traditionnels des Gi où les membres de l'espèce se rendent pour"
-" faire éclore leurs jeunes."
+"Vous êtes arrivé sur une planète de nidification Engi, ce sont les aires de "
+"nidification traditionnelles des Engi où les membres de l'espèce se rendent "
+"pour faire éclore leurs petits."
 
 #: src-en/data/events_sector_aea_bird.xml:707
 msgid ""
@@ -864,9 +866,9 @@ msgstr "Visitez le centre d'accueil."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[1]/event/text"
 msgstr ""
-"Le centre d'accueil commence par une brève histoire des Gi avant de s'avérer n'être qu'une grande boutique de souvenirs.\n"
+"Le centre d'accueil commence par une brève histoire des Engi avant de s'avérer n'être principalement qu'une grande boutique de souvenirs.\n"
 "\n"
-"Avant de faire vos achats, vous avez encore le temps de faire autre chose à bord du vaisseau."
+"Avant de faire du shopping, vous avez encore le temps de faire autre chose à bord du vaisseau."
 
 #: src-en/data/events_sector_aea_bird.xml:719
 msgid ""
@@ -889,7 +891,7 @@ msgid ""
 msgstr ""
 "Vous éteignez votre transpondeur et vous faufilez. \n"
 "\n"
-"Vous ne pouvez pas aller loin cependant, un vaisseau Gi a remarqué votre intrusion et se met en mouvement pour attaquer."
+"Vous ne pouvez pas aller très loin, cependant, un vaisseau Engi a remarqué votre intrusion et se met en position d'attaque."
 
 #: src-en/data/events_sector_aea_bird.xml:736
 msgid ""
@@ -920,22 +922,21 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/text"
 msgstr ""
-"Vous êtes interpellé par un vaisseau Gi à proximité. \"Ah, un renégat, peut-être seriez-vous intéressé par un jeu de hasard. À cette balise, il y a une anomalie particulière, un court trou de ver qui vous recrache simplement d'où vous êtes entré. Cependant, nous avons constaté qu'il y a presque une chance exacte sur 6 qu'en sortant, une partie du vaisseau soit froissée par le trou de ver.\n"
+"Vous êtes interpellé par un vaisseau Engi voisin. \"Ah, un renégat, peut-être seriez-vous intéressé par un jeu de hasard ? À cette balise, il y a une anomalie particulière, un court trou de ver qui vous recrache exactement d'où vous êtes entré. Cependant, nous avons constaté qu'il y a presque une chance sur 6 qu'en sortant, une partie du vaisseau soit froissée par le trou de ver.\n"
 "\n"
-"\"Le jeu fonctionne ainsi : nous lançons une pièce, celui qu'elle indique doit entrer en premier, puis nous continuons jusqu'à ce que quelqu'un se dégonfle, ou jusqu'à ce que quelqu'un se fasse un peu froisser. Le perdant doit payer 5~ à l'autre. Alors, qu'en dites-vous, vous êtes partant pour une partie ?\"\n"
-"\t."
+"\"Le jeu fonctionne comme suit : nous lançons une pièce, celui qu'elle désigne doit entrer en premier, puis nous continuons jusqu'à ce que quelqu'un se dégonfle, ou jusqu'à ce que quelqu'un soit un peu froissé. Le perdant doit payer 5~ à l'autre. Alors, qu'en dites-vous, vous êtes partant pour un jeu ?\""
 
 #: src-en/data/events_sector_aea_bird.xml:767
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/text"
-msgstr "C'est parti !."
+msgstr "Le jeu commence !"
 
 #: src-en/data/events_sector_aea_bird.xml:769
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/event/text"
 msgstr ""
-"Vous lancez une pièce et elle atterrit côté oiseau, le vaisseau Gi entre en "
-"premier. Le vaisseau Gi s'envole dans le trou de ver."
+"Vous lancez une pièce qui tombe côté oiseau, le vaisseau Engi entre en "
+"premier. Le vaisseau Engi s'engouffre dans le trou de ver."
 
 #: src-en/data/events_sector_aea_bird.xml:771
 msgid ""
@@ -946,8 +947,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"Un instant plus tard, le vaisseau Gi ressort du trou de ver, indemne. "
-"\"D'accord, votre tour.\""
+"Un instant plus tard, le vaisseau Engi ressort du trou de ver, indemne. "
+"\"Bien, votre tour.\""
 
 #: src-en/data/events_sector_aea_bird.xml:775
 msgid ""
@@ -958,10 +959,10 @@ msgstr "Entrez dans le trou de ver."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_1\"]/text"
 msgstr ""
-"Vous entrez dans le trou de ver et presque immédiatement vous en ressortez "
-"de l'autre côté, juste à côté du vaisseau GI. Vous vérifiez et trouvez votre"
-" vaisseau intact. \"D'accord, mon tour encore !\" Le capitaine Gi semble "
-"presque excité par ce jeu."
+"Vous entrez dans le trou de ver et presque immédiatement vous ressortez de "
+"l'autre côté, juste à côté du vaisseau Engi. Vous vérifiez et trouvez votre "
+"vaisseau intact. \"Bien, mon tour encore !\" Le capitaine Engi semble "
+"presque excité par ce jeu d'argent."
 
 #: src-en/data/events_sector_aea_bird.xml:779
 msgid ""
@@ -982,8 +983,8 @@ msgstr "Ignorez l'offre et attaquez."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[2]/event/text"
 msgstr ""
-"Vous coupez les communications et activez vos armes, le vaisseau Gi comprend"
-" votre intention et fait de même."
+"Vous coupez les communications et activez vos armes, le vaisseau Engi "
+"comprend votre intention et fait de même."
 
 #: src-en/data/events_sector_aea_bird.xml:798
 msgid ""
@@ -998,7 +999,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:806
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[3]/event/text"
-msgstr "Vous n'avez aucun intérêt à jouer à un jeu de hasard risqué."
+msgstr "Vous n'avez aucun intérêt à jouer un jeu de hasard risqué."
 
 #: src-en/data/events_sector_aea_bird.xml:808
 msgid ""
@@ -1013,12 +1014,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:820
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_LOSE\"]/text"
-msgstr "Vous remettez la ferraille, mais le capitaine Gi propose de rejouer."
+msgstr "Vous donnez la ferraille, mais le capitaine Engi propose de rejouer."
 
 #: src-en/data/events_sector_aea_bird.xml:825
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_LOSE\"]/choice[1]/text"
-msgstr "Rejouer."
+msgstr "Rejouez."
 
 #: src-en/data/events_sector_aea_bird.xml:831
 msgid ""
@@ -1029,27 +1030,27 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_LOSE\"]/choice[2]/event/text"
 msgstr ""
-"Le vaisseau Gi attend un instant avant de sauter, vous laissant seul à la "
+"Le vaisseau Engi attend un instant avant de sauter, vous laissant seul à la "
 "balise."
 
 #: src-en/data/events_sector_aea_bird.xml:840
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/text"
 msgstr ""
-"Le capitaine Gi lance une pièce, vous avez un instant pour dire sur quel "
-"côté elle va atterrir, si vous avez raison vous passerez en deuxième, si "
-"vous avez tort vous devrez passer en premier."
+"Le capitaine Engi lance une pièce, vous avez un instant pour annoncer la "
+"face sur laquelle elle tombera, si vous avez raison vous passerez en second,"
+" si vous avez tort vous devrez passer en premier."
 
 #: src-en/data/events_sector_aea_bird.xml:842
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[1]/text"
-msgstr "Appelez \"becs\""
+msgstr "Annoncez \"becs\""
 
 #: src-en/data/events_sector_aea_bird.xml:844
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_2\"]/text"
 msgstr ""
-"La pièce atterrit côté becs, le capitaine Gi est le premier à traverser le "
+"La pièce tombe côté becs, le capitaine Engi est le premier à traverser le "
 "trou de ver."
 
 #: src-en/data/events_sector_aea_bird.xml:846
@@ -1060,14 +1061,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:852
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[2]/text"
-msgstr "Appelez \"plumes\""
+msgstr "Annoncez \"plumes\""
 
 #: src-en/data/events_sector_aea_bird.xml:854
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_1\"]/text"
 msgstr ""
-"La pièce atterrit côté becs, puisque vous avez mal appelé la pièce, c'est à "
-"votre tour de traverser le trou de ver."
+"La pièce tombe côté becs, puisque vous avez mal annoncé, c'est à votre tour "
+"de traverser le trou de ver."
 
 #: src-en/data/events_sector_aea_bird.xml:856
 msgid ""
@@ -1082,14 +1083,14 @@ msgstr "Abandonnez."
 #: src-en/data/events_sector_aea_bird.xml:866
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[3]/text"
-msgstr "Appelez \"becs\""
+msgstr "Annoncez \"becs\""
 
 #: src-en/data/events_sector_aea_bird.xml:868
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_2\"]/text"
 msgstr ""
-"La pièce atterrit côté plumes, puisque vous avez mal appelé la pièce, c'est "
-"à votre tour de traverser le trou de ver."
+"La pièce tombe côté plumes, puisque vous avez mal annoncé, c'est à votre "
+"tour de traverser le trou de ver."
 
 #: src-en/data/events_sector_aea_bird.xml:870
 msgid ""
@@ -1104,13 +1105,13 @@ msgstr "Abandonnez."
 #: src-en/data/events_sector_aea_bird.xml:880
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[4]/text"
-msgstr "Appelez \"plumes\""
+msgstr "Annoncez \"plumes\""
 
 #: src-en/data/events_sector_aea_bird.xml:882
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_4\"]/text"
 msgstr ""
-"La pièce atterrit côté becs plumes, le capitaine Gi est le premier à "
+"La pièce tombe côté plumes et becs, le capitaine Engi est le premier à "
 "traverser le trou de ver."
 
 #: src-en/data/events_sector_aea_bird.xml:884
@@ -1122,8 +1123,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER\"]/text"
 msgstr ""
-"Vous lancez une pièce et elle atterrit côté oiseau, c'est votre tour "
-"d'entrer en premier."
+"Vous lancez une pièce qui tombe côté pile, c'est à votre tour d'entrer en "
+"premier."
 
 #: src-en/data/events_sector_aea_bird.xml:894
 msgid ""
@@ -1139,7 +1140,7 @@ msgstr "Abandonnez."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_SPIN\"]/text"
 msgstr ""
-"C'est à votre tour de traverser le trou de ver, il y a 1 chance sur 6 que "
+"C'est à votre tour de traverser le trou de ver, il y a une chance sur 6 que "
 "vous soyez endommagé en sortant de l'autre côté."
 
 #: src-en/data/events_sector_aea_bird.xml:906
@@ -1156,9 +1157,9 @@ msgstr "Abandonnez."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_LIST_PLAYER\"]/loadEventList/event[2]/text"
 msgstr ""
-"Vous entrez dans le trou de ver, mais en sortant de l'autre côté, vous "
-"entendez un craquement perceptible, votre vaisseau a été endommagé par le "
-"trou de ver. Vous avez perdu, le capitaine Gi l'a remarqué et attend avec "
+"Vous entrez dans le trou de ver, cependant en ressortant de l'autre côté, "
+"vous entendez un craquement notable, votre vaisseau a été endommagé par le "
+"trou de ver. Vous avez perdu, le capitaine Engi l'a remarqué et attend avec "
 "impatience."
 
 #: src-en/data/events_sector_aea_bird.xml:923
@@ -1170,10 +1171,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_3\"]/text"
 msgstr ""
-"Vous entrez dans le trou de ver et presque immédiatement vous en ressortez "
-"de l'autre côté, juste à côté du vaisseau GI. Vous vérifiez et trouvez votre"
-" vaisseau intact. \"D'accord, mon tour encore !\" Le capitaine Gi semble "
-"presque excité par ce jeu."
+"Vous entrez dans le trou de ver et presque immédiatement vous ressortez de "
+"l'autre côté, juste à côté du vaisseau Engi. Vous vérifiez et trouvez votre "
+"vaisseau intact. \"Bien, mon tour encore !\" Le capitaine Engi semble "
+"presque excité par ce jeu d'argent."
 
 #: src-en/data/events_sector_aea_bird.xml:934
 msgid ""
@@ -1184,8 +1185,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_LIST_ENEMY\"]/loadEventList/event[1]/text"
 msgstr ""
-"Un instant plus tard, le vaisseau Gi ressort du trou de ver, indemne. "
-"\"D'accord, votre tour.\""
+"Un instant plus tard, le vaisseau Engi ressort du trou de ver, indemne. "
+"\"Bien, votre tour.\""
 
 #: src-en/data/events_sector_aea_bird.xml:945
 msgid ""
@@ -1196,24 +1197,24 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_LIST_ENEMY\"]/loadEventList/event[2]/text"
 msgstr ""
-"Un instant plus tard, le vaisseau Gi ressort du trou de ver, ou du moins une"
-" partie, il semble que le trou de ver était trop pour leur vaisseau et "
-"qu'ils ont été déchirés en transit. Vous démanteler ce qui reste du "
-"vaisseau."
+"Un instant plus tard, le vaisseau Engi ressort du trou de ver, ou du moins "
+"une partie. Il semble que le trou de ver ait été trop puissant pour leur "
+"vaisseau et qu'il ait été déchiré en transit. Vous démantelé ce qu'il reste "
+"du vaisseau."
 
 #: src-en/data/events_sector_aea_bird.xml:961
 msgid ""
 "data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_ROULETTE_ROLL_START_2\"]/text"
 msgstr ""
-"Un instant plus tard, le vaisseau Gi ressort du trou de ver, mais cette fois"
-" vous voyez une traînée de liquide laissée par le vaisseau, il y a des "
-"marques de craquement visibles sur le côté. \"D'accord, vous avez gagné, "
-"mais je suis toujours prêt à recommencer, qu'en dites-vous ?\""
+"Un instant plus tard, le vaisseau Engi ressort du trou de ver, cependant "
+"cette fois vous voyez une traînée de liquide laissée par le vaisseau, il y a"
+" des marques de craquements notables sur le côté. \"D'accord, vous gagnez, "
+"cependant je suis toujours prêt à rejouer, qu'en dites-vous ?\""
 
 #: src-en/data/events_sector_aea_bird.xml:968
 msgid ""
 "data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_ROULETTE_ROLL_START_2\"]/choice[1]/text"
-msgstr "Rejouer."
+msgstr "Rejouez."
 
 #: src-en/data/events_sector_aea_bird.xml:974
 msgid ""
@@ -1224,15 +1225,16 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_ROULETTE_ROLL_START_2\"]/choice[2]/event/text"
 msgstr ""
-"Le vaisseau Gi attend un instant avant de sauter, vous laissant seul à la "
+"Le vaisseau Engi attend un instant avant de sauter, vous laissant seul à la "
 "balise."
 
 #: src-en/data/events_sector_aea_bird.xml:1003
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/text"
 msgstr ""
-"En arrivant à la balise, vous trouvez une colonie Gi envoyant le signal de "
-"détresse. Vous tentez de contacter la colonie mais n'obtenez aucune réponse."
+"En arrivant à la balise, vous découvrez qu'une colonie Engi envoie un signal"
+" de détresse. Vous tentez de contacter la colonie mais n'obtenez aucune "
+"réponse."
 
 #: src-en/data/events_sector_aea_bird.xml:1006
 msgid ""
@@ -1249,19 +1251,19 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1011
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/text"
-msgstr "Continuez à chercher dans la colonie."
+msgstr "Continuez à fouiller la colonie."
 
 #: src-en/data/events_sector_aea_bird.xml:1013
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/text"
 msgstr ""
 "Finalement, vous découvrez un membre de la colonie caché dans une pièce "
-"verrouillée. Après leur avoir assuré leur sécurité, ils sortent. \"Je "
+"verrouillée. Après les avoir rassurés sur leur sécurité, ils sortent. \"Je "
 "suppose que vous vous demandez ce qui s'est passé ici, et malheureusement je"
-" ne suis pas sûr de ce qui s'est passé non plus. Je dors normalement avec ma"
-" chambre verrouillée et donc quand je me suis réveillé ce matin au bruit de "
-"coups sur ma porte, je l'ai gardée verrouillée. Je ne sais pas ce qui s'est "
-"passé mais j'ai pu activer la balise de détresse depuis ma chambre.\""
+" ne suis pas sûr non plus. Je dors normalement avec ma chambre verrouillée "
+"et donc quand je me suis réveillé ce matin avec des coups à ma porte, je "
+"l'ai gardée verrouillée. Je ne sais pas ce qui s'est passé mais j'ai pu "
+"activer la balise de détresse depuis ma chambre.\""
 
 #: src-en/data/events_sector_aea_bird.xml:1015
 msgid ""
@@ -1272,13 +1274,12 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
-"Le Gi vous ramène au centre de sécurité où ils peuvent se connecter au "
+"L'Engi vous ramène au centre de sécurité où ils peuvent se connecter au "
 "système et visionner les images de surveillance. Les images ne remontent "
 "qu'au moment où votre ami ici à la colonie a activé la balise de détresse. "
 "Il semble que le reste de la colonie, dans un état de transe, se soit dirigé"
-" vers l'est, vous n'êtes pas sûr de ce qui s'est passé mais vous avez trouvé"
-" quelques notes dans le laboratoire scientifique parlant d'un étrange "
-"champignon."
+" vers l'est. Vous n'êtes pas sûr de ce qui s'est passé mais vous avez trouvé"
+" des notes dans le laboratoire scientifique parlant d'un étrange champignon."
 
 #: src-en/data/events_sector_aea_bird.xml:1019
 msgid ""
@@ -1290,10 +1291,10 @@ msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "Vous partez vers l'est, suivant la piste tracée par le reste des membres de "
-"la colonie. Finalement, vous arrivez à une grande falaise, la piste semble "
-"s'arrêter ici, jusqu'à ce que vous leviez les yeux et voyiez tous les "
-"membres de la colonie dispersés sur la falaise. Il semble qu'un champignon "
-"ou une mousse les retienne en place."
+"la colonie. Finalement, vous arrivez à une grande falaise, le sentier semble"
+" s'arrêter ici, jusqu'à ce que vous leviez les yeux et voyiez tous les "
+"membres de la colonie répartis sur la falaise. Il semble qu'un champignon ou"
+" une mousse les maintienne en place."
 
 #: src-en/data/events_sector_aea_bird.xml:1023
 msgid ""
@@ -1305,9 +1306,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
-"Vous trouvez un membre de la colonie faiblement attaché au mur et le séparez doucement du mur. Il tombe au sol, inerte. Un instant plus tard, vous entendez un hurlement strident provenant du reste de la colonie. Cela dure plusieurs minutes jusqu'à ce qu'un autre bruit le dépasse, celui d'un vaisseau venant du haut de la falaise. \n"
+"Vous trouvez un membre de la colonie lâchement attaché au mur et le séparez doucement du mur. Il tombe au sol, inerte. Un instant plus tard, vous entendez un cri strident provenant du reste de la colonie. Cela dure plusieurs minutes jusqu'à ce qu'un autre bruit le supplante, le bruit d'un vaisseau venant du haut de la falaise. \n"
 "\n"
-"Un vaisseau Gi apparaît par le haut et commence une attaque sur vous. Vous vous précipitez vers votre vaisseau."
+"Un vaisseau Engi apparaît du haut et commence une attaque contre vous. Vous vous précipitez vers votre vaisseau."
 
 #: src-en/data/events_sector_aea_bird.xml:1030
 msgid ""
@@ -1318,18 +1319,17 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/text"
 msgstr ""
-"Tentez de faire disparaître une partie du champignon autour de l'une des "
-"victimes."
+"Tentez de pulvériser une partie du champignon autour de l'une des victimes."
 
 #: src-en/data/events_sector_aea_bird.xml:1038
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
-"Vous détruisez prudemment une partie du champignon autour d'un membre de la "
-"colonie, et vous observez le champignon qui s'est séparé de la masse "
+"Vous pulvérisez avec prudence une partie du champignon autour de l'un des "
+"membres de la colonie. Vous observez le champignon séparé de la masse "
 "principale commencer à se flétrir et à mourir. Finalement, le membre de la "
-"colonie se détache du mur et se réanime, il n'y a aucune réaction du reste "
-"du champignon et vous répétez donc le processus jusqu'à ce que tous les "
+"colonie se détache du mur et se réanime. Il n'y a aucune réaction du reste "
+"du champignon, vous répétez donc le processus jusqu'à ce que tous les "
 "membres de la colonie soient détachés."
 
 #: src-en/data/events_sector_aea_bird.xml:1040
@@ -1341,22 +1341,22 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
-"Vous parvenez à ramener tous les membres de la colonie vivants, ils vous "
-"sont incroyablement reconnaissants et vous récompensent avec une grande "
-"quantité de ferraille et un drone de combat de leurs réserves."
+"Vous réussissez à ramener tous les membres de la colonie vivants. Ils sont "
+"incroyablement reconnaissants et vous récompensent avec une grande quantité "
+"de ferraille et un drone de combat de leurs réserves."
 
 #: src-en/data/events_sector_aea_bird.xml:1050
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_WEAPONS_FIRE_ALL\"]/text"
-msgstr "(Arme à feu) Brûlez tout !."
+msgstr "(Arme incendiaire) Brûlez tout !"
 
 #: src-en/data/events_sector_aea_bird.xml:1052
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_WEAPONS_FIRE_ALL\"]/event/text"
 msgstr ""
-"Vous mettez le feu au mur, vous observez le feu se propager rapidement à travers le champignon, consumant de nombreux membres de la colonie. Presque immédiatement, les membres de la colonie restants commencent à crier. Cela dure plusieurs minutes jusqu'à ce qu'un autre bruit le dépasse, le bruit d'un vaisseau venant du haut de la falaise. \n"
+"Vous enflammez le mur, vous regardez le feu se propager rapidement à travers le champignon, consumant de nombreux membres de la colonie. Presque immédiatement, les membres restants de la colonie commencent à crier. Cela dure plusieurs minutes jusqu'à ce qu'un autre bruit le supplante, le bruit d'un vaisseau venant du haut de la falaise. \n"
 "\n"
-"Un vaisseau Gi apparaît par le haut et commence une attaque sur vous. Vous vous précipitez vers votre vaisseau."
+"Un vaisseau Engi apparaît du haut et commence une attaque contre vous. Vous vous précipitez vers votre vaisseau."
 
 #: src-en/data/events_sector_aea_bird.xml:1061
 msgid ""
@@ -1387,11 +1387,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/text"
 msgstr ""
-"Vous retrouvez le membre de la colonie Gi original caché à flanc de falaise "
-"là où vous l'avez laissé, après avoir vaincu le vaisseau, il semble que le "
-"reste des membres de la colonie infestés de champignons soient morts. "
-"N'ayant personne pour retourner à la colonie, le Gi propose de rejoindre "
-"votre équipage."
+"Vous trouvez le membre original de la colonie Engi caché sur la falaise où "
+"vous l'avez laissé. Après avoir vaincu le vaisseau, il semble que le reste "
+"des membres de la colonie infestés par le champignon soient morts. N'ayant "
+"personne à ramener à la colonie, l'Engi propose de rejoindre votre équipage."
 
 #: src-en/data/events_sector_aea_bird.xml:1093
 msgid ""
@@ -1402,8 +1401,8 @@ msgstr "Acceptez-les à bord."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/choice[1]/event/text"
 msgstr ""
-"Ils sont tristes de la perte de la colonie et de leurs amis mais vous sont "
-"au moins reconnaissants de les avoir sauvés."
+"Ils sont tristes de la perte de la colonie et de leurs amis mais sont au "
+"moins reconnaissants de les avoir sauvés."
 
 #: src-en/data/events_sector_aea_bird.xml:1100
 msgid ""
@@ -1414,17 +1413,17 @@ msgstr "Proposez de les déposer à une station voisine."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/choice[2]/event/text"
 msgstr ""
-"Ils semblent déçus mais vous sont toujours reconnaissants de les avoir "
+"Ils semblent déçus mais sont toujours au moins reconnaissants de les avoir "
 "sauvés."
 
 #: src-en/data/events_sector_aea_bird.xml:1124
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/text"
 msgstr ""
-"En arrivant à la balise, vous découvrez un transporteur Gi à la dérive à "
+"En arrivant à la balise, vous découvrez un transporteur Engi à la dérive à "
 "proximité, les scans indiquent que le réacteur est détruit et qu'ils n'ont "
-"plus d'énergie. Il semble qu'ils transportent un système de secours pour le "
-"système de survie et que l'équipage a survécu jusqu'à présent."
+"plus d'énergie. Il semble qu'ils transportent une sauvegarde pour le système"
+" de survie et que l'équipage a survécu jusqu'à présent."
 
 #: src-en/data/events_sector_aea_bird.xml:1128
 msgid ""
@@ -1435,14 +1434,14 @@ msgstr "Accostez et contactez l'équipage."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[1]/event/text"
 msgstr ""
-"Vous êtes immédiatement accueilli par un membre de l'équipage Gi. \"Vite, vous devez livrer ce médicament à la colonie, des centaines de vies sont en jeu.\" Vous n'avez presque pas votre mot à dire car ils commencent immédiatement à déplacer la cargaison à bord, l'un d'eux monte avec elle tandis que les autres disent qu'ils attendront derrière qu'un autre vaisseau vienne les chercher.\n"
+"Vous êtes immédiatement accueilli par un membre de l'équipage Engi. \"Vite, vous devez livrer ce médicament à la colonie, des centaines de vies sont en jeu.\" On ne vous laisse presque pas le choix, ils commencent immédiatement à déplacer la cargaison à bord, l'un d'eux monte avec elle tandis que les autres disent qu'ils attendront un autre vaisseau pour les récupérer.\n"
 "\n"
-"Ils vous disent qu'il ne reste que quelques minutes avant l'expiration du médicament, vous devrez voyager vite pour l'y amener à temps."
+"Ils vous disent qu'il ne reste que quelques minutes avant que le médicament n'expire, vous devrez voyager vite pour l'y emmener à temps."
 
 #: src-en/data/events_sector_aea_bird.xml:1137
 msgid ""
 "data/events_sector_aea_bird.xml$//triggeredEvent[@name=\"AEA_BIRD_DELIVERY_TIMER\"]/triggeredEventBox/tooltip"
-msgstr "Le médicament expirera quand ce compte à rebours sera écoulé !"
+msgstr "Le médicament expirera lorsque ce compte à rebours sera écoulé !"
 
 #: src-en/data/events_sector_aea_bird.xml:1147
 msgid ""
@@ -1453,8 +1452,8 @@ msgstr "Démantelez le vaisseau pendant qu'il est sans défense."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[2]/event/text"
 msgstr ""
-"Vous déconstruisez le vaisseau, essayant d'éviter de penser à l'équipage du "
-"transport que vous avez sacrifié au vide."
+"Vous démantelé le vaisseau, essayant d'éviter de penser à l'équipage du "
+"transporteur que vous avez sacrifié au vide."
 
 #: src-en/data/events_sector_aea_bird.xml:1155
 msgid ""
@@ -1480,12 +1479,13 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_FAILED\"]/text"
 msgstr ""
-"Le médicament a expiré, vous ne pouvez plus sauver la colonie maintenant..."
+"Le médicament a expiré, il n'y a aucun moyen de sauver la colonie "
+"maintenant..."
 
 #: src-en/data/events_sector_aea_bird.xml:1179
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/beaconType/unvisitedTooltip"
-msgstr "La colonie ici compte sur votre médecine pour les sauver."
+msgstr "La colonie ici dépend de votre médicament pour les sauver."
 
 #: src-en/data/events_sector_aea_bird.xml:1183
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/text"
@@ -1505,7 +1505,7 @@ msgid ""
 msgstr ""
 "Vous livrez le médicament et le personnel médical de la colonie se met "
 "immédiatement au travail pour le distribuer aux malades. Le personnel est "
-"très reconnaissant et vous rembourse avec une grande quantité de ferraille "
+"très reconnaissant et vous récompense avec une grande quantité de ferraille "
 "et un drone de leurs réserves."
 
 #: src-en/data/events_sector_aea_bird.xml:1194
@@ -1539,8 +1539,8 @@ msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"ENCOUNTER_AEA_BIRD_SALVAGE\"]/text"
 msgstr ""
 "Vous trouvez l'épave d'un vaisseau de la Fédération à proximité. Avant même "
-"de pouvoir envisager de le récupérer, un vaisseau Gi arrive en saut, examine"
-" la scène et vous reproche la destruction du vaisseau !."
+"de pouvoir envisager de la récupérer, un vaisseau Engi apparaît, examine la "
+"scène et vous accuse de la destruction du vaisseau !"
 
 #: src-en/data/events_sector_aea_bird.xml:1236
 msgid ""
@@ -1551,9 +1551,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"ENCOUNTER_AEA_BIRD_FED_SALVAGE\"]/text"
 msgstr ""
-"Vous trouvez l'épave d'un vaisseau Gi à proximité. Avant même de pouvoir "
-"envisager de le récupérer, un vaisseau de la Fédération arrive en saut, "
-"examine la scène et vous reproche la destruction du vaisseau !."
+"Vous trouvez l'épave d'un vaisseau Engi à proximité. Avant même de pouvoir "
+"envisager de la récupérer, un vaisseau de la Fédération apparaît, examine la"
+" scène et vous accuse de la destruction du vaisseau !"
 
 #: src-en/data/events_sector_aea_bird.xml:1245
 msgid ""
@@ -1563,10 +1563,10 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1269
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES\"]/text"
 msgstr ""
-"Vous arrivez à la balise pour découvrir un grand vaisseau de la fédération "
-"d'élite poursuivant un vaisseau civil. Avant de pouvoir faire quoi que ce "
-"soit, vous regardez le vaisseau civil être déchiqueté par le vaisseau de la "
-"fédération. Le grand vaisseau se tourne ensuite vers vous avec ses armes "
+"Vous arrivez à la balise et découvrez un grand vaisseau d'élite de la "
+"Fédération poursuivant un vaisseau civil. Avant de pouvoir faire quoi que ce"
+" soit, vous observez le vaisseau civil se faire déchiqueter par le vaisseau "
+"de la Fédération. Le grand vaisseau se tourne ensuite vers vous, ses armes "
 "armées."
 
 #: src-en/data/events_sector_aea_bird.xml:1272
@@ -1579,9 +1579,9 @@ msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_SURRENDER\"]/text"
 msgstr ""
 "Le capitaine du vaisseau apparaît à l'écran, il porte une tenue de la "
-"fédération hâtivement assemblée. \"Capitaine, il est clair que nous avons "
-"mal commencé, faisons un cessez-le-feu et nous enverrons de la ferraille en "
-"guise d'excuses.\""
+"Fédération assemblée à la hâte. \"Capitaine, il est clair que nous avons "
+"commencé du mauvais pied, faisons un cessez-le-feu et nous vous enverrons de"
+" la ferraille en guise d'excuses.\""
 
 #: src-en/data/events_sector_aea_bird.xml:1280
 msgid ""
@@ -1592,9 +1592,9 @@ msgstr "Acceptez le cessez-le-feu."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_SURRENDER\"]/choice[1]/event/text"
 msgstr ""
-"Vous désactivez vos armes et ils envoient une navette. Elle vient s'amarrer à votre vaisseau, mais avant que vous ne puissiez l'ouvrir, une explosion déchire votre coque. La navette était pleine d'explosifs, vous êtes tombé dans leur piège.\n"
+"Vous désactivez vos armes et ils envoient une navette. Elle accoste votre vaisseau, mais avant que vous ne puissiez l'ouvrir, une explosion déchire votre coque. La navette était pleine d'explosifs, vous êtes tombé dans leur piège.\n"
 "\n"
-"D'une manière ou d'une autre, vous n'avez pas remarqué que le vaisseau de la fédération était plein de rebelles."
+"D'une manière ou d'une autre, vous n'avez pas remarqué que le vaisseau de la fédération était rempli de rebelles."
 
 #: src-en/data/events_sector_aea_bird.xml:1290
 msgid ""
@@ -1606,7 +1606,7 @@ msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_DESTROY\"]/text"
 msgstr ""
 "Vous avez détruit le vaisseau de la Fédération, et avec lui l'équipage "
-"Rebelle. Vous récupérez l'épave pendant que vous enquêtez."
+"Rebelle. Vous récupérez l'épave en enquêtant."
 
 #: src-en/data/events_sector_aea_bird.xml:1298
 msgid ""
@@ -1617,8 +1617,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_DEADCREW\"]/text"
 msgstr ""
-"Vous avez éliminé tout l'équipage Rebelle. Vous récupérez l'épave pendant "
-"que vous enquêtez."
+"Vous avez éliminé tout l'équipage Rebelle. Vous récupérez l'épave en "
+"enquêtant."
 
 #: src-en/data/events_sector_aea_bird.xml:1306
 msgid ""
@@ -1629,12 +1629,11 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_INVEST\"]/text"
 msgstr ""
-"Vous fouillez le vaisseau, dans les vestiges de la soute, vous trouvez un "
-"certain nombre d'uniformes de la fédération. Vous fouillez à l'intérieur de "
-"la poche de l'un des uniformes et trouvez un datapad, il semble que le "
-"vaisseau ait été stationné à une balise qui, selon votre ordinateur, est "
-"complètement vide et dépourvue de tout intérêt. Vous marquez l'emplacement "
-"sur votre carte."
+"Vous fouillez le vaisseau, dans les restes de la soute, vous trouvez un "
+"certain nombre d'uniformes de la fédération. Vous fouillez dans la poche de "
+"l'un des uniformes et trouvez un datapad, il semble que le vaisseau ait été "
+"stationné à une balise qui, selon votre ordinateur, est complètement vide et"
+" dépourvue de tout intérêt. Vous marquez l'emplacement sur votre carte."
 
 #: src-en/data/events_sector_aea_bird.xml:1330
 msgid ""
@@ -1647,11 +1646,11 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_REBEL_BASE\"]/text"
 msgstr ""
-"Vous êtes arrivé à la balise apparemment vide pour découvrir une base "
-"militaire Gi assez grande près de la balise. Vous remarquez de petites "
-"navettes rebelles amarrées avec elle, les scans ont indiqué que les navettes"
-" ont été modifiées avec des capacités furtives, ils doivent les avoir "
-"utilisées pour s'infiltrer à bord et prendre le contrôle de la base."
+"Vous êtes arrivé à la balise apparemment vide pour découvrir une assez "
+"grande base militaire Engi près de la balise. Vous remarquez de petites "
+"navettes rebelles amarrées à celle-ci, les scans indiquent que les navettes "
+"ont été modifiées avec des capacités furtives, elles ont dû les utiliser "
+"pour s'infiltrer à bord puis prendre le contrôle de la base."
 
 #: src-en/data/events_sector_aea_bird.xml:1335
 msgid ""
@@ -1662,13 +1661,13 @@ msgstr "Piégez-les sur la station en faisant exploser les navettes."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_REBEL_BASE\"]/choice/event/text"
 msgstr ""
-"Il faut quelques volées mais vous parvenez à faire exploser toutes les "
+"Il faut quelques volées, mais vous parvenez à faire exploser toutes les "
 "navettes amarrées à la station. Cependant, alors que vous détruisez la "
 "dernière navette, un hangar que vous pensiez vide s'ouvre, révélant un "
-"transporteur Gi, ce transporteur semble être amélioré et assez dangereux. "
-"Vous vous demandez si c'est pour cela que la base militaire était si "
-"secrète, mais vous êtes coupé par le transporteur qui quitte le hangar en "
-"volant directement vers votre propre vaisseau."
+"transporteur Engi. Ce transporteur semble amélioré et assez dangereux. Vous "
+"vous demandez si c'est pour cela que la base militaire était si secrète, "
+"cependant vous êtes coupé par le transporteur qui quitte le hangar en volant"
+" directement vers votre propre vaisseau."
 
 #: src-en/data/events_sector_aea_bird.xml:1340
 msgid ""
@@ -1680,7 +1679,7 @@ msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_TRANS_DESTROY\"]/text"
 msgstr ""
 "Vous avez détruit le transporteur volé, vous espérez qu'il n'était pas trop "
-"important pour les Gi. Vous démanteler les restes de l'épave."
+"important pour les Engi. Vous démantelé les restes de l'épave."
 
 #: src-en/data/events_sector_aea_bird.xml:1351
 msgid ""
@@ -1691,9 +1690,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_TRANS_DEADCREW\"]/text"
 msgstr ""
-"Vous avez éliminé tout l'équipage Rebelle du transport volé, vous montez à "
-"bord et prenez toute la ferraille et les fournitures des rebelles mais "
-"laissez le transport intact."
+"Vous avez éliminé tout l'équipage Rebelle du transporteur volé, vous montez "
+"à bord et prenez toute la ferraille et les ressources des rebelles, mais "
+"laissez le transporteur intact."
 
 #: src-en/data/events_sector_aea_bird.xml:1360
 msgid ""
@@ -1704,22 +1703,22 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_TRANS_INVEST\"]/text"
 msgstr ""
-"Le transporteur étant réglé, les rebelles restants sont complètement piégés à bord de la station. Vous envoyez chercher les Gi et la Fédération pour qu'ils règlent la situation.\n"
+"Le transporteur étant réglé, les rebelles restants sont complètement piégés à bord de la station. Vous envoyez les Engi et la Fédération venir nettoyer la situation.\n"
 "\n"
-"Finalement, votre soutien arrive, les soldats Gi et de la Fédération reprennent la base après que les rebelles se soient rapidement rendus. Les Gi sont très reconnaissants de votre aide pour sauver la base, ils n'avaient même pas réalisé que la base avait été prise par les rebelles, apparemment les rebelles avaient maintenu la base en fonctionnement.\n"
-"Les Gi vous envoient même les plans d'un de leurs croiseurs prototypes, ainsi qu'un tas de ferraille et de fournitures."
+"Finalement, votre soutien arrive, des soldats Engi et de la Fédération reprennent la base après la reddition rapide des rebelles. Les Engi sont très reconnaissants de votre aide pour sauver la base, ils n'avaient même pas réalisé que la base avait été prise par les rebelles, apparemment les rebelles l'avaient maintenue en fonctionnement.\n"
+"Les Engi vous envoient même les plans d'un de leurs croiseurs prototypes, ainsi qu'un tas de ferraille et de ressources."
 
 #: src-en/data/events_sector_aea_bird.xml:1388
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/beaconType/unvisitedTooltip"
-msgstr "La Centrale d'Ingénierie de la Fédération Gi."
+msgstr "L'Installation d'Ingénierie Centrale de la Fédération Engi."
 
 #: src-en/data/events_sector_aea_bird.xml:1391
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/text"
 msgstr ""
-"Vous êtes arrivé à la Centrale d'Ingénierie, la majeure partie de "
-"l'installation est interdite aux visiteurs, mais il y a un grand musée où "
-"sont présentées les innovations des ingénieurs Gi."
+"Vous êtes arrivé à l'Installation d'Ingénierie Centrale, la majeure partie "
+"de l'installation est interdite aux visiteurs, cependant il y a un grand "
+"musée où les innovations des Ingénieurs Engi sont présentées."
 
 #: src-en/data/events_sector_aea_bird.xml:1393
 msgid ""
@@ -1730,8 +1729,8 @@ msgstr "Visitez le musée."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/text"
 msgstr ""
-"La première exposition couvre la première conception de la Centrale d'Ingénierie, le Drone Jumeau.\n"
-"\"Le Drone Jumeau est une modification du drone de combat standard. Les ingénieurs Gi ont remarqué l'incapacité de certains drones de combat à pénétrer les couches de bouclier protectrices d'un vaisseau ennemi. Les ingénieurs Gi ont développé un accessoire pour le drone, un petit canon ionique faible, suffisant pour ioniser le bouclier, mais pas plus. Le plus grand inconvénient du drone était que la source d'énergie du drone n'était pas conçue pour alimenter deux armes à la fois, et à ce titre était ralentie par l'arme supplémentaire.\""
+"La première exposition couvre la première conception de l'Installation d'Ingénierie Centrale, le Drone Jumelé.\n"
+"\"Le Drone Jumelé est une modification du drone de combat standard. Les ingénieurs Engi ont remarqué l'incapacité de certains drones de combat à pénétrer les couches de boucliers protecteurs d'un vaisseau ennemi. Les ingénieurs Engi ont développé un accessoire pour le drone, un petit canon ionique faible, suffisant pour ioniser un bouclier, mais pas plus. Le plus grand inconvénient du drone était que la source d'énergie du drone n'était pas conçue pour alimenter deux armes à la fois, et était donc ralentie par l'arme supplémentaire.\""
 
 #: src-en/data/events_sector_aea_bird.xml:1398
 msgid ""
@@ -1742,8 +1741,8 @@ msgstr "Passez à l'exposition suivante."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"La prochaine exposition couvre le Drone Rafale.\n"
-"\"Le Drone Rafale était la première conception native de l'installation. Le drone a été conçu autour d'une alimentation adaptative, cette alimentation a été capable d'augmenter considérablement la puissance de l'arme, mais l'augmentation de la puissance réduisait toujours la vitesse du drone. Le drone est toujours très économe en énergie et ces développements dans la conception des réacteurs de drones ont conduit à d'autres développements.\""
+"L'exposition suivante couvre le Drone Rafale.\n"
+"\"Le Drone Rafale fut la première conception native de l'installation. Le drone fut conçu autour d'une alimentation électrique adaptative, cette alimentation était capable d'augmenter grandement la puissance de l'arme, mais l'augmentation de la puissance réduisait tout de même la vitesse du drone. Le drone reste très économe en énergie et ces développements dans la conception des réacteurs de drones ont conduit à d'autres avancées.\""
 
 #: src-en/data/events_sector_aea_bird.xml:1403
 msgid ""
@@ -1754,20 +1753,20 @@ msgstr "Passez à l'exposition suivante."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"La prochaine exposition couvre le Drone Intel.\n"
-"\"Le Drone Intel a été un grand pas en avant dans un domaine différent de la conception des drones. Le drone de renseignement intègre un tout nouveau module d'IA, ce qui a considérablement augmenté la puissance du drone en lui permettant de cibler des composants importants sur le vaisseau ennemi, augmentant ainsi la fiabilité des dégâts. Le drone intègre également certaines des avancées précédentes dans la conception des réacteurs de drones et est donc capable d'alimenter deux canons laser à la fois.\""
+"L'exposition suivante couvre le Drone de Renseignement.\n"
+"\"Le Drone de Renseignement fut un bond en avant dans un domaine différent de la conception des drones. Le drone de renseignement intègre un tout nouveau module d'IA, ce qui a grandement augmenté la puissance du drone en lui permettant de cibler des composants importants sur le vaisseau ennemi, augmentant ainsi la fiabilité des dégâts. Le drone intègre également certaines des avancées précédentes dans la conception des réacteurs de drones et est donc capable d'alimenter deux canons laser simultanément.\""
 
 #: src-en/data/events_sector_aea_bird.xml:1408
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr "Passez à l'exposition finale."
+msgstr "Passez à la dernière exposition."
 
 #: src-en/data/events_sector_aea_bird.xml:1410
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"La dernière exposition couvre le Bio Drone.\n"
-"\"Le Bio Drone est le développement le plus moderne dans la conception des drones par cette installation. L'une des avancées de ce drone intègre le module d'IA du drone Intel, cependant cette fois l'IA a été ajustée pour cibler l'équipage ennemi, ce qui augmente considérablement l'efficacité de l'arme. Cela mène au développement suivant, l'arme de cette série de drones incorpore un puissant bio-laser qui fait détoner la cible à sa mort, causant des dégâts à la zone immédiate.\""
+"La dernière exposition couvre le Drone Biologique.\n"
+"\"Le Drone Biologique est le développement le plus moderne en matière de conception de drones par cette installation. L'une des avancées de ce drone incorpore le module d'IA du drone de renseignement, cependant cette fois l'IA a été ajustée pour cibler l'équipage ennemi, ce qui augmente grandement l'efficacité de l'arme. Cela conduit au développement suivant, l'arme de cette série de drones incorpore un puissant bio-laser qui provoque la détonation de la cible à sa mort, causant des dégâts à la zone immédiate.\""
 
 #: src-en/data/events_sector_aea_bird.xml:1413
 msgid ""
@@ -1817,7 +1816,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1457
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/text"
 msgstr ""
-"La boutique de souvenirs est pleine de bibelots pour la plupart inutiles, "
+"La boutique de souvenirs est pleine de babioles pour la plupart inutiles, "
 "cependant quelque chose attire votre attention. \"Vous pourriez gagner votre"
 " propre drone de renseignement si vous parvenez à remplir ce simple "
 "questionnaire !\""
@@ -1830,7 +1829,7 @@ msgstr "Tentez le questionnaire."
 #: src-en/data/events_sector_aea_bird.xml:1462
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/text"
-msgstr "Question 1 : Quel était le plus grand inconvénient du Drone Jumeau ?."
+msgstr "Question 1 : Quel était le plus grand inconvénient du Drone Jumelé ?"
 
 #: src-en/data/events_sector_aea_bird.xml:1464
 msgid ""
@@ -1845,12 +1844,12 @@ msgstr "La traînée ajoutée par l'arme supplémentaire."
 #: src-en/data/events_sector_aea_bird.xml:1472
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/choice[3]/text"
-msgstr "L'incapacité du canon laser à pénétrer les couches de bouclier."
+msgstr "L'incapacité du canon laser à pénétrer les couches de boucliers."
 
 #: src-en/data/events_sector_aea_bird.xml:1476
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/choice[4]/text"
-msgstr "La faiblesse de l'alimentation ralentissant le drone."
+msgstr "La faiblesse de l'alimentation électrique ralentissant le drone."
 
 #: src-en/data/events_sector_aea_bird.xml:1482
 msgid ""
@@ -1861,17 +1860,17 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/text"
 msgstr ""
-"Question 2 : Quelle a été l'innovation majeure derrière le Drone Rafale ?."
+"Question 2 : Quelle a été l'innovation majeure derrière le Drone Rafale ?"
 
 #: src-en/data/events_sector_aea_bird.xml:1490
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/choice[1]/text"
-msgstr "Un canon laser multi-tirs."
+msgstr "Un canon laser à tirs multiples."
 
 #: src-en/data/events_sector_aea_bird.xml:1494
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/choice[2]/text"
-msgstr "Une unité d'alimentation adaptative."
+msgstr "Une unité d'alimentation électrique adaptative."
 
 #: src-en/data/events_sector_aea_bird.xml:1498
 msgid ""
@@ -1881,23 +1880,23 @@ msgstr "Un canon à précision accrue."
 #: src-en/data/events_sector_aea_bird.xml:1502
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/choice[4]/text"
-msgstr "Une utilisation plus efficace des pièces de drone."
+msgstr "Une utilisation plus efficace des pièces de drones."
 
 #: src-en/data/events_sector_aea_bird.xml:1508
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/text"
 msgstr ""
-"Question 2 : Quelle a été l'innovation majeure derrière le Drone Rafale ?."
+"Question 2 : Quelle a été l'innovation majeure derrière le Drone Rafale ?"
 
 #: src-en/data/events_sector_aea_bird.xml:1510
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/choice[1]/text"
-msgstr "Un canon laser multi-tirs."
+msgstr "Un canon laser à tirs multiples."
 
 #: src-en/data/events_sector_aea_bird.xml:1514
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/choice[2]/text"
-msgstr "Une unité d'alimentation adaptative."
+msgstr "Une unité d'alimentation électrique adaptative."
 
 #: src-en/data/events_sector_aea_bird.xml:1518
 msgid ""
@@ -1907,13 +1906,13 @@ msgstr "Un canon à précision accrue."
 #: src-en/data/events_sector_aea_bird.xml:1522
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/choice[4]/text"
-msgstr "Une utilisation plus efficace des pièces de drone."
+msgstr "Une utilisation plus efficace des pièces de drones."
 
 #: src-en/data/events_sector_aea_bird.xml:1528
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/text"
 msgstr ""
-"Question 3 : Qu'est-ce que faisait le module personnalisé du Drone Intel ?."
+"Question 3 : Que faisait le module personnalisé du Drone de Renseignement ?"
 
 #: src-en/data/events_sector_aea_bird.xml:1530
 msgid ""
@@ -1942,7 +1941,7 @@ msgstr "Permettait aux deux armes de cibler des pièces distinctes."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/text"
 msgstr ""
-"Question 3 : Qu'est-ce que faisait le module personnalisé du Drone Intel ?."
+"Question 3 : Que faisait le module personnalisé du Drone de Renseignement ?"
 
 #: src-en/data/events_sector_aea_bird.xml:1550
 msgid ""
@@ -1970,7 +1969,7 @@ msgstr "Permettait aux deux armes de cibler des pièces distinctes."
 #: src-en/data/events_sector_aea_bird.xml:1568
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/text"
-msgstr "Question 4 : Qu'avait de spécial l'arme du Bio Drone ?."
+msgstr "Question 4 : Qu'avait de spécial l'arme du Bio Drone ?"
 
 #: src-en/data/events_sector_aea_bird.xml:1570
 msgid ""
@@ -1987,19 +1986,21 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1578
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/choice[3]/text"
-msgstr "Les lasers font exploser l'ennemi, infligeant des dégâts à la pièce."
+msgstr ""
+"Les lasers provoquent l'explosion de l'ennemi, infligeant des dégâts à la "
+"pièce."
 
 #: src-en/data/events_sector_aea_bird.xml:1582
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/choice[4]/text"
 msgstr ""
-"Le projectile fait en sorte que l'équipage ennemi soit contrôlé mentalement "
-"pendant quelques secondes."
+"Le projectile provoque le contrôle mental de l'équipage ennemi pendant "
+"quelques secondes."
 
 #: src-en/data/events_sector_aea_bird.xml:1588
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/text"
-msgstr "Question 4 : Qu'avait de spécial l'arme du Bio Drone ?."
+msgstr "Question 4 : Qu'avait de spécial l'arme du Bio Drone ?"
 
 #: src-en/data/events_sector_aea_bird.xml:1590
 msgid ""
@@ -2016,20 +2017,22 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1598
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/choice[3]/text"
-msgstr "Les lasers font exploser l'ennemi, infligeant des dégâts à la pièce."
+msgstr ""
+"Les lasers provoquent l'explosion de l'ennemi, infligeant des dégâts à la "
+"pièce."
 
 #: src-en/data/events_sector_aea_bird.xml:1602
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/choice[4]/text"
 msgstr ""
-"Le projectile fait en sorte que l'équipage ennemi soit contrôlé mentalement "
-"pendant quelques secondes."
+"Le projectile provoque le contrôle mental de l'équipage ennemi pendant "
+"quelques secondes."
 
 #: src-en/data/events_sector_aea_bird.xml:1610
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[1]/text"
 msgstr ""
-"Après avoir complété la dernière question, vous recevez vos résultats. \n"
+"Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
 "\tRÉSULTAT : 3/4 (ÉCHEC)\n"
 "Malheureusement, vous n'avez pas pu répondre correctement à toutes les questions."
 
@@ -2042,7 +2045,7 @@ msgstr "Quittez le musée."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[2]/text"
 msgstr ""
-"Après avoir complété la dernière question, vous recevez vos résultats. \n"
+"Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
 "\tRÉSULTAT : 2/4 (ÉCHEC)\n"
 "Malheureusement, vous n'avez pas pu répondre correctement à toutes les questions."
 
@@ -2055,7 +2058,7 @@ msgstr "Quittez le musée."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[3]/text"
 msgstr ""
-"Après avoir complété la dernière question, vous recevez vos résultats. \n"
+"Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
 "\tRÉSULTAT : 1/4 (ÉCHEC)\n"
 "Malheureusement, vous n'avez pas pu répondre correctement à toutes les questions."
 
@@ -2070,7 +2073,7 @@ msgid ""
 msgstr ""
 "Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
 "\tRÉSULTAT : 0/4 (ÉCHEC)\n"
-"Malheureusement, vous n'avez pas réussi à répondre correctement à toutes les questions."
+"Malheureusement, vous n'avez pas pu répondre correctement à toutes les questions."
 
 #: src-en/data/events_sector_aea_bird.xml:1641
 msgid ""
@@ -2083,7 +2086,7 @@ msgid ""
 msgstr ""
 "Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
 "\tRÉSULTAT : 4/4 (RÉUSSITE)\n"
-"Succès ! Vous avez réussi à répondre correctement à toutes les questions et vous recevez votre drone de reconnaissance gratuit."
+"Succès ! Vous avez réussi à répondre correctement à toutes les questions et vous recevez votre drone de renseignement gratuit."
 
 #: src-en/data/events_sector_aea_bird.xml:1655
 msgid ""
@@ -2094,7 +2097,7 @@ msgstr "Quittez le musée."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[2]/text"
 msgstr ""
-"Après avoir complété la dernière question, vous recevez vos résultats. \n"
+"Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
 "\tRÉSULTAT : 3/4 (ÉCHEC)\n"
 "Malheureusement, vous n'avez pas pu répondre correctement à toutes les questions."
 
@@ -2107,7 +2110,7 @@ msgstr "Quittez le musée."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[3]/text"
 msgstr ""
-"Après avoir complété la dernière question, vous recevez vos résultats. \n"
+"Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
 "\tRÉSULTAT : 2/4 (ÉCHEC)\n"
 "Malheureusement, vous n'avez pas pu répondre correctement à toutes les questions."
 
@@ -2120,7 +2123,7 @@ msgstr "Quittez le musée."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[4]/text"
 msgstr ""
-"Après avoir complété la dernière question, vous recevez vos résultats. \n"
+"Après avoir répondu à la dernière question, vous recevez vos résultats. \n"
 "\tRÉSULTAT : 1/4 (ÉCHEC)\n"
 "Malheureusement, vous n'avez pas pu répondre correctement à toutes les questions."
 
@@ -2133,11 +2136,11 @@ msgstr "Quittez le musée."
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEERING_LEAVE\"]/text"
 msgstr ""
-"En quittant le musée, vous entendez une forte explosion au-dessus de vous. "
-"Alors que vous vous mettez à l'abri, vous apercevez une navette Gi "
-"s'éloignant de l'explosion, elle revient en arrière et effectue un autre "
-"passage sur l'installation. Vous revenez en courant et préparez le vaisseau "
-"pour le combat, quelqu'un doit arrêter cette navette !"
+"En quittant le musée, vous entendez une forte explosion au-dessus. Alors que"
+" vous vous abritez, vous apercevez une navette Engi s'éloignant de "
+"l'explosion, elle fait un tour rapide et effectue un autre passage sur "
+"l'installation. Vous revenez en courant et préparez le vaisseau au combat, "
+"quelqu'un doit arrêter cette navette !"
 
 #: src-en/data/events_sector_aea_bird.xml:1692
 msgid ""
@@ -2149,30 +2152,31 @@ msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/text"
 msgstr ""
 "Alors que vous démantelé les restes de la navette-drone, une autre navette "
-"Gi vous rejoint et vous livre un ingénieur Gi bien propre. \"Salut, je suis "
-"désolé pour ça, je ne voulais pas que le drone s'échappe comme ça, c'est le "
-"problème avec le fait de leur donner un niveau d'intelligence, on ne peut "
-"jamais être tout à fait sûr de la façon dont ils vont réagir... Oh, au fait,"
-" je m'appelle Jay, je suis l'ingénieur en chef ici. Disons que vous avez "
-"plutôt bien géré ce drone, j'ai une mission similaire qui pourrait vous "
-"intéresser, même si j'aurais besoin que vous me laissiez venir avec vous.\""
+"Engi s'approche de vous et dépose un ingénieur Engi à l'allure soignée. "
+"\"Bonjour, je suis vraiment désolée pour ça, je n'ai pas voulu que le drone "
+"s'échappe comme ça, c'est le problème quand on leur donne un niveau "
+"d'intelligence, on ne peut jamais être tout à fait sûr de la façon dont ils "
+"vont réagir... Ah oui, mon nom est Jay, je suis l'ingénieur en chef ici. "
+"Dites, vous avez plutôt bien géré ce drone, j'ai une mission similaire qui "
+"pourrait vous intéresser, bien que j'aie besoin que vous me laissiez venir "
+"avec vous.\""
 
 #: src-en/data/events_sector_aea_bird.xml:1701
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/choice[1]/text"
-msgstr "Accepter de transporter Jay."
+msgstr "Acceptez de transporter Jay."
 
 #: src-en/data/events_sector_aea_bird.xml:1703
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/choice[1]/event/text"
 msgstr ""
-"\"D'accord ! Nous avons récemment appris que les rebelles ont déplacé un "
-"grand auto-vaisseau dans le secteur, nous essayons de mettre la main sur un "
+"\"Très bien ! Nous avons récemment appris que les rebelles ont déplacé un "
+"grand Auto-vaisseau dans le secteur, nous essayons de mettre la main sur un "
 "noyau d'IA rebelle avancé, mais tous les auto-vaisseaux rebelles que nous "
-"avons abattus ont été petits et simples. J'ai besoin que vous alliez vaincre"
-" le grand auto-vaisseau, et ensuite je pourrai y aller et récupérer le "
-"noyau, ces choses sont très bien protégées alors ne vous inquiétez pas de le"
-" faire exploser accidentellement !\""
+"avons abattus étaient petits et simples. J'ai besoin que vous alliez vaincre"
+" le grand auto-vaisseau et ensuite je pourrai entrer et récupérer le noyau, "
+"ces choses sont très bien protégées alors ne vous inquiétez pas de le faire "
+"exploser accidentellement !\""
 
 #: src-en/data/events_sector_aea_bird.xml:1708
 msgid ""
@@ -2184,23 +2188,22 @@ msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/choice[2]/event/text"
 msgstr ""
 "\"Ah, dommage, eh bien merci d'avoir géré le drone, n'hésitez pas à le "
-"démanteler !\" L'ingénieur retourne à sa navette et s'envole vers "
-"l'installation, vous pouvez déjà voir des drones de maintenance fuser autour"
-" des sections endommagées."
+"démanteler !\" L'ingénieure retourne à sa navette et s'envole vers "
+"l'installation, vous pouvez déjà voir des drones de maintenance virevolter "
+"autour des sections endommagées."
 
 #: src-en/data/events_sector_aea_bird.xml:1720
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_JAY_AUTO_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
-"Le dernier emplacement signalé du grand auto-vaisseau que vous chassez."
+msgstr "Dernier emplacement signalé du grand Auto-vaisseau que vous chassez."
 
 #: src-en/data/events_sector_aea_bird.xml:1723
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_JAY_AUTO_QUEST\"]/text"
 msgstr ""
-"Vous êtes arrivé à destination. Un grand auto-vaisseau se trouve à une "
-"certaine distance. Le vaisseau commence à se diriger vers vous, ses plus "
-"petits vaisseaux d'escorte restent en arrière pour observer."
+"Vous êtes arrivé à destination, un grand Auto-vaisseau se trouve à une "
+"certaine distance. Le vaisseau commence à se déplacer vers vous, ses petits "
+"vaisseaux d'escorte restent en arrière pour observer."
 
 #: src-en/data/events_sector_aea_bird.xml:1726
 msgid ""
@@ -2211,10 +2214,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/text"
 msgstr ""
-"L'auto-vaisseau étant démantelé, vous commencez à démanteler les restes. "
-"Finalement, vous découvrez le noyau d'IA que Jay, l'ingénieur en chef Gi, "
-"voulait. Vous le lui apportez à bord et elle commence à le démonter avec un "
-"abandon presque imprudent."
+"L'auto-vaisseau étant désassemblé, vous commencez à démanteler les restes. "
+"Finalement, vous découvrez le noyau d'IA que Jay, l'ingénieure en chef Engi,"
+" convoitait. Vous le lui apportez à bord et elle commence à le démonter avec"
+" une ardeur presque imprudente."
 
 #: src-en/data/events_sector_aea_bird.xml:1736
 msgid ""
@@ -2225,14 +2228,14 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/text"
 msgstr ""
-"Après avoir fait un désordre plutôt important dans votre soute, Jay émerge enfin, tenant une clé USB. \"Aha, j'ai enfin mis la main sur l'IA que les rebelles utilisent, du moins la partie qui contrôlait l'auto-vaisseau.\" Elle commence à la télécharger vers l'installation d'ingénierie depuis votre vaisseau.\n"
+"Après avoir fait un désordre considérable dans votre soute, Jay émerge enfin, tenant une clé USB. \"Aha, j'ai enfin mis la main sur l'IA utilisée par les rebelles, du moins la partie qui contrôlait l'Auto-vaisseau.\" Elle commence à la télécharger vers l'Installation d'Ingénierie depuis votre vaisseau.\n"
 "\n"
-"\"Dites, c'était plutôt amusant. Envisageriez-vous de me laisser rejoindre votre équipage ? J'ai toujours voulu sortir et voir le reste de l'Univers. De plus, il semble que vous soyez assez doué pour démanteler les vaisseaux ennemis et je veux absolument voir comment tous les autres construisent leurs vaisseaux.\""
+"\"Dis donc, c'était plutôt amusant, voudriez-vous me laisser rejoindre votre équipage ? J'ai toujours voulu sortir et voir le reste de l'Univers. De plus, il semble que vous soyez assez doué pour démanteler les vaisseaux ennemis et je veux absolument voir comment les autres construisent leurs vaisseaux.\""
 
 #: src-en/data/events_sector_aea_bird.xml:1743
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[1]/text"
-msgstr "L'accepter dans l'équipage"
+msgstr "Acceptez-la dans l'équipage"
 
 #: src-en/data/events_sector_aea_bird.xml:1745
 msgid ""
@@ -2247,9 +2250,9 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1750
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[2]/text"
-msgstr "Refuser poliment"
+msgstr "Déclinez poliment"
 
 #: src-en/data/events_sector_aea_bird.xml:1752
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[2]/event/text"
-msgstr "Vous la déposez à une station Gi voisine."
+msgstr "Vous la déposez à une station Engi voisine."

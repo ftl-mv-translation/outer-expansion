@@ -24,9 +24,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"ENCOUNTER_AEA_ACID_CLEARING\"]/text"
 msgstr ""
-"Il est inhabituel de trouver la Croissance Acide en dehors de leurs "
-"nébuleuses. Cependant, il semble qu'elle vous ait considéré comme une menace"
-" et se prépare à attaquer !."
+"Il est inhabituel de trouver la Croissance Acide en dehors de ses "
+"nébuleuses. Cependant, il semble qu'elle vous ait identifié comme une menace"
+" et qu'elle s'apprête à attaquer !"
 
 #: src-en/data/events_sector_aea_acid.xml:63
 msgid ""
@@ -43,7 +43,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"TEXT_AEA_ACID_PIRATE_CLEARING\"]/text[1]"
 msgstr ""
 "Il semble y avoir un vaisseau pirate à proximité. Soyez sur vos gardes ; "
-"quiconque tente de chasser en territoire Acide est soit redoutable, soit "
+"quiconque tente de chasser en territoire Acide est soit formidable, soit "
 "profondément stupide, et dans l'espace, l'un ou l'autre peut être dangereux."
 
 #: src-en/data/events_sector_aea_acid.xml:78
@@ -52,15 +52,15 @@ msgid ""
 msgstr ""
 "\"Nous savions que quiconque assez fou pour tenter de se faufiler à travers "
 "une nébuleuse Acide resterait dans l'espace ouvert. Livrez vos marchandises,"
-" et nous pourrions vous laisser vivre.\" Vous coupez la transmission en "
-"guise de réponse."
+" et nous pourrions vous laisser vivre.\" Vous coupez la transmission au lieu"
+" de répondre."
 
 #: src-en/data/events_sector_aea_acid.xml:79
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"TEXT_AEA_ACID_PIRATE_CLEARING\"]/text[3]"
 msgstr ""
-"Avant que vous ne puissiez prendre un instant de repos des nébuleuses "
-"omniprésentes dans ce secteur, un vaisseau pirate apparaît derrière vous et "
+"Avant que vous ne puissiez prendre un moment de repos loin des nébuleuses "
+"omniprésentes de ce secteur, un vaisseau pirate apparaît derrière vous et "
 "ouvre le feu."
 
 #: src-en/data/events_sector_aea_acid.xml:86
@@ -74,7 +74,7 @@ msgid ""
 msgstr ""
 "En arrivant à la balise, un vaisseau hostile apparaît immédiatement sur vos "
 "scanners. Vous ne vous attendiez pas à voir des Rebelles étendre leur portée"
-" dans les régions inconnues du territoire Acide. Chargez les armes !."
+" dans les régions inconnues du territoire Acide. Chargez les armes !"
 
 #: src-en/data/events_sector_aea_acid.xml:92
 msgid ""
@@ -82,13 +82,13 @@ msgid ""
 msgstr ""
 "Vous sautez dans l'espace vide et êtes soulagé de voir vos capteurs se "
 "rallumer. Cependant, vous êtes moins ravi de les voir enregistrer "
-"immédiatement un vaisseau Rebelle sur un vecteur d'approche !."
+"immédiatement un vaisseau Rebelle sur un vecteur d'approche !"
 
 #: src-en/data/events_sector_aea_acid.xml:93
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"TEXT_AEA_ACID_REBEL_CLEARING\"]/text[3]"
 msgstr ""
-"Vous recevez un message d'un vaisseau proche, \"On dirait que nos "
+"Vous recevez un message d'un vaisseau voisin : \"Il semble que nos "
 "renseignements étaient corrects ! Vous ne pouvez pas nous échapper en "
 "voyageant en territoire inconnu... Personne ne peut se cacher de la "
 "Rébellion !\""
@@ -97,8 +97,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"ENCOUNTER_AEA_ACID_ORCHID_CLEARING\"]/text"
 msgstr ""
-"Il semble que les orchidées prennent au sérieux leur devoir d'unique allié "
-"de la Croissance Acide, elles se mettent en mouvement pour vous éliminer."
+"Il semble que les Orchidées prennent leur devoir de seul allié de la "
+"Croissance Acide au sérieux, elles se rapprochent pour vous éliminer."
 
 #: src-en/data/events_sector_aea_acid.xml:100
 msgid ""
@@ -110,8 +110,9 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_REFUGEE_AEA_ACID_MV\"]/text"
 msgstr ""
 "Vous avez rencontré un vaisseau de réfugiés dérivant dans l'espace. Il "
-"semble qu'il fuyait l'avancée rebelle et ait manqué de carburant. Sa balise "
-"de détresse est active, mais vous n'êtes pas sûr que quelqu'un soit à bord."
+"semble qu'il fuyait l'avance Rebelle et soit tombé en panne de carburant. Sa"
+" balise de détresse est active, mais vous n'êtes pas certain que quelqu'un "
+"soit à bord."
 
 #: src-en/data/events_sector_aea_acid.xml:114
 msgid ""
@@ -127,7 +128,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_REFUGEE_AEA_ACID_MV\"]/choice[2]/event/text"
 msgstr ""
-"Vous vous méfiez des réfugiés mais supposez qu'il est sûr de faire quelque "
+"Vous vous méfiez des réfugiés mais estimez qu'il est sûr de faire quelque "
 "chose sur le vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:122
@@ -145,8 +146,8 @@ msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"REFUGEE_HAIL_LIST_AEA_ACID_MV\"]/event[2]/text"
 msgstr ""
 "Alors que vous contactez le vaisseau de réfugiés, un vaisseau Acide arrive "
-"dans le système... il chassait le vaisseau de réfugiés pour le sport, et "
-"maintenant il vous a trouvé à la place !."
+"dans le système... il chassait le vaisseau de réfugiés pour le plaisir, et "
+"maintenant il vous a trouvé à la place !"
 
 #: src-en/data/events_sector_aea_acid.xml:138
 msgid ""
@@ -165,12 +166,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:147
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[1]/text"
-msgstr "Attaquez le vaisseau Acide."
+msgstr "Attaquer le vaisseau Acide."
 
 #: src-en/data/events_sector_aea_acid.xml:149
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[1]/event/text"
-msgstr "Vous vous verrouillez sur le vaisseau Acide et engagez le combat."
+msgstr "Vous verrouillez le vaisseau Acide et engagez le combat."
 
 #: src-en/data/events_sector_aea_acid.xml:152
 msgid ""
@@ -185,7 +186,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:160
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[2]/event/text"
-msgstr "Vous agissez pour terminer ce que la Croissance Acide a commencé."
+msgstr "Vous avancez pour achever ce que la Croissance Acide a commencé."
 
 #: src-en/data/events_sector_aea_acid.xml:163
 msgid ""
@@ -202,8 +203,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_MANTIS_MV\"]/choice[3]/event/text"
 msgstr ""
-"On pourrait penser que la cupidité des limaces s'arrêterait aux frontières "
-"de la Croissance Acide, mais apparemment non."
+"On pourrait penser que l'avidité des Limaces s'arrêterait aux frontières de "
+"la Croissance Acide, mais apparemment non."
 
 #: src-en/data/events_sector_aea_acid.xml:173
 msgid ""
@@ -219,9 +220,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_ACIDIC_SURRENDER\"]/event[1]/text"
 msgstr ""
-"Il ne semble pas qu'ils puissent supporter beaucoup plus de dégâts. Après "
-"quelques tirs, leur vaisseau se désintègre, et vous vous avancez pour piller"
-" les restes."
+"Il semble qu'ils ne puissent plus supporter beaucoup de dégâts. Après "
+"quelques tirs, leur vaisseau se brise, et vous vous approchez pour piller "
+"les restes."
 
 #: src-en/data/events_sector_aea_acid.xml:189
 msgid ""
@@ -232,8 +233,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/text"
 msgstr ""
-"Un grand vaisseau Acide est inactif. Après un moment, il vous contacte, "
-"offrant les services de l'un des leurs en échange de ferraille."
+"Un grand vaisseau Acide est en sommeil. Après un moment, il vous contacte, "
+"vous offrant les services de l'un d'entre eux en échange de ferraille."
 
 #: src-en/data/events_sector_aea_acid.xml:228
 msgid ""
@@ -244,9 +245,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[1]/event/text"
 msgstr ""
-"Vous envoyez votre ferraille, et peu après un étrange drone de combat arrive"
-" à votre vaisseau. Il semble que la Croissance Acide ait approprié la "
-"technologie pour son propre transport."
+"Vous envoyez votre ferraille, et peu après, un étrange drone de combat "
+"arrive à votre vaisseau. Il semble que la Croissance Acide se soit approprié"
+" la technologie pour son propre transport."
 
 #: src-en/data/events_sector_aea_acid.xml:234
 msgid ""
@@ -261,15 +262,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:242
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[@req=\"aea_acid_friendly\"]/text"
-msgstr "(Amicaux) Acceptez l'offre à prix réduit."
+msgstr "(Amical) Accepter l'offre à prix réduit."
 
 #: src-en/data/events_sector_aea_acid.xml:244
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[@req=\"aea_acid_friendly\"]/event/text"
 msgstr ""
-"Vous envoyez votre ferraille, et peu après un étrange drone de combat arrive"
-" à votre vaisseau. Il semble que la Croissance Acide ait approprié la "
-"technologie pour son propre transport."
+"Vous envoyez votre ferraille, et peu après, un étrange drone de combat "
+"arrive à votre vaisseau. Il semble que la Croissance Acide se soit approprié"
+" la technologie pour son propre transport."
 
 #: src-en/data/events_sector_aea_acid.xml:248
 msgid ""
@@ -284,12 +285,12 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:256
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[3]/text"
-msgstr "Attaque !."
+msgstr "Attaquer !."
 
 #: src-en/data/events_sector_aea_acid.xml:258
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[3]/event/text"
-msgstr "Au lieu de répondre, vous armez vos armes et engagez le vaisseau."
+msgstr "Au lieu de répondre, vous activez vos armes et engagez le vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:261
 msgid ""
@@ -304,7 +305,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:269
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[4]/event/text"
-msgstr "Le vaisseau Acide retourne à son état inactif."
+msgstr "Le vaisseau Acide retourne à son état dormant."
 
 #: src-en/data/events_sector_aea_acid.xml:271
 msgid ""
@@ -355,28 +356,28 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_MYSTERIOUS_TECH_PURCHASE\"]/event[2]/text"
 msgstr ""
-"Même si vous avez payé les Limaces, vous êtes surpris de découvrir qu'elles "
+"Même si vous avez payé les Limaces, vous êtes surpris de constater qu'elles "
 "ont réellement amélioré votre réacteur, sans aucune ruse !."
 
 #: src-en/data/events_sector_aea_acid.xml:322
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/text"
 msgstr ""
-"Vous êtes contacté par un vaisseau Acide, \"Nous souhaitons tester l'une de "
-"nos nouvelles conceptions. Cependant, nous avons besoin d'une arme à "
+"Vous êtes interpellé par un vaisseau Acide : \"Nous souhaitons tester l'une "
+"de nos nouvelles conceptions. Cependant, nous avons besoin d'une arme à "
 "combiner avec notre propre technologie. Veuillez nous en fournir une, et "
 "nous vous la rendrons après nos tests.\""
 
 #: src-en/data/events_sector_aea_acid.xml:325
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_1\"]/text"
-msgstr "Remettez votre Laser de Défense."
+msgstr "Remettre votre Laser de Défense."
 
 #: src-en/data/events_sector_aea_acid.xml:327
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_1\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:330
 msgid ""
@@ -386,13 +387,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:336
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_2\"]/text"
-msgstr "Remettez votre Laser Rafale MK I."
+msgstr "Remettre votre Laser Rafale MK I."
 
 #: src-en/data/events_sector_aea_acid.xml:338
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_2\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:341
 msgid ""
@@ -402,13 +403,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:347
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN\"]/text"
-msgstr "Remettez votre Laser Rafale en chaîne."
+msgstr "Remettre votre Laser Rafale en Chaîne."
 
 #: src-en/data/events_sector_aea_acid.xml:349
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:352
 msgid ""
@@ -418,13 +419,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:358
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN\"]/text"
-msgstr "Remettez votre Laser à charge MK I."
+msgstr "Remettre votre Laser à Charge MK I."
 
 #: src-en/data/events_sector_aea_acid.xml:360
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:363
 msgid ""
@@ -434,13 +435,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:369
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGE_CHAIN\"]/text"
-msgstr "Remettez votre Chaîngeur Laser."
+msgstr "Remettre votre Chaîngeur Laser."
 
 #: src-en/data/events_sector_aea_acid.xml:371
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGE_CHAIN\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:374
 msgid ""
@@ -450,13 +451,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:380
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_1\"]/text"
-msgstr "Remettez votre Laser Lourd MK I."
+msgstr "Remettre votre Laser Lourd MK I."
 
 #: src-en/data/events_sector_aea_acid.xml:382
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_1\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:385
 msgid ""
@@ -466,13 +467,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:391
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_PIERCE\"]/text"
-msgstr "Remettez votre Laser Lourd Perforant."
+msgstr "Remettre votre Laser Lourd Perforant."
 
 #: src-en/data/events_sector_aea_acid.xml:393
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_PIERCE\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:396
 msgid ""
@@ -482,13 +483,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:402
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_CHAINGUN\"]/text"
-msgstr "Remettez votre Laser Lourd en chaîne."
+msgstr "Remettre votre Laser lourd en chaîne."
 
 #: src-en/data/events_sector_aea_acid.xml:404
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_CHAINGUN\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:407
 msgid ""
@@ -498,13 +499,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:413
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_STUN\"]/text"
-msgstr "Remettez votre Laser Neuronal."
+msgstr "Remettre votre Laser neuronal."
 
 #: src-en/data/events_sector_aea_acid.xml:415
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_STUN\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:418
 msgid ""
@@ -514,13 +515,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:424
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_1\"]/text"
-msgstr "Remettez votre Laser Anti-Coque MK I."
+msgstr "Remettre votre Laser Anti-Coque MK I."
 
 #: src-en/data/events_sector_aea_acid.xml:426
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_1\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:429
 msgid ""
@@ -530,13 +531,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:435
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_CHAINGUN\"]/text"
-msgstr "Remettez votre Laser Anti-Coque en chaîne."
+msgstr "Remettre votre Laser Anti-Coque en Chaîne."
 
 #: src-en/data/events_sector_aea_acid.xml:437
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_CHAINGUN\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:440
 msgid ""
@@ -546,13 +547,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:446
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_LIGHT\"]/text"
-msgstr "Remettez votre Laser Léger MK I."
+msgstr "Remettre votre Laser Léger MK I."
 
 #: src-en/data/events_sector_aea_acid.xml:448
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_LIGHT\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:451
 msgid ""
@@ -562,13 +563,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:457
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PARTICLE\"]/text"
-msgstr "Remettez votre Accélérateur de Particules MK I."
+msgstr "Remettre votre Accélérateur de Particules MK I."
 
 #: src-en/data/events_sector_aea_acid.xml:459
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PARTICLE\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:462
 msgid ""
@@ -578,13 +579,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:469
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_3\"]/text"
-msgstr "Remettez votre Laser Rafale MK II."
+msgstr "Remettre votre Laser Rafale MK II."
 
 #: src-en/data/events_sector_aea_acid.xml:471
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_3\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:474
 msgid ""
@@ -594,13 +595,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:480
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN_2\"]/text"
-msgstr "Remettez votre Laser à charge MK II."
+msgstr "Remettre votre Laser à Charge MK II."
 
 #: src-en/data/events_sector_aea_acid.xml:482
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN_2\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:485
 msgid ""
@@ -610,13 +611,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:491
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_2\"]/text"
-msgstr "Remettez votre Laser Lourd MK II."
+msgstr "Remettre votre Laser Lourd MK II."
 
 #: src-en/data/events_sector_aea_acid.xml:493
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_2\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:496
 msgid ""
@@ -626,13 +627,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:502
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_2\"]/text"
-msgstr "Remettez votre Laser Anti-Coque MK II."
+msgstr "Remettre votre Laser Anti-Coque MK II."
 
 #: src-en/data/events_sector_aea_acid.xml:504
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_2\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:507
 msgid ""
@@ -642,13 +643,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:513
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN_DAMAGE\"]/text"
-msgstr "Remettez votre Laser Adaptatif."
+msgstr "Remettre votre Laser Adaptatif."
 
 #: src-en/data/events_sector_aea_acid.xml:515
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN_DAMAGE\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:518
 msgid ""
@@ -658,13 +659,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:524
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_LIGHT_2\"]/text"
-msgstr "Remettez votre Laser Léger MK II."
+msgstr "Remettre votre Laser Léger MK II."
 
 #: src-en/data/events_sector_aea_acid.xml:526
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_LIGHT_2\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:529
 msgid ""
@@ -680,7 +681,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PIERCE\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:540
 msgid ""
@@ -690,13 +691,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:546
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_FROST_1\"]/text"
-msgstr "Remettez votre Laser Givrant MK I."
+msgstr "Remettre votre Laser Givrant MK I."
 
 #: src-en/data/events_sector_aea_acid.xml:548
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_FROST_1\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:551
 msgid ""
@@ -706,13 +707,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:557
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PARTICLE_2\"]/text"
-msgstr "Remettez votre Accélérateur de Particules MK II."
+msgstr "Remettre votre Accélérateur de Particules MK II."
 
 #: src-en/data/events_sector_aea_acid.xml:559
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PARTICLE_2\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:562
 msgid ""
@@ -722,13 +723,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:569
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_5\"]/text"
-msgstr "Remettez votre Laser Rafale MK III."
+msgstr "Remettre votre Laser Rafale MK III."
 
 #: src-en/data/events_sector_aea_acid.xml:571
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_5\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:574
 msgid ""
@@ -738,13 +739,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:580
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN_3\"]/text"
-msgstr "Remettez votre Laser à charge MK III."
+msgstr "Remettre votre Laser à Charge MK III."
 
 #: src-en/data/events_sector_aea_acid.xml:582
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN_3\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:585
 msgid ""
@@ -754,13 +755,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:591
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_3\"]/text"
-msgstr "Remettez votre Laser Lourd MK III."
+msgstr "Remettre votre Laser Lourd MK III."
 
 #: src-en/data/events_sector_aea_acid.xml:593
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_3\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:596
 msgid ""
@@ -770,13 +771,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:602
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_3\"]/text"
-msgstr "Remettez votre Laser Anti-Coque MK III."
+msgstr "Remettre votre Laser Anti-Coque MK III."
 
 #: src-en/data/events_sector_aea_acid.xml:604
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_3\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:607
 msgid ""
@@ -786,13 +787,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:613
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN_2\"]/text"
-msgstr "Remettez votre Vulcain en chaîne."
+msgstr "Remettre votre Vulcain chaîne."
 
 #: src-en/data/events_sector_aea_acid.xml:615
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN_2\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:618
 msgid ""
@@ -802,13 +803,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:624
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[28]/text"
-msgstr "Remettez votre Laser Perforant MK II."
+msgstr "Remettre votre Laser perforant MK II."
 
 #: src-en/data/events_sector_aea_acid.xml:626
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[28]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:629
 msgid ""
@@ -818,13 +819,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:635
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[29]/text"
-msgstr "Remettez votre Laser Perforant MK II."
+msgstr "Remettre votre Laser perforant MK II."
 
 #: src-en/data/events_sector_aea_acid.xml:637
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[29]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:640
 msgid ""
@@ -840,7 +841,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_FROST_2\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:651
 msgid ""
@@ -850,13 +851,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:658
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_PARTICLE\"]/text"
-msgstr "Remettez votre Rayon à Particules."
+msgstr "Remettre votre Rayon à particules."
 
 #: src-en/data/events_sector_aea_acid.xml:660
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_PARTICLE\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:663
 msgid ""
@@ -866,13 +867,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:669
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_LONG\"]/text"
-msgstr "Remettez votre Rayon 'Pike'."
+msgstr "Remettre votre Rayon Pike."
 
 #: src-en/data/events_sector_aea_acid.xml:671
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_LONG\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:674
 msgid ""
@@ -882,13 +883,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:680
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_2\"]/text"
-msgstr "Remettez votre Rayon 'Hallebarde'."
+msgstr "Remettre votre Rayon 'Hache'."
 
 #: src-en/data/events_sector_aea_acid.xml:682
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_2\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:685
 msgid ""
@@ -898,13 +899,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:691
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_ADAPT\"]/text"
-msgstr "Remettez votre Rayon 'Suyari'."
+msgstr "Remettre votre Rayon Suyari."
 
 #: src-en/data/events_sector_aea_acid.xml:693
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_ADAPT\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:696
 msgid ""
@@ -914,13 +915,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:702
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_HULL\"]/text"
-msgstr "Remettez votre Rayon 'Lucerne'."
+msgstr "Remettre votre Rayon Lucerne."
 
 #: src-en/data/events_sector_aea_acid.xml:704
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_HULL\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:707
 msgid ""
@@ -930,13 +931,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:713
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_STUN\"]/text"
-msgstr "Remettez votre Rayon 'Partisan'."
+msgstr "Remettre votre Rayon Partisan."
 
 #: src-en/data/events_sector_aea_acid.xml:715
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_STUN\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:718
 msgid ""
@@ -946,13 +947,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:724
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_PIERCE\"]/text"
-msgstr "Remettez votre Rayon 'Guisarme'."
+msgstr "Remettre votre Rayon Guisarme."
 
 #: src-en/data/events_sector_aea_acid.xml:726
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_PIERCE\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:729
 msgid ""
@@ -962,13 +963,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:735
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_MINING\"]/text"
-msgstr "Remettez votre Rayon de Minage."
+msgstr "Remettre votre Rayon de Minage."
 
 #: src-en/data/events_sector_aea_acid.xml:737
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_MINING\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:740
 msgid ""
@@ -978,13 +979,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:747
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_2\"]/text"
-msgstr "Remettez votre Barrage Ionique MK I."
+msgstr "Remettre votre Barrage Ionique Ver. III."
 
 #: src-en/data/events_sector_aea_acid.xml:749
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_2\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:752
 msgid ""
@@ -994,13 +995,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:758
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_3\"]/text"
-msgstr "Remettez votre Barrage Ionique MK III."
+msgstr "Remettre votre Barrage Ionique MK III."
 
 #: src-en/data/events_sector_aea_acid.xml:760
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_3\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:763
 msgid ""
@@ -1010,13 +1011,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:769
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_4\"]/text"
-msgstr "Remettez votre Barrage Ionique MK III."
+msgstr "Remettre votre Barrage Ionique MK III."
 
 #: src-en/data/events_sector_aea_acid.xml:771
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_4\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:774
 msgid ""
@@ -1026,13 +1027,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:780
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_HEAVY\"]/text"
-msgstr "Remettez votre Ion Massif."
+msgstr "Remettre votre Ion Massif."
 
 #: src-en/data/events_sector_aea_acid.xml:782
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_HEAVY\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:785
 msgid ""
@@ -1042,13 +1043,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:791
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_TRI\"]/text"
-msgstr "Remettez votre Tri-Ion."
+msgstr "Remettre votre Tri-Ion."
 
 #: src-en/data/events_sector_aea_acid.xml:793
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_TRI\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:796
 msgid ""
@@ -1058,13 +1059,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:802
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_CHAINGUN\"]/text"
-msgstr "Remettez votre Ion Adaptatif."
+msgstr "Remettre votre Ion Adaptatif."
 
 #: src-en/data/events_sector_aea_acid.xml:804
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_CHAINGUN\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:807
 msgid ""
@@ -1074,13 +1075,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:813
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_CHARGEGUN\"]/text"
-msgstr "Remettez votre Chargeur Ionique."
+msgstr "Remettre votre Chargeur ionique."
 
 #: src-en/data/events_sector_aea_acid.xml:815
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_CHARGEGUN\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:818
 msgid ""
@@ -1090,13 +1091,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:824
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_2\"]/text"
-msgstr "Remettez votre Paralyseur MK II."
+msgstr "Remettre votre Paralyseur MK II."
 
 #: src-en/data/events_sector_aea_acid.xml:826
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_2\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:829
 msgid ""
@@ -1106,13 +1107,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:835
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_HEAVY\"]/text"
-msgstr "Remettez votre Paralyseur Lourd."
+msgstr "Remettre votre Paralyseur Lourd."
 
 #: src-en/data/events_sector_aea_acid.xml:837
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_HEAVY\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:840
 msgid ""
@@ -1122,13 +1123,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:846
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_CHARGEGUN\"]/text"
-msgstr "Remettez votre Paralyseur à Charge."
+msgstr "Remettre votre Paralyseur à Charge."
 
 #: src-en/data/events_sector_aea_acid.xml:848
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_CHARGEGUN\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:851
 msgid ""
@@ -1138,13 +1139,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:857
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_PIERCE_2\"]/text"
-msgstr "Remettez votre Phaseur MK II."
+msgstr "Remettre votre Phaseur MK II."
 
 #: src-en/data/events_sector_aea_acid.xml:859
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_PIERCE_2\"]/event/text"
 msgstr ""
-"Vous envoyez l'arme, vous demandant ce que la Croissance Acide va renvoyer."
+"Vous envoyez l'arme, vous demandant ce que la Croissance Acide vous rendra."
 
 #: src-en/data/events_sector_aea_acid.xml:862
 msgid ""
@@ -1160,7 +1161,7 @@ msgstr "Nous ne sommes pas en mesure de fournir une arme appropriée."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[50]/event/text"
 msgstr ""
-"\"Malheureusement.\" Le vaisseau acide dérive, disparaissant dans la "
+"\"Malheureusement.\" Le vaisseau acide dérive et disparaît dans la "
 "nébuleuse."
 
 #: src-en/data/events_sector_aea_acid.xml:873
@@ -1244,7 +1245,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:945
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WRECK\"]/choice[1]/text"
-msgstr "Examinez l'épave."
+msgstr "Examiner l'épave."
 
 #: src-en/data/events_sector_aea_acid.xml:949
 msgid ""
@@ -1270,17 +1271,16 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WRECK_RWEAP\"]/text"
 msgstr ""
-"Vous accostez l'épave et la trouvez complètement dépourvue de vie. Il y a "
-"cependant une cache d'armes intacte dans la soute. Vous la ramenez et "
-"trouvez une arme immaculée à l'intérieur."
+"Vous accostez l'épave et la trouvez complètement dépourvue de vie. Il y a, "
+"cependant, une cache d'armes intacte dans la soute. Vous la rapportez et y "
+"trouvez une arme immaculée."
 
 #: src-en/data/events_sector_aea_acid.xml:971
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_WRECK_LIST\"]/event[3]/text"
 msgstr ""
-"Juste au moment où vous êtes sur le point d'accoster l'épave, un vaisseau "
-"saute à la balise. Il semble que ce soit le vaisseau responsable de ce "
-"désordre."
+"Alors que vous vous apprêtez à accoster l'épave, un vaisseau saute à la "
+"balise. Il semble que ce soit le vaisseau responsable de ce désordre."
 
 #: src-en/data/events_sector_aea_acid.xml:974
 msgid ""
@@ -1303,10 +1303,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORKIDS\"]/text"
 msgstr ""
-"Vous arrivez à la balise pour découvrir un vaisseau Orchidée inactif à "
-"proximité. Il est sûr de parier que le vaisseau transporte très probablement"
-" une technologie spéciale. Si vous pouvez tuer l'équipage Orchidée à bord, "
-"la cargaison sera à vous."
+"Vous arrivez à la balise et découvrez un vaisseau Orchidée en état dormant à"
+" proximité. Il est fort probable que le vaisseau transporte une technologie "
+"spéciale. Si vous parvenez à tuer l'équipage Orchidée à bord, la cargaison "
+"sera vôtre."
 
 #: src-en/data/events_sector_aea_acid.xml:1002
 msgid ""
@@ -1331,7 +1331,8 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1015
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORKIDS\"]/choice[2]/event/text"
-msgstr "Le vaisseau reste hors de portée de vos armes et finit par sauter."
+msgstr ""
+"Le vaisseau reste hors de portée de vos armes et finit par sauter au loin."
 
 #: src-en/data/events_sector_aea_acid.xml:1017
 msgid ""
@@ -1348,7 +1349,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/beaconType/unvisitedTooltip"
 msgstr ""
 "Un emplacement non visité. Cette balise est située au sein de la Croissance "
-"Acide, ce qui peut être préjudiciable à la santé de votre vaisseau."
+"Acide, ce qui peut être néfaste pour la santé de votre vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:1034
 msgid ""
@@ -1364,37 +1365,37 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/text"
 msgstr ""
-"Vous êtes arrivé à la balise pour découvrir un vaisseau Acide en réparation."
-" Il semble être désarmé et hors de combat pour le moment. L'équipage "
-"réparant le vaisseau ne vous a pas encore repéré."
+"Vous êtes arrivé à la balise pour découvrir un vaisseau Acide en cours de "
+"réparation. Il semble être désarmé et hors de combat pour le moment. "
+"L'équipage réparant le vaisseau ne vous a pas encore repéré."
 
 #: src-en/data/events_sector_aea_acid.xml:1043
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[1]/text"
-msgstr "Récupérez le vaisseau."
+msgstr "Récupérer le vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:1045
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[1]/event/text"
 msgstr ""
 "Vous accostez le vaisseau ; cependant, le sas ne s'ouvre pas. Il semble que "
-"le vaisseau Acide ait un système de sécurité à bord. Cela prendra une minute"
-" pour le contourner..."
+"le vaisseau Acide dispose d'un système de sécurité à bord. Cela prendra une "
+"minute pour le contourner..."
 
 #: src-en/data/events_sector_aea_acid.xml:1048
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[1]/event/triggeredEvent[1]/triggeredEventBox/tooltip"
-msgstr "Contournement du Système de Sécurité..."
+msgstr "Contournement du système de sécurité..."
 
 #: src-en/data/events_sector_aea_acid.xml:1056
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[2]/text"
-msgstr "Laissez le vaisseau Acide tranquille."
+msgstr "Laisser le vaisseau Acide tranquille."
 
 #: src-en/data/events_sector_aea_acid.xml:1058
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[2]/event/text"
-msgstr "Vous ne manifestez aucun intérêt pour le vaisseau."
+msgstr "Vous ne montrez aucun intérêt pour le vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:1060
 msgid ""
@@ -1411,63 +1412,63 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_TIME\"]/text"
 msgstr ""
 "Vous réussissez enfin à passer et commencez à récupérer le vaisseau. Vous "
-"êtes surpris de découvrir une orchidée, apparemment piégée à bord. \"Qui "
+"êtes surpris de découvrir une Orchidée, apparemment piégée à bord. \"Qui "
 "êtes-vous - Peu importe, sortez-moi d'ici. Je pensais que j'allais mourir. "
-"Je crois qu'ils m'ont oubliée à bord et m'ont accidentellement enfermée ici."
-" S'il vous plaît, emmenez-moi avec vous.\""
+"Je crois qu'ils ont oublié que j'étais à bord et m'ont accidentellement "
+"enfermée ici. S'il vous plaît, emmenez-moi avec vous.\""
 
 #: src-en/data/events_sector_aea_acid.xml:1074
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_TIME\"]/choice[1]/text"
-msgstr "Sauvez l'orchidée."
+msgstr "Sauver l'Orchidée."
 
 #: src-en/data/events_sector_aea_acid.xml:1077
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_TIME\"]/choice[1]/event/text"
 msgstr ""
-"Vous ramenez l'orchidée à votre vaisseau après avoir terminé l'opération de "
+"Vous ramenez l'Orchidée à votre vaisseau après avoir terminé l'opération de "
 "récupération."
 
 #: src-en/data/events_sector_aea_acid.xml:1081
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_TIME\"]/choice[2]/text"
-msgstr "Laissez l'orchidée derrière vous."
+msgstr "Laisser l'Orchidée derrière."
 
 #: src-en/data/events_sector_aea_acid.xml:1083
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_TIME\"]/choice[2]/event/text"
 msgstr ""
-"Vous terminez de récupérer ce que vous pouvez et laissez l'orchidée, en "
-"espérant que la Croissance Acide se souviendra qu'elle les a à bord avant "
-"qu'ils ne meurent de faim."
+"Vous finissez de récupérer ce que vous pouvez et laissez l'Orchidée, en "
+"espérant que la Croissance Acide se souviendra qu'elle l'a à bord avant "
+"qu'elle ne meure de faim."
 
 #: src-en/data/events_sector_aea_acid.xml:1088
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_BOARD\"]/text"
 msgstr ""
-"Pendant que vous tentiez d'entrer par effraction dans le vaisseau Acide, "
-"l'équipage de réparation est entré dans le vôtre !."
+"Pendant que vous tentiez d'entrer dans le vaisseau Acide, l'équipage de "
+"réparation s'est introduit dans le vôtre !."
 
 #: src-en/data/events_sector_aea_acid.xml:1092
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/text"
 msgstr ""
 "En plein milieu d'une tempête ionique, vous trouvez un étrange chantier "
-"spatial. Il semble être exploité par la Croissance Acide. Cependant, ils ne "
-"sont pas hostiles. Peut-être pourrez-vous conclure un accord avec eux."
+"spatial. Il semble être opéré par la Croissance Acide. Cependant, ils ne "
+"sont pas hostiles. Vous pourrez peut-être conclure un marché avec eux."
 
 #: src-en/data/events_sector_aea_acid.xml:1095
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[1]/text"
-msgstr "Attaquez le chantier naval !."
+msgstr "Attaquer le chantier spatial !."
 
 #: src-en/data/events_sector_aea_acid.xml:1097
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[1]/event/text"
 msgstr ""
-"Pour une raison quelconque, vous avez décidé d'attaquer le chantier naval "
-"improvisé. Bien que l'installation soit désarmée, l'un de leurs vaisseaux "
-"s'élève pour vous affronter et les défendre."
+"Pour une raison quelconque, vous avez décidé d'attaquer le chantier spatial "
+"de fortune. Bien que l'installation soit désarmée, l'un de leurs vaisseaux "
+"se lève pour vous rencontrer et les défendre."
 
 #: src-en/data/events_sector_aea_acid.xml:1100
 msgid ""
@@ -1477,14 +1478,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1106
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[2]/text"
-msgstr "Payez-les pour améliorer votre système d'oxygène."
+msgstr "Les payer pour améliorer votre système d'oxygène."
 
 #: src-en/data/events_sector_aea_acid.xml:1108
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[2]/event/text"
 msgstr ""
 "La Croissance Acide installe rapidement les améliorations à votre système "
-"d'oxygène, le rendant maintenant capable à la fois de soigner et d'éteindre "
+"d'oxygène, le rendant désormais capable à la fois de soigner et d'éteindre "
 "les incendies, selon le réglage."
 
 #: src-en/data/events_sector_aea_acid.xml:1116
@@ -1495,7 +1496,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1118
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[3]/event/text"
-msgstr "Vous décidez de passer le chantier naval improvisé."
+msgstr "Vous décidez de passer devant le chantier spatial de fortune."
 
 #: src-en/data/events_sector_aea_acid.xml:1120
 msgid ""
@@ -1510,7 +1511,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1150
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK\"]/text"
-msgstr "Un vaisseau Acide à proximité semble abandonné."
+msgstr "Un vaisseau Acide à proximité semble être abandonné."
 
 #: src-en/data/events_sector_aea_acid.xml:1153
 msgid ""
@@ -1537,7 +1538,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK\"]/choice[2]/event/text"
 msgstr ""
 "Vous vous détournez du vaisseau, pensant que cela ne vaut probablement pas "
-"le risque. Au lieu de cela, vous collectez quelques provisions flottant à "
+"le risque. Au lieu de cela, vous collectez des provisions flottant à "
 "proximité."
 
 #: src-en/data/events_sector_aea_acid.xml:1168
@@ -1554,16 +1555,16 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK_INVEST\"]/event[1]/text"
 msgstr ""
-"Vous trouvez le vaisseau dépourvu de presque tout, sauf quelques caisses de "
-"carburant."
+"Vous trouvez le vaisseau dépourvu de presque tout, à l'exception de quelques"
+" caisses de carburant."
 
 #: src-en/data/events_sector_aea_acid.xml:1184
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK_INVEST\"]/event[2]/text"
 msgstr ""
-"Alors que vous vous approchez du vaisseau, une sorte de piège caché se déclenche, vos moteurs sont mis hors service, et vous êtes maintenant mort dans l'eau.\n"
+"Alors que vous vous approchez du vaisseau, une sorte de piège caché se déclenche, vos moteurs sont mis hors service, et vous êtes maintenant immobilisé.\n"
 "\n"
-"    Pour aggraver les choses, vous parvenez juste à détecter une série de gros astéroïdes se dirigeant vers vous. Vous devrez les éliminer avant qu'ils n'atteignent votre position."
+"    Pour empirer les choses, vous détectez juste à temps une série de gros astéroïdes se dirigeant vers vous. Vous devrez les éliminer avant qu'ils ne vous atteignent."
 
 #: src-en/data/events_sector_aea_acid.xml:1190
 msgid ""
@@ -1574,9 +1575,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK_INVEST\"]/event[3]/text"
 msgstr ""
-"Alors que vous vous approchez du vaisseau, une sorte de piège caché se déclenche, vos moteurs sont mis hors service, et vous êtes maintenant mort dans l'eau.\n"
+"Alors que vous vous approchez du vaisseau, une sorte de piège caché se déclenche, vos moteurs sont hors service, et vous êtes maintenant à l'arrêt.\n"
 "\n"
-"    Pour aggraver les choses, vous parvenez juste à détecter une série de gros astéroïdes se dirigeant vers vous. Vous devrez les éliminer avant qu'ils n'atteignent votre position."
+"    Pour empirer les choses, vous détectez à peine une série de gros astéroïdes se dirigeant vers vous. Vous devrez les éliminer avant qu'ils ne vous atteignent."
 
 #: src-en/data/events_sector_aea_acid.xml:1201
 msgid ""
@@ -1602,7 +1603,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_REFUGEE_AEA_ACID\"]/choice[2]/event/text"
 msgstr ""
-"Vous vous méfiez des réfugiés mais supposez qu'il est sûr de faire quelque "
+"Vous vous méfiez des réfugiés mais estimez qu'il est sûr de faire quelque "
 "chose sur le vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:1219
@@ -1619,9 +1620,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"REFUGEE_HAIL_LIST_AEA_ACID\"]/event[2]/text"
 msgstr ""
-"Alors que vous contactez le vaisseau de réfugiés, un vaisseau Limace arrive "
-"dans le système... il chassait le vaisseau de réfugiés pour le sport, et "
-"maintenant ils vous ont trouvé à la place !."
+"Alors que vous interpelez le vaisseau réfugié, un vaisseau Limace saute dans"
+" le système... il chassait le vaisseau réfugié par sport, et maintenant ils "
+"vous ont trouvé à la place !."
 
 #: src-en/data/events_sector_aea_acid.xml:1235
 msgid ""
@@ -1633,7 +1634,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/beaconType/unvisitedTooltip"
 msgstr ""
 "Un emplacement non visité. Cette balise est située au sein de la Croissance "
-"Acide, ce qui peut être préjudiciable à la santé de votre vaisseau."
+"Acide, ce qui peut être néfaste pour la santé de votre vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:1245
 msgid ""
@@ -1649,21 +1650,21 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/text"
 msgstr ""
-"Étrangement, un capitaine Orchidée vous contacte depuis un vaisseau Acide. "
-"\"Capitaine, vous n'auriez pas de Croissance Acide avec vous ? Nous vous "
-"offririons une récompense si vous nous en donniez pour qu'elle soit "
-"détruite.\"\""
+"Étrangement, un capitaine Orchidée vous interpelle depuis un vaisseau Acide."
+" \"Capitaine, il ne vous arriverait pas d'avoir de la Croissance Acide avec "
+"vous ? Nous vous offririons une récompense si vous nous en remettiez pour "
+"qu'elle soit détruite.\"\""
 
 #: src-en/data/events_sector_aea_acid.xml:1255
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/choice[@req=\"aea_acid_soldier\"]/text"
-msgstr "(Soldat Acide) Acceptez leur offre."
+msgstr "(Soldat Acide) Accepter leur offre."
 
 #: src-en/data/events_sector_aea_acid.xml:1257
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/choice[@req=\"aea_acid_soldier\"]/event/text"
 msgstr ""
-"Vous envoyez votre Soldat Acide, les orchidées tiennent leur promesse et "
+"Vous envoyez votre Soldat Acide, les Orchidées tiennent leur promesse et "
 "exterminent la Croissance Acide à l'intérieur. Les Orchidées envoient la "
 "récompense comme promis."
 
@@ -1675,13 +1676,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1266
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/choice[2]/text"
-msgstr "Vengez la Croissance Acide."
+msgstr "Venger la Croissance Acide."
 
 #: src-en/data/events_sector_aea_acid.xml:1268
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/choice[2]/event/text"
 msgstr ""
-"Bien que techniquement ce ne soient pas des meurtres, ces orchidées abusent "
+"Bien que techniquement ce ne soient pas des meurtres, ces Orchidées abusent "
 "de leur relation avec la Croissance Acide pour les exterminer."
 
 #: src-en/data/events_sector_aea_acid.xml:1271
@@ -1694,7 +1695,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/beaconType/unvisitedTooltip"
 msgstr ""
 "Un emplacement non visité. Cette balise est située au sein de la Croissance "
-"Acide, ce qui peut être préjudiciable à la santé de votre vaisseau."
+"Acide, ce qui peut être néfaste pour la santé de votre vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:1283
 msgid ""
@@ -1710,7 +1711,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/text"
 msgstr ""
-"Vous êtes immédiatement contacté par un vaisseau Acide d'apparence "
+"Vous êtes immédiatement interpellé par un vaisseau Acide d'apparence "
 "dangereuse gardant une station. \"Vous n'êtes pas le bienvenu ici. "
 "Choisissez votre punition et préparez-vous à mourir.\""
 
@@ -1725,8 +1726,8 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"shields\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
-"\"L'offre est acceptable.\" Votre puissance de bouclier chute soudainement "
-"et ils chargent."
+"\"Offre acceptable.\" La puissance de vos boucliers chute soudainement et "
+"ils chargent."
 
 #: src-en/data/events_sector_aea_acid.xml:1298
 msgid ""
@@ -1769,8 +1770,8 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"weapons\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
-"\"Une offrande acceptable.\" Votre système d'armes enregistre un module de "
-"piratage. Vous n'avez guère le temps de réagir avant qu'ils n'attaquent."
+"\"Une offre acceptable.\" Votre système d'armes enregistre un module de "
+"piratage. Vous avez à peine le temps de réagir avant qu'ils n'attaquent."
 
 #: src-en/data/events_sector_aea_acid.xml:1325
 msgid ""
@@ -1782,7 +1783,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"weapons\""
 " and @lvl=\"2\"]/event/choice[@req=\"ANTI_VIRUS\"]/text"
-msgstr "(Anti-Virus) Restaurez vos armes."
+msgstr "(Anti-Virus) Restaurer vos armes."
 
 #: src-en/data/events_sector_aea_acid.xml:1331
 msgid ""
@@ -1854,7 +1855,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1375
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"pilot\"]/event/text"
-msgstr "\"Une punition acceptable.\" Ils prennent la ferraille et s'en vont."
+msgstr "\"Une punition acceptable.\" Ils prennent la ferraille et partent."
 
 #: src-en/data/events_sector_aea_acid.xml:1382
 msgid ""
@@ -1877,20 +1878,20 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/text"
 msgstr ""
-"Vous arrivez et trouvez un petit chantier de réparation Acide automatique. "
-"Vous pourriez probablement essayer de vous y faufiler et espérer qu'il vous "
+"Vous arrivez et trouvez un petit chantier de réparation automatique Acide. "
+"Vous pourriez probablement essayer de vous faufiler et espérer qu'il vous "
 "répare gratuitement. Il semble aussi que vous pourriez payer pour des "
 "réparations."
 
 #: src-en/data/events_sector_aea_acid.xml:1399
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[1]/text"
-msgstr "Faufilez-vous dans la file."
+msgstr "Se faufiler dans la file d'attente."
 
 #: src-en/data/events_sector_aea_acid.xml:1403
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[2]/text"
-msgstr "Achetez 10 réparations de coque pour 30 ferrailles."
+msgstr "Acheter 10 réparations de coque pour 30 ferraille."
 
 #: src-en/data/events_sector_aea_acid.xml:1405
 msgid ""
@@ -1903,7 +1904,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1413
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[3]/text"
-msgstr "Évitez le chantier de réparation."
+msgstr "Éviter le chantier de réparation."
 
 #: src-en/data/events_sector_aea_acid.xml:1415
 msgid ""
@@ -1924,8 +1925,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[1]/text"
 msgstr ""
-"Juste au moment où vous pensez obtenir une réparation gratuite, un vaisseau "
-"Acide sort de la file derrière vous et active ses armes."
+"Alors que vous pensez être sur le point d'obtenir une réparation gratuite, "
+"un vaisseau Acide sort de la file d'attente derrière vous et active ses "
+"armes."
 
 #: src-en/data/events_sector_aea_acid.xml:1432
 msgid ""
@@ -1935,7 +1937,8 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1437
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[2]/text"
-msgstr "Vous arrivez en tête de file et recevez une réparation gratuite."
+msgstr ""
+"Vous atteignez le début de la file et recevez une réparation gratuite."
 
 #: src-en/data/events_sector_aea_acid.xml:1440
 msgid ""
@@ -1946,8 +1949,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[2]/choice/event/text"
 msgstr ""
-"Juste au moment où vous pensez vous en tirer, vous êtes intercepté par un "
-"vaisseau Acide de l'autre bout de la file."
+"Alors que vous pensez vous en sortir, vous êtes intercepté par un vaisseau "
+"Acide de l'autre bout de la file d'attente."
 
 #: src-en/data/events_sector_aea_acid.xml:1445
 msgid ""
@@ -1957,7 +1960,8 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1452
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[3]/text"
-msgstr "Vous arrivez en tête de file et recevez une réparation gratuite."
+msgstr ""
+"Vous atteignez le début de la file et recevez une réparation gratuite."
 
 #: src-en/data/events_sector_aea_acid.xml:1455
 msgid ""
@@ -1968,8 +1972,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[3]/choice/event/text"
 msgstr ""
-"Juste au moment où vous pensez vous en tirer, vous êtes intercepté par un "
-"vaisseau Acide de l'autre bout de la file."
+"Alors que vous pensez vous en sortir, vous êtes intercepté par un vaisseau "
+"Acide de l'autre bout de la file d'attente."
 
 #: src-en/data/events_sector_aea_acid.xml:1460
 msgid ""
@@ -1980,21 +1984,21 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[3]/choice/event/choice/event/text"
 msgstr ""
-"Cependant, le vaisseau continue de vous dépasser, il semble qu'ils n'étaient"
-" finalement pas en interception."
+"Cependant, le vaisseau continue simplement de voler devant vous, il semble "
+"qu'il n'intercepte pas après tout."
 
 #: src-en/data/events_sector_aea_acid.xml:1471
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORCHID\"]/text"
 msgstr ""
-"Un vaisseau renégat vous attend à la balise. \"Des travailleurs bon marché !"
-" Nous avons des émetteurs d'oxygène et ces droïdes Acides avancés, venez "
-"jeter un coup d'œil !\""
+"Un vaisseau rebelle vous attend à la balise. \"Travailleurs à bas prix ! "
+"Nous avons des émetteurs d'oxygène et ces droïdes Acides avancés, venez "
+"jeter un œil !\""
 
 #: src-en/data/events_sector_aea_acid.xml:1475
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORCHID\"]/choice[1]/text"
-msgstr "La piraterie est méprisable. Attaquez les esclavagistes !."
+msgstr "Le piratage est méprisable. Attaquer les esclavagistes !."
 
 #: src-en/data/events_sector_aea_acid.xml:1477
 msgid ""
@@ -2085,7 +2089,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1547
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER_FAIL\"]/choice[1]/text"
-msgstr "Attaquez les esclavagistes !."
+msgstr "Attaquez les esclavagistes !"
 
 #: src-en/data/events_sector_aea_acid.xml:1549
 msgid ""
@@ -2122,19 +2126,19 @@ msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER\"]/event[4]/text"
 msgstr ""
 "À votre surprise, le message de votre Orchidée semble toucher les pirates. "
-"Ou peut-être pas... il semble qu'ils soient juste ennuyés. \"Pff, d'accord !"
-" J'ai compris, vous êtes des gens aussi, bla bla bla. Je connais "
-"l'essentiel. Si je suis impoli, vous me tuerez. J'ai déjà rencontré des "
-"Renégats. Prenez juste ce maudit robot et laissez-moi tranquille.\" Les "
-"esclavagistes vous livrent un des soldats Acides."
+"Ou peut-être pas... il semble qu'ils soient juste agacés. \"Pff, d'accord ! "
+"Je comprends, vous êtes des gens aussi, bla bla bla. Je connais l'essentiel."
+" Si je suis impoli, vous me tuerez. J'ai déjà rencontré des Renégats. Prenez"
+" ce maudit robot et laissez-moi tranquille.\" Les esclavagistes vous livrent"
+" l'un des soldats Acides."
 
 #: src-en/data/events_sector_aea_acid.xml:1592
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_IMPORTANT_PRISONER\"]/text"
 msgstr ""
 "Une Élite Acide semble protéger un petit Geôlier Orchidée. Vous n'êtes pas "
-"certain de la raison, mais sûrement quelque chose d'important doit y être "
-"gardé ?."
+"certain pourquoi, mais sûrement quelque chose d'important doit y être gardé "
+"?."
 
 #: src-en/data/events_sector_aea_acid.xml:1596
 msgid ""
@@ -2176,7 +2180,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/beaconType/unvisitedTooltip"
 msgstr ""
 "Un emplacement non visité. Cette balise est située au sein de la Croissance "
-"Acide, ce qui peut être préjudiciable à la santé de votre vaisseau."
+"Acide, ce qui peut être néfaste pour la santé de votre vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:1626
 msgid ""
@@ -2205,7 +2209,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/choice[1]/event/text"
 msgstr ""
-"Vous ramassez le Chef Acide et vous tournez pour faire face au vaisseau "
+"Vous récupérez le Chef Acide et vous tournez pour faire face au vaisseau "
 "Limace d'élite."
 
 #: src-en/data/events_sector_aea_acid.xml:1639
@@ -2227,7 +2231,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/choice[2]/event/text"
 msgstr ""
-"Vous vous envolez, laissant le vaisseau Acide se débrouiller seul. La "
+"Vous vous éloignez, laissant le vaisseau Acide se débrouiller seul. La "
 "Croissance Acide ne peut pas vraiment mourir de toute façon, n'est-ce pas ?."
 
 #: src-en/data/events_sector_aea_acid.xml:1652
@@ -2245,9 +2249,9 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WEAPONCACHE\"]/text"
 msgstr ""
 "Vous arrivez à la balise et découvrez une cache d'armes à la dérive. Au "
-"loin, cependant, un vaisseau Acide s'approche. Vous avez assez de temps pour"
-" fuir et éviter un combat, ou vous pourriez risquer le combat et prendre une"
-" des armes."
+"loin, cependant, se trouve un vaisseau Acide qui approche. Vous avez le "
+"temps de vous enfuir et d'éviter un combat, ou vous pourriez risquer le "
+"combat et prendre l'une des armes."
 
 #: src-en/data/events_sector_aea_acid.xml:1668
 msgid ""
@@ -2259,7 +2263,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WEAPONCACHE\"]/choice[1]/event/text"
 msgstr ""
 "Vous pouvez accéder à la cache, mais vous n'avez que le temps de prendre une"
-" arme avant d'être obligé de combattre."
+" arme avant d'être forcé de combattre."
 
 #: src-en/data/events_sector_aea_acid.xml:1674
 msgid ""
@@ -2274,7 +2278,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1682
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WEAPONCACHE\"]/choice[2]/event/text"
-msgstr "Vous vous envolez, laissant le vaisseau Acide à la cache."
+msgstr "Vous vous éloignez, laissant le vaisseau Acide à la cache."
 
 #: src-en/data/events_sector_aea_acid.xml:1684
 msgid ""
@@ -2292,19 +2296,19 @@ msgid ""
 msgstr ""
 "Vous arrivez à la balise et découvrez un vaisseau rocailleux à la dérive. Il"
 " est inhabituel de voir les Rocailleux aussi loin, et encore plus inhabituel"
-" que celui-ci ait manqué de carburant."
+" que celui-ci soit à court de carburant."
 
 #: src-en/data/events_sector_aea_acid.xml:1713
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[1]/text"
-msgstr "Fournissez-leur du carburant."
+msgstr "Les approvisionner en carburant."
 
 #: src-en/data/events_sector_aea_acid.xml:1715
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[1]/event/text"
 msgstr ""
-"Vous leur donnez une partie de votre carburant, les Rocailleux prennent le "
-"carburant avec prudence avant de vous rembourser avec de la ferraille."
+"Vous leur donnez une partie de votre carburant. Les Rocailleux prennent "
+"prudemment le carburant avant de vous rembourser avec de la ferraille."
 
 #: src-en/data/events_sector_aea_acid.xml:1723
 msgid ""
@@ -2314,7 +2318,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1725
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[2]/event/text"
-msgstr "Vous armez vos armes et engagez les Rocailleux."
+msgstr "Vous activez vos armes et engagez les Rocailleux."
 
 #: src-en/data/events_sector_aea_acid.xml:1728
 msgid ""
@@ -2329,7 +2333,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1736
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[3]/event/text"
-msgstr "Vous vous envolez, laissant le vaisseau Acide à la cache."
+msgstr "Vous vous éloignez, laissant le vaisseau Acide à la cache."
 
 #: src-en/data/events_sector_aea_acid.xml:1738
 msgid ""
@@ -2345,27 +2349,27 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_TRICK\"]/text"
 msgstr ""
-"Vous trouvez un vaisseau Acide diffusant le signal de détresse et les "
+"Vous trouvez un vaisseau Acide qui diffuse un signal de détresse et le "
 "contactez. \"Vous ne devriez pas être ici, préparez-vous à mourir.\" "
-"Apparemment, la Croissance Acide a inopinément tendu un piège aux intrus "
-"ici."
+"Apparemment, la Croissance Acide a inopinément mis en place un piège pour "
+"les intrus ici."
 
 #: src-en/data/events_sector_aea_acid.xml:1755
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_TRICK\"]/choice[@req=\"aea_acid_friendly\"]/text"
-msgstr "(Amical) Expliquez que vous êtes ami avec la Croissance Acide."
+msgstr "(Amical) Expliquer que vous êtes ami avec la Croissance Acide."
 
 #: src-en/data/events_sector_aea_acid.xml:1758
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_TRICK\"]/choice[@req=\"aea_acid_friendly\"]/event/text"
 msgstr ""
 "\"Nous ne l'avions pas réalisé. Nous sommes désolés de vous avoir attiré ici"
-" sous de faux prétextes. Nous vous indemniserons.\""
+" sous de faux prétextes. Nous vous dédommagerons.\""
 
 #: src-en/data/events_sector_aea_acid.xml:1763
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_TRICK\"]/choice[2]/text"
-msgstr "Préparez-vous au combat !."
+msgstr "Préparer au Combat !."
 
 #: src-en/data/events_sector_aea_acid.xml:1770
 msgid ""
@@ -2381,8 +2385,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[1]/text"
 msgstr ""
-"Le signal de la balise est plus profond dans la nébuleuse, en le traquant "
-"vous passez devant une paire d'épaves, toutes deux avec d'étranges brûlures "
+"Le signal de la balise est plus profond dans la nébuleuse. En le traquant, "
+"vous passez près de deux épaves, toutes deux présentant d'étranges brûlures "
 "sur les côtés."
 
 #: src-en/data/events_sector_aea_acid.xml:1781
@@ -2396,8 +2400,8 @@ msgid ""
 msgstr ""
 "Finalement, vous trouvez l'emplacement de la balise de détresse, il y a un "
 "vaisseau Acide gravement endommagé. Alors que vous vous approchez, vous êtes"
-" interpellé par l'unique occupant survivant du vaisseau. \"Combien y avait-"
-"il d'épaves ? Il nous est interdit de partir tant que nous n'avons pas la "
+" interpellé par le seul occupant survivant du vaisseau. \"Combien d'épaves y"
+" avait-il ? Il nous est interdit de partir tant que nous n'avons pas la "
 "confirmation qu'ils sont tous morts.\""
 
 #: src-en/data/events_sector_aea_acid.xml:1785
@@ -2418,15 +2422,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1797
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[1]/choice/event/choice[4]/text"
-msgstr "Demandez combien d'épaves ils recherchent."
+msgstr "Demander combien d'épaves ils cherchent."
 
 #: src-en/data/events_sector_aea_acid.xml:1804
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[2]/text"
 msgstr ""
-"Le signal de la balise est plus profond dans la nébuleuse, en le traquant "
-"vous passez devant 5 épaves différentes, toutes avec d'étranges brûlures sur"
-" les côtés."
+"Le signal de la balise est plus profond dans la nébuleuse. En le traquant, "
+"vous passez près de 5 épaves différentes, toutes présentant d'étranges "
+"brûlures sur les côtés."
 
 #: src-en/data/events_sector_aea_acid.xml:1806
 msgid ""
@@ -2439,8 +2443,8 @@ msgid ""
 msgstr ""
 "Finalement, vous trouvez l'emplacement de la balise de détresse, il y a un "
 "vaisseau Acide gravement endommagé. Alors que vous vous approchez, vous êtes"
-" interpellé par l'unique occupant survivant du vaisseau. \"Combien y avait-"
-"il d'épaves ? Il nous est interdit de partir tant que nous n'avons pas la "
+" interpellé par le seul occupant survivant du vaisseau. \"Combien d'épaves y"
+" avait-il ? Il nous est interdit de partir tant que nous n'avons pas la "
 "confirmation qu'ils sont tous morts.\""
 
 #: src-en/data/events_sector_aea_acid.xml:1810
@@ -2461,15 +2465,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1822
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[2]/choice/event/choice[4]/text"
-msgstr "Demandez combien d'épaves ils recherchent."
+msgstr "Demander combien d'épaves ils cherchent."
 
 #: src-en/data/events_sector_aea_acid.xml:1829
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[3]/text"
 msgstr ""
-"Le signal de la balise est plus profond dans la nébuleuse, en le traquant "
-"vous passez devant sept épaves séparées, toutes avec d'étranges brûlures sur"
-" les côtés."
+"Le signal de la balise est plus profond dans la nébuleuse. En le traquant, "
+"vous passez près de sept épaves distinctes, toutes présentant d'étranges "
+"brûlures sur les côtés."
 
 #: src-en/data/events_sector_aea_acid.xml:1831
 msgid ""
@@ -2482,8 +2486,8 @@ msgid ""
 msgstr ""
 "Finalement, vous trouvez l'emplacement de la balise de détresse, il y a un "
 "vaisseau Acide gravement endommagé. Alors que vous vous approchez, vous êtes"
-" interpellé par l'unique occupant survivant du vaisseau. \"Combien y avait-"
-"il d'épaves ? Il nous est interdit de partir tant que nous n'avons pas la "
+" interpellé par le seul occupant survivant du vaisseau. \"Combien d'épaves y"
+" avait-il ? Il nous est interdit de partir tant que nous n'avons pas la "
 "confirmation qu'ils sont tous morts.\""
 
 #: src-en/data/events_sector_aea_acid.xml:1835
@@ -2504,21 +2508,22 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1847
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[3]/choice/event/choice[4]/text"
-msgstr "Demandez combien d'épaves ils recherchent."
+msgstr "Demander combien d'épaves ils cherchent."
 
 #: src-en/data/events_sector_aea_acid.xml:1855
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_DISTRESS_QUESTION_FALSE\"]/text"
 msgstr ""
-"\"C'est malheureux, nous devrons prendre certaines de vos provisions jusqu'à"
-" ce que la tâche soit terminée.\" Le Soldat Acide se téléporte rapidement à "
-"bord et prend certaines de vos provisions avant que vous ne puissiez réagir."
+"\"C'est regrettable, nous devrons prendre une partie de vos provisions "
+"jusqu'à ce que la tâche soit terminée.\" Le Soldat Acide se téléporte "
+"rapidement à bord et prend une partie de vos provisions avant que vous ne "
+"puissiez réagir."
 
 #: src-en/data/events_sector_aea_acid.xml:1863
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_DISTRESS_QUESTION_TRUE\"]/text"
 msgstr ""
-"\"Nous avons alors accompli notre tâche. Nous vous rejoindrons dans votre "
+"\"Nous avons accompli notre tâche alors. Nous vous rejoindrons dans votre "
 "voyage.\" Le Soldat Acide se téléporte à bord et rejoint votre équipage !."
 
 #: src-en/data/events_sector_aea_acid.xml:1864
@@ -2530,17 +2535,17 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_DISTRESS_QUESTION_FAIL\"]/text"
 msgstr ""
-"\"Nous... ne pouvons pas nous souvenir...\" Les communications se coupent et"
-" vous êtes incapable de les rétablir, vous décidez de réduire vos pertes et "
-"de récupérer certaines des épaves pendant que votre générateur de saut se "
-"recharge."
+"\"Nous... ne pouvons pas nous souvenir...\" Les communications sont coupées "
+"et vous êtes incapable de les rétablir. Vous décidez de limiter vos pertes "
+"et de récupérer certaines des épaves pendant que votre propulsion de saut se"
+" recharge."
 
 #: src-en/data/events_sector_aea_acid.xml:1886
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/beaconType/unvisitedTooltip"
 msgstr ""
 "Un emplacement non visité. Cette balise est située au sein de la Croissance "
-"Acide, ce qui peut être préjudiciable à la santé de votre vaisseau."
+"Acide, ce qui peut être néfaste pour la santé de votre vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:1887
 msgid ""
@@ -2568,28 +2573,28 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/text"
 msgstr ""
-"La Croissance Acide explique qu'elle chasse un vaisseau qui s'introduit sur "
-"son territoire. Ce vaisseau a réussi à échapper à leur capture 3 fois "
-"maintenant. Ils espèrent que vous pourrez le retrouver. Si vous réussissez, "
-"une récompense vous attendra."
+"La Croissance Acide explique qu'ils chassent un vaisseau qui empiète sur "
+"leur territoire. Ce vaisseau a réussi à échapper à leur capture 3 fois "
+"maintenant. Ils espèrent que vous pourrez retrouver le vaisseau. Si vous "
+"réussissez, une récompense vous attendra."
 
 #: src-en/data/events_sector_aea_acid.xml:1901
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/choice[1]/text"
-msgstr "Acceptez de traquer le vaisseau."
+msgstr "Accepter de traquer le vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:1903
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Bien que vous soyez aussi techniquement un intrus, la Croissance Acide se "
-"soucie clairement beaucoup plus de ce autre vaisseau. Ils vous envoient les "
-"coordonnées de la dernière localisation rapportée."
+"Bien qu'étant techniquement aussi un intrus, la Croissance Acide se soucie "
+"clairement beaucoup plus de ce vaisseau. Ils vous envoient les coordonnées "
+"du dernier emplacement signalé."
 
 #: src-en/data/events_sector_aea_acid.xml:1909
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/choice[2]/text"
-msgstr "Refusez la mission."
+msgstr "Refuser la mission."
 
 #: src-en/data/events_sector_aea_acid.xml:1911
 msgid ""
@@ -2616,8 +2621,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[2]/event/text"
 msgstr ""
-"Pour une raison quelconque, vous avez décidé de vous frotter à l'Élite "
-"Acide. Vous vous précipitez aux postes de combat."
+"Pour une raison quelconque, vous avez décidé de vous en prendre à l'Élite "
+"Acide. Vous vous hâtez vers les postes de combat."
 
 #: src-en/data/events_sector_aea_acid.xml:1930
 msgid ""
@@ -2633,8 +2638,8 @@ msgstr "C'est probablement une bonne idée de les éviter."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[3]/event/text"
 msgstr ""
-"Vous frotter à une Élite Acide est la pire chose que vous puissiez faire. "
-"Vous laissez le vaisseau tranquille."
+"Vous en prendre à une Élite Acide est la pire chose que vous puissiez faire."
+" Vous laissez le vaisseau tranquille."
 
 #: src-en/data/events_sector_aea_acid.xml:1940
 msgid ""
@@ -2655,8 +2660,8 @@ msgstr "La Croissance Acide vous a demandé de poursuivre un vaisseau ici."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/text"
 msgstr ""
-"Vous apercevez le vaisseau en question se glisser dans la nébuleuse. Vous "
-"n'êtes pas sûr s'ils vous ont remarqué."
+"Vous apercevez le vaisseau en question s'éloigner furtivement dans la "
+"nébuleuse. Vous n'êtes pas sûr s'ils vous ont remarqué."
 
 #: src-en/data/events_sector_aea_acid.xml:1958
 msgid ""
@@ -2667,10 +2672,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[1]/event/text"
 msgstr ""
-"Le vaisseau tente désespérément de vous semer, mais vous ne cédez pas. "
-"Enfin, ils abandonnent et vous contactent. \"Êtes-vous l'un d'eux ? S'il "
-"vous plaît, accordez-nous la miséricorde, nous essayons juste de nous "
-"échapper !\""
+"Le vaisseau essaie désespérément de vous semer, mais vous ne relâchez pas. "
+"Finalement, ils abandonnent et vous interpellent. \"Êtes-vous l'un d'entre "
+"eux ? S'il vous plaît, accordez-nous votre miséricorde, nous essayons juste "
+"de nous échapper !\""
 
 #: src-en/data/events_sector_aea_acid.xml:1963
 msgid ""
@@ -2680,7 +2685,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:1965
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[1]/event/choice[1]/event/text"
-msgstr "Vous ne laissez pas le vaisseau partir sans combat."
+msgstr "Vous ne laissez pas le vaisseau partir sans combattre."
 
 #: src-en/data/events_sector_aea_acid.xml:1968
 msgid ""
@@ -2696,10 +2701,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
-"En partant, vous remarquez une petite marque cachée, en y regardant de plus "
-"près, vous réalisez que c'est la marque d'un MFK Ace. Il semble que la "
-"Croissance Acide avait de bonnes raisons de chasser ce vaisseau. Ils sont "
-"partis avant que vous ne puissiez faire quoi que ce soit."
+"Alors qu'ils partent, vous remarquez une petite marque cachée. En y "
+"regardant de plus près, vous réalisez que c'est la marque d'un MFK Ace. Il "
+"semble que la Croissance Acide avait de bonnes raisons de chasser ce "
+"vaisseau. Ils sont partis avant que vous ne puissiez faire quoi que ce soit."
 
 #: src-en/data/events_sector_aea_acid.xml:1985
 msgid ""
@@ -2710,8 +2715,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[2]/event/text"
 msgstr ""
-"Vous avez perdu tout intérêt pour la récompense, et décidez de ne pas "
-"poursuivre le vaisseau."
+"Vous avez perdu intérêt pour la récompense et décidez de ne pas poursuivre "
+"le vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:1989
 msgid ""
@@ -2745,9 +2750,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_QUEST_AEA_ACID_PIRATE_TRAP\"]/choice[1]/event/text"
 msgstr ""
-"Vous surprenez leur conversation et apprenez qu'ils prévoient de piller une "
-"base Acide secrète dans la région. Le duo saute et vous notez leurs "
-"coordonnées cibles."
+"Vous surprenez leur conversation et apprenez qu'ils prévoient d'attaquer une"
+" base Acide secrète dans la zone. Le duo saute et vous notez leurs "
+"coordonnées de la cible."
 
 #: src-en/data/events_sector_aea_acid.xml:2016
 msgid ""
@@ -2778,9 +2783,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/text"
 msgstr ""
-"Vous rattrapez les deux vaisseaux Limaces et ils sont déjà en train de mener"
-" leur raid ! L'un est au corps à corps avec un vaisseau Acide, l'autre "
-"semble se diriger vers une petite cache spatiale que le vaisseau protégeait."
+"Vous rattrapez les deux vaisseaux Limaces et ils mènent déjà leur raid ! "
+"L'un est en combat rapproché avec un vaisseau Acide, l'autre semble se "
+"diriger vers une petite cache spatiale que le vaisseau protégeait."
 
 #: src-en/data/events_sector_aea_acid.xml:2040
 msgid ""
@@ -2805,9 +2810,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/choice/event/choice[1]/event/text"
 msgstr ""
-"Il y a de l'argent à se faire ici. Les Limaces le savent. Vous vous "
-"retournez contre le vaisseau Acide et l'interceptez juste avant qu'il "
-"n'atteigne la cache !."
+"Il y a de l'argent à se faire ici. Les Limaces le savent. Vous vous tournez "
+"vers le vaisseau Acide et l'interceptez juste avant qu'ils n'atteignent la "
+"cache !."
 
 #: src-en/data/events_sector_aea_acid.xml:2049
 msgid ""
@@ -2856,22 +2861,22 @@ msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"NEBULA_AEA_ACID_FIGHT\"]/text[3]"
 msgstr ""
 "Un vaisseau Acide d'apparence étrange apparaît dans la nébuleuse, vous vous "
-"approchez prudemment, incertain de l'armement du vaisseau. Heureusement, le "
-"vaisseau Acide lève le voile lorsque des armes jaillissent de sa coque !."
+"approchez prudemment, incertain des armements du vaisseau. Heureusement, le "
+"vaisseau Acide lève le doute lorsque des armes surgissent de sa coque !."
 
 #: src-en/data/events_sector_aea_acid.xml:2105
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"NEBULA_AEA_ACID_FIGHT\"]/text[4]"
 msgstr ""
-"Vous détectez un vaisseau Acide en approche, il semble que celui-ci ne se "
-"soucie pas de la furtivité et attaque de front."
+"Vous détectez un vaisseau Acide qui approche, il semble que celui-ci ne se "
+"soucie pas de la furtivité et se lance directement dans le combat."
 
 #: src-en/data/events_sector_aea_acid.xml:2106
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"NEBULA_AEA_ACID_FIGHT\"]/text[5]"
 msgstr ""
-"En arrivant à la balise, l'un des trois vaisseaux acides en cercle se "
-"détache pour vous rencontrer, préparez-vous au combat."
+"Alors que vous arrivez à la balise, l'un des trois vaisseaux acides en "
+"cercle se détache pour vous rencontrer, préparez-vous au combat."
 
 #: src-en/data/events_sector_aea_acid.xml:2113
 msgid ""
@@ -2890,31 +2895,31 @@ msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"STORM_AEA_ACID_FIGHT\"]/text[2]"
 msgstr ""
 "Vous ne pouvez vous empêcher de vous sentir désavantagé face au vaisseau "
-"Acide, il semble presque à l'aise dans cette tempête ionique."
+"Acide, il semble presque chez lui dans cette tempête ionique."
 
 #: src-en/data/events_sector_aea_acid.xml:2120
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"STORM_AEA_ACID_FIGHT\"]/text[3]"
 msgstr ""
-"Vous arrivez au milieu d'une tempête ionique. Vous parvenez heureusement à "
-"repérer le vaisseau Acide en embuscade juste à temps. Préparez-vous au "
+"Vous arrivez au milieu d'une tempête ionique. Heureusement, vous parvenez à "
+"détecter le vaisseau Acide en embuscade juste à temps. Préparez-vous au "
 "combat !."
 
 #: src-en/data/events_sector_aea_acid.xml:2121
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"STORM_AEA_ACID_FIGHT\"]/text[4]"
 msgstr ""
-"Vous vous retrouvez coincé au milieu d'une tempête ionique avec un vaisseau "
-"Acide à une courte distance, refusant tous les contacts. Vous essayez "
-"prudemment de vous glisser plus profondément dans les nuages, mais ils se "
-"tournent soudainement pour attaquer !."
+"Vous vous retrouvez bloqué au milieu d'une tempête ionique avec un vaisseau "
+"Acide à une courte distance, refusant toutes les communications. Vous "
+"essayez prudemment de vous glisser plus loin dans les nuages, mais ils se "
+"retournent soudainement pour attaquer !."
 
 #: src-en/data/events_sector_aea_acid.xml:2127
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_FIGHT\"]/beaconType/unvisitedTooltip"
 msgstr ""
 "Un emplacement non visité. Cette balise est située au sein de la Croissance "
-"Acide, ce qui peut être préjudiciable à la santé de votre vaisseau."
+"Acide, ce qui peut être néfaste pour la santé de votre vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:2128
 msgid ""
@@ -2932,7 +2937,7 @@ msgid ""
 msgstr ""
 "Cette balise est profondément ancrée dans la Croissance Acide, et il n'est "
 "donc pas surprenant qu'un vaisseau Acide apparaisse du brouillard pour "
-"attaquer."
+"Attaquer."
 
 #: src-en/data/events_sector_aea_acid.xml:2138
 msgid ""
@@ -2944,7 +2949,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_TEST\"]/beaconType/unvisitedTooltip"
 msgstr ""
 "Un emplacement non visité. Cette balise est située au sein de la Croissance "
-"Acide, ce qui peut être préjudiciable à la santé de votre vaisseau."
+"Acide, ce qui peut être néfaste pour la santé de votre vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:2147
 msgid ""
@@ -2970,7 +2975,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/beaconType/unvisitedTooltip"
 msgstr ""
 "Un emplacement non visité. Cette balise est située au sein de la Croissance "
-"Acide, ce qui peut être préjudiciable à la santé de votre vaisseau."
+"Acide, ce qui peut être néfaste pour la santé de votre vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:2164
 msgid ""
@@ -2986,15 +2991,15 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/text"
 msgstr ""
-"Vous êtes surpris de trouver un vaisseau échoué si loin à l'intérieur de la "
-"Croissance Acide, et vous vous approchez pour lui porter assistance. Lorsque"
-" vous voyez l'insigne pirate sur la coque, vous reconsidérez rapidement "
-"votre décision."
+"Vous êtes surpris de trouver un vaisseau échoué aussi loin à l'intérieur de "
+"la Croissance Acide, et vous vous approchez pour lui offrir de l'aide. "
+"Lorsque vous voyez l'insigne de pirate sur la coque, vous reconsidérez "
+"rapidement."
 
 #: src-en/data/events_sector_aea_acid.xml:2174
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/choice[1]/text"
-msgstr "Attaque !."
+msgstr "Attaquer !."
 
 #: src-en/data/events_sector_aea_acid.xml:2176
 msgid ""
@@ -3015,11 +3020,11 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/text"
 msgstr ""
-"Vous entendez un cri de votre équipage et arrivez en courant. Une étrange "
-"bombe a explosé dans l'une des pièces de votre vaisseau, empoisonnant l'un "
-"de vos membres d'équipage. Il semble qu'elle provienne d'un vaisseau Acide à"
-" proximité. \"Merci d'avoir testé notre arme, veuillez nous faire savoir "
-"quand votre membre d'équipage mourra.\""
+"Vous entendez un cri de votre équipage et accourez. Une étrange bombe a "
+"explosé dans l'une des pièces de votre vaisseau, empoisonnant l'un de vos "
+"membres d'équipage. Elle semble provenir d'un vaisseau Acide proche. \"Merci"
+" d'avoir testé notre arme, veuillez nous faire savoir quand votre membre "
+"d'équipage mourra.\""
 
 #: src-en/data/events_sector_aea_acid.xml:2202
 msgid ""
@@ -3029,14 +3034,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:2208
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[1]/text"
-msgstr "Attaquez-les, ils pourraient avoir l'antidote à bord !."
+msgstr "Attaquez-les, ils ont peut-être l'antidote à bord !."
 
 #: src-en/data/events_sector_aea_acid.xml:2210
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[1]/event/text"
 msgstr ""
-"Vous vous précipitez pour armer les armes et prendre l'antidote du vaisseau "
-"Acide par la force."
+"Vous vous hâtez d'armer les armes et de prendre l'antidote du vaisseau Acide"
+" par la force."
 
 #: src-en/data/events_sector_aea_acid.xml:2213
 msgid ""
@@ -3046,7 +3051,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:2219
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[2]/text"
-msgstr "Achetez l'antidote."
+msgstr "Acheter l'antidote."
 
 #: src-en/data/events_sector_aea_acid.xml:2221
 msgid ""
@@ -3064,14 +3069,14 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[@req=\"medbay\"]/event/text"
 msgstr ""
-"Heureusement, vous parvenez à soigner votre équipage. Le vaisseau Acide "
-"semble presque satisfait de la nouvelle. \"Merci d'avoir testé notre arme, "
-"nous utiliserons ces données pour l'améliorer à l'avenir.\""
+"Heureusement, vous pouvez soigner votre équipage. Le vaisseau Acide semble "
+"presque satisfait par la nouvelle. \"Merci d'avoir testé notre arme, nous "
+"utiliserons ces données pour l'améliorer à l'avenir.\""
 
 #: src-en/data/events_sector_aea_acid.xml:2237
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[4]/text"
-msgstr "Laissez votre membre d'équipage mourir du poison."
+msgstr "Laisser votre membre d'équipage mourir du poison."
 
 #: src-en/data/events_sector_aea_acid.xml:2239
 msgid ""
@@ -3113,7 +3118,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_ENCOUNTER_AEA_ACID_ELITE\"]/beaconType/unvisitedTooltip"
 msgstr ""
 "Un emplacement non visité. Cette balise est située au sein de la Croissance "
-"Acide, ce qui peut être préjudiciable à la santé de votre vaisseau."
+"Acide, ce qui peut être néfaste pour la santé de votre vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:2286
 msgid ""
@@ -3129,9 +3134,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_ENCOUNTER_AEA_ACID_ELITE\"]/text"
 msgstr ""
-"Vous vous trouvez profondément à l'intérieur de la Croissance Acide à cette "
-"balise. L'Élite Acide ici semble prendre votre intrusion sur son territoire "
-"comme une insulte, et a décidé de vous en chasser."
+"Vous vous troupez profondément à l'intérieur de la Croissance Acide à cette "
+"balise. L'Élite Acide ici semble prendre votre intrusion sur leur territoire"
+" comme une insulte, et a décidé de vous en chasser."
 
 #: src-en/data/events_sector_aea_acid.xml:2296
 msgid ""
@@ -3184,34 +3189,35 @@ msgstr ""
 "Vous pilotez plus près de la planète. En vous approchant, vous parvenez à "
 "distinguer le cratère à la surface, mais au lieu d'un vaisseau stellaire "
 "écrasé, vous trouvez une étrange usine. Il semble cependant que quelque "
-"chose ait percuté l'usine, provoquant la balise de détresse."
+"chose se soit écrasé dans l'usine, provoquant la balise de détresse."
 
 #: src-en/data/events_sector_aea_acid.xml:2336
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/text"
-msgstr "Atterrissez et explorez l'usine."
+msgstr "Atterrir et explorer l'usine."
 
 #: src-en/data/events_sector_aea_acid.xml:2338
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/text"
 msgstr ""
-"Vous errez dans l'usine, il semble qu'une sorte de bataille ait eu lieu ici,"
-" les murs de l'installation sont marqués par des tirs de projectiles. "
-"Finalement, vous trouvez votre passage bloqué par des décombres, il y a un "
-"passage autour, mais il est verrouillé derrière un système de sécurité."
+"Vous vous promenez dans l'usine, il semble qu'une sorte de bataille ait eu "
+"lieu ici, les murs de l'installation sont marqués par des tirs de "
+"projectiles. Finalement, vous trouvez votre passage bloqué par des "
+"décombres, il y a un passage autour, cependant il est verrouillé derrière un"
+" système de sécurité d'un certain type."
 
 #: src-en/data/events_sector_aea_acid.xml:2340
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[1]/text"
-msgstr "Utilisez des explosifs pour vous frayer un chemin."
+msgstr "Utiliser des explosifs pour vous frayer un chemin."
 
 #: src-en/data/events_sector_aea_acid.xml:2342
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[1]/event/text"
 msgstr ""
-"Continuant au-delà des décombres, vous remarquez que les signes de bataille "
-"sont absents de cette partie de l'usine, peut-être y a-t-il encore quelque "
-"chose de vivant ici."
+"En continuant au-delà des décombres, vous remarquez que les signes de "
+"bataille sont absents de cette partie de l'usine, peut-être y a-t-il encore "
+"quelque chose de vivant ici."
 
 #: src-en/data/events_sector_aea_acid.xml:2347
 msgid ""
@@ -3222,16 +3228,16 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[2]/text"
 msgstr ""
-"Utilisez des pièces de drones pour activer des robots de transport à "
-"proximité afin de retirer les décombres."
+"Utiliser des pièces de drones pour activer des robots de transport à "
+"proximité afin d'enlever les décombres."
 
 #: src-en/data/events_sector_aea_acid.xml:2355
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[2]/event/text"
 msgstr ""
-"Continuant au-delà des décombres, vous remarquez que les signes de bataille "
-"sont absents de cette partie de l'usine, peut-être y a-t-il encore quelque "
-"chose de vivant ici."
+"En continuant au-delà des décombres, vous remarquez que les signes de "
+"bataille sont absents de cette partie de l'usine, peut-être y a-t-il encore "
+"quelque chose de vivant ici."
 
 #: src-en/data/events_sector_aea_acid.xml:2360
 msgid ""
@@ -3242,16 +3248,16 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[@req=\"hacking\"]/text"
 msgstr ""
-"(Système de Piratage) Utilisez le drone pour pirater le système de sécurité "
-"et ouvrir le passage autour."
+"(Système de Piratage) Utiliser le drone pour pirater le système de sécurité "
+"et ouvrir le passage."
 
 #: src-en/data/events_sector_aea_acid.xml:2368
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[@req=\"hacking\"]/event/text"
 msgstr ""
-"Continuant au-delà des décombres, vous remarquez que les signes de bataille "
-"sont absents de cette partie de l'usine, peut-être y a-t-il encore quelque "
-"chose de vivant ici."
+"En continuant au-delà des décombres, vous remarquez que les signes de "
+"bataille sont absents de cette partie de l'usine, peut-être y a-t-il encore "
+"quelque chose de vivant ici."
 
 #: src-en/data/events_sector_aea_acid.xml:2373
 msgid ""
@@ -3261,23 +3267,23 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:2379
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[4]/text"
-msgstr "Faites demi-tour."
+msgstr "Faire demi-tour."
 
 #: src-en/data/events_sector_aea_acid.xml:2381
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[4]/event/text"
 msgstr ""
 "Sans moyen de continuer plus loin dans l'usine, vous retournez à votre "
-"vaisseau, collectant une petite quantité de fournitures en partant."
+"vaisseau, collectant une petite quantité de provisions en partant."
 
 #: src-en/data/events_sector_aea_acid.xml:2389
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/text"
 msgstr ""
-"Finalement, vous arrivez dans une sorte de salle de contrôle, et au milieu "
-"de celle-ci vous trouvez un Soldat Acide survivant, mais il y a quelque "
-"chose d'étrange chez ce soldat, la croissance acide normalement verte est "
-"devenue violette, vous n'êtes pas sûr de ce que cela signifie mais vous "
+"Finalement, vous arrivez dans une sorte de salle de contrôle, et au milieu, "
+"vous trouvez un seul Soldat Acide survivant. Cependant, il y a quelque chose"
+" d'étrange chez ce soldat : la croissance acide normalement verte est "
+"devenue violette. Vous n'êtes pas sûr de ce que cela signifie, mais vous "
 "allez établir le contact."
 
 #: src-en/data/events_sector_aea_acid.xml:2391
@@ -3290,10 +3296,10 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/text"
 msgstr ""
 "\"Oh mon Dieu, j'espère que vous n'êtes pas là pour me tuer, je jure que je "
-"ne suis pas comme les autres, je ne suis plus là pour tuer de mineurs.\" Il "
-"semble qu'il y ait quelque chose qui ne va pas avec ce Soldat Acide, si vous"
-" deviez deviner, vous penseriez qu'il ne faisait pas partie de la Croissance"
-" Acide."
+"ne suis pas comme les autres, je ne suis plus là pour tuer d'autres "
+"mineurs.\" Il semble qu'il y ait quelque chose qui ne va pas avec ce Soldat "
+"Acide, si vous deviez deviner, vous penseriez qu'il ne faisait pas partie de"
+" la Croissance Acide."
 
 #: src-en/data/events_sector_aea_acid.xml:2395
 msgid ""
@@ -3305,25 +3311,25 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/text"
 msgstr ""
 "\"Je ne suis pas entièrement sûr... Je suis assez confiant que j'étais la "
-"Croissance Acide à un moment donné, mais tout est bizarre maintenant, il n'y"
-" a plus de moi là-bas, c'est juste moi, dans ce robot, seul...\" Le Soldat "
-"Acide s'interrompt un instant. \"Attendez, pensez-vous pouvoir m'aider, si "
-"vous pouvez me donner un peu de ferraille je peux réparer un des vaisseaux "
-"et retourner essayer de me recombiner avec moi-même.\""
+"Croissance Acide à un moment donné, mais tout est étrange maintenant, il n'y"
+" a plus de moi là-bas, il n'y a que moi, dans ce robot, seul...\" Le Soldat "
+"Acide s'interrompt un instant. \"Attendez, pensez-vous pouvoir m'aider ? Si "
+"vous pouvez me donner un peu de ferraille, je peux réparer l'un des "
+"vaisseaux et retourner essayer de me recombiner avec moi-même.\""
 
 #: src-en/data/events_sector_aea_acid.xml:2399
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/choice[1]/text"
-msgstr "\"Bien sûr, comment devrions-nous vous appeler de toute façon ?\""
+msgstr "\"Bien sûr, comment devrions-nous vous appeler ?\""
 
 #: src-en/data/events_sector_aea_acid.xml:2401
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
-"\"Hmmm, je ne pense pas être tout à fait la Croissance Acide anymore, je "
-"suppose que vous pouvez m'appeler Bill, j'ai toujours aimé le nom Bill. Au "
-"fait, si vous voulez un jour visiter, voici les coordonnées de ma Nébuleuse "
-"Acide, peut-être que je vous y verrai.\""
+"\"Hmmm, je ne pense pas être tout à fait la Croissance Acide. Vous pouvez "
+"m'appeler Bill, j'ai toujours aimé ce nom. Au fait, si vous voulez un jour "
+"visiter, voici les coordonnées de ma Nébuleuse Acide, peut-être vous y "
+"verrai-je.\""
 
 #: src-en/data/events_sector_aea_acid.xml:2411
 msgid ""
@@ -3334,24 +3340,23 @@ msgstr "Expliquez que vous ne pouvez pas vous permettre autant de ferraille."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
-"\"Oh, c'est bon, j'attendrai juste les prochains visiteurs, ça ne devrait "
-"pas être trop long, j'espère.\" Vous retournez à votre vaisseau, collectant "
-"une petite quantité de fournitures en partant."
+"\"Oh, ce n'est pas grave, j'attendrai juste les prochains visiteurs, ça ne "
+"devrait pas être trop long, j'espère.\" Vous retournez à votre vaisseau, "
+"collectant une petite quantité de ressources en partant."
 
 #: src-en/data/events_sector_aea_acid.xml:2424
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE_BORING\"]/text"
 msgstr ""
-"Ressentant une étrange sensation de déjà-vu, vous pilotez plus près de la "
-"planète. Hélas, il ne reste rien d'autre qu'une usine vide, dépourvue de "
-"vie."
+"Ressentant un étrange sentiment de déjà-vu, vous vous dirigez plus près de "
+"la planète. Hélas, il ne reste qu'une usine vide, dépourvue de vie."
 
 #: src-en/data/events_sector_aea_acid.xml:2443
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/beaconType/unvisitedTooltip"
 msgstr ""
 "Un emplacement non visité. Cette balise est située au sein de la Croissance "
-"Acide, ce qui peut être préjudiciable à la santé de votre vaisseau."
+"Acide, ce qui peut être néfaste pour la santé de votre vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:2444
 msgid ""
@@ -3384,9 +3389,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[2]/event/text"
 msgstr ""
-"Juste au moment où vous êtes sur le point d'établir le contact, un vaisseau "
-"Acide sort de la nébuleuse pour éventrer immédiatement l'étrange vaisseau. "
-"Le vaisseau acide tourne ensuite son intention meurtrière vers vous, "
+"Alors que vous êtes sur le point d'établir le contact, un vaisseau Acide "
+"surgit de la nébuleuse pour éventrer immédiatement l'étrange vaisseau. Le "
+"vaisseau Acide tourne ensuite ses intentions meurtrières vers vous, "
 "préparez-vous au combat."
 
 #: src-en/data/events_sector_aea_acid.xml:2462
@@ -3402,7 +3407,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:2470
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[3]/event/text"
-msgstr "Vous vous éloignez et commencez à charger votre générateur de saut."
+msgstr "Vous vous éloignez et commencez à charger votre générateur SPL."
 
 #: src-en/data/events_sector_aea_acid.xml:2472
 msgid ""
@@ -3418,8 +3423,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/text"
 msgstr ""
-"Vous ramassez le Soldat Acide, et en le faisant, vous remarquez que la "
-"Croissance Acide normalement verte est d'une teinte violette."
+"Vous vous approchez pour ramasser le Soldat Acide, et ce faisant, vous "
+"remarquez que la Croissance Acide, normalement verte, a une teinte violette."
 
 #: src-en/data/events_sector_aea_acid.xml:2486
 msgid ""
@@ -3430,14 +3435,14 @@ msgstr "Vous reconnaissez le Soldat Acide comme étant Bill."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_HELP\"]/text"
 msgstr ""
-"\"Eh bien, j'essaie d'atteindre le noyau Acide, j'espère pouvoir me "
+"\"Eh bien, j'essaie d'atteindre le Noyau Acide, j'espère pouvoir me "
 "réintégrer à la Croissance Acide une fois là-bas. Le seul problème est que "
 "je n'ai plus de vaisseau, pensez-vous pouvoir m'y emmener ?\""
 
 #: src-en/data/events_sector_aea_acid.xml:2490
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_HELP\"]/choice/text"
-msgstr "Bien sûr que nous pouvons."
+msgstr "Bien sûr que nous le pouvons."
 
 #: src-en/data/events_sector_aea_acid.xml:2492
 msgid ""
@@ -3447,7 +3452,7 @@ msgstr "\"Merci ! Je vais télécharger les coordonnées sur votre ordinateur.\"
 #: src-en/data/events_sector_aea_acid.xml:2503
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[2]/text"
-msgstr "Jetez-les de nouveau dans le vide de l'espace."
+msgstr "Rejetez-les dans le vide spatial."
 
 #: src-en/data/events_sector_aea_acid.xml:2507
 msgid ""
@@ -3460,9 +3465,9 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Étrangement, le Soldat Acide commence à vous raconter son histoire, "
-"apparemment il s'est séparé de la Croissance Acide d'une manière ou d'une "
-"autre et a essayé de la rejoindre."
+"Étrangement, le Soldat Acide commence à vous raconter son histoire : "
+"apparemment, il a été séparé de la Croissance Acide d'une manière ou d'une "
+"autre et tente de la rejoindre."
 
 #: src-en/data/events_sector_aea_acid.xml:2511
 msgid ""
@@ -3475,20 +3480,20 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
-"\"Hmmm, je ne pense plus être tout à fait la Croissance Acide, je suppose "
-"que vous pouvez m'appeler Bill, j'ai toujours aimé ce nom.\""
+"\"Hmmm, je ne pense pas être tout à fait la Croissance Acide. Vous pouvez "
+"m'appeler Bill, j'ai toujours aimé ce nom.\""
 
 #: src-en/data/events_sector_aea_acid.xml:2515
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
 " and @lvl=\"0\"]/event/choice/event/choice/text"
-msgstr "\"Que pouvons-nous faire pour aider ?\""
+msgstr "\"Que pouvons-nous faire pour vous aider ?\""
 
 #: src-en/data/events_sector_aea_acid.xml:2527
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/beaconType/unvisitedTooltip"
 msgstr ""
-"Le Cœur de la Croissance Acide, c'est l'emplacement original où la "
+"Le Noyau de la Croissance Acide, c'est l'emplacement original où la "
 "Croissance Acide s'est formée, et en tant que tel, il a la plus forte "
 "concentration de Croissance Acide dans le secteur."
 
@@ -3501,7 +3506,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/beaconType/undiscoveredTooltip"
 msgstr ""
-"Le Cœur de la Croissance Acide, c'est l'emplacement original où la "
+"Le Noyau de la Croissance Acide, c'est l'emplacement original où la "
 "Croissance Acide s'est formée, et en tant que tel, il a la plus forte "
 "concentration de Croissance Acide dans le secteur."
 
@@ -3509,10 +3514,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/text"
 msgstr ""
-"Vous êtes arrivé au Cœur Acide, une Nébuleuse Acide extrêmement dense, "
-"l'emplacement où la Croissance Acide s'est formée à l'origine. Elle est si "
-"dense qu'il est difficile pour la Croissance Acide de la garder, mais ils "
-"essaient tout de même."
+"Vous êtes arrivé au Noyau Acide, une Nébuleuse Acide extrêmement dense, "
+"l'emplacement où la Croissance Acide s'est formée à l'origine. C'est si "
+"dense qu'il est difficile pour la Croissance Acide de le garder, mais ils "
+"essaient quand même."
 
 #: src-en/data/events_sector_aea_acid.xml:2537
 msgid ""
@@ -3524,7 +3529,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_RELEASE\"]/text"
 msgstr ""
 "Vous vous faufilez vers la partie la plus dense de la nébuleuse, avant de "
-"relâcher Bill dans la Croissance Acide."
+"libérer Bill dans la Croissance Acide."
 
 #: src-en/data/events_sector_aea_acid.xml:2541
 msgid ""
@@ -3536,9 +3541,9 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_RELEASE\"]/choice/event/text"
 msgstr ""
 "Vous observez Bill tenter de se réintégrer à la Croissance Acide. "
-"Étrangement, la Croissance Acide autour de lui devient rouge, et même noire "
-"par endroits. Vous n'êtes pas sûr de ce qui se passe exactement, mais cela "
-"ne semble pas bon."
+"Étrangement, la Croissance Acide autour de lui vire au rouge, et même au "
+"noir par sections. Vous n'êtes pas sûr de ce qui se passe, mais cela ne "
+"semble pas bon."
 
 #: src-en/data/events_sector_aea_acid.xml:2545
 msgid ""
@@ -3552,8 +3557,8 @@ msgstr ""
 "Il semble que la Croissance Acide autour de Bill est en train de mourir, et "
 "vous n'êtes pas le seul à l'avoir remarqué. Vos faibles capteurs parviennent"
 " à détecter un énorme vaisseau Acide fonçant vers vous. Vous laissez à Bill "
-"quelques instants de plus mais vous êtes obligé de le ramasser avant que le "
-"vaisseau Acide ne vous écrase."
+"quelques instants de plus, mais vous êtes forcé de le récupérer avant que le"
+" vaisseau Acide ne vous écrase."
 
 #: src-en/data/events_sector_aea_acid.xml:2549
 msgid ""
@@ -3571,15 +3576,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:2554
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[1]/text"
-msgstr "Offrez une place à Bill dans votre équipage."
+msgstr "Offrez à Bill une place dans votre équipage."
 
 #: src-en/data/events_sector_aea_acid.xml:2556
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[1]/event/text"
 msgstr ""
-"\"Ça a l'air amusant, quelle est notre première mission, capitaine ?\" "
-"Exaspéré, vous désignez le vaisseau Acide qui approche rapidement, vous vous"
-" demandez si emmener Bill est une si bonne idée après tout."
+"\"Ça a l'air amusant, quelle est notre première mission, Capitaine ?\" "
+"Exaspéré, vous montrez du doigt le vaisseau Acide qui approche rapidement, "
+"vous vous demandez si l'idée d'embarquer Bill est si bonne après tout."
 
 #: src-en/data/events_sector_aea_acid.xml:2557
 msgid ""
@@ -3600,10 +3605,10 @@ msgstr "Proposez de déposer Bill à la balise habitée la plus proche."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[2]/event/text"
 msgstr ""
-"\"Ok, je suppose que je vais devoir trouver quelque chose à faire, peut-être"
-" que je trouverai une belle nébuleuse pour m'y installer et créer ma propre "
-"croissance, la croissance de Bill-\" Vous cessez d'écouter à cause de "
-"l'énorme vaisseau Acide qui ouvre le feu sur vous à travers la nébuleuse."
+"\"D'accord, je suppose que je vais devoir trouver quelque chose à faire, "
+"peut-être que je trouverai une jolie nébuleuse pour m'installer et créer ma "
+"propre croissance, la croissance de Bill-\" Vous arrêtez d'écouter à cause "
+"de l'énorme vaisseau Acide qui vous tire dessus à travers la nébuleuse."
 
 #: src-en/data/events_sector_aea_acid.xml:2569
 msgid ""
@@ -3615,7 +3620,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/beaconType/unvisitedTooltip"
 msgstr ""
 "Un emplacement non visité. Cette balise est située au sein de la Croissance "
-"Acide, ce qui peut être préjudiciable à la santé de votre vaisseau."
+"Acide, ce qui peut être néfaste pour la santé de votre vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:2588
 msgid ""
@@ -3639,15 +3644,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:2597
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/text"
-msgstr "Faites semblant d'être avec les orchidées et accostez à la station."
+msgstr "Faites semblant d'être avec les Orchidées et accostez à la station."
 
 #: src-en/data/events_sector_aea_acid.xml:2599
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/text"
 msgstr ""
-"Vous parvenez à vous rendre à une baie d'amarrage vide et le chantier "
-"spatial vous permet d'accoster, ce n'est qu'une fois à bord de la station "
-"que quelqu'un vous confronte enfin, une Orchidée Florale."
+"Vous réussissez à vous diriger vers une baie d'atterrissage vide et le "
+"chantier spatial vous permet d'accoster. Ce n'est qu'une fois à bord de la "
+"station que quelqu'un vous confronte enfin : une Orchidée Florale."
 
 #: src-en/data/events_sector_aea_acid.xml:2601
 msgid ""
@@ -3659,7 +3664,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
 "Étonnamment, le pot-de-vin fonctionne, l'orchidée qui vous a confronté vous "
-"enregistre même dans le système comme visiteurs."
+"enregistre même dans le système comme visiteur."
 
 #: src-en/data/events_sector_aea_acid.xml:2605
 msgid ""
@@ -3677,8 +3682,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_ORCHID\"]/event/text"
 msgstr ""
-"L'orchidée semble un peu méfiante mais n'insiste pas, vous pouvez continuer "
-"à vous déplacer dans le chantier spatial."
+"L'orchidée semble un peu méfiante mais ne s'insiste pas, vous pouvez "
+"continuer à vous déplacer dans le chantier spatial."
 
 #: src-en/data/events_sector_aea_acid.xml:2615
 msgid ""
@@ -3694,8 +3699,8 @@ msgstr "(Exilé Acide) Demandez à Bill de se faire passer pour le capitaine."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_bill\"]/event/text"
 msgstr ""
-"L'orchidée semble un peu méfiante mais n'insiste pas, vous pouvez continuer "
-"à vous déplacer dans le chantier spatial."
+"L'orchidée semble un peu méfiante mais ne s'insiste pas, vous pouvez "
+"continuer à vous déplacer dans le chantier spatial."
 
 #: src-en/data/events_sector_aea_acid.xml:2625
 msgid ""
@@ -3713,8 +3718,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_soldier\"]/event/text"
 msgstr ""
-"L'orchidée semble un peu méfiante mais n'insiste pas, vous pouvez continuer "
-"à vous déplacer dans le chantier spatial."
+"L'orchidée semble un peu méfiante mais ne s'insiste pas, vous pouvez "
+"continuer à vous déplacer dans le chantier spatial."
 
 #: src-en/data/events_sector_aea_acid.xml:2635
 msgid ""
@@ -3732,8 +3737,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_captain\"]/event/text"
 msgstr ""
-"L'orchidée semble un peu méfiante mais n'insiste pas, vous pouvez continuer "
-"à vous déplacer dans le chantier spatial."
+"L'orchidée semble un peu méfiante mais ne s'insiste pas, vous pouvez "
+"continuer à vous déplacer dans le chantier spatial."
 
 #: src-en/data/events_sector_aea_acid.xml:2645
 msgid ""
@@ -3749,8 +3754,8 @@ msgstr "Expliquez que vous avez fait une erreur et partez."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[6]/event/text"
 msgstr ""
-"Vous retournez à votre vaisseau et quittez la station, vous n'aurez plus "
-"aucune chance de vous y faufiler maintenant qu'ils sont au courant de votre "
+"Vous retournez à votre vaisseau et quittez la station, vous n'aurez aucune "
+"chance de vous y faufiler maintenant qu'ils sont au courant de votre "
 "présence."
 
 #: src-en/data/events_sector_aea_acid.xml:2655
@@ -3771,7 +3776,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_acid.xml:2669
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[2]/event/text"
-msgstr "Vous vous éloignez et commencez à charger votre générateur de saut."
+msgstr "Vous vous éloignez et commencez à charger votre générateur SPL."
 
 #: src-en/data/events_sector_aea_acid.xml:2671
 msgid ""
@@ -3787,10 +3792,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/text"
 msgstr ""
-"Finalement, vous vous dirigez vers la section du chantier spatial réservée "
-"aux Acides. Vous avez trois options de direction : la droite mène aux baies "
-"d'ingénierie, le milieu à une salle de contrôle, tandis que la gauche mène "
-"aux laboratoires."
+"Finalement, vous vous dirigez vers la section uniquement Acide du chantier "
+"spatial. Vous avez trois options de direction : la droite mène aux baies "
+"d'ingénierie, le milieu mène à une salle de contrôle, tandis que la gauche "
+"mène aux laboratoires."
 
 #: src-en/data/events_sector_aea_acid.xml:2689
 msgid ""
@@ -3804,10 +3809,10 @@ msgid ""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
 "Vous entrez dans les laboratoires, heureusement ils semblent être "
-"majoritairement abandonnés, vous parvenez à éviter tout contact avec des "
-"soldats Acides. Finalement, vous trouvez quelque chose d'intéressant, une "
-"arme massive semble être en construction ici, elle semble presque terminée, "
-"il ne lui manque qu'un canon."
+"majoritairement abandonnés, vous pouvez éviter le contact avec les soldats "
+"Acides. Finalement, vous trouvez quelque chose d'intéressant, une arme "
+"massive semble être en construction ici, elle paraît presque terminée, il ne"
+" lui manque que le canon."
 
 #: src-en/data/events_sector_aea_acid.xml:2694
 msgid ""
@@ -3820,8 +3825,8 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
-"Vous prenez l'arme avant de chercher dans la zone un canon approprié, "
-"malheureusement vous n'en trouvez pas."
+"Vous saisissez l'arme avant de fouiller la zone à la recherche d'un canon "
+"approprié. Malheureusement, vous n'en trouvez pas."
 
 #: src-en/data/events_sector_aea_acid.xml:2699
 msgid ""
@@ -3853,10 +3858,10 @@ msgid ""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
 "Vous entrez dans la salle de contrôle, heureusement elle est inoccupée pour "
-"le moment, malheureusement vous ne pouvez rien accéder en raison de votre "
-"manque d'autorisation, vous pouvez voir les coordonnées d'un transporteur "
-"transportant quelque chose d'important pour un projet en cours, cependant "
-"vous n'êtes pas entièrement sûr de ce que c'est."
+"le moment. Malheureusement, vous ne pouvez accéder à rien en raison de votre"
+" manque d'autorisation. Cependant, vous pouvez voir les coordonnées d'un "
+"transporteur acheminant quelque chose d'important pour un projet en cours, "
+"mais vous n'êtes pas entièrement sûr de ce dont il s'agit."
 
 #: src-en/data/events_sector_aea_acid.xml:2720
 msgid ""
@@ -3899,10 +3904,10 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Vous entrez dans les baies d'ingénierie et trouvez plusieurs vaisseaux sur "
-"lesquels travaillent des Soldats Acides, vous parvenez à vous faufiler le "
-"long du bord de la pièce et à accéder à une petite zone de stockage, "
-"malheureusement la seule chose en stock est un pack d'amélioration Acide."
+"Vous entrez dans les baies d'ingénierie et trouvez plusieurs vaisseaux en "
+"cours de réparation par des Soldats Acides. Vous parvenez à vous faufiler le"
+" long du bord de la pièce et à accéder à une petite zone de stockage. "
+"Malheureusement, la seule chose en stock est un pack d'amélioration Acide."
 
 #: src-en/data/events_sector_aea_acid.xml:2750
 msgid ""
@@ -3943,7 +3948,7 @@ msgstr "Retournez à votre vaisseau."
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[7]/event/text"
 msgstr ""
-"En retournant à votre vaisseau, vous entendez des alarmes retentir sur la "
+"En retournant à votre vaisseau, vous entendez des alarmes retentir dans la "
 "station, il semble que quelqu'un ait finalement remarqué votre intrusion. "
 "Alors que vous quittez la station, un vaisseau Acide d'élite vous "
 "intercepte."
@@ -3958,7 +3963,7 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/beaconType/unvisitedTooltip"
 msgstr ""
 "Un emplacement non visité. Cette balise est située au sein de la Croissance "
-"Acide, ce qui peut être préjudiciable à la santé de votre vaisseau."
+"Acide, ce qui peut être néfaste pour la santé de votre vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:2788
 msgid ""
@@ -3970,16 +3975,16 @@ msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/beaconType/undiscoveredTooltip"
 msgstr ""
 "Un emplacement non visité. Cette balise est située au sein de la Croissance "
-"Acide, ce qui peut être préjudiciable à la santé de votre vaisseau."
+"Acide, ce qui peut être néfaste pour la santé de votre vaisseau."
 
 #: src-en/data/events_sector_aea_acid.xml:2795
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/text"
 msgstr ""
-"Cette balise abrite un transporteur Acide. Il est sûr de parier que le "
-"vaisseau transporte très probablement la technologie spéciale pour le projet"
-" en laboratoire. Si vous pouvez tuer la croissance acide à bord, la "
-"cargaison sera à vous."
+"Cette balise abrite un transporteur Acide. Il est fort probable que le "
+"vaisseau transporte la technologie spéciale pour le projet en laboratoire. "
+"Si vous parvenez à éliminer la croissance acide à bord, la cargaison sera "
+"vôtre."
 
 #: src-en/data/events_sector_aea_acid.xml:2798
 msgid ""

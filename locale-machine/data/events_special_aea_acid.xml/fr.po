@@ -30,41 +30,40 @@ msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_START_AEA_ACID\"]/text[1]"
 msgstr ""
 "La Croissance Acide est une faction relativement inconnue, cependant ce qui "
-"n'est pas inconnu, c'est à quel point elle est dangereuse."
+"n'est pas inconnu est sa dangerosité."
 
 #: src-en/data/events_special_aea_acid.xml:58
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_START_AEA_ACID\"]/text[2]"
 msgstr ""
-"Cette nébuleuse abrite la Croissance Acide, il est encore inconnu si c'est "
-"une entité singulière presque omniprésente ou une sorte d'esprit de ruche, "
-"de toute façon vous ne voulez probablement pas être dans leurs mauvais "
-"papiers."
+"Cette nébuleuse abrite la Croissance Acide, on ne sait toujours pas s'il "
+"s'agit d'une entité singulière presque omniprésente ou d'une sorte de "
+"conscience collective. Dans tous les cas, vous ne voulez probablement pas "
+"être dans leurs mauvais papiers."
 
 #: src-en/data/events_special_aea_acid.xml:59
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_START_AEA_ACID\"]/text[3]"
 msgstr ""
-"On vous dit que la Croissance Acide s'est étendue dans cette nébuleuse, "
-"malheureusement seules les Orchidées sont les bienvenues dans l'espace "
-"Acide."
+"On vous dit que la Croissance Acide s'est étendue dans cette nébuleuse. "
+"Malheureusement, seules les Orchidées sont bienvenues dans l'espace Acide."
 
 #: src-en/data/events_special_aea_acid.xml:60
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_START_AEA_ACID\"]/text[4]"
 msgstr ""
-"On ne sait pas grand-chose sur la façon dont la Croissance Acide vit et "
-"passe son temps, vous le découvrirez peut-être, de toute façon vous aurez de"
-" la chance de survivre et de raconter l'histoire."
+"On ne sait pas grand-chose de la façon dont la Croissance Acide vit et passe"
+" son temps, peut-être le découvrirez-vous, dans tous les cas vous aurez de "
+"la chance de survivre et de raconter l'histoire."
 
 #: src-en/data/events_special_aea_acid.xml:61
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_START_AEA_ACID\"]/text[5]"
 msgstr ""
-"La Croissance Acide s'est formée au sein d'une nébuleuse comme celle-ci, "
-"bien qu'capable de survivre nue dans la nébuleuse, la Croissance Acide a "
-"créé ses propres vaisseaux et technologies afin d'interagir avec l'univers "
-"plus vaste."
+"La Croissance Acide s'est formée dans une nébuleuse comme celle-ci. Bien que"
+" capable de survivre nue dans la nébuleuse, la Croissance Acide a créé ses "
+"propres vaisseaux et technologies afin d'interagir avec l'univers plus "
+"large."
 
 #: src-en/data/events_special_aea_acid.xml:76
 msgid ""
@@ -74,13 +73,13 @@ msgstr ""
 #: src-en/data/events_special_aea_acid.xml:82
 msgid "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/text"
 msgstr ""
-"Vous êtes hélé par un vaisseau Acide. « Nous ne vous connaissons pas, nous "
-"ne connaissons pas vos intentions, veuillez partir. »"
+"Vous êtes hélé par un vaisseau Acide. \" Nous ne vous connaissons pas, nous "
+"ne connaissons pas vos intentions, veuillez partir. \""
 
 #: src-en/data/events_special_aea_acid.xml:84
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[1]/text"
-msgstr "Frayez-vous un chemin !."
+msgstr "Frayez-vous un chemin par la force !"
 
 #: src-en/data/events_special_aea_acid.xml:86
 msgid ""
@@ -95,7 +94,7 @@ msgstr ""
 #: src-en/data/events_special_aea_acid.xml:95
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[2]/text"
-msgstr "Le convaincre que vous n'avez que de bonnes intentions."
+msgstr "Convainquez-le que vous n'avez que de bonnes intentions."
 
 #: src-en/data/events_special_aea_acid.xml:97
 msgid ""
@@ -131,9 +130,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"orchid\"]/event/text"
 msgstr ""
-"Votre Orchidée hèle le vaisseau Acide, cependant avant qu'ils ne puissent "
-"dire quoi que ce soit, ils reçoivent une réponse. « Ah, un des nôtres, vous "
-"êtes le bienvenu dans notre espace. »"
+"Votre Orchidée hèle le vaisseau Acide. Cependant, avant qu'ils ne puissent "
+"dire quoi que ce soit, ils reçoivent une réponse. \" Ah, l'un des fiables, "
+"vous êtes le bienvenu dans notre espace. \""
 
 #: src-en/data/events_special_aea_acid.xml:126
 msgid ""
@@ -144,22 +143,22 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"orchid_caretaker\"]/event/text"
 msgstr ""
-"Votre Orchidée hèle le vaisseau Acide, cependant avant qu'ils ne puissent "
-"dire quoi que ce soit, ils reçoivent une réponse. « Ah, un des nôtres, vous "
-"êtes le bienvenu dans notre espace. »"
+"Votre Orchidée hèle le vaisseau Acide. Cependant, avant qu'ils ne puissent "
+"dire quoi que ce soit, ils reçoivent une réponse. \" Ah, l'un des fiables, "
+"vous êtes le bienvenu dans notre espace. \""
 
 #: src-en/data/events_special_aea_acid.xml:133
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"orchid_praetor\"]/text"
-msgstr "(Membre d'équipage Jardinier) Demander le passage."
+msgstr "(Membre d'équipage Jardinier) Demander un passage."
 
 #: src-en/data/events_special_aea_acid.xml:135
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"orchid_praetor\"]/event/text"
 msgstr ""
-"Votre Orchidée hèle le vaisseau Acide, cependant avant qu'ils ne puissent "
-"dire quoi que ce soit, ils reçoivent une réponse. « Ah, un des nôtres, vous "
-"êtes le bienvenu dans notre espace. »"
+"Votre Orchidée hèle le vaisseau Acide. Cependant, avant qu'ils ne puissent "
+"dire quoi que ce soit, ils reçoivent une réponse. \" Ah, l'un des fiables, "
+"vous êtes le bienvenu dans notre espace. \""
 
 #: src-en/data/events_special_aea_acid.xml:140
 msgid ""
@@ -170,22 +169,22 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"unique_mayeb\"]/event/text"
 msgstr ""
-"Votre Orchidée hèle le vaisseau Acide, cependant avant qu'ils ne puissent "
-"dire quoi que ce soit, ils reçoivent une réponse. « Ah, un des nôtres, vous "
-"êtes le bienvenu dans notre espace. »"
+"Votre Orchidée hèle le vaisseau Acide. Cependant, avant qu'ils ne puissent "
+"dire quoi que ce soit, ils reçoivent une réponse. \" Ah, l'un des fiables, "
+"vous êtes le bienvenu dans notre espace. \""
 
 #: src-en/data/events_special_aea_acid.xml:147
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"unique_tyerel\"]/text"
-msgstr "(Ty E'rel) Demander le passage."
+msgstr "(Ty E'rel) Demander un passage."
 
 #: src-en/data/events_special_aea_acid.xml:149
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"unique_tyerel\"]/event/text"
 msgstr ""
-"Votre Orchidée hèle le vaisseau Acide, cependant avant qu'ils ne puissent "
-"dire quoi que ce soit, ils reçoivent une réponse. « Ah, un des nôtres, vous "
-"êtes le bienvenu dans notre espace. »"
+"Votre Orchidée hèle le vaisseau Acide. Cependant, avant qu'ils ne puissent "
+"dire quoi que ce soit, ils reçoivent une réponse. \" Ah, l'un des fiables, "
+"vous êtes le bienvenu dans notre espace. \""
 
 #: src-en/data/events_special_aea_acid.xml:154
 msgid ""
@@ -224,10 +223,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID_DEADCREW\"]/text"
 msgstr ""
-"Vous avez vaincu la garde Acide. Sans aucun membre de la Croissance Acide à "
-"bord pour vous arrêter, vous pouvez enquêter sur leur cargaison. Vous "
-"trouvez une arme à ramener au vaisseau, et passez à la démolition de leur "
-"coque."
+"Vous avez vaincu la garde Acide. Sans aucune de la Croissance Acide à bord "
+"pour vous arrêter, vous pouvez enquêter sur leur cargaison. Vous trouvez une"
+" arme à ramener au vaisseau, et passez à démanteler leur coque."
 
 #: src-en/data/events_special_aea_acid.xml:190
 msgid ""
@@ -238,9 +236,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID_FOLLOWUP\"]/text"
 msgstr ""
-"En tuant la garde Acide, vous avez sans aucun doute provoqué l'envoi de "
-"renforts pour vous traquer. Faites attention à vos pas en explorant le "
-"secteur."
+"En tuant la garde Acide, vous les avez sans aucun doute fait dépêcher des "
+"renforts pour vous traquer. Soyez prudent en explorant le secteur."
 
 #: src-en/data/events_special_aea_acid.xml:212
 msgid ""
@@ -271,9 +268,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACID\"]/text"
 msgstr ""
-"La Croissance Acide n'a pas bien pris votre entrée peu amicale dans le "
-"secteur et il semble qu'elle ait dépêché un vaisseau spécifiquement pour "
-"vous arrêter."
+"La Croissance Acide n'a pas bien pris votre entrée moins qu'amicale dans le "
+"secteur et il semble qu'il ait dépêché un vaisseau spécifiquement pour vous "
+"arrêter."
 
 #: src-en/data/events_special_aea_acid.xml:232
 msgid ""
@@ -299,9 +296,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACID\"]/text"
 msgstr ""
-"La Croissance Acide n'a pas bien pris votre entrée peu amicale dans le "
-"secteur et il semble qu'elle ait dépêché un vaisseau spécifiquement pour "
-"vous arrêter."
+"La Croissance Acide n'a pas bien pris votre entrée moins qu'amicale dans le "
+"secteur et il semble qu'il ait dépêché un vaisseau spécifiquement pour vous "
+"arrêter."
 
 #: src-en/data/events_special_aea_acid.xml:249
 msgid ""
@@ -312,8 +309,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"START_AEA_ACIDHOME\"]/text"
 msgstr ""
-"Il est risqué de s'aventurer aussi loin en territoire Acide. La Croissance "
-"Acide est originaire de ce secteur, et elle le défend très farouchement."
+"Il est risqué de s'aventurer aussi loin en territoire acide. La Croissance "
+"Acide est originaire de ce secteur, et elle en est très défensive."
 
 #: src-en/data/events_special_aea_acid.xml:267
 msgid ""
@@ -324,31 +321,31 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/text"
 msgstr ""
-"La garde d'élite ici vous envoie un message bref et direct. « Vous n'êtes "
-"pas le bienvenu ici, veuillez déclarer vos intentions ou partir. »"
+"La garde d'élite ici vous envoie un message bref et précis. \" Vous n'êtes "
+"pas le bienvenu ici, veuillez déclarer vos intentions ou partir. \""
 
 #: src-en/data/events_special_aea_acid.xml:275
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_friendly\"]/text"
-msgstr "(Amical) Révéler votre identité."
+msgstr "(Amical) Faites connaître votre identité."
 
 #: src-en/data/events_special_aea_acid.xml:277
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_friendly\"]/event/text"
 msgstr ""
 "Une fois que la Croissance Acide réalise qui vous êtes, la garde vous "
-"accueille. La Croissance Acide est même assez aimable pour vous épargner "
-"quelques ressources."
+"accueille. La Croissance Acide est même assez gentille pour vous épargner "
+"des provisions."
 
 #: src-en/data/events_special_aea_acid.xml:282
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[2]/text"
-msgstr "Tenter de négocier."
+msgstr "Tentez votre chance à la négociation."
 
 #: src-en/data/events_special_aea_acid.xml:286
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[3]/text"
-msgstr "Le convaincre que vous n'avez que de bonnes intentions."
+msgstr "Convainquez-le que vous n'avez que de bonnes intentions."
 
 #: src-en/data/events_special_aea_acid.xml:288
 msgid ""
@@ -399,9 +396,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid\"]/event/text"
 msgstr ""
-"Votre Orchidée hèle le vaisseau Acide, cependant avant qu'ils ne puissent "
-"dire quoi que ce soit, ils reçoivent une réponse. « Ah, un des nôtres, vous "
-"êtes le bienvenu dans notre espace. »"
+"Votre Orchidée hèle le vaisseau Acide. Cependant, avant qu'ils ne puissent "
+"dire quoi que ce soit, ils reçoivent une réponse. \" Ah, l'un des fiables, "
+"vous êtes le bienvenu dans notre espace. \""
 
 #: src-en/data/events_special_aea_acid.xml:328
 msgid ""
@@ -412,22 +409,22 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_caretaker\"]/event/text"
 msgstr ""
-"Votre Orchidée hèle le vaisseau Acide, cependant avant qu'ils ne puissent "
-"dire quoi que ce soit, ils reçoivent une réponse. « Ah, un des nôtres, vous "
-"êtes le bienvenu dans notre espace. »"
+"Votre Orchidée hèle le vaisseau Acide. Cependant, avant qu'ils ne puissent "
+"dire quoi que ce soit, ils reçoivent une réponse. \" Ah, l'un des fiables, "
+"vous êtes le bienvenu dans notre espace. \""
 
 #: src-en/data/events_special_aea_acid.xml:335
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_praetor\"]/text"
-msgstr "(Membre d'équipage Jardinier) Demander le passage."
+msgstr "(Membre d'équipage Jardinier) Demander un passage."
 
 #: src-en/data/events_special_aea_acid.xml:337
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_praetor\"]/event/text"
 msgstr ""
-"Votre Orchidée hèle le vaisseau Acide, cependant avant qu'ils ne puissent "
-"dire quoi que ce soit, ils reçoivent une réponse. « Ah, un des nôtres, vous "
-"êtes le bienvenu dans notre espace. »"
+"Votre Orchidée hèle le vaisseau Acide. Cependant, avant qu'ils ne puissent "
+"dire quoi que ce soit, ils reçoivent une réponse. \" Ah, l'un des fiables, "
+"vous êtes le bienvenu dans notre espace. \""
 
 #: src-en/data/events_special_aea_acid.xml:342
 msgid ""
@@ -438,22 +435,22 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_mayeb\"]/event/text"
 msgstr ""
-"Votre Orchidée hèle le vaisseau Acide, cependant avant qu'ils ne puissent "
-"dire quoi que ce soit, ils reçoivent une réponse. « Ah, un des nôtres, vous "
-"êtes le bienvenu dans notre espace. »"
+"Votre Orchidée hèle le vaisseau Acide. Cependant, avant qu'ils ne puissent "
+"dire quoi que ce soit, ils reçoivent une réponse. \" Ah, l'un des fiables, "
+"vous êtes le bienvenu dans notre espace. \""
 
 #: src-en/data/events_special_aea_acid.xml:349
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_tyerel\"]/text"
-msgstr "(Ty E'rel) Demander le passage."
+msgstr "(Ty E'rel) Demander un passage."
 
 #: src-en/data/events_special_aea_acid.xml:351
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_tyerel\"]/event/text"
 msgstr ""
-"Votre Orchidée hèle le vaisseau Acide, cependant avant qu'ils ne puissent "
-"dire quoi que ce soit, ils reçoivent une réponse. « Ah, un des nôtres, vous "
-"êtes le bienvenu dans notre espace. »"
+"Votre Orchidée hèle le vaisseau Acide. Cependant, avant qu'ils ne puissent "
+"dire quoi que ce soit, ils reçoivent une réponse. \" Ah, l'un des fiables, "
+"vous êtes le bienvenu dans notre espace. \""
 
 #: src-en/data/events_special_aea_acid.xml:356
 msgid ""
@@ -481,7 +478,7 @@ msgstr ""
 #: src-en/data/events_special_aea_acid.xml:375
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/text"
-msgstr "« Votre offre est inacceptable. »"
+msgstr "\"Votre offre est inacceptable.\""
 
 #: src-en/data/events_special_aea_acid.xml:377
 msgid ""
@@ -492,7 +489,7 @@ msgstr "(Armes de pointe) Oui, elle l'est."
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[@req=\"weapons\"]/event/text"
 msgstr ""
-"« Notre opinion n'a pas changé. » Le vaisseau Acide se met en position "
+"\"Notre opinion n'a pas changé.\" Le vaisseau Acide se met en position "
 "d'attaque."
 
 #: src-en/data/events_special_aea_acid.xml:382
@@ -503,7 +500,7 @@ msgstr ""
 #: src-en/data/events_special_aea_acid.xml:388
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[2]/text"
-msgstr "Alors nous nous frayerons un chemin !."
+msgstr "Alors nous nous frayerons un chemin par la force !"
 
 #: src-en/data/events_special_aea_acid.xml:390
 msgid ""
@@ -519,7 +516,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[3]/text"
 msgstr ""
-"Le convaincre que vous n'avez que de bonnes intentions au prix initial."
+"Convainquez-le que vous n'avez que de bonnes intentions au prix d'origine."
 
 #: src-en/data/events_special_aea_acid.xml:401
 msgid ""
@@ -529,7 +526,7 @@ msgstr "La Croissance Acide reconnaît votre don et vous laisse passer."
 #: src-en/data/events_special_aea_acid.xml:412
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/text"
-msgstr "« Une offre acceptable. Le prix sera réduit. »"
+msgstr "\"Une offre acceptable. Le prix sera abaissé.\""
 
 #: src-en/data/events_special_aea_acid.xml:414
 msgid ""
@@ -540,8 +537,8 @@ msgstr "Refuser la nouvelle offre."
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[1]/event/text"
 msgstr ""
-"« Malheureusement. » Leurs armes jaillissent de la coque, il semble que vous"
-" ayez abusé de leur hospitalité."
+"\"Dommage.\" Leurs armes jaillissent de la coque, il semble que vous ayez "
+"abusé de votre hospitalité."
 
 #: src-en/data/events_special_aea_acid.xml:419
 msgid ""
@@ -574,7 +571,7 @@ msgid ""
 msgstr ""
 "Vous avez vaincu la garde Acide. Sans la Croissance Acide à bord pour vous "
 "arrêter, vous pouvez enquêter sur leur cargaison. Vous trouvez une arme à "
-"ramener au vaisseau, et passez à la démolition de leur coque."
+"ramener au vaisseau, et passez à démanteler leur coque."
 
 #: src-en/data/events_special_aea_acid.xml:454
 msgid ""
@@ -585,9 +582,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_FOLLOWUP\"]/text"
 msgstr ""
-"En tuant la garde Acide, vous avez sans aucun doute provoqué l'envoi de "
-"renforts pour vous traquer. Faites attention à vos pas en explorant le "
-"secteur."
+"En tuant la garde Acide, vous les avez sans aucun doute fait dépêcher des "
+"renforts pour vous traquer. Soyez prudent en explorant le secteur."
 
 #: src-en/data/events_special_aea_acid.xml:476
 msgid ""
@@ -618,9 +614,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/text"
 msgstr ""
-"La Croissance Acide n'a pas bien pris votre entrée peu amicale dans le "
-"secteur et il semble qu'elle ait dépêché un vaisseau spécifiquement pour "
-"vous arrêter."
+"La Croissance Acide n'a pas bien pris votre entrée moins qu'amicale dans le "
+"secteur et il semble qu'il ait dépêché un vaisseau spécifiquement pour vous "
+"arrêter."
 
 #: src-en/data/events_special_aea_acid.xml:496
 msgid ""
@@ -646,9 +642,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACIDHOME\"]/text"
 msgstr ""
-"La Croissance Acide n'a pas bien pris votre entrée peu amicale dans le "
-"secteur et il semble qu'elle ait dépêché un vaisseau spécifiquement pour "
-"vous arrêter."
+"La Croissance Acide n'a pas bien pris votre entrée moins qu'amicale dans le "
+"secteur et il semble qu'il ait dépêché un vaisseau spécifiquement pour vous "
+"arrêter."
 
 #: src-en/data/events_special_aea_acid.xml:513
 msgid ""
@@ -735,14 +731,14 @@ msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[2]"
 msgstr ""
 "Alors que l'épave se brise, vous vous demandez si les fragments dispersés de"
-" la Croissance Acide retourneront un jour à leurs nébuleuses."
+" la Croissance Acide atteindront un jour leurs nébuleuses."
 
 #: src-en/data/events_special_aea_acid.xml:623
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[3]"
 msgstr ""
-"Vous vous demandez combien de temps il faut à un nuage de gaz sans forme "
-"pour construire un vaisseau spatial, si la Croissance Acide pouvait être en "
+"Vous vous demandez combien de temps il faut à un nuage de gaz informe pour "
+"construire un vaisseau spatial. Si la Croissance Acide pouvait être en "
 "colère, elle le serait probablement contre vous en ce moment."
 
 #: src-en/data/events_special_aea_acid.xml:624
@@ -757,8 +753,8 @@ msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[5]"
 msgstr ""
 "Un jour, la Croissance Acide pourrait chercher à former une alliance avec la"
-" Fédération, vous devrez juste espérer qu'elle oubliera tous les vaisseaux "
-"que vous avez détruits."
+" fédération, vous n'aurez plus qu'à espérer qu'elle oublie tous les "
+"vaisseaux que vous avez détruits."
 
 #: src-en/data/events_special_aea_acid.xml:626
 msgid ""
@@ -770,15 +766,15 @@ msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DESTROYED_AEA_ACID_ACIDGUN\"]/text"
 msgstr ""
 "À votre surprise, l'une des armes Acides construites nativement a survécu à "
-"l'explosion. Elle est un peu abîmée par l'explosion, mais avec quelques "
-"réparations, vous pouvez la récupérer."
+"l'explosion. Elle est un peu croustillante à cause de l'explosion, mais avec"
+" quelques réparations, vous pouvez la récupérer."
 
 #: src-en/data/events_special_aea_acid.xml:647
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[1]"
 msgstr ""
 "Vous vous demandez si la Croissance Acide saura le massacre que vous avez "
-"commis ici, de toute façon cette épave est toujours pleine de ferraille."
+"commis ici, dans tous les cas cette épave est toujours pleine de ferraille."
 
 #: src-en/data/events_special_aea_acid.xml:648
 msgid ""
@@ -797,7 +793,7 @@ msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[4]"
 msgstr ""
 "Le vaisseau Acide a été débarrassé de son équipage. La partie morale de vous"
-" espère que tuer un Soldat Acide ne compte pas comme un meurtre."
+" espère que tuer un soldat Acide ne compte pas comme un meurtre."
 
 #: src-en/data/events_special_aea_acid.xml:651
 msgid ""
@@ -808,45 +804,45 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DEAD_CREW_AEA_ACID_ACIDGUN\"]/text"
 msgstr ""
-"Maintenant vidé de son équipage, vous trouvez l'une des armes Acides "
-"construites nativement à bord. Vous la reprenez avec vous avant de "
-"démanteler le vaisseau."
+"Maintenant vide de son équipage, vous trouvez l'une des armes Acides "
+"construites nativement à bord. Vous la ramenez avec vous avant de démanteler"
+" le vaisseau."
 
 #: src-en/data/events_special_aea_acid.xml:663
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_ESCAPE_AEA_ACID\"]/text[1]"
 msgstr ""
-"Le vaisseau Acide active ses moteurs et s'écarte de vous. Il essaie de "
-"s'échapper !."
+"Le vaisseau Acide allume ses moteurs et s'écarte de vous. Il essaie de "
+"s'échapper !"
 
 #: src-en/data/events_special_aea_acid.xml:664
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_ESCAPE_AEA_ACID\"]/text[2]"
 msgstr ""
-"Vous détectez de fortes augmentations de puissance moteur sur le vaisseau "
-"Acide. Il essaie de s'échapper."
+"Vous détectez des pics élevés de puissance moteur sur le vaisseau Acide. Il "
+"essaie de s'échapper."
 
 #: src-en/data/events_special_aea_acid.xml:677
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_ACID\"]/text[1]"
 msgstr ""
 "Le vaisseau Acide s'échappe. Pour être honnête, vous êtes un peu content, "
-"espérons qu'à l'avenir la Croissance Acide n'essaiera pas non plus de vous "
-"anéantir."
+"espérons qu'à l'avenir la Croissance Acide n'essaiera pas de vous anéantir "
+"non plus."
 
 #: src-en/data/events_special_aea_acid.xml:678
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_ACID\"]/text[2]"
 msgstr ""
-"Le vaisseau Acide saute. Vous ramassez des nuages de gaz résiduels dans la "
-"zone, vous vous demandez s'il y a des fragments de la Croissance Acide là-"
-"bas."
+"Le vaisseau Acide saute. Vous ramassez quelques nuages de gaz résiduels dans"
+" la zone, vous vous demandez s'il y a des fragments de la Croissance Acide "
+"là-bas."
 
 #: src-en/data/events_special_aea_acid.xml:679
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_ACID\"]/text[3]"
 msgstr ""
-"La puissance moteur du vaisseau Acide augmente encore plus et le vaisseau "
+"La puissance moteur du vaisseau Acide monte encore plus haut et le vaisseau "
 "saute."
 
 #: src-en/data/events_special_aea_acid.xml:682
@@ -854,7 +850,7 @@ msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GOTAWAY_AEA_ACID_REMAINS\"]/text"
 msgstr ""
 "Alors que le vaisseau Acide saute, vous remarquez une traînée de ferraille "
-"laissée par le vaisseau endommagé. Au moins, vous aurez quelque chose à "
+"laissée par le vaisseau cassé. Au moins, vous aurez quelque chose à "
 "démanteler."
 
 #: src-en/data/events_special_aea_acid.xml:689
@@ -865,33 +861,33 @@ msgstr "Accepter sa reddition."
 #: src-en/data/events_special_aea_acid.xml:693
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"SURRENDER_AEA_ACID\"]/choice[@req=\"aea_acid_soldier\"]/text"
-msgstr "(Soldat Acide) Négocier un accord différent."
+msgstr "(Soldat Acide) Négociez un accord différent."
 
 #: src-en/data/events_special_aea_acid.xml:705
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[1]"
 msgstr ""
-"Une voix monotone vous demande de cesser le tir en échange de quelques "
-"ressources."
+"Une voix monotone vous demande d'arrêter de tirer en échange de quelques "
+"provisions."
 
 #: src-en/data/events_special_aea_acid.xml:706
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[2]"
 msgstr ""
-"Le vaisseau Acide se rend. Ils offrent quelques ressources si vous le "
-"laissez vivre."
+"Le vaisseau Acide se rend. Ils offrent des provisions si vous le laissez "
+"vivre."
 
 #: src-en/data/events_special_aea_acid.xml:707
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[3]"
-msgstr "« L'offre est satisfaisante. Veuillez l'accepter. »"
+msgstr "\"L'offre est satisfaisante. Veuillez l'accepter.\""
 
 #: src-en/data/events_special_aea_acid.xml:708
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[4]"
 msgstr ""
-"« Cessez le tir, vous recevrez une récompense. » Il semble que le vaisseau "
-"se rende."
+"\"Arrêtez de tirer, vous recevrez une récompense.\" Il apparaît que le "
+"vaisseau se rend."
 
 #: src-en/data/events_special_aea_acid.xml:719
 msgid ""
@@ -920,14 +916,14 @@ msgstr ""
 "Le vaisseau de réfugiés affirme qu'ils n'avaient pas réalisé que c'était un "
 "territoire appartenant à la Croissance Acide. En guise de bonne volonté (et "
 "voyant avec quelle efficacité vous avez expédié le vaisseau ennemi), ils "
-"offrent les ressources qu'ils peuvent épargner."
+"offrent les provisions qu'ils peuvent épargner."
 
 #: src-en/data/events_special_aea_acid.xml:767
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/deadCrew/text"
 msgstr ""
-"Le vaisseau Acide, désormais hors du contrôle de la Croissance Acide, "
-"fournit une récupération facile."
+"Le vaisseau Acide, maintenant hors de contrôle de la Croissance Acide, "
+"fournit un démantèlement facile."
 
 #: src-en/data/events_special_aea_acid.xml:770
 msgid ""
@@ -941,27 +937,27 @@ msgstr ""
 "Le vaisseau de réfugiés affirme qu'ils n'avaient pas réalisé que c'était un "
 "territoire appartenant à la Croissance Acide. En guise de bonne volonté (et "
 "voyant avec quelle efficacité vous avez expédié le vaisseau ennemi), ils "
-"offrent les ressources qu'ils peuvent épargner."
+"offrent les provisions qu'ils peuvent épargner."
 
 #: src-en/data/events_special_aea_acid.xml:791
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/text"
 msgstr ""
-"L'équipage étant mort, vous commencez à récupérer le vaisseau. Cependant, "
+"Avec l'équipage mort, vous commencez à démanteler le vaisseau. Cependant, "
 "vous arrivez dans une étrange pièce, il semble que ce soit une sorte de "
-"pouponnière... S'agit-il d'enfants Orchidées ?."
+"nurserie... S'agit-il d'enfants Orchidées ?"
 
 #: src-en/data/events_special_aea_acid.xml:793
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/text"
-msgstr "Les emmener avec vous."
+msgstr "Emmenez-les avec vous."
 
 #: src-en/data/events_special_aea_acid.xml:795
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/event/text"
 msgstr ""
-"Vous transférez les enfants Orchidées dans votre soute avant de terminer "
-"l'opération de récupération."
+"Vous transférez les enfants Orchidées à votre soute avant de terminer "
+"l'opération de démantèlement."
 
 #: src-en/data/events_special_aea_acid.xml:799
 msgid ""
@@ -971,14 +967,14 @@ msgstr ""
 #: src-en/data/events_special_aea_acid.xml:805
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/text"
-msgstr "Terminer la récupération du vaisseau et oublier la pouponnière."
+msgstr "Finir de démanteler le vaisseau et oublier la nurserie."
 
 #: src-en/data/events_special_aea_acid.xml:807
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/event/text"
 msgstr ""
-"Vous ignorez la pièce et récupérez le reste du vaisseau, ces enfants iront "
-"bien, n'est-ce pas ?."
+"Vous ignorez la pièce et démanteler le reste du vaisseau, ces enfants iront "
+"bien, n'est-ce pas ?"
 
 #: src-en/data/events_special_aea_acid.xml:810
 msgid ""
@@ -995,7 +991,7 @@ msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[3]/event/text"
 msgstr ""
 "Vous installez une balise de détresse sur l'épave et essayez de supprimer "
-"toute preuve de votre présence avant de partir le plus vite possible."
+"toute preuve de votre présence avant de partir aussi vite que possible."
 
 #: src-en/data/events_special_aea_acid.xml:821
 msgid ""
@@ -1007,8 +1003,8 @@ msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DEFEAT_AEA_ACID_ELITE\"]/text"
 msgstr ""
 "Vous n'êtes toujours pas sûr que tuer des Soldats Acides compte comme un "
-"meurtre, de toute façon perdre un vaisseau d'élite comme celui-là doit faire"
-" du tort à la Croissance Acide."
+"meurtre. Dans tous les cas, perdre un vaisseau d'élite comme celui-là doit "
+"faire mal à la Croissance Acide."
 
 #: src-en/data/events_special_aea_acid.xml:833
 msgid ""
@@ -1048,7 +1044,7 @@ msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/destroyed/choice/event/text"
 msgstr ""
 "Le chantier spatial étant maintenant sans défense, vous pouvez piller tout "
-"ce qui est utile, vous trouvez un module d'amélioration Acide pour votre "
+"ce qui est utile. Vous trouvez un paquet d'amélioration Acide pour votre "
 "système d'oxygène."
 
 #: src-en/data/events_special_aea_acid.xml:888
@@ -1068,18 +1064,18 @@ msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/deadCrew/choice/event/text"
 msgstr ""
 "Le chantier spatial étant maintenant sans défense, vous pouvez piller tout "
-"ce qui est utile, vous trouvez un module d'amélioration Acide pour votre "
+"ce qui est utile. Vous trouvez un paquet d'amélioration Acide pour votre "
 "système d'oxygène."
 
 #: src-en/data/events_special_aea_acid.xml:902
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/destroyed/text"
 msgstr ""
-"Le vaisseau Acide vaincu, vous contactez le vaisseau Limace affaibli. « "
-"Vooousss voyeeez, » commencent-ils, « nousss sommmeesss trrrès "
+"Le vaisseau Acide vaincu, vous contactez le vaisseau Limace affaibli. \" "
+"Vooousss voyeeez, \" commencent-ils, \" nousss sommmeesss trrrès "
 "grrratifififiéss, maisss, c'essst-à-dire, nousss n'avonss paass "
 "actueeellement les asssets liquidesss pourrr vousss rrrécompenrssserrr "
-"pourrr le moment. »"
+"pourrr le moment. \""
 
 #: src-en/data/events_special_aea_acid.xml:905
 msgid ""
@@ -1100,11 +1096,11 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/text"
 msgstr ""
-"Le vaisseau Acide vaincu, vous contactez le vaisseau Limace affaibli. « "
-"Vooousss voyeeez, » commencent-ils, « nousss sommmeesss trrrès "
+"Le vaisseau Acide vaincu, vous contactez le vaisseau Limace affaibli. \" "
+"Vooousss voyeeez, \" commencent-ils, \" nousss sommmeesss trrrès "
 "grrratifififiéss, maisss, c'essst-à-dire, nousss n'avonss paass "
 "actueeellement les asssets liquidesss pourrr vousss rrrécompenrssserrr "
-"pourrr le moment. »"
+"pourrr le moment. \""
 
 #: src-en/data/events_special_aea_acid.xml:919
 msgid ""
@@ -1125,22 +1121,22 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC_SLUG\"]/destroyed/text"
 msgstr ""
-"Enfin, les biens précieux des Limaces sont à vous. Après, c'est-à-dire, vous"
-" partagez votre butin avec le vaisseau Acide."
+"Enfin, les précieuses possessions des Limaces sont à vous. Après, c'est-à-"
+"dire, vous partagez vos prises avec le vaisseau Acide."
 
 #: src-en/data/events_special_aea_acid.xml:937
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC_SLUG\"]/deadCrew/text"
 msgstr ""
-"Enfin, les biens précieux des Limaces sont à vous. Après, c'est-à-dire, vous"
-" partagez votre butin avec le vaisseau Acide."
+"Enfin, les précieuses possessions des Limaces sont à vous. Après, c'est-à-"
+"dire, vous partagez vos prises avec le vaisseau Acide."
 
 #: src-en/data/events_special_aea_acid.xml:945
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ASTEROIDS\"]/destroyed/text"
 msgstr ""
 "Les astéroïdes étant détruits, vous pouvez réactiver vos moteurs et vous "
-"diriger prudemment vers l'épave pour commencer à la récupérer."
+"diriger prudemment vers l'épave pour commencer à la démanteler."
 
 #: src-en/data/events_special_aea_acid.xml:951
 msgid ""
@@ -1153,21 +1149,21 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"AEA_ACID_ASTEROID_APPROACHING_FAIL\"]/text"
 msgstr ""
-"Vous n'avez pas réussi à arrêter les astéroïdes à temps. Ils s'écrasent sur "
-"votre vaisseau, envoyant des débris dans toutes les directions."
+"Vous n'avez pas pu arrêter les astéroïdes à temps. Ils s'écrasent sur votre "
+"vaisseau, envoyant des débris dans toutes les directions."
 
 #: src-en/data/events_special_aea_acid.xml:969
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ORCHID_ONLY\"]/destroyed/text"
 msgstr ""
-"Les Orchidées détruites, vous vous avancez pour récupérer ce que vous pouvez"
-" du vaisseau."
+"Avec les Orchidées détruites pour avancer et récupérer ce que vous pouvez du"
+" vaisseau."
 
 #: src-en/data/events_special_aea_acid.xml:973
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ORCHID_ONLY\"]/deadCrew/text"
 msgstr ""
-"Les Orchidées tuées et la Croissance Acide vengée, vous vous avancez pour "
+"Avec les Orchidées tuées et la Croissance Acide vengée, vous avancez pour "
 "récupérer ce que vous pouvez du vaisseau."
 
 #: src-en/data/events_special_aea_acid.xml:986
@@ -1175,7 +1171,7 @@ msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_SHIELDS\"]/destroyed/text"
 msgstr ""
 "Le vaisseau Acide se brise et vos boucliers reviennent à la normale. Vous "
-"collectez ce que vous pouvez."
+"récupérez ce que vous pouvez."
 
 #: src-en/data/events_special_aea_acid.xml:991
 msgid ""
@@ -1187,7 +1183,7 @@ msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_OXYGEN\"]/destroyed/text"
 msgstr ""
 "Le vaisseau Acide se brise et votre oxygène revient à la normale. Vous "
-"collectez ce que vous pouvez."
+"récupérez ce que vous pouvez."
 
 #: src-en/data/events_special_aea_acid.xml:1003
 msgid ""
@@ -1198,8 +1194,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_WEAPONS\"]/destroyed/text"
 msgstr ""
-"Le vaisseau Acide se brise et votre système d'armement revient à la normale."
-" Vous collectez ce que vous pouvez."
+"Le vaisseau Acide se brise et votre système d'armes revient à la normale. "
+"Vous récupérez ce que vous pouvez."
 
 #: src-en/data/events_special_aea_acid.xml:1015
 msgid ""
@@ -1210,8 +1206,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_HACKING\"]/destroyed/text"
 msgstr ""
-"Le vaisseau Acide se brise et son module de piratage est détruit. Vous "
-"collectez ce que vous pouvez."
+"Le vaisseau Acide se brise et leur module de piratage est détruit. Vous "
+"récupérez ce que vous pouvez."
 
 #: src-en/data/events_special_aea_acid.xml:1027
 msgid ""
@@ -1222,8 +1218,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/text"
 msgstr ""
-"Vous avez vaincu le Vaisseau Acide d'élite. Cependant, alors que vous tentez"
-" de le démanteler, vous remarquez que le geôlier essaie de fuir !."
+"Vous avez vaincu le Vaisseau Acide d'Élite. Cependant, alors que vous tentez"
+" de le démanteler, vous remarquez que le geôlier essaie de fuir !"
 
 #: src-en/data/events_special_aea_acid.xml:1037
 msgid ""
@@ -1254,15 +1250,15 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/event/choice/event/text"
 msgstr ""
-"Il semble qu'ils n'aient qu'un seul prisonnier à bord. Un Saboteur Limace, "
-"il est reconnaissant."
+"Il semble qu'ils n'ont qu'un seul prisonnier à bord. Un Saboteur Limace, il "
+"est reconnaissant."
 
 #: src-en/data/events_special_aea_acid.xml:1058
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/text"
 msgstr ""
-"Vous avez vaincu le Vaisseau Acide d'élite. Cependant, alors que vous tentez"
-" de le démanteler, vous remarquez que le geôlier essaie de fuir !."
+"Vous avez vaincu le Vaisseau Acide d'Élite. Cependant, alors que vous tentez"
+" de le démanteler, vous remarquez que le geôlier essaie de fuir !"
 
 #: src-en/data/events_special_aea_acid.xml:1060
 msgid ""
@@ -1293,23 +1289,23 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/event/choice/event/text"
 msgstr ""
-"Il semble qu'ils n'aient qu'un seul prisonnier à bord. Un Saboteur Limace, "
-"il est reconnaissant."
+"Il semble qu'ils n'ont qu'un seul prisonnier à bord. Un Saboteur Limace, il "
+"est reconnaissant."
 
 #: src-en/data/events_special_aea_acid.xml:1085
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/gotaway/text"
 msgstr ""
-"Les rebelles sautent. Ils relayeront sans aucun doute votre position au "
+"Les Rebelles sautent. Ils transmettront sans aucun doute votre position au "
 "reste de la rébellion."
 
 #: src-en/data/events_special_aea_acid.xml:1089
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/destroyed/text"
 msgstr ""
-"Les rebelles ont été vaincus. C'est une bonne chose que vous ayez percé leur"
-" déguisement en simple vaisseau civil, ou peut-être êtes-vous juste un "
-"monstre."
+"Les Rebelles ont été vaincus. C'est une bonne chose que vous ayez vu à "
+"travers leur déguisement de simple vaisseau civil, ou peut-être êtes-vous "
+"juste un monstre."
 
 #: src-en/data/events_special_aea_acid.xml:1092
 msgid ""
@@ -1320,9 +1316,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/deadCrew/text"
 msgstr ""
-"Les rebelles ont été vaincus. C'est une bonne chose que vous ayez percé leur"
-" déguisement en simple vaisseau civil, ou peut-être êtes-vous juste un "
-"monstre."
+"Les Rebelles ont été vaincus. C'est une bonne chose que vous ayez vu à "
+"travers leur déguisement de simple vaisseau civil, ou peut-être êtes-vous "
+"juste un monstre."
 
 #: src-en/data/events_special_aea_acid.xml:1100
 msgid ""
@@ -1333,8 +1329,8 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/text"
 msgstr ""
-"Lorsque le vaisseau Acide semble prêt à se désintégrer, vous remarquez que "
-"le vaisseau Limace a sécurisé le butin et se prépare à sauter !."
+"Quand le vaisseau Acide semble prêt à se briser, vous remarquez que le "
+"vaisseau Limace a sécurisé le butin et se prépare à sauter !"
 
 #: src-en/data/events_special_aea_acid.xml:1120
 msgid ""
@@ -1345,63 +1341,63 @@ msgstr "Continuer à combattre le vaisseau Acide."
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[1]/event/text"
 msgstr ""
-"Il est préférable de finir cela - mais vous vous demandez si ce que le "
-"vaisseau Acide transporte sera aussi précieux que ce que les Limaces ont "
-"emporté."
+"Il est préférable que vous terminiez cela – mais vous vous demandez si ce "
+"que le vaisseau Acide transporte sera aussi précieux que ce que les Limaces "
+"ont emporté discrètement."
 
 #: src-en/data/events_special_aea_acid.xml:1126
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[2]/text"
 msgstr ""
-"Laisser le vaisseau Acide s'échapper et poursuivre le vaisseau Limace."
+"Laissez le vaisseau Acide s'échapper et poursuivez le vaisseau Limace."
 
 #: src-en/data/events_special_aea_acid.xml:1128
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[2]/event/text"
 msgstr ""
 "Le vaisseau Acide est trop endommagé pour vous poursuivre, et vous rattrapez"
-" les Limaces avant qu'elles ne sautent. « Ah, bien sssûrr, nousss ne "
-"partirionsss jamaiss sssansss vousss fournirr lesss butinsss convenusss. » "
+" les Limaces avant qu'elles ne sautent. \" Ah, bien sssûrr, nousss ne "
+"partirionsss jamaiss sssansss vousss fournirr lesss butinsss convenusss. \" "
 "Ils transfèrent une bonne partie des profits et partent."
 
 #: src-en/data/events_special_aea_acid.xml:1136
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/destroyed/text"
 msgstr ""
-"Le vaisseau Acide vaincu, vous scannez les débris pour tout ce qui est "
-"utile. Le vaisseau Limace est parti depuis longtemps, le butin de la "
-"cachette en main."
+"Le vaisseau Acide vaincu, vous scannez les débris à la recherche de quoi que"
+" ce soit d'utile. Le vaisseau Limace est parti depuis longtemps, butin de la"
+" cachette en main."
 
 #: src-en/data/events_special_aea_acid.xml:1140
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/deadCrew/text"
 msgstr ""
-"Le vaisseau Acide vaincu, vous scannez les débris pour tout ce qui est "
-"utile. Le vaisseau Limace est parti depuis longtemps, le butin de la "
-"cachette en main."
+"Le vaisseau Acide vaincu, vous scannez les débris à la recherche de quoi que"
+" ce soit d'utile. Le vaisseau Limace est parti depuis longtemps, butin de la"
+" cachette en main."
 
 #: src-en/data/events_special_aea_acid.xml:1147
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP2\"]/destroyed/text"
 msgstr ""
-"Le vaisseau Acide étant neutralisé, vous cherchez à nouveau la cachette "
-"qu'il protégeait, mais elle est perdue dans les nuages. Vous vous consolez "
-"avec la récupération du vaisseau bien armé."
+"Le vaisseau Acide étant maîtrisé, vous cherchez à nouveau la cachette qu'il "
+"protégeait, mais elle est perdue dans les nuages. Vous vous consolez avec le"
+" butin du vaisseau bien armé."
 
 #: src-en/data/events_special_aea_acid.xml:1151
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP2\"]/deadCrew/text"
 msgstr ""
-"Le vaisseau Acide vaincu, vous cherchez à nouveau la cachette qu'il "
-"protégeait, mais elle est perdue dans les nuages. Vous vous consolez avec la"
-" récupération du vaisseau bien armé."
+"Le vaisseau Acide étant vaincu, vous cherchez à nouveau la cachette qu'il "
+"protégeait, mais elle est perdue dans les nuages. Vous vous consolez avec le"
+" butin du vaisseau bien armé."
 
 #: src-en/data/events_special_aea_acid.xml:1158
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/text"
 msgstr ""
-"« Ce combat n'en vaut pas la peine, prenez l'antidote en échange de la paix."
-" »"
+"\"Ce combat n'en vaut pas la peine, prenez l'antidote en échange de la "
+"paix.\""
 
 #: src-en/data/events_special_aea_acid.xml:1160
 msgid ""
@@ -1412,9 +1408,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/choice[1]/event/text"
 msgstr ""
-"Le vaisseau Acide transfère l'antidote et saute rapidement. Vous hésitez à "
-"l'injecter à votre équipage, mais vous n'avez pas le choix. Heureusement, "
-"ils semblent déjà aller mieux."
+"Le vaisseau Acide transfère l'antidote et saute rapidement. Vous êtes "
+"hésitant à l'injecter à votre équipage, mais vous n'avez pas le choix. "
+"Heureusement, ils semblent déjà aller mieux."
 
 #: src-en/data/events_special_aea_acid.xml:1169
 msgid ""
@@ -1425,14 +1421,13 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/destroyed/text"
 msgstr ""
-"Vous avez détruit le vaisseau Acide, mais il n'y a plus aucun moyen de "
-"récupérer l'antidote. Votre équipage est condamné, semble-t-il."
+"Vous avez détruit le vaisseau Acide, mais maintenant il n'y a aucun moyen de"
+" récupérer l'antidote. Votre équipage est condamné, semble-t-il."
 
 #: src-en/data/events_special_aea_acid.xml:1178
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/deadCrew/text"
-msgstr ""
-"Vous avez neutralisé le vaisseau Acide et l'avez vidé de tout équipage."
+msgstr "Vous avez neutralisé le vaisseau Acide et vidé tout son équipage."
 
 #: src-en/data/events_special_aea_acid.xml:1181
 msgid ""
@@ -1461,10 +1456,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_MEET\"]/deadCrew/text"
 msgstr ""
-"Vous avez neutralisé le vaisseau Acide et l'avez vidé de tout équipage. "
-"Alors que vous pillez les restes du vaisseau Acide et de l'étrange vaisseau "
-"détruit au début du combat, vous découvrez un Soldat Acide vivant dans "
-"l'épave."
+"Vous avez neutralisé le vaisseau Acide et vidé tout son équipage. Alors que "
+"vous pillez les restes du vaisseau Acide et de l'étrange vaisseau détruit au"
+" début du combat, vous découvrez un Soldat Acide vivant dans l'épave."
 
 #: src-en/data/events_special_aea_acid.xml:1203
 msgid ""
@@ -1475,9 +1469,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/destroyed/text"
 msgstr ""
-"Vous avez détruit l'énorme vaisseau Acide. Alors que vous fouillez la "
-"gigantesque épave créée par sa défaite, vous trouvez une banque de données "
-"intacte, et sur celle-ci les schémas d'un vaisseau."
+"Vous avez détruit l'énorme vaisseau Acide. En fouillant l'énorme épave créée"
+" par sa défaite, vous trouvez une banque de données intacte, et sur celle-ci"
+" les schémas d'un vaisseau."
 
 #: src-en/data/events_special_aea_acid.xml:1215
 msgid ""
@@ -1488,9 +1482,9 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/deadCrew/text"
 msgstr ""
-"Vous avez vidé l'énorme vaisseau Acide de son équipage. Alors que vous "
-"fouillez la gigantesque carcasse créée par sa défaite, vous trouvez une "
-"banque de données intacte, et sur celle-ci les schémas d'un vaisseau."
+"Vous avez vidé l'énorme vaisseau Acide de son équipage. En fouillant "
+"l'énorme carcasse créée par sa défaite, vous trouvez une banque de données "
+"intacte, et sur celle-ci les schémas d'un vaisseau."
 
 #: src-en/data/events_special_aea_acid.xml:1225
 msgid ""
@@ -1519,21 +1513,20 @@ msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/text"
 msgstr ""
 "L'équipage est mort, vous laissant avec le vaisseau. Sa cargaison est à "
-"vous. À bord se trouve un canon inhabituel, peut-être que si vous aviez une "
-"arme sans canon, il serait utile."
+"vous. À bord se trouve un baril inhabituel. Peut-être que si vous aviez une "
+"arme sans baril, ce serait utile."
 
 #: src-en/data/events_special_aea_acid.xml:1249
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/text"
-msgstr "Installer le canon dans l'arme du chantier spatial."
+msgstr "Installer le baril dans l'arme depuis le chantier spatial."
 
 #: src-en/data/events_special_aea_acid.xml:1252
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
-"Vous insérez le canon et il s'intègre parfaitement au reste de l'arme."
+msgstr "Vous insérez le baril et il se joint parfaitement au reste de l'arme."
 
 #: src-en/data/events_special_aea_acid.xml:1254
 msgid ""
@@ -1545,7 +1538,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/event/choice/event/text"
-msgstr "L'arme est maintenant entièrement opérationnelle."
+msgstr "L'arme est maintenant pleinement opérationnelle."
 
 #: src-en/data/events_special_aea_acid.xml:1260
 msgid ""
@@ -1557,4 +1550,4 @@ msgstr ""
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"0\"]/text"
-msgstr "Vous n'avez aucune utilité pour le canon."
+msgstr "Vous n'avez aucune utilité pour le baril."
