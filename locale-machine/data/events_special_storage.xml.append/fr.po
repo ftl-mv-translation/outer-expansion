@@ -39,31 +39,31 @@ msgstr "Petits Cultistes."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[6]/text"
-msgstr "Armes de Culte."
+msgstr "Armes de Cultistes."
 
 #: src-en/data/events_special_storage.xml.append:29
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[7]/text"
-msgstr "Artillerie de Bordée."
+msgstr "Artillerie de bordée."
 
 #: src-en/data/events_special_storage.xml.append:33
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[8]/text"
-msgstr "Le Justicier Noir peut modifier votre salle des clones."
+msgstr "Le Justicier Sombre peut modifier votre salle des clones."
 
 #: src-en/data/events_special_storage.xml.append:37
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[9]/text"
-msgstr "Le Justicier Noir peut modifier votre salle des clones."
+msgstr "Le Justicier Sombre peut modifier votre salle des clones."
 
 #: src-en/data/events_special_storage.xml.append:41
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[10]/text"
-msgstr "(Justicier Noir) Consulter le Livre des Morts."
+msgstr "(Justicier Sombre) Consultez le Livre de la Mort."
 
 #: src-en/data/events_special_storage.xml.append:48
 msgid ""
@@ -75,7 +75,7 @@ msgstr "Boucliers Auxiliaires."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
 "append:choice[2]/text"
-msgstr "Salle des clones modifiée."
+msgstr "Salle des Clones Modifiée."
 
 #: src-en/data/events_special_storage.xml.append:62
 msgid ""
@@ -94,7 +94,7 @@ msgstr "Quelle amélioration souhaitez-vous installer ?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELDS\"]/choice[@req=\"UPG_AEA_SUPER_SHIELD_OVERCHARGER\""
 " and @lvl=\"1\"]/text"
-msgstr "Surchageur Auxiliaire. [DÉJÀ INSTALLÉE]"
+msgstr "Surchageur Auxiliaire. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:74
 msgid ""
@@ -106,13 +106,13 @@ msgstr "Surchageur Auxiliaire. [Coût : 50~, 1{]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELDS\"]/choice[@req=\"UPG_AEA_SUPER_SHIELD_LINKER\""
 " and @lvl=\"1\"]/text"
-msgstr "Synchronisation informatique. [DÉJÀ INSTALLÉE]"
+msgstr "Synchronisation Informatique. [DÉJÀ INSTALLÉE]"
 
 #: src-en/data/events_special_storage.xml.append:82
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELDS\"]/choice[@req=\"UPG_AEA_SUPER_SHIELD_LINKER\""
 " and @lvl=\"0\"]/text"
-msgstr "Synchronisation informatique. [Coût : 35~, 5|]"
+msgstr "Synchronisation Informatique. [Coût : 35~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:86
 msgid ""
@@ -123,8 +123,8 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_LINKER\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer l'amélioration Synchronisation informatique.\n"
-"\t[Effets : Le pilotage dans les Boucliers Auxiliaires confère également aux Boucliers 50% du bonus, le pilotage dans les Boucliers confère aux Boucliers Auxiliaires 50% de son bonus.]"
+"Vous êtes sur le point d'installer l'amélioration Synchronisation Informatique.\n"
+"\t[Effets : La présence d'équipage dans les Boucliers Auxiliaires fournit également aux Boucliers 50 % du bonus. La présence d'équipage dans les Boucliers fournit aux Boucliers Auxiliaires 50 % de son bonus.]"
 
 #: src-en/data/events_special_storage.xml.append:94
 msgid ""
@@ -144,7 +144,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:108
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_LINKER\"]/choice[@req=\"EX_AEA_SUPER_SHIELD_LINKER\"]/text"
-msgstr "Installer l'Augmentation Externe en interne."
+msgstr "Installer l'augmentation externe en interne."
 
 #: src-en/data/events_special_storage.xml.append:110
 msgid ""
@@ -186,7 +186,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:147
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_OVERCHARGER\"]/choice[@req=\"EX_AEA_SUPER_SHIELD_OVERCHARGER\"]/text"
-msgstr "Installer l'Augmentation Externe en interne."
+msgstr "Installer l'augmentation externe en interne."
 
 #: src-en/data/events_special_storage.xml.append:149
 msgid ""
@@ -213,8 +213,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME\"]/choice[@req=\"UPG_AEA_CLONE_CRIME_LIFETIME\""
 " and @lvl=\"2\"]/text"
 msgstr ""
-"Décroissance Réduite. [INDISPONIBLE : Vous avez déjà le maximum de cette "
-"amélioration]"
+"Décroissance Réduite. [NON DISPONIBLE : Vous avez déjà atteint le niveau "
+"maximal de cette amélioration]"
 
 #: src-en/data/events_special_storage.xml.append:176
 msgid ""
@@ -232,7 +232,7 @@ msgstr "Décroissance Réduite Niv. 1. [Coût : 30~, 3{]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME\"]/choice[@req=\"UPG_AEA_CLONE_CRIME_BUFF\""
 " and @lvl=\"1\"]/text"
-msgstr "Muscle Synthétisé. [DÉJÀ INSTALLÉE]"
+msgstr "Muscle Synthétisé. [DÉJÀ INSTALLÉ]"
 
 #: src-en/data/events_special_storage.xml.append:188
 msgid ""
@@ -270,7 +270,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:214
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_LIFETIME\"]/choice[@req=\"EX_AEA_CLONE_CRIME_LIFETIME\"]/text"
-msgstr "Installer l'Augmentation Externe en interne."
+msgstr "Installer l'augmentation externe en interne."
 
 #: src-en/data/events_special_storage.xml.append:216
 msgid ""
@@ -292,7 +292,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_BUFF\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer l'amélioration Muscle Synthétisé.\n"
-"\t[Effets : L'équipage produit par la salle des clones modifiée gagne 20 pv par barre d'énergie du système.]"
+"\t[Effets : L'équipage produit par la salle des clones modifiée gagne 20pv par barre d'énergie dans le système.]"
 
 #: src-en/data/events_special_storage.xml.append:239
 msgid ""
@@ -312,7 +312,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:253
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_BUFF\"]/choice[@req=\"EX_AEA_CLONE_CRIME_BUFF\"]/text"
-msgstr "Installer l'Augmentation Externe en interne."
+msgstr "Installer l'augmentation externe en interne."
 
 #: src-en/data/events_special_storage.xml.append:255
 msgid ""
@@ -365,7 +365,7 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
-"(Piratage de générateur) Invoquer un vaisseau MV d'expansion extérieure."
+"(Piratage de Générateur) Invoquer un vaisseau MV d'Expansion Extérieure."
 
 #: src-en/data/events_special_storage.xml.append:311
 msgid ""
@@ -374,7 +374,7 @@ msgstr ""
 "Vous êtes sur le point d'installer la modification Communion Ancienne.\n"
 "\t[Effets : Vous pouvez acheter des sorts aux balises vides]\n"
 "\t\n"
-"\t[Avertissement : Cela n'affectera que l'équipage Cultiste. Vous pourrez installer d'autres modifications secondaires et primaires par la suite.]."
+"\t[Avertissement : Cela n'affectera que les membres d'équipage Cultistes. Vous pourrez installer d'autres modifications secondaires et primaires par la suite.]."
 
 #: src-en/data/events_special_storage.xml.append:316
 msgid ""
@@ -424,7 +424,7 @@ msgstr "Convertir un Engi d'Harmonie."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi\"]/event/text"
 msgstr ""
-"Vous voyez votre Engi être envahi par un nuage de nanites, cela ne semble "
+"Vous voyez votre Engi être envahi par un nuage de nanites. Cela ne semble "
 "pas très agréable pour l'Engi."
 
 #: src-en/data/events_special_storage.xml.append:359
@@ -441,7 +441,7 @@ msgstr "Convertir un Engi Séparatiste."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist\"]/event/text"
 msgstr ""
-"Vous voyez votre Engi être envahi par un nuage de nanites, cela ne semble "
+"Vous voyez votre Engi être envahi par un nuage de nanites. Cela ne semble "
 "pas très agréable pour l'Engi."
 
 #: src-en/data/events_special_storage.xml.append:373
@@ -458,7 +458,7 @@ msgstr "Convertir un Engi Séparatiste."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist_nano\"]/event/text"
 msgstr ""
-"Vous voyez votre Engi être envahi par un nuage de nanites, cela ne semble "
+"Vous voyez votre Engi être envahi par un nuage de nanites. Cela ne semble "
 "pas très agréable pour l'Engi."
 
 #: src-en/data/events_special_storage.xml.append:387
@@ -475,7 +475,7 @@ msgstr "Convertir un Défenseur Engi."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_defender\"]/event/text"
 msgstr ""
-"Vous voyez votre Engi être envahi par un nuage de nanites, cela ne semble "
+"Vous voyez votre Engi être envahi par un nuage de nanites. Cela ne semble "
 "pas très agréable pour l'Engi."
 
 #: src-en/data/events_special_storage.xml.append:401
@@ -640,17 +640,18 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[2]/text"
 msgstr ""
-"Régler le Système de Filtration en Mode Extincteur (Actuellement Activé)."
+"Régler le Système de Filtration en mode Extincteur (Actuellement activé)."
 
 #: src-en/data/events_special_storage.xml.append:542
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[3]/text"
-msgstr "Régler le Système de Filtration en Mode Oxygène."
+msgstr "Régler le Système de Filtration en mode Oxygène."
 
 #: src-en/data/events_special_storage.xml.append:544
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[3]/event/text"
-msgstr "Votre système de filtration passe en mode production d'oxygène."
+msgstr ""
+"Votre système de filtration se met en marche pour produire de l'oxygène."
 
 #: src-en/data/events_special_storage.xml.append:547
 msgid ""
@@ -680,14 +681,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:571
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[2]/text"
-msgstr "Régler le Système de Filtration en Mode Extincteur."
+msgstr "Régler le Système de Filtration en mode Extincteur."
 
 #: src-en/data/events_special_storage.xml.append:573
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[2]/event/text"
 msgstr ""
-"Votre système de filtration passe en mode production de suppression "
-"d'incendies."
+"Votre système de filtration se met en marche pour produire un agent "
+"extincteur."
 
 #: src-en/data/events_special_storage.xml.append:576
 msgid ""
@@ -708,12 +709,12 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[3]/text"
 msgstr ""
-"Régler le Système de Filtration en Mode Oxygène (Actuellement Activé)."
+"Régler le Système de Filtration en mode Oxygène (Actuellement activé)."
 
 #: src-en/data/events_special_storage.xml.append:604
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_MISSILE\"]/text"
-msgstr "Êtes-vous sûr de vouloir modifier les réglages du drone ?"
+msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 
 #: src-en/data/events_special_storage.xml.append:606
 msgid ""
@@ -748,7 +749,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:629
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_DRONE\"]/text"
-msgstr "Êtes-vous sûr de vouloir modifier les réglages du drone ?"
+msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 
 #: src-en/data/events_special_storage.xml.append:631
 msgid ""
@@ -783,7 +784,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:662
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_MISSILE\"]/text"
-msgstr "Êtes-vous sûr de vouloir modifier les réglages du drone ?"
+msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 
 #: src-en/data/events_special_storage.xml.append:664
 msgid ""
@@ -818,7 +819,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:687
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_DRONE\"]/text"
-msgstr "Êtes-vous sûr de vouloir modifier les réglages du drone ?"
+msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 
 #: src-en/data/events_special_storage.xml.append:689
 msgid ""
@@ -853,7 +854,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:720
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_LASER\"]/text"
-msgstr "Êtes-vous sûr de vouloir modifier les réglages du drone ?"
+msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 
 #: src-en/data/events_special_storage.xml.append:722
 msgid ""
@@ -888,7 +889,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:745
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_BEAM\"]/text"
-msgstr "Êtes-vous sûr de vouloir modifier les réglages du drone ?"
+msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 
 #: src-en/data/events_special_storage.xml.append:747
 msgid ""
@@ -923,7 +924,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:777
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_LASER\"]/text"
-msgstr "Êtes-vous sûr de vouloir modifier les réglages du drone ?"
+msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 
 #: src-en/data/events_special_storage.xml.append:779
 msgid ""
@@ -958,7 +959,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:802
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_BEAM\"]/text"
-msgstr "Êtes-vous sûr de vouloir modifier les réglages du drone ?"
+msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 
 #: src-en/data/events_special_storage.xml.append:804
 msgid ""
@@ -1000,15 +1001,15 @@ msgstr "Technologie Hérétique."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[9]/mod-"
 "append:choice[2]/text"
-msgstr "Technologie Mystérieuse."
+msgstr "Technologie Mystère."
 
 #: src-en/data/events_special_storage.xml.append:840
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO\"]/text"
 msgstr ""
-"Basé sur la technologie Hérétique que votre vaisseau utilise, vous pourriez "
-"être en mesure d'effectuer d'autres améliorations en utilisant cette "
-"technologie."
+"En vous basant sur la Technologie Hérétique utilisée par votre vaisseau, "
+"vous pourriez être en mesure d'effectuer d'autres améliorations à l'aide de "
+"cette technologie."
 
 #: src-en/data/events_special_storage.xml.append:842
 msgid ""
@@ -1020,7 +1021,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO\"]/choice[@req=\"aea_p_has_repair\""
 " and @lvl=\"0\"]/text"
-msgstr "Rafale Réparatrice. [Coût : 20~]."
+msgstr "Bombe Réparante. [Coût : 20~]."
 
 #: src-en/data/events_special_storage.xml.append:850
 msgid ""
@@ -1031,7 +1032,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer la Rafale Réparatrice.\n"
+"Vous êtes sur le point d'installer la Bombe Réparante.\n"
 "\t[Effets : Répare tous les systèmes lorsque l'intégrité de la coque tombe à 5, consommée à l'utilisation, peut être rachetée]."
 
 #: src-en/data/events_special_storage.xml.append:859
@@ -1057,8 +1058,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/choice[@req=\"LIST_CREW_AEA_NECRO\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous avez besoin d'un Hérétique "
-"Engi pour effectuer l'amélioration."
+"Cette amélioration n'est pas disponible. Vous avez besoin d'un Engi "
+"Hérétique pour effectuer l'amélioration."
 
 #: src-en/data/events_special_storage.xml.append:876
 msgid ""
@@ -1069,210 +1070,211 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/text"
 msgstr ""
-"Basé sur la technologie mystérieuse de votre cargaison, vous pourriez être "
-"en mesure d'effectuer d'autres améliorations en utilisant cette technologie."
+"En vous basant sur la technologie mystérieuse de votre cargaison, vous "
+"pourriez être en mesure d'effectuer d'autres améliorations à l'aide de cette"
+" technologie."
 
 #: src-en/data/events_special_storage.xml.append:889
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"shields\"]/text"
-msgstr "Améliorer Boucliers. [AUCUN SYSTÈME]."
+msgstr "Améliorer les Boucliers. [AUCUN SYSTÈME]."
 
 #: src-en/data/events_special_storage.xml.append:893
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_shields_upgrades\"]/text"
-msgstr "Améliorer Boucliers. [MAXIMISÉ]."
+msgstr "Améliorer les Boucliers. [MAXIMISÉ]."
 
 #: src-en/data/events_special_storage.xml.append:897
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[3]/text"
-msgstr "Améliorer Boucliers. [TECH. INACTIVE]."
+msgstr "Améliorer les Boucliers. [TECH. INACTIVE]."
 
 #: src-en/data/events_special_storage.xml.append:901
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_shields\"]/text"
-msgstr "Améliorer Boucliers. [Coût : 120~, Composant High-Tech]."
+msgstr "Améliorer les Boucliers. [Coût : 120~, Composant High-Tech]."
 
 #: src-en/data/events_special_storage.xml.append:907
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"engines\"]/text"
-msgstr "Améliorer Moteurs. [AUCUN SYSTÈME]."
+msgstr "Améliorer les Moteurs. [AUCUN SYSTÈME]."
 
 #: src-en/data/events_special_storage.xml.append:911
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_engines_upgrades\"]/text"
-msgstr "Améliorer Moteurs. [MAXIMISÉ]."
+msgstr "Améliorer les Moteurs. [MAXIMISÉ]."
 
 #: src-en/data/events_special_storage.xml.append:915
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[7]/text"
-msgstr "Améliorer Moteurs. [TECH. INACTIVE]."
+msgstr "Améliorer les Moteurs. [TECH. INACTIVE]."
 
 #: src-en/data/events_special_storage.xml.append:919
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_engines\"]/text"
-msgstr "Améliorer Moteurs. [Coût : 120~, Composant High-Tech]."
+msgstr "Améliorer les Moteurs. [Coût : 120~, Composant High-Tech]."
 
 #: src-en/data/events_special_storage.xml.append:925
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"weapons\"]/text"
-msgstr "Améliorer Armes. [AUCUN SYSTÈME]."
+msgstr "Améliorer les Armes. [AUCUN SYSTÈME]."
 
 #: src-en/data/events_special_storage.xml.append:929
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_weapons_upgrades\"]/text"
-msgstr "Améliorer Armes. [MAXIMISÉ]."
+msgstr "Améliorer les Armes. [MAXIMISÉ]."
 
 #: src-en/data/events_special_storage.xml.append:933
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[11]/text"
-msgstr "Améliorer Armes. [TECH. INACTIVE]."
+msgstr "Améliorer les Armes. [TECH. INACTIVE]."
 
 #: src-en/data/events_special_storage.xml.append:937
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_weapons\"]/text"
-msgstr "Améliorer Armes. [Coût : 120~, Composant High-Tech]."
+msgstr "Améliorer les Armes. [Coût : 120~, Composant High-Tech]."
 
 #: src-en/data/events_special_storage.xml.append:943
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"drones\"]/text"
-msgstr "Améliorer Drones. [AUCUN SYSTÈME]."
+msgstr "Améliorer les Drones. [AUCUN SYSTÈME]."
 
 #: src-en/data/events_special_storage.xml.append:947
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_drones_upgrades\"]/text"
-msgstr "Améliorer Drones. [MAXIMISÉ]."
+msgstr "Améliorer les Drones. [MAXIMISÉ]."
 
 #: src-en/data/events_special_storage.xml.append:951
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[15]/text"
-msgstr "Améliorer Drones. [TECH. INACTIVE]."
+msgstr "Améliorer les Drones. [TECH. INACTIVE]."
 
 #: src-en/data/events_special_storage.xml.append:955
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_drones\"]/text"
-msgstr "Améliorer Drones. [Coût : 120~, Composant High-Tech]."
+msgstr "Améliorer les Drones. [Coût : 120~, Composant High-Tech]."
 
 #: src-en/data/events_special_storage.xml.append:961
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"cloaking\"]/text"
-msgstr "Améliorer Camouflage. [AUCUN SYSTÈME]."
+msgstr "Améliorer le Camouflage. [AUCUN SYSTÈME]."
 
 #: src-en/data/events_special_storage.xml.append:965
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_cloaking_upgrades\"]/text"
-msgstr "Améliorer Camouflage. [MAXIMISÉ]."
+msgstr "Améliorer le Camouflage. [MAXIMISÉ]."
 
 #: src-en/data/events_special_storage.xml.append:969
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[19]/text"
-msgstr "Améliorer Camouflage. [TECH. INACTIVE]."
+msgstr "Améliorer le Camouflage. [TECH. INACTIVE]."
 
 #: src-en/data/events_special_storage.xml.append:973
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_cloaking\"]/text"
-msgstr "Améliorer Camouflage. [Coût : 120~, Composant High-Tech]."
+msgstr "Améliorer le Camouflage. [Coût : 120~, Composant High-Tech]."
 
 #: src-en/data/events_special_storage.xml.append:979
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"mind\"]/text"
-msgstr "Améliorer Contrôle mental. [AUCUN SYSTÈME]."
+msgstr "Améliorer le Contrôle Mental. [AUCUN SYSTÈME]."
 
 #: src-en/data/events_special_storage.xml.append:983
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_mind_upgrades\"]/text"
-msgstr "Améliorer Contrôle mental. [MAXIMISÉ]."
+msgstr "Améliorer le Contrôle Mental. [MAXIMISÉ]."
 
 #: src-en/data/events_special_storage.xml.append:987
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[23]/text"
-msgstr "Améliorer Contrôle mental. [TECH. INACTIVE]."
+msgstr "Améliorer le Contrôle Mental. [TECH. INACTIVE]."
 
 #: src-en/data/events_special_storage.xml.append:991
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_mind\"]/text"
-msgstr "Améliorer Contrôle mental. [Coût : 120~, Composant High-Tech]."
+msgstr "Améliorer le Contrôle Mental. [Coût : 120~, Composant High-Tech]."
 
 #: src-en/data/events_special_storage.xml.append:997
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"hacking\""
 " and @lvl=\"-1\"]/text"
-msgstr "Améliorer Piratage. [AUCUN SYSTÈME]."
+msgstr "Améliorer le Piratage. [AUCUN SYSTÈME]."
 
 #: src-en/data/events_special_storage.xml.append:1001
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/text"
-msgstr "Améliorer Piratage. [MAXIMISÉ]."
+msgstr "Améliorer le Piratage. [MAXIMISÉ]."
 
 #: src-en/data/events_special_storage.xml.append:1005
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_hacking_upgrades\"]/text"
-msgstr "Améliorer Piratage. [MAXIMISÉ]."
+msgstr "Améliorer le Piratage. [MAXIMISÉ]."
 
 #: src-en/data/events_special_storage.xml.append:1009
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[28]/text"
-msgstr "Améliorer Piratage. [TECH. INACTIVE]."
+msgstr "Améliorer le Piratage. [TECH. INACTIVE]."
 
 #: src-en/data/events_special_storage.xml.append:1013
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_hacking\"]/text"
-msgstr "Améliorer Piratage. [Coût : 120~, Composant High-Tech]."
+msgstr "Améliorer le Piratage. [Coût : 120~, Composant High-Tech]."
 
 #: src-en/data/events_special_storage.xml.append:1019
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"medbay\"]/text"
-msgstr "Améliorer Infirmerie. [AUCUN SYSTÈME]."
+msgstr "Améliorer l'Infirmerie. [AUCUN SYSTÈME]."
 
 #: src-en/data/events_special_storage.xml.append:1023
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_medbay_upgrades\"]/text"
-msgstr "Améliorer Infirmerie. [MAXIMISÉ]."
+msgstr "Améliorer l'Infirmerie. [MAXIMISÉ]."
 
 #: src-en/data/events_special_storage.xml.append:1027
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[32]/text"
-msgstr "Améliorer Infirmerie. [TECH. INACTIVE]."
+msgstr "Améliorer l'Infirmerie. [TECH. INACTIVE]."
 
 #: src-en/data/events_special_storage.xml.append:1031
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_medbay\"]/text"
-msgstr "Améliorer Infirmerie. [Coût : 120~, Composant High-Tech]."
+msgstr "Améliorer l'Infirmerie. [Coût : 120~, Composant High-Tech]."
 
 #: src-en/data/events_special_storage.xml.append:1037
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"clonebay\"]/text"
-msgstr "Améliorer Salle des clones. [AUCUN SYSTÈME]."
+msgstr "Améliorer la Salle des Clones. [AUCUN SYSTÈME]."
 
 #: src-en/data/events_special_storage.xml.append:1041
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_clonebay_upgrades\"]/text"
-msgstr "Améliorer Salle des clones. [MAXIMISÉ]."
+msgstr "Améliorer la Salle des Clones. [MAXIMISÉ]."
 
 #: src-en/data/events_special_storage.xml.append:1045
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[36]/text"
-msgstr "Améliorer Salle des clones. [TECH. INACTIVE]."
+msgstr "Améliorer la Salle des Clones. [TECH. INACTIVE]."
 
 #: src-en/data/events_special_storage.xml.append:1049
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_clonebay\"]/text"
-msgstr "Améliorer Salle des clones. [Coût : 120~, Composant High-Tech]."
+msgstr "Améliorer la Salle des Clones. [Coût : 120~, Composant High-Tech]."
 
 #: src-en/data/events_special_storage.xml.append:1055
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_reactor_upgrades\"]/text"
-msgstr "Améliorer Réacteur. [MAXIMISÉ]."
+msgstr "Améliorer le Réacteur. [MAXIMISÉ]."
 
 #: src-en/data/events_special_storage.xml.append:1059
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[39]/text"
-msgstr "Améliorer Réacteur. [TECH. INACTIVE]."
+msgstr "Améliorer le Réacteur. [TECH. INACTIVE]."
 
 #: src-en/data/events_special_storage.xml.append:1063
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_reactor\"]/text"
-msgstr "Améliorer Réacteur. [Coût : 50~]."
+msgstr "Améliorer le Réacteur. [Coût : 50~]."
 
 #: src-en/data/events_special_storage.xml.append:1067
 msgid ""
@@ -1327,7 +1329,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer une amélioration du système de moteurs.\n"
-"\t[Effets : Améliore les moteurs au-delà de leur niveau maximal, chaque niveau au-dessus de 8 ajoute 5 d'évasion et 0.25x de vitesse de charge SPL, ne peut être amélioré plus de deux fois]."
+"\t[Effets : Améliore les moteurs au-delà de leur niveau maximal, chaque niveau au-dessus de 8 ajoute 5 d'évasion supplémentaire et un taux de charge SPL 0.25x, ne peut être amélioré plus de deux fois]."
 
 #: src-en/data/events_special_storage.xml.append:1111
 msgid ""
@@ -1400,8 +1402,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/choice[@req=\"aea_can_upgrade_weapons\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Cette amélioration n'est pas disponible. Vous devez améliorer votre armement"
-" à son maximum naturel."
+"Cette amélioration n'est pas disponible. Vous devez améliorer vos armes à "
+"leur maximum naturel."
 
 #: src-en/data/events_special_storage.xml.append:1168
 msgid ""
@@ -1456,7 +1458,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer une amélioration du système de camouflage.\n"
-"\t[Effets : Améliore le camouflage au-delà de son niveau maximal, ne peut être fait plus d'une fois, ne peut être amélioré au-delà du niveau 4]."
+"\t[Effets : Améliore le camouflage au-delà de son niveau maximal, ne peut être fait qu'une seule fois, ne peut être amélioré au-delà du niveau 4]."
 
 #: src-en/data/events_special_storage.xml.append:1216
 msgid ""
@@ -1499,7 +1501,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer une amélioration du système de contrôle mental.\n"
-"\t[Effets : Améliore le contrôle mental au-delà de son niveau maximal, ne peut être fait plus d'une fois, ne peut être amélioré au-delà du niveau 4]."
+"\t[Effets : Améliore le contrôle mental au-delà de son niveau maximal, ne peut être fait qu'une seule fois, ne peut être amélioré au-delà du niveau 4]."
 
 #: src-en/data/events_special_storage.xml.append:1251
 msgid ""
@@ -1542,7 +1544,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer une amélioration du système de piratage.\n"
-"\t[Effets : Améliore le piratage au-delà de son niveau maximal, ne peut être fait plus d'une fois, ne peut être amélioré au-delà du niveau 3]."
+"\t[Effets : Améliore le piratage au-delà de son niveau maximal, ne peut être fait qu'une seule fois, ne peut être amélioré au-delà du niveau 3]."
 
 #: src-en/data/events_special_storage.xml.append:1286
 msgid ""
@@ -1585,7 +1587,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer une amélioration du système d'infirmerie.\n"
-"\t[Effets : Améliore l'infirmerie au-delà de son niveau maximal, ne peut être fait plus d'une fois, ne peut être amélioré au-delà du niveau 4]."
+"\t[Effets : Améliore l'infirmerie au-delà de son niveau maximal, ne peut être fait qu'une seule fois, ne peut être amélioré au-delà du niveau 4]."
 
 #: src-en/data/events_special_storage.xml.append:1321
 msgid ""
@@ -1628,7 +1630,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer une amélioration du système de salle des clones.\n"
-"\t[Effets : Améliore la salle des clones au-delà de son niveau maximal, ne peut être fait plus d'une fois, ne peut être amélioré au-delà du niveau 4]."
+"\t[Effets : Améliore la salle des clones au-delà de son niveau maximal, ne peut être fait qu'une seule fois, ne peut être amélioré au-delà du niveau 4]."
 
 #: src-en/data/events_special_storage.xml.append:1357
 msgid ""
@@ -1708,7 +1710,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/text"
 msgstr ""
-"Quelle puissance voulez-vous attribuer au drone ?\n"
+"À quelle puissance voulez-vous régler le drone ?\n"
 "\tStatistiques actuelles ; [projectiles : 2, vitesse 10]."
 
 #: src-en/data/events_special_storage.xml.append:1432
@@ -1770,7 +1772,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/text"
 msgstr ""
-"Quelle puissance voulez-vous attribuer au drone ?\n"
+"À quelle puissance voulez-vous régler le drone ?\n"
 "\tStatistiques actuelles ; [projectiles : 3, vitesse 8]."
 
 #: src-en/data/events_special_storage.xml.append:1476
@@ -1832,7 +1834,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/text"
 msgstr ""
-"Quelle puissance voulez-vous attribuer au drone ?\n"
+"À quelle puissance voulez-vous régler le drone ?\n"
 "\tStatistiques actuelles ; [projectiles : 4, vitesse 6]."
 
 #: src-en/data/events_special_storage.xml.append:1520
@@ -1903,7 +1905,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1571
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/text"
-msgstr "(Cultiste non appris) Apprendre un sort."
+msgstr "(Cultiste non entraîné) Apprendre un sort."
 
 #: src-en/data/events_special_storage.xml.append:1573
 msgid ""
@@ -1938,7 +1940,7 @@ msgstr "Votre cultiste équipe le nouveau sort à son bâton."
 #: src-en/data/events_special_storage.xml.append:1595
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/text"
-msgstr "Apprendre [Bio-Éclair]."
+msgstr "Apprendre [Éclair Bio]."
 
 #: src-en/data/events_special_storage.xml.append:1597
 msgid ""
@@ -2068,14 +2070,14 @@ msgstr "Votre cultiste équipe le nouveau sort à son bâton."
 #: src-en/data/events_special_storage.xml.append:1701
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a01\"]/text"
-msgstr "(Cultiste [Protection]) Réinitialiser le sort."
+msgstr "([Protection] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:1703
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a01\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce cultiste, le sort sera perdu mais"
-" vous pourrez enseigner un nouveau sort au cultiste."
+"Souhaitez-vous réinitialiser le sort de ce cultiste ? Le sort sera perdu, "
+"mais vous pourrez enseigner un nouveau sort au cultiste."
 
 #: src-en/data/events_special_storage.xml.append:1705
 msgid ""
@@ -2086,8 +2088,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a01\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre cultiste réinitialise son bâton, perdant tous les sorts précédents "
-"qu'il avait équipés."
+"Votre cultiste réinitialise son bâton, perdant tous les sorts précédemment "
+"équipés."
 
 #: src-en/data/events_special_storage.xml.append:1713
 msgid ""
@@ -2097,14 +2099,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1719
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a02\"]/text"
-msgstr "(Cultiste [Balise]) Réinitialiser le sort."
+msgstr "([Balise] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:1721
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a02\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce cultiste, le sort sera perdu mais"
-" vous pourrez enseigner un nouveau sort au cultiste."
+"Souhaitez-vous réinitialiser le sort de ce cultiste ? Le sort sera perdu, "
+"mais vous pourrez enseigner un nouveau sort au cultiste."
 
 #: src-en/data/events_special_storage.xml.append:1723
 msgid ""
@@ -2115,8 +2117,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a02\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre cultiste réinitialise son bâton, perdant tous les sorts précédents "
-"qu'il avait équipés."
+"Votre cultiste réinitialise son bâton, perdant tous les sorts précédemment "
+"équipés."
 
 #: src-en/data/events_special_storage.xml.append:1731
 msgid ""
@@ -2126,14 +2128,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1737
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s03\"]/text"
-msgstr "(Cultiste [Bio-Éclair]) Réinitialiser le sort."
+msgstr "([Éclair Bio] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:1739
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s03\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce cultiste, le sort sera perdu mais"
-" vous pourrez enseigner un nouveau sort au cultiste."
+"Souhaitez-vous réinitialiser le sort de ce cultiste ? Le sort sera perdu, "
+"mais vous pourrez enseigner un nouveau sort au cultiste."
 
 #: src-en/data/events_special_storage.xml.append:1741
 msgid ""
@@ -2144,8 +2146,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s03\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre cultiste réinitialise son bâton, perdant tous les sorts précédents "
-"qu'il avait équipés."
+"Votre cultiste réinitialise son bâton, perdant tous les sorts précédemment "
+"équipés."
 
 #: src-en/data/events_special_storage.xml.append:1749
 msgid ""
@@ -2155,14 +2157,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1755
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s04\"]/text"
-msgstr "(Cultiste [Éclair]) Réinitialiser le sort."
+msgstr "([Éclair] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:1757
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s04\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce cultiste, le sort sera perdu mais"
-" vous pourrez enseigner un nouveau sort au cultiste."
+"Souhaitez-vous réinitialiser le sort de ce cultiste ? Le sort sera perdu, "
+"mais vous pourrez enseigner un nouveau sort au cultiste."
 
 #: src-en/data/events_special_storage.xml.append:1759
 msgid ""
@@ -2173,8 +2175,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s04\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre cultiste réinitialise son bâton, perdant tous les sorts précédents "
-"qu'il avait équipés."
+"Votre cultiste réinitialise son bâton, perdant tous les sorts précédemment "
+"équipés."
 
 #: src-en/data/events_special_storage.xml.append:1767
 msgid ""
@@ -2184,14 +2186,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1773
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s05\"]/text"
-msgstr "(Cultiste [Rafale d'Éclairs]) Réinitialiser le sort."
+msgstr "([Rafale d'Éclairs] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:1775
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s05\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce cultiste, le sort sera perdu mais"
-" vous pourrez enseigner un nouveau sort au cultiste."
+"Souhaitez-vous réinitialiser le sort de ce cultiste ? Le sort sera perdu, "
+"mais vous pourrez enseigner un nouveau sort au cultiste."
 
 #: src-en/data/events_special_storage.xml.append:1777
 msgid ""
@@ -2202,8 +2204,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s05\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre cultiste réinitialise son bâton, perdant tous les sorts précédents "
-"qu'il avait équipés."
+"Votre cultiste réinitialise son bâton, perdant tous les sorts précédemment "
+"équipés."
 
 #: src-en/data/events_special_storage.xml.append:1785
 msgid ""
@@ -2213,14 +2215,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1791
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s06\"]/text"
-msgstr "(Cultiste [Éclair de Coque]) Réinitialiser le sort."
+msgstr "([Éclair de Coque] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:1793
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s06\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce cultiste, le sort sera perdu mais"
-" vous pourrez enseigner un nouveau sort au cultiste."
+"Souhaitez-vous réinitialiser le sort de ce cultiste ? Le sort sera perdu, "
+"mais vous pourrez enseigner un nouveau sort au cultiste."
 
 #: src-en/data/events_special_storage.xml.append:1795
 msgid ""
@@ -2231,8 +2233,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s06\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre cultiste réinitialise son bâton, perdant tous les sorts précédents "
-"qu'il avait équipés."
+"Votre cultiste réinitialise son bâton, perdant tous les sorts précédemment "
+"équipés."
 
 #: src-en/data/events_special_storage.xml.append:1803
 msgid ""
@@ -2242,14 +2244,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1809
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a07\"]/text"
-msgstr "(Cultiste [Distorsion]) Réinitialiser le sort."
+msgstr "([Distorsion] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:1811
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a07\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce cultiste, le sort sera perdu mais"
-" vous pourrez enseigner un nouveau sort au cultiste."
+"Souhaitez-vous réinitialiser le sort de ce cultiste ? Le sort sera perdu, "
+"mais vous pourrez enseigner un nouveau sort au cultiste."
 
 #: src-en/data/events_special_storage.xml.append:1813
 msgid ""
@@ -2260,8 +2262,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a07\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre cultiste réinitialise son bâton, perdant tous les sorts précédents "
-"qu'il avait équipés."
+"Votre cultiste réinitialise son bâton, perdant tous les sorts précédemment "
+"équipés."
 
 #: src-en/data/events_special_storage.xml.append:1821
 msgid ""
@@ -2271,14 +2273,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1827
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s08\"]/text"
-msgstr "(Cultiste [Éclair de Distorsion]) Réinitialiser le sort."
+msgstr "([Éclair de Distorsion] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:1829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s08\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce cultiste, le sort sera perdu mais"
-" vous pourrez enseigner un nouveau sort au cultiste."
+"Souhaitez-vous réinitialiser le sort de ce cultiste ? Le sort sera perdu, "
+"mais vous pourrez enseigner un nouveau sort au cultiste."
 
 #: src-en/data/events_special_storage.xml.append:1831
 msgid ""
@@ -2289,8 +2291,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s08\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre cultiste réinitialise son bâton, perdant tous les sorts précédents "
-"qu'il avait équipés."
+"Votre cultiste réinitialise son bâton, perdant tous les sorts précédemment "
+"équipés."
 
 #: src-en/data/events_special_storage.xml.append:1839
 msgid ""
@@ -2300,14 +2302,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1845
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s09\"]/text"
-msgstr "(Cultiste [Éclair de Soin]) Réinitialiser le sort."
+msgstr "([Éclair de Soin] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:1847
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s09\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce cultiste, le sort sera perdu mais"
-" vous pourrez enseigner un nouveau sort au cultiste."
+"Souhaitez-vous réinitialiser le sort de ce cultiste ? Le sort sera perdu, "
+"mais vous pourrez enseigner un nouveau sort au cultiste."
 
 #: src-en/data/events_special_storage.xml.append:1849
 msgid ""
@@ -2318,8 +2320,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s09\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre cultiste réinitialise son bâton, perdant tous les sorts précédents "
-"qu'il avait équipés."
+"Votre cultiste réinitialise son bâton, perdant tous les sorts précédemment "
+"équipés."
 
 #: src-en/data/events_special_storage.xml.append:1857
 msgid ""
@@ -2329,14 +2331,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1863
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a10\"]/text"
-msgstr "(Cultiste [Aura de Soin]) Réinitialiser le sort."
+msgstr "([Aura de Soin] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:1865
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a10\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce cultiste, le sort sera perdu mais"
-" vous pourrez enseigner un nouveau sort au cultiste."
+"Souhaitez-vous réinitialiser le sort de ce cultiste ? Le sort sera perdu, "
+"mais vous pourrez enseigner un nouveau sort au cultiste."
 
 #: src-en/data/events_special_storage.xml.append:1867
 msgid ""
@@ -2347,8 +2349,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a10\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre cultiste réinitialise son bâton, perdant tous les sorts précédents "
-"qu'il avait équipés."
+"Votre cultiste réinitialise son bâton, perdant tous les sorts précédemment "
+"équipés."
 
 #: src-en/data/events_special_storage.xml.append:1875
 msgid ""
@@ -2358,14 +2360,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1881
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a11\"]/text"
-msgstr "(Cultiste [Drone]) Réinitialiser le sort."
+msgstr "([Drone] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:1883
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a11\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce cultiste, le sort sera perdu mais"
-" vous pourrez enseigner un nouveau sort au cultiste."
+"Souhaitez-vous réinitialiser le sort de ce cultiste ? Le sort sera perdu, "
+"mais vous pourrez enseigner un nouveau sort au cultiste."
 
 #: src-en/data/events_special_storage.xml.append:1885
 msgid ""
@@ -2376,8 +2378,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a11\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre cultiste réinitialise son bâton, perdant tous les sorts précédents "
-"qu'il avait équipés."
+"Votre cultiste réinitialise son bâton, perdant tous les sorts précédemment "
+"équipés."
 
 #: src-en/data/events_special_storage.xml.append:1893
 msgid ""
@@ -2387,14 +2389,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1899
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s12\"]/text"
-msgstr "(Cultiste [Barrière]) Réinitialiser le sort."
+msgstr "([Barrière] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:1901
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s12\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce cultiste, le sort sera perdu mais"
-" vous pourrez enseigner un nouveau sort au cultiste."
+"Souhaitez-vous réinitialiser le sort de ce cultiste ? Le sort sera perdu, "
+"mais vous pourrez enseigner un nouveau sort au cultiste."
 
 #: src-en/data/events_special_storage.xml.append:1903
 msgid ""
@@ -2405,8 +2407,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s12\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre cultiste réinitialise son bâton, perdant tous les sorts précédents "
-"qu'il avait équipés."
+"Votre cultiste réinitialise son bâton, perdant tous les sorts précédemment "
+"équipés."
 
 #: src-en/data/events_special_storage.xml.append:1911
 msgid ""
@@ -2416,14 +2418,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1917
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s13\"]/text"
-msgstr "(Cultiste [Verrouillage]) Réinitialiser le sort."
+msgstr "([Verrouillage] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:1919
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s13\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce cultiste, le sort sera perdu mais"
-" vous pourrez enseigner un nouveau sort au cultiste."
+"Souhaitez-vous réinitialiser le sort de ce cultiste ? Le sort sera perdu, "
+"mais vous pourrez enseigner un nouveau sort au cultiste."
 
 #: src-en/data/events_special_storage.xml.append:1921
 msgid ""
@@ -2434,8 +2436,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s13\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre cultiste réinitialise son bâton, perdant tous les sorts précédents "
-"qu'il avait équipés."
+"Votre cultiste réinitialise son bâton, perdant tous les sorts précédemment "
+"équipés."
 
 #: src-en/data/events_special_storage.xml.append:1929
 msgid ""
@@ -2445,14 +2447,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1935
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s14\"]/text"
-msgstr "(Cultiste [Allié]) Réinitialiser le sort."
+msgstr "([Allié] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:1937
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s14\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce cultiste, le sort sera perdu mais"
-" vous pourrez enseigner un nouveau sort au cultiste."
+"Souhaitez-vous réinitialiser le sort de ce cultiste ? Le sort sera perdu, "
+"mais vous pourrez enseigner un nouveau sort au cultiste."
 
 #: src-en/data/events_special_storage.xml.append:1939
 msgid ""
@@ -2463,8 +2465,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s14\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre cultiste réinitialise son bâton, perdant tous les sorts précédents "
-"qu'il avait équipés."
+"Votre cultiste réinitialise son bâton, perdant tous les sorts précédemment "
+"équipés."
 
 #: src-en/data/events_special_storage.xml.append:1947
 msgid ""
@@ -2474,14 +2476,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1953
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s15\"]/text"
-msgstr "(Cultiste [Éclair Mental]) Réinitialiser le sort."
+msgstr "([Éclair Mental] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:1955
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s15\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce cultiste, le sort sera perdu mais"
-" vous pourrez enseigner un nouveau sort au cultiste."
+"Souhaitez-vous réinitialiser le sort de ce cultiste ? Le sort sera perdu, "
+"mais vous pourrez enseigner un nouveau sort au cultiste."
 
 #: src-en/data/events_special_storage.xml.append:1957
 msgid ""
@@ -2492,8 +2494,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s15\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre cultiste réinitialise son bâton, perdant tous les sorts précédents "
-"qu'il avait équipés."
+"Votre cultiste réinitialise son bâton, perdant tous les sorts précédemment "
+"équipés."
 
 #: src-en/data/events_special_storage.xml.append:1965
 msgid ""
@@ -2513,7 +2515,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1984
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/text"
-msgstr "(Arme Vide) Équiper un sort."
+msgstr "(Arme vide) Équiper un sort."
 
 #: src-en/data/events_special_storage.xml.append:1986
 msgid ""
@@ -2528,7 +2530,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1992
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/text"
-msgstr "Équiper [Bio-Éclair]."
+msgstr "Équiper [Éclair Bio]."
 
 #: src-en/data/events_special_storage.xml.append:1994
 msgid ""
@@ -2728,14 +2730,14 @@ msgstr "L'arme vibre de puissance."
 #: src-en/data/events_special_storage.xml.append:2144
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/text"
-msgstr "(Arme [Bio-Éclair]) Réinitialiser le sort."
+msgstr "([Éclair Bio] Arme) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2146
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de cette arme, le sort sera perdu mais "
-"vous pourrez équiper l'arme d'un nouveau sort."
+"Souhaitez-vous réinitialiser le sort de cette arme ? Le sort sera perdu, "
+"mais vous pourrez équiper l'arme d'un nouveau sort."
 
 #: src-en/data/events_special_storage.xml.append:2148
 msgid ""
@@ -2746,8 +2748,7 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/choice[1]/event/text"
 msgstr ""
-"Vous réinitialisez l'arme, perdant tous les sorts précédents qu'elle avait "
-"équipés."
+"Vous réinitialisez l'arme, perdant tous les sorts précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2153
 msgid ""
@@ -2777,14 +2778,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2175
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/text"
-msgstr "(Cultiste [Éclair]) Réinitialiser le sort."
+msgstr "([Éclair] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2177
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de cette arme, le sort sera perdu mais "
-"vous pourrez équiper l'arme d'un nouveau sort."
+"Souhaitez-vous réinitialiser le sort de cette arme ? Le sort sera perdu, "
+"mais vous pourrez équiper l'arme d'un nouveau sort."
 
 #: src-en/data/events_special_storage.xml.append:2179
 msgid ""
@@ -2795,8 +2796,7 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/choice[1]/event/text"
 msgstr ""
-"Vous réinitialisez l'arme, perdant tous les sorts précédents qu'elle avait "
-"équipés."
+"Vous réinitialisez l'arme, perdant tous les sorts précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2184
 msgid ""
@@ -2826,14 +2826,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2206
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/text"
-msgstr "(Cultiste [Rafale d'Éclairs]) Réinitialiser le sort."
+msgstr "([Rafale d'Éclairs] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2208
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de cette arme, le sort sera perdu mais "
-"vous pourrez équiper l'arme d'un nouveau sort."
+"Souhaitez-vous réinitialiser le sort de cette arme ? Le sort sera perdu, "
+"mais vous pourrez équiper l'arme d'un nouveau sort."
 
 #: src-en/data/events_special_storage.xml.append:2210
 msgid ""
@@ -2844,8 +2844,7 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/choice[1]/event/text"
 msgstr ""
-"Vous réinitialisez l'arme, perdant tous les sorts précédents qu'elle avait "
-"équipés."
+"Vous réinitialisez l'arme, perdant tous les sorts précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2215
 msgid ""
@@ -2875,14 +2874,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2237
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/text"
-msgstr "(Cultiste [Éclair de Coque]) Réinitialiser le sort."
+msgstr "([Éclair de Coque] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2239
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de cette arme, le sort sera perdu mais "
-"vous pourrez équiper l'arme d'un nouveau sort."
+"Souhaitez-vous réinitialiser le sort de cette arme ? Le sort sera perdu, "
+"mais vous pourrez équiper l'arme d'un nouveau sort."
 
 #: src-en/data/events_special_storage.xml.append:2241
 msgid ""
@@ -2893,8 +2892,7 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/choice[1]/event/text"
 msgstr ""
-"Vous réinitialisez l'arme, perdant tous les sorts précédents qu'elle avait "
-"équipés."
+"Vous réinitialisez l'arme, perdant tous les sorts précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2246
 msgid ""
@@ -2924,14 +2922,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2268
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/text"
-msgstr "(Cultiste [Éclair de Distorsion]) Réinitialiser le sort."
+msgstr "([Éclair de Distorsion] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2270
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de cette arme, le sort sera perdu mais "
-"vous pourrez équiper l'arme d'un nouveau sort."
+"Souhaitez-vous réinitialiser le sort de cette arme ? Le sort sera perdu, "
+"mais vous pourrez équiper l'arme d'un nouveau sort."
 
 #: src-en/data/events_special_storage.xml.append:2272
 msgid ""
@@ -2942,8 +2940,7 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/choice[1]/event/text"
 msgstr ""
-"Vous réinitialisez l'arme, perdant tous les sorts précédents qu'elle avait "
-"équipés."
+"Vous réinitialisez l'arme, perdant tous les sorts précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2277
 msgid ""
@@ -2973,14 +2970,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2299
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/text"
-msgstr "(Cultiste [Éclair de Soin]) Réinitialiser le sort."
+msgstr "([Éclair de Soin] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2301
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de cette arme, le sort sera perdu mais "
-"vous pourrez équiper l'arme d'un nouveau sort."
+"Souhaitez-vous réinitialiser le sort de cette arme ? Le sort sera perdu, "
+"mais vous pourrez équiper l'arme d'un nouveau sort."
 
 #: src-en/data/events_special_storage.xml.append:2303
 msgid ""
@@ -2991,8 +2988,7 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/choice[1]/event/text"
 msgstr ""
-"Vous réinitialisez l'arme, perdant tous les sorts précédents qu'elle avait "
-"équipés."
+"Vous réinitialisez l'arme, perdant tous les sorts précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2308
 msgid ""
@@ -3022,14 +3018,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/text"
-msgstr "(Cultiste [Barrière]) Réinitialiser le sort."
+msgstr "([Barrière] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2332
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de cette arme, le sort sera perdu mais "
-"vous pourrez équiper l'arme d'un nouveau sort."
+"Souhaitez-vous réinitialiser le sort de cette arme ? Le sort sera perdu, "
+"mais vous pourrez équiper l'arme d'un nouveau sort."
 
 #: src-en/data/events_special_storage.xml.append:2334
 msgid ""
@@ -3040,8 +3036,7 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/choice[1]/event/text"
 msgstr ""
-"Vous réinitialisez l'arme, perdant tous les sorts précédents qu'elle avait "
-"équipés."
+"Vous réinitialisez l'arme, perdant tous les sorts précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2339
 msgid ""
@@ -3071,14 +3066,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2361
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/text"
-msgstr "(Cultiste [Verrouillage]) Réinitialiser le sort."
+msgstr "([Verrouillage] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2363
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de cette arme, le sort sera perdu mais "
-"vous pourrez équiper l'arme d'un nouveau sort."
+"Souhaitez-vous réinitialiser le sort de cette arme ? Le sort sera perdu, "
+"mais vous pourrez équiper l'arme d'un nouveau sort."
 
 #: src-en/data/events_special_storage.xml.append:2365
 msgid ""
@@ -3089,8 +3084,7 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/choice[1]/event/text"
 msgstr ""
-"Vous réinitialisez l'arme, perdant tous les sorts précédents qu'elle avait "
-"équipés."
+"Vous réinitialisez l'arme, perdant tous les sorts précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2370
 msgid ""
@@ -3120,14 +3114,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2392
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/text"
-msgstr "(Cultiste [Allié]) Réinitialiser le sort."
+msgstr "([Allié] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de cette arme, le sort sera perdu mais "
-"vous pourrez équiper l'arme d'un nouveau sort."
+"Souhaitez-vous réinitialiser le sort de cette arme ? Le sort sera perdu, "
+"mais vous pourrez équiper l'arme d'un nouveau sort."
 
 #: src-en/data/events_special_storage.xml.append:2396
 msgid ""
@@ -3138,8 +3132,7 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/choice[1]/event/text"
 msgstr ""
-"Vous réinitialisez l'arme, perdant tous les sorts précédents qu'elle avait "
-"équipés."
+"Vous réinitialisez l'arme, perdant tous les sorts précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2401
 msgid ""
@@ -3169,14 +3162,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2423
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/text"
-msgstr "(Cultiste [Éclair Mental]) Réinitialiser le sort."
+msgstr "([Éclair Mental] Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2425
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de cette arme, le sort sera perdu mais "
-"vous pourrez équiper l'arme d'un nouveau sort."
+"Souhaitez-vous réinitialiser le sort de cette arme ? Le sort sera perdu, "
+"mais vous pourrez équiper l'arme d'un nouveau sort."
 
 #: src-en/data/events_special_storage.xml.append:2427
 msgid ""
@@ -3187,8 +3180,7 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/choice[1]/event/text"
 msgstr ""
-"Vous réinitialisez l'arme, perdant tous les sorts précédents qu'elle avait "
-"équipés."
+"Vous réinitialisez l'arme, perdant tous les sorts précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2432
 msgid ""
@@ -3228,12 +3220,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2463
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/text"
-msgstr "(Petit Cultiste non appris) Apprendre un sort."
+msgstr "(Mini-Cultiste non entraîné) Apprendre un sort."
 
 #: src-en/data/events_special_storage.xml.append:2465
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/text"
-msgstr "Votre petit cultiste est capable d'apprendre une variété de sorts."
+msgstr "Votre mini-cultiste est capable d'apprendre une variété de sorts."
 
 #: src-en/data/events_special_storage.xml.append:2467
 msgid ""
@@ -3248,7 +3240,7 @@ msgstr "Apprendre [Protection]."
 #: src-en/data/events_special_storage.xml.append:2473
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_01\"]/event/text"
-msgstr "Votre petit cultiste équipe le nouveau sort à son bâton."
+msgstr "Votre mini-cultiste équipe le nouveau sort à son bâton."
 
 #: src-en/data/events_special_storage.xml.append:2479
 msgid ""
@@ -3258,17 +3250,17 @@ msgstr "Apprendre [Balise]."
 #: src-en/data/events_special_storage.xml.append:2481
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_02\"]/event/text"
-msgstr "Votre petit cultiste équipe le nouveau sort à son bâton."
+msgstr "Votre mini-cultiste équipe le nouveau sort à son bâton."
 
 #: src-en/data/events_special_storage.xml.append:2487
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/text"
-msgstr "Apprendre [Bio-Éclair]."
+msgstr "Apprendre [Éclair Bio]."
 
 #: src-en/data/events_special_storage.xml.append:2489
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/event/text"
-msgstr "Votre petit cultiste équipe le nouveau sort à son bâton."
+msgstr "Votre mini-cultiste équipe le nouveau sort à son bâton."
 
 #: src-en/data/events_special_storage.xml.append:2495
 msgid ""
@@ -3278,7 +3270,7 @@ msgstr "Apprendre [Éclair]."
 #: src-en/data/events_special_storage.xml.append:2497
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/event/text"
-msgstr "Votre petit cultiste équipe le nouveau sort à son bâton."
+msgstr "Votre mini-cultiste équipe le nouveau sort à son bâton."
 
 #: src-en/data/events_special_storage.xml.append:2503
 msgid ""
@@ -3288,7 +3280,7 @@ msgstr "Apprendre [Rafale d'Éclairs]."
 #: src-en/data/events_special_storage.xml.append:2505
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/event/text"
-msgstr "Votre petit cultiste équipe le nouveau sort à son bâton."
+msgstr "Votre mini-cultiste équipe le nouveau sort à son bâton."
 
 #: src-en/data/events_special_storage.xml.append:2511
 msgid ""
@@ -3298,7 +3290,7 @@ msgstr "Apprendre [Éclair de Coque]."
 #: src-en/data/events_special_storage.xml.append:2513
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/event/text"
-msgstr "Votre petit cultiste équipe le nouveau sort à son bâton."
+msgstr "Votre mini-cultiste équipe le nouveau sort à son bâton."
 
 #: src-en/data/events_special_storage.xml.append:2519
 msgid ""
@@ -3308,7 +3300,7 @@ msgstr "Apprendre [Distorsion]."
 #: src-en/data/events_special_storage.xml.append:2521
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_07\"]/event/text"
-msgstr "Votre petit cultiste équipe le nouveau sort à son bâton."
+msgstr "Votre mini-cultiste équipe le nouveau sort à son bâton."
 
 #: src-en/data/events_special_storage.xml.append:2527
 msgid ""
@@ -3318,7 +3310,7 @@ msgstr "Apprendre [Éclair de Distorsion]."
 #: src-en/data/events_special_storage.xml.append:2529
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/event/text"
-msgstr "Votre petit cultiste équipe le nouveau sort à son bâton."
+msgstr "Votre mini-cultiste équipe le nouveau sort à son bâton."
 
 #: src-en/data/events_special_storage.xml.append:2535
 msgid ""
@@ -3328,7 +3320,7 @@ msgstr "Apprendre [Éclair de Soin]."
 #: src-en/data/events_special_storage.xml.append:2537
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/event/text"
-msgstr "Votre petit cultiste équipe le nouveau sort à son bâton."
+msgstr "Votre mini-cultiste équipe le nouveau sort à son bâton."
 
 #: src-en/data/events_special_storage.xml.append:2543
 msgid ""
@@ -3338,7 +3330,7 @@ msgstr "Apprendre [Aura de Soin]."
 #: src-en/data/events_special_storage.xml.append:2545
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_10\"]/event/text"
-msgstr "Votre petit cultiste équipe le nouveau sort à son bâton."
+msgstr "Votre mini-cultiste équipe le nouveau sort à son bâton."
 
 #: src-en/data/events_special_storage.xml.append:2551
 msgid ""
@@ -3348,7 +3340,7 @@ msgstr "Apprendre [Drone]."
 #: src-en/data/events_special_storage.xml.append:2553
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_11\"]/event/text"
-msgstr "Votre petit cultiste équipe le nouveau sort à son bâton."
+msgstr "Votre mini-cultiste équipe le nouveau sort à son bâton."
 
 #: src-en/data/events_special_storage.xml.append:2559
 msgid ""
@@ -3358,7 +3350,7 @@ msgstr "Apprendre [Barrière]."
 #: src-en/data/events_special_storage.xml.append:2561
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/event/text"
-msgstr "Votre petit cultiste équipe le nouveau sort à son bâton."
+msgstr "Votre mini-cultiste équipe le nouveau sort à son bâton."
 
 #: src-en/data/events_special_storage.xml.append:2567
 msgid ""
@@ -3368,7 +3360,7 @@ msgstr "Apprendre [Verrouillage]."
 #: src-en/data/events_special_storage.xml.append:2569
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/event/text"
-msgstr "Votre petit cultiste équipe le nouveau sort à son bâton."
+msgstr "Votre mini-cultiste équipe le nouveau sort à son bâton."
 
 #: src-en/data/events_special_storage.xml.append:2575
 msgid ""
@@ -3378,7 +3370,7 @@ msgstr "Apprendre [Allié]."
 #: src-en/data/events_special_storage.xml.append:2577
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/event/text"
-msgstr "Votre petit cultiste équipe le nouveau sort à son bâton."
+msgstr "Votre mini-cultiste équipe le nouveau sort à son bâton."
 
 #: src-en/data/events_special_storage.xml.append:2583
 msgid ""
@@ -3388,19 +3380,19 @@ msgstr "Apprendre [Éclair Mental]."
 #: src-en/data/events_special_storage.xml.append:2585
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/event/text"
-msgstr "Votre petit cultiste équipe le nouveau sort à son bâton."
+msgstr "Votre mini-cultiste équipe le nouveau sort à son bâton."
 
 #: src-en/data/events_special_storage.xml.append:2593
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a01\"]/text"
-msgstr "(Petit Cultiste [Protection]) Réinitialiser le sort."
+msgstr "([Protection] Mini-Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2595
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a01\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce petit cultiste, le sort sera "
-"perdu mais vous pourrez enseigner un nouveau sort au petit cultiste."
+"Souhaitez-vous réinitialiser le sort de ce mini-cultiste ? Le sort sera "
+"perdu, mais vous pourrez enseigner un nouveau sort au mini-cultiste."
 
 #: src-en/data/events_special_storage.xml.append:2597
 msgid ""
@@ -3411,8 +3403,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a01\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre petit cultiste réinitialise son bâton, perdant tous les sorts "
-"précédents qu'il avait équipés."
+"Votre mini-cultiste réinitialise son bâton, perdant tous les sorts "
+"précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2605
 msgid ""
@@ -3422,14 +3414,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2611
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a02\"]/text"
-msgstr "(Petit Cultiste [Balise]) Réinitialiser le sort."
+msgstr "([Balise] Mini-Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2613
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a02\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce petit cultiste, le sort sera "
-"perdu mais vous pourrez enseigner un nouveau sort au petit cultiste."
+"Souhaitez-vous réinitialiser le sort de ce mini-cultiste ? Le sort sera "
+"perdu, mais vous pourrez enseigner un nouveau sort au mini-cultiste."
 
 #: src-en/data/events_special_storage.xml.append:2615
 msgid ""
@@ -3440,8 +3432,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a02\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre petit cultiste réinitialise son bâton, perdant tous les sorts "
-"précédents qu'il avait équipés."
+"Votre mini-cultiste réinitialise son bâton, perdant tous les sorts "
+"précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2623
 msgid ""
@@ -3451,14 +3443,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2629
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s03\"]/text"
-msgstr "(Petit Cultiste [Bio-Éclair]) Réinitialiser le sort."
+msgstr "([Éclair Bio] Mini-Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2631
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s03\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce petit cultiste, le sort sera "
-"perdu mais vous pourrez enseigner un nouveau sort au petit cultiste."
+"Souhaitez-vous réinitialiser le sort de ce mini-cultiste ? Le sort sera "
+"perdu, mais vous pourrez enseigner un nouveau sort au mini-cultiste."
 
 #: src-en/data/events_special_storage.xml.append:2633
 msgid ""
@@ -3469,8 +3461,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s03\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre petit cultiste réinitialise son bâton, perdant tous les sorts "
-"précédents qu'il avait équipés."
+"Votre mini-cultiste réinitialise son bâton, perdant tous les sorts "
+"précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2641
 msgid ""
@@ -3480,14 +3472,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2647
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s04\"]/text"
-msgstr "(Petit Cultiste [Éclair]) Réinitialiser le sort."
+msgstr "([Éclair] Mini-Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2649
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s04\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce petit cultiste, le sort sera "
-"perdu mais vous pourrez enseigner un nouveau sort au petit cultiste."
+"Souhaitez-vous réinitialiser le sort de ce mini-cultiste ? Le sort sera "
+"perdu, mais vous pourrez enseigner un nouveau sort au mini-cultiste."
 
 #: src-en/data/events_special_storage.xml.append:2651
 msgid ""
@@ -3498,8 +3490,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s04\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre petit cultiste réinitialise son bâton, perdant tous les sorts "
-"précédents qu'il avait équipés."
+"Votre mini-cultiste réinitialise son bâton, perdant tous les sorts "
+"précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2659
 msgid ""
@@ -3509,14 +3501,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2665
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s05\"]/text"
-msgstr "(Petit Cultiste [Rafale d'Éclairs]) Réinitialiser le sort."
+msgstr "([Rafale d'Éclairs] Mini-Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2667
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s05\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce petit cultiste, le sort sera "
-"perdu mais vous pourrez enseigner un nouveau sort au petit cultiste."
+"Souhaitez-vous réinitialiser le sort de ce mini-cultiste ? Le sort sera "
+"perdu, mais vous pourrez enseigner un nouveau sort au mini-cultiste."
 
 #: src-en/data/events_special_storage.xml.append:2669
 msgid ""
@@ -3527,8 +3519,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s05\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre petit cultiste réinitialise son bâton, perdant tous les sorts "
-"précédents qu'il avait équipés."
+"Votre mini-cultiste réinitialise son bâton, perdant tous les sorts "
+"précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2677
 msgid ""
@@ -3538,14 +3530,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2683
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s06\"]/text"
-msgstr "(Petit Cultiste [Éclair de Coque]) Réinitialiser le sort."
+msgstr "([Éclair de Coque] Mini-Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2685
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s06\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce petit cultiste, le sort sera "
-"perdu mais vous pourrez enseigner un nouveau sort au petit cultiste."
+"Souhaitez-vous réinitialiser le sort de ce mini-cultiste ? Le sort sera "
+"perdu, mais vous pourrez enseigner un nouveau sort au mini-cultiste."
 
 #: src-en/data/events_special_storage.xml.append:2687
 msgid ""
@@ -3556,8 +3548,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s06\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre petit cultiste réinitialise son bâton, perdant tous les sorts "
-"précédents qu'il avait équipés."
+"Votre mini-cultiste réinitialise son bâton, perdant tous les sorts "
+"précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2695
 msgid ""
@@ -3567,14 +3559,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2701
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a07\"]/text"
-msgstr "(Petit Cultiste [Distorsion]) Réinitialiser le sort."
+msgstr "([Distorsion] Mini-Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2703
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a07\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce petit cultiste, le sort sera "
-"perdu mais vous pourrez enseigner un nouveau sort au petit cultiste."
+"Souhaitez-vous réinitialiser le sort de ce mini-cultiste ? Le sort sera "
+"perdu, mais vous pourrez enseigner un nouveau sort au mini-cultiste."
 
 #: src-en/data/events_special_storage.xml.append:2705
 msgid ""
@@ -3585,8 +3577,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a07\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre petit cultiste réinitialise son bâton, perdant tous les sorts "
-"précédents qu'il avait équipés."
+"Votre mini-cultiste réinitialise son bâton, perdant tous les sorts "
+"précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2713
 msgid ""
@@ -3596,14 +3588,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2719
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s08\"]/text"
-msgstr "(Petit Cultiste [Éclair de Distorsion]) Réinitialiser le sort."
+msgstr "([Éclair de Distorsion] Mini-Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2721
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s08\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce petit cultiste, le sort sera "
-"perdu mais vous pourrez enseigner un nouveau sort au petit cultiste."
+"Souhaitez-vous réinitialiser le sort de ce mini-cultiste ? Le sort sera "
+"perdu, mais vous pourrez enseigner un nouveau sort au mini-cultiste."
 
 #: src-en/data/events_special_storage.xml.append:2723
 msgid ""
@@ -3614,8 +3606,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s08\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre petit cultiste réinitialise son bâton, perdant tous les sorts "
-"précédents qu'il avait équipés."
+"Votre mini-cultiste réinitialise son bâton, perdant tous les sorts "
+"précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2731
 msgid ""
@@ -3625,14 +3617,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2737
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s09\"]/text"
-msgstr "(Petit Cultiste [Éclair de Soin]) Réinitialiser le sort."
+msgstr "([Éclair de Soin] Mini-Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2739
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s09\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce petit cultiste, le sort sera "
-"perdu mais vous pourrez enseigner un nouveau sort au petit cultiste."
+"Souhaitez-vous réinitialiser le sort de ce mini-cultiste ? Le sort sera "
+"perdu, mais vous pourrez enseigner un nouveau sort au mini-cultiste."
 
 #: src-en/data/events_special_storage.xml.append:2741
 msgid ""
@@ -3643,8 +3635,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s09\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre petit cultiste réinitialise son bâton, perdant tous les sorts "
-"précédents qu'il avait équipés."
+"Votre mini-cultiste réinitialise son bâton, perdant tous les sorts "
+"précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2749
 msgid ""
@@ -3654,14 +3646,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2755
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a10\"]/text"
-msgstr "(Petit Cultiste [Aura de Soin]) Réinitialiser le sort."
+msgstr "([Aura de Soin] Mini-Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2757
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a10\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce petit cultiste, le sort sera "
-"perdu mais vous pourrez enseigner un nouveau sort au petit cultiste."
+"Souhaitez-vous réinitialiser le sort de ce mini-cultiste ? Le sort sera "
+"perdu, mais vous pourrez enseigner un nouveau sort au mini-cultiste."
 
 #: src-en/data/events_special_storage.xml.append:2759
 msgid ""
@@ -3672,8 +3664,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a10\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre petit cultiste réinitialise son bâton, perdant tous les sorts "
-"précédents qu'il avait équipés."
+"Votre mini-cultiste réinitialise son bâton, perdant tous les sorts "
+"précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2767
 msgid ""
@@ -3683,14 +3675,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2773
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a11\"]/text"
-msgstr "(Petit Cultiste [Drone]) Réinitialiser le sort."
+msgstr "([Drone] Mini-Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2775
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a11\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce petit cultiste, le sort sera "
-"perdu mais vous pourrez enseigner un nouveau sort au petit cultiste."
+"Souhaitez-vous réinitialiser le sort de ce mini-cultiste ? Le sort sera "
+"perdu, mais vous pourrez enseigner un nouveau sort au mini-cultiste."
 
 #: src-en/data/events_special_storage.xml.append:2777
 msgid ""
@@ -3701,8 +3693,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a11\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre petit cultiste réinitialise son bâton, perdant tous les sorts "
-"précédents qu'il avait équipés."
+"Votre mini-cultiste réinitialise son bâton, perdant tous les sorts "
+"précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2785
 msgid ""
@@ -3712,14 +3704,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2791
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s12\"]/text"
-msgstr "(Petit Cultiste [Barrière]) Réinitialiser le sort."
+msgstr "([Barrière] Mini-Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2793
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s12\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce petit cultiste, le sort sera "
-"perdu mais vous pourrez enseigner un nouveau sort au petit cultiste."
+"Souhaitez-vous réinitialiser le sort de ce mini-cultiste ? Le sort sera "
+"perdu, mais vous pourrez enseigner un nouveau sort au mini-cultiste."
 
 #: src-en/data/events_special_storage.xml.append:2795
 msgid ""
@@ -3730,8 +3722,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s12\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre petit cultiste réinitialise son bâton, perdant tous les sorts "
-"précédents qu'il avait équipés."
+"Votre mini-cultiste réinitialise son bâton, perdant tous les sorts "
+"précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2803
 msgid ""
@@ -3741,14 +3733,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2809
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s13\"]/text"
-msgstr "(Petit Cultiste [Verrouillage]) Réinitialiser le sort."
+msgstr "([Verrouillage] Mini-Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2811
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s13\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce petit cultiste, le sort sera "
-"perdu mais vous pourrez enseigner un nouveau sort au petit cultiste."
+"Souhaitez-vous réinitialiser le sort de ce mini-cultiste ? Le sort sera "
+"perdu, mais vous pourrez enseigner un nouveau sort au mini-cultiste."
 
 #: src-en/data/events_special_storage.xml.append:2813
 msgid ""
@@ -3759,8 +3751,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s13\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre petit cultiste réinitialise son bâton, perdant tous les sorts "
-"précédents qu'il avait équipés."
+"Votre mini-cultiste réinitialise son bâton, perdant tous les sorts "
+"précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2821
 msgid ""
@@ -3770,14 +3762,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2827
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s14\"]/text"
-msgstr "(Petit Cultiste [Allié]) Réinitialiser le sort."
+msgstr "([Allié] Mini-Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s14\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce petit cultiste, le sort sera "
-"perdu mais vous pourrez enseigner un nouveau sort au petit cultiste."
+"Souhaitez-vous réinitialiser le sort de ce mini-cultiste ? Le sort sera "
+"perdu, mais vous pourrez enseigner un nouveau sort au mini-cultiste."
 
 #: src-en/data/events_special_storage.xml.append:2831
 msgid ""
@@ -3788,8 +3780,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s14\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre petit cultiste réinitialise son bâton, perdant tous les sorts "
-"précédents qu'il avait équipés."
+"Votre mini-cultiste réinitialise son bâton, perdant tous les sorts "
+"précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2839
 msgid ""
@@ -3799,14 +3791,14 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2845
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s15\"]/text"
-msgstr "(Petit Cultiste [Éclair Mental]) Réinitialiser le sort."
+msgstr "([Éclair Mental] Mini-Cultiste) Réinitialiser le sort."
 
 #: src-en/data/events_special_storage.xml.append:2847
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s15\"]/event/text"
 msgstr ""
-"Souhaitez-vous réinitialiser le sort de ce petit cultiste, le sort sera "
-"perdu mais vous pourrez enseigner un nouveau sort au petit cultiste."
+"Souhaitez-vous réinitialiser le sort de ce mini-cultiste ? Le sort sera "
+"perdu, mais vous pourrez enseigner un nouveau sort au mini-cultiste."
 
 #: src-en/data/events_special_storage.xml.append:2849
 msgid ""
@@ -3817,8 +3809,8 @@ msgstr "Réinitialiser."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s15\"]/event/choice[1]/event/text"
 msgstr ""
-"Votre petit cultiste réinitialise son bâton, perdant tous les sorts "
-"précédents qu'il avait équipés."
+"Votre mini-cultiste réinitialise son bâton, perdant tous les sorts "
+"précédemment équipés."
 
 #: src-en/data/events_special_storage.xml.append:2857
 msgid ""
@@ -3828,7 +3820,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2872
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_LASER\"]/text"
-msgstr "Êtes-vous sûr de vouloir modifier les réglages du drone ?"
+msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 
 #: src-en/data/events_special_storage.xml.append:2874
 msgid ""
@@ -3863,7 +3855,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2897
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_BEAM\"]/text"
-msgstr "Êtes-vous sûr de vouloir modifier les réglages du drone ?"
+msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 
 #: src-en/data/events_special_storage.xml.append:2899
 msgid ""
@@ -3898,7 +3890,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2930
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LASER\"]/text"
-msgstr "Êtes-vous sûr de vouloir modifier les réglages du drone ?"
+msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 
 #: src-en/data/events_special_storage.xml.append:2932
 msgid ""
@@ -3933,7 +3925,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2955
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_BEAM\"]/text"
-msgstr "Êtes-vous sûr de vouloir modifier les réglages du drone ?"
+msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 
 #: src-en/data/events_special_storage.xml.append:2957
 msgid ""
@@ -3968,7 +3960,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2989
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_LASER\"]/text"
-msgstr "Êtes-vous sûr de vouloir modifier les réglages du drone ?"
+msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 
 #: src-en/data/events_special_storage.xml.append:2991
 msgid ""
@@ -4003,7 +3995,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3014
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_BEAM\"]/text"
-msgstr "Êtes-vous sûr de vouloir modifier les réglages du drone ?"
+msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 
 #: src-en/data/events_special_storage.xml.append:3016
 msgid ""
@@ -4039,50 +4031,50 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/text"
 msgstr ""
-"Vous vérifiez quels vaisseaux peuvent être invoqués actuellement. Invoquer "
-"un boss MV coûtera 7{."
+"Vous vérifiez quels vaisseaux peuvent être actuellement invoqués. "
+"L'invocation d'un boss MV prendra 7{."
 
 #: src-en/data/events_special_storage.xml.append:3052
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[1]/text"
-msgstr "Destroyer Acide B - Lâche un Atomiseur Acide"
+msgstr "Destroyer Acide B - Donne Lanceur d'Acide"
 
 #: src-en/data/events_special_storage.xml.append:3054
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[1]/event/text"
 msgstr ""
 "Vous mettez la machine à pleine puissance et regardez une faille s'ouvrir, "
-"secouant le vaisseau jusqu'à ce qu'elle s'éteigne soudainement, et qu'une "
-"lumière verte clignotante suivie d'une série de coordonnées signifie que "
-"cela a fonctionné."
+"secouant le vaisseau jusqu'à ce qu'elle s'éteigne soudainement, et une "
+"lumière verte clignotante suivie d'une série de coordonnées indique que cela"
+" a fonctionné."
 
 #: src-en/data/events_special_storage.xml.append:3062
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[2]/text"
-msgstr "Queue-en-coin B - Lâche un Drone Fléau"
+msgstr "Queue-de-coin B - Donne Drone du Fléau"
 
 #: src-en/data/events_special_storage.xml.append:3064
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[2]/event/text"
 msgstr ""
 "Vous mettez la machine à pleine puissance et regardez une faille s'ouvrir, "
-"secouant le vaisseau jusqu'à ce qu'elle s'éteigne soudainement, et qu'une "
-"lumière verte clignotante suivie d'une série de coordonnées signifie que "
-"cela a fonctionné."
+"secouant le vaisseau jusqu'à ce qu'elle s'éteigne soudainement, et une "
+"lumière verte clignotante suivie d'une série de coordonnées indique que cela"
+" a fonctionné."
 
 #: src-en/data/events_special_storage.xml.append:3072
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[3]/text"
-msgstr "Bourgeon C - Lâche un Générateur de Barrière"
+msgstr "Bourgeon C - Donne Générateur de Barrière"
 
 #: src-en/data/events_special_storage.xml.append:3074
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[3]/event/text"
 msgstr ""
 "Vous mettez la machine à pleine puissance et regardez une faille s'ouvrir, "
-"secouant le vaisseau jusqu'à ce qu'elle s'éteigne soudainement, et qu'une "
-"lumière verte clignotante suivie d'une série de coordonnées signifie que "
-"cela a fonctionné."
+"secouant le vaisseau jusqu'à ce qu'elle s'éteigne soudainement, et une "
+"lumière verte clignotante suivie d'une série de coordonnées indique que cela"
+" a fonctionné."
 
 #: src-en/data/events_special_storage.xml.append:3082
 msgid ""
@@ -4093,50 +4085,50 @@ msgstr "Tant pis, faire autre chose."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/text"
 msgstr ""
-"Vous vérifiez quels vaisseaux peuvent être invoqués actuellement. Invoquer "
-"un boss MV coûtera 7{."
+"Vous vérifiez quels vaisseaux peuvent être actuellement invoqués. "
+"L'invocation d'un boss MV prendra 7{."
 
 #: src-en/data/events_special_storage.xml.append:3089
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[1]/text"
-msgstr "Blasphème C - Lâche le Drone Nécromancien"
+msgstr "Blasphème C - Donne Drone Nécromancien"
 
 #: src-en/data/events_special_storage.xml.append:3091
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[1]/event/text"
 msgstr ""
 "Vous mettez la machine à pleine puissance et regardez une faille s'ouvrir, "
-"secouant le vaisseau jusqu'à ce qu'elle s'éteigne soudainement, et qu'une "
-"lumière verte clignotante suivie d'une série de coordonnées signifie que "
-"cela a fonctionné."
+"secouant le vaisseau jusqu'à ce qu'elle s'éteigne soudainement, et une "
+"lumière verte clignotante suivie d'une série de coordonnées indique que cela"
+" a fonctionné."
 
 #: src-en/data/events_special_storage.xml.append:3099
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[2]/text"
-msgstr "Auto Éclat-Forgé C - Lâche le Rayon 'Naginata'"
+msgstr "Auto-Forgé d'Éclats C - Donne Rayon 'Naginata'"
 
 #: src-en/data/events_special_storage.xml.append:3101
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[2]/event/text"
 msgstr ""
 "Vous mettez la machine à pleine puissance et regardez une faille s'ouvrir, "
-"secouant le vaisseau jusqu'à ce qu'elle s'éteigne soudainement, et qu'une "
-"lumière verte clignotante suivie d'une série de coordonnées signifie que "
-"cela a fonctionné."
+"secouant le vaisseau jusqu'à ce qu'elle s'éteigne soudainement, et une "
+"lumière verte clignotante suivie d'une série de coordonnées indique que cela"
+" a fonctionné."
 
 #: src-en/data/events_special_storage.xml.append:3109
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[3]/text"
-msgstr "Désordre B - Lâche le Rayon Léviathan"
+msgstr "Désordre B - Donne Rayon Léviathan"
 
 #: src-en/data/events_special_storage.xml.append:3111
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[3]/event/text"
 msgstr ""
 "Vous mettez la machine à pleine puissance et regardez une faille s'ouvrir, "
-"secouant le vaisseau jusqu'à ce qu'elle s'éteigne soudainement, et qu'une "
-"lumière verte clignotante suivie d'une série de coordonnées signifie que "
-"cela a fonctionné."
+"secouant le vaisseau jusqu'à ce qu'elle s'éteigne soudainement, et une "
+"lumière verte clignotante suivie d'une série de coordonnées indique que cela"
+" a fonctionné."
 
 #: src-en/data/events_special_storage.xml.append:3119
 msgid ""
@@ -4164,28 +4156,29 @@ msgstr "Lylmik."
 #: src-en/data/events_special_storage.xml.append:3142
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/text"
-msgstr "Vous consultez le menu du laboratoire pour : [CROISSANCE ACIDE]"
+msgstr ""
+"Vous consultez actuellement le menu de laboratoire pour : [CROISSANCE ACIDE]"
 
 #: src-en/data/events_special_storage.xml.append:3144
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[@req=\"LAB_AEA_ACID_REPAIR\"]/text"
 msgstr ""
-"Actuellement installé : Procédures de Réparation des Fractures.\n"
-"\t\t[L'équipage Acide soigne 7.5pv/s s'il est indemne pendant 5 secondes, mais ne répare qu'à 1x de vitesse]"
+"Actuellement installé : Procédures de Réparation de Fracture.\n"
+"\t\t[Les membres d'équipage Acides soignent 7.5pv/s s'ils sont indemnes pendant 5 secondes, mais ne réparent qu'à 1x vitesse]"
 
 #: src-en/data/events_special_storage.xml.append:3149
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[@req=\"LAB_AEA_ACID_SENSOR\"]/text"
 msgstr ""
 "Actuellement installé : Capteurs Polarisés.\n"
-"\t\t[L'équipage Acide devient immunisé à l'étourdissement]"
+"\t\t[Les membres d'équipage Acides deviennent immunisés à l'étourdissement]"
 
 #: src-en/data/events_special_storage.xml.append:3154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[@req=\"LAB_AEA_ACID_WEAPON\"]/text"
 msgstr ""
 "Actuellement installé : Évents de Refroidissement.\n"
-"\t\t[L'équipage Acide inflige 2x de dégâts à distance mais perd 50% de ses pv]"
+"\t\t[Les membres d'équipage Acides infligent 2x dégâts à distance mais perdent 50% de leurs pv]"
 
 #: src-en/data/events_special_storage.xml.append:3159
 msgid ""
@@ -4196,34 +4189,34 @@ msgstr "Actuellement installé : Aucun"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[5]/text"
 msgstr ""
-"Pri : Procédures de Réparation des Fractures. [Une amélioration est déjà "
+"Prim. : Procédures de Réparation de Fracture. [Une amélioration est déjà "
 "installée]"
 
 #: src-en/data/events_special_storage.xml.append:3167
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[6]/text"
-msgstr "Pri : Procédures de Réparation des Fractures. [Coût : 5|]"
+msgstr "Prim. : Procédures de Réparation de Fracture. [Coût : 5|]"
 
 #: src-en/data/events_special_storage.xml.append:3171
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[7]/text"
-msgstr "Pri : Capteurs Polarisés. [Une amélioration est déjà installée]"
+msgstr "Prim. : Capteurs Polarisés. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:3175
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[8]/text"
-msgstr "Pri : Capteurs Polarisés. [Coût : 5{]"
+msgstr "Prim. : Capteurs Polarisés. [Coût : 5{]"
 
 #: src-en/data/events_special_storage.xml.append:3179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[9]/text"
 msgstr ""
-"Pri : Évents de Refroidissement. [Une amélioration est déjà installée]"
+"Prim. : Évents de Refroidissement. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:3183
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[10]/text"
-msgstr "Pri : Évents de Refroidissement. [Coût : 20~ 3{]"
+msgstr "Prim. : Évents de Refroidissement. [Coût : 20~ 3{]"
 
 #: src-en/data/events_special_storage.xml.append:3187
 msgid ""
@@ -4234,10 +4227,10 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_REPAIR\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer la modification Procédures de Réparation des Fractures.\n"
-"\t[Effets : L'équipage Acide soigne 7.5pv/s s'il est indemne pendant 5 secondes, mais ne répare qu'à 1x de vitesse]\n"
+"Vous êtes sur le point d'installer la modification Procédures de Réparation de Fracture.\n"
+"\t[Effets : Les membres d'équipage Acides soignent 7.5pv/s s'ils sont indemnes pendant 5 secondes, mais ne réparent qu'à 1x vitesse]\n"
 "\t\n"
-"\t[Avertissement : Après l'installation, vous ne pourrez plus installer d'améliorations primaires pour l'équipage Acide. Vous ne pourrez pas non plus désactiver ce mod.]"
+"\t[Avertissement : Après l'installation de ceci, vous ne pourrez plus installer d'autres améliorations primaires pour les membres d'équipage Acides. Vous ne pourrez pas non plus désactiver cette modification.]"
 
 #: src-en/data/events_special_storage.xml.append:3199
 msgid ""
@@ -4264,9 +4257,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_SENSOR\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer la modification Capteurs Polarisés.\n"
-"\t[Effets : L'équipage Acide devient immunisé à l'étourdissement]\n"
+"\t[Effets : Les membres d'équipage Acides deviennent immunisés à l'étourdissement]\n"
 "\t\n"
-"\t[Avertissement : Après l'installation, vous ne pourrez plus installer d'améliorations primaires pour l'équipage Acide. Vous ne pourrez pas non plus désactiver ce mod.]"
+"\t[Avertissement : Après l'installation de ceci, vous ne pourrez plus installer d'autres améliorations primaires pour les membres d'équipage Acides. Vous ne pourrez pas non plus désactiver cette modification.]"
 
 #: src-en/data/events_special_storage.xml.append:3228
 msgid ""
@@ -4293,9 +4286,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_COOLING\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer la modification Évents de Refroidissement.\n"
-"\t[Effets : L'équipage Acide inflige 2x de dégâts à distance mais perd 50% de ses pv]\n"
+"\t[Effets : Les membres d'équipage Acides infligent 2x dégâts à distance mais perdent 50% de leurs pv]\n"
 "\t\n"
-"\t[Avertissement : Après l'installation, vous ne pourrez plus installer d'améliorations primaires pour l'équipage Acide. Vous ne pourrez pas non plus désactiver ce mod.]"
+"\t[Avertissement : Après l'installation de ceci, vous ne pourrez plus installer d'autres améliorations primaires pour les membres d'équipage Acides. Vous ne pourrez pas non plus désactiver cette modification.]"
 
 #: src-en/data/events_special_storage.xml.append:3258
 msgid ""
@@ -4320,28 +4313,28 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3286
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/text"
-msgstr "Vous consultez le menu du laboratoire pour : [GI]"
+msgstr "Vous consultez actuellement le menu de laboratoire pour : [GI]"
 
 #: src-en/data/events_special_storage.xml.append:3288
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[@req=\"LAB_AEA_BIRD_ESCAPESPEED\"]/text"
 msgstr ""
-"Actuellement installé : Fuite du danger.\n"
-"\t\t[L'équipage Gi gagne 4x de vitesse de déplacement en présence d'équipage ennemi]"
+"Actuellement installé : Fuite face au danger.\n"
+"\t\t[Les membres d'équipage Gi gagnent 4x vitesse de déplacement en présence de membres d'équipage ennemis]"
 
 #: src-en/data/events_special_storage.xml.append:3293
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[@req=\"LAB_AEA_BIRD_AUTODESTROY\"]/text"
 msgstr ""
-"Actuellement installé : Auto-Démontage.\n"
-"\t\t[L'équipage Gi endommage les drones ennemis et l'équipage métallique à 5pv/s]"
+"Actuellement installé : Auto-désassemblage.\n"
+"\t\t[Les membres d'équipage Gi infligent 5pv/s de dégâts aux drones ennemis et aux membres d'équipage métalliques]"
 
 #: src-en/data/events_special_storage.xml.append:3298
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[@req=\"LAB_AEA_BIRD_SOCIAL\"]/text"
 msgstr ""
 "Actuellement installé : Socialisation.\n"
-"\t\t[L'équipage Gi gagne 0.25x de vitesse de réparation et 0.1x de dégâts de combat par membre d'équipage allié dans la même pièce]"
+"\t\t[Les membres d'équipage Gi gagnent 0.25x vitesse de réparation et 0.1x dégâts de combat pour chaque membre d'équipage allié dans la même pièce]"
 
 #: src-en/data/events_special_storage.xml.append:3303
 msgid ""
@@ -4351,32 +4344,32 @@ msgstr "Actuellement installé : Aucun"
 #: src-en/data/events_special_storage.xml.append:3307
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[5]/text"
-msgstr "Pri : Fuite du danger. [Une amélioration est déjà installée]"
+msgstr "Prim. : Fuite face au danger. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:3311
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[6]/text"
-msgstr "Pri : Fuite du danger. [Coût : 20~]"
+msgstr "Prim. : Fuite face au danger. [Coût : 20~]"
 
 #: src-en/data/events_special_storage.xml.append:3315
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[7]/text"
-msgstr "Pri : Auto-Démontage. [Une amélioration est déjà installée]"
+msgstr "Prim. : Auto-désassemblage. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:3319
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[8]/text"
-msgstr "Pri : Auto-Démontage. [Coût : 15~ 3|]"
+msgstr "Prim. : Auto-désassemblage. [Coût : 15~ 3|]"
 
 #: src-en/data/events_special_storage.xml.append:3323
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[9]/text"
-msgstr "Pri : Socialisation. [Une amélioration est déjà installée]"
+msgstr "Prim. : Socialisation. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:3327
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[10]/text"
-msgstr "Pri : Socialisation. [Coût : 20~ 3{]"
+msgstr "Prim. : Socialisation. [Coût : 20~ 3{]"
 
 #: src-en/data/events_special_storage.xml.append:3331
 msgid ""
@@ -4387,10 +4380,10 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_ESCAPESPEED\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer la modification Fuite du danger.\n"
-"\t[Effets : L'équipage Gi gagne 4x de vitesse de déplacement en présence d'équipage ennemi]\n"
+"Vous êtes sur le point d'installer la modification Fuite face au danger.\n"
+"\t[Effets : Les membres d'équipage Gi gagnent 4x vitesse de déplacement en présence de membres d'équipage ennemis]\n"
 "\t\n"
-"\t[Avertissement : Après l'installation, vous ne pourrez plus installer d'améliorations primaires pour l'équipage Gi. Vous ne pourrez pas non plus désactiver ce mod.]"
+"\t[Avertissement : Après l'installation de ceci, vous ne pourrez plus installer d'autres améliorations primaires pour les membres d'équipage Gi. Vous ne pourrez pas non plus désactiver cette modification.]"
 
 #: src-en/data/events_special_storage.xml.append:3343
 msgid ""
@@ -4416,10 +4409,10 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_AUTODESTROY\"]/text"
 msgstr ""
-"Vous êtes sur le point d'installer la modification Auto-Démontage.\n"
-"\t[Effets : L'équipage Gi endommage les drones ennemis et l'équipage métallique à 5pv/s]\n"
+"Vous êtes sur le point d'installer la modification Auto-désassemblage.\n"
+"\t[Effets : Les membres d'équipage Gi infligent 5pv/s de dégâts aux drones ennemis et aux membres d'équipage métalliques]\n"
 "\t\n"
-"\t[Avertissement : Après l'installation, vous ne pourrez plus installer d'améliorations primaires pour l'équipage Gi. Vous ne pourrez pas non plus désactiver ce mod.]"
+"\t[Avertissement : Après l'installation de ceci, vous ne pourrez plus installer d'autres améliorations primaires pour les membres d'équipage Gi. Vous ne pourrez pas non plus désactiver cette modification.]"
 
 #: src-en/data/events_special_storage.xml.append:3372
 msgid ""
@@ -4446,9 +4439,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_SOCIAL\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer la modification Socialisation.\n"
-"\t[Effets : L'équipage Gi gagne 0.25x de vitesse de réparation et 0.1x de dégâts de combat par membre d'équipage allié dans la même pièce]\n"
+"\t[Effets : Les membres d'équipage Gi gagnent 0.25x vitesse de réparation et 0.1x dégâts de combat pour chaque membre d'équipage allié dans la même pièce]\n"
 "\t\n"
-"\t[Avertissement : Après l'installation, vous ne pourrez plus installer d'améliorations primaires pour l'équipage Gi. Vous ne pourrez pas non plus désactiver ce mod.]"
+"\t[Avertissement : Après l'installation de ceci, vous ne pourrez plus installer d'autres améliorations primaires pour les membres d'équipage Gi. Vous ne pourrez pas non plus désactiver cette modification.]"
 
 #: src-en/data/events_special_storage.xml.append:3403
 msgid ""
@@ -4473,28 +4466,28 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3431
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/text"
-msgstr "Vous consultez le menu du laboratoire pour : [GI]"
+msgstr "Vous consultez actuellement le menu de laboratoire pour : [GI]"
 
 #: src-en/data/events_special_storage.xml.append:3433
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[@req=\"LAB_AEA_OLD_RESOLVE\"]/text"
 msgstr ""
 "Actuellement installé : Résolution Inébranlable.\n"
-"\t\t[L'équipage Lylmik conservera toujours ses statistiques de base de PV, dégâts, immunités, vitesse de déplacement, vitesse de clonage, perte de compétences et vitesse de soin et celles-ci ne peuvent pas être outrepassées par des forces externes]"
+"\t\t[Les membres d'équipage Lylmik conserveront toujours leurs statistiques de base : PV, dégâts, immunités, vitesse de déplacement, vitesse de clonage, perte de compétences et vitesse de guérison, et celles-ci ne peuvent pas être annulées par des forces externes]"
 
 #: src-en/data/events_special_storage.xml.append:3438
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[@req=\"LAB_AEA_OLD_COMPROMISED\"]/text"
 msgstr ""
 "Actuellement installé : Sous-systèmes Compromis.\n"
-"\t\t[L'équipage Lylmik perd ses immunités mais clone maintenant à 2x de vitesse et soigne à 4x de vitesse]"
+"\t\t[Les membres d'équipage Lylmik perdent leurs immunités mais se clonent maintenant à 2x vitesse et guérissent à 4x vitesse]"
 
 #: src-en/data/events_special_storage.xml.append:3443
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[@req=\"LAB_AEA_OLD_ELITE\"]/text"
 msgstr ""
 "Actuellement installé : Élitisme.\n"
-"\t\t[L'équipage Lylmik gagne 25pv pour chaque élite alliée]"
+"\t\t[Les membres d'équipage Lylmik gagnent 25pv pour chaque élite alliée]"
 
 #: src-en/data/events_special_storage.xml.append:3448
 msgid ""
@@ -4504,32 +4497,34 @@ msgstr "Actuellement installé : Aucun"
 #: src-en/data/events_special_storage.xml.append:3452
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[5]/text"
-msgstr "Pri : Résolution Inébranlable. [Une amélioration est déjà installée]"
+msgstr ""
+"Prim. : Résolution Inébranlable. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:3456
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[6]/text"
-msgstr "Pri : Résolution Inébranlable. [Coût : 3~ 3{ 3} 3|]"
+msgstr "Prim. : Résolution Inébranlable. [Coût : 3~ 3{ 3} 3|]"
 
 #: src-en/data/events_special_storage.xml.append:3460
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[7]/text"
-msgstr "Pri : Sous-systèmes Compromis. [Une amélioration est déjà installée]"
+msgstr ""
+"Prim. : Sous-systèmes Compromis. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:3464
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[8]/text"
-msgstr "Pri : Sous-systèmes Compromis. [Coût : 8|]"
+msgstr "Prim. : Sous-systèmes Compromis. [Coût : 8|]"
 
 #: src-en/data/events_special_storage.xml.append:3468
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[9]/text"
-msgstr "Pri : Élitisme. [Une amélioration est déjà installée]"
+msgstr "Prim. : Élitisme. [Une amélioration est déjà installée]"
 
 #: src-en/data/events_special_storage.xml.append:3472
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[10]/text"
-msgstr "Pri : Élitisme. [Coût : 15~ 6}]"
+msgstr "Prim. : Élitisme. [Coût : 15~ 6}]"
 
 #: src-en/data/events_special_storage.xml.append:3476
 msgid ""
@@ -4541,9 +4536,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_RESOLVE\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer la modification Résolution Inébranlable.\n"
-"\t[Effets : L'équipage Lylmik conservera toujours ses statistiques de base de PV, dégâts, immunités, vitesse de déplacement, vitesse de clonage, perte de compétences et vitesse de soin et celles-ci ne peuvent pas être outrepassées par des forces externes]\n"
+"\t[Effets : Les membres d'équipage Lylmik conserveront toujours leurs statistiques de base : PV, dégâts, immunités, vitesse de déplacement, vitesse de clonage, perte de compétences et vitesse de guérison, et celles-ci ne peuvent pas être annulées par des forces externes]\n"
 "\t\n"
-"\t[Avertissement : Après l'installation, vous ne pourrez plus installer d'améliorations primaires pour l'équipage Lylmik. Vous ne pourrez pas non plus désactiver ce mod.]"
+"\t[Avertissement : Après l'installation de ceci, vous ne pourrez plus installer d'autres améliorations primaires pour les membres d'équipage Lylmik. Vous ne pourrez pas non plus désactiver cette modification.]"
 
 #: src-en/data/events_special_storage.xml.append:3488
 msgid ""
@@ -4570,9 +4565,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_COMPROMISED\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer la modification Sous-systèmes Compromis.\n"
-"\t[Effets : L'équipage Lylmik perd ses immunités mais clone maintenant à 2x de vitesse et soigne à 4x de vitesse]\n"
+"\t[Effets : Les membres d'équipage Lylmik perdent leurs immunités mais se clonent maintenant à 2x vitesse et guérissent à 4x vitesse]\n"
 "\t\n"
-"\t[Avertissement : Après l'installation, vous ne pourrez plus installer d'améliorations primaires pour l'équipage Lylmik. Vous ne pourrez pas non plus désactiver ce mod.]"
+"\t[Avertissement : Après l'installation de ceci, vous ne pourrez plus installer d'autres améliorations primaires pour les membres d'équipage Lylmik. Vous ne pourrez pas non plus désactiver cette modification.]"
 
 #: src-en/data/events_special_storage.xml.append:3520
 msgid ""
@@ -4599,9 +4594,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_ELITE\"]/text"
 msgstr ""
 "Vous êtes sur le point d'installer la modification Élitisme.\n"
-"\t[Effets : L'équipage Lylmik gagne 25pv pour chaque élite alliée]\n"
+"\t[Effets : Les membres d'équipage Lylmik gagnent 25pv pour chaque élite alliée]\n"
 "\t\n"
-"\t[Avertissement : Après l'installation, vous ne pourrez plus installer d'améliorations primaires pour l'équipage Lylmik. Vous ne pourrez pas non plus désactiver ce mod.]"
+"\t[Avertissement : Après l'installation de ceci, vous ne pourrez plus installer d'autres améliorations primaires pour les membres d'équipage Lylmik. Vous ne pourrez pas non plus désactiver cette modification.]"
 
 #: src-en/data/events_special_storage.xml.append:3550
 msgid ""

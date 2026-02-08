@@ -9,9 +9,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/text"
 msgstr ""
-"Vous êtes arrivé dans le noyau Lylmik, une zone fortement peuplée de Lylmiks"
-" et de Capitaines Riches ou Puissants. Maintenant que vous êtes ici, vous "
-"devrez contacter le conseil et pour cela, vous aurez besoin d'un parrain."
+"Vous êtes arrivé au noyau Lylmik, une zone fortement peuplée de Lylmik et de"
+" Capitaines Riches ou Puissants. Maintenant que vous êtes ici, vous devrez "
+"contacter le conseil et pour ce faire, vous aurez besoin d'un parrain."
 
 #: src-en/data/events_sector_aea_old_2.xml:25
 msgid ""
@@ -23,80 +23,78 @@ msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/text"
 msgstr ""
 "Vous consultez une base de données publique locale. Il y a cinq membres du "
-"conseil différents. Ils ont même un système pour prendre des rendez-vous "
-"individuels avec eux, mais il n'est possible de réserver une réunion qu'avec"
-" un seul parrain à la fois."
+"conseil différents. Ils ont même un système pour réserver des réunions "
+"individuelles avec eux, cependant il n'est possible de réserver une réunion "
+"qu'avec un seul parrain à la fois."
 
 #: src-en/data/events_sector_aea_old_2.xml:29
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_1\""
 " and not(@lvl)]/text"
-msgstr "Rechercher un parrainage auprès d'Unifex Expiatoire."
+msgstr "Chercher un parrainage auprès d'Atoning Unifex."
 
 #: src-en/data/events_sector_aea_old_2.xml:33
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_1\""
 " and @lvl=\"0\"]/text"
-msgstr "Rechercher un parrainage auprès d'Unifex Expiatoire [NON DISPONIBLE]."
+msgstr "Chercher un parrainage auprès d'Atoning Unifex [NON DISPONIBLE]."
 
 #: src-en/data/events_sector_aea_old_2.xml:37
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_2\""
 " and not(@lvl)]/text"
-msgstr "Rechercher un parrainage auprès d'Essence Asymptotique."
+msgstr "Chercher un parrainage auprès d'Asymptotic Essence."
 
 #: src-en/data/events_sector_aea_old_2.xml:41
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_2\""
 " and @lvl=\"0\"]/text"
-msgstr ""
-"Rechercher un parrainage auprès d'Essence Asymptotique [NON DISPONIBLE]."
+msgstr "Chercher un parrainage auprès d'Asymptotic Essence [NON DISPONIBLE]."
 
 #: src-en/data/events_sector_aea_old_2.xml:45
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_3\""
 " and not(@lvl)]/text"
-msgstr "Rechercher un parrainage auprès d'Impulsion Eupathique."
+msgstr "Chercher un parrainage auprès d'Impulsion Eupathique."
 
 #: src-en/data/events_sector_aea_old_2.xml:49
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_3\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Rechercher un parrainage auprès d'Impulsion Eupathique [NON DISPONIBLE]."
+"Chercher un parrainage auprès d'Impulsion Eupathique [NON DISPONIBLE]."
 
 #: src-en/data/events_sector_aea_old_2.xml:53
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_4\""
 " and not(@lvl)]/text"
-msgstr "Rechercher un parrainage auprès de Tendance Homologue."
+msgstr "Chercher un parrainage auprès de Tendance Homologue."
 
 #: src-en/data/events_sector_aea_old_2.xml:57
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_4\""
 " and @lvl=\"0\"]/text"
-msgstr ""
-"Rechercher un parrainage auprès de Tendance Homologue [NON DISPONIBLE]."
+msgstr "Chercher un parrainage auprès de Tendance Homologue [NON DISPONIBLE]."
 
 #: src-en/data/events_sector_aea_old_2.xml:61
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_5\""
 " and not(@lvl)]/text"
-msgstr "Rechercher un parrainage auprès de Concordance Noétique."
+msgstr "Chercher un parrainage auprès de Concordance Noétique."
 
 #: src-en/data/events_sector_aea_old_2.xml:65
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_5\""
 " and @lvl=\"0\"]/text"
 msgstr ""
-"Rechercher un parrainage auprès de Concordance Noétique [NON DISPONIBLE]."
+"Chercher un parrainage auprès de Concordance Noétique [NON DISPONIBLE]."
 
 #: src-en/data/events_sector_aea_old_2.xml:73
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/text"
 msgstr ""
-"Vous réservez une réunion avec Unifex Expiatoire. Vous devrez négocier avec "
-"eux avant de pouvoir vous présenter devant le conseil."
+"Vous réservez une réunion avec Atoning Unifex, vous devrez négocier avec eux"
+" avant de pouvoir vous présenter devant le conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:77
 msgid ""
@@ -163,8 +161,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/text"
 msgstr ""
-"Vous réservez une réunion avec Essence Asymptotique. Vous devrez négocier "
-"avec eux avant de pouvoir vous présenter devant le conseil."
+"Vous réservez une réunion avec Asymptotic Essence, vous devrez négocier avec"
+" eux avant de pouvoir vous présenter devant le conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:126
 msgid ""
@@ -231,7 +229,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/text"
 msgstr ""
-"Vous réservez une réunion avec Impulsion Eupathique. Vous devrez négocier "
+"Vous réservez une réunion avec Impulsion Eupathique, vous devrez négocier "
 "avec eux avant de pouvoir vous présenter devant le conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:175
@@ -299,7 +297,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/text"
 msgstr ""
-"Vous réservez une réunion avec Tendance Homologue. Vous devrez négocier avec"
+"Vous réservez une réunion avec Tendance Homologue, vous devrez négocier avec"
 " eux avant de pouvoir vous présenter devant le conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:224
@@ -367,7 +365,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/text"
 msgstr ""
-"Vous réservez une réunion avec Concordance Noétique. Vous devrez négocier "
+"Vous réservez une réunion avec Concordance Noétique, vous devrez négocier "
 "avec eux avant de pouvoir vous présenter devant le conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:273
@@ -436,8 +434,8 @@ msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_CONTINUE\"]/text"
 msgstr ""
 "Juste au moment où votre téléchargement se termine, un nouveau vaisseau "
-"arrive. « Hé, qu'est-ce que vous faites ici, cet endroit est interdit aux "
-"gens comme vous ! » Il semble que vous ne soyez pas très bienvenu ici."
+"arrive. \"Hé, qu'est-ce que vous faites ici, cet endroit est interdit aux "
+"gens comme vous !\" Il semble que vous ne soyez pas très bienvenu ici."
 
 #: src-en/data/events_sector_aea_old_2.xml:321
 msgid ""
@@ -461,26 +459,26 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_DESTROY\"]/text"
 msgstr ""
-"Vous avez vaincu le vaisseau d'élite, mais l'installation est passée en "
-"verrouillage complet. Il n'y a aucun moyen d'y entrer maintenant."
+"Vous avez vaincu le vaisseau d'élite, cependant l'installation est passée en"
+" mode de verrouillage complet. Il n'y a aucun moyen d'y entrer maintenant."
 
 #: src-en/data/events_sector_aea_old_2.xml:358
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr "C'est l'emplacement d'un membre du conseil."
+msgstr "Ceci est l'emplacement d'un membre du conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:359
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_FIGHT\"]/beaconType/visitedTooltip"
-msgstr "C'est l'emplacement d'un membre du conseil."
+msgstr "Ceci est l'emplacement d'un membre du conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:362
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_FIGHT\"]/text"
 msgstr ""
-"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil. Un vaisseau"
-" Lylmik d'élite garde les lieux. Alors que vous vous approchez, les alarmes "
-"se déclenchent et l'Élite se met en mouvement pour attaquer."
+"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil, Un vaisseau"
+" Lylmik d'élite garde l'emplacement. En vous approchant, les alarmes "
+"commencent à retentir et l'Élite se met en mouvement pour attaquer."
 
 #: src-en/data/events_sector_aea_old_2.xml:365
 msgid ""
@@ -490,20 +488,20 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:375
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr "C'est l'emplacement d'un membre du conseil."
+msgstr "Ceci est l'emplacement d'un membre du conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:376
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_FIGHT\"]/beaconType/visitedTooltip"
-msgstr "C'est l'emplacement d'un membre du conseil."
+msgstr "Ceci est l'emplacement d'un membre du conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:379
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_FIGHT\"]/text"
 msgstr ""
-"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil. Un vaisseau"
-" Lylmik d'élite garde les lieux. Alors que vous vous approchez, les alarmes "
-"se déclenchent et l'Élite se met en mouvement pour attaquer."
+"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil, Un vaisseau"
+" Lylmik d'élite garde l'emplacement. En vous approchant, les alarmes "
+"commencent à retentir et l'Élite se met en mouvement pour attaquer."
 
 #: src-en/data/events_sector_aea_old_2.xml:382
 msgid ""
@@ -513,20 +511,20 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:392
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr "C'est l'emplacement d'un membre du conseil."
+msgstr "Ceci est l'emplacement d'un membre du conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:393
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_FIGHT\"]/beaconType/visitedTooltip"
-msgstr "C'est l'emplacement d'un membre du conseil."
+msgstr "Ceci est l'emplacement d'un membre du conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:396
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_FIGHT\"]/text"
 msgstr ""
-"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil. Un vaisseau"
-" Lylmik d'élite garde les lieux. Alors que vous vous approchez, les alarmes "
-"se déclenchent et l'Élite se met en mouvement pour attaquer."
+"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil, Un vaisseau"
+" Lylmik d'élite garde l'emplacement. En vous approchant, les alarmes "
+"commencent à retentir et l'Élite se met en mouvement pour attaquer."
 
 #: src-en/data/events_sector_aea_old_2.xml:399
 msgid ""
@@ -536,20 +534,20 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:409
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr "C'est l'emplacement d'un membre du conseil."
+msgstr "Ceci est l'emplacement d'un membre du conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:410
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_FIGHT\"]/beaconType/visitedTooltip"
-msgstr "C'est l'emplacement d'un membre du conseil."
+msgstr "Ceci est l'emplacement d'un membre du conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:413
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_FIGHT\"]/text"
 msgstr ""
-"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil. Un vaisseau"
-" Lylmik d'élite garde les lieux. Alors que vous vous approchez, les alarmes "
-"se déclenchent et l'Élite se met en mouvement pour attaquer."
+"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil, Un vaisseau"
+" Lylmik d'élite garde l'emplacement. En vous approchant, les alarmes "
+"commencent à retentir et l'Élite se met en mouvement pour attaquer."
 
 #: src-en/data/events_sector_aea_old_2.xml:416
 msgid ""
@@ -559,20 +557,20 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:426
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr "C'est l'emplacement d'un membre du conseil."
+msgstr "Ceci est l'emplacement d'un membre du conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:427
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_FIGHT\"]/beaconType/visitedTooltip"
-msgstr "C'est l'emplacement d'un membre du conseil."
+msgstr "Ceci est l'emplacement d'un membre du conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:430
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_FIGHT\"]/text"
 msgstr ""
-"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil. Un vaisseau"
-" Lylmik d'élite garde les lieux. Alors que vous vous approchez, les alarmes "
-"se déclenchent et l'Élite se met en mouvement pour attaquer."
+"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil, Un vaisseau"
+" Lylmik d'élite garde l'emplacement. En vous approchant, les alarmes "
+"commencent à retentir et l'Élite se met en mouvement pour attaquer."
 
 #: src-en/data/events_sector_aea_old_2.xml:433
 msgid ""
@@ -583,20 +581,22 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/beaconType/unvisitedTooltip"
 msgstr ""
-"C'est l'emplacement du membre du conseil dont vous recherchez le parrainage."
+"C'est l'emplacement du membre du conseil auprès duquel vous cherchez un "
+"parrainage."
 
 #: src-en/data/events_sector_aea_old_2.xml:444
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/beaconType/visitedTooltip"
 msgstr ""
-"C'est l'emplacement du membre du conseil dont vous recherchez le parrainage."
+"C'est l'emplacement du membre du conseil auprès duquel vous cherchez un "
+"parrainage."
 
 #: src-en/data/events_sector_aea_old_2.xml:448
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/text"
 msgstr ""
-"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil. Un vaisseau"
-" Lylmik d'élite garde les lieux. Grâce à votre rendez-vous, vous pouvez "
-"atterrir et saluer Unifex Expiatoire."
+"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil, un vaisseau"
+" Lylmik d'élite garde l'emplacement. Grâce à votre rendez-vous, vous pouvez "
+"atterrir et saluer Atoning Unifex."
 
 #: src-en/data/events_sector_aea_old_2.xml:450
 msgid ""
@@ -607,10 +607,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/choice/event/text"
 msgstr ""
-"« Capitaine, je crois savoir pourquoi vous êtes ici. D'autres comme vous "
-"sont passés, détruisant tout sur leur passage. Inévitablement, ils veulent "
-"partir et nous les laissons faire, mais d'abord, ils — enfin, vous — devez "
-"faire quelque chose pour nous. »"
+"\"Capitaine, je crois que je sais déjà pourquoi vous êtes ici, nous avons eu"
+" d'autres personnes comme vous qui ont tout détruit sur leur passage. "
+"Inévitablement, ils veulent partir et nous les laissons faire, cependant, "
+"d'abord, ils, enfin vous, devez faire quelque chose pour nous.\""
 
 #: src-en/data/events_sector_aea_old_2.xml:454
 msgid ""
@@ -621,10 +621,10 @@ msgstr "Bien sûr."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/choice/event/choice/event/text"
 msgstr ""
-"« Ma tâche pour vous est relativement simple : il y en a un autre comme vous"
-" qui fait des ravages dans nos secteurs. Si vous les éliminez, vous partez ;"
-" s'ils vous éliminent, ils partent. Je viendrai avec vous pour assister à "
-"l'événement moi-même. »"
+"\"Ma tâche pour vous est relativement simple, il y a un autre comme vous qui"
+" fait des ravages dans nos secteurs, si vous les éliminez, vous pouvez "
+"partir, s'ils vous éliminent, ils peuvent partir. Je vous accompagnerai pour"
+" assister à l'événement moi-même.\""
 
 #: src-en/data/events_sector_aea_old_2.xml:457
 msgid ""
@@ -634,26 +634,28 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:459
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/choice/event/choice/event/choice/text"
-msgstr "Se diriger vers l'emplacement."
+msgstr "Rendez-vous à l'emplacement."
 
 #: src-en/data/events_sector_aea_old_2.xml:473
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/beaconType/unvisitedTooltip"
 msgstr ""
-"C'est l'emplacement du membre du conseil dont vous recherchez le parrainage."
+"C'est l'emplacement du membre du conseil auprès duquel vous cherchez un "
+"parrainage."
 
 #: src-en/data/events_sector_aea_old_2.xml:474
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/beaconType/visitedTooltip"
 msgstr ""
-"C'est l'emplacement du membre du conseil dont vous recherchez le parrainage."
+"C'est l'emplacement du membre du conseil auprès duquel vous cherchez un "
+"parrainage."
 
 #: src-en/data/events_sector_aea_old_2.xml:478
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/text"
 msgstr ""
-"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil. Un vaisseau"
-" Lylmik d'élite garde les lieux. Grâce à votre rendez-vous, vous pouvez "
-"atterrir et saluer Essence Asymptotique."
+"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil, un vaisseau"
+" Lylmik d'élite garde l'emplacement. Grâce à votre rendez-vous, vous pouvez "
+"atterrir et saluer Asymptotic Essence."
 
 #: src-en/data/events_sector_aea_old_2.xml:480
 msgid ""
@@ -664,10 +666,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/choice/event/text"
 msgstr ""
-"« Capitaine, je crois savoir pourquoi vous êtes ici. D'autres comme vous "
-"sont passés, détruisant tout sur leur passage. Inévitablement, ils veulent "
-"partir et nous les laissons faire, mais d'abord, ils — enfin, vous — devez "
-"faire quelque chose pour nous. »"
+"\"Capitaine, je crois que je sais déjà pourquoi vous êtes ici, nous avons eu"
+" d'autres personnes comme vous qui ont tout détruit sur leur passage. "
+"Inévitablement, ils veulent partir et nous les laissons faire, cependant, "
+"d'abord, ils, enfin vous, devez faire quelque chose pour nous.\""
 
 #: src-en/data/events_sector_aea_old_2.xml:484
 msgid ""
@@ -678,10 +680,10 @@ msgstr "Bien sûr."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/choice/event/choice/event/text"
 msgstr ""
-"« Ma tâche pour vous est relativement simple : il y en a un autre comme vous"
-" qui fait des ravages dans nos secteurs. Si vous les éliminez, vous partez ;"
-" s'ils vous éliminent, ils partent. Je viendrai avec vous pour assister à "
-"l'événement moi-même. »"
+"\"Ma tâche pour vous est relativement simple, il y a un autre comme vous qui"
+" fait des ravages dans nos secteurs, si vous les éliminez, vous pouvez "
+"partir, s'ils vous éliminent, ils peuvent partir. Je vous accompagnerai pour"
+" assister à l'événement moi-même.\""
 
 #: src-en/data/events_sector_aea_old_2.xml:487
 msgid ""
@@ -691,25 +693,27 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:489
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/choice/event/choice/event/choice/text"
-msgstr "Se diriger vers l'emplacement."
+msgstr "Rendez-vous à l'emplacement."
 
 #: src-en/data/events_sector_aea_old_2.xml:503
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/beaconType/unvisitedTooltip"
 msgstr ""
-"C'est l'emplacement du membre du conseil dont vous recherchez le parrainage."
+"C'est l'emplacement du membre du conseil auprès duquel vous cherchez un "
+"parrainage."
 
 #: src-en/data/events_sector_aea_old_2.xml:504
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/beaconType/visitedTooltip"
 msgstr ""
-"C'est l'emplacement du membre du conseil dont vous recherchez le parrainage."
+"C'est l'emplacement du membre du conseil auprès duquel vous cherchez un "
+"parrainage."
 
 #: src-en/data/events_sector_aea_old_2.xml:508
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/text"
 msgstr ""
-"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil. Un vaisseau"
-" Lylmik d'élite garde les lieux. Grâce à votre rendez-vous, vous pouvez "
+"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil, un vaisseau"
+" Lylmik d'élite garde l'emplacement. Grâce à votre rendez-vous, vous pouvez "
 "atterrir et saluer Impulsion Eupathique."
 
 #: src-en/data/events_sector_aea_old_2.xml:510
@@ -721,10 +725,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/choice/event/text"
 msgstr ""
-"« Capitaine, je crois savoir pourquoi vous êtes ici. D'autres comme vous "
-"sont passés, détruisant tout sur leur passage. Inévitablement, ils veulent "
-"partir et nous les laissons faire, mais d'abord, ils — enfin, vous — devez "
-"faire quelque chose pour nous. »"
+"\"Capitaine, je crois que je sais déjà pourquoi vous êtes ici, nous avons eu"
+" d'autres personnes comme vous qui ont tout détruit sur leur passage. "
+"Inévitablement, ils veulent partir et nous les laissons faire, cependant, "
+"d'abord, ils, enfin vous, devez faire quelque chose pour nous.\""
 
 #: src-en/data/events_sector_aea_old_2.xml:514
 msgid ""
@@ -735,10 +739,10 @@ msgstr "Bien sûr."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/choice/event/choice/event/text"
 msgstr ""
-"« Ma tâche pour vous est relativement simple : il y en a un autre comme vous"
-" qui fait des ravages dans nos secteurs. Si vous les éliminez, vous partez ;"
-" s'ils vous éliminent, ils partent. Je viendrai avec vous pour assister à "
-"l'événement moi-même. »"
+"\"Ma tâche pour vous est relativement simple, il y a un autre comme vous qui"
+" fait des ravages dans nos secteurs, si vous les éliminez, vous pouvez "
+"partir, s'ils vous éliminent, ils peuvent partir. Je vous accompagnerai pour"
+" assister à l'événement moi-même.\""
 
 #: src-en/data/events_sector_aea_old_2.xml:517
 msgid ""
@@ -748,25 +752,27 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:519
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/choice/event/choice/event/choice/text"
-msgstr "Se diriger vers l'emplacement."
+msgstr "Rendez-vous à l'emplacement."
 
 #: src-en/data/events_sector_aea_old_2.xml:533
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/beaconType/unvisitedTooltip"
 msgstr ""
-"C'est l'emplacement du membre du conseil dont vous recherchez le parrainage."
+"C'est l'emplacement du membre du conseil auprès duquel vous cherchez un "
+"parrainage."
 
 #: src-en/data/events_sector_aea_old_2.xml:534
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/beaconType/visitedTooltip"
 msgstr ""
-"C'est l'emplacement du membre du conseil dont vous recherchez le parrainage."
+"C'est l'emplacement du membre du conseil auprès duquel vous cherchez un "
+"parrainage."
 
 #: src-en/data/events_sector_aea_old_2.xml:538
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/text"
 msgstr ""
-"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil. Un vaisseau"
-" Lylmik d'élite garde les lieux. Grâce à votre rendez-vous, vous pouvez "
+"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil, un vaisseau"
+" Lylmik d'élite garde l'emplacement. Grâce à votre rendez-vous, vous pouvez "
 "atterrir et saluer Tendance Homologue."
 
 #: src-en/data/events_sector_aea_old_2.xml:540
@@ -778,10 +784,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/choice/event/text"
 msgstr ""
-"« Capitaine, je crois savoir pourquoi vous êtes ici. D'autres comme vous "
-"sont passés, détruisant tout sur leur passage. Inévitablement, ils veulent "
-"partir et nous les laissons faire, mais d'abord, ils — enfin, vous — devez "
-"faire quelque chose pour nous. »"
+"\"Capitaine, je crois que je sais déjà pourquoi vous êtes ici, nous avons eu"
+" d'autres personnes comme vous qui ont tout détruit sur leur passage. "
+"Inévitablement, ils veulent partir et nous les laissons faire, cependant, "
+"d'abord, ils, enfin vous, devez faire quelque chose pour nous.\""
 
 #: src-en/data/events_sector_aea_old_2.xml:544
 msgid ""
@@ -792,10 +798,10 @@ msgstr "Bien sûr."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/choice/event/choice/event/text"
 msgstr ""
-"« Ma tâche pour vous est relativement simple : il y en a un autre comme vous"
-" qui fait des ravages dans nos secteurs. Si vous les éliminez, vous partez ;"
-" s'ils vous éliminent, ils partent. Je viendrai avec vous pour assister à "
-"l'événement moi-même. »"
+"\"Ma tâche pour vous est relativement simple, il y a un autre comme vous qui"
+" fait des ravages dans nos secteurs, si vous les éliminez, vous pouvez "
+"partir, s'ils vous éliminent, ils peuvent partir. Je vous accompagnerai pour"
+" assister à l'événement moi-même.\""
 
 #: src-en/data/events_sector_aea_old_2.xml:547
 msgid ""
@@ -805,25 +811,27 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:549
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/choice/event/choice/event/choice/text"
-msgstr "Se diriger vers l'emplacement."
+msgstr "Rendez-vous à l'emplacement."
 
 #: src-en/data/events_sector_aea_old_2.xml:563
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/beaconType/unvisitedTooltip"
 msgstr ""
-"C'est l'emplacement du membre du conseil dont vous recherchez le parrainage."
+"C'est l'emplacement du membre du conseil auprès duquel vous cherchez un "
+"parrainage."
 
 #: src-en/data/events_sector_aea_old_2.xml:564
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/beaconType/visitedTooltip"
 msgstr ""
-"C'est l'emplacement du membre du conseil dont vous recherchez le parrainage."
+"C'est l'emplacement du membre du conseil auprès duquel vous cherchez un "
+"parrainage."
 
 #: src-en/data/events_sector_aea_old_2.xml:568
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/text"
 msgstr ""
-"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil. Un vaisseau"
-" Lylmik d'élite garde les lieux. Grâce à votre rendez-vous, vous pouvez "
+"Vous êtes arrivé à l'emplacement de l'un des membres du Conseil, un vaisseau"
+" Lylmik d'élite garde l'emplacement. Grâce à votre rendez-vous, vous pouvez "
 "atterrir et saluer Concordance Noétique."
 
 #: src-en/data/events_sector_aea_old_2.xml:570
@@ -835,10 +843,10 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/choice/event/text"
 msgstr ""
-"« Capitaine, je crois savoir pourquoi vous êtes ici. D'autres comme vous "
-"sont passés, détruisant tout sur leur passage. Inévitablement, ils veulent "
-"partir et nous les laissons faire, mais d'abord, ils — enfin, vous — devez "
-"faire quelque chose pour nous. »"
+"\"Capitaine, je crois que je sais déjà pourquoi vous êtes ici, nous avons eu"
+" d'autres personnes comme vous qui ont tout détruit sur leur passage. "
+"Inévitablement, ils veulent partir et nous les laissons faire, cependant, "
+"d'abord, ils, enfin vous, devez faire quelque chose pour nous.\""
 
 #: src-en/data/events_sector_aea_old_2.xml:574
 msgid ""
@@ -849,10 +857,10 @@ msgstr "Bien sûr."
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/choice/event/choice/event/text"
 msgstr ""
-"« Ma tâche pour vous est relativement simple : il y en a un autre comme vous"
-" qui fait des ravages dans nos secteurs. Si vous les éliminez, vous partez ;"
-" s'ils vous éliminent, ils partent. Je viendrai avec vous pour assister à "
-"l'événement moi-même. »"
+"\"Ma tâche pour vous est relativement simple, il y a un autre comme vous qui"
+" fait des ravages dans nos secteurs, si vous les éliminez, vous pouvez "
+"partir, s'ils vous éliminent, ils peuvent partir. Je vous accompagnerai pour"
+" assister à l'événement moi-même.\""
 
 #: src-en/data/events_sector_aea_old_2.xml:577
 msgid ""
@@ -862,19 +870,19 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:579
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/choice/event/choice/event/choice/text"
-msgstr "Se diriger vers l'emplacement."
+msgstr "Rendez-vous à l'emplacement."
 
 #: src-en/data/events_sector_aea_old_2.xml:593
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr "L'emplacement de la cible qu'Unifex Expiatoire vous a donnée."
+msgstr "L'emplacement de la cible que Atoning Unifex vous a donné."
 
 #: src-en/data/events_sector_aea_old_2.xml:598
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_QUEST\"]/text"
 msgstr ""
-"La cible de votre parrain flotte près de la balise. À mesure que vous vous "
-"approchez, leurs armes et leurs drones se mettent en ligne et vous engagent."
+"La cible de votre parrain flotte près de la balise. En vous rapprochant, "
+"leurs armes et drones s'activent et vous attaquent."
 
 #: src-en/data/events_sector_aea_old_2.xml:601
 msgid ""
@@ -885,7 +893,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_BOUNTY_DESTROY\"]/text"
 msgstr ""
-"Vous avez vaincu le vaisseau d'élite. Votre parrain semble satisfait et "
+"Vous avez vaincu le vaisseau d'élite, votre parrain semble satisfait et "
 "accepte de vous parrainer pour le conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:618
@@ -896,7 +904,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:620
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_BOUNTY_DESTROY\"]/choice/event/text"
-msgstr "Vous trouvez un deuxième drone dans l'épave."
+msgstr "Vous trouvez un second drone dans l'épave."
 
 #: src-en/data/events_sector_aea_old_2.xml:623
 msgid ""
@@ -906,14 +914,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:635
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr "L'emplacement de la cible qu'Essence Asymptotique vous a donnée."
+msgstr "L'emplacement de la cible que Asymptotic Essence vous a donné."
 
 #: src-en/data/events_sector_aea_old_2.xml:640
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_QUEST\"]/text"
 msgstr ""
-"La cible de votre parrain flotte près de la balise. À mesure que vous vous "
-"approchez, leurs armes et leurs drones se mettent en ligne et vous engagent."
+"La cible de votre parrain flotte près de la balise. En vous rapprochant, "
+"leurs armes et drones s'activent et vous attaquent."
 
 #: src-en/data/events_sector_aea_old_2.xml:642
 msgid ""
@@ -924,7 +932,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_BOUNTY_DESTROY\"]/text"
 msgstr ""
-"Vous avez vaincu le vaisseau d'élite. Votre parrain semble satisfait et "
+"Vous avez vaincu le vaisseau d'élite, votre parrain semble satisfait et "
 "accepte de vous parrainer pour le conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:659
@@ -935,14 +943,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:669
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr "L'emplacement de la cible qu'Impulsion Eupathique vous a donnée."
+msgstr "L'emplacement de la cible que Impulsion Eupathique vous a donné."
 
 #: src-en/data/events_sector_aea_old_2.xml:674
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_QUEST\"]/text"
 msgstr ""
-"La cible de votre parrain flotte près de la balise. À mesure que vous vous "
-"approchez, leurs armes et leurs drones se mettent en ligne et vous engagent."
+"La cible de votre parrain flotte près de la balise. En vous rapprochant, "
+"leurs armes et drones s'activent et vous attaquent."
 
 #: src-en/data/events_sector_aea_old_2.xml:676
 msgid ""
@@ -953,7 +961,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_BOUNTY_DESTROY\"]/text"
 msgstr ""
-"Vous avez vaincu le vaisseau d'élite. Votre parrain semble satisfait et "
+"Vous avez vaincu le vaisseau d'élite, votre parrain semble satisfait et "
 "accepte de vous parrainer pour le conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:693
@@ -964,14 +972,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:703
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr "L'emplacement de la cible que Tendance Homologue vous a donnée."
+msgstr "L'emplacement de la cible que Tendance Homologue vous a donné."
 
 #: src-en/data/events_sector_aea_old_2.xml:707
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_QUEST\"]/text"
 msgstr ""
-"La cible de votre parrain flotte près de la balise. À mesure que vous vous "
-"approchez, leurs armes et leurs drones se mettent en ligne et vous engagent."
+"La cible de votre parrain flotte près de la balise. En vous rapprochant, "
+"leurs armes et drones s'activent et vous attaquent."
 
 #: src-en/data/events_sector_aea_old_2.xml:709
 msgid ""
@@ -982,7 +990,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_BOUNTY_DESTROY\"]/text"
 msgstr ""
-"Vous avez vaincu le vaisseau d'élite. Votre parrain semble satisfait et "
+"Vous avez vaincu le vaisseau d'élite, votre parrain semble satisfait et "
 "accepte de vous parrainer pour le conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:726
@@ -993,14 +1001,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:736
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr "L'emplacement de la cible que Concordance Noétique vous a donnée."
+msgstr "L'emplacement de la cible que Concordance Noétique vous a donné."
 
 #: src-en/data/events_sector_aea_old_2.xml:741
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_QUEST\"]/text"
 msgstr ""
-"La cible de votre parrain flotte près de la balise. À mesure que vous vous "
-"approchez, leurs armes et leurs drones se mettent en ligne et vous engagent."
+"La cible de votre parrain flotte près de la balise. En vous rapprochant, "
+"leurs armes et drones s'activent et vous attaquent."
 
 #: src-en/data/events_sector_aea_old_2.xml:743
 msgid ""
@@ -1011,7 +1019,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_BOUNTY_DESTROY\"]/text"
 msgstr ""
-"Vous avez vaincu le vaisseau d'élite. Votre parrain semble satisfait et "
+"Vous avez vaincu le vaisseau d'élite, votre parrain semble satisfait et "
 "accepte de vous parrainer pour le conseil."
 
 #: src-en/data/events_sector_aea_old_2.xml:760
@@ -1033,14 +1041,14 @@ msgstr ""
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/text"
 msgstr ""
 "Vous êtes arrivé à l'emplacement du Bâtiment d'Administration du Conseil. "
-"C'est ici que le conseil se réunit régulièrement pour discuter et maintenir "
-"les secteurs où ils sont mis en quarantaine."
+"C'est là que le conseil se réunit régulièrement pour discuter et maintenir "
+"les secteurs dans lesquels ils sont en quarantaine."
 
 #: src-en/data/events_sector_aea_old_2.xml:785
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[@req=\"aea_old_completed_sponsor\""
 " and @lvl=\"1\"]/text"
-msgstr "Entrer avec votre membre du conseil parrain."
+msgstr "Entrez avec votre membre du conseil parrain."
 
 #: src-en/data/events_sector_aea_old_2.xml:787
 msgid ""
@@ -1061,10 +1069,10 @@ msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[@req=\"aea_old_completed_sponsor\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
-"Cela prend un certain temps, mais votre présence est à peine requise par le "
-"conseil. Vous êtes particulièrement surpris de voir à quel point votre "
-"présence ici a été enregistrée ; ils ont des preuves de presque toutes les "
-"batailles que vous avez menées dans leur espace."
+"Cela prend un certain temps, cependant votre présence est à peine requise "
+"par le conseil. Vous êtes particulièrement surpris de voir à quel point "
+"votre présence ici a été réellement enregistrée, ils ont des preuves de "
+"presque toutes les batailles que vous avez menées dans leur espace."
 
 #: src-en/data/events_sector_aea_old_2.xml:793
 msgid ""
@@ -1082,7 +1090,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:805
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[3]/text"
-msgstr "Revenir plus tard."
+msgstr "Revenez plus tard."
 
 #: src-en/data/events_sector_aea_old_2.xml:815
 msgid ""
@@ -1098,15 +1106,15 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/text"
 msgstr ""
-"Finalement, vous recevez le verdict, vous serez autorisé à partir. Ils vous parlent d'une porte secrète, similaire à celle que vous avez activée dans le Nœud 17.\n"
+"Finalement, vous recevez le verdict, vous serez autorisé à partir. Ils vous parlent d'une porte secrète, similaire à celle que vous avez activée au Nœud 17.\n"
 "\n"
-"En raison de l'emplacement de la porte, vous devrez y être escorté par votre parrain. Vous devriez régler toutes vos affaires en suspens ici avant de partir.\n"
+"En raison de l'emplacement de la porte, vous devrez être escorté par votre parrain, vous devriez vous occuper de toutes les affaires inachevées ici avant de partir.\n"
 "\t."
 
 #: src-en/data/events_sector_aea_old_2.xml:825
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/choice[1]/text"
-msgstr "Partir pour la porte immédiatement."
+msgstr "Partez immédiatement pour la porte."
 
 #: src-en/data/events_sector_aea_old_2.xml:832
 msgid ""
@@ -1116,14 +1124,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:838
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/choice[3]/text"
-msgstr "Nous reviendrons plus tard."
+msgstr "Nous reviendrons ici plus tard."
 
 #: src-en/data/events_sector_aea_old_2.xml:857
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/text"
 msgstr ""
-"Étonnamment, un marchand Lylmik semble être attaqué par une élite lourdement"
-" armée. Si vous voulez commercer avec eux, vous devrez vous occuper de "
+"Étonnamment, un marchand Lylmik semble être attaqué par une élite fortement "
+"armée. Si vous voulez commercer avec eux, vous devrez vous occuper de "
 "l'élite."
 
 #: src-en/data/events_sector_aea_old_2.xml:860
@@ -1165,20 +1173,20 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/text"
 msgstr ""
-"Vous apercevez une petite lune habitée au loin, il y a beaucoup de trafic "
-"devant le magasin. Devons-nous approcher ?"
+"Vous voyez une petite lune peuplée au loin, il y a un trafic intense devant "
+"le magasin. Allons-nous approcher ?"
 
 #: src-en/data/events_sector_aea_old_2.xml:919
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/choice[1]/text"
-msgstr "Faire la queue pour atterrir."
+msgstr "Faites la queue pour atterrir."
 
 #: src-en/data/events_sector_aea_old_2.xml:921
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/choice[1]/event/text"
 msgstr ""
-"Vous réussissez finalement à atterrir dans leur espace limité et à entrer "
-"dans le magasin. Incroyablement, il semble que tout y soit en solde."
+"Vous parvenez finalement à atterrir dans leur espace limité et à entrer dans"
+" le magasin, incroyablement il semble que tout y soit en solde."
 
 #: src-en/data/events_sector_aea_old_2.xml:926
 msgid ""
@@ -1189,9 +1197,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/choice[2]/event/text"
 msgstr ""
-"Pendant que vous attendez que le générateur SPL se charge, vous remarquez un"
-" vaisseau publicitaire passer. Apparemment, le grand magasin là-bas fait une"
-" liquidation."
+"Alors que vous attendez que le générateur SPL se charge, vous remarquez un "
+"vaisseau publicitaire passer, apparemment le grand magasin là-bas fait une "
+"liquidation."
 
 #: src-en/data/events_sector_aea_old_2.xml:930
 msgid ""
@@ -1208,34 +1216,32 @@ msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/tex
 msgstr ""
 "Vous arrivez à la balise et êtes immédiatement bombardé de multiples "
 "publicités faisant référence à une foire planétaire. Il semble que des gens "
-"soient venus de tout le secteur pour manger et présenter leurs propres "
-"plats."
+"soient venus de tout le secteur pour manger et exhiber leurs propres plats."
 
 #: src-en/data/events_sector_aea_old_2.xml:946
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/text"
-msgstr "Descendre et regarder autour de vous."
+msgstr "Descendez et regardez autour de vous."
 
 #: src-en/data/events_sector_aea_old_2.xml:948
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/text"
 msgstr ""
-"Vous atterrissez sur la planète et commencez à explorer la foire. De "
-"nombreuses options s'offrent à vous."
+"Vous arrivez sur la planète et commencez à explorer la foire. Il y a de "
+"nombreuses options différentes à choisir."
 
 #: src-en/data/events_sector_aea_old_2.xml:950
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[1]/text"
-msgstr "Visiter Œufs verts et Jambon."
+msgstr "Visitez Œufs Verts et Jambon."
 
 #: src-en/data/events_sector_aea_old_2.xml:952
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Vous vous approchez du stand, mais malheureusement, le stand est "
-"complètement à court de nourriture. Pire encore, la personne qui y travaille"
-" a été laissée derrière par son vaisseau, elle propose de rejoindre votre "
-"équipage."
+"Vous vous approchez de l'étal, mais malheureusement, l'étal est complètement"
+" à court de nourriture. Pire encore, la personne qui travaille à l'étal a "
+"été laissée par son vaisseau, elle propose de rejoindre votre équipage."
 
 #: src-en/data/events_sector_aea_old_2.xml:955
 msgid ""
@@ -1245,16 +1251,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:961
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[2]/text"
-msgstr "Visiter Lumière douce."
+msgstr "Visitez Lumière-douce."
 
 #: src-en/data/events_sector_aea_old_2.xml:963
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
-"Vous vous approchez du stand, mais malheureusement, le stand est "
-"complètement à court de nourriture. Pire encore, la personne qui y travaille"
-" a été laissée derrière par son vaisseau, elle propose de rejoindre votre "
-"équipage."
+"Vous vous approchez de l'étal, mais malheureusement, l'étal est complètement"
+" à court de nourriture. Pire encore, la personne qui travaille à l'étal a "
+"été laissée par son vaisseau, elle propose de rejoindre votre équipage."
 
 #: src-en/data/events_sector_aea_old_2.xml:966
 msgid ""
@@ -1264,16 +1269,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:972
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[3]/text"
-msgstr "Visiter Nectar de la Nature."
+msgstr "Visitez Nectar de la Nature."
 
 #: src-en/data/events_sector_aea_old_2.xml:974
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
-"Vous vous approchez du stand, mais malheureusement, le stand est "
-"complètement à court de nourriture. Pire encore, la personne qui y travaille"
-" a été laissée derrière par son vaisseau, elle propose de rejoindre votre "
-"équipage."
+"Vous vous approchez de l'étal, mais malheureusement, l'étal est complètement"
+" à court de nourriture. Pire encore, la personne qui travaille à l'étal a "
+"été laissée par son vaisseau, elle propose de rejoindre votre équipage."
 
 #: src-en/data/events_sector_aea_old_2.xml:977
 msgid ""
@@ -1283,16 +1287,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:983
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[4]/text"
-msgstr "Visiter Intestins de Bob."
+msgstr "Visitez les Intestins de Bob."
 
 #: src-en/data/events_sector_aea_old_2.xml:985
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
-"Vous vous approchez du stand, mais malheureusement, le stand est "
-"complètement à court de nourriture. Pire encore, la personne qui y travaille"
-" a été laissée derrière par son vaisseau, elle propose de rejoindre votre "
-"équipage."
+"Vous vous approchez de l'étal, mais malheureusement, l'étal est complètement"
+" à court de nourriture. Pire encore, la personne qui travaille à l'étal a "
+"été laissée par son vaisseau, elle propose de rejoindre votre équipage."
 
 #: src-en/data/events_sector_aea_old_2.xml:988
 msgid ""
@@ -1302,16 +1305,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:994
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[5]/text"
-msgstr "Visiter Inflexion."
+msgstr "Visitez Inflection."
 
 #: src-en/data/events_sector_aea_old_2.xml:996
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[5]/event/text"
 msgstr ""
-"Vous vous approchez du stand, mais malheureusement, le stand est "
-"complètement à court de nourriture. Pire encore, la personne qui y travaille"
-" a été laissée derrière par son vaisseau, elle propose de rejoindre votre "
-"équipage."
+"Vous vous approchez de l'étal, mais malheureusement, l'étal est complètement"
+" à court de nourriture. Pire encore, la personne qui travaille à l'étal a "
+"été laissée par son vaisseau, elle propose de rejoindre votre équipage."
 
 #: src-en/data/events_sector_aea_old_2.xml:999
 msgid ""
@@ -1321,16 +1323,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1005
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[6]/text"
-msgstr "Visiter Roche chaude."
+msgstr "Visitez Roc-chaud."
 
 #: src-en/data/events_sector_aea_old_2.xml:1007
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[6]/event/text"
 msgstr ""
-"Vous vous approchez du stand, mais malheureusement, le stand est "
-"complètement à court de nourriture. Pire encore, la personne qui y travaille"
-" a été laissée derrière par son vaisseau, elle propose de rejoindre votre "
-"équipage."
+"Vous vous approchez de l'étal, mais malheureusement, l'étal est complètement"
+" à court de nourriture. Pire encore, la personne qui travaille à l'étal a "
+"été laissée par son vaisseau, elle propose de rejoindre votre équipage."
 
 #: src-en/data/events_sector_aea_old_2.xml:1010
 msgid ""
@@ -1340,16 +1341,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1016
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[7]/text"
-msgstr "Visiter Laissez-nous Manger."
+msgstr "Visitez Laitue Manger."
 
 #: src-en/data/events_sector_aea_old_2.xml:1018
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[7]/event/text"
 msgstr ""
-"Vous vous approchez du stand, mais malheureusement, le stand est "
-"complètement à court de nourriture. Pire encore, la personne qui y travaille"
-" a été laissée derrière par son vaisseau, elle propose de rejoindre votre "
-"équipage."
+"Vous vous approchez de l'étal, mais malheureusement, l'étal est complètement"
+" à court de nourriture. Pire encore, la personne qui travaille à l'étal a "
+"été laissée par son vaisseau, elle propose de rejoindre votre équipage."
 
 #: src-en/data/events_sector_aea_old_2.xml:1021
 msgid ""
@@ -1359,16 +1359,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1027
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[8]/text"
-msgstr "Visiter Aliments Éthérés."
+msgstr "Visitez Aliments Éthérés."
 
 #: src-en/data/events_sector_aea_old_2.xml:1029
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[8]/event/text"
 msgstr ""
-"Vous vous approchez du stand, mais malheureusement, le stand est "
-"complètement à court de nourriture. Pire encore, la personne qui y travaille"
-" a été laissée derrière par son vaisseau, elle propose de rejoindre votre "
-"équipage."
+"Vous vous approchez de l'étal, mais malheureusement, l'étal est complètement"
+" à court de nourriture. Pire encore, la personne qui travaille à l'étal a "
+"été laissée par son vaisseau, elle propose de rejoindre votre équipage."
 
 #: src-en/data/events_sector_aea_old_2.xml:1032
 msgid ""
@@ -1378,16 +1377,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1038
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[9]/text"
-msgstr "Visiter la Casse de Greg."
+msgstr "Visitez la Décharge de Greg."
 
 #: src-en/data/events_sector_aea_old_2.xml:1040
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[9]/event/text"
 msgstr ""
-"Vous vous approchez du stand, mais malheureusement, le stand est "
-"complètement à court de nourriture. Pire encore, la personne qui y travaille"
-" a été laissée derrière par son vaisseau, elle propose de rejoindre votre "
-"équipage."
+"Vous vous approchez de l'étal, mais malheureusement, l'étal est complètement"
+" à court de nourriture. Pire encore, la personne qui travaille à l'étal a "
+"été laissée par son vaisseau, elle propose de rejoindre votre équipage."
 
 #: src-en/data/events_sector_aea_old_2.xml:1043
 msgid ""
@@ -1424,13 +1422,13 @@ msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/text"
 msgstr ""
 "En arrivant à cette balise, vous vous retrouvez face à face avec... vous-"
-"même ? Les données de position sont étranges, mais d'après vos capteurs, "
-"vous regardez une copie exacte de votre vaisseau, signes de vie et tout."
+"même ? Les données de position sont bizarres mais d'après vos capteurs, vous"
+" regardez une copie exacte de votre vaisseau, signes de vie et tout."
 
 #: src-en/data/events_sector_aea_old_2.xml:1074
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[1]/text"
-msgstr "Partir le plus vite possible."
+msgstr "Partez le plus vite possible."
 
 #: src-en/data/events_sector_aea_old_2.xml:1076
 msgid ""
@@ -1452,13 +1450,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1088
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[2]/text"
-msgstr "Tirer sur ce vaisseau."
+msgstr "Tirez sur ce vaisseau."
 
 #: src-en/data/events_sector_aea_old_2.xml:1090
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[2]/event/text"
 msgstr ""
-"Vous avez marqué un coup direct avec vos armes, mais le mystérieux vaisseau "
+"Vous avez réussi un coup direct avec vos armes, mais le mystérieux vaisseau "
 "miroir a tiré en même temps et a riposté tout aussi fort. Exactement aussi "
 "fort, en fait, car vous remarquez que les dégâts sur leur coque "
 "correspondent aux vôtres. Vous décidez qu'il serait peut-être préférable de "
@@ -1479,10 +1477,10 @@ msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[@req=\"UPG_AETHER_SCANNERS\"]/event/text"
 msgstr ""
 "Vos scanners améliorés à l'Éther parviennent à comprendre ce qui se passe : "
-"une sorte d'appareil courbant l'espace dissimulait une cache de stockage en "
-"faisant en sorte que tout chemin y menant revienne à son origine, tout en "
-"fournissant une autre route, beaucoup plus alambiquée, vers l'entrée réelle."
-" Grâce à cette nouvelle connaissance, vous sécurisez son contenu."
+"une sorte d'appareil de distorsion spatiale dissimulait un cache de stockage"
+" en faisant en sorte que tout chemin y menant boucle vers son origine, tout "
+"en fournissant une autre route, beaucoup plus complexe, vers l'entrée "
+"réelle. Grâce à cette nouvelle connaissance, vous sécurisez son contenu."
 
 #: src-en/data/events_sector_aea_old_2.xml:1104
 msgid ""
@@ -1493,21 +1491,21 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/text"
 msgstr ""
-"La balise se trouve au milieu d'un champ d'astéroïdes. À proximité, vous "
-"voyez un auto-vaisseau Lylmik coincé entre deux rochers. L'auto-vaisseau "
-"semble hors ligne."
+"La balise se trouve dans un champ d'astéroïdes, à proximité vous voyez un "
+"auto-vaisseau Lylmik coincé entre deux rochers. L'auto-vaisseau semble hors "
+"ligne."
 
 #: src-en/data/events_sector_aea_old_2.xml:1115
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[1]/text"
-msgstr "Faire exploser le vaisseau."
+msgstr "Faites exploser le vaisseau."
 
 #: src-en/data/events_sector_aea_old_2.xml:1117
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[1]/event/text"
 msgstr ""
-"Vous faites un trou dans le vaisseau avant de le démanteler pour récupérer "
-"tout ce qui est utile."
+"Vous faites un trou dans le vaisseau avant de le démanteler pour tout ce qui"
+" est utile."
 
 #: src-en/data/events_sector_aea_old_2.xml:1120
 msgid ""
@@ -1517,13 +1515,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1126
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[2]/text"
-msgstr "Tenter d'allumer l'auto-vaisseau."
+msgstr "Tentez d'allumer l'auto-vaisseau."
 
 #: src-en/data/events_sector_aea_old_2.xml:1128
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[2]/event/text"
 msgstr ""
-"Le vaisseau s'allume et tente de se dégager. Il commence à vouloir pulvériser les rochers entre lesquels il est coincé, envoyant des éclats partout. Vous retirez votre vaisseau mais ne pouvez éviter quelques légers dégâts.\n"
+"Le vaisseau s'allume et tente de se dégager, le vaisseau commence à essayer de faire exploser les rochers entre lesquels il est coincé, envoyant des éclats partout, vous retirez votre vaisseau mais êtes incapable d'éviter des dégâts légers.\n"
 "Au lieu de se dégager, l'auto-vaisseau parvient à perdre un gros morceau de roche qui détruit le processeur central de l'auto-vaisseau. Vous démanteler les restes."
 
 #: src-en/data/events_sector_aea_old_2.xml:1133
@@ -1557,19 +1555,19 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/text"
 msgstr ""
-"Vous arrivez et trouvez un petit chantier de réparation automatique. Vous "
+"Vous arrivez et trouvez un petit chantier de réparation automatique, vous "
 "pourriez probablement essayer de vous faufiler et espérer qu'il vous répare "
-"gratuitement. Il semble aussi que vous puissiez acheter des réparations."
+"gratuitement, il semble également que vous puissiez acheter des réparations."
 
 #: src-en/data/events_sector_aea_old_2.xml:1159
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[1]/text"
-msgstr "Faufilez-vous dans la file."
+msgstr "Se faufiler dans la file d'attente."
 
 #: src-en/data/events_sector_aea_old_2.xml:1163
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[2]/text"
-msgstr "Acheter 10 réparations de coque pour 20 ferraille."
+msgstr "Achetez 10 réparations de coque pour 20 ferraille."
 
 #: src-en/data/events_sector_aea_old_2.xml:1165
 msgid ""
@@ -1582,7 +1580,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1173
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[3]/text"
-msgstr "Évitez le chantier de réparation."
+msgstr "Éviter le chantier de réparation."
 
 #: src-en/data/events_sector_aea_old_2.xml:1175
 msgid ""
@@ -1603,8 +1601,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[1]/text"
 msgstr ""
-"Au moment où vous pensez obtenir une réparation gratuite, un vaisseau sort "
-"de la file derrière vous et active ses armes."
+"Juste au moment où vous pensez obtenir une réparation gratuite, un vaisseau "
+"sort de la file derrière vous et active ses armes."
 
 #: src-en/data/events_sector_aea_old_2.xml:1192
 msgid ""
@@ -1614,7 +1612,8 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1197
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[2]/text"
-msgstr "Vous arrivez en tête de file et recevez une réparation gratuite."
+msgstr ""
+"Vous atteignez le début de la file et recevez une réparation gratuite."
 
 #: src-en/data/events_sector_aea_old_2.xml:1200
 msgid ""
@@ -1625,8 +1624,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[2]/choice/event/text"
 msgstr ""
-"Alors que vous pensez vous en tirer, vous êtes intercepté par un vaisseau "
-"mécontent venant de l'autre bout de la file."
+"Juste au moment où vous pensez vous en tirer, vous êtes intercepté par un "
+"vaisseau mécontent de l'autre bout de la file."
 
 #: src-en/data/events_sector_aea_old_2.xml:1205
 msgid ""
@@ -1636,7 +1635,8 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1212
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[3]/text"
-msgstr "Vous arrivez en tête de file et recevez une réparation gratuite."
+msgstr ""
+"Vous atteignez le début de la file et recevez une réparation gratuite."
 
 #: src-en/data/events_sector_aea_old_2.xml:1215
 msgid ""
@@ -1647,8 +1647,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[3]/choice/event/text"
 msgstr ""
-"Alors que vous pensez vous en tirer, vous êtes intercepté par un vaisseau "
-"mécontent venant de l'autre bout de la file."
+"Juste au moment où vous pensez vous en tirer, vous êtes intercepté par un "
+"vaisseau mécontent de l'autre bout de la file."
 
 #: src-en/data/events_sector_aea_old_2.xml:1220
 msgid ""
@@ -1659,18 +1659,18 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[3]/choice/event/choice/event/text"
 msgstr ""
-"Cependant, le vaisseau continue de passer devant vous, il semble qu'il ne "
-"vous interceptait pas après tout."
+"Cependant, le vaisseau continue juste à vous dépasser, il semble qu'ils ne "
+"vous interceptaient pas après tout."
 
 #: src-en/data/events_sector_aea_old_2.xml:1248
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/text"
 msgstr ""
-"Nos capteurs repèrent la signature d'un auto-vaisseau Lylmik. Il semble "
-"avoir accéléré dans la même direction pendant très longtemps et a accumulé "
-"une vitesse formidable en conséquence. Vous ne savez pas s'il s'agit d'une "
-"sorte d'expérience concernant la viabilité du voyage subluminique ou "
-"simplement d'un dysfonctionnement, mais un problème beaucoup plus pressant "
-"est que votre vaisseau vient de sortir de l'hyperespace juste sur sa "
+"Nos capteurs détectent une signature d'auto-vaisseau Lylmik. Il semble avoir"
+" accéléré dans la même direction pendant très longtemps et accumulé une "
+"vitesse formidable en conséquence. Vous ne savez pas s'il s'agit d'une sorte"
+" d'expérience concernant la viabilité du voyage subluminique ou simplement "
+"d'un dysfonctionnement, mais un problème beaucoup plus pressant est que "
+"votre vaisseau vient de sortir de l'hyperespace directement sur sa "
 "trajectoire."
 
 #: src-en/data/events_sector_aea_old_2.xml:1250
@@ -1682,14 +1682,13 @@ msgstr "Préparez-vous à l'impact !"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[1]/event/text"
 msgstr ""
-"De tous les vaisseaux à heurter à grande vitesse, un de fabrication Lylmik "
-"était probablement le pire des scénarios possibles, compte tenu de leur "
-"amour pour le blindage lourd. La masse pure de l'auto-vaisseau, "
-"deceptivellement petit, envoie votre vaisseau déraper à travers l'espace "
-"alors que vous perdez connaissance. Une fois que tout le monde reprend ses "
-"esprits, le rapport de dégâts révèle de nombreux trous béants dans la coque "
-"dus à l'impact. C'est un miracle que personne ne soit tombé à travers l'un "
-"d'eux."
+"De tous les vaisseaux avec lesquels entrer en collision à grande vitesse, un"
+" fabriqué par les Lylmiks était probablement le pire des scénarios, avec "
+"leur amour pour le blindage lourd. La masse pure de l'auto-vaisseau, "
+"trompeusement petit, envoie votre vaisseau dévaler l'espace alors que vous "
+"perdez connaissance. Une fois que tout le monde reprend ses esprits, le "
+"rapport de dégâts révèle de nombreux trous béants dans la coque suite à "
+"l'impact. C'est un miracle que personne ne soit tombé à travers l'un d'eux."
 
 #: src-en/data/events_sector_aea_old_2.xml:1257
 msgid ""
@@ -1699,15 +1698,15 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1263
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"engines\"]/text"
-msgstr "(Moteurs améliorés) Manœuvres d'évitement !"
+msgstr "(Moteurs améliorés) Manœuvres d'évasion !"
 
 #: src-en/data/events_sector_aea_old_2.xml:1265
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"engines\"]/event/text"
 msgstr ""
-"Heureusement, les propulseurs sont suffisamment puissants pour éloigner "
-"votre vaisseau avant l'impact. Tout l'équipage regarde le démon de la "
-"vitesse passer avec soulagement."
+"Heureusement, les propulseurs sont assez puissants pour écarter votre "
+"vaisseau avant l'impact. Tout l'équipage observe le démon de la vitesse "
+"passer avec soulagement."
 
 #: src-en/data/events_sector_aea_old_2.xml:1267
 msgid ""
@@ -1717,17 +1716,17 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1273
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"weapons\"]/text"
-msgstr "(Armes améliorées) Le faire arrêter, d'une manière ou d'une autre."
+msgstr "(Armes améliorées) Arrêtez-le, d'une manière ou d'une autre."
 
 #: src-en/data/events_sector_aea_old_2.xml:1275
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"weapons\"]/event/text"
 msgstr ""
-"Les vaisseaux Lylmik sont connus pour leur blindage très efficace, mais "
-"chaque vaisseau a son point faible. Quelques tirs bien ajustés parviennent à"
-" désactiver certains propulseurs, désalignant l'auto-vaisseau, et le barrage"
-" subséquent de vos armes convertit le vaisseau hors de contrôle en un nuage "
-"de ferraille, que vous récupérez."
+"Les vaisseaux des Lylmiks sont connus pour leur blindage très efficace, mais"
+" chaque vaisseau a son point faible. Quelques tirs bien ajustés parviennent "
+"à abattre certains propulseurs, désalignant l'auto-vaisseau, et le barrage "
+"ultérieur de vos armes convertit le vaisseau hors de contrôle en un nuage de"
+" ferraille, que vous récoltez."
 
 #: src-en/data/events_sector_aea_old_2.xml:1278
 msgid ""
@@ -1737,7 +1736,8 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_2.xml:1284
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"shields\"]/text"
-msgstr "(Boucliers améliorés) Rediriger toute l'énergie vers les boucliers !"
+msgstr ""
+"(Boucliers améliorés) Redirigez toute la puissance vers les boucliers !"
 
 #: src-en/data/events_sector_aea_old_2.xml:1286
 msgid ""
@@ -1762,29 +1762,28 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[1]"
 msgstr ""
-"Un grand vaisseau vous approche, il semble qu'ils soient intéressés à mettre"
-" la main sur toute nouvelle technologie que vous pourriez avoir sur votre "
-"vaisseau."
+"Un grand vaisseau vous approche, il semble qu'ils soient intéressés par "
+"toute nouvelle technologie que vous pourriez avoir à bord de votre vaisseau."
 
 #: src-en/data/events_sector_aea_old_2.xml:1334
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[2]"
 msgstr ""
-"Il est clair que le vaisseau qui se dirige vers vous pour attaquer n'a "
-"survécu si longtemps qu'en étant incroyablement dangereux."
+"Il est clair que le vaisseau qui s'apprête à vous attaquer n'a survécu aussi"
+" longtemps qu'en étant incroyablement dangereux."
 
 #: src-en/data/events_sector_aea_old_2.xml:1335
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[3]"
 msgstr ""
-"Le seul moyen de survivre piégé dans cette section du Multivers est de "
-"prendre des ressources aux autres, et un survivant s'approche de vous "
+"La seule façon de survivre piégé dans cette section du Multivers est de "
+"prendre les ressources des autres, et il y a un survivant qui vous approche "
 "maintenant."
 
 #: src-en/data/events_sector_aea_old_2.xml:1336
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[4]"
 msgstr ""
-"Bien que contre le suicide, les Lylmiks ne font rien pour empêcher les "
-"citoyens de leur royaume de s'entretuer. Il se trouve qu'un citoyen se "
-"déplace en position d'attaque."
+"Bien qu'opposés à se suicider, les Lylmik ne font rien pour empêcher les "
+"citoyens de leur royaume de s'entretuer. Il se trouve qu'un citoyen se met "
+"en position d'attaque."

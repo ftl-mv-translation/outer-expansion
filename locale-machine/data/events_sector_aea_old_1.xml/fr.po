@@ -9,26 +9,26 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/text"
 msgstr ""
-"Vous vous relevez du sol, étourdi. Les caméras du vaisseau montrent la "
+"Vous vous relevez du sol, hébété. Les caméras du vaisseau montrent la "
 "plupart des autres membres d'équipage faire de même, se réveillant de leur "
-"torpeur. Vous vous souvenez du conflit dans lequel vous étiez avec cet "
-"étrange vaisseau, mais vous constatez que vous n'êtes plus attaqué. De plus,"
-" vous êtes contacté par un contact inconnu."
+"sommeil. Vous vous souvenez du conflit dans lequel vous étiez juste avec cet"
+" étrange vaisseau, mais vous constatez que vous n'êtes plus attaqué. De "
+"plus, vous êtes hélé par un contact inconnu."
 
 #: src-en/data/events_sector_aea_old_1.xml:27
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and not(@lvl)]/text"
-msgstr "Répondre au contact."
+msgstr "Répondre à l'appel."
 
 #: src-en/data/events_sector_aea_old_1.xml:29
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Alors que vous vous apprêtez à répondre au contact, vous réalisez que l'Ancien Alien qui hibernait sur votre vaisseau a disparu.\n"
+"Alors que vous vous apprêtez à répondre à l'appel, vous réalisez que l'Ancien Alien qui hibernait sur votre vaisseau a disparu.\n"
 "\n"
-"Une étrange espèce apparaît à l'écran. « Bienvenue dans l'Étendue. Malheureusement, vous êtes tombé sur quelque chose que vous n'étiez pas censé voir, nous vous avons donc amené ici, pour y être maintenu en exil pour le reste de votre vie naturelle. »"
+"Une étrange espèce apparaît à l'écran. \"Bienvenue dans l'Étendue. Malheureusement, vous êtes tombé sur quelque chose que vous n'étiez pas censé voir, nous vous avons donc amené ici, pour y être maintenu en exil pour le reste de votre vie naturelle.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:34
 msgid ""
@@ -41,8 +41,8 @@ msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and not(@lvl)]/event/choice/event/text"
 msgstr ""
-"« Je suppose qu'il n'y a pas de mal à l'expliquer. Voulez-vous entendre la "
-"version courte, ou l'explication plus longue de votre présence ici ? »"
+"\"Je suppose qu'il n'y a pas de mal à l'expliquer. Voulez-vous entendre la "
+"version courte, ou l'explication plus longue de votre présence ici ?\""
 
 #: src-en/data/events_sector_aea_old_1.xml:38
 msgid ""
@@ -60,17 +60,17 @@ msgstr "La version courte."
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and @lvl=\"0\"]/text"
-msgstr "Répondre au contact."
+msgstr "Répondre à l'appel."
 
 #: src-en/data/events_sector_aea_old_1.xml:52
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Une étrange espèce apparaît à l'écran. « Bienvenue dans l'Étendue. "
+"Une étrange espèce apparaît à l'écran. \"Bienvenue dans l'Étendue. "
 "Malheureusement, vous êtes tombé sur quelque chose que vous n'étiez pas "
 "censé voir, nous vous avons donc amené ici, pour y être maintenu en exil "
-"pour le reste de votre vie naturelle. »"
+"pour le reste de votre vie naturelle.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:54
 msgid ""
@@ -83,8 +83,8 @@ msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
-"« Je suppose qu'il n'y a pas de mal à l'expliquer. Voulez-vous entendre la "
-"version courte, ou l'explication plus longue de votre présence ici ? »"
+"\"Je suppose qu'il n'y a pas de mal à l'expliquer. Voulez-vous entendre la "
+"version courte, ou l'explication plus longue de votre présence ici ?\""
 
 #: src-en/data/events_sector_aea_old_1.xml:58
 msgid ""
@@ -102,13 +102,13 @@ msgstr "La version courte."
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/text"
 msgstr ""
-"« Il y a longtemps, avant votre Fédération, ou la Rébellion, il n'y avait "
+"\" Il y a longtemps, avant votre Fédération, ou la Rébellion, il n'y avait "
 "que nous, les Lylmiks. Nous nous sommes étendus à travers le multivers, "
 "affirmant notre domination sur les autres races, mais avec le temps, notre "
 "contrôle est devenu moins efficace et nous avons commencé à perdre. Nous "
 "avons commencé à perdre le contrôle de certaines parties du multivers, les "
 "races que nous avions sous notre coupe depuis si longtemps ont commencé à "
-"s'unir et à nous attaquer. »"
+"s'unir et à nous attaquer. \""
 
 #: src-en/data/events_sector_aea_old_1.xml:74
 msgid ""
@@ -119,13 +119,13 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/text"
 msgstr ""
-"« En même temps, nous avons développé la technologie pour nous rendre "
+"\"Au même moment, nous avons développé la technologie pour nous rendre "
 "pratiquement immortels, nous avons cessé de nous reproduire et avons "
 "commencé à nous retirer vers notre noyau. Une scission s'est produite au "
 "sein de notre civilisation : une moitié voulait relâcher notre contrôle sur "
 "le multivers et se retirer dans nos secteurs centraux pour exister "
 "paisiblement loin du reste du multivers. L'autre côté voulait le contraire, "
-"il voulait redoubler d'efforts pour contrôler le multivers. »"
+"ils voulaient redoubler nos efforts pour contrôler le multivers.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:78
 msgid ""
@@ -136,12 +136,12 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/choice/event/text"
 msgstr ""
-"« Le conflit fut long et prolongé, similaire à votre propre conflit avec la "
-"Rébellion. Bien que nous nous soyons rendus presque immortels, les deux "
-"camps ont pris le temps de développer des armes capables de s'arracher "
-"mutuellement du multivers. En conséquence, nos effectifs ont été épuisés "
-"tout au long du conflit, ce n'est qu'une fois que les deux camps ont été "
-"réduits à quelques milliers que le conflit a finalement pris fin. »"
+"\"Le conflit fut long et laborieux, similaire à votre propre conflit avec la"
+" rébellion. Bien que nous nous soyons rendus presque immortels, les deux "
+"parties prirent le temps de développer des armes capables de s'arracher "
+"mutuellement du multivers. En conséquence, nos effectifs furent épuisés tout"
+" au long du conflit, ce n'est qu'une fois que les deux parties furent "
+"réduites à des milliers que le conflit prit fin.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:82
 msgid ""
@@ -152,13 +152,13 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
-"« Le camp qui a gagné fut, comme vous l'avez deviné, celui qui voulait se "
-"retirer du multivers. Pendant le conflit, des avancées majeures en matière "
-"d'innovation ont été développées autour du voyage multiversel. L'une d'elles"
+"\"La partie qui a gagné fut, comme vous l'avez peut-être deviné, celle qui "
+"voulait se retirer du multivers. Pendant le conflit, des avancées majeures "
+"en innovation furent développées autour du voyage multiversel. L'une d'elles"
 " fut la capacité de mettre en quarantaine certaines réalités. Il fut décidé "
-"par le conseil Lylmik, les dirigeants des Lylmiks pendant la guerre, que "
-"nous devions nous mettre en quarantaine, beaucoup de membres de notre espèce"
-" voulaient juste en finir avec le multivers. »"
+"par le conseil Lylmik, les dirigeants des Lylmik pendant la guerre, que nous"
+" devions nous mettre en quarantaine, beaucoup de notre espèce voulaient "
+"juste en finir avec le multivers.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:86
 msgid ""
@@ -169,28 +169,28 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"« Et c'est ainsi que nous nous sommes exclus du multivers. Nous savions "
+"\"Et c'est ainsi que nous nous sommes exclus du multivers. Nous savions "
 "cependant que notre solution n'était pas parfaite, des gens pourraient "
 "découvrir les vestiges de notre empire, tout comme vous. Nous avons mis en "
 "place des mesures de sécurité afin de pouvoir non seulement éliminer ceux "
-"qui découvrent nos secrets, mais aussi les contenir ici pour les surveiller."
-" »"
+"qui découvrent nos secrets, mais aussi les contenir ici pour les "
+"surveiller.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:90
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "Alors, c'est quoi cet endroit ?"
+msgstr "Alors, c'est quoi cet endroit."
 
 #: src-en/data/events_sector_aea_old_1.xml:104
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_SHORT\"]/text"
 msgstr ""
-"« Nous, les Lylmiks, étions une race qui existait il y a longtemps. Nous "
+"\"Nous, les Lylmiks, étions une race qui existait il y a longtemps. Nous "
 "avons régné sur le multivers pendant un temps, mais à mesure que d'autres "
 "races grandissaient, nous avons lentement perdu le contrôle. Finalement, "
-"nous nous sommes scindés à cause de cette perte de contrôle, et après une "
+"nous nous sommes divisés à cause de cette perte de contrôle, et après une "
 "longue guerre civile, nous nous sommes mis en quarantaine loin du reste du "
-"multivers. »"
+"multivers.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:106
 msgid ""
@@ -201,22 +201,22 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_SHORT\"]/choice/event/text"
 msgstr ""
-"« Une partie de cette quarantaine consistait à s'assurer que ceux qui "
+"\"Une partie de cette quarantaine consistait à s'assurer que ceux qui "
 "pourraient nous découvrir soient éliminés du multivers, ce qui signifie "
-"vous. »"
+"vous.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:110
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_SHORT\"]/choice/event/choice/text"
-msgstr "Alors, c'est quoi cet endroit ?"
+msgstr "Alors, c'est quoi cet endroit."
 
 #: src-en/data/events_sector_aea_old_1.xml:118
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_AFTER\"]/text"
 msgstr ""
-"« C'est ici que nous emmenons ceux qui tombent sur nos secrets, comme vous. En tant que produit de notre quarantaine, vous serez piégé ici pour toujours, le seul moyen de partir est de passer par le conseil et de le convaincre de vous laisser partir. Mais bonne chance avec ça, les coordonnées des Mondes centraux où vit le conseil ne sont connues que des plus élites. La seule personne ici qui possède ces coordonnées est le *baron*.\"\n"
+"\"C'est ici que nous amenons ceux qui tombent sur nos secrets, comme vous. En tant que produit de notre quarantaine, vous serez piégé ici pour toujours, la seule façon de partir est de passer par le conseil et de les convaincre de vous laisser partir. Mais bonne chance avec ça, les coordonnées des mondes centraux où vit le conseil ne sont connues que des plus élites. La seule personne ici qui possède ces coordonnées est le *baron*.\"\n"
 "\n"
-"« Quoi qu'il en soit, je dois retourner à mon travail. Si vous avez besoin d'autre chose, contactez le garde. »\n"
+"\"Quoi qu'il en soit, je dois reprendre mon travail. Si vous avez besoin d'autre chose, contactez le garde.\"\n"
 "\t."
 
 #: src-en/data/events_sector_aea_old_1.xml:123
@@ -258,9 +258,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/text"
 msgstr ""
-"Normalement, un vaisseau de votre calibre serait inattendu, mais le garde "
-"ici est clairement peu impressionné. « Si vous pensez qu'essayer de me "
-"détruire vous mènera ailleurs qu'à la mort, vous vous trompez. »"
+"Normalement, un vaisseau de votre calibre serait inattendu, cependant le "
+"garde ici n'est clairement pas impressionné. \"Si vous pensez qu'essayer de "
+"me détruire vous mènera ailleurs qu'à la mort, vous vous trompez.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:156
 msgid ""
@@ -373,7 +373,7 @@ msgid "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_1_BARON\"]/text"
 msgstr ""
 "Vous êtes arrivé à la balise pour découvrir un grand vaisseau extravagant, "
 "ce doit être le baron. Si vous détruisez le vaisseau, vous devriez pouvoir "
-"récupérer les coordonnées des Mondes centraux Lylmik."
+"récupérer les coordonnées des mondes centraux Lylmik."
 
 #: src-en/data/events_sector_aea_old_1.xml:253
 msgid ""
@@ -406,15 +406,15 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_DESTROYED\"]/choice/event/text"
 msgstr ""
-"En fouillant l'épave à la recherche des coordonnées des Mondes centraux "
-"Lylmik, vous trouvez une caisse de stockage intacte. Un peu plus tard, vous "
-"trouvez également les coordonnées."
+"Alors que vous fouillez l'épave à la recherche des coordonnées des mondes "
+"centraux Lylmik, vous trouvez une caisse de stockage intacte. Un peu plus "
+"tard, vous trouvez également les coordonnées."
 
 #: src-en/data/events_sector_aea_old_1.xml:276
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_DESTROYED\"]/choice/event/choice[1]/text"
 msgstr ""
-"Utiliser les coordonnées immédiatement [ATTENTION : Ne pas utiliser si votre"
+"Utilisez les coordonnées immédiatement [ATTENTION : Ne pas utiliser si votre"
 " équipage est à bord du vaisseau du baron]."
 
 #: src-en/data/events_sector_aea_old_1.xml:283
@@ -430,7 +430,7 @@ msgstr "Utiliser les coordonnées maintenant ?"
 #: src-en/data/events_sector_aea_old_1.xml:295
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_JUMP\"]/choice[1]/text"
-msgstr "Utiliser les coordonnées immédiatement."
+msgstr "Utilisez les coordonnées immédiatement."
 
 #: src-en/data/events_sector_aea_old_1.xml:302
 msgid ""
@@ -440,14 +440,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_1.xml:308
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_JUMP\"]/choice[3]/text"
-msgstr "Nous reviendrons plus tard."
+msgstr "Nous reviendrons ici plus tard."
 
 #: src-en/data/events_sector_aea_old_1.xml:327
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/text"
 msgstr ""
-"Étonnamment, un marchand Lylmik semble être attaqué par une élite lourdement"
-" armée. Si vous voulez commercer avec eux, vous devrez vous occuper de "
+"Étonnamment, un marchand Lylmik semble être attaqué par une élite fortement "
+"armée. Si vous voulez commercer avec eux, vous devrez vous occuper de "
 "l'élite."
 
 #: src-en/data/events_sector_aea_old_1.xml:330
@@ -489,8 +489,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/text"
 msgstr ""
-"Vous arrivez à la balise pour découvrir un vaisseau Lylmik en orbite. Il "
-"semble y avoir une petite navette attachée sur le côté du vaisseau."
+"Vous arrivez à la balise pour découvrir un vaisseau Lylmik en orbite, il "
+"semble y avoir une petite navette attachée au flanc du vaisseau."
 
 #: src-en/data/events_sector_aea_old_1.xml:382
 msgid ""
@@ -501,13 +501,13 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[1]/event/text"
 msgstr ""
-"Un Lylmik apparaît sur votre écran : « Capitaine, je suppose que vous ne "
-"voulez pas d'un nouveau membre d'équipage. Nous avons eu un événement assez "
-"incroyable à bord : cette personne a essayé de s'emparer de TOUT notre "
-"vaisseau toute seule, complètement par ses propres moyens. Normalement, nous"
-" l'aurions tuée immédiatement, mais l'audace pure d'avoir tenté une telle "
-"chose lui a sauvé la vie. Quoi qu'il en soit, le prisonnier nous a un peu "
-"ennuyés, le voulez-vous ? »"
+"Un Lylmik apparaît sur votre écran \"Capitaine, je ne suppose pas que vous "
+"voudriez un nouveau membre d'équipage. Nous avons eu un événement assez "
+"incroyable à bord, cette personne a essayé de prendre le contrôle de notre "
+"VAISSEAU ENTIER par elle-même, complètement seule. Normalement, nous les "
+"aurions tués immédiatement, cependant la simple audace de tenter quelque "
+"chose comme ça leur a sauvé la vie. Quoi qu'il en soit, nous nous sommes un "
+"peu lassés du prisonnier, le voulez-vous ?\""
 
 #: src-en/data/events_sector_aea_old_1.xml:386
 msgid ""
@@ -518,9 +518,9 @@ msgstr "Bien sûr ?"
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"« Fantastique, nous les enverrons. » Un instant plus tard, une navette est "
-"téléguidée vers votre vaisseau, et à bord se trouve un membre d'équipage "
-"d'élite."
+"\"Fantastique, nous allons les envoyer.\" Un instant plus tard, une navette "
+"est pilotée à distance vers votre vaisseau, et à bord se trouve un membre "
+"d'équipage d'élite."
 
 #: src-en/data/events_sector_aea_old_1.xml:391
 msgid ""
@@ -540,7 +540,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_1.xml:405
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[2]/event/text"
-msgstr "Le vaisseau Lylmik vous ignore."
+msgstr "Le vaisseau lylmik vous ignore."
 
 #: src-en/data/events_sector_aea_old_1.xml:407
 msgid ""
@@ -556,8 +556,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/text"
 msgstr ""
-"Vous arrivez à la balise pour découvrir une station marchande Lylmik non marquée. À mesure que vous vous approchez, un message est diffusé par la station. « Bienvenue au Marché, Capitaine, un club exclusif pour les vaisseaux riches et dangereux. Si vous ne pouvez pas prouver votre puissance, vous feriez mieux de rebrousser chemin. »\n"
-"Vous recevez ensuite une fenêtre contextuelle vous indiquant que l'adhésion est SEULEMENT de 29.99~.\n"
+"Vous arrivez à la balise pour découvrir une station marchande Lylmik non marquée. En vous rapprochant, un message est diffusé par la station. \"Bienvenue au Marché, Capitaine, un club exclusif pour les vaisseaux riches et dangereux, si vous ne pouvez pas prouver votre puissance, vous feriez mieux de faire demi-tour.\"\n"
+"Vous recevez alors une fenêtre contextuelle vous indiquant que l'adhésion est SEULEMENT de 29,99~.\n"
 "\t."
 
 #: src-en/data/events_sector_aea_old_1.xml:424
@@ -579,7 +579,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[2]/event/text"
 msgstr ""
-"C'est clairement une arnaque, se débarrasser d'eux sera un service rendu au "
+"C'est clairement une arnaque, s'en débarrasser sera un service pour le "
 "secteur."
 
 #: src-en/data/events_sector_aea_old_1.xml:439
@@ -595,7 +595,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_1.xml:447
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[3]/event/text"
-msgstr "Vous ne comptez pas vous mêler de tout cela."
+msgstr "Vous n'allez pas vous mêler de tout cela."
 
 #: src-en/data/events_sector_aea_old_1.xml:449
 msgid ""
@@ -611,8 +611,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CRATE_ITEM\"]/text"
 msgstr ""
-"Vous êtes arrivé à une balise relativement vide, mais vos capteurs détectent"
-" une grande caisse de stockage flottant en orbite près de la balise."
+"Vous êtes arrivé à une balise relativement vide, cependant vos capteurs "
+"détectent une grande caisse de stockage flottant en orbite près de la "
+"balise."
 
 #: src-en/data/events_sector_aea_old_1.xml:463
 msgid ""
@@ -622,12 +623,12 @@ msgstr "Examiner la caisse."
 #: src-en/data/events_sector_aea_old_1.xml:467
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CRATE_ITEM\"]/choice[2]/text"
-msgstr "Ignorer la caisse."
+msgstr "Ignorez la caisse."
 
 #: src-en/data/events_sector_aea_old_1.xml:469
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CRATE_ITEM\"]/choice[2]/event/text"
-msgstr "Vous préparez votre générateur de saut pour le prochain saut."
+msgstr "Vous préparez votre générateur SPL pour le prochain saut."
 
 #: src-en/data/events_sector_aea_old_1.xml:471
 msgid ""
@@ -643,8 +644,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_CRATE_LIST\"]/event[1]/text"
 msgstr ""
-"Vous fixez la caisse dans votre soute avant de l'ouvrir. Vous découvrez que "
-"la caisse contenait une grande arme Lylmik."
+"Vous sécurisez la caisse dans votre soute avant de l'ouvrir, vous découvrez "
+"qu'elle contenait une grande arme Lylmik."
 
 #: src-en/data/events_sector_aea_old_1.xml:487
 msgid ""
@@ -655,9 +656,9 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_CRATE_LIST\"]/event[2]/text"
 msgstr ""
-"Vous fixez la caisse dans votre soute avant de l'ouvrir. Vous découvrez que "
-"la caisse contenait un Lylmik en hibernation. En se réveillant à votre "
-"intrusion, il propose de rejoindre votre équipage."
+"Vous sécurisez la caisse dans votre soute avant de l'ouvrir, vous découvrez "
+"qu'elle contenait un Lylmik en hibernation. En se réveillant de votre "
+"intrusion, il vous propose de rejoindre votre équipage."
 
 #: src-en/data/events_sector_aea_old_1.xml:495
 msgid ""
@@ -668,8 +669,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_CRATE_LIST\"]/event[3]/text"
 msgstr ""
-"Vous fixez la caisse dans votre soute avant de l'ouvrir. Vous découvrez que "
-"la caisse contenait un drone impeccable."
+"Vous sécurisez la caisse dans votre soute avant de l'ouvrir, vous découvrez "
+"qu'elle contenait un drone impeccable."
 
 #: src-en/data/events_sector_aea_old_1.xml:503
 msgid ""
@@ -704,7 +705,7 @@ msgstr "Combattre les Lylmiks."
 #: src-en/data/events_sector_aea_old_1.xml:564
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE\"]/choice[1]/event/text"
-msgstr "Vous mettez vos armes sous tension et combattez le vaisseau Lylmik."
+msgstr "Vous activez vos armes et combattez le vaisseau Lylmik."
 
 #: src-en/data/events_sector_aea_old_1.xml:567
 msgid ""
@@ -736,23 +737,23 @@ msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE\"]/text[1]"
 msgstr ""
 "Le vaisseau Lylmik à cette balise n'a pas encore remarqué votre présence. Si"
-" vous le souhaitez, vous pourriez vous éloigner en toute sécurité, ou "
-"attaquer maintenant et les prendre par surprise."
+" vous le vouliez, vous pourriez vous éloigner en toute sécurité, ou attaquer"
+" maintenant et les prendre par surprise."
 
 #: src-en/data/events_sector_aea_old_1.xml:589
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE\"]/text[2]"
 msgstr ""
-"« Vous avez de la chance que je ne sois pas du genre à tuer ceux que je "
+"\"Vous avez de la chance que je ne sois pas du genre à tuer ceux que je "
 "rencontre au hasard, vous devriez partir avant que ce ne soit plus un "
-"hasard. »"
+"hasard.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:590
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE\"]/text[3]"
 msgstr ""
-"Vous avez surpris un vaisseau Lylmik inconscient de votre présence. Ils "
-"vaudront pas mal de ferraille si vous pouvez les détruire."
+"Vous avez surpris un vaisseau Lylmik inconscient de votre présence, ils "
+"vaudront pas mal de ferraille si vous pouvez les tuer."
 
 #: src-en/data/events_sector_aea_old_1.xml:598
 msgid ""
@@ -762,7 +763,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_1.xml:600
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE_MU\"]/choice[1]/event/text"
-msgstr "Vous mettez vos armes sous tension et combattez le vaisseau d'élite."
+msgstr "Vous activez vos armes et combattez le vaisseau d'élite."
 
 #: src-en/data/events_sector_aea_old_1.xml:603
 msgid ""
@@ -794,28 +795,28 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE_MU\"]/text[1]"
 msgstr ""
-"Un autre détenu est situé à cette balise, il ne semble pas intéressé à vous "
-"attaquer."
+"Un autre détenu est situé à cette balise, ils ne semblent pas intéressés à "
+"vous attaquer."
 
 #: src-en/data/events_sector_aea_old_1.xml:625
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE_MU\"]/text[2]"
 msgstr ""
-"« Capitaine, nous ne voulons pas d'ennuis, mais si vous nous y forcez, nous "
-"ne nous retiendrons pas. »"
+"\"Capitaine, nous ne voulons pas de problèmes, mais si vous nous forcez, "
+"nous ne nous retiendrons pas.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:626
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE_MU\"]/text[3]"
 msgstr ""
-"Vous avez surpris un autre vaisseau piégé dans l'espace Lylmik et il ne vous"
-" a pas encore remarqué."
+"Vous avez surpris un autre vaisseau piégé dans l'espace Lylmik et ils ne "
+"vous ont pas encore remarqué."
 
 #: src-en/data/events_sector_aea_old_1.xml:630
 msgid "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/text"
 msgstr ""
 "Vous êtes arrivé à la balise pour découvrir une station spatiale civile "
-"entière en orbite autour de cette balise. Vous vous demandez comment les "
+"entière en orbite autour de cette balise, vous vous demandez comment les "
 "Lylmiks ont même réussi à l'amener ici."
 
 #: src-en/data/events_sector_aea_old_1.xml:632
@@ -827,21 +828,21 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/text"
 msgstr ""
-"La station répond rapidement : « S'il vous plaît, vous devez nous aider. Il "
-"y a un maniaque qui court partout et qui essaie de nous détruire, il sera de"
-" retour à tout moment. »"
+"La station répond rapidement : \"S'il vous plaît. vous devez nous aider. Il "
+"y a un fou qui court partout et qui essaie de nous détruire, il reviendra à "
+"tout moment.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:636
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/choice[1]/text"
-msgstr "Les aider à faire face à la menace."
+msgstr "Aidez-les à faire face à la menace."
 
 #: src-en/data/events_sector_aea_old_1.xml:638
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"Il ne faut qu'un court instant avant que le vaisseau n'apparaisse. Vous vous"
-" déplacez pour bloquer sa route vers la station."
+"Il ne faut qu'un court instant avant que le vaisseau n'apparaisse, vous vous"
+" interposez pour bloquer sa route vers la station."
 
 #: src-en/data/events_sector_aea_old_1.xml:641
 msgid ""
@@ -851,7 +852,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_1.xml:647
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/choice[2]/text"
-msgstr "Partir avant que ce « maniaque » n'arrive."
+msgstr "Partez avant que ce \"maniaque\" n'arrive."
 
 #: src-en/data/events_sector_aea_old_1.xml:649
 msgid ""
@@ -892,8 +893,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY_WIN\"]/text"
 msgstr ""
-"« Merci au Lylmik d'avoir été là pour nous sauver, tenez, prenez des "
-"provisions. »"
+"\"Remerciez le Lylmik d'avoir été là pour nous sauver, voici quelques "
+"provisions.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:682
 msgid ""
@@ -903,9 +904,9 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_1.xml:689
 msgid "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/text"
 msgstr ""
-"Un vaisseau Lylmik vous attend à la balise. Vos capteurs détectent "
+"Un vaisseau Lylmik vous attend à la balise, vos capteurs détectent "
 "l'équipage en train de fouiller le champ de débris voisin à la recherche de "
-"pièces. On ne sait pas exactement ce qu'ils cherchent."
+"pièces, il n'est pas clair ce qu'ils cherchent exactement."
 
 #: src-en/data/events_sector_aea_old_1.xml:691
 msgid ""
@@ -916,20 +917,20 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/text"
 msgstr ""
-"Le Lylmik vous prête à peine attention en répondant au contact : « Fiche le "
-"camp, stupide Renégat. »"
+"Le Lylmik vous prête à peine attention alors qu'il capte l'appel \"Dégage, "
+"stupide Renégat.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:734
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/text"
 msgstr ""
-"(Membre d'équipage Unique) « Attendez, nous pourrions avoir quelque chose "
-"qui vous intéressera ! »"
+"(Équipage unique) \"Attendez, nous pourrions avoir quelque chose qui vous "
+"intéressera !\""
 
 #: src-en/data/events_sector_aea_old_1.xml:736
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/text"
-msgstr "« Hmm, peut-être avez-vous raison, que voulez-vous pour cela ? »"
+msgstr "\"Hmm, peut-être avez-vous raison, que voulez-vous pour cela ?\""
 
 #: src-en/data/events_sector_aea_old_1.xml:738
 msgid ""
@@ -939,7 +940,7 @@ msgstr "Un tas de ferraille."
 #: src-en/data/events_sector_aea_old_1.xml:743
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[1]/event/text"
-msgstr "« Une affaire acceptable. »"
+msgstr "\"Un accord acceptable.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:746
 msgid ""
@@ -956,8 +957,7 @@ msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[1]/event/choice/event/text"
 msgstr ""
 "Ce n'est qu'un instant après avoir livré votre équipage que vous entendez "
-"des cris étouffés en arrière-plan, ainsi que le cliquetis de lourdes "
-"machines..."
+"des cris étouffés en arrière-plan, ainsi que le bruit de machines lourdes..."
 
 #: src-en/data/events_sector_aea_old_1.xml:757
 msgid ""
@@ -967,7 +967,7 @@ msgstr "Un tas de ferraille et un membre d'équipage de remplacement."
 #: src-en/data/events_sector_aea_old_1.xml:763
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[2]/event/text"
-msgstr "« Une affaire acceptable. »"
+msgstr "\"Un accord acceptable.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:765
 msgid ""
@@ -979,8 +979,7 @@ msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[2]/event/choice/event/text"
 msgstr ""
 "Ce n'est qu'un instant après avoir livré votre équipage que vous entendez "
-"des cris étouffés en arrière-plan, ainsi que le cliquetis de lourdes "
-"machines..."
+"des cris étouffés en arrière-plan, ainsi que le bruit de machines lourdes..."
 
 #: src-en/data/events_sector_aea_old_1.xml:770
 msgid ""
@@ -1000,14 +999,14 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_1.xml:787
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[2]/text"
-msgstr "« Et toute cette ferraille que nous avons ? »"
+msgstr "\"Et toute cette ferraille que nous avons ?\""
 
 #: src-en/data/events_sector_aea_old_1.xml:789
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
-"« Hmm, peut-être avez-vous raison, et si nous vous donnions une arme que "
-"nous avons obtenue de cet étrange vaisseau que nous avons capturé... »"
+"\"Hmm, peut-être avez-vous raison, et si nous vous donnions une arme que "
+"nous avons obtenue de ce drôle de vaisseau que nous avons capturé...\""
 
 #: src-en/data/events_sector_aea_old_1.xml:795
 msgid ""
@@ -1017,13 +1016,13 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_1.xml:801
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[3]/text"
-msgstr "« Laissez tomber alors... »"
+msgstr "\"Tant pis alors...\""
 
 #: src-en/data/events_sector_aea_old_1.xml:803
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD_NEVERMIND\"]/text"
 msgstr ""
-"Vous décidez de ne pas interrompre davantage le vaisseau Lylmik et vous "
+"Vous décidez de ne pas interrompre le vaisseau Lylmik davantage et vous "
 "éloignez."
 
 #: src-en/data/events_sector_aea_old_1.xml:805
@@ -1062,12 +1061,12 @@ msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/text"
 msgstr ""
 "Vous découvrez un étrange appareil en orbite autour de la balise, il semble "
-"être de conception Lylmik."
+"de conception Lylmik."
 
 #: src-en/data/events_sector_aea_old_1.xml:836
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[1]/text"
-msgstr "Toucher ce qui semble être un bouton."
+msgstr "Appuyez sur ce qui semble être un bouton."
 
 #: src-en/data/events_sector_aea_old_1.xml:840
 msgid ""
@@ -1077,14 +1076,15 @@ msgstr "(Membre d'équipage Lylmik) Activer l'appareil."
 #: src-en/data/events_sector_aea_old_1.xml:844
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[3]/text"
-msgstr "Tirer dessus."
+msgstr "Tirez dessus."
 
 #: src-en/data/events_sector_aea_old_1.xml:846
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[3]/event/text"
 msgstr ""
 "Un instant après sa disparition, vous détectez un Lylmik sautant vers la "
-"balise. « Hé mec, ce n'est pas très cool de ta part, prépare-toi à mourir. »"
+"balise. \"Hé mec, ce n'est pas très sympa de ta part, prépare-toi à "
+"mourir.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:849
 msgid ""
@@ -1099,7 +1099,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_1.xml:857
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[4]/event/text"
-msgstr "Vous décidez de ne pas toucher à l'appareil."
+msgstr "Vous décidez de ne pas vous mêler de l'appareil."
 
 #: src-en/data/events_sector_aea_old_1.xml:859
 msgid ""
@@ -1115,7 +1115,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_GOODLIST\"]/event[1]/text"
 msgstr ""
-"L'appareil s'ouvre comme une fleur et révèle à l'intérieur une arme Lylmik."
+"L'appareil s'ouvre comme une fleur et révèle une arme Lylmik à l'intérieur."
 
 #: src-en/data/events_sector_aea_old_1.xml:879
 msgid ""
@@ -1125,7 +1125,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_1.xml:884
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_GOODLIST\"]/event[2]/text"
-msgstr "L'appareil s'ouvre comme une fleur et révèle à l'intérieur un drone."
+msgstr "L'appareil s'ouvre comme une fleur et révèle un drone à l'intérieur."
 
 #: src-en/data/events_sector_aea_old_1.xml:887
 msgid ""
@@ -1136,8 +1136,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_GOODLIST\"]/event[3]/text"
 msgstr ""
-"L'appareil s'ouvre comme une fleur et révèle à l'intérieur un membre "
-"d'équipage Lylmik qui propose de rejoindre votre équipage."
+"L'appareil s'ouvre comme une fleur et révèle un membre d'équipage Lylmik qui"
+" propose de rejoindre votre équipage."
 
 #: src-en/data/events_sector_aea_old_1.xml:895
 msgid ""
@@ -1148,8 +1148,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_BADLIST\"]/event[1]/text"
 msgstr ""
-"L'appareil commence à biper et à clignoter en rouge. Vous réussissez à "
-"retourner au vaisseau juste à temps pour qu'il explose et endommage votre "
+"L'appareil commence à biper et à clignoter en rouge. Vous parvenez à "
+"regagner le vaisseau juste à temps pour qu'il explose et endommage votre "
 "coque."
 
 #: src-en/data/events_sector_aea_old_1.xml:905
@@ -1161,8 +1161,8 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_BADLIST\"]/event[2]/text"
 msgstr ""
-"L'appareil commence à biper et à clignoter en rouge. Vous réussissez à "
-"retourner au vaisseau juste à temps pour qu'il crache trois Lylmiks qui "
+"L'appareil commence à biper et à clignoter en rouge. Vous parvenez à "
+"regagner le vaisseau juste à temps pour qu'il crache trois Lylmiks qui "
 "abordent rapidement votre vaisseau."
 
 #: src-en/data/events_sector_aea_old_1.xml:913
@@ -1174,31 +1174,31 @@ msgstr ""
 msgid "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/text"
 msgstr ""
 "Vous arrivez à la balise pour découvrir une petite navette MFK malmenée par "
-"un vaisseau Lylmik. La navette rebelle tente de vous contacter."
+"un vaisseau Lylmik. La navette rebelle tente de vous hélir."
 
 #: src-en/data/events_sector_aea_old_1.xml:923
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/text"
-msgstr "Répondre au contact."
+msgstr "Répondre à l'appel."
 
 #: src-en/data/events_sector_aea_old_1.xml:925
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/text"
 msgstr ""
-"« S'il vous plaît, sortez-me d'ici, ces stupides aliens ont joué avec moi. "
-"Je rejoindrai votre équipage si seulement vous me laissez me venger de ces "
-"racailles. »"
+"\"S'il vous plaît, sortez-moi d'ici, ces stupides aliens se sont moqués de "
+"moi. Je rejoindrai votre équipage si seulement vous me laissez me venger de "
+"ces racailles.\""
 
 #: src-en/data/events_sector_aea_old_1.xml:927
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/choice[1]/text"
-msgstr "Les accepter à bord."
+msgstr "Acceptez-les à bord."
 
 #: src-en/data/events_sector_aea_old_1.xml:929
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
-"« C'est pourquoi tous les xénos méritent la mort. » Clairement, les Lylmiks "
+"\"C'est pourquoi tous les xénos méritent la mort.\" Clairement, les Lylmiks "
 "ont une idée similaire alors qu'ils se préparent à attaquer."
 
 #: src-en/data/events_sector_aea_old_1.xml:933
@@ -1214,7 +1214,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_old_1.xml:941
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/choice[2]/event/text"
-msgstr "Vous décidez de ne pas interférer dans l'amusement des Lylmiks."
+msgstr "Vous décidez de ne pas interférer dans le divertissement des Lylmiks."
 
 #: src-en/data/events_sector_aea_old_1.xml:943
 msgid ""
@@ -1234,7 +1234,7 @@ msgstr "Ignorez les vaisseaux."
 #: src-en/data/events_sector_aea_old_1.xml:957
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[2]/event/text"
-msgstr "Vous décidez de ne pas interférer dans l'amusement des Lylmiks."
+msgstr "Vous décidez de ne pas interférer dans le divertissement des Lylmiks."
 
 #: src-en/data/events_sector_aea_old_1.xml:959
 msgid ""
@@ -1250,21 +1250,20 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/text"
 msgstr ""
-"Vous êtes confronté à un vaisseau Lylmik en arrivant à la balise. Il ne vous"
-" faut qu'un instant pour réaliser que le vaisseau est presque entièrement "
-"hors tension."
+"Vous êtes confronté à un vaisseau Lylmik en arrivant à la balise, il ne vous"
+" faut qu'un instant pour réaliser que le vaisseau est presque complètement "
+"éteint."
 
 #: src-en/data/events_sector_aea_old_1.xml:974
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/choice[1]/text"
-msgstr "Attaquer le vaisseau pendant qu'il est hors tension."
+msgstr "Attaquez le vaisseau pendant qu'il est éteint."
 
 #: src-en/data/events_sector_aea_old_1.xml:976
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/choice[1]/event/text"
 msgstr ""
-"Alors que vous activez vos armes, le vaisseau ennemi se met en ligne en "
-"réponse."
+"Alors que vous activez vos armes, le vaisseau ennemi s'active en réponse."
 
 #: src-en/data/events_sector_aea_old_1.xml:979
 msgid ""
@@ -1300,7 +1299,7 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_LYLMIK_GONE_LIST\"]/event[1]/text"
 msgstr ""
-"Il s'avère que l'équipage du vaisseau était en fait juste endormi. Ils se "
+"Il s'avère que l'équipage du vaisseau était en fait endormi. Ils se "
 "remettent en ligne et activent immédiatement leurs armes dans votre "
 "direction générale."
 
@@ -1315,10 +1314,10 @@ msgid ""
 msgstr ""
 "Après un certain temps, il n'y a toujours aucun signe de vie du vaisseau... "
 "littéralement, en fait, car une inspection plus approfondie des scans du "
-"vaisseau révèle que personne n'est à bord. Les capteurs ont bien détecté ce "
-"qui semble être une note scotchée au vaisseau, lisant « Parti faire une "
-"course, de retour dans environ 200 ans. » Vous pouvez récupérer le vaisseau "
-"sans risque."
+"vaisseau révèle qu'il n'y a personne à bord. Les capteurs ont bien détecté "
+"ce qui semble être une note scotchée au vaisseau, indiquant \"Parti en "
+"commission, de retour dans environ 200 ans.\" Vous pouvez récupérer le "
+"vaisseau sans risque."
 
 #: src-en/data/events_sector_aea_old_1.xml:1017
 msgid ""
@@ -1334,29 +1333,28 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_1_FIGHT\"]/text[1]"
 msgstr ""
-"Un grand vaisseau vous approche, il semble qu'ils soient intéressés à mettre"
-" la main sur toute nouvelle technologie que vous pourriez avoir sur votre "
-"vaisseau."
+"Un grand vaisseau vous approche, il semble qu'ils soient intéressés par "
+"toute nouvelle technologie que vous pourriez avoir à bord de votre vaisseau."
 
 #: src-en/data/events_sector_aea_old_1.xml:1063
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_1_FIGHT\"]/text[2]"
 msgstr ""
-"Il est clair que le vaisseau qui se dirige vers vous pour attaquer n'a "
-"survécu si longtemps qu'en étant incroyablement dangereux."
+"Il est clair que le vaisseau qui s'apprête à vous attaquer n'a survécu aussi"
+" longtemps qu'en étant incroyablement dangereux."
 
 #: src-en/data/events_sector_aea_old_1.xml:1064
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_1_FIGHT\"]/text[3]"
 msgstr ""
-"Le seul moyen de survivre piégé dans cette section du Multivers est de "
-"prendre des ressources aux autres, et un survivant s'approche de vous "
+"La seule façon de survivre piégé dans cette section du Multivers est de "
+"prendre les ressources des autres, et il y a un survivant qui vous approche "
 "maintenant."
 
 #: src-en/data/events_sector_aea_old_1.xml:1065
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_1_FIGHT\"]/text[4]"
 msgstr ""
-"Bien que contre le suicide, les Lylmiks ne font rien pour empêcher les "
-"citoyens de leur royaume de s'entretuer. Il se trouve qu'un citoyen se "
-"déplace en position d'attaque."
+"Bien qu'opposés à se suicider, les Lylmik ne font rien pour empêcher les "
+"citoyens de leur royaume de s'entretuer. Il se trouve qu'un citoyen se met "
+"en position d'attaque."

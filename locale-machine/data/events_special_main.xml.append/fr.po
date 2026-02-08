@@ -8,7 +8,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:71
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/text"
-msgstr "Choisissez une artillerie pour l'emplacement 1"
+msgstr "Choisir une artillerie pour l'emplacement 1"
 
 #: src-en/data/events_special_main.xml.append:73
 msgid ""
@@ -33,7 +33,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:89
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr "Artillerie à missiles (max : 2)."
+msgstr "Artillerie missile (max : 2)."
 
 #: src-en/data/events_special_main.xml.append:91
 msgid ""
@@ -53,7 +53,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:106
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/text"
-msgstr "Choisissez une artillerie pour l'emplacement 1"
+msgstr "Choisir une artillerie pour l'emplacement 1"
 
 #: src-en/data/events_special_main.xml.append:108
 msgid ""
@@ -78,7 +78,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:124
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr "Artillerie à missiles (max : 2)."
+msgstr "Artillerie missile (max : 2)."
 
 #: src-en/data/events_special_main.xml.append:126
 msgid ""
@@ -138,7 +138,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:179
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/text"
-msgstr "Choisissez une artillerie pour l'emplacement 2"
+msgstr "Choisir une artillerie pour l'emplacement 2"
 
 #: src-en/data/events_special_main.xml.append:181
 msgid ""
@@ -163,7 +163,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:197
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr "Artillerie à missiles (max : 2)."
+msgstr "Artillerie missile (max : 2)."
 
 #: src-en/data/events_special_main.xml.append:199
 msgid ""
@@ -223,7 +223,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:250
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/text"
-msgstr "Choisissez une artillerie pour l'emplacement 3"
+msgstr "Choisir une artillerie pour l'emplacement 3"
 
 #: src-en/data/events_special_main.xml.append:252
 msgid ""
@@ -248,7 +248,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:268
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr "Artillerie à missiles (max : 2)."
+msgstr "Artillerie missile (max : 2)."
 
 #: src-en/data/events_special_main.xml.append:270
 msgid ""
@@ -348,7 +348,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:355
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/text"
-msgstr "Choisissez une artillerie pour l'emplacement 2"
+msgstr "Choisir une artillerie pour l'emplacement 2"
 
 #: src-en/data/events_special_main.xml.append:357
 msgid ""
@@ -373,7 +373,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:373
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr "Artillerie à missiles (max : 2)."
+msgstr "Artillerie missile (max : 2)."
 
 #: src-en/data/events_special_main.xml.append:375
 msgid ""
@@ -433,7 +433,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:426
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/text"
-msgstr "Choisissez une artillerie pour l'emplacement 3"
+msgstr "Choisir une artillerie pour l'emplacement 3"
 
 #: src-en/data/events_special_main.xml.append:428
 msgid ""
@@ -458,7 +458,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:444
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr "Artillerie à missiles (max : 2)."
+msgstr "Artillerie missile (max : 2)."
 
 #: src-en/data/events_special_main.xml.append:446
 msgid ""
@@ -519,9 +519,9 @@ msgstr ""
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_ENEMY_BROADSIDE_EVENT\"]/text"
 msgstr ""
-"Vous arrivez à la balise face à face avec un étrange vaisseau rebelle, c'est"
-" un design que vous n'avez jamais vu auparavant. Vous n'avez pas le temps de"
-" réfléchir car il tourne ses armes vers vous."
+"Vous arrivez à la balise face à face avec un étrange vaisseau rebelle, il "
+"est différent de tout ce que vous avez vu auparavant. Vous n'avez pas le "
+"temps de réfléchir alors qu'il tourne ses armes vers vous."
 
 #: src-en/data/events_special_main.xml.append:508
 msgid ""
@@ -542,7 +542,7 @@ msgstr ""
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/text"
 msgstr ""
-"Installez l'arme de l'emplacement 1 dans l'un des systèmes d'artillerie, "
+"Installer l'arme de l'emplacement 1 dans l'un des systèmes d'artillerie, "
 "l'arme précédemment installée sera perdue."
 
 #: src-en/data/events_special_main.xml.append:534
@@ -553,7 +553,7 @@ msgstr ""
 #: src-en/data/events_special_main.xml.append:538
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[2]/text"
-msgstr "Installez-la dans l'emplacement d'artillerie 1 (le plus à gauche)"
+msgstr "L'installer dans l'emplacement d'artillerie 1 (le plus à gauche)"
 
 #: src-en/data/events_special_main.xml.append:540
 msgid ""
@@ -563,7 +563,7 @@ msgstr "Vous installez l'arme dans le système d'artillerie."
 #: src-en/data/events_special_main.xml.append:544
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[3]/text"
-msgstr "Installez-la dans l'emplacement d'artillerie 2 (milieu)"
+msgstr "L'installer dans l'emplacement d'artillerie 2 (milieu)"
 
 #: src-en/data/events_special_main.xml.append:546
 msgid ""
@@ -573,7 +573,7 @@ msgstr "Vous installez l'arme dans le système d'artillerie."
 #: src-en/data/events_special_main.xml.append:550
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[4]/text"
-msgstr "Installez-la dans l'emplacement d'artillerie 3 (le plus à droite)"
+msgstr "L'installer dans l'emplacement d'artillerie 3 (le plus à droite)"
 
 #: src-en/data/events_special_main.xml.append:552
 msgid ""

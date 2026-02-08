@@ -10,7 +10,7 @@ msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/text"
 msgstr ""
 "Le Justicier Sombre peut modifier illégalement votre salle des clones.\n"
-"\t[Effets : La salle des clones ne clone plus les membres d'équipage morts, à chaque saut la salle des clones modifiée produit deux clones illégaux aléatoires ayant un compte à rebours de mort de 30 secondes, la salle des clones modifiée empêche les comptes à rebours de mort de progresser lorsqu'elle est alimentée.]"
+"\t[Effets : La salle des clones ne clone plus les membres d'équipage morts. À chaque saut, la salle des clones modifiée produit deux clones illégaux aléatoires ayant un compte à rebours de mort de 30 secondes. La salle des clones modifiée empêche les comptes à rebours de mort de progresser tant qu'elle est alimentée.]"
 
 #: src-en/data/events_special_aea_justicier.xml:6
 msgid ""
@@ -33,8 +33,7 @@ msgstr ""
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"Les modifications sont effectuées et vous vous retrouvez avec une salle des "
-"clones modifiée."
+"Les changements sont faits et il vous reste une salle des clones modifiée."
 
 #: src-en/data/events_special_aea_justicier.xml:24
 msgid ""
@@ -69,13 +68,13 @@ msgstr "Lire la section sur les Rituels de Contrat."
 #: src-en/data/events_special_aea_justicier.xml:52
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[5]/text"
-msgstr "Lire la section sur les Rituels d'Attaque."
+msgstr "Lire la section sur les Rituels Offensifs."
 
 #: src-en/data/events_special_aea_justicier.xml:58
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/text"
 msgstr ""
-"Vous tournez à la section du livre sur les Règles du Rituel.\n"
+"Vous vous tournez vers la section du livre sur les Règles du Rituel.\n"
 "Certains Rituels peuvent avoir plusieurs exigences, auquel cas la plus basse de la liste est utilisée."
 
 #: src-en/data/events_special_aea_justicier.xml:69
@@ -86,7 +85,7 @@ msgstr "Retourner."
 #: src-en/data/events_special_aea_justicier.xml:77
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_CREW\"]/text"
-msgstr "Vous tournez à la section du livre sur les Rituels de Sang."
+msgstr "Vous vous tournez vers la section du livre sur les Rituels de Sang."
 
 #: src-en/data/events_special_aea_justicier.xml:79
 msgid ""
@@ -96,7 +95,8 @@ msgstr "Retourner."
 #: src-en/data/events_special_aea_justicier.xml:87
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TRADE\"]/text"
-msgstr "Vous tournez à la section du livre sur les Rituels de Contrat."
+msgstr ""
+"Vous vous tournez vers la section du livre sur les Rituels de Contrat."
 
 #: src-en/data/events_special_aea_justicier.xml:89
 msgid ""
@@ -106,7 +106,7 @@ msgstr "Retourner."
 #: src-en/data/events_special_aea_justicier.xml:97
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_ATTACK\"]/text"
-msgstr "Vous tournez à la section du livre sur les Rituels d'Attaque."
+msgstr "Vous vous tournez vers la section du livre sur les Rituels Offensifs."
 
 #: src-en/data/events_special_aea_justicier.xml:99
 msgid ""
@@ -149,8 +149,8 @@ msgid ""
 msgstr ""
 "Vous êtes arrivé au milieu de ce qui était la flotte rebelle pour la "
 "découvrir détruite. Un grand vaisseau de combat rouge comme vous n'en avez "
-"jamais vu auparavant est assis au milieu du champ de débris. "
-"Malheureusement, il tourne son attention vers vous, armes activées."
+"jamais vu auparavant se trouve au milieu du champ de débris. "
+"Malheureusement, il tourne son attention vers vous, armes en main."
 
 #: src-en/data/events_special_aea_justicier.xml:188
 msgid ""
@@ -161,17 +161,17 @@ msgstr ""
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_BATTLESHIP\"]/text"
 msgstr ""
-"Le vaisseau se fragmente et explose, et ce faisant, vous détectez une "
-"impulsion énergétique, ressemblant à celle d'un système de téléportation, "
-"provenant du vaisseau. Vous démanteler les restes du vaisseau."
+"Le vaisseau se fragmente et explose. Ce faisant, vous détectez une impulsion"
+" d'énergie, ressemblant à celle d'un système de téléportation, provenant du "
+"vaisseau. Vous démanteler les restes du vaisseau."
 
 #: src-en/data/events_special_aea_justicier.xml:204
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_BATTLESHIP\"]/text"
 msgstr ""
 "Alors que les derniers membres d'équipage tombent morts, vous vous souvenez "
-"que juste avant de pouvoir tuer le mystérieux capitaine du vaisseau, ils se "
-"sont téléportés. Vous démanteler les restes du vaisseau."
+"que juste avant de pouvoir tuer le mystérieux capitaine du vaisseau, il "
+"s'est téléporté. Vous démanteler les restes du vaisseau."
 
 #: src-en/data/events_special_aea_justicier.xml:217
 msgid ""
@@ -179,8 +179,8 @@ msgid ""
 msgstr ""
 "Une fois de plus, vous êtes arrivé au milieu de ce qui était la flotte "
 "rebelle pour la découvrir détruite. Un grand vaisseau de combat rouge comme "
-"vous n'en avez jamais vu auparavant est assis au milieu du champ de débris. "
-"Malheureusement, il tourne son attention vers vous, armes activées."
+"vous n'en avez jamais vu auparavant se trouve au milieu du champ de débris. "
+"Malheureusement, il tourne son attention vers vous, armes en main."
 
 #: src-en/data/events_special_aea_justicier.xml:221
 msgid ""
@@ -191,11 +191,11 @@ msgstr ""
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/text"
 msgstr ""
-"Le vaisseau se fragmente et explose, Une étrange personne se téléporte à "
-"bord de votre vaisseau. « Renégat, vous vous êtes montré un combattant très "
-"capable, cependant mon dieu a soif de sang, ce que je ne peux satisfaire "
-"sans un vaisseau. Peut-être puis-je opérer à bord de votre vaisseau pendant "
-"un certain temps ? »"
+"Le vaisseau se fragmente et explose. Une étrange personne se téléporte à "
+"bord de votre vaisseau. \" Renégat, vous vous êtes montré un combattant très"
+" capable, cependant mon dieu a soif de sang, ce que je ne peux pas "
+"satisfaire sans un vaisseau. Peut-être puis-je opérer à bord de votre "
+"vaisseau pendant un certain temps ? \""
 
 #: src-en/data/events_special_aea_justicier.xml:236
 msgid ""
@@ -205,7 +205,7 @@ msgstr "Acceptez-les à bord."
 #: src-en/data/events_special_aea_justicier.xml:238
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/event/text"
-msgstr "Le Justicier Sombre rejoint l'équipage."
+msgstr "Le justicier sombre rejoint l'équipage."
 
 #: src-en/data/events_special_aea_justicier.xml:239
 msgid ""
@@ -220,17 +220,18 @@ msgstr ""
 #: src-en/data/events_special_aea_justicier.xml:245
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[2]/event/text"
-msgstr "Ils se téléportent à nouveau, vous ne savez pas où ils sont allés."
+msgstr ""
+"Ils se téléportent à nouveau, où ils sont allés, vous n'en êtes pas sûr."
 
 #: src-en/data/events_special_aea_justicier.xml:250
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/text"
 msgstr ""
 "Alors que les derniers membres d'équipage tombent morts, une étrange "
-"personne se téléporte à bord de votre vaisseau. « Renégat, vous vous êtes "
+"personne se téléporte à bord de votre vaisseau. \" Renégat, vous vous êtes "
 "montré un combattant très capable, cependant mon dieu a soif de sang, ce que"
-" je ne peux satisfaire sans un vaisseau. Peut-être puis-je opérer à bord de "
-"votre vaisseau pendant un certain temps ? »"
+" je ne peux pas satisfaire sans un vaisseau. Peut-être puis-je opérer à bord"
+" de votre vaisseau pendant un certain temps ? \""
 
 #: src-en/data/events_special_aea_justicier.xml:255
 msgid ""
@@ -240,7 +241,7 @@ msgstr "Acceptez-les à bord."
 #: src-en/data/events_special_aea_justicier.xml:257
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/event/text"
-msgstr "Le Justicier Sombre rejoint l'équipage."
+msgstr "Le justicier sombre rejoint l'équipage."
 
 #: src-en/data/events_special_aea_justicier.xml:258
 msgid ""
@@ -255,13 +256,14 @@ msgstr ""
 #: src-en/data/events_special_aea_justicier.xml:264
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[2]/event/text"
-msgstr "Ils se téléportent à nouveau, vous ne savez pas où ils sont allés."
+msgstr ""
+"Ils se téléportent à nouveau, où ils sont allés, vous n'en êtes pas sûr."
 
 #: src-en/data/events_special_aea_justicier.xml:274
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/text"
 msgstr ""
-"Les vestiges d'une flotte rebelle détruite se trouvent ici, cependant vous "
+"Les restes d'une flotte rebelle détruite se trouvent ici, cependant vous "
 "n'avez pas le temps de les fouiller car des renforts sont arrivés !"
 
 #: src-en/data/events_special_aea_justicier.xml:281
@@ -272,9 +274,9 @@ msgstr ""
 #: src-en/data/events_special_aea_justicier.xml:285
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[@req=\"engines\"]/text"
-msgstr "(Moteurs de pointe) Essayer d'échapper à l'Élite."
+msgstr "(Moteurs de pointe) Essayez d'échapper à l'Élite."
 
 #: src-en/data/events_special_aea_justicier.xml:289
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
-msgstr "(Jerry) « Bonjour ! »"
+msgstr "(Jerry) \" Bonjour ! \""
