@@ -1,104 +1,111 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-03-03 17:53+0000\n"
+"Last-Translator: circle217 <3545024352@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/dataevents_special_mainxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_main.xml.append:71
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/text"
-msgstr ""
+msgstr "为插槽1选择一种巨炮"
 
 #: src-en/data/events_special_main.xml.append:73
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[1]/text"
-msgstr ""
+msgstr "激光巨炮。"
 
 #: src-en/data/events_special_main.xml.append:75
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[1]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:81
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[2]/text"
-msgstr ""
+msgstr "光束巨炮。"
 
 #: src-en/data/events_special_main.xml.append:83
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[2]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:89
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr ""
+msgstr "导弹巨炮（最多：2）。"
 
 #: src-en/data/events_special_main.xml.append:91
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[@req=\"aea_broadside_missile_chosen\"]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:97
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[4]/text"
-msgstr ""
+msgstr "离子巨炮。"
 
 #: src-en/data/events_special_main.xml.append:99
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[4]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:106
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/text"
-msgstr ""
+msgstr "为插槽1选择一种巨炮"
 
 #: src-en/data/events_special_main.xml.append:108
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[1]/text"
-msgstr ""
+msgstr "激光巨炮。"
 
 #: src-en/data/events_special_main.xml.append:110
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[1]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:116
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[2]/text"
-msgstr ""
+msgstr "光束巨炮。"
 
 #: src-en/data/events_special_main.xml.append:118
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[2]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:124
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr ""
+msgstr "导弹巨炮（最多：2）。"
 
 #: src-en/data/events_special_main.xml.append:126
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[@req=\"aea_broadside_missile_chosen\"]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:132
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[4]/text"
-msgstr ""
+msgstr "离子巨炮。"
 
 #: src-en/data/events_special_main.xml.append:134
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[4]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:145
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_LASER_1\"]/text"
-msgstr ""
+msgstr "你选择了激光巨炮。"
 
 #: src-en/data/events_special_main.xml.append:148
 msgid ""
@@ -108,7 +115,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:153
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_BEAM_1\"]/text"
-msgstr ""
+msgstr "你选择了光束巨炮。"
 
 #: src-en/data/events_special_main.xml.append:156
 msgid ""
@@ -118,7 +125,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:161
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_MISSILE_1\"]/text"
-msgstr ""
+msgstr "你选择了导弹巨炮。"
 
 #: src-en/data/events_special_main.xml.append:165
 msgid ""
@@ -128,7 +135,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:170
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ION_1\"]/text"
-msgstr ""
+msgstr "你选择了离子巨炮。"
 
 #: src-en/data/events_special_main.xml.append:173
 msgid ""
@@ -138,52 +145,52 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:179
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/text"
-msgstr ""
+msgstr "为插槽2选择一种巨炮"
 
 #: src-en/data/events_special_main.xml.append:181
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[1]/text"
-msgstr ""
+msgstr "激光巨炮。"
 
 #: src-en/data/events_special_main.xml.append:183
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:189
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[2]/text"
-msgstr ""
+msgstr "光束巨炮。"
 
 #: src-en/data/events_special_main.xml.append:191
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[2]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:197
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr ""
+msgstr "导弹巨炮（最多：2）。"
 
 #: src-en/data/events_special_main.xml.append:199
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[@req=\"aea_broadside_missile_chosen\"]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:205
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[4]/text"
-msgstr ""
+msgstr "离子巨炮。"
 
 #: src-en/data/events_special_main.xml.append:207
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[4]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:216
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_LASER_2\"]/text"
-msgstr ""
+msgstr "你选择了激光巨炮。"
 
 #: src-en/data/events_special_main.xml.append:219
 msgid ""
@@ -193,7 +200,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:224
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_BEAM_2\"]/text"
-msgstr ""
+msgstr "你选择了光束巨炮。"
 
 #: src-en/data/events_special_main.xml.append:227
 msgid ""
@@ -203,7 +210,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:232
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_MISSILE_2\"]/text"
-msgstr ""
+msgstr "你选择了导弹巨炮。"
 
 #: src-en/data/events_special_main.xml.append:236
 msgid ""
@@ -213,7 +220,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:241
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ION_2\"]/text"
-msgstr ""
+msgstr "你选择了离子巨炮。"
 
 #: src-en/data/events_special_main.xml.append:244
 msgid ""
@@ -223,52 +230,52 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:250
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/text"
-msgstr ""
+msgstr "为插槽3选择一种巨炮"
 
 #: src-en/data/events_special_main.xml.append:252
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[1]/text"
-msgstr ""
+msgstr "激光巨炮。"
 
 #: src-en/data/events_special_main.xml.append:254
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:260
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[2]/text"
-msgstr ""
+msgstr "光束巨炮。"
 
 #: src-en/data/events_special_main.xml.append:262
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[2]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:268
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr ""
+msgstr "导弹巨炮（最多：2）。"
 
 #: src-en/data/events_special_main.xml.append:270
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[@req=\"aea_broadside_missile_chosen\"]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:276
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[4]/text"
-msgstr ""
+msgstr "离子巨炮。"
 
 #: src-en/data/events_special_main.xml.append:278
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[4]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:286
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_LASER_3\"]/text"
-msgstr ""
+msgstr "你选择了激光巨炮。"
 
 #: src-en/data/events_special_main.xml.append:289
 msgid ""
@@ -278,7 +285,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:294
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_BEAM_3\"]/text"
-msgstr ""
+msgstr "你选择了光束巨炮。"
 
 #: src-en/data/events_special_main.xml.append:297
 msgid ""
@@ -288,7 +295,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:302
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_MISSILE_3\"]/text"
-msgstr ""
+msgstr "你选择了导弹巨炮。"
 
 #: src-en/data/events_special_main.xml.append:306
 msgid ""
@@ -298,7 +305,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:311
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ION_3\"]/text"
-msgstr ""
+msgstr "你选择了离子巨炮。"
 
 #: src-en/data/events_special_main.xml.append:314
 msgid ""
@@ -308,7 +315,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:321
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_LASER_1\"]/text"
-msgstr ""
+msgstr "你选择了激光巨炮。"
 
 #: src-en/data/events_special_main.xml.append:324
 msgid ""
@@ -318,7 +325,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:329
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_BEAM_1\"]/text"
-msgstr ""
+msgstr "你选择了光束巨炮。"
 
 #: src-en/data/events_special_main.xml.append:332
 msgid ""
@@ -328,7 +335,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:337
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_MISSILE_1\"]/text"
-msgstr ""
+msgstr "你选择了导弹巨炮。"
 
 #: src-en/data/events_special_main.xml.append:341
 msgid ""
@@ -338,7 +345,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:346
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ION_1\"]/text"
-msgstr ""
+msgstr "你选择了离子巨炮。"
 
 #: src-en/data/events_special_main.xml.append:349
 msgid ""
@@ -348,52 +355,52 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:355
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/text"
-msgstr ""
+msgstr "为插槽2选择一种巨炮"
 
 #: src-en/data/events_special_main.xml.append:357
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[1]/text"
-msgstr ""
+msgstr "激光巨炮。"
 
 #: src-en/data/events_special_main.xml.append:359
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:365
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[2]/text"
-msgstr ""
+msgstr "光束巨炮。"
 
 #: src-en/data/events_special_main.xml.append:367
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[2]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:373
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr ""
+msgstr "导弹巨炮（最多：2）。"
 
 #: src-en/data/events_special_main.xml.append:375
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[@req=\"aea_broadside_missile_chosen\"]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:381
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[4]/text"
-msgstr ""
+msgstr "离子巨炮。"
 
 #: src-en/data/events_special_main.xml.append:383
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[4]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:392
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_LASER_2\"]/text"
-msgstr ""
+msgstr "你选择了激光巨炮。"
 
 #: src-en/data/events_special_main.xml.append:395
 msgid ""
@@ -403,7 +410,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:400
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_BEAM_2\"]/text"
-msgstr ""
+msgstr "你选择了光束巨炮。"
 
 #: src-en/data/events_special_main.xml.append:403
 msgid ""
@@ -413,7 +420,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:408
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_MISSILE_2\"]/text"
-msgstr ""
+msgstr "你选择了导弹巨炮。"
 
 #: src-en/data/events_special_main.xml.append:412
 msgid ""
@@ -423,7 +430,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:417
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ION_2\"]/text"
-msgstr ""
+msgstr "你选择了离子巨炮。"
 
 #: src-en/data/events_special_main.xml.append:420
 msgid ""
@@ -433,52 +440,52 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:426
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/text"
-msgstr ""
+msgstr "为插槽3选择一种巨炮"
 
 #: src-en/data/events_special_main.xml.append:428
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[1]/text"
-msgstr ""
+msgstr "激光巨炮。"
 
 #: src-en/data/events_special_main.xml.append:430
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:436
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[2]/text"
-msgstr ""
+msgstr "光束巨炮。"
 
 #: src-en/data/events_special_main.xml.append:438
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[2]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:444
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr ""
+msgstr "导弹巨炮（最多：2）。"
 
 #: src-en/data/events_special_main.xml.append:446
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[@req=\"aea_broadside_missile_chosen\"]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:452
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[4]/text"
-msgstr ""
+msgstr "离子巨炮。"
 
 #: src-en/data/events_special_main.xml.append:454
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[4]/event/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:462
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_LASER_3\"]/text"
-msgstr ""
+msgstr "你选择了激光巨炮。"
 
 #: src-en/data/events_special_main.xml.append:465
 msgid ""
@@ -488,7 +495,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:470
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_BEAM_3\"]/text"
-msgstr ""
+msgstr "你选择了光束巨炮。"
 
 #: src-en/data/events_special_main.xml.append:473
 msgid ""
@@ -498,7 +505,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:478
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_MISSILE_3\"]/text"
-msgstr ""
+msgstr "你选择了导弹巨炮。"
 
 #: src-en/data/events_special_main.xml.append:482
 msgid ""
@@ -508,7 +515,7 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:487
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ION_3\"]/text"
-msgstr ""
+msgstr "你选择了离子巨炮。"
 
 #: src-en/data/events_special_main.xml.append:490
 msgid ""
@@ -518,7 +525,8 @@ msgstr "继续。"
 #: src-en/data/events_special_main.xml.append:505
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_ENEMY_BROADSIDE_EVENT\"]/text"
-msgstr ""
+msgstr "你抵达信标，迎面遇到一艘奇怪的叛军星舰，它不同于你见过的任何设计。你还没来得"
+"及细想，它已将武器对准了你。"
 
 #: src-en/data/events_special_main.xml.append:508
 msgid ""
@@ -538,10 +546,9 @@ msgstr "叛军的船现在已经没有船员了，你可以自由地搜刮这些
 #: src-en/data/events_special_main.xml.append:532
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/text"
-msgstr ""
+msgstr "将插槽1的武器安装到其中一个巨炮系统中，先前安装的武器将会遗失。"
 
 #: src-en/data/events_special_main.xml.append:534
-#, fuzzy
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[1]/text"
 msgstr "算了。"
@@ -549,72 +556,72 @@ msgstr "算了。"
 #: src-en/data/events_special_main.xml.append:538
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[2]/text"
-msgstr ""
+msgstr "安装到巨炮插槽1（最左侧）"
 
 #: src-en/data/events_special_main.xml.append:540
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_C_SLOT1\"]/text"
-msgstr ""
+msgstr "你将武器安装到巨炮系统中。"
 
 #: src-en/data/events_special_main.xml.append:544
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[3]/text"
-msgstr ""
+msgstr "安装到巨炮插槽2（中间）"
 
 #: src-en/data/events_special_main.xml.append:546
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_C_SLOT2\"]/text"
-msgstr ""
+msgstr "你将武器安装到巨炮系统中。"
 
 #: src-en/data/events_special_main.xml.append:550
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[4]/text"
-msgstr ""
+msgstr "安装到巨炮插槽3（最右侧）"
 
 #: src-en/data/events_special_main.xml.append:552
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_C_SLOT3\"]/text"
-msgstr ""
+msgstr "你将武器安装到巨炮系统中。"
 
 #: src-en/data/events_special_main.xml.append:556
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[@req=\"aea_broadside_c_has_weapon\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "你的武器系统中需要有一件武器才能安装。"
 
 #: src-en/data/events_special_main.xml.append:564
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/text"
-msgstr ""
+msgstr "结果1"
 
 #: src-en/data/events_special_main.xml.append:566
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/choice[1]/text"
-msgstr ""
+msgstr "继续"
 
 #: src-en/data/events_special_main.xml.append:572
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/choice[2]/text"
-msgstr ""
+msgstr "结束"
 
 #: src-en/data/events_special_main.xml.append:577
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/text"
-msgstr ""
+msgstr "结果2"
 
 #: src-en/data/events_special_main.xml.append:579
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/choice[1]/text"
-msgstr ""
+msgstr "继续"
 
 #: src-en/data/events_special_main.xml.append:585
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/choice[2]/text"
-msgstr ""
+msgstr "结束"
 
 #: src-en/data/events_special_main.xml.append:593
 msgid "data/events_special_main.xml.append$//event[@name=\"RANDOM_LOAD\"]/text"
-msgstr ""
+msgstr "加载"
 
 #: src-en/data/events_special_main.xml.append:595
 msgid ""
