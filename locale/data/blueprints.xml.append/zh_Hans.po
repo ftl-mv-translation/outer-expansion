@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-03-03 17:53+0000\n"
+"Last-Translator: circle217 <3545024352@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/datablueprintsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
@@ -5696,10 +5703,9 @@ msgid ""
 msgstr "125点最大生命值"
 
 #: src-en/data/blueprints.xml.append:11430
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_breaker\"]/powerList/power[4]"
-msgstr "0.8倍战斗伤害"
+msgstr "0.6倍战斗伤害"
 
 #: src-en/data/blueprints.xml.append:11448
 msgid ""
@@ -5732,10 +5738,9 @@ msgid ""
 msgstr "150点最大生命值"
 
 #: src-en/data/blueprints.xml.append:11458
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_smasher\"]/powerList/power[4]"
-msgstr "0.8倍战斗伤害"
+msgstr "0.4倍战斗伤害"
 
 #: src-en/data/blueprints.xml.append:11476
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/desc"
@@ -5765,10 +5770,9 @@ msgid ""
 msgstr "200点最大生命值"
 
 #: src-en/data/blueprints.xml.append:11486
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_shard_dawn\"]/powerList/power[4]"
-msgstr "0.8倍战斗伤害"
+msgstr "0.25倍战斗伤害"
 
 #: src-en/data/blueprints.xml.append:11520
 msgid ""
@@ -6479,10 +6483,9 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:13509
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_dark_justicier\"]/powerList/power[3]"
-msgstr "200点最大生命值"
+msgstr "免疫窒息"
 
 #: src-en/data/blueprints.xml.append:13510
 msgid ""
@@ -6605,7 +6608,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13601
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_sac_slug\"]/powerList/power[1]"
-msgstr "具有能感受到生命与邻近舱室的心灵感应能力，即使传感器失效"
+msgstr "具有能感受到生命与邻近舱室的心灵感应能力，即使传感器失效。"
 
 #: src-en/data/blueprints.xml.append:13602
 msgid ""
