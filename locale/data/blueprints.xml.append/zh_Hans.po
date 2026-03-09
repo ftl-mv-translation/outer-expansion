@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-09 03:44+0000\n"
+"PO-Revision-Date: 2026-03-10 13:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/datablueprintsxmlappend/zh_Hans/>\n"
@@ -2310,82 +2310,85 @@ msgstr "危险逃离"
 #: src-en/data/blueprints.xml.append:5931
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_BIRD_ESCAPESPEED\"]/desc"
-msgstr ""
+msgstr "Gi 船员在敌方船员附近时，移动速度提升至 4 倍。"
 
 #: src-en/data/blueprints.xml.append:5937
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_BIRD_AUTODESTROY\"]/title"
-msgstr ""
+msgstr "自动拆卸"
 
 #: src-en/data/blueprints.xml.append:5938
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_BIRD_AUTODESTROY\"]/desc"
-msgstr ""
+msgstr "Gi 船员每秒对敌方无人机及机械船员造成 5 点伤害。"
 
 #: src-en/data/blueprints.xml.append:5944
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_BIRD_SOCIAL\"]/title"
-msgstr ""
+msgstr "社交能力"
 
 #: src-en/data/blueprints.xml.append:5945
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_BIRD_SOCIAL\"]/desc"
-msgstr ""
+msgstr "Gi 船员在同舱室内每有一位友方船员，维修速度提升 0.25 倍，战斗伤害提升 0.1 倍"
+"。"
 
 #: src-en/data/blueprints.xml.append:5952
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_OLD_INSTALLED\"]/title"
-msgstr ""
+msgstr "利尔米克"
 
 #: src-en/data/blueprints.xml.append:5953
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_OLD_INSTALLED\"]/desc"
-msgstr ""
+msgstr "利尔米克升级已安装。"
 
 #: src-en/data/blueprints.xml.append:5959
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_OLD_RESOLVE\"]/title"
-msgstr ""
+msgstr "不屈意志"
 
 #: src-en/data/blueprints.xml.append:5960
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_OLD_RESOLVE\"]/desc"
-msgstr ""
+msgstr "利尔米克船员将始终保留其基础属性：生命值、伤害、免疫、移动速度、克隆速度、技"
+"能损失与治疗速度，且这些属性无法被外部力量覆盖。"
 
 #: src-en/data/blueprints.xml.append:5966
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_OLD_COMPROMISED\"]/title"
-msgstr ""
+msgstr "受损子系统"
 
 #: src-en/data/blueprints.xml.append:5967
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_OLD_COMPROMISED\"]/desc"
-msgstr ""
+msgstr "利尔米克船员失去免疫能力，但克隆速度提升至 2 倍，治疗速度提升至 4 倍。"
 
 #: src-en/data/blueprints.xml.append:5973
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_OLD_ELITE\"]/title"
-msgstr ""
+msgstr "精英主义"
 
 #: src-en/data/blueprints.xml.append:5974
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_AEA_OLD_ELITE\"]/desc"
-msgstr ""
+msgstr "利尔米克船员每有一位精英盟友，生命值增加 25 点。"
 
 #: src-en/data/blueprints.xml.append:5981
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_soldier\"]/desc"
-msgstr ""
+msgstr "酸藻族使用的危险机甲，用于将势力范围拓展至酸液星云之外。机甲内寄宿着一块控制"
+"其行动的酸藻族碎片。"
 
 #: src-en/data/blueprints.xml.append:5982
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_soldier\"]/title"
-msgstr ""
+msgstr "酸藻族士兵"
 
 #: src-en/data/blueprints.xml.append:5983
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_soldier\"]/short"
-msgstr ""
+msgstr "酸液士兵"
 
 #: src-en/data/blueprints.xml.append:5988
 msgid ""
@@ -2400,32 +2403,33 @@ msgstr "战斗技能提升速度提高25%"
 #: src-en/data/blueprints.xml.append:5990
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_soldier\"]/powerList/power[3]"
-msgstr ""
+msgstr "修复速度提升至 1.25 倍"
 
 #: src-en/data/blueprints.xml.append:5991
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_soldier\"]/powerList/power[4]"
-msgstr ""
+msgstr "以0.75倍速移动"
 
 #: src-en/data/blueprints.xml.append:5992
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_soldier\"]/powerList/power[5]"
-msgstr ""
+msgstr "免疫窒息，免疫心灵控制"
 
 #: src-en/data/blueprints.xml.append:5997
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_captain\"]/desc"
-msgstr ""
+msgstr "酸藻族使用的危险机甲，用于将势力范围拓展至酸液星云之外。机甲内寄宿着一块控制"
+"其行动的酸藻族碎片。"
 
 #: src-en/data/blueprints.xml.append:5998
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_captain\"]/title"
-msgstr ""
+msgstr "酸藻族领袖"
 
 #: src-en/data/blueprints.xml.append:5999
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_captain\"]/short"
-msgstr ""
+msgstr "酸藻族领袖"
 
 #: src-en/data/blueprints.xml.append:6004
 msgid ""
@@ -2440,39 +2444,42 @@ msgstr "战斗技能提升速度提高25%"
 #: src-en/data/blueprints.xml.append:6006
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_captain\"]/powerList/power[3]"
-msgstr ""
+msgstr "治疗附近的酸藻族士兵"
 
 #: src-en/data/blueprints.xml.append:6007
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_captain\"]/powerList/power[4]"
-msgstr ""
+msgstr "1.5倍的维修速度"
 
 #: src-en/data/blueprints.xml.append:6008
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_captain\"]/powerList/power[5]"
-msgstr ""
+msgstr "0.5倍移速"
 
 #: src-en/data/blueprints.xml.append:6009
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_captain\"]/powerList/power[6]"
-msgstr ""
+msgstr "免疫窒息，免疫心灵控制"
 
 #: src-en/data/blueprints.xml.append:6014
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/desc"
 msgstr ""
+"酸藻族使用的危险机甲，用于将势力范围拓展至酸液星云之外。机甲内寄宿着一块控制"
+"其行动的酸藻族碎片。这台机器中的酸藻族碎片已与酸藻族整体失去连接，如今自视为"
+"独立实体。"
 
 #: src-en/data/blueprints.xml.append:6015
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/title"
-msgstr ""
+msgstr "酸藻族流放者"
 
 #: src-en/data/blueprints.xml.append:6016
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/short"
-msgstr ""
+msgstr "酸藻族流放者"
 
 #: src-en/data/blueprints.xml.append:6021
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能：斩杀所有低于35生命的敌方船员"
 
 #: src-en/data/blueprints.xml.append:6022
 msgid ""
@@ -2487,39 +2494,43 @@ msgstr "战斗技能提升速度提高25%"
 #: src-en/data/blueprints.xml.append:6024
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/powerList/power[4]"
-msgstr ""
+msgstr "治疗附近友方"
 
 #: src-en/data/blueprints.xml.append:6025
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/powerList/power[5]"
-msgstr ""
+msgstr "2倍维修速度"
 
 #: src-en/data/blueprints.xml.append:6026
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/powerList/power[6]"
-msgstr ""
+msgstr "0.5倍移速"
 
 #: src-en/data/blueprints.xml.append:6027
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_acid_bill\"]/powerList/power[7]"
-msgstr ""
+msgstr "免疫窒息，免疫心灵控制"
 
 #: src-en/data/blueprints.xml.append:6032
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_engi\"]/desc"
 msgstr ""
+"半械异教徒即便是从半械分离者中亦被视为异类，他们挣脱了同族所崇尚的谐合之道，"
+"更愿将有机生命视作实现自身意志的工具。\n"
+"半械异教徒利用纳米机器人操控被其击杀的敌人，通过篡改躯体线路使其短暂迸发生命"
+"活力。"
 
 #: src-en/data/blueprints.xml.append:6037
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_engi\"]/title"
-msgstr ""
+msgstr "半械异教徒"
 
 #: src-en/data/blueprints.xml.append:6038
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_engi\"]/short"
-msgstr ""
+msgstr "异教徒"
 
 #: src-en/data/blueprints.xml.append:6041
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_engi\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动能力：消耗 1 纳米蜂群，复活被该船员在近战中击杀的最后一名敌人"
 
 #: src-en/data/blueprints.xml.append:6042
 msgid ""
@@ -2529,12 +2540,12 @@ msgstr "125点最大生命值"
 #: src-en/data/blueprints.xml.append:6043
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_engi\"]/powerList/power[3]"
-msgstr ""
+msgstr "在半械异教徒附近被击杀的敌方船员，会产生 1 纳米蜂群"
 
 #: src-en/data/blueprints.xml.append:6044
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_engi\"]/powerList/power[4]"
-msgstr ""
+msgstr "0.75倍战斗伤害，1.5倍维修速度"
 
 #: src-en/data/blueprints.xml.append:6045
 msgid ""
@@ -2544,24 +2555,28 @@ msgstr "受到0.5倍窒息伤害"
 #: src-en/data/blueprints.xml.append:6063
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/desc"
 msgstr ""
+"半械巫妖是半械异教徒中的精英，能力更为强大。半械巫妖能对敌方船员施加某种诅咒"
+"，使其临时复活并站在巫妖一方作战。\n"
+"半械巫妖利用纳米机器人控制他们击杀的敌人，通过篡改躯体线路使其短暂恢复生机。"
 
 #: src-en/data/blueprints.xml.append:6068
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/title"
-msgstr ""
+msgstr "半械巫妖"
 
 #: src-en/data/blueprints.xml.append:6069
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/short"
-msgstr ""
+msgstr "巫妖"
 
 #: src-en/data/blueprints.xml.append:6072
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动能力：消耗 3 纳米蜂群，将舱室内所有敌人一分为二，制造出较弱的复制体为半械"
+"巫妖而战"
 
 #: src-en/data/blueprints.xml.append:6073
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/powerList/power[2]"
-msgstr ""
+msgstr "主动能力：消耗 1 纳米蜂群，复活被该船员在近战中击杀的最后一名敌人"
 
 #: src-en/data/blueprints.xml.append:6074
 msgid ""
@@ -2571,17 +2586,17 @@ msgstr "125点最大生命值"
 #: src-en/data/blueprints.xml.append:6075
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/powerList/power[4]"
-msgstr ""
+msgstr "在半械异教徒附近被击杀的敌方船员，会生成 1 纳米蜂群"
 
 #: src-en/data/blueprints.xml.append:6076
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/powerList/power[5]"
-msgstr ""
+msgstr "0.8 倍近战伤害，1.2 倍远程伤害，1.75 倍维修速度"
 
 #: src-en/data/blueprints.xml.append:6077
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_lich\"]/powerList/power[6]"
-msgstr ""
+msgstr "纳米机器人使目标船员的治疗效果降低 50%"
 
 #: src-en/data/blueprints.xml.append:6078
 msgid ""
@@ -2590,62 +2605,64 @@ msgstr "受到0.5倍窒息伤害"
 
 #: src-en/data/blueprints.xml.append:6096
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/desc"
-msgstr ""
+msgstr "半械异教徒的领袖，最早脱离谐合的半械族之一。拥有对半械纳米机器人的精细操控能"
+"力，可复活几乎任何生命形态。"
 
 #: src-en/data/blueprints.xml.append:6099
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/title"
-msgstr ""
+msgstr "巫妖王"
 
 #: src-en/data/blueprints.xml.append:6100
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/short"
-msgstr ""
+msgstr "巫妖王"
 
 #: src-en/data/blueprints.xml.append:6103
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动能力：消耗 5 纳米蜂群，永久复活被该船员在近战中击杀的最后一名敌人"
 
 #: src-en/data/blueprints.xml.append:6104
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[2]"
-msgstr ""
+msgstr "主动能力：消耗 1 纳米蜂群，复活被该船员在近战中击杀的最后一名敌人"
 
 #: src-en/data/blueprints.xml.append:6105
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[3]"
-msgstr ""
+msgstr "180点最大生命值"
 
 #: src-en/data/blueprints.xml.append:6106
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[4]"
-msgstr ""
+msgstr "与该船员在同一艘舰船上的敌人被击杀时，会生成 1 纳米蜂群"
 
 #: src-en/data/blueprints.xml.append:6107
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[5]"
-msgstr ""
+msgstr "1.5倍战斗伤害，2倍维修速度"
 
 #: src-en/data/blueprints.xml.append:6108
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[6]"
-msgstr ""
+msgstr "纳米机器人使目标船员的治疗效果降低 100%"
 
 #: src-en/data/blueprints.xml.append:6109
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_necro_king\"]/powerList/power[7]"
-msgstr ""
+msgstr "免疫窒息伤害"
 
 #: src-en/data/blueprints.xml.append:6114
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_1\"]/desc"
-msgstr ""
+msgstr "一个古老的种族，利用自身在多元宇宙航行方面的技术进步，将自己与多元宇宙的其他"
+"部分隔绝开来。"
 
 #: src-en/data/blueprints.xml.append:6116
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_1\"]/title"
-msgstr ""
+msgstr "利尔米克"
 
 #: src-en/data/blueprints.xml.append:6117
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_1\"]/short"
-msgstr ""
+msgstr "利尔米克"
 
 #: src-en/data/blueprints.xml.append:6120
 msgid ""
@@ -2660,7 +2677,7 @@ msgstr "移动速度提升至 1.75 倍"
 #: src-en/data/blueprints.xml.append:6122
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_1\"]/powerList/power[3]"
-msgstr ""
+msgstr "在船员战斗中以2倍速度恢复生命值，造成1.75倍伤害"
 
 #: src-en/data/blueprints.xml.append:6123
 msgid ""
@@ -2670,27 +2687,27 @@ msgstr "不会窒息，不会燃烧"
 #: src-en/data/blueprints.xml.append:6128
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_1\"]/desc"
-msgstr ""
+msgstr "原为伟大的利尔米克军事领袖之一，现任议会首脑。"
 
 #: src-en/data/blueprints.xml.append:6130
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_1\"]/title"
-msgstr ""
+msgstr "赎罪者尤尼菲斯"
 
 #: src-en/data/blueprints.xml.append:6131
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_1\"]/short"
-msgstr ""
+msgstr "赎罪者尤尼菲斯"
 
 #: src-en/data/blueprints.xml.append:6134
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_1\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能：入侵当前系统，在入侵期间使舱室内所有船员陷入眩晕状态"
 
 #: src-en/data/blueprints.xml.append:6135
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_1\"]/powerList/power[2]"
-msgstr ""
+msgstr "可在舰船之间传送"
 
 #: src-en/data/blueprints.xml.append:6136
 msgid ""
@@ -2745,17 +2762,17 @@ msgstr "最初的利尔米克领袖之一，比其他利尔米克更强大。"
 #: src-en/data/blueprints.xml.append:6176
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_2\"]/title"
-msgstr ""
+msgstr "渐近本质"
 
 #: src-en/data/blueprints.xml.append:6177
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_2\"]/short"
-msgstr ""
+msgstr "渐近本质"
 
 #: src-en/data/blueprints.xml.append:6180
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_2\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能：清除房间内所有离子伤害，并修复2点系统伤害。"
 
 #: src-en/data/blueprints.xml.append:6181
 msgid ""
@@ -2790,17 +2807,17 @@ msgstr "最初的利尔米克领袖之一，比其他利尔米克更强大。"
 #: src-en/data/blueprints.xml.append:6193
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_3\"]/title"
-msgstr ""
+msgstr "悦动脉冲"
 
 #: src-en/data/blueprints.xml.append:6194
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_3\"]/short"
-msgstr ""
+msgstr "悦动脉冲"
 
 #: src-en/data/blueprints.xml.append:6197
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_3\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能：在敌方舰船上引爆等于当前房间敌人数量加一的火焰炸弹"
 
 #: src-en/data/blueprints.xml.append:6198
 msgid ""
@@ -2835,17 +2852,17 @@ msgstr "最初的利尔米克领袖之一，比其他利尔米克更强大。"
 #: src-en/data/blueprints.xml.append:6209
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_4\"]/title"
-msgstr ""
+msgstr "同源趋势"
 
 #: src-en/data/blueprints.xml.append:6210
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_4\"]/short"
-msgstr ""
+msgstr "同源趋势"
 
 #: src-en/data/blueprints.xml.append:6213
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_4\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能：恢复1点船体伤害和100点船员生命值"
 
 #: src-en/data/blueprints.xml.append:6214
 msgid ""
@@ -2880,17 +2897,17 @@ msgstr "最初的利尔米克领袖之一，比其他利尔米克更强大。"
 #: src-en/data/blueprints.xml.append:6225
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_5\"]/title"
-msgstr ""
+msgstr "灵智共鸣"
 
 #: src-en/data/blueprints.xml.append:6226
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_5\"]/short"
-msgstr ""
+msgstr "灵智共鸣"
 
 #: src-en/data/blueprints.xml.append:6229
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_old_unique_5\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能：生成2层超级护盾"
 
 #: src-en/data/blueprints.xml.append:6230
 msgid ""
@@ -2919,35 +2936,35 @@ msgstr "不会窒息，不会燃烧"
 
 #: src-en/data/blueprints.xml.append:6241
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_avali\"]/desc"
-msgstr ""
+msgstr "一个痴迷于科技，尤其是无人机的羽毛状族。在修复方面尤为强大。"
 
 #: src-en/data/blueprints.xml.append:6243
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_avali\"]/title"
-msgstr ""
+msgstr "Gi"
 
 #: src-en/data/blueprints.xml.append:6244
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_avali\"]/short"
-msgstr ""
+msgstr "Gi"
 
 #: src-en/data/blueprints.xml.append:6247
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_avali\"]/powerList/power[1]"
-msgstr ""
+msgstr "自动修复当前系统，修复速度为0.5倍"
 
 #: src-en/data/blueprints.xml.append:6248
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_avali\"]/powerList/power[2]"
-msgstr ""
+msgstr "当舱室内没有敌方船员时，移动速度提升至2倍"
 
 #: src-en/data/blueprints.xml.append:6298
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_illuminant\"]/desc"
-msgstr ""
+msgstr "Gi 精英船员。训练有素的无人机技师，能迅速适应任何情况。"
 
 #: src-en/data/blueprints.xml.append:6300
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_illuminant\"]/title"
-msgstr ""
+msgstr "Gi 技工"
 
 #: src-en/data/blueprints.xml.append:6301
 msgid ""
@@ -2957,26 +2974,26 @@ msgstr "革新社技工"
 #: src-en/data/blueprints.xml.append:6304
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_illuminant\"]/powerList/power[1]"
-msgstr ""
+msgstr "自动修复当前系统，修复速度为1倍"
 
 #: src-en/data/blueprints.xml.append:6305
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_illuminant\"]/powerList/power[2]"
-msgstr ""
+msgstr "当前舱室内的友方无人机每秒恢复3点生命值"
 
 #: src-en/data/blueprints.xml.append:6306
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_illuminant\"]/powerList/power[3]"
-msgstr ""
+msgstr "当舱室内没有敌对船员时，移动速度提升至2倍"
 
 #: src-en/data/blueprints.xml.append:6311
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_unique\"]/desc"
-msgstr ""
+msgstr "Gi 首席工程师，负责阿瓦利族使用的强大无人机。"
 
 #: src-en/data/blueprints.xml.append:6313
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_unique\"]/title"
-msgstr ""
+msgstr "首席工程师"
 
 #: src-en/data/blueprints.xml.append:6314
 msgid ""
@@ -2986,32 +3003,32 @@ msgstr "人类工程师"
 #: src-en/data/blueprints.xml.append:6317
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_unique\"]/powerList/power[1]"
-msgstr ""
+msgstr "140点最大生命值"
 
 #: src-en/data/blueprints.xml.append:6318
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_unique\"]/powerList/power[2]"
-msgstr ""
+msgstr "自动修复整个舰船，修复速度为1倍"
 
 #: src-en/data/blueprints.xml.append:6319
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_unique\"]/powerList/power[3]"
-msgstr ""
+msgstr "自动修复当前系统，修复速度提升至1.5倍"
 
 #: src-en/data/blueprints.xml.append:6320
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_unique\"]/powerList/power[4]"
-msgstr ""
+msgstr "当前舱室内的友方无人机每秒恢复3点生命值"
 
 #: src-en/data/blueprints.xml.append:6321
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_bird_unique\"]/powerList/power[5]"
-msgstr ""
+msgstr "当舱室内没有敌对船员时，移动速度提升至2倍"
 
 #: src-en/data/blueprints.xml.append:6326
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_vampbig\"]/title"
-msgstr ""
+msgstr "种植者教徒"
 
 #: src-en/data/blueprints.xml.append:6327
 msgid ""
@@ -3022,11 +3039,15 @@ msgstr "岩石异教徒"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_vampbig\"]/desc"
 msgstr ""
+"种植者教徒，这类船员专注于对付敌方船员，并借助花苞之力将敌人暂时转化为盟友。"
+"\n"
+"\n"
+"继承兰花族属性：窒息伤害略微降低，受到火焰伤害增加 75%，氧气自动补充"
 
 #: src-en/data/blueprints.xml.append:6335
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_vampbig\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能：心灵控制随机的一名敌方船员。"
 
 #: src-en/data/blueprints.xml.append:6336
 msgid ""
@@ -3058,7 +3079,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6351
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能：在当前舱室施放一个法术，该法术不会产生任何效果"
 
 #: src-en/data/blueprints.xml.append:6352
 msgid ""
@@ -3073,12 +3094,12 @@ msgstr "射向当前舱室的敌方弹道将广播其目标位置。"
 #: src-en/data/blueprints.xml.append:6375
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a01\"]/title"
-msgstr ""
+msgstr "血兰花教徒[保护]"
 
 #: src-en/data/blueprints.xml.append:6376
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a01\"]/short"
-msgstr ""
+msgstr "教徒[保护]"
 
 #: src-en/data/blueprints.xml.append:6377
 msgid ""
@@ -3091,7 +3112,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6384
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a01\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能（5点能量）：施放法术，使当前房间在10秒内免受船体和系统伤害"
 
 #: src-en/data/blueprints.xml.append:6385
 msgid ""
@@ -3101,12 +3122,12 @@ msgstr "2倍远程攻击速度，0.75倍远程攻击伤害"
 #: src-en/data/blueprints.xml.append:6407
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a02\"]/title"
-msgstr ""
+msgstr "血兰花教徒[中继器]"
 
 #: src-en/data/blueprints.xml.append:6408
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a02\"]/short"
-msgstr ""
+msgstr "教徒[中继器]"
 
 #: src-en/data/blueprints.xml.append:6409
 msgid ""
@@ -3119,7 +3140,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6416
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_a02\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能：施放法术，将屏幕上所有敌方弹幕重新锁定至当前舱室"
 
 #: src-en/data/blueprints.xml.append:6417
 msgid ""
