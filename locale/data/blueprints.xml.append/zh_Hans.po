@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-12 13:11+0000\n"
+"PO-Revision-Date: 2026-03-14 16:09+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/datablueprintsxmlappend/zh_Hans/>\n"
@@ -4046,21 +4046,47 @@ msgstr "咒术孢子。"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_06\"]/descriptionOverride"
 msgstr ""
+"由血兰花教徒制造的致命部分有机质炸弹武器，可装载法术并向敌人发射。无法发射射"
+"弹的法术无法装配于该武器。\n"
+"\t\n"
+"\t属性：\n"
+"\t能耗：2\n"
+"\t充能时间：20 秒\n"
+"\n"
+"\t每轮充能发射次数：2\n"
+"\t充能次数：2\n"
+"\n"
+"\t基础舰体伤害：3\n"
+"\t系统伤害：0\n"
+"\t船员伤害：0\n"
+"\t护盾穿透：16\n"
+"\n"
+"\t默认售价：70～出售价格：35～"
 
 #: src-en/data/blueprints.xml.append:8153
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_06\"]/tooltipOverride"
 msgstr ""
+"能耗：2\n"
+"\t充能时间：20 秒\n"
+"\n"
+"\t每轮充能发射次数：2\n"
+"\t充能次数：2\n"
+"\n"
+"\t基础舰体伤害：3\n"
+"\t系统伤害：0\n"
+"\t船员伤害：0\n"
+"\t护盾穿透：16"
 
 #: src-en/data/blueprints.xml.append:8202
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_08\"]/title"
-msgstr ""
+msgstr "诅咒孢子 [扭曲]"
 
 #: src-en/data/blueprints.xml.append:8203
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_08\"]/short"
-msgstr ""
+msgstr "[扭曲]"
 
 #: src-en/data/blueprints.xml.append:8205
 msgid ""
@@ -4077,21 +4103,43 @@ msgstr "咒术孢子。"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_08\"]/descriptionOverride"
 msgstr ""
+"由血兰花教徒制造的致命部分有机质炸弹武器，可装载法术并向敌人发射。无法发射射"
+"弹的法术无法装配于该武器。\n"
+"\t\n"
+"\t属性：\n"
+"\t能耗：2\n"
+"\t充能时间：18 秒\n"
+"\n"
+"\t每轮充能发射次数：2\n"
+"\t充能次数：无限\n"
+"\n"
+"\t命中时将舱室内所有船员传送至敌方舰船的随机舱室\n"
+"\t护盾穿透：16\n"
+"\n"
+"默认售价：70～出售价格：35～"
 
 #: src-en/data/blueprints.xml.append:8221
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_08\"]/tooltipOverride"
 msgstr ""
+"能耗：2\n"
+"\t充能时间：18 秒\n"
+"\n"
+"\t每轮充能发射次数：2\n"
+"\t充能次数：无限\n"
+"\n"
+"\t命中时将舱室内所有船员传送至敌方舰船的随机舱室\n"
+"\t护盾穿透：16"
 
 #: src-en/data/blueprints.xml.append:8262
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_09\"]/title"
-msgstr ""
+msgstr "诅咒孢子 [治愈]"
 
 #: src-en/data/blueprints.xml.append:8263
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_09\"]/short"
-msgstr ""
+msgstr "[治愈]"
 
 #: src-en/data/blueprints.xml.append:8265
 msgid ""
@@ -4108,21 +4156,47 @@ msgstr "咒术孢子。"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_09\"]/descriptionOverride"
 msgstr ""
+"由血兰花教徒制造的致命部分有机质炸弹武器，可装载法术并向敌人发射。无法发射投"
+"射物的法术无法装配于该武器。\n"
+"\t\n"
+"\t属性：\n"
+"\t能耗：2\n"
+"\t充能时间：13 秒\n"
+"\n"
+"\t每轮充能发射次数：2\n"
+"\t充能次数：3\n"
+"\n"
+"\t基础舰体伤害：0\n"
+"\t系统伤害：0\n"
+"\t船员伤害：-75\n"
+"\t护盾穿透：16\n"
+"\t\n"
+"\t默认售价：70～出售价格：35～"
 
 #: src-en/data/blueprints.xml.append:8283
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_09\"]/tooltipOverride"
 msgstr ""
+"能耗：2\n"
+"\t充能时间：13 秒\n"
+"\n"
+"\t每轮充能发射次数：2\n"
+"\t充能次数：3\n"
+"\n"
+"\t基础舰体伤害：0\n"
+"\t系统伤害：0\n"
+"\t船员伤害：-75\n"
+"\t护盾穿透：16"
 
 #: src-en/data/blueprints.xml.append:8331
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_12\"]/title"
-msgstr ""
+msgstr "诅咒孢子 [屏障]"
 
 #: src-en/data/blueprints.xml.append:8332
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_12\"]/short"
-msgstr ""
+msgstr "[屏障]"
 
 #: src-en/data/blueprints.xml.append:8334
 msgid ""
@@ -4139,21 +4213,45 @@ msgstr "咒术孢子。"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_12\"]/descriptionOverride"
 msgstr ""
+"由血兰花教徒制造的致命部分有机质炸弹武器，可装载法术并向敌人发射。无法发射投"
+"射物的法术无法装配于该武器。\n"
+"\t\n"
+"\t属性：\n"
+"\t能耗：2\n"
+"\t充能时间：13 秒\n"
+"\n"
+"\t每轮充能发射次数：2\n"
+"\t充能次数：3\n"
+"\n"
+"\t命中时生成一道可阻挡 2 枚投射物的屏障\n"
+"\t最多同时存在 8 道屏障\n"
+"\t护盾穿透：16\n"
+"\t\n"
+"\t默认售价：70～出售价格：35～"
 
 #: src-en/data/blueprints.xml.append:8351
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_12\"]/tooltipOverride"
 msgstr ""
+"能耗：2\n"
+"\t充能时间：13 秒\n"
+"\n"
+"\t每轮充能发射次数：2\n"
+"\t充能次数：3\n"
+"\n"
+"\t命中时生成一道可阻挡 2 枚投射物的屏障\n"
+"\t屏障最多同时存在 8 道\n"
+"\t护盾穿透：16"
 
 #: src-en/data/blueprints.xml.append:8398
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_13\"]/title"
-msgstr ""
+msgstr "诅咒孢子 [封锁]"
 
 #: src-en/data/blueprints.xml.append:8399
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_13\"]/short"
-msgstr ""
+msgstr "[封锁]"
 
 #: src-en/data/blueprints.xml.append:8401
 msgid ""
@@ -4170,21 +4268,43 @@ msgstr "咒术孢子。"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_13\"]/descriptionOverride"
 msgstr ""
+"由血兰花教徒制造的致命部分有机质炸弹武器，可装载法术并向敌人发射。无法发射射"
+"弹的法术无法装配于该武器。\n"
+"\t\n"
+"\t属性：\n"
+"\t能耗：2\n"
+"\t充能时间：14 秒\n"
+"\n"
+"\t每轮充能发射次数：2\n"
+"\t充能次数：3\n"
+"\n"
+"\t命中时封锁目标舱室\n"
+"\t护盾穿透：16\n"
+"\t\n"
+"\t默认售价：70～出售价格：35～"
 
 #: src-en/data/blueprints.xml.append:8417
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_13\"]/tooltipOverride"
 msgstr ""
+"能耗：2\n"
+"\t充能时间：14 秒\n"
+"\n"
+"\t每轮充能发射次数：2\n"
+"\t充能次数：3\n"
+"\n"
+"\t命中时封锁目标舱室\n"
+"\t护盾穿透：16"
 
 #: src-en/data/blueprints.xml.append:8464
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_14\"]/title"
-msgstr ""
+msgstr "诅咒孢子[盟友]"
 
 #: src-en/data/blueprints.xml.append:8465
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_14\"]/short"
-msgstr ""
+msgstr "[盟友]"
 
 #: src-en/data/blueprints.xml.append:8467
 msgid ""
@@ -4201,21 +4321,43 @@ msgstr "咒术孢子。"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_14\"]/descriptionOverride"
 msgstr ""
+"由血兰花教徒制造的致命部分有机质炸弹武器，可装载法术并向敌人发射。无法发射射"
+"弹的法术无法装配于该武器。\n"
+"\t\n"
+"\t属性：\n"
+"\t能耗：2\n"
+"\t充能时间：17 秒\n"
+"\n"
+"\t每轮充能发射次数：2\n"
+"\t充能次数：2\n"
+"\n"
+"\t命中时召唤一名随机盟友\n"
+"\t护盾穿透：16\n"
+"\t\n"
+"\t默认售价：70～出售价格：35～"
 
 #: src-en/data/blueprints.xml.append:8483
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_14\"]/tooltipOverride"
 msgstr ""
+"能耗：2\n"
+"\t充能时间：17 秒\n"
+"\n"
+"\t每轮充能发射次数：2\n"
+"\t充能次数：2\n"
+"\n"
+"\t命中时召唤一名随机盟友\n"
+"\t护盾穿透：16"
 
 #: src-en/data/blueprints.xml.append:8552
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_15\"]/title"
-msgstr ""
+msgstr "诅咒孢子 [心灵箭矢]"
 
 #: src-en/data/blueprints.xml.append:8553
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_15\"]/short"
-msgstr ""
+msgstr "[心灵箭矢]"
 
 #: src-en/data/blueprints.xml.append:8555
 msgid ""
@@ -4227,11 +4369,33 @@ msgstr "致命的部分有机质炸弹武器，由血兰花教徒制造。这些
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_15\"]/descriptionOverride"
 msgstr ""
+"由血兰花教徒制造的致命部分有机质炸弹武器，可装载法术并向敌人发射。无法发射射"
+"弹的法术无法装配于该武器。\n"
+"\t\n"
+"\t属性：\n"
+"\t能耗：2\n"
+"\t充能时间：18 秒\n"
+"\n"
+"\t每轮充能发射次数：2\n"
+"\t充能次数：3\n"
+"\n"
+"\t命中时控制一名敌方船员\n"
+"\t护盾穿透：16\n"
+"\t\n"
+"\t默认售价：70～出售价格：35～"
 
 #: src-en/data/blueprints.xml.append:8570
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_CULT_15\"]/tooltipOverride"
 msgstr ""
+"能耗：2\n"
+"\t充能时间：18 秒\n"
+"\n"
+"\t每轮充能发射次数：2\n"
+"\t充能次数：3\n"
+"\n"
+"\t命中时控制一名敌方船员\n"
+"\t护盾穿透：16"
 
 #: src-en/data/blueprints.xml.append:8578
 msgid ""
@@ -4241,17 +4405,21 @@ msgstr "咒术孢子。"
 #: src-en/data/blueprints.xml.append:8667
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_01\"]/title"
-msgstr ""
+msgstr "法术：[守护]"
 
 #: src-en/data/blueprints.xml.append:8668
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_01\"]/short"
-msgstr ""
+msgstr "[守护]"
 
 #: src-en/data/blueprints.xml.append:8669
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_01\"]/desc"
 msgstr ""
+"施放法术，使当前舱室在 10 秒内免受舰体与系统伤害。\n"
+"\t施法延迟：1 秒\n"
+"\t充能时间：20 秒\n"
+"\t每场战斗可使用次数：5"
 
 #: src-en/data/blueprints.xml.append:8674
 msgid ""
@@ -4261,17 +4429,20 @@ msgstr "仓储武器"
 #: src-en/data/blueprints.xml.append:8690
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_02\"]/title"
-msgstr ""
+msgstr "法术：[中继器]"
 
 #: src-en/data/blueprints.xml.append:8691
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_02\"]/short"
-msgstr ""
+msgstr "[中继器]"
 
 #: src-en/data/blueprints.xml.append:8692
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_02\"]/desc"
 msgstr ""
+"施放法术，将屏幕上所有敌方射弹的目标重定向至当前舱室。\n"
+"\t施法延迟：1 秒\n"
+"\t充能时间：20 秒"
 
 #: src-en/data/blueprints.xml.append:8696
 msgid ""
@@ -4281,17 +4452,21 @@ msgstr "仓储武器"
 #: src-en/data/blueprints.xml.append:8712
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_03\"]/title"
-msgstr ""
+msgstr "法术：[辐射]"
 
 #: src-en/data/blueprints.xml.append:8713
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_03\"]/short"
-msgstr ""
+msgstr "[辐射]"
 
 #: src-en/data/blueprints.xml.append:8714
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_03\"]/desc"
 msgstr ""
+"施放法术，穿透目标舱室所有常规护盾，造成 45 点生命值伤害。\n"
+"\t施法延迟：3 秒\n"
+"\t充能时间：20 秒\n"
+"\t每场战斗可使用次数：3"
 
 #: src-en/data/blueprints.xml.append:8719
 msgid ""
@@ -4301,17 +4476,22 @@ msgstr "仓储武器"
 #: src-en/data/blueprints.xml.append:8736
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_04\"]/title"
-msgstr ""
+msgstr "法术：[箭矢]"
 
 #: src-en/data/blueprints.xml.append:8737
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_04\"]/short"
-msgstr ""
+msgstr "[箭矢]"
 
 #: src-en/data/blueprints.xml.append:8738
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_04\"]/desc"
 msgstr ""
+"！！必须由血兰花教徒船员或诅咒孢子武器装载！！\n"
+"施放法术，穿透目标舱室所有常规护盾，造成 1 点伤害。\n"
+"\t施法延迟：8 秒\n"
+"\t充能时间：20 秒\n"
+"\t每场战斗可使用次数：2"
 
 #: src-en/data/blueprints.xml.append:8744
 msgid ""
@@ -4321,17 +4501,22 @@ msgstr "仓储武器"
 #: src-en/data/blueprints.xml.append:8760
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_05\"]/title"
-msgstr ""
+msgstr "法术：[爆裂]"
 
 #: src-en/data/blueprints.xml.append:8761
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_05\"]/short"
-msgstr ""
+msgstr "[爆裂]"
 
 #: src-en/data/blueprints.xml.append:8762
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_05\"]/desc"
 msgstr ""
+"！！必须由血兰花教徒船员或诅咒孢子武器装载！！\n"
+"施放 3 发法术，穿透目标舱室所有常规护盾，每发造成 1 点伤害。\n"
+"\t施法延迟：20 秒\n"
+"\t充能时间：20 秒\n"
+"\t每场战斗可使用次数：2"
 
 #: src-en/data/blueprints.xml.append:8768
 msgid ""
@@ -4341,17 +4526,22 @@ msgstr "仓储武器"
 #: src-en/data/blueprints.xml.append:8784
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_06\"]/title"
-msgstr ""
+msgstr "法术：[舰体箭矢]"
 
 #: src-en/data/blueprints.xml.append:8785
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_06\"]/short"
-msgstr ""
+msgstr "[舰体箭矢]"
 
 #: src-en/data/blueprints.xml.append:8786
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_06\"]/desc"
 msgstr ""
+"！！必须由血兰花教徒船员或诅咒孢子武器装载！！\n"
+"施放法术，穿透目标舱室所有常规护盾，造成 3 点舰体伤害，不伤害系统与船员。\n"
+"\t施法延迟：10 秒\n"
+"\t充能时间：20 秒\n"
+"\t每场战斗可使用次数：2"
 
 #: src-en/data/blueprints.xml.append:8792
 msgid ""
@@ -4361,17 +4551,21 @@ msgstr "仓储武器"
 #: src-en/data/blueprints.xml.append:8808
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_07\"]/title"
-msgstr ""
+msgstr "法术：[扭曲]"
 
 #: src-en/data/blueprints.xml.append:8809
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_07\"]/short"
-msgstr ""
+msgstr "[扭曲]"
 
 #: src-en/data/blueprints.xml.append:8810
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_07\"]/desc"
 msgstr ""
+"！！必须由血兰花教徒船员或诅咒孢子武器装载！！\n"
+"在当前舱室施放法术，将该舱室所有船员传送至对方舰船的随机舱室。\n"
+"\t施法延迟：6 秒\n"
+"\t充能时间：20 秒"
 
 #: src-en/data/blueprints.xml.append:8815
 msgid ""
@@ -4381,17 +4575,22 @@ msgstr "仓储武器"
 #: src-en/data/blueprints.xml.append:8831
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_08\"]/title"
-msgstr ""
+msgstr "法术：[扭曲箭矢]"
 
 #: src-en/data/blueprints.xml.append:8832
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_08\"]/short"
-msgstr ""
+msgstr "[扭曲]"
 
 #: src-en/data/blueprints.xml.append:8833
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_08\"]/desc"
 msgstr ""
+"！！必须由血兰花教徒船员或诅咒孢子武器装载！！\n"
+"施放法术，穿透目标舱室所有护盾，将该舱室内所有船员传送至对方舰船的随机舱室。"
+"\n"
+"\t施法延迟：8 秒\n"
+"\t充能时间：20 秒"
 
 #: src-en/data/blueprints.xml.append:8838
 msgid ""
@@ -4401,17 +4600,22 @@ msgstr "仓储武器"
 #: src-en/data/blueprints.xml.append:8854
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_09\"]/title"
-msgstr ""
+msgstr "法术：[恢复]"
 
 #: src-en/data/blueprints.xml.append:8855
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_09\"]/short"
-msgstr ""
+msgstr "[恢复]"
 
 #: src-en/data/blueprints.xml.append:8856
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_09\"]/desc"
 msgstr ""
+"！！必须由血兰花教徒船员或诅咒孢子武器装载！！\n"
+"施放法术，穿透目标舱室所有护盾，为所有友方船员恢复 75 点生命值。\n"
+"\t施法延迟：2 秒\n"
+"\t充能时间：20 秒\n"
+"\t每场战斗可使用次数：3"
 
 #: src-en/data/blueprints.xml.append:8862
 msgid ""
@@ -4421,17 +4625,21 @@ msgstr "仓储武器"
 #: src-en/data/blueprints.xml.append:8878
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_10\"]/title"
-msgstr ""
+msgstr "法术：[治疗光环]"
 
 #: src-en/data/blueprints.xml.append:8879
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_10\"]/short"
-msgstr ""
+msgstr "[治疗光环]"
 
 #: src-en/data/blueprints.xml.append:8880
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_10\"]/desc"
 msgstr ""
+"！！必须由血兰花教徒船员或诅咒孢子武器装载！！\n"
+"在当前舱室施放法术，为该舱室内所有友方船员恢复 45 点生命值。\n"
+"\t施法延迟：5 秒\n"
+"\t充能时间：20 秒"
 
 #: src-en/data/blueprints.xml.append:8885
 msgid ""
@@ -4441,17 +4649,22 @@ msgstr "仓储武器"
 #: src-en/data/blueprints.xml.append:8901
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_11\"]/title"
-msgstr ""
+msgstr "法术：[无人机]"
 
 #: src-en/data/blueprints.xml.append:8902
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_11\"]/short"
-msgstr ""
+msgstr "[无人机]"
 
 #: src-en/data/blueprints.xml.append:8903
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_11\"]/desc"
 msgstr ""
+"！！必须由血兰花教徒船员或诅咒孢子武器装载！！\n"
+"在敌方星舰周围生成一架防御型战斗无人机。\n"
+"\t施法延迟：10 秒\n"
+"\t充能时间：20 秒\n"
+"\t每场战斗可使用次数：1"
 
 #: src-en/data/blueprints.xml.append:8909
 msgid ""
@@ -4461,17 +4674,23 @@ msgstr "仓储武器"
 #: src-en/data/blueprints.xml.append:8925
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_12\"]/title"
-msgstr ""
+msgstr "法术：[屏障]"
 
 #: src-en/data/blueprints.xml.append:8926
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_12\"]/short"
-msgstr ""
+msgstr "[屏障]"
 
 #: src-en/data/blueprints.xml.append:8927
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_12\"]/desc"
 msgstr ""
+"！！必须由血兰花教徒船员或诅咒孢子武器装载！！\n"
+"施放法术，穿透目标舱室所有常规护盾，生成一道可阻挡 2 枚投射物的屏障。最多同时"
+"存在 8 道屏障\n"
+"\t施法延迟：2 秒\n"
+"\t充能时间：20 秒\n"
+"\t每场战斗可使用次数：3"
 
 #: src-en/data/blueprints.xml.append:8933
 msgid ""
@@ -4481,17 +4700,22 @@ msgstr "仓储武器"
 #: src-en/data/blueprints.xml.append:8949
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_13\"]/title"
-msgstr ""
+msgstr "法术：[封锁]"
 
 #: src-en/data/blueprints.xml.append:8950
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_13\"]/short"
-msgstr ""
+msgstr "[封锁]"
 
 #: src-en/data/blueprints.xml.append:8951
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_13\"]/desc"
 msgstr ""
+"！！必须由血兰花教徒船员或诅咒孢子武器装载！！\n"
+"施放法术，穿透目标舱室所有常规护盾，施加封锁效果。\n"
+"\t施法延迟：4 秒\n"
+"\t充能时间：20 秒\n"
+"\t每场战斗可使用次数：3"
 
 #: src-en/data/blueprints.xml.append:8957
 msgid ""
@@ -4501,17 +4725,22 @@ msgstr "仓储武器"
 #: src-en/data/blueprints.xml.append:8973
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_14\"]/title"
-msgstr ""
+msgstr "法术：[盟友]"
 
 #: src-en/data/blueprints.xml.append:8974
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_14\"]/short"
-msgstr ""
+msgstr "[盟友]"
 
 #: src-en/data/blueprints.xml.append:8975
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_14\"]/desc"
 msgstr ""
+"！！必须由血兰花教徒船员或诅咒孢子武器装载！！\n"
+"施放法术，穿透目标舱室所有常规护盾，召唤一名随机盟友。\n"
+"\t施法延迟：7 秒\n"
+"\t充能时间：20 秒\n"
+"\t每场战斗可使用次数：2"
 
 #: src-en/data/blueprints.xml.append:8981
 msgid ""
@@ -4521,17 +4750,22 @@ msgstr "仓储武器"
 #: src-en/data/blueprints.xml.append:8997
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_15\"]/title"
-msgstr ""
+msgstr "法术：[心灵箭矢]"
 
 #: src-en/data/blueprints.xml.append:8998
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_15\"]/short"
-msgstr ""
+msgstr "[心灵箭矢]"
 
 #: src-en/data/blueprints.xml.append:8999
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_SPELL_ITEM_15\"]/desc"
 msgstr ""
+"！！必须由血兰花教徒船员或诅咒孢子武器装载！！\n"
+"施放法术，穿透目标舱室所有常规护盾，控制一名敌人 20 秒。\n"
+"\t施法延迟：8 秒\n"
+"\t充能时间：20 秒\n"
+"\t每场战斗可使用次数：3"
 
 #: src-en/data/blueprints.xml.append:9005
 msgid ""
@@ -4541,170 +4775,186 @@ msgstr "仓储武器"
 #: src-en/data/blueprints.xml.append:9022
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD\"]/class"
-msgstr ""
+msgstr "花蕾星舰"
 
 #: src-en/data/blueprints.xml.append:9023
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD\"]/name"
-msgstr ""
+msgstr "花瓣"
 
 #: src-en/data/blueprints.xml.append:9024
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD\"]/desc"
-msgstr ""
+msgstr "虽然这艘船本身并不出众，但船员们能够借助神的力量摧毁敌人。"
 
 #: src-en/data/blueprints.xml.append:9111
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_ORCHID_AEA_COMMUNION\"]/title"
-msgstr ""
+msgstr "远古融合"
 
 #: src-en/data/blueprints.xml.append:9112
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_ORCHID_AEA_COMMUNION\"]/desc"
-msgstr ""
+msgstr "你可以在空信标处购买法术。"
 
 #: src-en/data/blueprints.xml.append:9119
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_ORCHID_AEA_COMMUNION\"]/title"
-msgstr ""
+msgstr "[L]远古融合"
 
 #: src-en/data/blueprints.xml.append:9120
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_ORCHID_AEA_COMMUNION\"]/desc"
 msgstr ""
+"你可以在空信标处购买法术。\n"
+"\t\n"
+"\t[L] - 作为物种实验室升级，此强化效果将提供其常规效果，但会占用一个增强槽位"
+"。它无法转换为实际的实验室升级，但不会消耗你的主槽位。此效果不可与自身叠加。"
 
 #: src-en/data/blueprints.xml.append:9129
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD_2\"]/class"
-msgstr ""
+msgstr "花蕾星舰"
 
 #: src-en/data/blueprints.xml.append:9130
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD_2\"]/name"
-msgstr ""
+msgstr "藤蔓"
 
 #: src-en/data/blueprints.xml.append:9131
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD_2\"]/desc"
-msgstr ""
+msgstr "这里的船员特别擅长对付敌方船员，他们会将对方绑架到自己的船上。"
 
 #: src-en/data/blueprints.xml.append:9216
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD_3\"]/class"
-msgstr ""
+msgstr "花蕾星舰"
 
 #: src-en/data/blueprints.xml.append:9217
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD_3\"]/name"
-msgstr ""
+msgstr "根系"
 
 #: src-en/data/blueprints.xml.append:9218
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BUD_3\"]/desc"
-msgstr ""
+msgstr "由于没有护盾系统，船员们学会了其他保护飞船的方法。"
 
 #: src-en/data/blueprints.xml.append:9305
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BLOOM\"]/class"
-msgstr ""
+msgstr "绽放星舰"
 
 #: src-en/data/blueprints.xml.append:9306
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BLOOM\"]/name"
-msgstr ""
+msgstr "树叶"
 
 #: src-en/data/blueprints.xml.append:9307
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BLOOM\"]/desc"
-msgstr ""
+msgstr "这艘船直接汲取花蕾的力量，向敌方船只施放法术。"
 
 #: src-en/data/blueprints.xml.append:9392
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BLOOM_2\"]/class"
-msgstr ""
+msgstr "绽放星舰"
 
 #: src-en/data/blueprints.xml.append:9393
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BLOOM_2\"]/name"
-msgstr ""
+msgstr "行李箱"
 
 #: src-en/data/blueprints.xml.append:9394
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BLOOM_2\"]/desc"
-msgstr ""
+msgstr "这艘飞船凭借精干的船员和一台原型发电机来保护自身，每当你开火时，该发电机便会"
+"在舱室内生成防护屏障。"
 
 #: src-en/data/blueprints.xml.append:9482
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_CULT_MAGIC_BOOST\"]/title"
-msgstr ""
+msgstr "魔法跳跃"
 
 #: src-en/data/blueprints.xml.append:9490
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BLOOM_3\"]/class"
-msgstr ""
+msgstr "绽放星舰"
 
 #: src-en/data/blueprints.xml.append:9491
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BLOOM_3\"]/name"
-msgstr ""
+msgstr "种子"
 
 #: src-en/data/blueprints.xml.append:9492
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_BLOOM_3\"]/desc"
-msgstr ""
+msgstr "一艘拥有危险船员的强大登舰船。"
 
 #: src-en/data/blueprints.xml.append:9578
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_WHALE\"]/class"
-msgstr ""
+msgstr "太空鲸"
 
 #: src-en/data/blueprints.xml.append:9579
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_WHALE\"]/name"
-msgstr ""
+msgstr "OOOoooooOOOoooOoo"
 
 #: src-en/data/blueprints.xml.append:9580
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CULT_WHALE\"]/desc"
-msgstr ""
+msgstr "一只庞大的太空鲸，已加入联邦阵营。"
 
 #: src-en/data/blueprints.xml.append:9664
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_AUG_WHALE\"]/title"
-msgstr ""
+msgstr "太空鲸"
 
 #: src-en/data/blueprints.xml.append:9665
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"AEA_AUG_WHALE\"]/desc"
 msgstr ""
+"你是一头太空鲸。\n"
+"  - 登舰者在你的舰船上会持续受到伤害，速度为 3 点生命值/秒。\n"
+"  - 你的氧气系统无法为你的“舰船”充满氧气（那会让你爆炸），但 1 级氧气系统会使"
+"船上所有船员免疫窒息，且氧气系统每提升一级，敌方船员受到的持续伤害增加 1 点生"
+"命值/秒。\n"
+"  - 每当敌方船员在你的舰船上死亡，你修复 1 点舰体伤害。\n"
+"  - 舰船上的每个破舱会降低武器充能速度与护盾充能速度 5%。"
 
 #: src-en/data/blueprints.xml.append:9676
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW3\"]/class"
-msgstr ""
+msgstr "泰妮的特员星舰"
 
 #: src-en/data/blueprints.xml.append:9677
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW3\"]/name"
-msgstr ""
+msgstr "新芽"
 
 #: src-en/data/blueprints.xml.append:9678
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AEA_CREW3\"]/desc"
-msgstr ""
+msgstr "泰妮关于友谊与魔法的伟大冒险。"
 
 #: src-en/data/blueprints.xml.append:9767
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_sup\"]/title"
-msgstr ""
+msgstr "血兰花支援祭司"
 
 #: src-en/data/blueprints.xml.append:9768
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_sup\"]/short"
-msgstr ""
+msgstr "支援祭司"
 
 #: src-en/data/blueprints.xml.append:9769
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_sup\"]/desc"
 msgstr ""
+"血兰花祭司，专精于施放增益或保护己方星舰的支援法术。\n"
+"可用法术：[守护]、[屏障] 与 [召唤盟友]。\n"
+"\n"
+"继承兰花族属性：窒息伤害略微降低，受到火焰伤害增加 75%，氧气自动补充"
 
 #: src-en/data/blueprints.xml.append:9777
 msgid ""
