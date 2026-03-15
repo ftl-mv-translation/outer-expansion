@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-14 16:09+0000\n"
+"PO-Revision-Date: 2026-03-15 00:49+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/datablueprintsxmlappend/zh_Hans/>\n"
@@ -3155,12 +3155,12 @@ msgstr "射向当前舱室的敌方弹道将广播其目标位置。"
 #: src-en/data/blueprints.xml.append:6440
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s03\"]/title"
-msgstr "血兰花教徒[生物冲击]"
+msgstr "血兰花教徒[辐射]"
 
 #: src-en/data/blueprints.xml.append:6441
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_wizard_s03\"]/short"
-msgstr "教徒[生物冲击]"
+msgstr "教徒[辐射]"
 
 #: src-en/data/blueprints.xml.append:6442
 msgid ""
@@ -4959,12 +4959,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9777
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_sup\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动能力：向目标舱室施放一个随机支援法术"
 
 #: src-en/data/blueprints.xml.append:9778
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_sup\"]/powerList/power[2]"
-msgstr ""
+msgstr "远程攻击速度提升至四倍，但仅造成 50% 远程伤害"
 
 #: src-en/data/blueprints.xml.append:9779
 msgid ""
@@ -4974,27 +4974,31 @@ msgstr "射向当前舱室的敌方弹道将广播其目标位置。"
 #: src-en/data/blueprints.xml.append:9789
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_off\"]/title"
-msgstr ""
+msgstr "血兰花进攻祭司"
 
 #: src-en/data/blueprints.xml.append:9790
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_off\"]/short"
-msgstr ""
+msgstr "进攻祭司"
 
 #: src-en/data/blueprints.xml.append:9791
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_off\"]/desc"
 msgstr ""
+"血兰花进攻祭司，专精于施放用于攻击敌方舰船的攻击性法术。\n"
+"可用法术：[辐射箭矢]、[舰体箭矢]、[无人机] 和 [封锁]。\n"
+"\n"
+"继承兰花族属性：窒息伤害略微降低，受到火焰伤害增加 75%，氧气自动补充"
 
 #: src-en/data/blueprints.xml.append:9799
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_off\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动能力：向目标舱室施放一个随机进攻性法术"
 
 #: src-en/data/blueprints.xml.append:9800
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_off\"]/powerList/power[2]"
-msgstr ""
+msgstr "远程攻击速度提升至四倍，但仅造成 50% 远程伤害"
 
 #: src-en/data/blueprints.xml.append:9801
 msgid ""
@@ -5004,27 +5008,31 @@ msgstr "射向当前舱室的敌方弹道将广播其目标位置。"
 #: src-en/data/blueprints.xml.append:9811
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_bor\"]/title"
-msgstr ""
+msgstr "血兰花登舰祭司"
 
 #: src-en/data/blueprints.xml.append:9812
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_bor\"]/short"
-msgstr ""
+msgstr "登舰祭司"
 
 #: src-en/data/blueprints.xml.append:9813
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_bor\"]/desc"
 msgstr ""
+"血兰花登舰祭司，专精于施放用于对付敌方船员的登舰法术。\n"
+"可用法术：[辐射箭矢]、[扭曲箭矢]、[召唤盟友] 和 [心灵箭矢]。\n"
+"\n"
+"继承兰花族属性：窒息伤害略微降低，受到火焰伤害增加 75%，氧气自动补充"
 
 #: src-en/data/blueprints.xml.append:9821
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_bor\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能：对目标房间施放一个随机的登船法术"
 
 #: src-en/data/blueprints.xml.append:9822
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_priest_bor\"]/powerList/power[2]"
-msgstr ""
+msgstr "远程攻击速度提升至四倍，但仅造成 50% 远程伤害"
 
 #: src-en/data/blueprints.xml.append:9823
 msgid ""
@@ -5033,7 +5041,7 @@ msgstr "射向当前舱室的敌方弹道将广播其目标位置。"
 
 #: src-en/data/blueprints.xml.append:9833
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_seed\"]/desc"
-msgstr ""
+msgstr "血兰花教徒所崇拜的强大之花赠予你的一颗种子。"
 
 #: src-en/data/blueprints.xml.append:9834
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_seed\"]/title"
@@ -5046,20 +5054,20 @@ msgstr "种子"
 #: src-en/data/blueprints.xml.append:9839
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_seed\"]/powerList/power[1]"
-msgstr ""
+msgstr "仅在舱室内有其他船员时才能移动，但会将该舱室内友方船员的速度降至与其相同。"
 
 #: src-en/data/blueprints.xml.append:9840
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_seed\"]/powerList/power[2]"
-msgstr ""
+msgstr "易碎物品，无法克隆或恢复。"
 
 #: src-en/data/blueprints.xml.append:9849
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/title"
-msgstr ""
+msgstr "泰妮血兰花教徒"
 
 #: src-en/data/blueprints.xml.append:9850
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/short"
-msgstr ""
+msgstr "泰妮教徒"
 
 #: src-en/data/blueprints.xml.append:9851
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/desc"
@@ -5086,7 +5094,7 @@ msgstr "技能充能速度翻倍，技能使用次数无限"
 #: src-en/data/blueprints.xml.append:9861
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny\"]/powerList/power[4]"
-msgstr ""
+msgstr "主动技能：在当前舱室施放一个法术，该法术不会产生任何效果"
 
 #: src-en/data/blueprints.xml.append:9862
 msgid ""
@@ -5101,12 +5109,12 @@ msgstr "射向当前舱室的敌方弹道将广播其目标位置。"
 #: src-en/data/blueprints.xml.append:9872
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a01\"]/title"
-msgstr ""
+msgstr "泰妮血兰花教徒[防御]"
 
 #: src-en/data/blueprints.xml.append:9873
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a01\"]/short"
-msgstr ""
+msgstr "泰妮教徒[保护]"
 
 #: src-en/data/blueprints.xml.append:9874
 msgid ""
@@ -5134,7 +5142,7 @@ msgstr "技能充能速度翻倍，技能使用次数无限"
 #: src-en/data/blueprints.xml.append:9884
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a01\"]/powerList/power[4]"
-msgstr ""
+msgstr "主动技能（5点能量）：施放法术，使当前房间在10秒内免受船体和系统伤害"
 
 #: src-en/data/blueprints.xml.append:9885
 msgid ""
@@ -5149,12 +5157,12 @@ msgstr "射向当前舱室的敌方弹道将广播其目标位置。"
 #: src-en/data/blueprints.xml.append:9897
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a02\"]/title"
-msgstr ""
+msgstr "泰妮血兰花教徒[中继器]"
 
 #: src-en/data/blueprints.xml.append:9898
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a02\"]/short"
-msgstr ""
+msgstr "泰妮教徒[中继器]"
 
 #: src-en/data/blueprints.xml.append:9899
 msgid ""
@@ -5182,7 +5190,7 @@ msgstr "技能充能速度翻倍，技能使用次数无限"
 #: src-en/data/blueprints.xml.append:9909
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_a02\"]/powerList/power[4]"
-msgstr ""
+msgstr "主动技能：施放法术，将屏幕上所有敌方弹幕重新锁定至当前舱室"
 
 #: src-en/data/blueprints.xml.append:9910
 msgid ""
@@ -5197,12 +5205,12 @@ msgstr "射向当前舱室的敌方弹道将广播其目标位置。"
 #: src-en/data/blueprints.xml.append:9922
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s03\"]/title"
-msgstr ""
+msgstr "泰妮血兰花教徒[辐射]"
 
 #: src-en/data/blueprints.xml.append:9923
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s03\"]/short"
-msgstr ""
+msgstr "泰妮教徒[辐射]"
 
 #: src-en/data/blueprints.xml.append:9924
 msgid ""
@@ -5230,7 +5238,7 @@ msgstr "技能充能速度翻倍，技能使用次数无限"
 #: src-en/data/blueprints.xml.append:9934
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"aea_cult_tiny_s03\"]/powerList/power[4]"
-msgstr ""
+msgstr "主动能力（3 充能）：向目标舱室施放法术，造成 45 点生命值伤害"
 
 #: src-en/data/blueprints.xml.append:9935
 msgid ""
