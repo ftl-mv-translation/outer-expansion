@@ -1,14 +1,24 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-03-17 02:19+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/dataevents_special_boonsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_boons.xml.append:5
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_SUPER_SHIELD\"]/text"
 msgstr ""
+"不知从何处传来一个声音对你说道：“[辅助护盾] 已—已—已安装。安装完毕！辅助护盾"
+"予礼：一层能量护盾，可与其他能量护盾叠加。若—你—见到之前的挑战者；请代我致谢"
+"。我建议你—也来—拜访我。”"
 
 #: src-en/data/events_special_boons.xml.append:8
 msgid ""
@@ -19,6 +29,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_CLONE_CRIME\"]/text"
 msgstr ""
+"不知从何处传来一个声音对你说道：“[非法改装克隆舱] 已—已—已安装。安装完毕！该"
+"装置予礼：每次跃迁后，在舰船上生成一名生命时长为 20 秒的弱化普通船员。若—你—"
+"见到之前的挑战者；请代我致谢。我建议你—也来—拜访我。”"
 
 #: src-en/data/events_special_boons.xml.append:18
 msgid ""
@@ -29,6 +42,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_ACID\"]/text"
 msgstr ""
+"不知从何处传来一个声音对你说道：“生长恩惠。你的酸藻族船员将…治疗速度翻倍且无"
+"法被眩晕。你或许…该感谢之前的挑战者。又或许你…并不想？谁知道呢…”"
 
 #: src-en/data/events_special_boons.xml.append:29
 msgid ""
@@ -39,6 +54,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_BIRD\"]/text"
 msgstr ""
+"不知从何处传来一个声音对你说道：“羽翼恩惠。你的 Gi 族船员将…自动修复速度额外"
+"提升 0.25 倍。你或许…该感谢之前的挑战者。又或许你…并不想？谁知道呢…”"
 
 #: src-en/data/events_special_boons.xml.append:39
 msgid ""
@@ -48,7 +65,8 @@ msgstr "继续。"
 #: src-en/data/events_special_boons.xml.append:46
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_CULT\"]/text"
-msgstr ""
+msgstr "不知从何处传来一个声音对你说道：“信仰恩惠。你的邪教徒船员将…远程伤害提高 25%"
+"。你或许…该感谢之前的挑战者。又或许你…并不想？谁知道呢…”"
 
 #: src-en/data/events_special_boons.xml.append:49
 msgid ""
@@ -58,7 +76,8 @@ msgstr "继续。"
 #: src-en/data/events_special_boons.xml.append:56
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_NECRO\"]/text"
-msgstr ""
+msgstr "不知从何处传来一个声音对你说道：“增复生恩惠。你将…每次跃迁获得 1 纳米蜂群。你"
+"或许…该感谢之前的挑战者。又或许你…并不想？谁知道呢…”"
 
 #: src-en/data/events_special_boons.xml.append:59
 msgid ""
@@ -69,6 +88,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_SHLEG\"]/text"
 msgstr ""
+"不知从何处传来一个声音对你说道：“软体恩惠。你的甲壳族无政府主义者船员将…获得"
+"心灵控制免疫，蛞蝓族无政府主义者船员将…获得 10% 伤害抗性。你或许…该感谢之前的"
+"挑战者。又或许你…并不想？谁知道呢…”"
 
 #: src-en/data/events_special_boons.xml.append:69
 msgid ""
@@ -79,6 +101,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_SHARD\"]/text"
 msgstr ""
+"不知从何处传来一个声音对你说道：“碎裂恩惠。你的碎晶铸者船员将…额外造成 25% 破"
+"坏伤害。你或许…该感谢之前的挑战者。又或许你…并不想？谁知道呢…”"
 
 #: src-en/data/events_special_boons.xml.append:79
 msgid ""
@@ -89,6 +113,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_JUSTICE\"]/text"
 msgstr ""
+"不知从何处传来一个声音对你说道：“献祭恩惠。惩罚者进行仪式时，将…每秒恢复 5 点"
+"生命值。你或许…该感谢之前的挑战者。又或许你…并不想？谁知道呢…”"
 
 #: src-en/data/events_special_boons.xml.append:89
 msgid ""
@@ -99,6 +125,8 @@ msgstr "继续。"
 msgid ""
 "data/events_special_boons.xml.append$//event[@name=\"BOON_SELECT_AEA_OLD\"]/text"
 msgstr ""
+"不知从何处传来一个声音对你说道：“聚合恩惠。你的利尔米克船员将…根据敌方船员数"
+"量获得 10% 伤害加成。你或许…该感谢之前的挑战者。又或许你…并不想？谁知道呢…”"
 
 #: src-en/data/events_special_boons.xml.append:99
 msgid ""
