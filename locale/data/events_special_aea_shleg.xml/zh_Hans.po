@@ -1,19 +1,32 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-03-23 10:04+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/dataevents_special_aea_shlegxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_aea_shleg.xml:4
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_UPDATE_AEA_SHLEG\"]/text"
 msgstr ""
+"[恶名提升——无政府主义者]\n"
+"\t你在此处的所作所为，无论是否情有可原，在怪才体及其公民眼中都不会留下好印象"
+"。持续此类行为，可能会引发无政府主义者及其盟友的负面反应。"
 
 #: src-en/data/events_special_aea_shleg.xml:9
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_UPDATE_AEA_SHLEG_FIGHT\"]/text"
 msgstr ""
+"[恶名提升——无政府主义者]\n"
+"\t你在此处的所作所为，无论是否情有可原，在怪才体及其公民眼中都不会留下好印象"
+"。持续此类行为，可能会引发无政府主义者及其盟友的负面反应。"
 
 #: src-en/data/events_special_aea_shleg.xml:13
 msgid ""
@@ -24,21 +37,26 @@ msgstr "继续。"
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"MORALITY_REMOVE_AEA_SHLEG\"]/text"
 msgstr ""
+"[恶名降低——无政府主义者]\n"
+"\t你在无政府主义者眼中做了件好事。若你曾因过往行为积累过恶名，如今更易获得他"
+"们的谅解。"
 
 #: src-en/data/events_special_aea_shleg.xml:37
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_START_AEA_SHLEG\"]/text[1]"
-msgstr ""
+msgstr "你已抵达无政府主义者星域。无政府主义者虽未明确反对联邦，却也谈不上支持，他们"
+"正忙于反抗星盗会与怪才体，已自顾不暇。"
 
 #: src-en/data/events_special_aea_shleg.xml:38
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_START_AEA_SHLEG\"]/text[2]"
-msgstr ""
+msgstr "你已抵达无政府主义者星域。这里的许多人对联邦抱有戒心，你最好谨慎行事。"
 
 #: src-en/data/events_special_aea_shleg.xml:39
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_START_AEA_SHLEG\"]/text[3]"
-msgstr ""
+msgstr "你已抵达无政府主义者星域。在这里你很难找到盟友，只是幸运的是，那些蛞蝓族、甲"
+"壳族之类的种族对联邦并无太多防备。"
 
 #: src-en/data/events_special_aea_shleg.xml:53
 msgid ""
@@ -67,7 +85,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_shleg.xml:84
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_CRIMINAL\"]/text"
-msgstr ""
+msgstr "这里有些不对劲。通常无政府主义者对你这样的星舰毫不在意，但此刻，你从警戒舰上"
+"捕捉到了可疑的通讯杂音。"
 
 #: src-en/data/events_special_aea_shleg.xml:86
 msgid ""
@@ -87,6 +106,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_shleg.xml:99
 msgid "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG\"]/text"
 msgstr ""
+"无政府主义者重视防御体系的维护，不仅体现在舰船之上，更覆盖整个星域。因此，他"
+"们已部署一艘警戒舰以守护入口信标。幸运的是，他们似乎并不介意你出现在这里。"
 
 #: src-en/data/events_special_aea_shleg.xml:101
 msgid ""
@@ -131,7 +152,7 @@ msgstr "一位娇小的甲壳族出现在屏幕上，它的单眼盯着你，等
 #: src-en/data/events_special_aea_shleg.xml:133
 msgid ""
 "data/events_special_aea_shleg.xml$//textList[@name=\"TEXT_GUARD_AEA_SHLEG_CONTACT\"]/text[2]"
-msgstr ""
+msgstr "蛞蝓族舰长对你的通讯请求感到惊讶，不过还是接通了。"
 
 #: src-en/data/events_special_aea_shleg.xml:138
 msgid ""
@@ -151,7 +172,7 @@ msgstr "(高级武器系统)威胁守卫。"
 #: src-en/data/events_special_aea_shleg.xml:150
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_INTERACT\"]/choice[@req=\"LIST_CREW_AEA_SHLEG\"]/text"
-msgstr ""
+msgstr "（无政府主义者船员）请求协助。"
 
 #: src-en/data/events_special_aea_shleg.xml:152
 msgid ""
@@ -181,22 +202,23 @@ msgstr "跳过。"
 #: src-en/data/events_special_aea_shleg.xml:174
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_REQUEST\"]/event[1]/text"
-msgstr ""
+msgstr "“抱歉，我什么都给不了~~~~~。”无政府主义者切断了你的通讯。"
 
 #: src-en/data/events_special_aea_shleg.xml:177
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_REQUEST\"]/event[2]/text"
-msgstr ""
+msgstr "“抱歉，我什么都给不了~~~~~。”无政府主义者切断了你的通讯。"
 
 #: src-en/data/events_special_aea_shleg.xml:180
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_REQUEST\"]/event[3]/text"
-msgstr ""
+msgstr "出乎意料的是，无政府主义者移交了一些物资。你暗自揣测，这究竟是出于善意，还是"
+"源于恐惧。"
 
 #: src-en/data/events_special_aea_shleg.xml:186
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_DEMAND\"]/event[1]/text"
-msgstr ""
+msgstr "这名守卫不会容忍你的要求。他们已武装武器，你最好也做好迎战准备。"
 
 #: src-en/data/events_special_aea_shleg.xml:189
 msgid ""
@@ -206,7 +228,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_shleg.xml:194
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_DEMAND\"]/event[2]/text"
-msgstr ""
+msgstr "不知是畏惧你，还是本性善良，无政府主义者心甘情愿地移交了物资。"
 
 #: src-en/data/events_special_aea_shleg.xml:197
 msgid ""
@@ -216,7 +238,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_shleg.xml:204
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_THREATEN\"]/event[1]/text"
-msgstr ""
+msgstr "这名守卫不会容忍你的要求。他们已武装武器，你最好也做好迎战准备。"
 
 #: src-en/data/events_special_aea_shleg.xml:207
 msgid ""
@@ -226,7 +248,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_shleg.xml:212
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_THREATEN\"]/event[2]/text"
-msgstr ""
+msgstr "不知是畏惧你，还是本性善良，无政府主义者心甘情愿地移交了物资。"
 
 #: src-en/data/events_special_aea_shleg.xml:215
 msgid ""
@@ -236,7 +258,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_shleg.xml:220
 msgid ""
 "data/events_special_aea_shleg.xml$//eventList[@name=\"GUARD_AEA_SHLEG_THREATEN\"]/event[3]/text"
-msgstr ""
+msgstr "不知是畏惧你，还是本性善良，无政府主义者心甘情愿地移交了物资。"
 
 #: src-en/data/events_special_aea_shleg.xml:223
 msgid ""
@@ -246,7 +268,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_shleg.xml:236
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_DESTROY\"]/text"
-msgstr ""
+msgstr "你击败了无政府主义者守卫。无论他们货舱中曾有何物，定已损毁殆尽，但你至少能从"
+"星舰上回收部分物资。"
 
 #: src-en/data/events_special_aea_shleg.xml:239
 msgid ""
@@ -256,7 +279,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_shleg.xml:244
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_DEADCREW\"]/text"
-msgstr ""
+msgstr "你击败了无政府主义者守卫。船上已无船员阻拦，你可调查其货舱。找到一件武器带回"
+"舰船，并继续拆解其舰体回收废料。"
 
 #: src-en/data/events_special_aea_shleg.xml:248
 msgid ""
@@ -266,7 +290,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_shleg.xml:261
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"GUARD_AEA_SHLEG_FOLLOWUP\"]/text"
-msgstr ""
+msgstr "击杀无政府主义者守卫，无疑会促使他们派遣增援追捕你。探索该星域时务必谨慎行事"
+"。"
 
 #: src-en/data/events_special_aea_shleg.xml:270
 msgid ""
@@ -297,7 +322,8 @@ msgstr "未探索的信标。"
 #: src-en/data/events_special_aea_shleg.xml:286
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"REINFORCEMENTS_AEA_SHLEG\"]/text"
-msgstr ""
+msgstr "要让无政府主义者摒弃怯懦、正面迎战像你这样一艘联邦星舰，着实费了不少口舌——但"
+"当你闯进这片星域并击杀其守卫后，还能指望什么呢？"
 
 #: src-en/data/events_special_aea_shleg.xml:290
 msgid ""
@@ -323,7 +349,8 @@ msgstr "未探索的信标。"
 #: src-en/data/events_special_aea_shleg.xml:302
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHLEG\"]/text"
-msgstr ""
+msgstr "要让无政府主义者摒弃怯懦、正面迎战像你这样一艘联邦星舰，着实费了不少口舌——但"
+"当你闯进这片星域并击杀其守卫后，还能指望什么呢？"
 
 #: src-en/data/events_special_aea_shleg.xml:307
 msgid ""
@@ -354,17 +381,18 @@ msgstr "未探索的信标。"
 #: src-en/data/events_special_aea_shleg.xml:368
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/text"
-msgstr ""
+msgstr "该信标处有一艘无政府主义者运输船。几乎可以肯定船上载有某种特殊技术。若你能消"
+"灭船上船员，货物便归你所有。"
 
 #: src-en/data/events_special_aea_shleg.xml:371
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/text"
-msgstr ""
+msgstr "要求交出货物投降。"
 
 #: src-en/data/events_special_aea_shleg.xml:373
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你准备武力夺取货物。"
 
 #: src-en/data/events_special_aea_shleg.xml:376
 msgid ""
@@ -379,7 +407,7 @@ msgstr "避开这艘船。"
 #: src-en/data/events_special_aea_shleg.xml:384
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_SHLEG_LOOT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "那艘星舰始终停在你武器射程之外，最终跃迁离去。"
 
 #: src-en/data/events_special_aea_shleg.xml:386
 msgid ""
@@ -474,7 +502,7 @@ msgstr "接受他们的投降。"
 #: src-en/data/events_special_aea_shleg.xml:467
 msgid ""
 "data/events_special_aea_shleg.xml$//event[@name=\"SURRENDER_AEA_SHLEG\"]/choice[@req=\"LIST_CREW_AEA_SHLEG\"]/text"
-msgstr ""
+msgstr "（无政府主义者船员）协商另一笔交易。"
 
 #: src-en/data/events_special_aea_shleg.xml:479
 msgid ""
