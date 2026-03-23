@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-23 10:04+0000\n"
+"PO-Revision-Date: 2026-03-24 03:39+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/dataevents_sector_showdownxmlappend/zh_Hans/>\n"
@@ -52,48 +52,49 @@ msgstr "向索柔询问此事。"
 msgid ""
 "data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "向奥尼克斯国王询问此事。"
 
 #: src-en/data/events_sector_showdown.xml.append:32
 msgid ""
 "data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "向尤尼菲斯询问此事。"
 
 #: src-en/data/events_sector_showdown.xml.append:36
 msgid ""
 "data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "向渐近本质询问此事。"
 
 #: src-en/data/events_sector_showdown.xml.append:40
 msgid ""
 "data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
 "append:choice[10]/text"
-msgstr ""
+msgstr "向悦动脉冲询问此事。"
 
 #: src-en/data/events_sector_showdown.xml.append:44
 msgid ""
 "data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
 "append:choice[11]/text"
-msgstr ""
+msgstr "向同源趋势询问此事。"
 
 #: src-en/data/events_sector_showdown.xml.append:48
 msgid ""
 "data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
 "append:choice[12]/text"
-msgstr ""
+msgstr "向灵智共鸣询问此事。"
 
 #: src-en/data/events_sector_showdown.xml.append:54
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_BILL\"]/text"
-msgstr ""
+msgstr "“你知道吗，一开始我甚至不知道自己是什么，那时我还天真又无知。我现在的一切，全"
+"都归功于你。无论你作何选择，我都会站在你这边。”"
 
 #: src-en/data/events_sector_showdown.xml.append:55
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_BILL\"]/text-"
 "aea-alternative"
-msgstr ""
+msgstr "“真高兴我们能活着离开那里，有好几次都差点没挺过去。”"
 
 #: src-en/data/events_sector_showdown.xml.append:58
 msgid ""
@@ -103,13 +104,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_showdown.xml.append:63
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_KING\"]/text"
-msgstr ""
+msgstr "“这东西有能力终结数十万有机生命的性命，你应该使用它。”"
 
 #: src-en/data/events_sector_showdown.xml.append:64
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_KING\"]/text-"
 "aea-alternative"
-msgstr ""
+msgstr "“我活这么些年，这次绝对能排进濒死经历的前五名。”"
 
 #: src-en/data/events_sector_showdown.xml.append:67
 msgid ""
@@ -119,13 +120,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_showdown.xml.append:72
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_TINY\"]/text"
-msgstr ""
+msgstr "小不点只是静静地看着你，你暗自琢磨它是否明白什么是典范炸弹。"
 
 #: src-en/data/events_sector_showdown.xml.append:73
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_TINY\"]/text-"
 "aea-alternative"
-msgstr ""
+msgstr "小不点只是静静地看着你，你暗自希望它没意识到你们刚才离死亡有多近。"
 
 #: src-en/data/events_sector_showdown.xml.append:76
 msgid ""
@@ -135,13 +136,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_showdown.xml.append:81
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_JAY\"]/text"
-msgstr ""
+msgstr "“好吧，如果你最后不打算引爆这颗炸弹，那至少让我试着拆解它行吗？我想弄明白它的"
+"工作原理。”"
 
 #: src-en/data/events_sector_showdown.xml.append:82
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_JAY\"]/text-"
 "aea-alternative"
-msgstr ""
+msgstr "“我真想用双手在那个残骸里找个好用的工程舱啊……唉，算了，我们还得去摧毁叛军旗舰"
+"呢。”"
 
 #: src-en/data/events_sector_showdown.xml.append:85
 msgid ""
@@ -151,13 +154,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_showdown.xml.append:90
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SICKLE\"]/text"
-msgstr ""
+msgstr "“动手吧，那一定会很酷。”"
 
 #: src-en/data/events_sector_showdown.xml.append:91
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SICKLE\"]/text-"
 "aea-alternative"
-msgstr ""
+msgstr "“至少那会是一种史诗级的谢幕方式。”"
 
 #: src-en/data/events_sector_showdown.xml.append:94
 msgid ""
@@ -167,13 +170,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_showdown.xml.append:99
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SORROW\"]/text"
-msgstr ""
+msgstr "“动手吧，那一定会很酷。”"
 
 #: src-en/data/events_sector_showdown.xml.append:100
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_SORROW\"]/text-"
 "aea-alternative"
-msgstr ""
+msgstr "“至少那会是一种史诗级的谢幕方式。”"
 
 #: src-en/data/events_sector_showdown.xml.append:103
 msgid ""
@@ -183,13 +186,14 @@ msgstr "继续。"
 #: src-en/data/events_sector_showdown.xml.append:108
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_ONYX\"]/text"
-msgstr ""
+msgstr "“就我个人而言，我更愿意活着见证碎晶铸者继续前行。我担心一旦失去黎明碎片，我们"
+"现有的平衡可能会彻底崩塌。”"
 
 #: src-en/data/events_sector_showdown.xml.append:109
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_ONYX\"]/text-"
 "aea-alternative"
-msgstr ""
+msgstr "“这次经历让我更期待回去处理碎晶铸者那些相对简单的问题了。”"
 
 #: src-en/data/events_sector_showdown.xml.append:112
 msgid ""
@@ -199,13 +203,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_showdown.xml.append:118
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_1\"]/text"
-msgstr ""
+msgstr "“这无疑是一场冒险。不必为我担心，当这具躯体消亡时，我会回到利尔米克星域的另一"
+"具躯体中。”"
 
 #: src-en/data/events_sector_showdown.xml.append:119
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_1\"]/text-"
 "aea-alternative"
-msgstr ""
+msgstr "“这无疑是一场冒险。不必为我担心，当这具躯体消亡时，我会回到利尔米克星域的另一"
+"具躯体中。”"
 
 #: src-en/data/events_sector_showdown.xml.append:122
 msgid ""
@@ -215,13 +221,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_showdown.xml.append:127
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_2\"]/text"
-msgstr ""
+msgstr "“这无疑是一场冒险。不必为我担心，当这具躯体消亡时，我会回到利尔米克星域的另一"
+"具躯体中。”"
 
 #: src-en/data/events_sector_showdown.xml.append:128
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_2\"]/text-"
 "aea-alternative"
-msgstr ""
+msgstr "“这无疑是一场冒险。不必为我担心，当这具躯体消亡时，我会回到利尔米克星域的另一"
+"具躯体中。”"
 
 #: src-en/data/events_sector_showdown.xml.append:131
 msgid ""
@@ -231,13 +239,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_showdown.xml.append:136
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_3\"]/text"
-msgstr ""
+msgstr "“这无疑是一场冒险。不必为我担心，当这具躯体消亡时，我会回到利尔米克星域的另一"
+"具躯体中。”"
 
 #: src-en/data/events_sector_showdown.xml.append:137
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_3\"]/text-"
 "aea-alternative"
-msgstr ""
+msgstr "“这无疑是一场冒险。不必为我担心，当这具躯体消亡时，我会回到利尔米克星域的另一"
+"具躯体中。”"
 
 #: src-en/data/events_sector_showdown.xml.append:140
 msgid ""
@@ -247,13 +257,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_showdown.xml.append:145
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_4\"]/text"
-msgstr ""
+msgstr "“这无疑是一场冒险。不必为我担心，当这具躯体消亡时，我会回到利尔米克星域的另一"
+"具躯体中。”"
 
 #: src-en/data/events_sector_showdown.xml.append:146
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_4\"]/text-"
 "aea-alternative"
-msgstr ""
+msgstr "“这无疑是一场冒险。不必为我担心，当这具躯体消亡时，我会回到利尔米克星域的另一"
+"具躯体中。”"
 
 #: src-en/data/events_sector_showdown.xml.append:149
 msgid ""
@@ -263,13 +275,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_showdown.xml.append:154
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_5\"]/text"
-msgstr ""
+msgstr "“这无疑是一场冒险。不必为我担心，当这具躯体消亡时，我会回到利尔米克星域的另一"
+"具躯体中。”"
 
 #: src-en/data/events_sector_showdown.xml.append:155
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_AEA_OLD_UNIQUE_5\"]/text-"
 "aea-alternative"
-msgstr ""
+msgstr "“这无疑是一场冒险。不必为我担心，当这具躯体消亡时，我会回到利尔米克星域的另一"
+"具躯体中。”"
 
 #: src-en/data/events_sector_showdown.xml.append:158
 msgid ""
