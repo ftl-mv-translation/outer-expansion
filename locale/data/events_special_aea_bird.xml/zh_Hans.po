@@ -1,21 +1,29 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-03-23 10:04+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/dataevents_special_aea_birdxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_aea_bird.xml:15
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[1]"
-msgstr ""
+msgstr "你已抵达 Gi 族星域。Gi 族虽非联邦成员，却是坚定的盟友，坚决反对叛军。叛军势力"
+"仍将难以渗透此地。"
 
 #: src-en/data/events_special_aea_bird.xml:16
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[2]"
-msgstr ""
+msgstr "你已抵达 Gi 族星域。这里虽有许多友善面孔，但也不乏入侵此地的叛军渣滓。"
 
 #: src-en/data/events_special_aea_bird.xml:17
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[1]/text[3]"
-msgstr ""
+msgstr "你已抵达 Gi 族星域。这里或许遍布盟友，但注定也会引来众多叛军。"
 
 #: src-en/data/events_special_aea_bird.xml:31
 msgid ""
@@ -31,7 +39,8 @@ msgstr "继续。"
 
 #: src-en/data/events_special_aea_bird.xml:41
 msgid "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD\"]/text"
-msgstr ""
+msgstr "该星域由联邦与 Gi 族联合舰队驻防。数艘支援舰在后方警戒，为辖区内其他友方星舰"
+"提供援助。"
 
 #: src-en/data/events_special_aea_bird.xml:44
 msgid ""
@@ -76,7 +85,8 @@ msgstr "跳过。"
 #: src-en/data/events_special_aea_bird.xml:75
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/text"
-msgstr ""
+msgstr "这里有些不对劲。通常 Gi 族对你这样的星舰毫不在意，但此刻，你从警戒舰上捕捉到"
+"了可疑的通讯杂音。"
 
 #: src-en/data/events_special_aea_bird.xml:77
 msgid ""
@@ -86,7 +96,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_bird.xml:79
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_CRIMINAL\"]/choice/event/text"
-msgstr ""
+msgstr "看来你的劣迹终究追上了你。守卫船员早已听闻你犯下的罪行，他们不打算放你进入这"
+"片星域！。"
 
 #: src-en/data/events_special_aea_bird.xml:82
 msgid ""
@@ -141,7 +152,8 @@ msgstr "一架补给无人机被派去为你的星舰进行补给。"
 #: src-en/data/events_special_aea_bird.xml:134
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DESTROY\"]/text"
-msgstr ""
+msgstr "你击败了 Gi 族守卫。无论他们货舱中曾有何物，定已损毁殆尽，但你至少能从星舰上"
+"回收部分物资。"
 
 #: src-en/data/events_special_aea_bird.xml:137
 msgid ""
@@ -151,7 +163,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_bird.xml:142
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_DEADCREW\"]/text"
-msgstr ""
+msgstr "你击败了 Gi 族守卫。船上已无船员阻拦，你可调查其货舱。找到一件武器带回舰船，"
+"并继续拆解其舰体回收废料。"
 
 #: src-en/data/events_special_aea_bird.xml:146
 msgid ""
@@ -161,7 +174,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_bird.xml:159
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"GUARD_AEA_BIRD_FOLLOWUP\"]/text"
-msgstr ""
+msgstr "击杀 Gi 族守卫，无疑会促使他们派遣增援追捕你。探索该星域时务必谨慎行事。"
 
 #: src-en/data/events_special_aea_bird.xml:162
 msgid ""
@@ -192,7 +205,8 @@ msgstr "未探索的信标。"
 #: src-en/data/events_special_aea_bird.xml:178
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"REINFORCEMENTS_AEA_BIRD\"]/text"
-msgstr ""
+msgstr "你瞥见一名罕见的 Gi 族精英，但他们似乎对你并无好感。那艘星舰径直驶来发起攻击"
+"，你很快意识到这正是守卫派来追捕你的猎手之一。"
 
 #: src-en/data/events_special_aea_bird.xml:182
 msgid ""
@@ -201,15 +215,16 @@ msgstr "继续。"
 
 #: src-en/data/events_special_aea_bird.xml:199
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[1]"
-msgstr ""
+msgstr "你已抵达 Gi 族星域。Gi 族虽非联邦成员，却是坚定的盟友，坚决反对叛军。叛军势力"
+"仍将难以渗透此地。"
 
 #: src-en/data/events_special_aea_bird.xml:200
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[2]"
-msgstr ""
+msgstr "你已抵达 Gi 族星域。这里虽有许多友善面孔，但也不乏入侵此地的叛军渣滓。"
 
 #: src-en/data/events_special_aea_bird.xml:201
 msgid "data/events_special_aea_bird.xml$/dummyroot/FTL/textList[2]/text[3]"
-msgstr ""
+msgstr "你已抵达 Gi 族星域。这里或许遍布盟友，但注定也会引来众多叛军。"
 
 #: src-en/data/events_special_aea_bird.xml:215
 msgid ""
@@ -247,7 +262,8 @@ msgstr "未探索的信标。"
 #: src-en/data/events_special_aea_bird.xml:286
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/text"
-msgstr ""
+msgstr "该信标处有一艘 Gi 族运输船。几乎可以肯定船上载有某种特殊技术。若你能消灭船上"
+"船员，货物便归你所有。"
 
 #: src-en/data/events_special_aea_bird.xml:289
 msgid ""
@@ -267,7 +283,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_bird.xml:300
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"TRANSPORT_AEA_BIRD_LOOT\"]/choice[@req=\"AEA_CREW_CREW_MORAL\"]/text"
-msgstr ""
+msgstr "（Gi 族或联邦精英 + 良好声望）与运输船对话。"
 
 #: src-en/data/events_special_aea_bird.xml:302
 msgid ""
@@ -455,7 +471,8 @@ msgstr "真是可惜，联邦这么快就出动了新型舰。当联邦推动制
 #: src-en/data/events_special_aea_bird.xml:436
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/text"
-msgstr ""
+msgstr "铲除联邦盟友，尤其是精英级盟友，与你肩负的使命背道而驰，但这并不意味着你不能"
+"回收残骸。"
 
 #: src-en/data/events_special_aea_bird.xml:439
 msgid ""
@@ -465,12 +482,13 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_bird.xml:441
 msgid ""
 "data/events_special_aea_bird.xml$//event[@name=\"DEFEAT_AEA_BIRD_ELITE\"]/choice/event/text"
-msgstr ""
+msgstr "那艘 Gi 族精英舰船的货物似乎在战斗中幸存下来。舱内有一架完好的无人机，你将其"
+"带回舰上。"
 
 #: src-en/data/events_special_aea_bird.xml:497
 msgid ""
 "data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/destroyed/text"
-msgstr ""
+msgstr "你摧毁了那艘被真菌感染的星舰，并从残骸中收集了可用的物资。"
 
 #: src-en/data/events_special_aea_bird.xml:500
 msgid ""
@@ -480,7 +498,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_bird.xml:505
 msgid ""
 "data/events_special_aea_bird.xml$//ship[@name=\"SHIP_AEA_BIRD_COLONY_FIGHT\"]/deadCrew/text"
-msgstr ""
+msgstr "你清除了感染星舰上的船员，并将其拆解为可用零件。"
 
 #: src-en/data/events_special_aea_bird.xml:508
 msgid ""
