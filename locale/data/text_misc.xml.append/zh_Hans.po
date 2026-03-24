@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-24 03:39+0000\n"
+"PO-Revision-Date: 2026-03-24 04:31+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/datatext_miscxmlappend/zh_Hans/>\n"
@@ -224,142 +224,192 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:80
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_necro\"]"
 msgstr ""
+"名称：渎神核心\n"
+"类型：敌对\n"
+"独特：是\n"
+"主导派系：半械异教徒\n"
+"叛军威胁等级：低\n"
+"标记点：圣所\n"
+"\n"
+"半械异教徒即便是从在分离者眼中也被视为异类，他们挣脱了同族所偏好的和谐之道，"
+"更倾向于将有机生命作为达成目的的工具。若你船上没有有机船员，或可在此勉强通行"
+"。"
 
 #: src-en/data/text_misc.xml.append:89
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_cult\"]"
 msgstr ""
+"名称：一花之居\n"
+"类型：中立\n"
+"独特：是\n"
+"主导派系：血兰花教团\n"
+"叛军威胁等级：中低\n"
+"标记点：一花\n"
+"\n"
+"虽然严格来说该区域不属于联邦，但血兰花教团与联邦关系密切，任何针对教团的行动"
+"仍可能影响你在联邦眼中的声望。此星域是一花——教团所信奉神灵的居所。许多人推测"
+"他们的神灵并非活物，也有人认为它实为某种先进的人工智能。真相无人知晓，或许唯"
+"有那朵花本身才知道。"
 
 #: src-en/data/text_misc.xml.append:98
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_bird\"]"
 msgstr ""
+"名称：Gi 族筑巢地\n"
+"类型：友好\n"
+"独特：是\n"
+"主导派系：Gi 联邦\n"
+"叛军威胁等级：中等（中等舰队）\n"
+"标记点：中央工程设施\n"
+"\n"
+"Gi 族与联邦关系密切，作为新近发现的种族，虽尚未正式加入联邦，但已处于加盟进程"
+"中，且该星域内存在强大的联邦势力。"
 
 #: src-en/data/text_misc.xml.append:106
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_shleg\"]"
 msgstr ""
+"名称：无政府主义者中央星云\n"
+"类型：敌对（星云）\n"
+"独特：是\n"
+"主导派系：甲壳族与蛞蝓族无政府主义者\n"
+"叛军威胁等级：中等（自动舰队）\n"
+"\n"
+"无政府主义者是由甲壳族与蛞蝓族组成的联合组织，旨在共同反抗各自的政府。尽管与"
+"联邦并无直接冲突，但也谈不上友好，务必谨慎行事。"
 
 #: src-en/data/text_misc.xml.append:113
 msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_shard\"]"
 msgstr ""
+"名称：碎晶铸者宫殿\n"
+"类型：友好\n"
+"独特：是\n"
+"主导派系：碎晶铸者海盗\n"
+"叛军威胁等级：低\n"
+"标记点：黎明宫殿\n"
+"\n"
+"碎晶铸者虽被视为海盗，却深受联邦及其盟友的青睐。他们自水晶帝国鼎盛时期便已存"
+"在，并证明了自己是值得信赖且可靠的盟友——只要付得起代价。在近期联邦与叛军的冲"
+"突中，碎晶铸者一直与联邦并肩作战，共同对抗叛军的暴行。"
 
 #: src-en/data/text_misc.xml.append:122
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_BILL_unlock\"]"
-msgstr ""
+msgstr "征询某位酸藻族流放者关于某件神器的建议，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:123
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_KING_unlock\"]"
-msgstr ""
+msgstr "征询某位异教徒领袖关于某件神器的建议，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:124
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_TINY_unlock\"]"
-msgstr ""
+msgstr "征询某位小型血兰花教徒关于某件神器的建议，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:125
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_JAY_unlock\"]"
-msgstr ""
+msgstr "征询某位鸟族工程师关于某件神器的建议，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:126
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHLEG_UNI_unlock\"]"
-msgstr ""
+msgstr "征询某位无政府主义创始成员关于某件神器的建议，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:127
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_UNI_unlock\"]"
-msgstr ""
+msgstr "征询某位海盗王关于某件神器的建议，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:129
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_1_unlock\"]"
-msgstr ""
+msgstr "寻求某位列尔米克议会成员的帮助并逃离隔离区，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:130
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_2_unlock\"]"
-msgstr ""
+msgstr "寻求某位列尔米克议会成员的帮助并逃离隔离区，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:131
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_3_unlock\"]"
-msgstr ""
+msgstr "寻求某位列尔米克议会成员的帮助并逃离隔离区，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:132
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_4_unlock\"]"
-msgstr ""
+msgstr "寻求某位列尔米克议会成员的帮助并逃离隔离区，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:133
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_5_unlock\"]"
-msgstr ""
+msgstr "寻求某位列尔米克议会成员的帮助并逃离隔离区，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:135
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_ARTY_unlock\"]"
-msgstr ""
+msgstr "帮助一位酸藻族流放者以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:136
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_ARTY_2_unlock\"]"
-msgstr ""
+msgstr "使用酸藻族星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:137
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_ARTY_3_unlock\"]"
-msgstr ""
+msgstr "使用酸藻族星舰 B 型抵达第 5 星区，或使用酸藻族星舰 A 型通关游戏，以解锁这艘星"
+"舰。"
 
 #: src-en/data/text_misc.xml.append:139
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_LONG_unlock\"]"
-msgstr ""
+msgstr "找到酸藻族的中央船坞，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:140
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_LONG_2_unlock\"]"
-msgstr ""
+msgstr "使用酸藻族驱逐舰 A 型抵达第 5 星区，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:141
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_LONG_3_unlock\"]"
-msgstr ""
+msgstr "使用酸藻族驱逐舰 B 型抵达第 5 星区，或使用酸藻族驱逐舰 A 型通关游戏，以解锁这"
+"艘星舰。"
 
 #: src-en/data/text_misc.xml.append:143
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_ENGI_unlock\"]"
-msgstr ""
+msgstr "拜访圣所并打动一位半械族，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:144
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_ENGI_2_unlock\"]"
-msgstr ""
+msgstr "使用异端星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:145
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_ENGI_3_unlock\"]"
-msgstr ""
+msgstr "使用异端星舰 B 型抵达第 5 星区，或使用异端星舰 A 型通关游戏，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:147
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_SEPA_unlock\"]"
-msgstr ""
+msgstr "访问一处异常的半械族链接点，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:148
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_SEPA_2_unlock\"]"
-msgstr ""
+msgstr "使用渎神星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:149
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_SEPA_3_unlock\"]"
-msgstr ""
+msgstr "使用渎神星舰 B 型抵达第 5 星区，或使用渎神星舰 A 型通关游戏，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:151
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_ARMOUR_unlock\"]"
-msgstr ""
+msgstr "逃离隔离区以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:152
 msgid ""
