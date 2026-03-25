@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-17 02:19+0000\n"
+"PO-Revision-Date: 2026-03-25 11:12+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/datahyperspace-xml-append/zh_Hans/>\n"
@@ -17,97 +17,136 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
+"酸质过滤系统：\n"
+"本舰氧气系统将治愈船上所有船员并扑灭火灾，但不会提供氧气。"
 
 #: src-en/data/hyperspace.xml.append:45
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
+"弱化酸质过滤系统：\n"
+"氧气系统将为所有船员提供缓慢的治疗效果。"
 
 #: src-en/data/hyperspace.xml.append:50
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
+"异教徒修复脉冲：\n"
+"敌方星舰在生命值降至 5 点时，将一次性修复 2 点系统伤害。"
 
 #: src-en/data/hyperspace.xml.append:55
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
+"弱化异教徒修复脉冲：\n"
+"敌方星舰在生命值降至 5 点时，将一次性修复 1 点系统伤害。"
 
 #: src-en/data/hyperspace.xml.append:60
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
+"装甲舱室：\n"
+"敌方星舰上的装甲舱室可抵御来袭的射弹（如激光与导弹）。\n"
+"装甲可吸收途经其上射弹的 1 点伤害。"
 
 #: src-en/data/hyperspace.xml.append:66
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
+"预判制导：\n"
+"当敌方星舰闪避率高于 5% 时，其将从正面 60 度角范围内接收射弹。\n"
+"此举使激光与导弹更易命中该舰的装甲部位。"
 
 #: src-en/data/hyperspace.xml.append:72
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[7]/tooltip"
 msgstr ""
+"弱化预判制导：\n"
+"当敌方星舰闪避率高于 10% 时，其将从正面 90 度角范围内接收射弹。\n"
+"此举使激光与导弹更易命中该舰的装甲部位。"
 
 #: src-en/data/hyperspace.xml.append:78
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[8]/tooltip"
 msgstr ""
+"神秘护盾：\n"
+"该敌人受到比常规更强的能量护盾保护。"
 
 #: src-en/data/hyperspace.xml.append:83
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[9]/tooltip"
 msgstr ""
+"神秘护盾：\n"
+"该敌人受到一层能量护盾的保护。"
 
 #: src-en/data/hyperspace.xml.append:88
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[10]/tooltip"
 msgstr ""
+"灌输毒气：\n"
+"该敌方星舰充满致命神经毒素，毒素将逐渐累积，最终在短时间内心灵控制目标，同时"
+"持续对船员造成每秒 3 点伤害。\n"
+"无人机、甲壳族、血兰花族、魂灵族与食铁族免疫此效果。"
 
 #: src-en/data/hyperspace.xml.append:94
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[11]/tooltip"
 msgstr ""
+"甲蝓修复凝胶：\n"
+"即便没有船员在场，该敌方舰船上的破舱也会被自动修复。同时在空舱室内，为友方船"
+"员提供每秒 3 点生命值的治疗，并对敌方船员造成每秒 3 点生命值的伤害。\n"
+"无人机、甲壳族、血兰花族、魂灵族与食铁族免疫此效果。"
 
 #: src-en/data/hyperspace.xml.append:100
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[12]/tooltip"
 msgstr ""
+"碎晶铸者装甲：\n"
+"每次你对该敌舰造成舰体伤害时，有 25% 的概率会有一块碎片崩落并飞向你的舰船。碎"
+"片无法穿透任何护盾，但若命中，将对随机舱室造成 1 点伤害。"
 
 #: src-en/data/hyperspace.xml.append:105
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[13]/tooltip"
 msgstr ""
+"强力辅助护盾：\n"
+"该敌方星舰配备强力辅助护盾发生器，战斗开始时拥有 6 层能量护盾。"
 
 #: src-en/data/hyperspace.xml.append:110
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[14]/tooltip"
 msgstr ""
+"屏障发生器：\n"
+"该敌方星舰装备有屏障发生器，每次开火时会随机保护其舰上的一个舱室，屏障数量上"
+"限为 6 个。"
 
 #: src-en/data/hyperspace.xml.append:115
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[3]/mod:findLike[1]/mod-"
 "append:shipIcon[15]/tooltip"
 msgstr ""
+"混沌屏障发生器：\n"
+"该敌方星舰装备有屏障发生器，每次开火时会随机保护其舰上的一个舱室。"
 
 #: src-en/data/hyperspace.xml.append:554
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"PLAYER_SHIP_AEA_ACID_ARTY\"]/crew/aea_acid_soldier[@name=\"Acidic"
 " Soldier\"]/@name"
-msgstr ""
+msgstr "酸藻族士兵"
 
 #: src-en/data/hyperspace.xml.append:564
 msgid ""
