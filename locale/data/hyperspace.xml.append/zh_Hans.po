@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-26 11:24+0000\n"
+"PO-Revision-Date: 2026-03-28 09:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/datahyperspace-xml-append/zh_Hans/>\n"
@@ -959,114 +959,156 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s03\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：20秒]\n"
+"施放法术，穿透目标舱室所有常规护盾，造成 45 点生命值伤害。\n"
+"\t施法时间：3秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5209
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s04\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "冲击"
 
 #: src-en/data/hyperspace.xml.append:5210
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s04\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：20秒]\n"
+"施放法术，穿透目标舱室所有常规护盾，造成 1 点伤害。\n"
+"\t施法时间：8秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5249
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s05\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "爆裂冲击"
 
 #: src-en/data/hyperspace.xml.append:5250
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s05\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：20秒]\n"
+"施放 3 发法术，穿透目标舱室所有常规护盾，每发造成 1 点伤害。\n"
+"\t施法时间：20秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5289
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s06\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "舰体冲击"
 
 #: src-en/data/hyperspace.xml.append:5290
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s06\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：20秒]\n"
+"施放法术，穿透目标舱室所有常规护盾，造成 3 点舰体伤害，不伤害系统与船员。\n"
+"\t施法时间：10秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5329
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a07\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "扭曲"
 
 #: src-en/data/hyperspace.xml.append:5330
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a07\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：20秒]\n"
+"在当前舱室施放法术，将该舱室所有船员传送至敌方舰船的随机舱室。\n"
+"\t施法时间：6秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5368
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s08\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "扭曲冲击"
 
 #: src-en/data/hyperspace.xml.append:5369
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s08\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：20秒]\n"
+"施放法术，穿透目标舱室所有护盾，将该舱室内所有船员传送至敌方舰船的随机舱室。"
+"\n"
+"\t施法时间：8秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5407
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s09\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "恢复冲击"
 
 #: src-en/data/hyperspace.xml.append:5408
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s09\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：20秒]\n"
+"施放法术，穿透目标舱室所有护盾，为所有友方船员恢复 75 点生命值。\n"
+"\t施法时间：2秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5449
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a10\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "治愈光环"
 
 #: src-en/data/hyperspace.xml.append:5450
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a10\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：20秒]\n"
+"在当前舱室施放法术，为该舱室内所有友方船员恢复 45 点生命值。\n"
+"\t施法时间：5秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5488
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a11\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "无人机"
 
 #: src-en/data/hyperspace.xml.append:5489
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_a11\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：20秒]\n"
+"在敌方星舰周围生成一架集能战斗无人机。\n"
+"\t施法时间：10秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5528
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s12\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "屏障"
 
 #: src-en/data/hyperspace.xml.append:5529
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s12\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：20秒]\n"
+"施放法术，穿透目标舱室所有常规护盾，生成一道可阻挡 2 枚射弹的屏障，最多同时存"
+"在 8 道。\n"
+"\t施法时间：2秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5568
 msgid ""
@@ -1079,54 +1121,74 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s13\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：20秒]\n"
+"施放法术，穿透目标舱室所有常规护盾，施加封锁效果。\n"
+"\t施法时间：4秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5608
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s14\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "盟友"
 
 #: src-en/data/hyperspace.xml.append:5609
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s14\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：20秒]\n"
+"施放法术，穿透目标舱室所有常规护盾，召唤一名随机盟友。\n"
+"\t施法时间：7秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5648
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s15\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "心灵冲击"
 
 #: src-en/data/hyperspace.xml.append:5649
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_wizard_s15\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：20秒]\n"
+"施放法术，穿透目标舱室所有常规护盾，控制一名敌人 20 秒。\n"
+"\t施法时间：8秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5688
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_sup\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "支援"
 
 #: src-en/data/hyperspace.xml.append:5689
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_sup\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：13秒]\n"
+"施放随机支援法术，穿透目标舱室所有常规护盾。\n"
+"\t施法时间：1秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5726
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_off\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "进攻"
 
 #: src-en/data/hyperspace.xml.append:5727
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_off\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"施放随机进攻性法术，穿透目标舱室所有常规护盾。\n"
+"\t施法时间：4秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5764
 msgid ""
@@ -1139,162 +1201,220 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_priest_bor\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：12秒]\n"
+"施放随机登舰支援法术，穿透目标舱室所有常规护盾。\n"
+"\t施法时间：2秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5855
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "法术"
 
 #: src-en/data/hyperspace.xml.append:5856
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"在当前舱室施放一道无效法术。\n"
+"\t施法时间：2.5秒\n"
+"\t若施法期间船员受到伤害，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5898
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a01\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "守护"
 
 #: src-en/data/hyperspace.xml.append:5899
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a01\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"施放法术，使当前舱室在 10 秒内免受舰体与系统伤害。\n"
+"\t施法时间：1秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5938
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a02\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "中继器"
 
 #: src-en/data/hyperspace.xml.append:5939
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a02\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"施放法术，将屏幕上所有敌方射弹的目标重定向至当前舱室。\n"
+"\t施法时间：1秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:5978
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s03\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "辐射冲击"
 
 #: src-en/data/hyperspace.xml.append:5979
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s03\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"施放法术，穿透目标舱室所有常规护盾，造成 45 点生命值伤害。\n"
+"\t施法时间：3秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:6018
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s04\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "冲击"
 
 #: src-en/data/hyperspace.xml.append:6019
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s04\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"施放法术，穿透目标舱室所有常规护盾，造成 1 点伤害。\n"
+"\t施法时间：8秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:6058
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s05\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "爆裂冲击"
 
 #: src-en/data/hyperspace.xml.append:6059
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s05\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"施放 3 发法术，穿透目标舱室所有常规护盾，每发造成 1 点伤害。\n"
+"\t施法时间：20秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:6098
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s06\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "舰体冲击"
 
 #: src-en/data/hyperspace.xml.append:6099
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s06\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"施放法术，穿透目标舱室所有常规护盾，造成 3 点舰体伤害，不伤害系统与船员。\n"
+"\t施法时间：10秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:6138
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a07\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "扭曲"
 
 #: src-en/data/hyperspace.xml.append:6139
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a07\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"在当前舱室施放法术，将该舱室所有船员传送至敌方舰船的随机舱室。\n"
+"\t施法时间：6秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:6178
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s08\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "扭曲冲击"
 
 #: src-en/data/hyperspace.xml.append:6179
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s08\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"施放法术，穿透目标舱室所有护盾，将该舱室内所有船员传送至敌方舰船的随机舱室。"
+"\n"
+"\t施法时间：8秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:6218
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s09\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "恢复冲击"
 
 #: src-en/data/hyperspace.xml.append:6219
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s09\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"施放法术，穿透目标舱室所有护盾，为所有友方船员恢复 75 点生命值。\n"
+"\t施法时间：2秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:6260
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a10\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "治愈光环"
 
 #: src-en/data/hyperspace.xml.append:6261
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a10\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"在当前舱室施放法术，为该舱室内所有友方船员恢复 45 点生命值。\n"
+"\t施法时间：5秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:6300
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a11\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "无人机"
 
 #: src-en/data/hyperspace.xml.append:6301
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_a11\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"在敌方星舰周围生成一架集能战斗无人机。\n"
+"\t施法时间：10秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:6340
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s12\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "屏障"
 
 #: src-en/data/hyperspace.xml.append:6341
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s12\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"施放法术，穿透目标舱室所有常规护盾，生成一道可阻挡 2 枚射弹的屏障，最多同时存"
+"在 8 道。\n"
+"\t施法时间：2秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:6380
 msgid ""
@@ -1307,84 +1427,112 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s13\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"施放法术，穿透目标舱室所有常规护盾，施加封锁效果。\n"
+"\t施法时间：4秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:6420
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s14\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "盟友"
 
 #: src-en/data/hyperspace.xml.append:6421
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s14\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"施放法术，穿透目标舱室所有常规护盾，召唤一名随机盟友。\n"
+"\t施法时间：7秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:6460
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s15\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "心灵冲击"
 
 #: src-en/data/hyperspace.xml.append:6461
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_cult_tiny_s15\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：10秒]\n"
+"施放法术，穿透目标舱室所有常规护盾，控制一名敌人 20 秒。\n"
+"\t施法时间：8秒\n"
+"\t若施法期间船员受到伤害或移动，施法将被中断"
 
 #: src-en/data/hyperspace.xml.append:6517
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_breaker\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "瓦解"
 
 #: src-en/data/hyperspace.xml.append:6518
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_breaker\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：12秒 -25生命值]\n"
+"\t\t\t\t封锁所在舱室 12 秒，阻止船员进入。\n"
+"\t\t\t\t舱室内的敌方船员每秒受到 4 点伤害。\n"
+"\t\t\t\t持续时间内无法攻击敌方船员。"
 
 #: src-en/data/hyperspace.xml.append:6590
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_smasher\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "瓦解"
 
 #: src-en/data/hyperspace.xml.append:6591
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_smasher\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：6秒 -25生命值]\n"
+"\t\t\t\t封锁所在舱室 12 秒，阻止船员进入。\n"
+"\t\t\t\t舱室内的敌方船员每秒受到 4 点伤害。\n"
+"\t\t\t\t持续时间内无法攻击敌方船员。"
 
 #: src-en/data/hyperspace.xml.append:6664
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_dawn\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "瓦解"
 
 #: src-en/data/hyperspace.xml.append:6665
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_shard_dawn\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：3秒 -25生命值]\n"
+"\t\t\t\t封锁所在舱室24秒，阻止船员进入。\n"
+"\t\t\t\t舱室内的敌方船员每秒受到10点伤害。\n"
+"\t\t\t\t持续时间内无法攻击敌方船员。"
 
 #: src-en/data/hyperspace.xml.append:6721
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_dark_justicier\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "仪式"
 
 #: src-en/data/hyperspace.xml.append:6722
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_dark_justicier\"]/powerEffect/tooltip"
 msgstr ""
+"进行黑暗仪式，献祭特定位置的若干船员以触发不同效果。在仪式中幸存的船员将被削"
+"弱，在 5 次跃迁内移动速度降低 25%。\n"
+"左键点击选择要献祭的船员。\n"
+"右键点击尝试进行仪式或取消。"
 
 #: src-en/data/hyperspace.xml.append:6753
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"aea_dark_justicier_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "仪式"
 
 #: src-en/data/hyperspace.xml.append:6754
 msgid ""
@@ -1395,24 +1543,28 @@ msgstr "开发人员信息"
 #: src-en/data/hyperspace.xml.append:6932
 msgid ""
 "data/hyperspace.xml.append$//statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "仪式"
 
 #: src-en/data/hyperspace.xml.append:6933
 msgid ""
 "data/hyperspace.xml.append$//statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"进行黑暗仪式，献祭特定位置的若干船员以触发不同效果。在仪式中幸存的船员将被削"
+"弱，在 5 次跃迁内移动速度降低 25%。\n"
+"\t\t左键点击选择要献祭的船员。\n"
+"\t\t右键点击尝试进行仪式或取消。"
 
 #: src-en/data/hyperspace.xml.append:8920
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/name"
-msgstr ""
+msgstr "\\1 隔离结局"
 
 #: src-en/data/hyperspace.xml.append:8921
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/description"
-msgstr ""
+msgstr "驾驶 \\1 的任何布局逃离利尔米克隔离区"
 
 #: src-en/data/hyperspace.xml.append:8923
 msgid ""
@@ -1424,7 +1576,7 @@ msgstr "\\1？？？结局"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[6]/mod-"
 "append:aea_old_win/secretDescription"
-msgstr ""
+msgstr "驾驶 \\1 的任何布局，逃离强大种族的魔掌"
 
 #: src-en/data/hyperspace.xml.append:8932
 msgid ""
@@ -1513,12 +1665,12 @@ msgstr "辅助系统"
 #: src-en/data/hyperspace.xml.append:9346
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[1]/customTitle"
-msgstr ""
+msgstr "清仓特惠 [25% 折扣]"
 
 #: src-en/data/hyperspace.xml.append:9361
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_OLD_CLEARANCE\"]/category[2]/customTitle"
-msgstr ""
+msgstr "清仓特惠 [25% 折扣]"
 
 #: src-en/data/hyperspace.xml.append:9376
 msgid ""
@@ -1543,7 +1695,7 @@ msgstr "法术"
 #: src-en/data/hyperspace.xml.append:9465
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_AEA_CULT\"]/category[3]/customTitle"
-msgstr ""
+msgstr "教团术士"
 
 #: src-en/data/hyperspace.xml.append:9498
 msgid ""
@@ -1573,73 +1725,73 @@ msgstr "法术"
 #: src-en/data/hyperspace.xml.append:9591
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_WEAPONS\"]/category[1]/customTitle"
-msgstr ""
+msgstr "外部拓展"
 
 #: src-en/data/hyperspace.xml.append:9609
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_WEAPONS\"]/category[2]/customTitle"
-msgstr ""
+msgstr "外部拓展"
 
 #: src-en/data/hyperspace.xml.append:9630
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_DRONES\"]/category[1]/customTitle"
-msgstr ""
+msgstr "外部拓展"
 
 #: src-en/data/hyperspace.xml.append:9648
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_DRONES\"]/category[2]/customTitle"
-msgstr ""
+msgstr "外部拓展"
 
 #: src-en/data/hyperspace.xml.append:9669
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_BOTH\"]/category[1]/customTitle"
-msgstr ""
+msgstr "外部拓展"
 
 #: src-en/data/hyperspace.xml.append:9687
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_BOTH\"]/category[2]/customTitle"
-msgstr ""
+msgstr "外部拓展"
 
 #: src-en/data/hyperspace.xml.append:9708
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_LYLMIK\"]/category[1]/customTitle"
-msgstr ""
+msgstr "利尔米克"
 
 #: src-en/data/hyperspace.xml.append:9726
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_LYLMIK\"]/category[2]/customTitle"
-msgstr ""
+msgstr "利尔米克"
 
 #: src-en/data/hyperspace.xml.append:9747
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_LOOT\"]/category[1]/customTitle"
-msgstr ""
+msgstr "利尔米克"
 
 #: src-en/data/hyperspace.xml.append:9765
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/store/customStore[@id=\"STORE_SYLVAN_AEA_LOOT\"]/category[2]/customTitle"
-msgstr ""
+msgstr "利尔米克"
 
 #: src-en/data/hyperspace.xml.append:9820
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[1]/section[1]/@text"
-msgstr ""
+msgstr "运输船战利品（OE）"
 
 #: src-en/data/hyperspace.xml.append:9822
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/name"
-msgstr ""
+msgstr "酸藻运输舰"
 
 #: src-en/data/hyperspace.xml.append:9823
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/secretDescription"
-msgstr ""
+msgstr "获取酸藻族运输船上的战利品。"
 
 #: src-en/data/hyperspace.xml.append:9824
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_ACID\"]/description"
-msgstr ""
+msgstr "从酸藻族运输船获取酸蚀弹幕。"
 
 #: src-en/data/hyperspace.xml.append:9826
 msgid ""
@@ -1649,17 +1801,17 @@ msgstr "已获得战利品"
 #: src-en/data/hyperspace.xml.append:9829
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/name"
-msgstr ""
+msgstr "Gi 族运输船"
 
 #: src-en/data/hyperspace.xml.append:9830
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/secretDescription"
-msgstr ""
+msgstr "获取 Gi 族运输船上的战利品。"
 
 #: src-en/data/hyperspace.xml.append:9831
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_BIRD\"]/description"
-msgstr ""
+msgstr "从 Gi 族运输船获取双子无人机。"
 
 #: src-en/data/hyperspace.xml.append:9833
 msgid ""
@@ -1669,17 +1821,17 @@ msgstr "已获得战利品"
 #: src-en/data/hyperspace.xml.append:9836
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/name"
-msgstr ""
+msgstr "教徒运输舰"
 
 #: src-en/data/hyperspace.xml.append:9837
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/secretDescription"
-msgstr ""
+msgstr "获取血兰花教徒运输船上的战利品。"
 
 #: src-en/data/hyperspace.xml.append:9838
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_CULT\"]/description"
-msgstr ""
+msgstr "从血兰花教徒运输船获取诅咒孢子。"
 
 #: src-en/data/hyperspace.xml.append:9840
 msgid ""
@@ -1689,17 +1841,17 @@ msgstr "已获得战利品"
 #: src-en/data/hyperspace.xml.append:9843
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/name"
-msgstr ""
+msgstr "异教徒运输舰"
 
 #: src-en/data/hyperspace.xml.append:9844
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/secretDescription"
-msgstr ""
+msgstr "获取异教徒运输船上的战利品。"
 
 #: src-en/data/hyperspace.xml.append:9845
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_NECRO\"]/description"
-msgstr ""
+msgstr "从异教徒运输船获取碎晶激光 II 型。"
 
 #: src-en/data/hyperspace.xml.append:9847
 msgid ""
@@ -1709,17 +1861,17 @@ msgstr "已获得战利品"
 #: src-en/data/hyperspace.xml.append:9850
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/name"
-msgstr ""
+msgstr "碎晶锻者运输舰"
 
 #: src-en/data/hyperspace.xml.append:9851
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/secretDescription"
-msgstr ""
+msgstr "获取碎晶锻者运输船上的战利品。"
 
 #: src-en/data/hyperspace.xml.append:9852
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHARD\"]/description"
-msgstr ""
+msgstr "从碎晶锻者运输船获取精英水晶爆裂II型。"
 
 #: src-en/data/hyperspace.xml.append:9854
 msgid ""
@@ -1729,17 +1881,17 @@ msgstr "已获得战利品"
 #: src-en/data/hyperspace.xml.append:9857
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/name"
-msgstr ""
+msgstr "无政府主义运输舰"
 
 #: src-en/data/hyperspace.xml.append:9858
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/secretDescription"
-msgstr ""
+msgstr "获取无政府主义运输船上的战利品。"
 
 #: src-en/data/hyperspace.xml.append:9859
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_SHLEG\"]/description"
-msgstr ""
+msgstr "从无政府主义者运输船获取“希普诺斯”导弹。"
 
 #: src-en/data/hyperspace.xml.append:9861
 msgid ""
@@ -1749,22 +1901,22 @@ msgstr "已获得战利品"
 #: src-en/data/hyperspace.xml.append:9864
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/name"
-msgstr ""
+msgstr "利尔米克空间站"
 
 #: src-en/data/hyperspace.xml.append:9865
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretName"
-msgstr ""
+msgstr "秘密运输船"
 
 #: src-en/data/hyperspace.xml.append:9866
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/description"
-msgstr ""
+msgstr "从利尔米克空间站获取一件利尔米克武器。"
 
 #: src-en/data/hyperspace.xml.append:9867
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_AEA_OLD_1\"]/secretDescription"
-msgstr ""
+msgstr "从？？？运输船获取战利品。"
 
 #: src-en/data/hyperspace.xml.append:9870
 msgid ""
@@ -1775,111 +1927,114 @@ msgstr "已获得战利品"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[1]/section[2]/@text"
-msgstr ""
+msgstr "变元者星舰（OE）"
 
 #: src-en/data/hyperspace.xml.append:9875
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_ACID\"]/name"
-msgstr ""
+msgstr "火力不足恐惧症"
 
 #: src-en/data/hyperspace.xml.append:9876
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_ACID\"]/description"
-msgstr ""
+msgstr "击败酸藻族驱逐舰 B 型变元者，获取酸液溅射者。"
 
 #: src-en/data/hyperspace.xml.append:9878
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_ACID\"]/header"
-msgstr ""
+msgstr "变元者已被击败"
 
 #: src-en/data/hyperspace.xml.append:9881
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_BIRD\"]/name"
-msgstr ""
+msgstr "最好的防御就是进攻"
 
 #: src-en/data/hyperspace.xml.append:9882
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_BIRD\"]/description"
-msgstr ""
+msgstr "击败锥尾鹰 B 型变元者，获取瘟疫无人机。"
 
 #: src-en/data/hyperspace.xml.append:9884
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_BIRD\"]/header"
-msgstr ""
+msgstr "变元者已被击败"
 
 #: src-en/data/hyperspace.xml.append:9887
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_CULT\"]/name"
-msgstr ""
+msgstr "屏障中继器"
 
 #: src-en/data/hyperspace.xml.append:9888
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_CULT\"]/description"
-msgstr ""
+msgstr "击败花蕾 C 型变元者，获取屏障发生器。"
 
 #: src-en/data/hyperspace.xml.append:9890
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_CULT\"]/header"
-msgstr ""
+msgstr "变元者已被击败"
 
 #: src-en/data/hyperspace.xml.append:9893
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_NECRO\"]/name"
-msgstr ""
+msgstr "无人机大套娃"
 
 #: src-en/data/hyperspace.xml.append:9894
+#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_NECRO\"]/description"
-msgstr ""
+msgstr "击败渎神星舰 C 型变元者，获取亡灵法师无人机。"
 
 #: src-en/data/hyperspace.xml.append:9896
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_NECRO\"]/header"
-msgstr ""
+msgstr "变元者已被击败"
 
 #: src-en/data/hyperspace.xml.append:9899
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHARD\"]/name"
-msgstr ""
+msgstr "玩烂的噱头"
 
 #: src-en/data/hyperspace.xml.append:9900
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHARD\"]/description"
-msgstr ""
+msgstr "击败碎晶锻者自动星舰 C 型变元者，获取“薙刀”光束。"
 
 #: src-en/data/hyperspace.xml.append:9902
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHARD\"]/header"
-msgstr ""
+msgstr "变元者已被击败"
 
 #: src-en/data/hyperspace.xml.append:9905
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHLEG\"]/name"
-msgstr ""
+msgstr "注意自身"
 
 #: src-en/data/hyperspace.xml.append:9906
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHLEG\"]/description"
-msgstr ""
+msgstr "击败混乱星舰 B 型变元者，获取利维坦光束。"
 
 #: src-en/data/hyperspace.xml.append:9908
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_AEA_REN_SHLEG\"]/header"
-msgstr ""
+msgstr "变元者已被击败"
 
 #: src-en/data/hyperspace.xml.append:9913
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[2]/section[1]/@text"
-msgstr ""
+msgstr "赛斯特的恩赐（OE）"
 
 #: src-en/data/hyperspace.xml.append:9915
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_ACID\"]/name"
-msgstr ""
+msgstr "生长之恩惠"
 
 #: src-en/data/hyperspace.xml.append:9916
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_ACID\"]/secretDescription"
-msgstr ""
+msgstr "从赛斯特处获得生长恩惠。"
 
 #: src-en/data/hyperspace.xml.append:9917
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_ACID\"]/description"
 msgstr ""
+"向赛斯特展示一名精英或稀有酸藻族船员。\n"
+"\t\t\t\t生效期间：酸藻族船员治疗速度翻倍，且无法被眩晕。"
 
 #: src-en/data/hyperspace.xml.append:9919
 msgid ""
@@ -1888,17 +2043,19 @@ msgstr "已获得增益"
 
 #: src-en/data/hyperspace.xml.append:9924
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_BIRD\"]/name"
-msgstr ""
+msgstr "羽翼恩惠"
 
 #: src-en/data/hyperspace.xml.append:9925
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_BIRD\"]/secretDescription"
-msgstr ""
+msgstr "从赛斯特处获得羽翼恩惠。"
 
 #: src-en/data/hyperspace.xml.append:9926
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_BIRD\"]/description"
 msgstr ""
+"向赛斯特展示一名精英或稀有 Gi 族船员。\n"
+"\t\t\t\t生效期间：Gi 族船员自动修复速度额外提升 0.25 倍。"
 
 #: src-en/data/hyperspace.xml.append:9928
 msgid ""
@@ -1907,17 +2064,19 @@ msgstr "已获得增益"
 
 #: src-en/data/hyperspace.xml.append:9933
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CULT\"]/name"
-msgstr ""
+msgstr "信仰恩惠"
 
 #: src-en/data/hyperspace.xml.append:9934
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CULT\"]/secretDescription"
-msgstr ""
+msgstr "从赛斯特处获得信仰恩惠。"
 
 #: src-en/data/hyperspace.xml.append:9935
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CULT\"]/description"
 msgstr ""
+"向赛斯特展示一名精英或稀有教徒船员。\n"
+"\t\t\t\t生效期间：血兰花教徒远程伤害提高 25%。"
 
 #: src-en/data/hyperspace.xml.append:9937
 msgid ""
@@ -1927,17 +2086,19 @@ msgstr "已获得增益"
 #: src-en/data/hyperspace.xml.append:9942
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_NECRO\"]/name"
-msgstr ""
+msgstr "复生恩惠"
 
 #: src-en/data/hyperspace.xml.append:9943
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_NECRO\"]/secretDescription"
-msgstr ""
+msgstr "从赛斯特处获得复生恩惠。"
 
 #: src-en/data/hyperspace.xml.append:9944
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_NECRO\"]/description"
 msgstr ""
+"向赛斯特展示一名精英或稀有异教徒船员。\n"
+"\t\t\t\t生效期间：每次跳跃获得 1 纳米蜂群。"
 
 #: src-en/data/hyperspace.xml.append:9946
 msgid ""
@@ -1947,17 +2108,19 @@ msgstr "已获得增益"
 #: src-en/data/hyperspace.xml.append:9951
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHARD\"]/name"
-msgstr ""
+msgstr "碎裂恩惠"
 
 #: src-en/data/hyperspace.xml.append:9952
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHARD\"]/secretDescription"
-msgstr ""
+msgstr "从赛斯特处获得碎裂恩惠。"
 
 #: src-en/data/hyperspace.xml.append:9953
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHARD\"]/description"
 msgstr ""
+"向赛斯特展示一名精英或稀有碎晶铸者船员。\n"
+"\t\t\t\t生效期间：碎晶铸者船员额外造成 25% 破坏伤害。"
 
 #: src-en/data/hyperspace.xml.append:9955
 msgid ""
@@ -1967,17 +2130,20 @@ msgstr "已获得增益"
 #: src-en/data/hyperspace.xml.append:9960
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHLEG\"]/name"
-msgstr ""
+msgstr "软体恩惠"
 
 #: src-en/data/hyperspace.xml.append:9961
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHLEG\"]/secretDescription"
-msgstr ""
+msgstr "从赛斯特处获得软体恩惠。"
 
 #: src-en/data/hyperspace.xml.append:9962
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SHLEG\"]/description"
 msgstr ""
+"向赛斯特展示一名无政府主义者船员。\n"
+"\t\t\t\t生效期间：无政府主义者甲壳族获得心灵控制免疫，无政府主义者蛞蝓族获得 "
+"10% 伤害抗性。"
 
 #: src-en/data/hyperspace.xml.append:9964
 msgid ""
@@ -1987,22 +2153,24 @@ msgstr "已获得增益"
 #: src-en/data/hyperspace.xml.append:9969
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_JUSTICE\"]/name"
-msgstr ""
+msgstr "献祭恩惠"
 
 #: src-en/data/hyperspace.xml.append:9970
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_JUSTICE\"]/secretName"
-msgstr ""
+msgstr "？？？恩惠"
 
 #: src-en/data/hyperspace.xml.append:9971
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_JUSTICE\"]/secretDescription"
-msgstr ""
+msgstr "从赛斯特处获得？？？恩惠。"
 
 #: src-en/data/hyperspace.xml.append:9972
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_JUSTICE\"]/description"
 msgstr ""
+"向赛斯特展示黑暗惩罚者。\n"
+"\t\t\t\t生效期间：黑暗惩罚者进行仪式时，每秒恢复 5 点生命值。"
 
 #: src-en/data/hyperspace.xml.append:9974
 msgid ""
@@ -2011,22 +2179,24 @@ msgstr "已获得增益"
 
 #: src-en/data/hyperspace.xml.append:9980
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_OLD\"]/name"
-msgstr ""
+msgstr "聚合恩惠"
 
 #: src-en/data/hyperspace.xml.append:9981
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_OLD\"]/secretName"
-msgstr ""
+msgstr "？？？恩惠"
 
 #: src-en/data/hyperspace.xml.append:9982
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_OLD\"]/secretDescription"
-msgstr ""
+msgstr "从赛斯特处获得？？？之恩。"
 
 #: src-en/data/hyperspace.xml.append:9983
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_OLD\"]/description"
 msgstr ""
+"向赛斯特展示一名精英或稀有利尔米克船员。\n"
+"\t\t\t\t生效期间：利尔米克船员根据敌方船员数量获得 10% 伤害加成。"
 
 #: src-en/data/hyperspace.xml.append:9985
 msgid ""
@@ -2037,66 +2207,71 @@ msgstr "已获得增益"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[2]/section[2]/@text"
-msgstr ""
+msgstr "阔碧的赠礼（OE）"
 
 #: src-en/data/hyperspace.xml.append:9993
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/name"
-msgstr ""
+msgstr "辅助护盾予礼"
 
 #: src-en/data/hyperspace.xml.append:9994
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/secretDescription"
-msgstr ""
+msgstr "从阔碧处获得辅助护盾予礼。"
 
 #: src-en/data/hyperspace.xml.append:9995
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/description"
 msgstr ""
+"向阔碧展示一套升级后的辅助护盾系统。\n"
+"\t\t\t\t生效期间：每次跃迁后增加 1 层能量护盾。"
 
 #: src-en/data/hyperspace.xml.append:9997
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_SUPER_SHIELDS\"]/header"
-msgstr ""
+msgstr "已获得予礼"
 
 #: src-en/data/hyperspace.xml.append:10002
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/name"
-msgstr ""
+msgstr "非法改装克隆室予礼"
 
 #: src-en/data/hyperspace.xml.append:10003
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/secretName"
-msgstr ""
+msgstr "？？？予礼"
 
 #: src-en/data/hyperspace.xml.append:10004
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/secretDescription"
-msgstr ""
+msgstr "从阔碧处获得？？？予礼。"
 
 #: src-en/data/hyperspace.xml.append:10005
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/description"
 msgstr ""
+"向阔碧展示一套升级后的改良克隆室系统。\n"
+"\t\t\t\t生效期间：每次跃迁后，在舰船上生成一名生命时长为 20 秒的弱化普通船员"
+"。"
 
 #: src-en/data/hyperspace.xml.append:10007
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_AEA_CLONE_CRIME\"]/header"
-msgstr ""
+msgstr "已获得予礼"
 
 #: src-en/data/hyperspace.xml.append:10015
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL/mod:findLike[9]/mod-"
 "append:page[3]/section/@text"
-msgstr ""
+msgstr "音乐（OE）"
 
 #: src-en/data/hyperspace.xml.append:10017
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_ACID\"]/name"
-msgstr ""
+msgstr "酸藻族"
 
 #: src-en/data/hyperspace.xml.append:10026
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_NECRO\"]/name"
-msgstr ""
+msgstr "异教徒"
 
 #: src-en/data/hyperspace.xml.append:10035
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_CULT\"]/name"
@@ -2104,19 +2279,19 @@ msgstr "岩石异教徒"
 
 #: src-en/data/hyperspace.xml.append:10044
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_BIRD\"]/name"
-msgstr ""
+msgstr "Gi"
 
 #: src-en/data/hyperspace.xml.append:10053
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_SHARD\"]/name"
-msgstr ""
+msgstr "碎片"
 
 #: src-en/data/hyperspace.xml.append:10062
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_SHLEG\"]/name"
-msgstr ""
+msgstr "无政府"
 
 #: src-en/data/hyperspace.xml.append:10071
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_JUSTICE\"]/name"
-msgstr ""
+msgstr "安魂曲"
 
 #: src-en/data/hyperspace.xml.append:10080
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_OLD_1\"]/name"
@@ -2129,7 +2304,7 @@ msgstr "？？？"
 
 #: src-en/data/hyperspace.xml.append:10090
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_OLD_2\"]/name"
-msgstr ""
+msgstr "利尔米克核心"
 
 #: src-en/data/hyperspace.xml.append:10091
 msgid ""
@@ -2138,7 +2313,7 @@ msgstr "？？？"
 
 #: src-en/data/hyperspace.xml.append:10100
 msgid "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_AEA_OLD_3\"]/name"
-msgstr ""
+msgstr "利尔米克终章"
 
 #: src-en/data/hyperspace.xml.append:10101
 msgid ""
