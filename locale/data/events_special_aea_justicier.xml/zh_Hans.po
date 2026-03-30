@@ -1,24 +1,34 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-03-30 19:19+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/dataevents_special_aea_justicierxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_aea_justicier.xml:3
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/text"
 msgstr ""
+"黑暗惩罚者能对你的克隆室进行非法改装。\n"
+"\t[效果：克隆室不再克隆已故船员，每次跃迁时改良克隆舱将生成两名随机的非法克隆"
+"体，其死亡倒计时为 30 秒；改装克隆舱在通电时能阻止死亡倒计时推进。]"
 
 #: src-en/data/events_special_aea_justicier.xml:6
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/text"
-msgstr ""
+msgstr "改造你的克隆室。[花费：40~, 3|]"
 
 #: src-en/data/events_special_aea_justicier.xml:8
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/event/text"
-msgstr ""
+msgstr "为进行升级，现有克隆舱被部分拆除。"
 
 #: src-en/data/events_special_aea_justicier.xml:15
 msgid ""
@@ -28,10 +38,9 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_justicier.xml:17
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "改造完成，你得到了一个改良克隆室。"
 
 #: src-en/data/events_special_aea_justicier.xml:24
-#, fuzzy
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_MODIFY_CLONEBAY\"]/choice[2]/text"
 msgstr "算了。"
@@ -39,10 +48,9 @@ msgstr "算了。"
 #: src-en/data/events_special_aea_justicier.xml:34
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/text"
-msgstr ""
+msgstr "你翻开书。"
 
 #: src-en/data/events_special_aea_justicier.xml:36
-#, fuzzy
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[1]/text"
 msgstr "算了。"
@@ -50,97 +58,100 @@ msgstr "算了。"
 #: src-en/data/events_special_aea_justicier.xml:40
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[2]/text"
-msgstr ""
+msgstr "阅读仪式规则。"
 
 #: src-en/data/events_special_aea_justicier.xml:44
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[3]/text"
-msgstr ""
+msgstr "阅读血祭章节。"
 
 #: src-en/data/events_special_aea_justicier.xml:48
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[4]/text"
-msgstr ""
+msgstr "阅读契约章节。"
 
 #: src-en/data/events_special_aea_justicier.xml:52
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK\"]/choice[5]/text"
-msgstr ""
+msgstr "阅读进攻仪式章节。"
 
 #: src-en/data/events_special_aea_justicier.xml:58
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/text"
 msgstr ""
+"你翻到书中关于仪式规则的部分。\n"
+"某些仪式可能有多个条件要求，此时将采用列表中最靠后的条件。"
 
 #: src-en/data/events_special_aea_justicier.xml:69
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_RULES\"]/choice/text"
-msgstr ""
+msgstr "返回。"
 
 #: src-en/data/events_special_aea_justicier.xml:77
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_CREW\"]/text"
-msgstr ""
+msgstr "你翻到书中关于血祭的部分。"
 
 #: src-en/data/events_special_aea_justicier.xml:79
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_CREW\"]/choice/text"
-msgstr ""
+msgstr "返回。"
 
 #: src-en/data/events_special_aea_justicier.xml:87
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TRADE\"]/text"
-msgstr ""
+msgstr "你翻到书中关于契约的部分。"
 
 #: src-en/data/events_special_aea_justicier.xml:89
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TRADE\"]/choice/text"
-msgstr ""
+msgstr "返回。"
 
 #: src-en/data/events_special_aea_justicier.xml:97
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_ATTACK\"]/text"
-msgstr ""
+msgstr "你翻到书中关于攻仪式的部分。"
 
 #: src-en/data/events_special_aea_justicier.xml:99
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_ATTACK\"]/choice/text"
-msgstr ""
+msgstr "返回。"
 
 #: src-en/data/events_special_aea_justicier.xml:105
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_CREW\"]/text"
-msgstr ""
+msgstr "测试"
 
 #: src-en/data/events_special_aea_justicier.xml:107
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_CREW\"]/choice/text"
-msgstr ""
+msgstr "返回。"
 
 #: src-en/data/events_special_aea_justicier.xml:113
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_TRADE\"]/text"
-msgstr ""
+msgstr "测试"
 
 #: src-en/data/events_special_aea_justicier.xml:115
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_TRADE\"]/choice/text"
-msgstr ""
+msgstr "返回。"
 
 #: src-en/data/events_special_aea_justicier.xml:121
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_ATTACK\"]/text"
-msgstr ""
+msgstr "测试"
 
 #: src-en/data/events_special_aea_justicier.xml:123
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_BOOK_TEMPLATE_ATTACK\"]/choice/text"
-msgstr ""
+msgstr "返回。"
 
 #: src-en/data/events_special_aea_justicier.xml:184
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_ONE\"]/text"
-msgstr ""
+msgstr "你抵达了曾是叛军舰队核心的位置，却发现舰队已被摧毁。一艘前所未见的红色巨型战"
+"舰静卧于残骸场中央。不幸的是，它将注意力转向了你，武器已锁定。"
 
 #: src-en/data/events_special_aea_justicier.xml:188
 msgid ""
@@ -150,17 +161,20 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_justicier.xml:199
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_BATTLESHIP\"]/text"
-msgstr ""
+msgstr "舰船碎裂爆炸，爆炸瞬间你探测到一道类似传送系统的能量脉冲从舰上发出。你拆解了"
+"残骸。"
 
 #: src-en/data/events_special_aea_justicier.xml:204
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_BATTLESHIP\"]/text"
-msgstr ""
+msgstr "随着最后一名船员倒下，你回想起就在你即将击杀那神秘舰长时，对方已传送逃离。你"
+"拆解了残骸。"
 
 #: src-en/data/events_special_aea_justicier.xml:217
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_JUSTICIER_FIGHT_TWO\"]/text"
-msgstr ""
+msgstr "你再次抵达曾是叛军舰队核心的位置，发现舰队已被摧毁。一艘前所未见的红色巨型战"
+"舰静卧于残骸场中央。不幸的是，它将注意力转向了你，武器已锁定。"
 
 #: src-en/data/events_special_aea_justicier.xml:221
 msgid ""
@@ -171,21 +185,24 @@ msgstr "继续。"
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/text"
 msgstr ""
+"舰船碎裂爆炸，一个陌生的身影传送至你的舰上。“变元者，你已证明自己是位出色的战"
+"士，但我的神灵渴求鲜血，而失去星舰的我无法完成献祭。或许我能暂时在你的舰上效"
+"力？”"
 
 #: src-en/data/events_special_aea_justicier.xml:236
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/text"
-msgstr ""
+msgstr "同意他们登船。"
 
 #: src-en/data/events_special_aea_justicier.xml:238
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "黑暗惩罚者加入了船员队伍。"
 
 #: src-en/data/events_special_aea_justicier.xml:239
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "黑暗惩罚者"
 
 #: src-en/data/events_special_aea_justicier.xml:243
 msgid ""
@@ -195,27 +212,30 @@ msgstr "拒绝。"
 #: src-en/data/events_special_aea_justicier.xml:245
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DESTROYED_JUSTICE_CRUISER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "他们再次传送离去，去向不明。"
 
 #: src-en/data/events_special_aea_justicier.xml:250
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/text"
 msgstr ""
+"随着最后一名船员倒下，一个陌生的身影传送至你的舰上。“变元者，你已证明自己是位"
+"出色的战士，但我的神灵渴求鲜血，而失去星舰的我无法完成献祭。或许我能暂时在你"
+"的舰上效力？”"
 
 #: src-en/data/events_special_aea_justicier.xml:255
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/text"
-msgstr ""
+msgstr "同意他们登船。"
 
 #: src-en/data/events_special_aea_justicier.xml:257
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "黑暗惩罚者加入了船员队伍。"
 
 #: src-en/data/events_special_aea_justicier.xml:258
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "黑暗惩罚者"
 
 #: src-en/data/events_special_aea_justicier.xml:262
 msgid ""
@@ -225,12 +245,12 @@ msgstr "拒绝。"
 #: src-en/data/events_special_aea_justicier.xml:264
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"DEAD_CREW_JUSTICE_CRUISER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "他们再次传送离去，去向不明。"
 
 #: src-en/data/events_special_aea_justicier.xml:274
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/text"
-msgstr ""
+msgstr "一片被摧毁的叛军舰队残骸散落在此，但增援已至，你无暇搜寻！"
 
 #: src-en/data/events_special_aea_justicier.xml:281
 msgid ""
@@ -240,9 +260,9 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_justicier.xml:285
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "（先进引擎）尝试逃离精英追捕。"
 
 #: src-en/data/events_special_aea_justicier.xml:289
 msgid ""
 "data/events_special_aea_justicier.xml$//event[@name=\"AEA_FLEET_WRECK_ELITE\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
-msgstr ""
+msgstr "(杰瑞) \"你好!\""
