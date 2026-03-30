@@ -1,24 +1,34 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-03-30 19:19+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/dataevents_special_aea_shardxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_aea_shard.xml:15
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_START_AEA_SHARD\"]/text[1]"
-msgstr ""
+msgstr "你已抵达碎晶锻者星域。作为联邦的盟友，你在此地交友不成问题。这些海盗通常友善"
+"，只是务必别卷入叛乱纷争之中。"
 
 #: src-en/data/events_special_aea_shard.xml:16
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_START_AEA_SHARD\"]/text[2]"
-msgstr ""
+msgstr "你已抵达碎晶锻者星域。作为联邦的盟友，你在此地交友不成问题。这些海盗通常友善"
+"，只是务必别卷入叛乱纷争之中。"
 
 #: src-en/data/events_special_aea_shard.xml:17
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_START_AEA_SHARD\"]/text[3]"
-msgstr ""
+msgstr "你已抵达碎晶锻者星域。作为联邦的盟友，你在此地交友不成问题。这些海盗通常友善"
+"，只是务必别卷入叛乱纷争之中。"
 
 #: src-en/data/events_special_aea_shard.xml:30
 msgid ""
@@ -32,7 +42,7 @@ msgstr "继续。"
 
 #: src-en/data/events_special_aea_shard.xml:52
 msgid "data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD\"]/text"
-msgstr ""
+msgstr "由于近期与叛军交战，碎晶锻者在此信标部署了守卫，但他们似乎对你并无兴趣。"
 
 #: src-en/data/events_special_aea_shard.xml:54
 msgid ""
@@ -72,7 +82,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_shard.xml:85
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_GUARD_AEA_SHARD_CONTACT\"]/text"
-msgstr ""
+msgstr "屏幕上出现一块巨大的水晶族，你能看到其肩部醒目的白色印记，表明他们是碎晶锻者"
+"的成员。"
 
 #: src-en/data/events_special_aea_shard.xml:90
 msgid ""
@@ -112,22 +123,23 @@ msgstr "跳过。"
 #: src-en/data/events_special_aea_shard.xml:119
 msgid ""
 "data/events_special_aea_shard.xml$//eventList[@name=\"GUARD_AEA_SHARD_REQUEST\"]/event[1]/text"
-msgstr ""
+msgstr "“虽然结识新朋友颇为有趣，但恐怕我们无法匀出任何补给。”"
 
 #: src-en/data/events_special_aea_shard.xml:122
 msgid ""
 "data/events_special_aea_shard.xml$//eventList[@name=\"GUARD_AEA_SHARD_REQUEST\"]/event[2]/text"
-msgstr ""
+msgstr "“你们想要些补给？当然可以！我可不常有结交新朋友的机会！”"
 
 #: src-en/data/events_special_aea_shard.xml:128
 msgid ""
 "data/events_special_aea_shard.xml$//eventList[@name=\"GUARD_AEA_SHARD_DEMAND\"]/event/text"
-msgstr ""
+msgstr "“如此无礼的要求简直是对我们的侮辱，你该庆幸自己是联邦的人。”水晶族切断了通讯"
+"，但除此之外并未采取敌意行动。"
 
 #: src-en/data/events_special_aea_shard.xml:133
 msgid ""
 "data/events_special_aea_shard.xml$//eventList[@name=\"GUARD_AEA_SHARD_THREATEN\"]/event/text"
-msgstr ""
+msgstr "水晶族不吃你威胁这套。他们非但没有就范，反而举起武器发起攻击。"
 
 #: src-en/data/events_special_aea_shard.xml:136
 msgid ""
@@ -137,7 +149,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_shard.xml:149
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_DESTROY\"]/text"
-msgstr ""
+msgstr "你击败了碎晶锻者守卫。无论他们货舱中曾有何物，已损毁殆尽，但你至少能从星舰上"
+"回收部分物资。"
 
 #: src-en/data/events_special_aea_shard.xml:152
 msgid ""
@@ -147,7 +160,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_shard.xml:157
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_DEADCREW\"]/text"
-msgstr ""
+msgstr "你击败了碎晶锻者守卫。船上已无船员阻拦，你可调查其货舱。找到一件武器带回舰船"
+"，并继续拆解其舰体回收废料。"
 
 #: src-en/data/events_special_aea_shard.xml:161
 msgid ""
@@ -157,7 +171,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_shard.xml:174
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"GUARD_AEA_SHARD_FOLLOWUP\"]/text"
-msgstr ""
+msgstr "击杀碎晶锻者守卫，无疑会促使他们派遣增援追捕你。探索该星域时务必谨慎行事。"
 
 #: src-en/data/events_special_aea_shard.xml:183
 msgid ""
@@ -189,6 +203,8 @@ msgstr "未探索的信标。"
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"REINFORCEMENTS_AEA_SHARD\"]/text"
 msgstr ""
+"“外来者，我们早知你们野蛮，但迁居此地时，万万没想到你们会入侵我们的星域，以如"
+"此暴行威胁我们的生存方式！你们无情摧毁了守卫舰上的兄弟，我们定要为他们复仇！”"
 
 #: src-en/data/events_special_aea_shard.xml:203
 msgid ""
@@ -215,6 +231,8 @@ msgstr "未探索的信标。"
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_SHARD\"]/text"
 msgstr ""
+"“外来者，我们早知你们野蛮，但迁居此地时，万万没想到你们会入侵我们的星域，以如"
+"此暴行威胁我们的生存方式！你们无情摧毁了守卫舰上的兄弟，我们定要为他们复仇！”"
 
 #: src-en/data/events_special_aea_shard.xml:220
 msgid ""
@@ -225,41 +243,47 @@ msgstr "继续。"
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_OUTPOST_AEA_SHARD\"]/text[1]"
 msgstr ""
+"“外来者，多有趣啊。亚卡汀知道你们能讲出多少神秘故事！”水晶族打了个哈欠。“不过"
+"那是我过去的想法了。可惜，你们似乎都挺无聊的。话说回来，无论无聊与否，我既已"
+"向联邦许下职责，便会恪守到底。你们需要什么？”"
 
 #: src-en/data/events_special_aea_shard.xml:268
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_OUTPOST_AEA_SHARD\"]/text[2]"
 msgstr ""
+"附近的水晶空间站将所有武器锁定在你身上，威胁开火。“立刻停下！这里是帝国星域！"
+"滚出去否则——哦天哪，你是变元者！哇！失敬失敬。请随意停靠，我会让船员为你提供"
+"所需的一切资源。”"
 
 #: src-en/data/events_special_aea_shard.xml:285
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[@req=\"challenge_level\"]/text"
-msgstr ""
+msgstr "请求免费维修。[7$]"
 
 #: src-en/data/events_special_aea_shard.xml:291
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[2]/text"
-msgstr ""
+msgstr "请求燃料。"
 
 #: src-en/data/events_special_aea_shard.xml:299
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[3]/text"
-msgstr ""
+msgstr "请求弹药。"
 
 #: src-en/data/events_special_aea_shard.xml:307
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[4]/text"
-msgstr ""
+msgstr "请求无人机部件。"
 
 #: src-en/data/events_special_aea_shard.xml:315
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[5]/text"
-msgstr ""
+msgstr "攻击前哨站！"
 
 #: src-en/data/events_special_aea_shard.xml:317
 msgid ""
 "data/events_special_aea_shard.xml$/dummyroot/FTL/event[@name=\"OUTPOST_AEA_SHARD\"]/choice[5]/event/text"
-msgstr ""
+msgstr "你启动武器，向空间站开火！"
 
 #: src-en/data/events_special_aea_shard.xml:320
 msgid ""
@@ -290,7 +314,8 @@ msgstr "未探索的信标。"
 #: src-en/data/events_special_aea_shard.xml:345
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/text"
-msgstr ""
+msgstr "该信标处有一艘碎晶锻者运输船。几乎可以肯定船上载有某种特殊技术。若你能消灭船"
+"上船员，货物便归你所有。"
 
 #: src-en/data/events_special_aea_shard.xml:348
 msgid ""
@@ -315,7 +340,7 @@ msgstr "避开这艘船。"
 #: src-en/data/events_special_aea_shard.xml:361
 msgid ""
 "data/events_special_aea_shard.xml$//event[@name=\"TRANSPORT_AEA_SHARD_LOOT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "那艘星舰始终停在你武器射程之外，最终跃迁离去。"
 
 #: src-en/data/events_special_aea_shard.xml:363
 msgid ""
@@ -335,32 +360,35 @@ msgstr "对方船员都死了，留给你一艘空船。他们的货物任由你
 #: src-en/data/events_special_aea_shard.xml:393
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHARD\"]/text[1]"
-msgstr ""
+msgstr "尽管晶体装甲竭力防护，仍未能抵挡住你武器的火力。"
 
 #: src-en/data/events_special_aea_shard.xml:394
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHARD\"]/text[2]"
-msgstr ""
+msgstr "不可思议的是，这艘水晶族舰船的残骸极易被误认为小型的水晶族舰船。幸好你无需再"
+"多对付敌人，你开始拆解这最新猎物。"
 
 #: src-en/data/events_special_aea_shard.xml:395
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DESTROYED_AEA_SHARD\"]/text[3]"
-msgstr ""
+msgstr "几块碎裂装甲的碎片险些击中你的舰船，所幸你及时驾驶避开了。你尽可能回收了可用"
+"的残骸。"
 
 #: src-en/data/events_special_aea_shard.xml:403
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHARD\"]/text[1]"
-msgstr ""
+msgstr "尽管水晶族拥有各种花哨的能力，对你的船员而言，他们与其他人一样易于斩杀。你拆"
+"解了这艘星舰。"
 
 #: src-en/data/events_special_aea_shard.xml:404
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHARD\"]/text[2]"
-msgstr ""
+msgstr "你不禁思索：既然能如此轻易斩杀水晶族，岩石族当年为何会奉他们为神。"
 
 #: src-en/data/events_special_aea_shard.xml:405
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_SHARD\"]/text[3]"
-msgstr ""
+msgstr "水晶族星舰已被成功摧毁。你拆解了其残骸。"
 
 #: src-en/data/events_special_aea_shard.xml:412
 msgid ""
@@ -385,42 +413,43 @@ msgstr "接受他们的投降。"
 #: src-en/data/events_special_aea_shard.xml:444
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[1]"
-msgstr ""
+msgstr "“我们投降，外来者。我们不想与你们战斗至死。”"
 
 #: src-en/data/events_special_aea_shard.xml:445
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[2]"
-msgstr ""
+msgstr "“你们赢了！我再也不会小看你们这些外乡人了。请让我们平安离开吧。”"
 
 #: src-en/data/events_special_aea_shard.xml:446
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[3]"
-msgstr ""
+msgstr "他们似乎正在发送通用的投降信号。你要放他们走吗？"
 
 #: src-en/data/events_special_aea_shard.xml:447
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[4]"
-msgstr ""
+msgstr "他们发来讯息：“我明白了，这只是一场误会，无需再流血。您能原谅我们的鲁莽之举吗"
+"？”"
 
 #: src-en/data/events_special_aea_shard.xml:448
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[5]"
-msgstr ""
+msgstr "“我们打不过你；我们投降。想必你的故乡一定存在仁慈吧。”"
 
 #: src-en/data/events_special_aea_shard.xml:451
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[6]"
-msgstr ""
+msgstr "水晶族星舰已停止开火。看来他们试图投降。"
 
 #: src-en/data/events_special_aea_shard.xml:452
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[7]"
-msgstr ""
+msgstr "“舰长，我想咱们的分歧可以用些废料来解决，对吧？我已明白这是此地的行事之道。”"
 
 #: src-en/data/events_special_aea_shard.xml:453
 msgid ""
 "data/events_special_aea_shard.xml$//textList[@name=\"TEXT_SURRENDER_AEA_SHARD\"]/text[8]"
-msgstr ""
+msgstr "“尽管我万分不愿承认，但我们已无力假装无需投降。您愿意饶我们一命吗？”"
 
 #: src-en/data/events_special_aea_shard.xml:462
 msgid ""
