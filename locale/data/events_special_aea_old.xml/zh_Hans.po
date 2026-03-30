@@ -1,14 +1,21 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-03-30 19:19+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/dataevents_special_aea_oldxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_aea_old.xml:3
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_POWER_CELL_CONTINUE\"]/text"
-msgstr ""
+msgstr "测试 测试 。"
 
 #: src-en/data/events_special_aea_old.xml:12
 msgid ""
@@ -23,7 +30,8 @@ msgstr "？？？"
 #: src-en/data/events_special_aea_old.xml:15
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_POWER_CELL_GET\"]/text"
-msgstr ""
+msgstr "这个信标处有一件奇怪的武器残骸。几乎无法回收任何东西，但你设法从残骸中找到了"
+"一件奇特的武器。"
 
 #: src-en/data/events_special_aea_old.xml:19
 msgid ""
@@ -33,16 +41,17 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_old.xml:30
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "此处为一大型建筑所在地。"
 
 #: src-en/data/events_special_aea_old.xml:31
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "此处为一大型建筑所在地。"
 
 #: src-en/data/events_special_aea_old.xml:33
 msgid "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/text"
-msgstr ""
+msgstr "信标附近的轨道上，一座巨大的环状结构巍然矗立，形态威严却用途不明。这座环似乎"
+"早在远古时期便已安置于此，其用途至今仍是个谜。"
 
 #: src-en/data/events_special_aea_old.xml:35
 msgid ""
@@ -54,19 +63,19 @@ msgstr "继续。"
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "你旅途早期收集的那件奇特武器，在靠近这座建筑时开始发光。"
 
 #: src-en/data/events_special_aea_old.xml:39
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
 " and not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/text"
-msgstr ""
+msgstr "（？？？武器）将武器嵌入星门。"
 
 #: src-en/data/events_special_aea_old.xml:41
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
 " and not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/text"
-msgstr ""
+msgstr "星门开始发光，片刻后，一道裂隙在中央展开，一艘巨大的星舰从中驶出。"
 
 #: src-en/data/events_special_aea_old.xml:46
 msgid ""
@@ -80,7 +89,7 @@ msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
 " and "
 "not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/choice/event/text"
-msgstr ""
+msgstr "你嵌入星门的武器再次被吐了出来，似乎还带出了星门的一部分。"
 
 #: src-en/data/events_special_aea_old.xml:51
 msgid ""
@@ -94,7 +103,8 @@ msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
 " and "
 "not(@lvl)]/event/choice[@req=\"AEA_LASER_OLD_1_CELL\"]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "当你收集星门残骸时，那艘巨型星舰正向你逼近，你注意到有两门武器正在充能，但其"
+"余强大武器仍处于离线状态。"
 
 #: src-en/data/events_special_aea_old.xml:60
 msgid ""
@@ -113,7 +123,7 @@ msgstr "不理会它。"
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
 " and not(@lvl)]/event/choice[2]/event/text"
-msgstr ""
+msgstr "当超光速引擎充能时，你凝望着这座宏伟建筑。"
 
 #: src-en/data/events_special_aea_old.xml:74
 msgid ""
@@ -137,7 +147,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE\"]/choice[@req=\"AEA_LASER_OLD_1_CELL\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "当超光速引擎充能时，你凝望着这座宏伟建筑。"
 
 #: src-en/data/events_special_aea_old.xml:90
 msgid ""
@@ -154,12 +164,16 @@ msgstr "跳过。"
 #: src-en/data/events_special_aea_old.xml:107
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_GATE_GUARD_BOSS\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "那艘神秘星舰正在充能其多元引擎。它的主炮似乎是一种奇特的武器，能抓住你的舰船"
+"并将你与它绑定。如果它进入超空间，你很可能也会被一起拖走……"
 
 #: src-en/data/events_special_aea_old.xml:112
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_GATE_GUARD_BOSS\"]/destroyed/text"
 msgstr ""
+"你摧毁了那艘神秘星舰，开始打捞残骸。\n"
+"\n"
+"你不禁想，若是任由它逃脱并将你一同带走，又会发生什么呢。"
 
 #: src-en/data/events_special_aea_old.xml:117
 msgid ""
@@ -170,11 +184,15 @@ msgstr "继续。"
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"ESCAPE_AEA_OLD_GUARD_BOSS\"]/text"
 msgstr ""
+"出人意料的是，这艘星舰竟试图逃跑，若你稍有不慎，恐怕也会被它拖走。\n"
+"\n"
+"它的主炮似乎是某种钩爪装置，能抓住你的舰船并将你与它绑定。一旦它跃入超空间，"
+"你很可能也会被一同拖走……"
 
 #: src-en/data/events_special_aea_old.xml:129
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"GOTAWAY_AEA_OLD_GUARD_BOSS\"]/text"
-msgstr ""
+msgstr "那艘星舰启动了跃迁引擎，将自己传送走了。"
 
 #: src-en/data/events_special_aea_old.xml:132
 msgid ""
@@ -186,7 +204,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"GOTAWAY_AEA_OLD_GUARD_BOSS\"]/choice[@req=\"aea_old_gate_guard_attached\""
 " and not(@lvl)]/event/text"
-msgstr ""
+msgstr "几乎在同一瞬间，你的星舰被那艘星舰拖拽着撕入超高速，你整个人都站立不稳。"
 
 #: src-en/data/events_special_aea_old.xml:136
 msgid ""
@@ -203,7 +221,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_old.xml:152
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_GATE_GUARD_BOSS_ACTIVATE\"]/text"
-msgstr ""
+msgstr "看来你的所作所为彻底激怒了这艘星舰，它启动了剩余的全部武器。"
 
 #: src-en/data/events_special_aea_old.xml:158
 msgid ""
@@ -214,6 +232,11 @@ msgstr "继续。"
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_BEAM_MASTER\"]/text"
 msgstr ""
+"“我终于想明白了，我老是输的原因就是你总朝我的船开火！一开始我想——‘那我把你们"
+"的枪拆了不就行了？’可船员们说这不太现实，于是我就琢磨你们平时都打哪儿……啊哈！"
+"你们专打我的系统对吧？你这狡猾的家伙，秘密被我揭穿啦！现在可没门儿了。那群利"
+"尔米克卖给我这身装甲，我几乎白捡的，虽然搭上了我所有其他武器，只要打不掉我的"
+"系统，我就是无敌的！如今我可是装甲大师！祝你们能打中什么东西吧，混蛋！”"
 
 #: src-en/data/events_special_aea_old.xml:174
 msgid ""
@@ -223,57 +246,61 @@ msgstr "又来一遍咯。"
 #: src-en/data/events_special_aea_old.xml:178
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"AEA_OLD_BEAM_MASTER\"]/choice[@req=\"BLUELIST_WEAPONS_BEAM_POWERFUL\"]/text"
-msgstr ""
+msgstr "（强力光束）向莉娅展示光束。"
 
 #: src-en/data/events_special_aea_old.xml:204
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[1]"
-msgstr ""
+msgstr "残骸碎裂成成千上万块金属碎片，可惜并非所有碎片都是可用的废料。"
 
 #: src-en/data/events_special_aea_old.xml:205
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[2]"
-msgstr ""
+msgstr "当舰船解体时，你不禁思索，要再过多久，另一艘同样的舰船才会被拖入多元宇宙的这"
+"一隅。"
 
 #: src-en/data/events_special_aea_old.xml:206
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[3]"
-msgstr ""
+msgstr "利尔米克星域的造船厂远不及那些能接触到多元宇宙其他区域的地方，因此短时间内恐"
+"怕很难再见到像刚才那艘被炸毁的星舰了。"
 
 #: src-en/data/events_special_aea_old.xml:207
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD_MV\"]/text[4]"
-msgstr ""
+msgstr "又一名强敌倒下了。虽说此举并未让你离逃脱近多少，但好歹也捞到些废料。"
 
 #: src-en/data/events_special_aea_old.xml:210
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"DESTROYED_AEA_OLD_MV_GUN\"]/text"
-msgstr ""
+msgstr "出乎意料的是，竟有一件武器在爆炸中幸存。它被炸得有些焦黑，但稍加修整便能回收"
+"利用。"
 
 #: src-en/data/events_special_aea_old.xml:228
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD_MV\"]/text[1]"
-msgstr ""
+msgstr "像这样先进的星舰本就稀缺，恐怕很快就会有其他倒霉蛋来打捞这艘残骸了。"
 
 #: src-en/data/events_special_aea_old.xml:229
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD_MV\"]/text[2]"
-msgstr ""
+msgstr "船员们已化作舰舱墙壁上的一抹红渍，你得以安然拆解这艘星舰。"
 
 #: src-en/data/events_special_aea_old.xml:230
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD_MV\"]/text[3]"
-msgstr ""
+msgstr "唯有最危险的舰船方能在此存活。而对这艘船的船员而言，不幸的是，你正是这片区域"
+"最危险的存在。"
 
 #: src-en/data/events_special_aea_old.xml:233
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"DEAD_CREW_AEA_OLD_MV_GUN\"]/text"
-msgstr ""
+msgstr "船员已尽数清除，你在舰上发现了一件他们的武器。取走武器后，你便开始拆解舰船。"
 
 #: src-en/data/events_special_aea_old.xml:245
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STATIONDEFEND\"]/destroyed/text"
-msgstr ""
+msgstr "摧毁舰船后，你将其拆解，获得了可观的回报。"
 
 #: src-en/data/events_special_aea_old.xml:248
 msgid ""
@@ -283,7 +310,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_old.xml:253
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STATIONDEFEND\"]/deadCrew/text"
-msgstr ""
+msgstr "清除船上船员后，你将其拆解，获得了可观的回报。"
 
 #: src-en/data/events_special_aea_old.xml:256
 msgid ""
@@ -293,7 +320,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_old.xml:264
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STORE_PROTECT\"]/destroyed/text"
-msgstr ""
+msgstr "摧毁舰船后，你将其拆解，获得了可观的回报。"
 
 #: src-en/data/events_special_aea_old.xml:267
 msgid ""
@@ -303,7 +330,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_old.xml:272
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"SHIP_AEA_OLD_MU_STORE_PROTECT\"]/deadCrew/text"
-msgstr ""
+msgstr "清除船上船员后，你将其拆解，获得了可观的回报。"
 
 #: src-en/data/events_special_aea_old.xml:275
 msgid ""
@@ -329,17 +356,18 @@ msgstr "未探索的信标。"
 #: src-en/data/events_special_aea_old.xml:294
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/text"
-msgstr ""
+msgstr "这个信标处有一座利尔米克空间站。几乎可以肯定站上载有某种特殊技术。若你能消灭"
+"站内人员，货物便归你所有。"
 
 #: src-en/data/events_special_aea_old.xml:297
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[1]/text"
-msgstr ""
+msgstr "要求交出货物投降。"
 
 #: src-en/data/events_special_aea_old.xml:299
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你准备武力夺取货物。"
 
 #: src-en/data/events_special_aea_old.xml:302
 msgid ""
@@ -349,12 +377,12 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_old.xml:308
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[2]/text"
-msgstr ""
+msgstr "避开空间站。"
 
 #: src-en/data/events_special_aea_old.xml:310
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_AEA_OLD_1_LOOT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你停留在空间站射程之外，准备跃迁离开。"
 
 #: src-en/data/events_special_aea_old.xml:312
 msgid ""
@@ -369,42 +397,46 @@ msgstr "跳过。"
 #: src-en/data/events_special_aea_old.xml:323
 msgid ""
 "data/events_special_aea_old.xml$//event[@name=\"TRANSPORT_CAPTURE_AEA_OLD\"]/text"
-msgstr ""
+msgstr "船员已尽数身亡，空间站如今归你所有。其货物唾手可得，你预料中的特殊技术也在其"
+"中，尽数带回舰上。"
 
 #: src-en/data/events_special_aea_old.xml:339
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD\"]/text[1]"
-msgstr ""
+msgstr "利尔米克星舰炸成无数碎片，你能辨认出装甲的残块，即便爆炸过后依然完好。这莫名"
+"令人满足，你一边拆解残骸，一边得意地回味自己的杰作。"
 
 #: src-en/data/events_special_aea_old.xml:340
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD\"]/text[2]"
-msgstr ""
+msgstr "你不禁想，从前怎从未听闻过利尔米克族，旋即又记起自己是被他们绑架过来的。"
 
 #: src-en/data/events_special_aea_old.xml:341
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DESTROYED_AEA_OLD\"]/text[3]"
-msgstr ""
+msgstr "每摧毁一艘利尔米克星舰，你便离逃离他们的隔离区更近一步。虽仅是一小步，却也足"
+"以支撑你继续前行。"
 
 #: src-en/data/events_special_aea_old.xml:349
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[1]"
-msgstr ""
+msgstr "当最后一名利尔米克族倒下时，它吐出最后两个字：“去……你的……”"
 
 #: src-en/data/events_special_aea_old.xml:350
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[2]"
-msgstr ""
+msgstr "你干净利落地解决了这些外星人。你毫无愧疚，毕竟这根本算不上谋杀。"
 
 #: src-en/data/events_special_aea_old.xml:351
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[3]"
-msgstr ""
+msgstr "你听说过，利尔米克族并不会真正死亡，只是被重新导向新的躯体。但愿那些新躯体不"
+"会出现在附近。"
 
 #: src-en/data/events_special_aea_old.xml:352
 msgid ""
 "data/events_special_aea_old.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_OLD\"]/text[4]"
-msgstr ""
+msgstr "或许你对利尔米克族毫无愧疚，但他们的有机船员未必都罪有应得。"
 
 #: src-en/data/events_special_aea_old.xml:357
 msgid ""
@@ -444,7 +476,7 @@ msgstr "我们并不害怕你。"
 #: src-en/data/events_special_aea_old.xml:426
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_STATION_EXCLUSIVE\"]/surrender/text"
-msgstr ""
+msgstr "“行行，让你们进站，别杀我们就行。”"
 
 #: src-en/data/events_special_aea_old.xml:428
 msgid ""
@@ -454,7 +486,7 @@ msgstr "放他们一条生路。"
 #: src-en/data/events_special_aea_old.xml:431
 msgid ""
 "data/events_special_aea_old.xml$//ship[@name=\"AEA_OLD_STATION_EXCLUSIVE\"]/surrender/choice[1]/event/text"
-msgstr ""
+msgstr "你获准进入空间站，发现它基本上就是个巨大的商店。"
 
 #: src-en/data/events_special_aea_old.xml:436
 msgid ""
