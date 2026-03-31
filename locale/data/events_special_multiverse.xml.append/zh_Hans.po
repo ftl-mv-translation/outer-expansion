@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-30 19:19+0000\n"
+"PO-Revision-Date: 2026-04-01 04:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/dataevents_special_multiversexmlappend/zh_Hans/>"
@@ -166,13 +166,13 @@ msgstr "继续。"
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "展示一名利尔米克船员。"
 
 #: src-en/data/events_special_multiverse.xml.append:109
 msgid ""
 "data/events_special_multiverse.xml.append$//mod:findName[@name=\"THE_JUDGES_ZOLTAN\"]/mod-"
 "append:choice[7]/event/text"
-msgstr ""
+msgstr "\"\""
 
 #: src-en/data/events_special_multiverse.xml.append:113
 msgid ""
@@ -183,7 +183,8 @@ msgstr "继续。"
 #: src-en/data/events_special_multiverse.xml.append:175
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_AEAT_BOSS_ACID_NORMAL\"]/text"
-msgstr ""
+msgstr "从隧道中驶出一艘庞大的星舰，酸藻族设计风格！这必定是一艘罕见的探险船，它肩负"
+"着穿越多元宇宙的使命！"
 
 #: src-en/data/events_special_multiverse.xml.append:178
 msgid ""
@@ -193,7 +194,7 @@ msgstr "准备战斗！"
 #: src-en/data/events_special_multiverse.xml.append:180
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_AEAT_BOSS_ACID_NORMAL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "那艘星舰转向，准备与你交战。"
 
 #: src-en/data/events_special_multiverse.xml.append:183
 msgid ""
@@ -203,12 +204,12 @@ msgstr "继续。"
 #: src-en/data/events_special_multiverse.xml.append:198
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_AEAT_BOSS_ACID_NORMAL\"]/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
-msgstr ""
+msgstr "运用你的祝福避免战斗。"
 
 #: src-en/data/events_special_multiverse.xml.append:205
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_AEAT_BOSS_ACID_CHALLENGE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "此处存在异常能量信号。[酸蚀 B 型]"
 
 #: src-en/data/events_special_multiverse.xml.append:206
 #, fuzzy
@@ -219,7 +220,8 @@ msgstr "已探索的信标，没什么值得注意。"
 #: src-en/data/events_special_multiverse.xml.append:208
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_AEAT_BOSS_ACID_CHALLENGE\"]/text"
-msgstr ""
+msgstr "从隧道中驶出一艘庞大的星舰，酸藻族设计风格！这必定是一艘罕见的探险船，它肩负"
+"着穿越多元宇宙的使命！"
 
 #: src-en/data/events_special_multiverse.xml.append:211
 msgid ""
@@ -229,7 +231,7 @@ msgstr "准备战斗！"
 #: src-en/data/events_special_multiverse.xml.append:213
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_AEAT_BOSS_ACID_CHALLENGE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "那艘舰船转向，准备与你交战。"
 
 #: src-en/data/events_special_multiverse.xml.append:216
 msgid ""
@@ -239,12 +241,13 @@ msgstr "继续。"
 #: src-en/data/events_special_multiverse.xml.append:231
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_AEAT_BOSS_ACID_CHALLENGE\"]/choice[@req=\"JUDGE_BOON_RENEGADE\"]/text"
-msgstr ""
+msgstr "运用你的祝福避免战斗。"
 
 #: src-en/data/events_special_multiverse.xml.append:236
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"MV_TRAVELER_AEAT_BOSS_ACID_EXTREME\"]/text"
-msgstr ""
+msgstr "从隧道中驶出一艘庞大的星舰，酸藻族设计风格！这必定是一艘罕见的探险船，它肩负"
+"着穿越多元宇宙的使命！"
 
 #: src-en/data/events_special_multiverse.xml.append:239
 msgid ""
