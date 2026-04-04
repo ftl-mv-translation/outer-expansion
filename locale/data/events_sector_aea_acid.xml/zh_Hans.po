@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-04 06:04+0000\n"
+"PO-Revision-Date: 2026-04-05 06:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/dataevents_sector_aea_acidxml/zh_Hans/>\n"
@@ -101,7 +101,6 @@ msgid ""
 msgstr "你遇到一艘难民船在太空漂流。看起来它是逃避叛军舰队而来并且用光了燃料。它的求救信标是激活的，但你不确定是否还有人在船上。"
 
 #: src-en/data/events_sector_aea_acid.xml:114
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_REFUGEE_AEA_ACID_MV\"]/choice[1]/text"
 msgstr "联系他们。"
@@ -269,7 +268,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_aea_acid.xml:267
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_HIGH_PRICE\"]/choice[4]/text"
 msgstr "不，谢谢。"
@@ -300,7 +298,6 @@ msgid ""
 msgstr "用15废料购买他们的技术品。"
 
 #: src-en/data/events_sector_aea_acid.xml:290
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_MYSTERIOUS_TECH\"]/choice[2]/text"
 msgstr "不，谢谢。"
@@ -580,12 +577,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:502
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_2\"]/text"
-msgstr ""
+msgstr "交出你的破舰激光 II。"
 
 #: src-en/data/events_sector_aea_acid.xml:504
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_2\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:507
 msgid ""
@@ -595,12 +592,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:513
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN_DAMAGE\"]/text"
-msgstr ""
+msgstr "交出你的自适激光。"
 
 #: src-en/data/events_sector_aea_acid.xml:515
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN_DAMAGE\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:518
 msgid ""
@@ -610,7 +607,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:524
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_LIGHT_2\"]/text"
-msgstr ""
+msgstr "交出你的轻型激光II。"
 
 #: src-en/data/events_sector_aea_acid.xml:526
 msgid ""
@@ -625,12 +622,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:535
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PIERCE\"]/text"
-msgstr ""
+msgstr "交出你的穿刺激光I。"
 
 #: src-en/data/events_sector_aea_acid.xml:537
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PIERCE\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:540
 msgid ""
@@ -640,12 +637,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:546
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_FROST_1\"]/text"
-msgstr ""
+msgstr "交出你的冰霜激光I。"
 
 #: src-en/data/events_sector_aea_acid.xml:548
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_FROST_1\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:551
 msgid ""
@@ -655,12 +652,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:557
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PARTICLE_2\"]/text"
-msgstr ""
+msgstr "交出你的粒子加速器II。"
 
 #: src-en/data/events_sector_aea_acid.xml:559
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_PARTICLE_2\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:562
 msgid ""
@@ -670,12 +667,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:569
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_5\"]/text"
-msgstr ""
+msgstr "交出你的爆裂激光III。"
 
 #: src-en/data/events_sector_aea_acid.xml:571
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_BURST_5\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:574
 msgid ""
@@ -685,12 +682,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:580
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN_3\"]/text"
-msgstr ""
+msgstr "交出你的充能激光III。"
 
 #: src-en/data/events_sector_aea_acid.xml:582
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHARGEGUN_3\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:585
 msgid ""
@@ -700,12 +697,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:591
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_3\"]/text"
-msgstr ""
+msgstr "交出你的重型激光III。"
 
 #: src-en/data/events_sector_aea_acid.xml:593
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HEAVY_3\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:596
 msgid ""
@@ -715,12 +712,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:602
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_3\"]/text"
-msgstr ""
+msgstr "交出你的破舰激光III。"
 
 #: src-en/data/events_sector_aea_acid.xml:604
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_HULL_3\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:607
 msgid ""
@@ -730,12 +727,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:613
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN_2\"]/text"
-msgstr ""
+msgstr "交出你的链式火神激光。"
 
 #: src-en/data/events_sector_aea_acid.xml:615
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_CHAINGUN_2\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:618
 msgid ""
@@ -745,12 +742,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:624
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[28]/text"
-msgstr ""
+msgstr "交出你的穿刺激光II。"
 
 #: src-en/data/events_sector_aea_acid.xml:626
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[28]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:629
 msgid ""
@@ -760,12 +757,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:635
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[29]/text"
-msgstr ""
+msgstr "交出你的穿刺激光II。"
 
 #: src-en/data/events_sector_aea_acid.xml:637
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[29]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:640
 msgid ""
@@ -775,12 +772,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:646
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_FROST_2\"]/text"
-msgstr ""
+msgstr "交出你的冰霜激光II。"
 
 #: src-en/data/events_sector_aea_acid.xml:648
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"LASER_FROST_2\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:651
 msgid ""
@@ -790,12 +787,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:658
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_PARTICLE\"]/text"
-msgstr ""
+msgstr "交出你的粒子光束。"
 
 #: src-en/data/events_sector_aea_acid.xml:660
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_PARTICLE\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:663
 msgid ""
@@ -805,12 +802,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:669
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_LONG\"]/text"
-msgstr ""
+msgstr "交出你的'长枪'光束。"
 
 #: src-en/data/events_sector_aea_acid.xml:671
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_LONG\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:674
 msgid ""
@@ -820,12 +817,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:680
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_2\"]/text"
-msgstr ""
+msgstr "交出你的'战戟'光束。"
 
 #: src-en/data/events_sector_aea_acid.xml:682
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_2\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:685
 msgid ""
@@ -835,12 +832,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:691
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_ADAPT\"]/text"
-msgstr ""
+msgstr "交出你的'缨枪'光束。"
 
 #: src-en/data/events_sector_aea_acid.xml:693
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_ADAPT\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:696
 msgid ""
@@ -850,12 +847,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:702
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_HULL\"]/text"
-msgstr ""
+msgstr "交出你的'刺锤'光束。"
 
 #: src-en/data/events_sector_aea_acid.xml:704
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_HULL\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:707
 msgid ""
@@ -865,12 +862,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:713
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_STUN\"]/text"
-msgstr ""
+msgstr "交出你的'阔头枪'光束。"
 
 #: src-en/data/events_sector_aea_acid.xml:715
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_STUN\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:718
 msgid ""
@@ -880,12 +877,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:724
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_PIERCE\"]/text"
-msgstr ""
+msgstr "交出你的'钩镰'光束。"
 
 #: src-en/data/events_sector_aea_acid.xml:726
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_PIERCE\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:729
 msgid ""
@@ -895,12 +892,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:735
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_MINING\"]/text"
-msgstr ""
+msgstr "交出你的采矿光束。"
 
 #: src-en/data/events_sector_aea_acid.xml:737
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"BEAM_MINING\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:740
 msgid ""
@@ -910,12 +907,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:747
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_2\"]/text"
-msgstr ""
+msgstr "交出你的离子炮I。"
 
 #: src-en/data/events_sector_aea_acid.xml:749
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_2\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:752
 msgid ""
@@ -925,12 +922,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:758
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_3\"]/text"
-msgstr ""
+msgstr "交出你的离子炮II。"
 
 #: src-en/data/events_sector_aea_acid.xml:760
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_3\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:763
 msgid ""
@@ -940,12 +937,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:769
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_4\"]/text"
-msgstr ""
+msgstr "交出你的离子炮III。"
 
 #: src-en/data/events_sector_aea_acid.xml:771
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_4\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:774
 msgid ""
@@ -955,12 +952,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:780
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_HEAVY\"]/text"
-msgstr ""
+msgstr "交出你的重型离子炮。"
 
 #: src-en/data/events_sector_aea_acid.xml:782
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_HEAVY\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:785
 msgid ""
@@ -970,12 +967,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:791
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_TRI\"]/text"
-msgstr ""
+msgstr "交出你的三重离子炮。"
 
 #: src-en/data/events_sector_aea_acid.xml:793
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_TRI\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:796
 msgid ""
@@ -985,12 +982,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:802
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_CHAINGUN\"]/text"
-msgstr ""
+msgstr "交出你的自适应离子炮。"
 
 #: src-en/data/events_sector_aea_acid.xml:804
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_CHAINGUN\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:807
 msgid ""
@@ -1000,12 +997,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:813
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "交出你的充能离子炮。"
 
 #: src-en/data/events_sector_aea_acid.xml:815
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:818
 msgid ""
@@ -1015,12 +1012,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:824
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_2\"]/text"
-msgstr ""
+msgstr "交出你的眩晕炮II。"
 
 #: src-en/data/events_sector_aea_acid.xml:826
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_2\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:829
 msgid ""
@@ -1030,12 +1027,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:835
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_HEAVY\"]/text"
-msgstr ""
+msgstr "交出你的重型眩晕炮。"
 
 #: src-en/data/events_sector_aea_acid.xml:837
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_HEAVY\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:840
 msgid ""
@@ -1045,12 +1042,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:846
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_CHARGEGUN\"]/text"
-msgstr ""
+msgstr "交出你的充能眩晕炮。"
 
 #: src-en/data/events_sector_aea_acid.xml:848
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_STUN_CHARGEGUN\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:851
 msgid ""
@@ -1060,12 +1057,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:857
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_PIERCE_2\"]/text"
-msgstr ""
+msgstr "交出你的相位炮II。"
 
 #: src-en/data/events_sector_aea_acid.xml:859
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[@req=\"ION_PIERCE_2\"]/event/text"
-msgstr ""
+msgstr "你送出了武器，暗自猜想酸藻族会回馈什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:862
 msgid ""
@@ -1075,12 +1072,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:869
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[50]/text"
-msgstr ""
+msgstr "我们无法提供合适的武器。"
 
 #: src-en/data/events_sector_aea_acid.xml:871
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE\"]/choice[50]/event/text"
-msgstr ""
+msgstr "“真不走运。”酸藻族舰船缓缓漂离，消失在星云之中。"
 
 #: src-en/data/events_sector_aea_acid.xml:873
 msgid ""
@@ -1095,7 +1092,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:886
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE_RESULT_L1\"]/event/text"
-msgstr ""
+msgstr "片刻之后，你取回了送出的武器。它似乎已被酸藻族进行了深度改造。"
 
 #: src-en/data/events_sector_aea_acid.xml:889
 msgid ""
@@ -1105,7 +1102,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:897
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE_RESULT_L2\"]/event/text"
-msgstr ""
+msgstr "片刻之后，你取回了送出的武器。它似乎已被酸藻族进行了深度改造。"
 
 #: src-en/data/events_sector_aea_acid.xml:900
 msgid ""
@@ -1115,7 +1112,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:908
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE_RESULT_L3\"]/event/text"
-msgstr ""
+msgstr "片刻之后，你取回了送出的武器。它似乎已被酸藻族进行了深度改造。"
 
 #: src-en/data/events_sector_aea_acid.xml:911
 msgid ""
@@ -1125,7 +1122,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:919
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE_RESULT_B1\"]/event/text"
-msgstr ""
+msgstr "片刻之后，你取回了送出的武器。它似乎已被酸藻族进行了深度改造。"
 
 #: src-en/data/events_sector_aea_acid.xml:922
 msgid ""
@@ -1135,7 +1132,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:930
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_GUN_UPGRADE_RESULT_I1\"]/event/text"
-msgstr ""
+msgstr "片刻之后，你取回了送出的武器。它似乎已被酸藻族进行了深度改造。"
 
 #: src-en/data/events_sector_aea_acid.xml:933
 msgid ""
@@ -1146,11 +1143,14 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WRECK\"]/text"
 msgstr ""
+"你抵达信标处，发现附近漂浮着一艘奇怪的残骸。\n"
+"\n"
+"残骸相对完整，但似乎布满了孔洞。"
 
 #: src-en/data/events_sector_aea_acid.xml:945
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WRECK\"]/choice[1]/text"
-msgstr ""
+msgstr "检查残骸。"
 
 #: src-en/data/events_sector_aea_acid.xml:949
 msgid ""
@@ -1160,7 +1160,7 @@ msgstr "不理会它。"
 #: src-en/data/events_sector_aea_acid.xml:951
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WRECK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你任由残骸飘入星云深处。"
 
 #: src-en/data/events_sector_aea_acid.xml:953
 msgid ""
@@ -1175,22 +1175,23 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:966
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WRECK_RWEAP\"]/text"
-msgstr ""
+msgstr "你与残骸对接，发现其中已全无生命迹象。不过，货舱中有一个完好无损的武器箱。你"
+"将其带回，并在里面发现了一件崭新的武器。"
 
 #: src-en/data/events_sector_aea_acid.xml:971
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_WRECK_LIST\"]/event[3]/text"
-msgstr ""
+msgstr "正当你准备与残骸对接时，一艘舰船跃迁至信标处。看来它正是制造这场混乱的元凶。"
 
 #: src-en/data/events_sector_aea_acid.xml:974
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_WRECK_LIST\"]/event[3]/choice/text"
-msgstr ""
+msgstr "自卫反击！。"
 
 #: src-en/data/events_sector_aea_acid.xml:976
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_WRECK_LIST\"]/event[3]/choice/event/text"
-msgstr ""
+msgstr "你早已做好准备，酸藻族舰船立刻对你发动了攻击。"
 
 #: src-en/data/events_sector_aea_acid.xml:979
 msgid ""
@@ -1200,7 +1201,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:998
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORKIDS\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现附近有一艘休眠的兰花舰船。几乎可以肯定船上载有某种特殊技术。"
+"若能消灭船上的兰花船员，货物便归你所有。"
 
 #: src-en/data/events_sector_aea_acid.xml:1002
 msgid ""
@@ -1210,7 +1212,7 @@ msgstr "命令对方交出物资。"
 #: src-en/data/events_sector_aea_acid.xml:1004
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORKIDS\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你准备武力夺取货物。"
 
 #: src-en/data/events_sector_aea_acid.xml:1007
 msgid ""
@@ -1225,7 +1227,7 @@ msgstr "避开这艘船。"
 #: src-en/data/events_sector_aea_acid.xml:1015
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORKIDS\"]/choice[2]/event/text"
-msgstr ""
+msgstr "那艘星舰始终停在你武器射程之外，最终跃迁离去。"
 
 #: src-en/data/events_sector_aea_acid.xml:1017
 msgid ""
@@ -1240,10 +1242,9 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:1033
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "一处未探索的地点。该信标位于酸藻族境内，可能对您的舰船造成伤害。"
 
 #: src-en/data/events_sector_aea_acid.xml:1034
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -1256,32 +1257,34 @@ msgstr "未探索的信标。"
 #: src-en/data/events_sector_aea_acid.xml:1039
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现一艘酸藻族舰船正在维修。它目前似乎没有武装且无法行动。维修舰"
+"船的船员尚未发现你。"
 
 #: src-en/data/events_sector_aea_acid.xml:1043
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[1]/text"
-msgstr ""
+msgstr "打捞这艘舰船。"
 
 #: src-en/data/events_sector_aea_acid.xml:1045
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你与舰船对接，但气闸无法打开。看来酸藻族舰船上装有安全系统，需要一分钟才能绕"
+"过……"
 
 #: src-en/data/events_sector_aea_acid.xml:1048
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[1]/event/triggeredEvent[1]/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "正在绕过安全系统……"
 
 #: src-en/data/events_sector_aea_acid.xml:1056
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[2]/text"
-msgstr ""
+msgstr "别去动那艘酸藻族舰船。"
 
 #: src-en/data/events_sector_aea_acid.xml:1058
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_ITEM\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你对那艘船毫无兴趣。"
 
 #: src-en/data/events_sector_aea_acid.xml:1060
 msgid ""
@@ -1297,46 +1300,52 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_TIME\"]/text"
 msgstr ""
+"你终于通过封锁，开始打捞舰船。令你惊讶的是，你发现了一个似乎被困在船上的兰花"
+"族人。“你们是谁——算了，快带我离开这里。我以为自己要死在这儿了。他们大概忘了我"
+"还在船上，不小心把我锁在里面了。请带我走吧。”"
 
 #: src-en/data/events_sector_aea_acid.xml:1074
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_TIME\"]/choice[1]/text"
-msgstr ""
+msgstr "营救兰花族。"
 
 #: src-en/data/events_sector_aea_acid.xml:1077
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_TIME\"]/choice[1]/event/text"
-msgstr ""
+msgstr "打捞工作完成后，你将兰花带回了自己的舰船。"
 
 #: src-en/data/events_sector_aea_acid.xml:1081
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_TIME\"]/choice[2]/text"
-msgstr ""
+msgstr "丢下兰花族人不管。"
 
 #: src-en/data/events_sector_aea_acid.xml:1083
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_TIME\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你尽可能地完成了打捞，然后离开了那个兰花族人。希望酸藻族能在它饿死之前想起船"
+"上还关着它。"
 
 #: src-en/data/events_sector_aea_acid.xml:1088
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACID_AEA_ACID_ITEM_BOARD\"]/text"
-msgstr ""
+msgstr "就在你试图闯入酸藻族舰船时，维修队已闯入了你的舰船！。"
 
 #: src-en/data/events_sector_aea_acid.xml:1092
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/text"
-msgstr ""
+msgstr "你恰巧在一场离子风暴的中心发现了一处奇特的船坞。它似乎由酸藻族运营，但他们并"
+"无敌意。或许你能与他们做笔交易。"
 
 #: src-en/data/events_sector_aea_acid.xml:1095
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[1]/text"
-msgstr ""
+msgstr "攻击船坞！"
 
 #: src-en/data/events_sector_aea_acid.xml:1097
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[1]/event/text"
-msgstr ""
+msgstr "不知何故，你决定攻击这个临时船坞。尽管设施没有武装，但他们的一艘舰船升起迎战"
+"，保卫船坞。"
 
 #: src-en/data/events_sector_aea_acid.xml:1100
 msgid ""
@@ -1346,12 +1355,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:1106
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[2]/text"
-msgstr ""
+msgstr "付钱让他们升级你的氧气系统。"
 
 #: src-en/data/events_sector_aea_acid.xml:1108
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[2]/event/text"
-msgstr ""
+msgstr "酸藻族迅速为你的氧气系统安装了升级组件，使其现在能根据设定同时具备治疗与灭火"
+"功能。"
 
 #: src-en/data/events_sector_aea_acid.xml:1116
 msgid ""
@@ -1361,7 +1371,7 @@ msgstr "无视该建筑厂。"
 #: src-en/data/events_sector_aea_acid.xml:1118
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_STORM_AEA_ACID_AUGITEM\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你决定绕过这个临时船坞继续前进。"
 
 #: src-en/data/events_sector_aea_acid.xml:1120
 msgid ""
@@ -1376,7 +1386,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:1150
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK\"]/text"
-msgstr ""
+msgstr "附近有一艘酸蚀舰船，看起来已被遗弃。"
 
 #: src-en/data/events_sector_aea_acid.xml:1153
 msgid ""
@@ -1402,7 +1412,7 @@ msgstr "不理会它。"
 #: src-en/data/events_sector_aea_acid.xml:1165
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你转身离开那艘船，心想这大概不值得冒险。于是你收集了附近漂浮的一些补给品。"
 
 #: src-en/data/events_sector_aea_acid.xml:1168
 msgid ""
@@ -1417,12 +1427,17 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:1180
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK_INVEST\"]/event[1]/text"
-msgstr ""
+msgstr "你发现那艘船上几乎空空如也，只有几箱燃料。"
 
 #: src-en/data/events_sector_aea_acid.xml:1184
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK_INVEST\"]/event[2]/text"
 msgstr ""
+"当你靠近那艘船时，某种隐藏的陷阱被触发，你的引擎失灵了，如今你只能静止不动。"
+"\n"
+"\n"
+"\t更糟的是，你刚探测到一连串巨大的小行星正朝你飞来。你得在它们撞上之前将其击"
+"毁。"
 
 #: src-en/data/events_sector_aea_acid.xml:1190
 msgid ""
@@ -1433,6 +1448,11 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_EMPTY_WRECK_INVEST\"]/event[3]/text"
 msgstr ""
+"当你靠近那艘船时，某种隐藏的陷阱被触发，你的引擎失灵了，如今你只能静止不动。"
+"\n"
+"\n"
+"\t更糟的是，你刚探测到一连串巨大的小行星正朝你飞来。你得在它们撞上之前将其击"
+"毁。"
 
 #: src-en/data/events_sector_aea_acid.xml:1201
 msgid ""
@@ -1445,7 +1465,6 @@ msgid ""
 msgstr "你的传感器侦测到一艘漂荡在这个星系中的难民船，毫无疑问，它是众多逃离叛军进攻的船只之一。它似乎没有发现你...否则它会尽量避免被发现。"
 
 #: src-en/data/events_sector_aea_acid.xml:1211
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_REFUGEE_AEA_ACID\"]/choice[1]/text"
 msgstr "联系他们。"
@@ -1473,7 +1492,8 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:1232
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"REFUGEE_HAIL_LIST_AEA_ACID\"]/event[2]/text"
-msgstr ""
+msgstr "当你呼叫那艘难民船时，一艘蛞蝓族舰船跃迁进入了星系……它正以猎杀难民船为乐，而"
+"现在它们发现你了！"
 
 #: src-en/data/events_sector_aea_acid.xml:1235
 msgid ""
@@ -1483,10 +1503,9 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:1244
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "一处未探索的地点。该信标位于酸藻族境内，可能对您的舰船造成伤害。"
 
 #: src-en/data/events_sector_aea_acid.xml:1245
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -1499,17 +1518,19 @@ msgstr "未探索的信标。"
 #: src-en/data/events_sector_aea_acid.xml:1252
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/text"
-msgstr ""
+msgstr "奇怪的是，一位兰花舰长从一艘酸藻族舰船上向你发出通讯。“舰长，您身边有没有酸藻"
+"族的东西？若您能交出任何此类物品供我们销毁，我们将提供赏金。”"
 
 #: src-en/data/events_sector_aea_acid.xml:1255
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/choice[@req=\"aea_acid_soldier\"]/text"
-msgstr ""
+msgstr "（酸藻族士兵）接受他们的提议。"
 
 #: src-en/data/events_sector_aea_acid.xml:1257
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/choice[@req=\"aea_acid_soldier\"]/event/text"
-msgstr ""
+msgstr "你将酸藻族士兵送了过去，兰花一族信守承诺，消灭了其中的酸藻族。兰花一族按约定"
+"送来了赏金。"
 
 #: src-en/data/events_sector_aea_acid.xml:1261
 msgid ""
@@ -1519,12 +1540,12 @@ msgstr "幸运的是，你的船员立即被克隆舱复活了。"
 #: src-en/data/events_sector_aea_acid.xml:1266
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/choice[2]/text"
-msgstr ""
+msgstr "为酸藻族复仇。"
 
 #: src-en/data/events_sector_aea_acid.xml:1268
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BADORCHID\"]/choice[2]/event/text"
-msgstr ""
+msgstr "虽说严格来说这不算谋杀，但这些兰花族正滥用他们与酸藻族的关系，四处猎杀他们。"
 
 #: src-en/data/events_sector_aea_acid.xml:1271
 msgid ""
@@ -1534,10 +1555,9 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:1282
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "一处未探索的地点。该信标位于酸藻族境内，可能对您的舰船造成伤害。"
 
 #: src-en/data/events_sector_aea_acid.xml:1283
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -1550,7 +1570,8 @@ msgstr "未探索的信标。"
 #: src-en/data/events_sector_aea_acid.xml:1290
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/text"
-msgstr ""
+msgstr "一艘看守空间站的危险酸藻族舰船立刻向你发出通讯。“此地不欢迎你。选择你的惩罚，"
+"然后受死吧。”"
 
 #: src-en/data/events_sector_aea_acid.xml:1292
 msgid ""
@@ -1562,7 +1583,7 @@ msgstr "护盾。"
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"shields\""
 " and @lvl=\"2\"]/event/text"
-msgstr ""
+msgstr "“报价可以接受。”你的护盾能量骤降，他们随即发起冲锋。"
 
 #: src-en/data/events_sector_aea_acid.xml:1298
 msgid ""
@@ -1605,7 +1626,8 @@ msgstr "武器。"
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"weapons\""
 " and @lvl=\"2\"]/event/text"
-msgstr ""
+msgstr "“可接受的供奉。”你的武器系统检测到一个入侵模块。你还没来得及反应，他们便发起"
+"了攻击。"
 
 #: src-en/data/events_sector_aea_acid.xml:1325
 msgid ""
@@ -1647,7 +1669,7 @@ msgstr "氧气。"
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "“足够了……”你的氧气系统遭到破坏，他们随即发动攻击。"
 
 #: src-en/data/events_sector_aea_acid.xml:1352
 msgid ""
@@ -1688,7 +1710,7 @@ msgstr "提供35废料。"
 #: src-en/data/events_sector_aea_acid.xml:1375
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"pilot\"]/event/text"
-msgstr ""
+msgstr "“可以接受的惩罚。”他们收下废料后便离开了。"
 
 #: src-en/data/events_sector_aea_acid.xml:1382
 msgid ""
@@ -1698,7 +1720,7 @@ msgstr "(黑客系统)反击任何黑客意图。"
 #: src-en/data/events_sector_aea_acid.xml:1384
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CHOOSE_DEATH\"]/choice[@req=\"hacking\"]/event/text"
-msgstr ""
+msgstr "“看来没有惩罚可执行了。”他们切断了通讯，随即发动攻击。"
 
 #: src-en/data/events_sector_aea_acid.xml:1388
 msgid ""
@@ -1708,32 +1730,34 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:1396
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/text"
-msgstr ""
+msgstr "你抵达了一个小型自动化酸藻族维修站。或许你可以试着悄悄潜入，指望它免费为你维"
+"修。当然，你也可以选择付费维修。"
 
 #: src-en/data/events_sector_aea_acid.xml:1399
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[1]/text"
-msgstr ""
+msgstr "悄悄混入队列。"
 
 #: src-en/data/events_sector_aea_acid.xml:1403
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[2]/text"
-msgstr ""
+msgstr "花费 30 废料购买 10 点舰体修复。"
 
 #: src-en/data/events_sector_aea_acid.xml:1405
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你完成了交易，仔细看着机器修补船体。一切似乎都很顺利。修补完成后，你准备跃迁"
+"离开。"
 
 #: src-en/data/events_sector_aea_acid.xml:1413
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[3]/text"
-msgstr ""
+msgstr "避开维修站。"
 
 #: src-en/data/events_sector_aea_acid.xml:1415
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_REPAIR_YARD\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你准备跃迁。"
 
 #: src-en/data/events_sector_aea_acid.xml:1417
 msgid ""
@@ -1748,7 +1772,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:1429
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[1]/text"
-msgstr ""
+msgstr "正当你盘算着能免费修船时，一艘酸藻族舰船从你身后的队列中驶出，激活了武器。"
 
 #: src-en/data/events_sector_aea_acid.xml:1432
 msgid ""
@@ -1758,7 +1782,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:1437
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[2]/text"
-msgstr ""
+msgstr "你排到了队伍最前面，获得了免费维修。"
 
 #: src-en/data/events_sector_aea_acid.xml:1440
 msgid ""
@@ -1768,7 +1792,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:1442
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[2]/choice/event/text"
-msgstr ""
+msgstr "正当你以为能侥幸逃脱时，却被队列另一端的酸藻族舰船截住了。"
 
 #: src-en/data/events_sector_aea_acid.xml:1445
 msgid ""
@@ -1778,7 +1802,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:1452
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[3]/text"
-msgstr ""
+msgstr "你排到了队伍最前面，获得了免费维修。"
 
 #: src-en/data/events_sector_aea_acid.xml:1455
 msgid ""
@@ -1788,7 +1812,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:1457
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[3]/choice/event/text"
-msgstr ""
+msgstr "正当你以为能侥幸逃脱时，却被队列另一端的酸藻族舰船截住了。"
 
 #: src-en/data/events_sector_aea_acid.xml:1460
 msgid ""
@@ -1798,17 +1822,18 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:1462
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_REPAIR_SNEAK\"]/event[3]/choice/event/choice/event/text"
-msgstr ""
+msgstr "然而，那艘船只是从你身旁飞过，看来他们根本无意拦截。"
 
 #: src-en/data/events_sector_aea_acid.xml:1471
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORCHID\"]/text"
-msgstr ""
+msgstr "一艘游荡的舰船在信标处等着你。“廉价劳动力！我们有氧气发生器，还有那些先进的酸"
+"藻族机器人，快来看看！”"
 
 #: src-en/data/events_sector_aea_acid.xml:1475
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORCHID\"]/choice[1]/text"
-msgstr ""
+msgstr "海盗行径令人不齿。进攻那些奴隶贩子！"
 
 #: src-en/data/events_sector_aea_acid.xml:1477
 msgid ""
@@ -1828,7 +1853,7 @@ msgstr "购买一名奴隶。"
 #: src-en/data/events_sector_aea_acid.xml:1490
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_ORCHID\"]/choice[@req=\"LIST_CREW_CARETAKER\"]/text"
-msgstr ""
+msgstr "（看护者船员）劝海盗们以大局为重。"
 
 #: src-en/data/events_sector_aea_acid.xml:1494
 msgid ""
@@ -1853,7 +1878,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:1510
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_SLAVES\"]/event[1]/text"
-msgstr ""
+msgstr "“感谢惠顾！愿你们被这些家伙所信的那个愚蠢植物神保佑！”"
 
 #: src-en/data/events_sector_aea_acid.xml:1516
 msgid ""
@@ -1863,12 +1888,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:1521
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_SLAVES\"]/event[2]/text"
-msgstr ""
+msgstr "“感谢惠顾！愿这个机器人玩意儿能帮到你在外面要做的事！”"
 
 #: src-en/data/events_sector_aea_acid.xml:1522
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_SLAVES\"]/event[2]/crewMember"
-msgstr ""
+msgstr "酸藻族士兵"
 
 #: src-en/data/events_sector_aea_acid.xml:1527
 msgid ""
@@ -1878,7 +1903,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:1532
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_SLAVES\"]/event[3]/text"
-msgstr ""
+msgstr "“感谢惠顾！愿你们被这些家伙所信的那个愚蠢植物神保佑！”"
 
 #: src-en/data/events_sector_aea_acid.xml:1538
 msgid ""
@@ -1889,16 +1914,18 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER_FAIL\"]/text"
 msgstr ""
+"奴隶贩子们百无聊赖地看着你的兰花族打着手语。“是是是，说得真好，但我可没空关心"
+"这些。你难道没发现，我干这行可不是因为在乎什么道德？要是不买东西，就滚蛋。”"
 
 #: src-en/data/events_sector_aea_acid.xml:1547
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER_FAIL\"]/choice[1]/text"
-msgstr ""
+msgstr "进攻那些奴隶贩子！"
 
 #: src-en/data/events_sector_aea_acid.xml:1549
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER_FAIL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "既然无法说服这些奴隶贩子放弃买卖，那就由你亲自强行终结它。"
 
 #: src-en/data/events_sector_aea_acid.xml:1552
 msgid ""
@@ -1908,7 +1935,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:1558
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER_FAIL\"]/choice[2]/text"
-msgstr ""
+msgstr "改变主意，买个奴隶。"
 
 #: src-en/data/events_sector_aea_acid.xml:1562
 msgid ""
@@ -1918,22 +1945,31 @@ msgstr "离开。"
 #: src-en/data/events_sector_aea_acid.xml:1564
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER_FAIL\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你在这里浪费的时间够多了。"
 
 #: src-en/data/events_sector_aea_acid.xml:1570
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER\"]/event[3]/text"
 msgstr ""
+"出乎意料的是，你的兰花族人的话似乎打动了海盗。又或许没有……他们似乎只是感到恼"
+"火。“哎呀，好吧！我懂了，你们也是人，等等等等。我知道大概意思。如果我无礼，你"
+"们就会杀了我。我以前遇到过变元者。拿着这该死的植物，别烦我了。”奴隶贩子解开了"
+"一个兰花的镣铐，把他送到了你这边。你的看护者会确保他适应这新获得的自由。"
 
 #: src-en/data/events_sector_aea_acid.xml:1574
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"NEBULA_AEA_ACID_SLAVER_CARETAKER\"]/event[4]/text"
 msgstr ""
+"出乎意料的是，你的兰花族人的话似乎打动了海盗。又或许没有……他们似乎只是感到恼"
+"火。“哎呀，好吧！我懂了，你们也是人，等等等等。我知道大概意思。如果我无礼，你"
+"们就会杀了我。我以前遇到过变元者。拿着这该死的机器人，别烦我了。”奴隶贩子将一"
+"个酸藻族士兵送到了你这里。"
 
 #: src-en/data/events_sector_aea_acid.xml:1592
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_IMPORTANT_PRISONER\"]/text"
-msgstr ""
+msgstr "一名酸藻族精英似乎在守卫着一个兰花族的小型监狱。你不确定原因，但里面肯定关着"
+"重要的东西吧？"
 
 #: src-en/data/events_sector_aea_acid.xml:1596
 msgid ""
@@ -1958,7 +1994,7 @@ msgstr "无视这两艘船。"
 #: src-en/data/events_sector_aea_acid.xml:1609
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_IMPORTANT_PRISONER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "不久之后，那些舰船便消失在了星云之中。"
 
 #: src-en/data/events_sector_aea_acid.xml:1611
 msgid ""
@@ -1973,10 +2009,9 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:1625
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "一处未探索的地点。该信标位于酸藻族境内，可能对您的舰船造成伤害。"
 
 #: src-en/data/events_sector_aea_acid.xml:1626
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -1989,22 +2024,23 @@ msgstr "未探索的信标。"
 #: src-en/data/events_sector_aea_acid.xml:1634
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/text"
-msgstr ""
+msgstr "你抵达现场，发现一艘小型酸藻族舰船正被一艘精英蛞蝓族舰船追击。“我们加入你的队"
+"伍，作为交换，你们消灭能追击者？”"
 
 #: src-en/data/events_sector_aea_acid.xml:1636
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/choice[1]/text"
-msgstr ""
+msgstr "欢迎它登船。"
 
 #: src-en/data/events_sector_aea_acid.xml:1638
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你接走了酸藻族领袖，转身面对那艘精英蛞蝓族舰船。"
 
 #: src-en/data/events_sector_aea_acid.xml:1639
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "酸藻族领袖"
 
 #: src-en/data/events_sector_aea_acid.xml:1642
 msgid ""
@@ -2019,7 +2055,7 @@ msgstr "不管他们。"
 #: src-en/data/events_sector_aea_acid.xml:1650
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_LEADER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你飞走了，任由那艘酸蚀舰船自生自灭。反正酸藻族又不会真的死，对吧？"
 
 #: src-en/data/events_sector_aea_acid.xml:1652
 msgid ""
@@ -2034,7 +2070,8 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:1664
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WEAPONCACHE\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现一个漂浮的武器箱。但远处有一艘酸藻族舰船正在靠近。你有足够的"
+"时间飞走以避免战斗，也可以冒险战斗，夺取其中一件武器。"
 
 #: src-en/data/events_sector_aea_acid.xml:1668
 msgid ""
@@ -2044,7 +2081,7 @@ msgstr "拿取一件武器。"
 #: src-en/data/events_sector_aea_acid.xml:1670
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WEAPONCACHE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你打开了武器箱，但在被迫战斗之前，你只有时间抢到一件武器。"
 
 #: src-en/data/events_sector_aea_acid.xml:1674
 msgid ""
@@ -2059,7 +2096,7 @@ msgstr "飞走。"
 #: src-en/data/events_sector_aea_acid.xml:1682
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_WEAPONCACHE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你飞走了，把武器箱留给了那艘酸蚀舰船。"
 
 #: src-en/data/events_sector_aea_acid.xml:1684
 msgid ""
@@ -2074,17 +2111,18 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:1709
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现一艘岩石族舰船正漂泊在此。在这么远的地方看到岩石族实属罕见，"
+"更不寻常的是，这艘船居然燃料耗尽了。"
 
 #: src-en/data/events_sector_aea_acid.xml:1713
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[1]/text"
-msgstr ""
+msgstr "给他们提供燃料。"
 
 #: src-en/data/events_sector_aea_acid.xml:1715
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你交出了部分燃料。岩石族谨慎地接过燃料，随后用废料作为回报。"
 
 #: src-en/data/events_sector_aea_acid.xml:1723
 msgid ""
@@ -2094,7 +2132,7 @@ msgstr "攻击对方。"
 #: src-en/data/events_sector_aea_acid.xml:1725
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你启动武器，向岩石族发起攻击。"
 
 #: src-en/data/events_sector_aea_acid.xml:1728
 msgid ""
@@ -2102,7 +2140,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_aea_acid.xml:1734
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[3]/text"
 msgstr "无视对方。"
@@ -2110,7 +2147,7 @@ msgstr "无视对方。"
 #: src-en/data/events_sector_aea_acid.xml:1736
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_ROCK\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你飞走了，把武器箱留给了那艘酸藻族舰船。"
 
 #: src-en/data/events_sector_aea_acid.xml:1738
 msgid ""
@@ -2126,21 +2163,23 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_TRICK\"]/text"
 msgstr ""
+"你发现了一艘正在广播求救信号的酸蚀舰船，并与他们取得了联系。“你不该出现在这里"
+"，准备受死吧。”看来酸藻族在此处出人意料地设下了一个针对闯入者的陷阱。"
 
 #: src-en/data/events_sector_aea_acid.xml:1755
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_TRICK\"]/choice[@req=\"aea_acid_friendly\"]/text"
-msgstr ""
+msgstr "（友好地）解释你和酸藻族是友好的。"
 
 #: src-en/data/events_sector_aea_acid.xml:1758
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_TRICK\"]/choice[@req=\"aea_acid_friendly\"]/event/text"
-msgstr ""
+msgstr "“我们没意识到。很抱歉以虚假的借口引诱你来此。我们会补偿你的。”"
 
 #: src-en/data/events_sector_aea_acid.xml:1763
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_DISTRESS_TRICK\"]/choice[2]/text"
-msgstr ""
+msgstr "准备战斗！"
 
 #: src-en/data/events_sector_aea_acid.xml:1770
 msgid ""
@@ -2155,7 +2194,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:1779
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[1]/text"
-msgstr ""
+msgstr "信标的信号在星云更深处，当你追踪它时，经过了两艘残骸，它们的侧面都有奇怪的灼"
+"烧痕迹。"
 
 #: src-en/data/events_sector_aea_acid.xml:1781
 msgid ""
@@ -2166,11 +2206,14 @@ msgstr "调查。"
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[1]/choice/event/text"
 msgstr ""
+"你终于找到了求救信标的位置，那里有一艘严重受损的酸蚀舰船。当你靠近时，船上唯"
+"一的幸存者向你发出通讯。“有多少残骸？在我们确认他们都死了之前，我们不能离开。"
+"”"
 
 #: src-en/data/events_sector_aea_acid.xml:1785
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[1]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "两艘。"
 
 #: src-en/data/events_sector_aea_acid.xml:1789
 msgid ""
@@ -2185,12 +2228,13 @@ msgstr "7颗。"
 #: src-en/data/events_sector_aea_acid.xml:1797
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[1]/choice/event/choice[4]/text"
-msgstr ""
+msgstr "询问他们在找多少艘残骸。"
 
 #: src-en/data/events_sector_aea_acid.xml:1804
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[2]/text"
-msgstr ""
+msgstr "信标的信号在星云更深处，当你追踪它时，经过了五艘不同的残骸，它们的侧面都有奇"
+"怪的灼烧痕迹。"
 
 #: src-en/data/events_sector_aea_acid.xml:1806
 msgid ""
@@ -2201,11 +2245,14 @@ msgstr "调查。"
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[2]/choice/event/text"
 msgstr ""
+"你终于找到了求救信标的位置，那里有一艘严重受损的酸蚀舰船。当你靠近时，船上唯"
+"一的幸存者向你发出通讯。“有多少残骸？在我们确认他们都死了之前，我们不能离开。"
+"”"
 
 #: src-en/data/events_sector_aea_acid.xml:1810
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[2]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "两艘。"
 
 #: src-en/data/events_sector_aea_acid.xml:1814
 msgid ""
@@ -2220,12 +2267,13 @@ msgstr "7颗。"
 #: src-en/data/events_sector_aea_acid.xml:1822
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[2]/choice/event/choice[4]/text"
-msgstr ""
+msgstr "询问他们在找多少艘残骸。"
 
 #: src-en/data/events_sector_aea_acid.xml:1829
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[3]/text"
-msgstr ""
+msgstr "信标的信号在星云更深处，当你追踪它时，经过了七艘不同的残骸，它们的侧面都有奇"
+"怪的灼烧痕迹。"
 
 #: src-en/data/events_sector_aea_acid.xml:1831
 msgid ""
@@ -2236,11 +2284,14 @@ msgstr "调查。"
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[3]/choice/event/text"
 msgstr ""
+"你终于找到了求救信标的位置，那里有一艘严重受损的酸蚀舰船。当你靠近时，船上唯"
+"一的幸存者向你发出通讯。“有多少残骸？在我们确认他们都死了之前，我们不能离开。"
+"”"
 
 #: src-en/data/events_sector_aea_acid.xml:1835
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[3]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "两艘。"
 
 #: src-en/data/events_sector_aea_acid.xml:1839
 msgid ""
@@ -2255,35 +2306,37 @@ msgstr "7颗。"
 #: src-en/data/events_sector_aea_acid.xml:1847
 msgid ""
 "data/events_sector_aea_acid.xml$//eventList[@name=\"AEA_ACID_DISTRESS_QUESTION_LIST\"]/event[3]/choice/event/choice[4]/text"
-msgstr ""
+msgstr "询问他们在找多少艘残骸。"
 
 #: src-en/data/events_sector_aea_acid.xml:1855
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_DISTRESS_QUESTION_FALSE\"]/text"
-msgstr ""
+msgstr "“真不走运，在任务完成之前，我们得从你这里拿些补给。”酸藻族士兵迅速传送上船，"
+"在你反应过来之前就拿走了你的一些补给。"
 
 #: src-en/data/events_sector_aea_acid.xml:1863
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_DISTRESS_QUESTION_TRUE\"]/text"
-msgstr ""
+msgstr "“那我们的任务就完成了。我们将与你同行。”酸藻族士兵传送上船，加入了你的船员队"
+"伍！"
 
 #: src-en/data/events_sector_aea_acid.xml:1864
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_DISTRESS_QUESTION_TRUE\"]/crewMember"
-msgstr ""
+msgstr "酸藻族士兵"
 
 #: src-en/data/events_sector_aea_acid.xml:1867
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_DISTRESS_QUESTION_FAIL\"]/text"
-msgstr ""
+msgstr "“我们……不记得了……”通讯中断，你无法重新建立联系。你决定及时止损，在跃迁引擎充"
+"能时打捞一些残骸。"
 
 #: src-en/data/events_sector_aea_acid.xml:1886
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "一处未探索的地点。该信标位于酸藻族境内，可能对您的舰船造成伤害。"
 
 #: src-en/data/events_sector_aea_acid.xml:1887
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -2296,37 +2349,40 @@ msgstr "未探索的信标。"
 #: src-en/data/events_sector_aea_acid.xml:1894
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/text"
-msgstr ""
+msgstr "你抵达信标，迎面遇到一艘精英酸藻族舰船，他们似乎对你的到来毫无反应。"
 
 #: src-en/data/events_sector_aea_acid.xml:1897
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/text"
-msgstr ""
+msgstr "向那艘船发出通讯。"
 
 #: src-en/data/events_sector_aea_acid.xml:1899
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/text"
 msgstr ""
+"酸藻族解释说，他们正在追捕一艘闯入其领地的舰船。这艘船已经成功逃脱了三次抓捕"
+"。他们希望你能帮忙追踪到这艘船。如果你成功了，将会有一份奖励等着你。"
 
 #: src-en/data/events_sector_aea_acid.xml:1901
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "同意追捕那艘船。"
 
 #: src-en/data/events_sector_aea_acid.xml:1903
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "尽管严格来说，你也是闯入者，但显然酸藻族更关心对付另一艘船。他们向你发送了最"
+"后一次报告的位置坐标。"
 
 #: src-en/data/events_sector_aea_acid.xml:1909
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "拒绝这个任务。"
 
 #: src-en/data/events_sector_aea_acid.xml:1911
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "酸藻族似乎并不在意，切断了通讯。"
 
 #: src-en/data/events_sector_aea_acid.xml:1913
 msgid ""
@@ -2346,7 +2402,7 @@ msgstr "与飞船战斗。"
 #: src-en/data/events_sector_aea_acid.xml:1927
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[2]/event/text"
-msgstr ""
+msgstr "不知为何，你决定与酸藻族精英纠缠。你匆忙进入战斗位置。"
 
 #: src-en/data/events_sector_aea_acid.xml:1930
 msgid ""
@@ -2356,12 +2412,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:1936
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[3]/text"
-msgstr ""
+msgstr "避开他们可能是个好主意。"
 
 #: src-en/data/events_sector_aea_acid.xml:1938
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_CIV\"]/choice[3]/event/text"
-msgstr ""
+msgstr "与酸藻族精英纠缠是你最不该做的事。你独自离开了那艘船。"
 
 #: src-en/data/events_sector_aea_acid.xml:1940
 msgid ""
@@ -2376,12 +2432,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:1953
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "酸藻族曾请求你在此处追捕一艘船。"
 
 #: src-en/data/events_sector_aea_acid.xml:1955
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/text"
-msgstr ""
+msgstr "你发现那艘可疑的船正偷偷溜进星云。你不确定他们是否注意到了你。"
 
 #: src-en/data/events_sector_aea_acid.xml:1958
 msgid ""
@@ -2391,7 +2447,8 @@ msgstr "跟随他们。"
 #: src-en/data/events_sector_aea_acid.xml:1960
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "那艘船拼命想甩掉你，但你不肯罢休。最终，他们放弃抵抗，向你发出通讯。“你是他们"
+"一伙的吗？请发发慈悲，我们只是想逃跑！”"
 
 #: src-en/data/events_sector_aea_acid.xml:1963
 msgid ""
@@ -2401,7 +2458,7 @@ msgstr "无视他们的请求并进行攻击。"
 #: src-en/data/events_sector_aea_acid.xml:1965
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你不会让那艘船不战而逃。"
 
 #: src-en/data/events_sector_aea_acid.xml:1968
 msgid ""
@@ -2417,6 +2474,8 @@ msgstr "接受他们的贿赂。"
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"当他们离开时，你注意到一个微小的隐藏标记，仔细一看，你认出那是 MFK 王牌的标志"
+"。看来酸藻族追捕这艘船确实有充分理由。你还没来得及反应，他们就已经消失了。"
 
 #: src-en/data/events_sector_aea_acid.xml:1985
 msgid ""
@@ -2426,7 +2485,7 @@ msgstr "忘了这件事，转身离开。"
 #: src-en/data/events_sector_aea_acid.xml:1987
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你对奖励已失去兴趣，决定不去追那艘船了。"
 
 #: src-en/data/events_sector_aea_acid.xml:1989
 msgid ""
@@ -2441,7 +2500,8 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:2000
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_CIV_HUNT_WIN\"]/text"
-msgstr ""
+msgstr "你跃迁离开时，那艘酸蚀舰船从星云的藏身处现身，你甚至还没来得及联系他们。“效率"
+"真高，这是承诺的奖励。”"
 
 #: src-en/data/events_sector_aea_acid.xml:2006
 msgid ""
@@ -2456,10 +2516,10 @@ msgstr "调整至他们的通讯频率。"
 #: src-en/data/events_sector_aea_acid.xml:2011
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_QUEST_AEA_ACID_PIRATE_TRAP\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你无意中听到了他们的谈话，得知他们正计划袭击该地区的一个秘密酸藻族基地。那两"
+"人跃迁离开后，你记下了他们的目标坐标。"
 
 #: src-en/data/events_sector_aea_acid.xml:2016
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_QUEST_AEA_ACID_PIRATE_TRAP\"]/choice[2]/text"
 msgstr "无视对方。"
@@ -2487,7 +2547,8 @@ msgstr "被两艘蛞蝓族飞船盯上的所谓富裕海盗的位置。"
 #: src-en/data/events_sector_aea_acid.xml:2038
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/text"
-msgstr ""
+msgstr "你赶上了那两艘蛞蝓族舰船，他们已经开始袭击了！其中一艘正与一艘酸蚀舰船近距离"
+"交战，另一艘则似乎正驶向那艘酸蚀船保护的一个小型太空储藏点。"
 
 #: src-en/data/events_sector_aea_acid.xml:2040
 msgid ""
@@ -2497,17 +2558,19 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2042
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/choice/event/text"
-msgstr ""
+msgstr "突然间，第一艘船燃起大火，剩下的蛞蝓族发出紧急呼叫。“我们建议你拖住那艘酸蚀舰"
+"船，我们去取回贵重物品。五五分成。”"
 
 #: src-en/data/events_sector_aea_acid.xml:2044
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "与酸藻族舰船交战。"
 
 #: src-en/data/events_sector_aea_acid.xml:2046
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "这里有油水可捞，蛞蝓族清楚这一点。你转而攻击酸蚀舰船，在他们到达储藏点前将其"
+"截住！"
 
 #: src-en/data/events_sector_aea_acid.xml:2049
 msgid ""
@@ -2522,7 +2585,8 @@ msgstr "朝储藏舱进发。"
 #: src-en/data/events_sector_aea_acid.xml:2057
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_QUEST_AEA_ACID_PIRATE_TRAP2\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "当蛞蝓船长看到你正冲向储藏点时，他发出通讯：“愚蠢的外来者，毫无利润眼光。祝你"
+"好运。”他们跃迁离开了，留下你与那艘酸蚀舰船单挑！"
 
 #: src-en/data/events_sector_aea_acid.xml:2060
 msgid ""
@@ -2537,27 +2601,29 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2102
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"NEBULA_AEA_ACID_FIGHT\"]/text[1]"
-msgstr ""
+msgstr "身处星云之中，当一艘酸藻族舰船从船尾出现时，你几乎来不及反应！"
 
 #: src-en/data/events_sector_aea_acid.xml:2103
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"NEBULA_AEA_ACID_FIGHT\"]/text[2]"
-msgstr ""
+msgstr "一艘崭新的酸藻族舰船出现在你前方的星云中，可惜你是来刮花他们漆面的。"
 
 #: src-en/data/events_sector_aea_acid.xml:2104
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"NEBULA_AEA_ACID_FIGHT\"]/text[3]"
-msgstr ""
+msgstr "一艘外形奇特的酸藻族舰船出现在星云中，你不确定它的武器装备，谨慎地靠近。幸运"
+"的是，当武器从它的船体中弹出来时，酸藻族舰船打消了你的疑虑。"
 
 #: src-en/data/events_sector_aea_acid.xml:2105
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"NEBULA_AEA_ACID_FIGHT\"]/text[4]"
-msgstr ""
+msgstr "你探测到一艘酸藻族舰船正在靠近，看起来这艘船并不打算隐身，而是直接冲出来开打"
+"。"
 
 #: src-en/data/events_sector_aea_acid.xml:2106
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"NEBULA_AEA_ACID_FIGHT\"]/text[5]"
-msgstr ""
+msgstr "当你抵达信标时，三艘环绕飞行的酸藻族舰船中有一艘脱离编队迎向你，准备战斗。"
 
 #: src-en/data/events_sector_aea_acid.xml:2113
 msgid ""
@@ -2567,30 +2633,32 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2118
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"STORM_AEA_ACID_FIGHT\"]/text[1]"
-msgstr ""
+msgstr "这里的离子风暴随时可能使你的核心系统失效，而等待你的那艘庞大的酸藻族舰船则让"
+"情况雪上加霜。"
 
 #: src-en/data/events_sector_aea_acid.xml:2119
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"STORM_AEA_ACID_FIGHT\"]/text[2]"
-msgstr ""
+msgstr "面对这艘酸藻族舰船，你不禁感到处于劣势，它仿佛在这离子风暴中如鱼得水。"
 
 #: src-en/data/events_sector_aea_acid.xml:2120
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"STORM_AEA_ACID_FIGHT\"]/text[3]"
-msgstr ""
+msgstr "你抵达了一场离子风暴的中心。幸运的是，你及时探测到了埋伏在暗处的酸藻族舰船。"
+"准备战斗！"
 
 #: src-en/data/events_sector_aea_acid.xml:2121
 msgid ""
 "data/events_sector_aea_acid.xml$//textList[@name=\"STORM_AEA_ACID_FIGHT\"]/text[4]"
-msgstr ""
+msgstr "你发现自己被困在一场离子风暴中，不远处有一艘酸藻族舰船，拒绝所有通讯。你小心"
+"翼翼地试图溜进更深的云层，但他们突然转向发动攻击！"
 
 #: src-en/data/events_sector_aea_acid.xml:2127
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "一处未探索的地点。该信标位于酸藻族境内，可能对您的舰船造成伤害。"
 
 #: src-en/data/events_sector_aea_acid.xml:2128
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_FIGHT\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -2603,7 +2671,8 @@ msgstr "未探索的信标。"
 #: src-en/data/events_sector_aea_acid.xml:2135
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_FIGHT\"]/text"
-msgstr ""
+msgstr "这个信标深深嵌入酸藻族境内，因此当一艘酸藻族舰船从雾气中出现发起攻击时，并不"
+"令人意外。"
 
 #: src-en/data/events_sector_aea_acid.xml:2138
 msgid ""
@@ -2613,10 +2682,9 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2146
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_TEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "一处未探索的地点。该信标位于酸藻族境内，可能对您的舰船造成伤害。"
 
 #: src-en/data/events_sector_aea_acid.xml:2147
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_TEST\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -2638,10 +2706,9 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2163
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "一处未探索的地点。该信标位于酸藻族境内，可能对您的舰船造成伤害。"
 
 #: src-en/data/events_sector_aea_acid.xml:2164
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -2654,12 +2721,13 @@ msgstr "未探索的信标。"
 #: src-en/data/events_sector_aea_acid.xml:2171
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/text"
-msgstr ""
+msgstr "你惊讶地发现有一艘船被困在酸藻族腹地，于是上前提供援助。当你看到船体上的海盗"
+"徽章时，你迅速改变了主意。"
 
 #: src-en/data/events_sector_aea_acid.xml:2174
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_PIRATE\"]/choice[1]/text"
-msgstr ""
+msgstr "攻击！。"
 
 #: src-en/data/events_sector_aea_acid.xml:2176
 msgid ""
@@ -2680,6 +2748,9 @@ msgstr "保持距离，希望他们还没有看到你。"
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/text"
 msgstr ""
+"你听到船员的喊叫声，连忙跑过去。一颗奇怪的炸弹在你船上的一个舱室爆炸，毒害了"
+"你的一名船员。炸弹似乎来自附近的一艘酸藻族舰船。“感谢您测试我们的武器，当您的"
+"船员死亡时，请通知我们。”"
 
 #: src-en/data/events_sector_aea_acid.xml:2202
 msgid ""
@@ -2689,12 +2760,12 @@ msgstr "你的船员要被毒死了。如果你不治好他们就跃迁走，他
 #: src-en/data/events_sector_aea_acid.xml:2208
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[1]/text"
-msgstr ""
+msgstr "攻击他们，他们船上或许有解毒剂！"
 
 #: src-en/data/events_sector_aea_acid.xml:2210
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你匆忙操作武器，强行从酸藻族舰船上夺取了解毒剂。"
 
 #: src-en/data/events_sector_aea_acid.xml:2213
 msgid ""
@@ -2704,12 +2775,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2219
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[2]/text"
-msgstr ""
+msgstr "购买解毒剂。"
 
 #: src-en/data/events_sector_aea_acid.xml:2221
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“报价可以接受，本来更希望能充分测试武器性能。”"
 
 #: src-en/data/events_sector_aea_acid.xml:2229
 msgid ""
@@ -2719,22 +2790,24 @@ msgstr "(高级医疗舱)治好你的船员。"
 #: src-en/data/events_sector_aea_acid.xml:2231
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[@req=\"medbay\"]/event/text"
-msgstr ""
+msgstr "幸运的是，你设法治好了船员。那艘酸藻族舰船似乎对消息颇为满意。“感谢您测试我们"
+"的武器，我们将利用这些数据改进它，以备将来之用。”"
 
 #: src-en/data/events_sector_aea_acid.xml:2237
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[4]/text"
-msgstr ""
+msgstr "让你的船员中毒身亡。"
 
 #: src-en/data/events_sector_aea_acid.xml:2239
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[4]/event/text"
-msgstr ""
+msgstr "你告知了酸藻族舰船结果，他们似乎对结果很满意。“感谢您测试我们的武器，我们将利"
+"用这些数据改进它，以备将来之用。”"
 
 #: src-en/data/events_sector_aea_acid.xml:2244
 msgid ""
 "data/events_sector_aea_acid.xml$/dummyroot/FTL/event[@name=\"NEBULA_AEA_ACID_INFECTOR\"]/choice[4]/event/removeCrew/text"
-msgstr ""
+msgstr "幸运的是，你的船员通过克隆复活，安然无恙。"
 
 #: src-en/data/events_sector_aea_acid.xml:2250
 msgid ""
@@ -2744,7 +2817,8 @@ msgstr "你的船员在痛苦中倒下，喘着粗气。没有解毒剂，你只
 #: src-en/data/events_sector_aea_acid.xml:2253
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACID_INFECTOR_DEATH\"]/removeCrew/text"
-msgstr ""
+msgstr "幸运的是，你的船员通过克隆复活，安然无恙。或许你应该等一等，好把结果告知那艘"
+"酸藻族舰船。"
 
 #: src-en/data/events_sector_aea_acid.xml:2266
 msgid ""
@@ -2759,10 +2833,9 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2285
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_ENCOUNTER_AEA_ACID_ELITE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "一处未探索的地点。该信标位于酸藻族境内，可能对您的舰船造成伤害。"
 
 #: src-en/data/events_sector_aea_acid.xml:2286
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_ENCOUNTER_AEA_ACID_ELITE\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -2775,7 +2848,8 @@ msgstr "未探索的信标。"
 #: src-en/data/events_sector_aea_acid.xml:2293
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_ENCOUNTER_AEA_ACID_ELITE\"]/text"
-msgstr ""
+msgstr "你发现这个信标深入酸藻族腹地。这里的酸藻族精英似乎将你入侵他们的领地视为一种"
+"侮辱，并决定将你驱逐出去。"
 
 #: src-en/data/events_sector_aea_acid.xml:2296
 msgid ""
@@ -2807,7 +2881,7 @@ msgstr "无视残骸。"
 #: src-en/data/events_sector_aea_acid.xml:2319
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_REROUTE_ACIDIC\"]/choice[@req=\"pilot\"]/event/text"
-msgstr ""
+msgstr "在星云深处，残骸并不罕见，不值得你浪费时间。"
 
 #: src-en/data/events_sector_aea_acid.xml:2321
 msgid ""
@@ -2823,26 +2897,31 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/text"
 msgstr ""
+"你驾驶飞船靠近那颗行星。随着距离拉近，你辨认出地表有一个陨石坑，但里面并非坠"
+"毁的星际飞船，而是一座奇特的工厂。不过，似乎是有东西撞上了工厂，从而触发了求"
+"救信标。"
 
 #: src-en/data/events_sector_aea_acid.xml:2336
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/text"
-msgstr ""
+msgstr "着陆并探索工厂。"
 
 #: src-en/data/events_sector_aea_acid.xml:2338
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/text"
-msgstr ""
+msgstr "你在工厂里四处探索，这里似乎曾发生过某种战斗，设施墙壁上布满了弹痕。最终，你"
+"发现去路被瓦砾堵住了。旁边有一条通道，但被某种安全系统锁住了。"
 
 #: src-en/data/events_sector_aea_acid.xml:2340
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "使用炸药炸开一条路。"
 
 #: src-en/data/events_sector_aea_acid.xml:2342
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "继续越过瓦砾前行，你注意到工厂的这部分区域没有战斗痕迹，或许这里还有什么活物"
+"。"
 
 #: src-en/data/events_sector_aea_acid.xml:2347
 msgid ""
@@ -2852,12 +2931,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2353
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "使用无人机部件激活附近的一些搬运机器人来清理瓦砾。"
 
 #: src-en/data/events_sector_aea_acid.xml:2355
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "继续越过瓦砾前行，你注意到工厂的这部分区域没有战斗痕迹，或许这里还有什么活物"
+"。"
 
 #: src-en/data/events_sector_aea_acid.xml:2360
 msgid ""
@@ -2867,12 +2947,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2366
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "（黑客系统）使用无人机入侵安全系统，打开旁边的通道。"
 
 #: src-en/data/events_sector_aea_acid.xml:2368
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[@req=\"hacking\"]/event/text"
-msgstr ""
+msgstr "继续越过瓦砾前行，你注意到工厂的这部分区域没有战斗痕迹，或许这里还有什么活物"
+"。"
 
 #: src-en/data/events_sector_aea_acid.xml:2373
 msgid ""
@@ -2882,70 +2963,82 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2379
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[4]/text"
-msgstr ""
+msgstr "折返。"
 
 #: src-en/data/events_sector_aea_acid.xml:2381
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE\"]/choice/event/choice[4]/event/text"
-msgstr ""
+msgstr "由于无法继续深入工厂，你返回了飞船，离开时收集了一些补给。"
 
 #: src-en/data/events_sector_aea_acid.xml:2389
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/text"
 msgstr ""
+"最终，你来到了一个类似控制室的地方，在中央发现了一名幸存的酸藻族士兵。但这位"
+"士兵有些不对劲，原本绿色的酸藻已变成紫色，你不确定这意味着什么，但还是上前尝"
+"试接触。"
 
 #: src-en/data/events_sector_aea_acid.xml:2391
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/text"
-msgstr ""
+msgstr "你好？。"
 
 #: src-en/data/events_sector_aea_acid.xml:2393
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/text"
 msgstr ""
+"“哦天哪，我希望你不是来杀我的，我发誓我跟其他那些不一样，我不是来杀更多矿工的"
+"。”看来这个酸藻族士兵有问题。如果非要猜测的话，你会认为它不属于酸藻族。"
 
 #: src-en/data/events_sector_aea_acid.xml:2395
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/text"
-msgstr ""
+msgstr "“你是什么东西？”"
 
 #: src-en/data/events_sector_aea_acid.xml:2397
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/text"
 msgstr ""
+"“我也不太确定……我很确定我过去曾是酸藻族的一部分，但现在一切都变得奇怪了，外面"
+"再也没有我的同类了，只有我，在这个机器人里，孤零零的……”酸藻族士兵停顿了一会儿"
+"。“等等，你们觉得能帮帮我吗？如果你们能给我一点废料，我就能修好一艘船，回去试"
+"着和我自己重新融合。”"
 
 #: src-en/data/events_sector_aea_acid.xml:2399
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "“当然可以，不过我们该怎么称呼你呢？”"
 
 #: src-en/data/events_sector_aea_acid.xml:2401
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"“嗯，我想我已经不完全算是酸藻族了，你们可以叫我比尔吧，我一直挺喜欢比尔这个名"
+"字。对了，如果你们想来拜访的话，这是我酸蚀星云的坐标，也许我们会在那里再见。”"
 
 #: src-en/data/events_sector_aea_acid.xml:2411
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "解释你拿不出那么多废料。"
 
 #: src-en/data/events_sector_aea_acid.xml:2413
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"AEA_ACIDIC_LEADER_FIND\"]/choice/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "“哦，没关系，我等着下一批访客来好了，应该不会太久，希望如此。”你返回了飞船，"
+"离开时收集了一些补给。"
 
 #: src-en/data/events_sector_aea_acid.xml:2424
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"DISTRESS_AEA_ACID_INVESTIGATE_BORING\"]/text"
-msgstr ""
+msgstr "你感到一种奇怪的既视感，驾驶飞船靠近那颗行星。唉，如今只剩下一座空荡荡的工厂"
+"，毫无生命迹象。"
 
 #: src-en/data/events_sector_aea_acid.xml:2443
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "一处未探索的地点。该信标位于酸藻族境内，可能对您的舰船造成伤害。"
 
 #: src-en/data/events_sector_aea_acid.xml:2444
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -2958,12 +3051,12 @@ msgstr "未探索的信标。"
 #: src-en/data/events_sector_aea_acid.xml:2451
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/text"
-msgstr ""
+msgstr "在酸藻族腹地，你发现一艘奇怪的船正飘过星云。"
 
 #: src-en/data/events_sector_aea_acid.xml:2453
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[@req=\"aea_acid_bill\"]/text"
-msgstr ""
+msgstr "你辨认出那艘船属于比尔。"
 
 #: src-en/data/events_sector_aea_acid.xml:2457
 msgid ""
@@ -2973,7 +3066,8 @@ msgstr "联系该盟卫战舰。"
 #: src-en/data/events_sector_aea_acid.xml:2459
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[2]/event/text"
-msgstr ""
+msgstr "就在你准备联络时，一艘酸藻族舰船从星云中飞出，瞬间将那艘奇怪的船撕成碎片。接"
+"着，那艘酸藻族舰船将其杀意转向了你，准备战斗。"
 
 #: src-en/data/events_sector_aea_acid.xml:2462
 msgid ""
@@ -2981,7 +3075,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_aea_acid.xml:2468
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[3]/text"
 msgstr "无视这艘舰船。"
@@ -2989,7 +3082,7 @@ msgstr "无视这艘舰船。"
 #: src-en/data/events_sector_aea_acid.xml:2470
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_MEET\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你漂离原地，开始为跃迁引擎充能。"
 
 #: src-en/data/events_sector_aea_acid.xml:2472
 msgid ""
@@ -3004,32 +3097,33 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:2484
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/text"
-msgstr ""
+msgstr "你上前接走那名酸藻族士兵，与此同时，你注意到原本绿色的酸藻呈现出紫色调。"
 
 #: src-en/data/events_sector_aea_acid.xml:2486
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[1]/text"
-msgstr ""
+msgstr "你认出那名酸藻族士兵就是比尔。"
 
 #: src-en/data/events_sector_aea_acid.xml:2488
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_HELP\"]/text"
-msgstr ""
+msgstr "“呃，我想去酸藻核心，希望到了那里能重新融入酸藻族。唯一的问题是，我没有船了，"
+"你能带我去吗？”"
 
 #: src-en/data/events_sector_aea_acid.xml:2490
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_HELP\"]/choice/text"
-msgstr ""
+msgstr "当然可以。"
 
 #: src-en/data/events_sector_aea_acid.xml:2492
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_HELP\"]/choice/event/text"
-msgstr ""
+msgstr "“谢谢！我会把坐标上传到你的电脑上。”"
 
 #: src-en/data/events_sector_aea_acid.xml:2503
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[2]/text"
-msgstr ""
+msgstr "把他们扔回虚空。"
 
 #: src-en/data/events_sector_aea_acid.xml:2507
 msgid ""
@@ -3041,33 +3135,34 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "奇怪的是，这名酸蚀士兵开始向你讲述它的故事，显然它不知为何与酸藻族分离了，并"
+"且一直试图重新融入其中。"
 
 #: src-en/data/events_sector_aea_acid.xml:2511
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr ""
+msgstr "“那我们该怎么称呼你呢？”"
 
 #: src-en/data/events_sector_aea_acid.xml:2513
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
 " and @lvl=\"0\"]/event/choice/event/text"
-msgstr ""
+msgstr "“嗯，我想我已经不完全算是酸藻族了，你们可以叫我比尔吧，我一直挺喜欢比尔这个名"
+"字。”"
 
 #: src-en/data/events_sector_aea_acid.xml:2515
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_JOIN1\"]/choice[@req=\"aea_acid_bill\""
 " and @lvl=\"0\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "“我们能帮你做些什么？”"
 
 #: src-en/data/events_sector_aea_acid.xml:2527
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "酸藻核心，这是酸藻族最初形成的地方，因此也是该星区酸藻浓度最高的区域。"
 
 #: src-en/data/events_sector_aea_acid.xml:2528
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -3075,12 +3170,13 @@ msgstr "已探索的信标，没什么值得注意。"
 #: src-en/data/events_sector_aea_acid.xml:2529
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "酸藻核心，这是酸藻族最初形成的地方，因此也是该星区酸藻浓度最高的区域。"
 
 #: src-en/data/events_sector_aea_acid.xml:2535
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_BILL_CORE\"]/text"
-msgstr ""
+msgstr "你已抵达酸藻核心，一片极其浓密的酸蚀星云，也是酸藻族最初形成的地方。这里浓密"
+"到酸藻族都难以守卫，但他们仍在尽力而为。"
 
 #: src-en/data/events_sector_aea_acid.xml:2537
 msgid ""
@@ -3090,7 +3186,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2539
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_RELEASE\"]/text"
-msgstr ""
+msgstr "你悄悄接近星云最浓密的区域，然后将比尔释放到酸藻族之中。"
 
 #: src-en/data/events_sector_aea_acid.xml:2541
 msgid ""
@@ -3100,7 +3196,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2543
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_RELEASE\"]/choice/event/text"
-msgstr ""
+msgstr "你看着比尔试图重新融入酸藻族。奇怪的是，他周围的酸藻族正变成红色，有些部分甚"
+"至变成黑色。你不确定到底发生了什么，但情况似乎不妙。"
 
 #: src-en/data/events_sector_aea_acid.xml:2545
 msgid ""
@@ -3111,6 +3208,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/text"
 msgstr ""
+"比尔周围的酸藻族似乎正在死亡，而注意到这点的并非只有你。你微弱的传感器探测到"
+"一艘巨大的酸藻族舰船正朝你疾驰而来。你给了比尔一些时间，但在那艘酸藻族舰船撞"
+"上你之前，你被迫将比尔接回。"
 
 #: src-en/data/events_sector_aea_acid.xml:2549
 msgid ""
@@ -3120,22 +3220,24 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2552
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/text"
-msgstr ""
+msgstr "“真不敢相信，它拒绝了我，我拒绝了我自己。”比尔沉默了片刻。“我不知道该怎么办了"
+"，我的目标是什么，我为何而存在？”"
 
 #: src-en/data/events_sector_aea_acid.xml:2554
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "邀请比尔加入你的船员队伍。"
 
 #: src-en/data/events_sector_aea_acid.xml:2556
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "“听起来挺有趣，船长，我们的第一个任务是什么？”你无奈地指了指那艘快速逼近的酸"
+"藻族舰船，不禁怀疑带比尔上船到底是不是个好主意。"
 
 #: src-en/data/events_sector_aea_acid.xml:2557
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[1]/event/crewMember"
-msgstr ""
+msgstr "比尔"
 
 #: src-en/data/events_sector_aea_acid.xml:2559
 msgid ""
@@ -3145,12 +3247,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2565
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "提议将比尔送到最近的人口稠密信标处。"
 
 #: src-en/data/events_sector_aea_acid.xml:2567
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_BILL_BOSS\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"“好吧，我想我得琢磨点事做了，也许我会找个不错的星云定居下来，创造我自己的增生"
+"体，比尔增生体——”由于那艘巨大的酸藻族舰船穿过星云向你开火，你已听不清后面的话"
+"。"
 
 #: src-en/data/events_sector_aea_acid.xml:2569
 msgid ""
@@ -3160,10 +3265,9 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2587
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "一处未探索的地点。该信标位于酸藻族境内，可能对您的舰船造成伤害。"
 
 #: src-en/data/events_sector_aea_acid.xml:2588
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -3176,27 +3280,29 @@ msgstr "未探索的信标。"
 #: src-en/data/events_sector_aea_acid.xml:2595
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/text"
-msgstr ""
+msgstr "你已抵达信标，这是酸蚀星域中为数不多的标记地点之一。这个船坞是第一艘酸藻族舰"
+"船的建造地，如今也是酸藻族与兰花族之间主要的外交场所。"
 
 #: src-en/data/events_sector_aea_acid.xml:2597
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/text"
-msgstr ""
+msgstr "假扮成兰花族成员，与空间站对接。"
 
 #: src-en/data/events_sector_aea_acid.xml:2599
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你设法找到了一个空的对接舱，船坞让你停靠了。直到你登上空间站，才终于有人来质"
+"问——是一位悦心兰花。"
 
 #: src-en/data/events_sector_aea_acid.xml:2601
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "贿赂那位兰花族。"
 
 #: src-en/data/events_sector_aea_acid.xml:2603
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "令人惊讶的是，贿赂居然奏效了，质问你的那位兰花族人甚至将你作为访客录入系统。"
 
 #: src-en/data/events_sector_aea_acid.xml:2605
 msgid ""
@@ -3206,12 +3312,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2611
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_ORCHID\"]/text"
-msgstr ""
+msgstr "（兰花船员）让你的兰花族假扮船长。"
 
 #: src-en/data/events_sector_aea_acid.xml:2613
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_ORCHID\"]/event/text"
-msgstr ""
+msgstr "兰花似乎有些怀疑，但并未追问，你得以继续在船坞中穿行。"
 
 #: src-en/data/events_sector_aea_acid.xml:2615
 msgid ""
@@ -3221,12 +3327,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2621
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_bill\"]/text"
-msgstr ""
+msgstr "（酸藻族流放者）让比尔假扮船长。"
 
 #: src-en/data/events_sector_aea_acid.xml:2623
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_bill\"]/event/text"
-msgstr ""
+msgstr "兰花似乎有些怀疑，但并未追问，你得以继续在船坞中穿行。"
 
 #: src-en/data/events_sector_aea_acid.xml:2625
 msgid ""
@@ -3236,12 +3342,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2631
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_soldier\"]/text"
-msgstr ""
+msgstr "（酸藻族士兵）让你的酸藻族士兵假扮船长。"
 
 #: src-en/data/events_sector_aea_acid.xml:2633
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_soldier\"]/event/text"
-msgstr ""
+msgstr "兰花似乎有些怀疑，但并未追问，你得以继续在船坞中穿行。"
 
 #: src-en/data/events_sector_aea_acid.xml:2635
 msgid ""
@@ -3251,12 +3357,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2641
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_captain\"]/text"
-msgstr ""
+msgstr "（酸藻族领袖）让你的酸藻族士兵假扮船长。"
 
 #: src-en/data/events_sector_aea_acid.xml:2643
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[@req=\"aea_acid_captain\"]/event/text"
-msgstr ""
+msgstr "兰花似乎有些怀疑，但并未追问，你得以继续在船坞中穿行。"
 
 #: src-en/data/events_sector_aea_acid.xml:2645
 msgid ""
@@ -3266,12 +3372,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2651
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[6]/text"
-msgstr ""
+msgstr "解释说你搞错了并离开。"
 
 #: src-en/data/events_sector_aea_acid.xml:2653
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[1]/event/choice[6]/event/text"
-msgstr ""
+msgstr "你回到了船上，离开了空间站。既然他们已经知道了你，你就再也没有机会偷偷潜入了"
+"。"
 
 #: src-en/data/events_sector_aea_acid.xml:2655
 msgid ""
@@ -3284,7 +3391,6 @@ msgid ""
 msgstr "跳过。"
 
 #: src-en/data/events_sector_aea_acid.xml:2667
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[2]/text"
 msgstr "无视空间站。"
@@ -3292,7 +3398,7 @@ msgstr "无视空间站。"
 #: src-en/data/events_sector_aea_acid.xml:2669
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_SHIPYARD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你漂离原地，开始为跃迁引擎充能。"
 
 #: src-en/data/events_sector_aea_acid.xml:2671
 msgid ""
@@ -3307,143 +3413,152 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:2687
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/text"
-msgstr ""
+msgstr "最终，你来到了船坞中仅限酸藻族进入的区域。你有三个方向可选：右边通往工程舱，"
+"中间通往控制室，左边则是实验室。"
 
 #: src-en/data/events_sector_aea_acid.xml:2689
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "前往实验室。"
 
 #: src-en/data/events_sector_aea_acid.xml:2691
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"你进入了实验室，幸运的是，那里似乎大多已废弃，你能避免与任何酸藻族士兵接触。"
+"最终，你发现了一样有趣的东西：这里似乎正在建造一件巨型武器，它几乎快要完工，"
+"只缺一个炮管。"
 
 #: src-en/data/events_sector_aea_acid.xml:2694
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "拿走武器，寻找炮管。"
 
 #: src-en/data/events_sector_aea_acid.xml:2697
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你抓起武器，然后在周围寻找合适的炮管。不幸的是，你没找到。"
 
 #: src-en/data/events_sector_aea_acid.xml:2699
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "原路返回。"
 
 #: src-en/data/events_sector_aea_acid.xml:2705
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "原路返回。"
 
 #: src-en/data/events_sector_aea_acid.xml:2711
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_lab_visited\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "前往实验室。（已访问过）。"
 
 #: src-en/data/events_sector_aea_acid.xml:2715
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "前往控制室。"
 
 #: src-en/data/events_sector_aea_acid.xml:2717
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"你进入了控制室，幸运的是，此刻无人值守。不幸的是，由于权限不足，你无法访问任"
+"何内容。不过，你看到了一个运输船的坐标，它正运送着某个进行中项目的重要物资，"
+"但你并不确定那是什么。"
 
 #: src-en/data/events_sector_aea_acid.xml:2720
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "下载坐标。"
 
 #: src-en/data/events_sector_aea_acid.xml:2722
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你迅速将坐标下载到你的舰船上。"
 
 #: src-en/data/events_sector_aea_acid.xml:2729
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "原路返回。"
 
 #: src-en/data/events_sector_aea_acid.xml:2735
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "原路返回。"
 
 #: src-en/data/events_sector_aea_acid.xml:2741
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_con_visited\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "前往控制室。（已访问过）。"
 
 #: src-en/data/events_sector_aea_acid.xml:2745
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "前往工程舱。"
 
 #: src-en/data/events_sector_aea_acid.xml:2747
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "你进入工程舱，发现几名酸藻族士兵正在维修几艘舰船。你沿着舱室边缘偷偷溜过去，"
+"进入了一个小型储藏区。不幸的是，储藏区里只有一套酸藻族升级组件。"
 
 #: src-en/data/events_sector_aea_acid.xml:2750
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "拿走升级套件。"
 
 #: src-en/data/events_sector_aea_acid.xml:2753
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你拿起了升级组件。"
 
 #: src-en/data/events_sector_aea_acid.xml:2755
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "原路返回。"
 
 #: src-en/data/events_sector_aea_acid.xml:2761
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "原路返回。"
 
 #: src-en/data/events_sector_aea_acid.xml:2767
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[@req=\"aea_acid_eng_visited\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "前往工程舱。（已访问过）。"
 
 #: src-en/data/events_sector_aea_acid.xml:2771
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[7]/text"
-msgstr ""
+msgstr "返回你的舰船。"
 
 #: src-en/data/events_sector_aea_acid.xml:2773
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_SHIPYARD_HUB\"]/choice[7]/event/text"
-msgstr ""
+msgstr "当你返回舰船时，听到空间站内警报大作，看来终于有人发现了你的入侵。当你与空间"
+"站脱离对接时，一艘精英酸藻族舰船截住了你。"
 
 #: src-en/data/events_sector_aea_acid.xml:2776
 msgid ""
@@ -3453,10 +3568,9 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_acid.xml:2787
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "一处未探索的地点。该信标位于酸藻族境内，可能对您的舰船造成伤害。"
 
 #: src-en/data/events_sector_aea_acid.xml:2788
-#, fuzzy
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -3464,22 +3578,23 @@ msgstr "已探索的信标，没什么值得注意。"
 #: src-en/data/events_sector_aea_acid.xml:2789
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/beaconType/undiscoveredTooltip"
-msgstr ""
+msgstr "一处未探索的地点。该信标位于酸藻族境内，可能对您的舰船造成伤害。"
 
 #: src-en/data/events_sector_aea_acid.xml:2795
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/text"
-msgstr ""
+msgstr "这个信标处有一艘酸藻族运输船。几乎可以肯定，船上载有实验室项目所需的特殊技术"
+"。如果你能杀死船上的酸藻族，货物就归你所有。"
 
 #: src-en/data/events_sector_aea_acid.xml:2798
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[1]/text"
-msgstr ""
+msgstr "要求交出货物投降。"
 
 #: src-en/data/events_sector_aea_acid.xml:2800
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你准备武力夺取货物。"
 
 #: src-en/data/events_sector_aea_acid.xml:2803
 msgid ""
@@ -3494,7 +3609,7 @@ msgstr "避开这艘船。"
 #: src-en/data/events_sector_aea_acid.xml:2811
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC_AEA_ACID_TRANSPORT_BARREL\"]/choice[2]/event/text"
-msgstr ""
+msgstr "那艘星舰始终停在你武器射程之外，最终跃迁离去。"
 
 #: src-en/data/events_sector_aea_acid.xml:2813
 msgid ""
@@ -3509,7 +3624,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_acid.xml:2828
 msgid ""
 "data/events_sector_aea_acid.xml$//event[@name=\"NEBULA_AEA_ACID_POWER_CELL\"]/text"
-msgstr ""
+msgstr "信标位于一片浓密的星云之中。"
 
 #: src-en/data/events_sector_aea_acid.xml:2830
 msgid ""
