@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-04-05 06:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/dataevents_sector_aea_birdxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_aea_bird.xml:29
 msgid ""
@@ -22,7 +29,8 @@ msgstr "跳过。"
 
 #: src-en/data/events_sector_aea_bird.xml:58
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/text"
-msgstr ""
+msgstr "你遇到了一艘重型 Gi 族运输船，它似乎是一个移动补给站，正向经过的友方舰船分发"
+"补给。"
 
 #: src-en/data/events_sector_aea_bird.xml:61
 msgid ""
@@ -32,7 +40,7 @@ msgstr "购买燃料。"
 #: src-en/data/events_sector_aea_bird.xml:70
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[2]/text"
-msgstr ""
+msgstr "购买无人机部件。"
 
 #: src-en/data/events_sector_aea_bird.xml:79
 msgid ""
@@ -42,12 +50,12 @@ msgstr "购买一架无人机。"
 #: src-en/data/events_sector_aea_bird.xml:88
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[4]/text"
-msgstr ""
+msgstr "攻击那艘运输船！"
 
 #: src-en/data/events_sector_aea_bird.xml:90
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[4]/event/text"
-msgstr ""
+msgstr "无人能逃脱你的攻击，哪怕是盟军的补给运输船也不例外。"
 
 #: src-en/data/events_sector_aea_bird.xml:93
 msgid ""
@@ -55,7 +63,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_aea_bird.xml:99
-#, fuzzy
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[5]/text"
 msgstr "无视这艘舰船。"
@@ -63,7 +70,7 @@ msgstr "无视这艘舰船。"
 #: src-en/data/events_sector_aea_bird.xml:101
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLY\"]/choice[5]/event/text"
-msgstr ""
+msgstr "你对那些补给不感兴趣，无视了他们。"
 
 #: src-en/data/events_sector_aea_bird.xml:103
 msgid ""
@@ -78,11 +85,15 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_bird.xml:114
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_SUPPLIES_KILL\"]/text"
-msgstr ""
+msgstr "你对盟军补给运输船发动了一场毫无必要、毫无缘由的野蛮攻击，并且成功了——如果这"
+"也能叫成功的话。你拆解了残骸。"
 
 #: src-en/data/events_sector_aea_bird.xml:119
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/text"
 msgstr ""
+"一艘受损的 Gi 族穿梭机漂浮在信标附近。“哦，感谢联邦，你们来了。我停靠的母舰发"
+"生了灾难性的解体，爆炸损坏了穿梭机。我是一名引擎技师，我相信我的技能能为您效"
+"劳。”"
 
 #: src-en/data/events_sector_aea_bird.xml:122
 msgid ""
@@ -92,61 +103,64 @@ msgstr "欢迎入舰。"
 #: src-en/data/events_sector_aea_bird.xml:124
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/choice[1]/event/text"
-msgstr ""
+msgstr "这位 Gi 族军官对你的帮助表示感谢。"
 
 #: src-en/data/events_sector_aea_bird.xml:129
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/choice[2]/text"
-msgstr ""
+msgstr "提议把他们送到最近的空间站。"
 
 #: src-en/data/events_sector_aea_bird.xml:131
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FREECREW\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“哦……好吧。穿梭机上剩下的东西你们随便拿吧。”"
 
 #: src-en/data/events_sector_aea_bird.xml:138
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/text"
 msgstr ""
+"你抵达了一颗人口稠密的大行星，立即被铺天盖地的广告淹没，都是关于地表正在举行"
+"的某种比赛。仔细一看，他们似乎在玩一种运动游戏，两支队伍轮流击球和接球，他们"
+"称之为“板球”。"
 
 #: src-en/data/events_sector_aea_bird.xml:141
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[1]/text"
-msgstr ""
+msgstr "下注 20 废料赌红队赢。"
 
 #: src-en/data/events_sector_aea_bird.xml:145
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[2]/text"
-msgstr ""
+msgstr "下注 20 废料赌蓝队赢。"
 
 #: src-en/data/events_sector_aea_bird.xml:149
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[3]/text"
-msgstr ""
+msgstr "下注 50 废料赌红队赢。"
 
 #: src-en/data/events_sector_aea_bird.xml:153
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[4]/text"
-msgstr ""
+msgstr "下注 50 废料赌蓝队赢。"
 
 #: src-en/data/events_sector_aea_bird.xml:157
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[5]/text"
-msgstr ""
+msgstr "下注 100 废料赌红队赢。"
 
 #: src-en/data/events_sector_aea_bird.xml:161
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[6]/text"
-msgstr ""
+msgstr "下注 100 废料赌蓝队赢。"
 
 #: src-en/data/events_sector_aea_bird.xml:165
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[7]/text"
-msgstr ""
+msgstr "忽略该事件。"
 
 #: src-en/data/events_sector_aea_bird.xml:167
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_CRICKET\"]/choice[7]/event/text"
-msgstr ""
+msgstr "你对那些补给不感兴趣，无视了他们。"
 
 #: src-en/data/events_sector_aea_bird.xml:169
 msgid ""
@@ -161,7 +175,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_bird.xml:182
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[1]/text"
-msgstr ""
+msgstr "你紧张地从座位边缘观看着比赛，直到最后一秒才分出胜负。"
 
 #: src-en/data/events_sector_aea_bird.xml:187
 msgid ""
@@ -171,7 +185,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:189
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[1]/choice/event/text"
-msgstr ""
+msgstr "不幸的是，你下注的球队在最后一刻被对手险胜。"
 
 #: src-en/data/events_sector_aea_bird.xml:191
 msgid ""
@@ -186,7 +200,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_bird.xml:202
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[2]/text"
-msgstr ""
+msgstr "你紧张地从座位边缘观看着比赛，直到最后一秒才分出胜负。"
 
 #: src-en/data/events_sector_aea_bird.xml:207
 msgid ""
@@ -196,12 +210,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:209
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[2]/choice/event/text"
-msgstr ""
+msgstr "你欢呼雀跃，因为你下注的球队在最后几分钟险胜，你前去领取赢得的奖金。"
 
 #: src-en/data/events_sector_aea_bird.xml:217
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[3]/text"
-msgstr ""
+msgstr "比赛刚开始就明显看出有一队实力远胜另一队，而这次正是你下注的球队处境艰难。"
 
 #: src-en/data/events_sector_aea_bird.xml:222
 msgid ""
@@ -211,7 +225,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:224
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[3]/choice/event/text"
-msgstr ""
+msgstr "你一直观看到结束，然而你下注的球队几乎不可能逆转局势了。"
 
 #: src-en/data/events_sector_aea_bird.xml:226
 msgid ""
@@ -226,7 +240,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_bird.xml:237
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[4]/text"
-msgstr ""
+msgstr "比赛刚开始就明显看出有一队实力远胜另一队，而这次正是你下注的球队遥遥领先。"
 
 #: src-en/data/events_sector_aea_bird.xml:242
 msgid ""
@@ -236,12 +250,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:244
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[4]/choice/event/text"
-msgstr ""
+msgstr "正如预料，你下注的球队赢了。你收下了赢得的奖金。"
 
 #: src-en/data/events_sector_aea_bird.xml:252
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[5]/text"
-msgstr ""
+msgstr "比赛刚开始就明显看出有一队实力远胜另一队，而这次正是你下注的球队处境艰难。"
 
 #: src-en/data/events_sector_aea_bird.xml:257
 msgid ""
@@ -251,12 +265,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:259
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_20BET\"]/event[5]/choice/event/text"
-msgstr ""
+msgstr "令人惊讶的是，你下注的球队成功扳回劣势并反超对手，赢得了比赛。你收下了赢得的"
+"奖金。"
 
 #: src-en/data/events_sector_aea_bird.xml:269
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[1]/text"
-msgstr ""
+msgstr "你紧张地从座位边缘观看着比赛，直到最后一秒才分出胜负。"
 
 #: src-en/data/events_sector_aea_bird.xml:274
 msgid ""
@@ -266,7 +281,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:276
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[1]/choice/event/text"
-msgstr ""
+msgstr "不幸的是，你下注的球队在最后一刻被对手险胜。"
 
 #: src-en/data/events_sector_aea_bird.xml:278
 msgid ""
@@ -281,7 +296,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_bird.xml:289
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[2]/text"
-msgstr ""
+msgstr "你紧张地从座位边缘观看着比赛，直到最后一秒才分出胜负。"
 
 #: src-en/data/events_sector_aea_bird.xml:294
 msgid ""
@@ -291,12 +306,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:296
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[2]/choice/event/text"
-msgstr ""
+msgstr "你欢呼雀跃，因为你下注的球队在最后几分钟险胜，你前去领取赢得的奖金。"
 
 #: src-en/data/events_sector_aea_bird.xml:304
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[3]/text"
-msgstr ""
+msgstr "比赛刚开始就明显看出有一队实力远胜另一队，而这次正是你下注的球队处境艰难。"
 
 #: src-en/data/events_sector_aea_bird.xml:309
 msgid ""
@@ -306,7 +321,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:311
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[3]/choice/event/text"
-msgstr ""
+msgstr "你一直观看到结束，然而你下注的球队几乎不可能逆转局势了。"
 
 #: src-en/data/events_sector_aea_bird.xml:313
 msgid ""
@@ -321,7 +336,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_bird.xml:324
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[4]/text"
-msgstr ""
+msgstr "比赛刚开始就明显看出有一队实力远胜另一队，而这次正是你下注的球队遥遥领先。"
 
 #: src-en/data/events_sector_aea_bird.xml:329
 msgid ""
@@ -331,12 +346,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:331
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[4]/choice/event/text"
-msgstr ""
+msgstr "正如预料，你下注的球队赢了。你收下了赢得的奖金。"
 
 #: src-en/data/events_sector_aea_bird.xml:339
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[5]/text"
-msgstr ""
+msgstr "比赛刚开始就明显看出有一队实力远胜另一队，而这次正是你下注的球队处境艰难。"
 
 #: src-en/data/events_sector_aea_bird.xml:344
 msgid ""
@@ -346,12 +361,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:346
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_50BET\"]/event[5]/choice/event/text"
-msgstr ""
+msgstr "令人惊讶的是，你下注的球队成功扳回劣势并反超对手，赢得了比赛。你收下了赢得的"
+"奖金。"
 
 #: src-en/data/events_sector_aea_bird.xml:356
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[1]/text"
-msgstr ""
+msgstr "你紧张地从座位边缘观看着比赛，直到最后一秒才分出胜负。"
 
 #: src-en/data/events_sector_aea_bird.xml:361
 msgid ""
@@ -361,7 +377,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:363
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[1]/choice/event/text"
-msgstr ""
+msgstr "不幸的是，你下注的球队在最后一刻被对手险胜。"
 
 #: src-en/data/events_sector_aea_bird.xml:365
 msgid ""
@@ -376,7 +392,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_bird.xml:376
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[2]/text"
-msgstr ""
+msgstr "你紧张地从座位边缘观看着比赛，直到最后一秒才分出胜负。"
 
 #: src-en/data/events_sector_aea_bird.xml:381
 msgid ""
@@ -386,12 +402,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:383
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[2]/choice/event/text"
-msgstr ""
+msgstr "你欢呼雀跃，因为你下注的球队在最后几分钟险胜，你前去领取赢得的奖金。"
 
 #: src-en/data/events_sector_aea_bird.xml:391
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[3]/text"
-msgstr ""
+msgstr "比赛刚开始就明显看出有一队实力远胜另一队，而这次正是你下注的球队处境艰难。"
 
 #: src-en/data/events_sector_aea_bird.xml:396
 msgid ""
@@ -401,7 +417,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:398
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[3]/choice/event/text"
-msgstr ""
+msgstr "你一直观看到结束，然而你下注的球队几乎不可能逆转局势了。"
 
 #: src-en/data/events_sector_aea_bird.xml:400
 msgid ""
@@ -416,7 +432,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_bird.xml:411
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[4]/text"
-msgstr ""
+msgstr "比赛刚开始就明显看出有一队实力远胜另一队，而这次正是你下注的球队遥遥领先。"
 
 #: src-en/data/events_sector_aea_bird.xml:416
 msgid ""
@@ -426,12 +442,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:418
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[4]/choice/event/text"
-msgstr ""
+msgstr "正如预料，你下注的球队赢了。你收下了赢得的奖金。"
 
 #: src-en/data/events_sector_aea_bird.xml:426
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[5]/text"
-msgstr ""
+msgstr "比赛刚开始就明显看出有一队实力远胜另一队，而这次正是你下注的球队处境艰难。"
 
 #: src-en/data/events_sector_aea_bird.xml:431
 msgid ""
@@ -441,11 +457,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:433
 msgid ""
 "data/events_sector_aea_bird.xml$//eventList[@name=\"AEA_BIRD_100BET\"]/event[5]/choice/event/text"
-msgstr ""
+msgstr "令人惊讶的是，你下注的球队成功扳回劣势并反超对手，赢得了比赛。你收下了赢得的"
+"奖金。"
 
 #: src-en/data/events_sector_aea_bird.xml:443
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/text"
-msgstr ""
+msgstr "你已抵达信标，令人惊讶的是，这里设有一个联邦空间站。该空间站正发出请求，希望"
+"用废料换取弹药。其高需求很可能源于日益增多的叛军封锁。"
 
 #: src-en/data/events_sector_aea_bird.xml:445
 msgid ""
@@ -465,7 +483,7 @@ msgstr "出售12发弹药。"
 #: src-en/data/events_sector_aea_bird.xml:475
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_AMMO\"]/choice[4]/text"
-msgstr ""
+msgstr "出售 8 枚导弹以换取一架无人机。"
 
 #: src-en/data/events_sector_aea_bird.xml:485
 msgid ""
@@ -491,16 +509,23 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/text"
 msgstr ""
+"信标位于一颗 Gi 族工业行星的轨道上。这颗行星上坐落着 Gi 族用于生产无人机的一"
+"些大型制造厂。\n"
+"你收到来自行星表面一座设施的通讯，他们询问你能否下来帮忙测试他们的新型制造器"
+"。"
 
 #: src-en/data/events_sector_aea_bird.xml:511
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/text"
-msgstr ""
+msgstr "前往那座设施。"
 
 #: src-en/data/events_sector_aea_bird.xml:513
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/text"
 msgstr ""
+"你抵达设施，一位 Gi 族工程师迎接了你。他们解释说，他们开发了一台实验性的制造"
+"器，但需要一些燃料来驱动它。他们订购的燃料尚未送达，因此需要你提供一些燃料来"
+"启动它。"
 
 #: src-en/data/events_sector_aea_bird.xml:515
 msgid ""
@@ -510,17 +535,18 @@ msgstr "给他们提供燃料。"
 #: src-en/data/events_sector_aea_bird.xml:517
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "作为补偿，他们让你优先使用制造器。既然它已启动并运行，只需少量废料就能开始运"
+"作。"
 
 #: src-en/data/events_sector_aea_bird.xml:522
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "投入废料。"
 
 #: src-en/data/events_sector_aea_bird.xml:524
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "你将废料装入机器，它开始嗡嗡作响，将废料转化为有用的补给品。"
 
 #: src-en/data/events_sector_aea_bird.xml:529
 msgid ""
@@ -531,16 +557,18 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"机器停止运转，吐出了你所需的补给品。\n"
+"你可以再次使用它，但这会给叛军追赶你的时间。"
 
 #: src-en/data/events_sector_aea_bird.xml:536
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "投入废料。"
 
 #: src-en/data/events_sector_aea_bird.xml:538
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你将废料装入机器，它开始嗡嗡作响，将废料转化为有用的补给品。"
 
 #: src-en/data/events_sector_aea_bird.xml:543
 msgid ""
@@ -550,7 +578,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:545
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "机器吐出了你所需的补给品。"
 
 #: src-en/data/events_sector_aea_bird.xml:552
 msgid ""
@@ -560,7 +588,7 @@ msgstr "离开。"
 #: src-en/data/events_sector_aea_bird.xml:554
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你对更多补给不感兴趣。"
 
 #: src-en/data/events_sector_aea_bird.xml:556
 msgid ""
@@ -580,7 +608,7 @@ msgstr "离开。"
 #: src-en/data/events_sector_aea_bird.xml:570
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "你对更多补给不感兴趣。"
 
 #: src-en/data/events_sector_aea_bird.xml:572
 msgid ""
@@ -600,7 +628,7 @@ msgstr "离开。"
 #: src-en/data/events_sector_aea_bird.xml:588
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你对更多补给不感兴趣。"
 
 #: src-en/data/events_sector_aea_bird.xml:590
 msgid ""
@@ -613,7 +641,6 @@ msgid ""
 msgstr "跳过。"
 
 #: src-en/data/events_sector_aea_bird.xml:602
-#, fuzzy
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[2]/text"
 msgstr "无视对方。"
@@ -621,7 +648,7 @@ msgstr "无视对方。"
 #: src-en/data/events_sector_aea_bird.xml:604
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FABRICATOR\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你对那座设施和可疑的请求都不感兴趣。"
 
 #: src-en/data/events_sector_aea_bird.xml:606
 msgid ""
@@ -686,22 +713,25 @@ msgstr "这个信标是叛军的黄金地段。尽管他们通常渴望杀死联
 #: src-en/data/events_sector_aea_bird.xml:665
 msgid ""
 "data/events_sector_aea_bird.xml$//textList[@name=\"TEXT_AEA_BIRD_REBEL_CHOICE\"]/text[4]"
-msgstr ""
+msgstr "这个信标处的叛军飞船正在侦察联邦和 Gi 族的舰船以进行战斗。它尚未发现你。"
 
 #: src-en/data/events_sector_aea_bird.xml:669
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/text"
 msgstr ""
+"你抵达后发现一艘 Gi 族拦截机正被一架小型穿梭机追赶。“变元者，我们需要你的帮助"
+"。我们试图将一架情报无人机的无人机模块安装到小型穿梭机上，不幸的是，它失控了"
+"，现在正试图杀死我们。我们船上没有武器，无法还击。”"
 
 #: src-en/data/events_sector_aea_bird.xml:671
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[1]/text"
-msgstr ""
+msgstr "攻击那架穿梭机。"
 
 #: src-en/data/events_sector_aea_bird.xml:673
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你上前拦截那架已变成无人机的穿梭机。"
 
 #: src-en/data/events_sector_aea_bird.xml:676
 msgid ""
@@ -711,12 +741,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:682
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[2]/text"
-msgstr ""
+msgstr "无视那些飞船。"
 
 #: src-en/data/events_sector_aea_bird.xml:684
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUNAWAY_DRONE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你对与那架无人机穿梭机战斗毫无兴趣。"
 
 #: src-en/data/events_sector_aea_bird.xml:686
 msgid ""
@@ -731,32 +761,37 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_bird.xml:698
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL\"]/text"
-msgstr ""
+msgstr "你拯救了 Gi 族拦截机上的船员，他们用自己的补给补充了你从无人机残骸中获得的废"
+"料。他们还移交了一架不再需要的备用情报无人机。"
 
 #: src-en/data/events_sector_aea_bird.xml:704
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/text"
-msgstr ""
+msgstr "你已抵达一颗 Gi 族筑巢地行星，这是 Gi 族传统的筑巢地，该物种的成员会迁徙至此"
+"孵化幼崽。"
 
 #: src-en/data/events_sector_aea_bird.xml:707
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/text"
-msgstr ""
+msgstr "前往地表。"
 
 #: src-en/data/events_sector_aea_bird.xml:709
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/text"
-msgstr ""
+msgstr "你已抵达行星地表，星球的大部分区域禁止游客进入。附近有一个游客中心。"
 
 #: src-en/data/events_sector_aea_bird.xml:712
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "前往游客中心。"
 
 #: src-en/data/events_sector_aea_bird.xml:715
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"游客中心先简要介绍了 Gi 族的历史，接着大部分内容就变成了一个大型礼品店。\n"
+"\n"
+"在你购物之前，你还有点时间在船上做点别的事。"
 
 #: src-en/data/events_sector_aea_bird.xml:719
 msgid ""
@@ -771,12 +806,14 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_bird.xml:729
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "悄悄溜出访客区。"
 
 #: src-en/data/events_sector_aea_bird.xml:731
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_NESTING_PLANET\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"你关闭了应答器，悄悄溜走。\n"
+"然而你没能跑多远，一艘 Gi 族舰船发现了你的入侵，随即发起攻击。"
 
 #: src-en/data/events_sector_aea_bird.xml:736
 msgid ""
@@ -807,16 +844,23 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/text"
 msgstr ""
+"你被附近一艘 Gi 族舰船呼叫。“啊，一位变元者，或许你会对一场机会游戏感兴趣？这"
+"个信标处有一个奇特异常点——一个短程虫洞，你进去后只会从原处出来。但我们发现，"
+"在穿出时，有近乎精确的 1/6 概率，飞船的一部分会被虫洞压皱。\n"
+"\n"
+"“游戏规则如下：我们抛硬币，谁猜错谁就得先进入虫洞。然后我们继续轮流，直到有人"
+"临阵退缩，或者直到有人被稍稍压皱为止。输家必须付给对方 5 废料。那么，你觉得怎"
+"么样，要玩一把吗？”"
 
 #: src-en/data/events_sector_aea_bird.xml:767
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/text"
-msgstr ""
+msgstr "游戏开始！"
 
 #: src-en/data/events_sector_aea_bird.xml:769
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你抛了硬币，结果鸟面朝上，Gi 族舰船先行进入。那艘 Gi 族舰船飞入了虫洞。"
 
 #: src-en/data/events_sector_aea_bird.xml:771
 msgid ""
@@ -826,17 +870,19 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:773
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "片刻之后，那艘 Gi 族舰船毫发无损地从虫洞中跃出。“好了，轮到你了。”"
 
 #: src-en/data/events_sector_aea_bird.xml:775
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "进入虫洞。"
 
 #: src-en/data/events_sector_aea_bird.xml:777
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_1\"]/text"
 msgstr ""
+"你进入虫洞，几乎立刻就从另一端出现，就在 Gi 族舰船旁边。你检查后发现自己的船"
+"完好无损。“好了，又轮到我了！”那位 Gi 族船长似乎对这场赌博兴奋不已。"
 
 #: src-en/data/events_sector_aea_bird.xml:779
 msgid ""
@@ -846,17 +892,17 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:785
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "临阵退缩。"
 
 #: src-en/data/events_sector_aea_bird.xml:793
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[2]/text"
-msgstr ""
+msgstr "无视提议，发起攻击。"
 
 #: src-en/data/events_sector_aea_bird.xml:795
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你切断了通讯并激活武器，Gi 族舰船领会了你的意图，也做出了同样的反应。"
 
 #: src-en/data/events_sector_aea_bird.xml:798
 msgid ""
@@ -871,7 +917,7 @@ msgstr "拒绝。"
 #: src-en/data/events_sector_aea_bird.xml:806
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你对玩这种高风险的机会游戏毫无兴趣。"
 
 #: src-en/data/events_sector_aea_bird.xml:808
 msgid ""
@@ -886,12 +932,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_bird.xml:820
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_LOSE\"]/text"
-msgstr ""
+msgstr "你交出了废料，然而 Gi 族船长提议再玩一局。"
 
 #: src-en/data/events_sector_aea_bird.xml:825
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_LOSE\"]/choice[1]/text"
-msgstr ""
+msgstr "再玩一局。"
 
 #: src-en/data/events_sector_aea_bird.xml:831
 msgid ""
@@ -901,22 +947,23 @@ msgstr "离开。"
 #: src-en/data/events_sector_aea_bird.xml:833
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_LOSE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Gi 族舰船稍作等待，随即跃迁离去，只留下你独自留在信标处。"
 
 #: src-en/data/events_sector_aea_bird.xml:840
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/text"
-msgstr ""
+msgstr "Gi 族船长抛起一枚硬币，你有一瞬间可以猜它落地后的朝向。猜对了你就第二个进入，"
+"猜错了你就得第一个进。"
 
 #: src-en/data/events_sector_aea_bird.xml:842
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[1]/text"
-msgstr ""
+msgstr "猜“喙”面。"
 
 #: src-en/data/events_sector_aea_bird.xml:844
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_2\"]/text"
-msgstr ""
+msgstr "硬币落下，喙面朝上，Gi 族船长率先飞入虫洞。"
 
 #: src-en/data/events_sector_aea_bird.xml:846
 msgid ""
@@ -926,52 +973,52 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:852
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[2]/text"
-msgstr ""
+msgstr "猜“羽”面。"
 
 #: src-en/data/events_sector_aea_bird.xml:854
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_1\"]/text"
-msgstr ""
+msgstr "硬币落下，喙面朝上。由于你猜错了，轮到你飞入虫洞了。"
 
 #: src-en/data/events_sector_aea_bird.xml:856
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_1\"]/choice[1]/text"
-msgstr ""
+msgstr "进入虫洞。"
 
 #: src-en/data/events_sector_aea_bird.xml:860
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_1\"]/choice[2]/text"
-msgstr ""
+msgstr "临阵退缩。"
 
 #: src-en/data/events_sector_aea_bird.xml:866
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[3]/text"
-msgstr ""
+msgstr "猜“喙”面。"
 
 #: src-en/data/events_sector_aea_bird.xml:868
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_2\"]/text"
-msgstr ""
+msgstr "硬币落下，羽面朝上。由于你猜错了，轮到你飞入虫洞了。"
 
 #: src-en/data/events_sector_aea_bird.xml:870
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_2\"]/choice[1]/text"
-msgstr ""
+msgstr "进入虫洞。"
 
 #: src-en/data/events_sector_aea_bird.xml:874
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER_2\"]/choice[2]/text"
-msgstr ""
+msgstr "临阵退缩。"
 
 #: src-en/data/events_sector_aea_bird.xml:880
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ROULETTE_AGAIN\"]/choice[4]/text"
-msgstr ""
+msgstr "猜“羽”面。"
 
 #: src-en/data/events_sector_aea_bird.xml:882
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_4\"]/text"
-msgstr ""
+msgstr "硬币落下，羽面朝上，Gi 族船长率先飞入虫洞。"
 
 #: src-en/data/events_sector_aea_bird.xml:884
 msgid ""
@@ -981,37 +1028,38 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:892
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER\"]/text"
-msgstr ""
+msgstr "你抛了硬币，结果鸟面朝下，轮到你先进了。"
 
 #: src-en/data/events_sector_aea_bird.xml:894
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER\"]/choice[1]/text"
-msgstr ""
+msgstr "进入虫洞。"
 
 #: src-en/data/events_sector_aea_bird.xml:898
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROLL_PLAYER\"]/choice[2]/text"
-msgstr ""
+msgstr "临阵退缩。"
 
 #: src-en/data/events_sector_aea_bird.xml:904
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_SPIN\"]/text"
-msgstr ""
+msgstr "轮到你穿越虫洞了，你有 1/6 的概率在从另一端出现时受损。"
 
 #: src-en/data/events_sector_aea_bird.xml:906
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_SPIN\"]/choice[1]/text"
-msgstr ""
+msgstr "进入虫洞。"
 
 #: src-en/data/events_sector_aea_bird.xml:910
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_SPIN\"]/choice[2]/text"
-msgstr ""
+msgstr "临阵退缩。"
 
 #: src-en/data/events_sector_aea_bird.xml:920
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_LIST_PLAYER\"]/loadEventList/event[2]/text"
-msgstr ""
+msgstr "你进入了虫洞，然而当你在另一端出现时，你听到了一声明显的咔嚓声——你的飞船被虫"
+"洞损坏了。你输了，Gi 族船长已经注意到了，正满怀期待地等着。"
 
 #: src-en/data/events_sector_aea_bird.xml:923
 msgid ""
@@ -1022,6 +1070,8 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_RUSSIAN_ROLL_ENEMY_3\"]/text"
 msgstr ""
+"你进入虫洞，几乎立刻就从另一端出现，就在 Gi 族舰船旁边。你检查后发现自己的船"
+"完好无损。“好了，又轮到我了！”那位 Gi 族船长似乎对这场赌博兴奋不已。"
 
 #: src-en/data/events_sector_aea_bird.xml:934
 msgid ""
@@ -1031,7 +1081,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:943
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_LIST_ENEMY\"]/loadEventList/event[1]/text"
-msgstr ""
+msgstr "片刻之后，那艘 Gi 族舰船毫发无损地从虫洞中跃出。“好了，轮到你了。”"
 
 #: src-en/data/events_sector_aea_bird.xml:945
 msgid ""
@@ -1041,17 +1091,20 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:952
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_RUSSIAN_ROULETTE_LIST_ENEMY\"]/loadEventList/event[2]/text"
-msgstr ""
+msgstr "片刻之后，那艘 Gi 族舰船从虫洞中弹出——或者说，至少是部分弹出。看来虫洞对他们"
+"的船来说过于猛烈，在穿越过程中被撕碎了。你拆解了舰船的残骸。"
 
 #: src-en/data/events_sector_aea_bird.xml:961
 msgid ""
 "data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_ROULETTE_ROLL_START_2\"]/text"
 msgstr ""
+"片刻之后，那艘 Gi 族舰船从虫洞中弹出，但这一次，你看到船身后留下了一道液体轨"
+"迹，侧面有明显的压痕。“好吧，你赢了。但我还想再来一轮，怎么样？”"
 
 #: src-en/data/events_sector_aea_bird.xml:968
 msgid ""
 "data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_ROULETTE_ROLL_START_2\"]/choice[1]/text"
-msgstr ""
+msgstr "再玩一局。"
 
 #: src-en/data/events_sector_aea_bird.xml:974
 msgid ""
@@ -1061,32 +1114,37 @@ msgstr "离开。"
 #: src-en/data/events_sector_aea_bird.xml:976
 msgid ""
 "data/events_sector_aea_bird.xml$/dummyroot/FTL/event[@name=\"AEA_BIRD_ROULETTE_ROLL_START_2\"]/choice[2]/event/text"
-msgstr ""
+msgstr "Gi 族舰船稍作等待，随即跃迁离去，只留下你独自留在信标处。"
 
 #: src-en/data/events_sector_aea_bird.xml:1003
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/text"
-msgstr ""
+msgstr "抵达信标后，你发现一个 Gi 族殖民地正在发送求救信号。你试图呼叫该殖民地，但没"
+"有得到回应。"
 
 #: src-en/data/events_sector_aea_bird.xml:1006
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/text"
-msgstr ""
+msgstr "在殖民地着陆。"
 
 #: src-en/data/events_sector_aea_bird.xml:1009
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你降落在殖民地上，发现它已被遗弃，而且你找不到任何争斗或战斗的迹象。"
 
 #: src-en/data/events_sector_aea_bird.xml:1011
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "继续搜索殖民地。"
 
 #: src-en/data/events_sector_aea_bird.xml:1013
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"最终，你发现一个殖民地成员躲在上锁的房间里。在保证其安全后，他走了出来。“我想"
+"你一定想知道这里发生了什么，不幸的是，我也不知道发生了什么。我习惯锁门睡觉，"
+"所以今天早上有人砸我的门时，我一直锁着。我不知道发生了什么事，但我能够从我的"
+"房间里启动求救信标。”"
 
 #: src-en/data/events_sector_aea_bird.xml:1015
 msgid ""
@@ -1097,26 +1155,38 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"那位 Gi 族带你回到安全中心，在那里他登录系统并回放了安全录像。录像只回溯到你"
+"这位殖民地朋友打开求救信标的时候。录像显示，殖民地的其他成员似乎陷入了恍惚状"
+"态，朝着东边走去。你不确定发生了什么，但你在科学实验室里找到了一些笔记，上面"
+"提到了一种奇怪的真菌。"
 
 #: src-en/data/events_sector_aea_bird.xml:1019
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "向东前进。"
 
 #: src-en/data/events_sector_aea_bird.xml:1021
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你动身向东行进，沿着殖民地其他成员留下的踪迹前行。最终，你来到一处巨大的悬崖"
+"峭壁前，踪迹似乎在此中断，直到你抬头望去，才看到所有殖民地成员都散布在悬崖壁"
+"上。似乎有一种真菌或苔藓将他们固定在原处。"
 
 #: src-en/data/events_sector_aea_bird.xml:1023
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "尝试用楔子将一名殖民地成员从悬崖上撬下来。"
 
 #: src-en/data/events_sector_aea_bird.xml:1025
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"你找到一个附着较松的殖民地成员，轻轻地将他们从墙上分离。他们摔到地上，毫无反"
+"应。片刻之后，你听到殖民地其他成员发出刺耳的尖叫声。尖叫声持续了几分钟，直到"
+"另一种声音盖过了它——那是从悬崖顶部传来的飞船引擎声。\n"
+"\n"
+"一艘 Gi 族飞船从崖顶出现，开始向你发动攻击。你匆忙跑回自己的飞船。"
 
 #: src-en/data/events_sector_aea_bird.xml:1030
 msgid ""
@@ -1126,12 +1196,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:1036
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "尝试炸开一名受害者周围的部分真菌。"
 
 #: src-en/data/events_sector_aea_bird.xml:1038
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"你小心翼翼地炸开一名殖民地成员周围的部分真菌，只见脱离主体部分的真菌开始枯萎"
+"死亡。最终，那名殖民地成员从墙上脱离并苏醒过来。其余的真菌没有反应，于是你重"
+"复这一过程，直到所有殖民地成员都脱离下来。"
 
 #: src-en/data/events_sector_aea_bird.xml:1040
 msgid ""
@@ -1141,17 +1214,23 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:1042
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "你设法将所有殖民地成员活着带回了殖民地。他们感激不尽，从仓库中拿出一大笔废料"
+"和一架战斗无人机作为酬谢。"
 
 #: src-en/data/events_sector_aea_bird.xml:1050
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_WEAPONS_FIRE_ALL\"]/text"
-msgstr ""
+msgstr "（火焰武器）把它们全烧了！"
 
 #: src-en/data/events_sector_aea_bird.xml:1052
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_WEAPONS_FIRE_ALL\"]/event/text"
 msgstr ""
+"你点燃了墙壁，火焰迅速在真菌上蔓延，吞噬了许多殖民地成员。几乎立刻，幸存的殖"
+"民地成员开始尖啸。尖啸持续了几分钟，直到另一种声音盖过了它——那是从悬崖顶部传"
+"来的飞船引擎声。\n"
+"\n"
+"一艘 Gi 族飞船从崖顶出现，开始向你发动攻击。你匆忙跑回自己的飞船。"
 
 #: src-en/data/events_sector_aea_bird.xml:1061
 msgid ""
@@ -1161,12 +1240,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:1075
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[2]/text"
-msgstr ""
+msgstr "无视殖民地。"
 
 #: src-en/data/events_sector_aea_bird.xml:1077
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"DISTRESS_AEA_BIRD_COLONY\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你对调查殖民地毫无兴趣。"
 
 #: src-en/data/events_sector_aea_bird.xml:1079
 msgid ""
@@ -1182,59 +1261,68 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/text"
 msgstr ""
+"你在离开时的悬崖边找到了最初那位 Gi 族殖民地成员。击败那艘飞船后，其余被真菌"
+"感染的殖民地成员似乎都已死亡。由于无人可返回殖民地，这位 Gi 族人提议加入你的"
+"船员队伍。"
 
 #: src-en/data/events_sector_aea_bird.xml:1093
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/choice[1]/text"
-msgstr ""
+msgstr "同意他们登船。"
 
 #: src-en/data/events_sector_aea_bird.xml:1095
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "他们对失去殖民地和朋友感到悲伤，但至少感激你救了他们。"
 
 #: src-en/data/events_sector_aea_bird.xml:1100
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/choice[2]/text"
-msgstr ""
+msgstr "提议将他们送到附近的空间站。"
 
 #: src-en/data/events_sector_aea_bird.xml:1102
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_COLONY_FIGHT_KILL\"]/choice[2]/event/text"
-msgstr ""
+msgstr "他们似乎有些失望，但至少仍然感激你救了他们。"
 
 #: src-en/data/events_sector_aea_bird.xml:1124
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/text"
 msgstr ""
+"抵达信标后，你发现附近有一艘 Gi 族运输船在漂流。扫描显示，其反应堆已炸毁，完"
+"全没有动力。看来他们携带了生命维持系统的备用设备，所以船员至今仍幸存。"
 
 #: src-en/data/events_sector_aea_bird.xml:1128
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[1]/text"
-msgstr ""
+msgstr "对接并联系船员。"
 
 #: src-en/data/events_sector_aea_bird.xml:1130
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[1]/event/text"
 msgstr ""
+"你立刻遇到了一名 Gi 族船员。“快，你需要把这药送到殖民地，事关几百条人命。”你"
+"几乎还没来得及说什么，他们就开始往船上搬运货物，其中一名船员随货物上了船，而"
+"其他人则表示会等别的船来接他们。\n"
+"\n"
+"他们告诉你，这种药物几分钟后就会失效，你必须快速航行才能及时送达。"
 
 #: src-en/data/events_sector_aea_bird.xml:1137
 msgid ""
 "data/events_sector_aea_bird.xml$//triggeredEvent[@name=\"AEA_BIRD_DELIVERY_TIMER\"]/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "药物将在倒计时结束时失效！"
 
 #: src-en/data/events_sector_aea_bird.xml:1147
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[2]/text"
-msgstr ""
+msgstr "趁那艘船毫无防备时将其拆解。"
 
 #: src-en/data/events_sector_aea_bird.xml:1149
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你拆解了那艘船，试图不去想那些被你献祭给虚空的运输船船员。"
 
 #: src-en/data/events_sector_aea_bird.xml:1155
-#, fuzzy
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[3]/text"
 msgstr "无视这艘舰船。"
@@ -1242,7 +1330,7 @@ msgstr "无视这艘舰船。"
 #: src-en/data/events_sector_aea_bird.xml:1157
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_QUEST\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你准备跃迁至下一个信标。"
 
 #: src-en/data/events_sector_aea_bird.xml:1159
 msgid ""
@@ -1257,34 +1345,35 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_bird.xml:1171
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY_FAILED\"]/text"
-msgstr ""
+msgstr "药物已经失效，现在你根本救不了殖民地了……"
 
 #: src-en/data/events_sector_aea_bird.xml:1179
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这里的殖民地正依靠你的药物来救命。"
 
 #: src-en/data/events_sector_aea_bird.xml:1183
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/text"
-msgstr ""
+msgstr "你已抵达殖民地，希望药物还没失效。"
 
 #: src-en/data/events_sector_aea_bird.xml:1185
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[@req=\"aea_bird_medicine\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "送达药物。"
 
 #: src-en/data/events_sector_aea_bird.xml:1187
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[@req=\"aea_bird_medicine\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "你送达了药物，殖民地的医护人员立即着手将其分发给病人。工作人员非常感激，用一"
+"大笔废料和仓库里的一架无人机作为回报。"
 
 #: src-en/data/events_sector_aea_bird.xml:1194
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[@req=\"aea_bird_medicine\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "药物已经失效。"
 
 #: src-en/data/events_sector_aea_bird.xml:1198
 msgid ""
@@ -1294,7 +1383,7 @@ msgstr "避开殖民地。"
 #: src-en/data/events_sector_aea_bird.xml:1200
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DELIVERY\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你准备跃迁至下一个信标。"
 
 #: src-en/data/events_sector_aea_bird.xml:1202
 msgid ""
@@ -1309,7 +1398,8 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_bird.xml:1233
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"ENCOUNTER_AEA_BIRD_SALVAGE\"]/text"
-msgstr ""
+msgstr "你在附近发现了一艘联邦飞船的残骸。你还没来得及考虑打捞它，一艘 Gi 族飞船就跃"
+"迁进来，勘察现场后，竟指责你摧毁了这艘船！"
 
 #: src-en/data/events_sector_aea_bird.xml:1236
 msgid ""
@@ -1319,7 +1409,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:1242
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"ENCOUNTER_AEA_BIRD_FED_SALVAGE\"]/text"
-msgstr ""
+msgstr "你在附近发现了一艘 Gi 族飞船的残骸。你还没来得及考虑打捞它，一艘联邦飞船就跃"
+"迁进来，勘察现场后，竟指责你摧毁了这艘船！"
 
 #: src-en/data/events_sector_aea_bird.xml:1245
 msgid ""
@@ -1329,6 +1420,9 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:1269
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES\"]/text"
 msgstr ""
+"你抵达信标，发现一艘大型精英联邦飞船正在追逐一艘民用飞船。你还没来得及做任何"
+"反应，就眼睁睁看着那艘民用飞船被联邦飞船撕成碎片。随后，那艘大型飞船调转方向"
+"，武器已锁定，面对着你。"
 
 #: src-en/data/events_sector_aea_bird.xml:1272
 msgid ""
@@ -1338,17 +1432,22 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:1278
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_SURRENDER\"]/text"
-msgstr ""
+msgstr "舰长出现在屏幕上，他们身穿一件匆忙拼凑的联邦制服。“舰长，显然我们一开始就搞错"
+"了。让我们停火吧，我们会送些废料作为道歉。”"
 
 #: src-en/data/events_sector_aea_bird.xml:1280
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_SURRENDER\"]/choice[1]/text"
-msgstr ""
+msgstr "同意停火。"
 
 #: src-en/data/events_sector_aea_bird.xml:1282
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_SURRENDER\"]/choice[1]/event/text"
 msgstr ""
+"你关闭了武器，他们派来了一艘穿梭机。穿梭机与你的飞船对接，但还没等你打开舱门"
+"，你的船体就被爆炸撕裂。穿梭机里装满了炸药，你落入了他们的圈套。\n"
+"\n"
+"不知为何，你竟没发现那艘联邦飞船里全是叛军。"
 
 #: src-en/data/events_sector_aea_bird.xml:1290
 msgid ""
@@ -1358,7 +1457,8 @@ msgstr "禁言他们，继续战斗。"
 #: src-en/data/events_sector_aea_bird.xml:1295
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_DESTROY\"]/text"
-msgstr ""
+msgstr "你摧毁了那艘联邦飞船，连同船上的叛军船员也一并消灭。你一边调查，一边打捞残骸"
+"。"
 
 #: src-en/data/events_sector_aea_bird.xml:1298
 msgid ""
@@ -1368,7 +1468,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:1303
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_DEADCREW\"]/text"
-msgstr ""
+msgstr "你消灭了所有叛军船员。你一边调查，一边打捞残骸。"
 
 #: src-en/data/events_sector_aea_bird.xml:1306
 msgid ""
@@ -1379,26 +1479,36 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_SPIES_INVEST\"]/text"
 msgstr ""
+"你搜查了飞船，在储藏室的残骸中发现了许多联邦制服。你翻找其中一件制服的口袋，"
+"找到了一个数据板。根据你的电脑显示，这艘船一直驻扎在一个信标处，而那个信标完"
+"全空旷，没有任何有趣的东西。你在地图上标记了那个位置。"
 
 #: src-en/data/events_sector_aea_bird.xml:1330
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_REBEL_BASE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "那艘载有叛军船员的联邦舰船曾驻扎的空旷信标。"
 
 #: src-en/data/events_sector_aea_bird.xml:1333
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_REBEL_BASE\"]/text"
 msgstr ""
+"你抵达那个据称空旷的信标，却发现信标附近有一个相当大的 Gi 族军事基地。你注意"
+"到有几架小型叛军穿梭机与之对接，扫描显示这些穿梭机经过隐身能力改装，他们一定"
+"是利用这些穿梭机潜入并夺取了基地。"
 
 #: src-en/data/events_sector_aea_bird.xml:1335
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_REBEL_BASE\"]/choice/text"
-msgstr ""
+msgstr "炸毁穿梭机，把他们困在空间站上。"
 
 #: src-en/data/events_sector_aea_bird.xml:1337
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_FED_REBEL_BASE\"]/choice/event/text"
 msgstr ""
+"你发射了几轮，成功引爆了所有对接在空间站上的穿梭机。然而，就在你摧毁最后一架"
+"穿梭机时，一个你原以为空着的机库打开了，露出一艘 Gi 族运输船。这艘运输船似乎"
+"经过升级，相当危险。你不禁怀疑这是否就是军事基地如此机密的原因，但你的思绪被"
+"那艘运输船打断，它离开机库，径直朝你的飞船飞来。"
 
 #: src-en/data/events_sector_aea_bird.xml:1340
 msgid ""
@@ -1408,7 +1518,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:1348
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_TRANS_DESTROY\"]/text"
-msgstr ""
+msgstr "你摧毁了那艘被劫持的运输船，希望它对 Gi 族来说不是太重要。你拆解了残骸。"
 
 #: src-en/data/events_sector_aea_bird.xml:1351
 msgid ""
@@ -1418,7 +1528,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_bird.xml:1357
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_TRANS_DEADCREW\"]/text"
-msgstr ""
+msgstr "你消灭了被劫持运输船上的所有叛军船员，登船拿走了所有叛军的废料和补给，但未损"
+"伤运输船。"
 
 #: src-en/data/events_sector_aea_bird.xml:1360
 msgid ""
@@ -1429,60 +1540,87 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_REBEL_TRANS_INVEST\"]/text"
 msgstr ""
+"解决了运输船后，剩下的叛军完全被困在空间站上。你召唤 Gi 族和联邦来清理现场。"
+"\n"
+"\n"
+"最终，你的支援赶到了。叛军迅速投降后，Gi 族和联邦士兵夺回了基地。Gi 族非常感"
+"谢你帮助拯救了基地，他们甚至没意识到基地已被叛军占领——显然，叛军一直维持着基"
+"地的正常运作。\n"
+"Gi 族不仅送来了一大堆废料和补给，还附赠了一艘他们原型星舰的蓝图。"
 
 #: src-en/data/events_sector_aea_bird.xml:1388
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Gi 联邦中央工程设施。"
 
 #: src-en/data/events_sector_aea_bird.xml:1391
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/text"
-msgstr ""
+msgstr "你已抵达中央工程设施，该设施的大部分区域禁止游客进入，不过有一个大型博物馆，"
+"展示了 Gi 族工程师的创新成果。"
 
 #: src-en/data/events_sector_aea_bird.xml:1393
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/text"
-msgstr ""
+msgstr "参观博物馆。"
 
 #: src-en/data/events_sector_aea_bird.xml:1395
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/text"
 msgstr ""
+"第一个展品介绍了中央工程设施的首个设计——双子无人机。\n"
+"“双子无人机是对标准战斗无人机的改进。Gi 族工程师注意到，某些战斗无人机无法穿"
+"透敌方舰船的保护性护盾层。于是，他们为无人机开发了一种附加装置——一门小型且威"
+"力较弱的离子炮，足以电离护盾，但仅此而已。该无人机最大的缺点是，其动力源并非"
+"设计用于同时为两门武器供电，因此额外武器会使其速度减慢。”"
 
 #: src-en/data/events_sector_aea_bird.xml:1398
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "前往下一个展品。"
 
 #: src-en/data/events_sector_aea_bird.xml:1400
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"下一个展品介绍了爆裂无人机。\n"
+"“爆裂无人机是该设施本土设计的首个产品。这款无人机的设计围绕一个自适应电源展开"
+"，该电源能大幅提升武器的威力，但提升功率仍会降低无人机的速度。这款无人机依然"
+"非常省电，而其在无人机反应堆设计上的这些进展，催生了后续的进一步发展。”"
 
 #: src-en/data/events_sector_aea_bird.xml:1403
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "前往下一个展品。"
 
 #: src-en/data/events_sector_aea_bird.xml:1405
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"下一个展品介绍了情报无人机。\n"
+"“情报无人机在无人机设计的另一个领域实现了飞跃。该无人机集成了一个全新的 AI 模"
+"块，使其能够瞄准敌方舰船上的重要组件，从而提高伤害的可靠性，大大增强了无人机"
+"的效能。此外，该无人机还融合了之前无人机反应堆设计的一些先进成果，因此能够同"
+"时为两门激光炮供电。”"
 
 #: src-en/data/events_sector_aea_bird.xml:1408
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "前往最后一个展品。"
 
 #: src-en/data/events_sector_aea_bird.xml:1410
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"最后一个展品介绍了生物无人机。\n"
+"“生物无人机是该设施在无人机设计领域的最新成果。这款无人机的进展之一，是整合了"
+"情报无人机的 AI 模块，不过这次 AI 被调整为瞄准敌方船员，这大大提高了武器的效"
+"能。由此引出了下一项发展：该无人机系列搭载的武器包含一种强大的辐射激光，可使"
+"目标在死亡时爆炸，对周边区域造成伤害。”"
 
 #: src-en/data/events_sector_aea_bird.xml:1413
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "前往礼品店。"
 
 #: src-en/data/events_sector_aea_bird.xml:1417
 msgid ""
@@ -1512,7 +1650,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1443
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你准备跃迁至下一个信标。"
 
 #: src-en/data/events_sector_aea_bird.xml:1445
 msgid ""
@@ -1571,7 +1709,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1490
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/choice[1]/text"
-msgstr ""
+msgstr "多管激光炮。"
 
 #: src-en/data/events_sector_aea_bird.xml:1494
 msgid ""
@@ -1596,7 +1734,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1510
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/choice[1]/text"
-msgstr ""
+msgstr "多管激光炮。"
 
 #: src-en/data/events_sector_aea_bird.xml:1514
 msgid ""
@@ -1636,7 +1774,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1542
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/choice[4]/text"
-msgstr ""
+msgstr "允许两门武器分别锁定不同的舱室。"
 
 #: src-en/data/events_sector_aea_bird.xml:1548
 msgid ""
@@ -1661,7 +1799,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1562
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/choice[4]/text"
-msgstr ""
+msgstr "允许两门武器分别锁定不同的舱室。"
 
 #: src-en/data/events_sector_aea_bird.xml:1568
 msgid ""
@@ -1717,31 +1855,40 @@ msgstr ""
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[1]/text"
 msgstr ""
+"完成最后一道题后，你收到了结果。\n"
+"结果：3/4（不及格）\n"
+"不幸的是，你没能答对所有问题。"
 
 #: src-en/data/events_sector_aea_bird.xml:1614
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[1]/choice/text"
-msgstr ""
+msgstr "离开博物馆。"
 
 #: src-en/data/events_sector_aea_bird.xml:1619
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[2]/text"
 msgstr ""
+"完成最后一道题后，你收到了结果。\n"
+"结果：2/4（不及格）\n"
+"不幸的是，你没能答对所有问题。"
 
 #: src-en/data/events_sector_aea_bird.xml:1623
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[2]/choice/text"
-msgstr ""
+msgstr "离开博物馆。"
 
 #: src-en/data/events_sector_aea_bird.xml:1628
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[3]/text"
 msgstr ""
+"完成最后一道题后，你收到了结果。\n"
+"结果：1/4（不及格）\n"
+"不幸的是，你没能答对所有问题。"
 
 #: src-en/data/events_sector_aea_bird.xml:1632
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[3]/choice/text"
-msgstr ""
+msgstr "离开博物馆。"
 
 #: src-en/data/events_sector_aea_bird.xml:1637
 msgid ""
@@ -1751,7 +1898,7 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1641
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[4]/choice/text"
-msgstr ""
+msgstr "离开博物馆。"
 
 #: src-en/data/events_sector_aea_bird.xml:1650
 msgid ""
@@ -1761,37 +1908,46 @@ msgstr ""
 #: src-en/data/events_sector_aea_bird.xml:1655
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[1]/choice/text"
-msgstr ""
+msgstr "离开博物馆。"
 
 #: src-en/data/events_sector_aea_bird.xml:1660
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[2]/text"
 msgstr ""
+"完成最后一道题后，你收到了结果。\n"
+"结果：3/4（不及格）\n"
+"不幸的是，你没能答对所有问题。"
 
 #: src-en/data/events_sector_aea_bird.xml:1664
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[2]/choice/text"
-msgstr ""
+msgstr "离开博物馆。"
 
 #: src-en/data/events_sector_aea_bird.xml:1669
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[3]/text"
 msgstr ""
+"完成最后一道题后，你收到了结果。\n"
+"结果：2/4（不及格）\n"
+"不幸的是，你没能答对所有问题。"
 
 #: src-en/data/events_sector_aea_bird.xml:1673
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[3]/choice/text"
-msgstr ""
+msgstr "离开博物馆。"
 
 #: src-en/data/events_sector_aea_bird.xml:1678
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[4]/text"
 msgstr ""
+"完成最后一道题后，你收到了结果。\n"
+"结果：1/4（不及格）\n"
+"不幸的是，你没能答对所有问题。"
 
 #: src-en/data/events_sector_aea_bird.xml:1682
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[4]/choice/text"
-msgstr ""
+msgstr "离开博物馆。"
 
 #: src-en/data/events_sector_aea_bird.xml:1689
 msgid ""
