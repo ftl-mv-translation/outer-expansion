@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-05 06:44+0000\n"
+"PO-Revision-Date: 2026-04-09 09:44+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/dataevents_sector_aea_birdxml/zh_Hans/>\n"
@@ -1645,7 +1645,7 @@ msgstr "离开。"
 #: src-en/data/events_sector_aea_bird.xml:1441
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEER\"]/choice[2]/text"
-msgstr ""
+msgstr "你决定无视博物馆，径直离开。"
 
 #: src-en/data/events_sector_aea_bird.xml:1443
 msgid ""
@@ -1664,37 +1664,38 @@ msgstr "跳过。"
 
 #: src-en/data/events_sector_aea_bird.xml:1457
 msgid "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/text"
-msgstr ""
+msgstr "礼品店里大多是无用的小玩意儿，但有样东西引起了你的注意。“只要填完这份简单的问"
+"卷，你就能赢取一架属于自己的情报无人机！”"
 
 #: src-en/data/events_sector_aea_bird.xml:1460
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/text"
-msgstr ""
+msgstr "尝试填写问卷。"
 
 #: src-en/data/events_sector_aea_bird.xml:1462
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/text"
-msgstr ""
+msgstr "问题1：双子无人机的最大缺点是什么？"
 
 #: src-en/data/events_sector_aea_bird.xml:1464
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "离子炮无法电离系统。"
 
 #: src-en/data/events_sector_aea_bird.xml:1468
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "额外武器带来的速度拖累。"
 
 #: src-en/data/events_sector_aea_bird.xml:1472
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "激光炮无法穿透护盾层。"
 
 #: src-en/data/events_sector_aea_bird.xml:1476
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_GIFTSHOP\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "动力源薄弱导致无人机速度减慢。"
 
 #: src-en/data/events_sector_aea_bird.xml:1482
 msgid ""
@@ -1704,7 +1705,7 @@ msgstr "离开。"
 #: src-en/data/events_sector_aea_bird.xml:1488
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/text"
-msgstr ""
+msgstr "问题2：爆裂无人机背后的主要创新是什么？"
 
 #: src-en/data/events_sector_aea_bird.xml:1490
 msgid ""
@@ -1714,22 +1715,22 @@ msgstr "多管激光炮。"
 #: src-en/data/events_sector_aea_bird.xml:1494
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/choice[2]/text"
-msgstr ""
+msgstr "自适应电源装置。"
 
 #: src-en/data/events_sector_aea_bird.xml:1498
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/choice[3]/text"
-msgstr ""
+msgstr "更高精度。"
 
 #: src-en/data/events_sector_aea_bird.xml:1502
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2_FAIL\"]/choice[4]/text"
-msgstr ""
+msgstr "更高效的无人机部件利用率。"
 
 #: src-en/data/events_sector_aea_bird.xml:1508
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/text"
-msgstr ""
+msgstr "问题2：爆裂无人机背后的主要创新是什么？"
 
 #: src-en/data/events_sector_aea_bird.xml:1510
 msgid ""
@@ -1739,37 +1740,37 @@ msgstr "多管激光炮。"
 #: src-en/data/events_sector_aea_bird.xml:1514
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/choice[2]/text"
-msgstr ""
+msgstr "自适应电源装置。"
 
 #: src-en/data/events_sector_aea_bird.xml:1518
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/choice[3]/text"
-msgstr ""
+msgstr "更高精度。"
 
 #: src-en/data/events_sector_aea_bird.xml:1522
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_2\"]/choice[4]/text"
-msgstr ""
+msgstr "更高效的无人机部件利用率。"
 
 #: src-en/data/events_sector_aea_bird.xml:1528
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/text"
-msgstr ""
+msgstr "问题3：情报无人机的定制模块有什么作用？"
 
 #: src-en/data/events_sector_aea_bird.xml:1530
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/choice[1]/text"
-msgstr ""
+msgstr "即使在星云中也能为用户提供目标的传感器视图。"
 
 #: src-en/data/events_sector_aea_bird.xml:1534
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/choice[2]/text"
-msgstr ""
+msgstr "阻止无人机瞄准无系统的舱室。"
 
 #: src-en/data/events_sector_aea_bird.xml:1538
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3_FAIL\"]/choice[3]/text"
-msgstr ""
+msgstr "在敌方舰船被命中的舱室内部署一个全息投影。"
 
 #: src-en/data/events_sector_aea_bird.xml:1542
 msgid ""
@@ -1779,22 +1780,22 @@ msgstr "允许两门武器分别锁定不同的舱室。"
 #: src-en/data/events_sector_aea_bird.xml:1548
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/text"
-msgstr ""
+msgstr "问题3：情报无人机的定制模块有什么作用？"
 
 #: src-en/data/events_sector_aea_bird.xml:1550
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/choice[1]/text"
-msgstr ""
+msgstr "即使在星云中也能为用户提供目标的传感器视图。"
 
 #: src-en/data/events_sector_aea_bird.xml:1554
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/choice[2]/text"
-msgstr ""
+msgstr "阻止无人机瞄准无系统的舱室。"
 
 #: src-en/data/events_sector_aea_bird.xml:1558
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_3\"]/choice[3]/text"
-msgstr ""
+msgstr "在敌方舰船被命中的舱室内部署一个全息投影。"
 
 #: src-en/data/events_sector_aea_bird.xml:1562
 msgid ""
@@ -1804,52 +1805,52 @@ msgstr "允许两门武器分别锁定不同的舱室。"
 #: src-en/data/events_sector_aea_bird.xml:1568
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/text"
-msgstr ""
+msgstr "问题4：生物无人机上的武器有何特殊之处？"
 
 #: src-en/data/events_sector_aea_bird.xml:1570
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/choice[1]/text"
-msgstr ""
+msgstr "激光会追踪目标舰船上的敌方船员。"
 
 #: src-en/data/events_sector_aea_bird.xml:1574
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/choice[2]/text"
-msgstr ""
+msgstr "射弹会伤害目标舱室及相邻舱室内的所有敌人。"
 
 #: src-en/data/events_sector_aea_bird.xml:1578
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/choice[3]/text"
-msgstr ""
+msgstr "激光会导致敌人爆炸，对舱室造成伤害。"
 
 #: src-en/data/events_sector_aea_bird.xml:1582
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4_FAIL\"]/choice[4]/text"
-msgstr ""
+msgstr "射弹会使敌方船员被心灵控制几秒钟。"
 
 #: src-en/data/events_sector_aea_bird.xml:1588
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/text"
-msgstr ""
+msgstr "问题4：生物无人机上的武器有何特殊之处？"
 
 #: src-en/data/events_sector_aea_bird.xml:1590
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/choice[1]/text"
-msgstr ""
+msgstr "激光会追踪目标舰船上的敌方船员。"
 
 #: src-en/data/events_sector_aea_bird.xml:1594
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/choice[2]/text"
-msgstr ""
+msgstr "射弹会伤害目标舱室及相邻舱室内的所有敌人。"
 
 #: src-en/data/events_sector_aea_bird.xml:1598
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/choice[3]/text"
-msgstr ""
+msgstr "激光会导致敌人爆炸，对舱室造成伤害。"
 
 #: src-en/data/events_sector_aea_bird.xml:1602
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_4\"]/choice[4]/text"
-msgstr ""
+msgstr "射弹会使敌方船员被心灵控制几秒钟。"
 
 #: src-en/data/events_sector_aea_bird.xml:1610
 msgid ""
@@ -1894,6 +1895,9 @@ msgstr "离开博物馆。"
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5_FAIL\"]/loadEventList/event[4]/text"
 msgstr ""
+"完成最后一道题后，你收到了结果。\n"
+"\t结果：0/4（不及格）\n"
+"不幸的是，你没能答对所有问题。"
 
 #: src-en/data/events_sector_aea_bird.xml:1641
 msgid ""
@@ -1904,6 +1908,9 @@ msgstr "离开博物馆。"
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_QUESTIONS_5\"]/loadEventList/event[1]/text"
 msgstr ""
+"完成最后一道题后，你收到了结果。\n"
+"\t结果：4/4（通过）\n"
+"成功！你答对了所有问题，并获得了一架免费的情报无人机。"
 
 #: src-en/data/events_sector_aea_bird.xml:1655
 msgid ""
@@ -1953,6 +1960,9 @@ msgstr "离开博物馆。"
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_ENGINEERING_LEAVE\"]/text"
 msgstr ""
+"正当你离开博物馆时，头顶传来一声巨大的爆炸。你蹲下躲避时，看到一架 Gi 族穿梭"
+"机正从爆炸点疾驰而去。它绕了一圈，再次对设施进行扫射。你急忙跑回飞船，准备迎"
+"战——必须有人阻止那架穿梭机！"
 
 #: src-en/data/events_sector_aea_bird.xml:1692
 msgid ""
@@ -1963,16 +1973,25 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/text"
 msgstr ""
+"当你正在拆解那架失控的无人机残骸时，另一架 Gi 族穿梭机飞到你面前，送来了一位"
+"仪表堂堂的 Gi 族工程师。“嗨，非常抱歉发生这种事，我并非有意让无人机失控跑掉……"
+"这就是给它们赋予一定智能的问题所在，你永远无法完全预测它们的反应……哦对了，我"
+"叫杰伊，是这里的总工程师。嗯——你刚才处理那架无人机处理得很棒，我有个类似的任"
+"务你或许会感兴趣，不过需要你允许我同行。”"
 
 #: src-en/data/events_sector_aea_bird.xml:1701
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/choice[1]/text"
-msgstr ""
+msgstr "同意搭载杰伊。"
 
 #: src-en/data/events_sector_aea_bird.xml:1703
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/choice[1]/event/text"
 msgstr ""
+"“太好了！我们最近得到消息，叛军已向该星区部署了一艘大型自动飞船。我们一直想弄"
+"到一个先进的叛军 AI 核心，但之前击落的叛军自动飞船都太小、太简陋了。我需要你"
+"去击败那艘大型自动飞船，然后我就能进入并提取核心。这东西防护非常严密，所以不"
+"用担心会意外把它炸毁！”"
 
 #: src-en/data/events_sector_aea_bird.xml:1708
 msgid ""
@@ -1983,16 +2002,19 @@ msgstr "礼貌地拒绝。"
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_DRONE_KILL_QUEST\"]/choice[2]/event/text"
 msgstr ""
+"“噢，太可惜了。不过还是感谢你处理了那架无人机，它的残骸你尽管拆解吧！”工程师"
+"返回了她的穿梭机，飞回了设施。你已能看到维修无人机在受损区域穿梭忙碌。"
 
 #: src-en/data/events_sector_aea_bird.xml:1720
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_JAY_AUTO_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "你所追猎的那艘大型自动飞船的最后已知位置。"
 
 #: src-en/data/events_sector_aea_bird.xml:1723
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_JAY_AUTO_QUEST\"]/text"
-msgstr ""
+msgstr "你已抵达目的地，一艘大型自动舰停在稍远处。那艘船开始朝你移动，它较小的护卫舰"
+"则留在后方观望。"
 
 #: src-en/data/events_sector_aea_bird.xml:1726
 msgid ""
@@ -2003,6 +2025,8 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/text"
 msgstr ""
+"随着自动飞船被拆解，你开始回收残骸。最终，你发现了 Gi 族总工程师杰伊一直想要"
+"的那个 AI 核心。你把它带上船交给她，她立刻近乎疯狂地开始拆解它。"
 
 #: src-en/data/events_sector_aea_bird.xml:1736
 msgid ""
@@ -2013,11 +2037,17 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/text"
 msgstr ""
+"在你的货舱里弄得一团糟之后，杰伊终于拿着一个数据棒出现了。“啊哈，我终于拿到了"
+"叛军使用的 AI，至少是控制那艘自动飞船的那部分。”她开始从你的船上将其上传至工"
+"程设施。\n"
+"\n"
+"“说起来，这还挺有趣的。你愿意让我加入你的船员队伍吗？我一直想出去看看宇宙的其"
+"余部分。而且，你似乎很擅长拆解敌方舰船，我也很想看看其他人是怎么造船的。”"
 
 #: src-en/data/events_sector_aea_bird.xml:1743
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "同意她加入船员队伍"
 
 #: src-en/data/events_sector_aea_bird.xml:1745
 msgid ""
@@ -2027,14 +2057,14 @@ msgstr "欢迎入舰！"
 #: src-en/data/events_sector_aea_bird.xml:1746
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[1]/event/crewMember"
-msgstr ""
+msgstr "杰伊"
 
 #: src-en/data/events_sector_aea_bird.xml:1750
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "婉言谢绝"
 
 #: src-en/data/events_sector_aea_bird.xml:1752
 msgid ""
 "data/events_sector_aea_bird.xml$//event[@name=\"AEA_BIRD_AUTO_BOSS_KILL\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "你将她送到了附近的一个 Gi 族空间站。"
