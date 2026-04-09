@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-04-09 09:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/dataevents_sector_aea_necroxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_aea_necro.xml:28
 msgid ""
@@ -23,7 +30,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_necro.xml:56
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/text"
-msgstr ""
+msgstr "你在一颗卫星的轨道上发现了一艘被遗弃的异教徒飞船。飞船上没有任何活动迹象。"
 
 #: src-en/data/events_sector_aea_necro.xml:59
 msgid ""
@@ -34,6 +41,9 @@ msgstr "登舰调查。"
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi_defender\"]/event/text"
 msgstr ""
+"当你登上飞船时，发现了一幅可怕的场景。你的精英半械族在检查现场时，突然开始抽"
+"搐。他们似乎触碰了一具半械异教徒的尸体，并感染了某种病毒。你的半械族已被替换"
+"为一名精英半械异教徒。"
 
 #: src-en/data/events_sector_aea_necro.xml:64
 msgid ""
@@ -49,6 +59,9 @@ msgstr "登舰调查。"
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi\"]/event/text"
 msgstr ""
+"当你登上飞船时，发现了一幅可怕的场景。你的半械族在检查现场时，突然开始抽搐。"
+"他们似乎触碰了一具半械异教徒的尸体，并感染了某种病毒。你的半械族已被替换为一"
+"名半械异教徒。"
 
 #: src-en/data/events_sector_aea_necro.xml:75
 msgid ""
@@ -64,6 +77,9 @@ msgstr "登舰调查。"
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi_separatist\"]/event/text"
 msgstr ""
+"当你登上飞船时，发现了一幅可怕的场景。你的半械族在检查现场时，突然开始抽搐。"
+"他们似乎触碰了一具半械异教徒的尸体，并感染了某种病毒。你的半械族已被替换为一"
+"名半械异教徒。"
 
 #: src-en/data/events_sector_aea_necro.xml:86
 msgid ""
@@ -79,6 +95,9 @@ msgstr "登舰调查。"
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_VIRUS_TRAP\"]/choice[@req=\"engi_separatist_nano\"]/event/text"
 msgstr ""
+"当你登上飞船时，发现了一幅可怕的场景。你的半械族在检查现场时，突然开始抽搐。"
+"他们似乎触碰了一具半械异教徒的尸体，并感染了某种病毒。你的半械族已被替换为一"
+"名半械异教徒。"
 
 #: src-en/data/events_sector_aea_necro.xml:97
 msgid ""
@@ -149,35 +168,38 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_necro.xml:155
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现一艘受损的异教徒飞船在虚空中漂流。一名半械异教徒向你发出通讯"
+"：“变元者，我需要一艘【新】飞船。你需要【新】船员吗？”"
 
 #: src-en/data/events_sector_aea_necro.xml:157
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "同意登舰。"
 
 #: src-en/data/events_sector_aea_necro.xml:159
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "半械异教徒在登船时检查了你的船员，但没有发现任何有机船员。它对你的船员感到满"
+"意，心甘情愿地服从了你。"
 
 #: src-en/data/events_sector_aea_necro.xml:164
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[@req=\"LIST_CREW_ORGANIC_AEA_NECRO\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "同意登舰。"
 
 #: src-en/data/events_sector_aea_necro.xml:168
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[3]/text"
-msgstr ""
+msgstr "拒绝他的提议。"
 
 #: src-en/data/events_sector_aea_necro.xml:170
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_FREE_CREW\"]/choice[3]/event/text"
-msgstr ""
+msgstr "半械异教徒对你的拒绝似乎有些恼怒，但当它注意到视频背景中有一名有机船员时，又"
+"显得松了口气。"
 
 #: src-en/data/events_sector_aea_necro.xml:172
 msgid ""
@@ -193,6 +215,9 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_FREE_CREW_ORGANIC\"]/event[1]/text"
 msgstr ""
+"当半械异教徒登上你的飞船时，它审视了你的船员。它注意到了你的有机船员，说道：“"
+"【有机物】令人作呕，不过我对【新】飞船的需求，胜过对你们【恶心】有机物的鄙夷"
+"。”"
 
 #: src-en/data/events_sector_aea_necro.xml:187
 msgid ""
@@ -202,7 +227,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_necro.xml:192
 msgid ""
 "data/events_sector_aea_necro.xml$//eventList[@name=\"AEA_NECRO_FREE_CREW_ORGANIC\"]/event[2]/text"
-msgstr ""
+msgstr "当半械异教徒登上你的飞船时，它审视了你的船员。它注意到了你的有机船员，说道：“"
+"【有机物】令人作呕，我要回到我【受损】的船上去。”"
 
 #: src-en/data/events_sector_aea_necro.xml:194
 msgid ""
@@ -212,7 +238,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_necro.xml:202
 msgid ""
 "data/events_sector_aea_necro.xml$//event[@name=\"AEA_NECRO_WRECK_EXPLODING\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现一艘大型异教徒飞船的残骸正被小行星的持续撞击瓦解。"
 
 #: src-en/data/events_sector_aea_necro.xml:207
 msgid ""
