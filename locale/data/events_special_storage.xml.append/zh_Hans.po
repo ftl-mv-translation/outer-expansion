@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-04-10 14:44+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/dataevents_special_storagexmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -113,7 +120,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:86
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELDS\"]/choice[5]/text"
 msgstr "算了。"
@@ -141,7 +147,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:108
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_LINKER\"]/choice[@req=\"EX_AEA_SUPER_SHIELD_LINKER\"]/text"
-msgstr ""
+msgstr "将外置装置内置化安装。"
 
 #: src-en/data/events_special_storage.xml.append:110
 msgid ""
@@ -154,7 +160,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:119
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_LINKER\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -182,7 +187,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:147
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_OVERCHARGER\"]/choice[@req=\"EX_AEA_SUPER_SHIELD_OVERCHARGER\"]/text"
-msgstr ""
+msgstr "将外置装置内置化安装。"
 
 #: src-en/data/events_special_storage.xml.append:149
 msgid ""
@@ -195,7 +200,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:158
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_OVERCHARGER\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -236,7 +240,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:192
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME\"]/choice[6]/text"
 msgstr "算了。"
@@ -264,7 +267,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:214
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_LIFETIME\"]/choice[@req=\"EX_AEA_CLONE_CRIME_LIFETIME\"]/text"
-msgstr ""
+msgstr "将外置装置内置化安装。"
 
 #: src-en/data/events_special_storage.xml.append:216
 msgid ""
@@ -277,7 +280,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:225
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_LIFETIME\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -305,7 +307,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:253
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_BUFF\"]/choice[@req=\"EX_AEA_CLONE_CRIME_BUFF\"]/text"
-msgstr ""
+msgstr "将外置装置内置化安装。"
 
 #: src-en/data/events_special_storage.xml.append:255
 msgid ""
@@ -318,7 +320,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:264
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_BUFF\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -388,7 +389,6 @@ msgid ""
 msgstr "必须先升级实验室才能配置该特质。"
 
 #: src-en/data/events_special_storage.xml.append:334
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_COMMUNION\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -396,10 +396,9 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/text"
-msgstr ""
+msgstr "你想做什么？"
 
 #: src-en/data/events_special_storage.xml.append:347
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[1]/text"
 msgstr "算了。"
@@ -412,7 +411,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:353
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi\"]/event/text"
-msgstr ""
+msgstr "你看到你的半械族被一团纳米蜂群包围，对半械族来说，这似乎不太好受。"
 
 #: src-en/data/events_special_storage.xml.append:359
 msgid ""
@@ -427,7 +426,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:367
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist\"]/event/text"
-msgstr ""
+msgstr "你看到你的半械族被一团纳米蜂群包围，对半械族来说，这似乎不太好受。"
 
 #: src-en/data/events_special_storage.xml.append:373
 msgid ""
@@ -442,7 +441,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:381
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist_nano\"]/event/text"
-msgstr ""
+msgstr "你看到你的半械族被一团纳米蜂群包围，对半械族来说，这似乎不太好受。"
 
 #: src-en/data/events_special_storage.xml.append:387
 msgid ""
@@ -457,7 +456,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:395
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_defender\"]/event/text"
-msgstr ""
+msgstr "你看到你的半械族被一团纳米蜂群包围，对半械族来说，这似乎不太好受。"
 
 #: src-en/data/events_special_storage.xml.append:401
 msgid ""
@@ -593,10 +592,9 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:529
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/text"
-msgstr ""
+msgstr "你想做什么？"
 
 #: src-en/data/events_special_storage.xml.append:532
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[1]/text"
 msgstr "算了。"
@@ -634,10 +632,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:563
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/text"
-msgstr ""
+msgstr "你想做什么？"
 
 #: src-en/data/events_special_storage.xml.append:566
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[1]/text"
 msgstr "算了。"
@@ -675,7 +672,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:604
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_MISSILE\"]/text"
-msgstr ""
+msgstr "你确定要更改无人机的设置吗？"
 
 #: src-en/data/events_special_storage.xml.append:606
 msgid ""
@@ -710,7 +707,7 @@ msgstr "返回到切换菜单。"
 #: src-en/data/events_special_storage.xml.append:629
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO_DRONE\"]/text"
-msgstr ""
+msgstr "你确定要更改无人机的设置吗？"
 
 #: src-en/data/events_special_storage.xml.append:631
 msgid ""
@@ -745,7 +742,7 @@ msgstr "返回到切换菜单。"
 #: src-en/data/events_special_storage.xml.append:662
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_MISSILE\"]/text"
-msgstr ""
+msgstr "你确定要更改无人机的设置吗？"
 
 #: src-en/data/events_special_storage.xml.append:664
 msgid ""
@@ -780,7 +777,7 @@ msgstr "返回到切换菜单。"
 #: src-en/data/events_special_storage.xml.append:687
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_DEFENSE_NECRO2_DRONE\"]/text"
-msgstr ""
+msgstr "你确定要更改无人机的设置吗？"
 
 #: src-en/data/events_special_storage.xml.append:689
 msgid ""
@@ -815,7 +812,7 @@ msgstr "返回到切换菜单。"
 #: src-en/data/events_special_storage.xml.append:720
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_LASER\"]/text"
-msgstr ""
+msgstr "你确定要更改无人机的设置吗？"
 
 #: src-en/data/events_special_storage.xml.append:722
 msgid ""
@@ -850,7 +847,7 @@ msgstr "返回到切换菜单。"
 #: src-en/data/events_special_storage.xml.append:745
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_1_BEAM\"]/text"
-msgstr ""
+msgstr "你确定要更改无人机的设置吗？"
 
 #: src-en/data/events_special_storage.xml.append:747
 msgid ""
@@ -885,7 +882,7 @@ msgstr "返回到切换菜单。"
 #: src-en/data/events_special_storage.xml.append:777
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_LASER\"]/text"
-msgstr ""
+msgstr "你确定要更改无人机的设置吗？"
 
 #: src-en/data/events_special_storage.xml.append:779
 msgid ""
@@ -920,7 +917,7 @@ msgstr "返回到切换菜单。"
 #: src-en/data/events_special_storage.xml.append:802
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_COMBAT_NECRO_2_BEAM\"]/text"
-msgstr ""
+msgstr "你确定要更改无人机的设置吗？"
 
 #: src-en/data/events_special_storage.xml.append:804
 msgid ""
@@ -982,7 +979,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:850
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO\"]/choice[3]/text"
 msgstr "算了。"
@@ -1017,7 +1013,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:876
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1230,7 +1225,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1067
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[41]/text"
 msgstr "算了。"
@@ -1243,13 +1237,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1076
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1080
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/choice[@req=\"aea_can_upgrade_shields\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1082
 msgid ""
@@ -1270,7 +1264,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1098
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1283,13 +1276,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1111
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1115
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/choice[@req=\"aea_can_upgrade_engines\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1117
 msgid ""
@@ -1310,7 +1303,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1133
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1323,13 +1315,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1146
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1150
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/choice[@req=\"aea_can_upgrade_weapons\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1152
 msgid ""
@@ -1350,7 +1342,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1168
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1363,13 +1354,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1181
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1185
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/choice[@req=\"aea_can_upgrade_drones\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1187
 msgid ""
@@ -1390,7 +1381,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1203
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1403,13 +1393,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1216
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1220
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/choice[@req=\"aea_can_upgrade_cloaking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1222
 msgid ""
@@ -1430,7 +1420,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1238
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1443,13 +1432,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1251
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1255
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/choice[@req=\"aea_can_upgrade_mind\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1257
 msgid ""
@@ -1470,7 +1459,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1273
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1483,13 +1471,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1286
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1290
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/choice[@req=\"aea_can_upgrade_hacking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1292
 msgid ""
@@ -1510,7 +1498,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1308
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1523,13 +1510,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1321
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1325
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/choice[@req=\"aea_can_upgrade_medbay\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1327
 msgid ""
@@ -1550,7 +1537,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1343
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1563,13 +1549,13 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1357
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/choice[@req=\"AEA_COMPONENT_OLD\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1361
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/choice[@req=\"aea_can_upgrade_clonebay\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "进行升级。[消耗：120~，高科技组件]"
 
 #: src-en/data/events_special_storage.xml.append:1363
 msgid ""
@@ -1590,7 +1576,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1379
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1625,7 +1610,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1410
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -1813,10 +1797,9 @@ msgstr "返回到切换菜单。"
 #: src-en/data/events_special_storage.xml.append:1564
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/text"
-msgstr ""
+msgstr "你想做什么？"
 
 #: src-en/data/events_special_storage.xml.append:1567
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[1]/text"
 msgstr "算了。"
@@ -1832,7 +1815,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1575
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[1]/text"
 msgstr "算了。"
@@ -1845,7 +1827,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1581
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_01\"]/event/text"
-msgstr ""
+msgstr "你的教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:1587
 msgid ""
@@ -1855,7 +1837,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1589
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_02\"]/event/text"
-msgstr ""
+msgstr "你的教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:1595
 msgid ""
@@ -1865,7 +1847,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1597
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/event/text"
-msgstr ""
+msgstr "你的教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:1603
 msgid ""
@@ -1875,7 +1857,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1605
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/event/text"
-msgstr ""
+msgstr "你的教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:1611
 msgid ""
@@ -1885,7 +1867,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1613
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/event/text"
-msgstr ""
+msgstr "你的教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:1619
 msgid ""
@@ -1895,7 +1877,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1621
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/event/text"
-msgstr ""
+msgstr "你的教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:1627
 msgid ""
@@ -1905,7 +1887,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1629
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_07\"]/event/text"
-msgstr ""
+msgstr "你的教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:1635
 msgid ""
@@ -1915,7 +1897,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1637
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/event/text"
-msgstr ""
+msgstr "你的教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:1643
 msgid ""
@@ -1925,7 +1907,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1645
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/event/text"
-msgstr ""
+msgstr "你的教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:1651
 msgid ""
@@ -1935,7 +1917,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1653
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_10\"]/event/text"
-msgstr ""
+msgstr "你的教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:1659
 msgid ""
@@ -1945,7 +1927,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1661
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_11\"]/event/text"
-msgstr ""
+msgstr "你的教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:1667
 msgid ""
@@ -1955,7 +1937,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1669
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/event/text"
-msgstr ""
+msgstr "你的教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:1675
 msgid ""
@@ -1965,7 +1947,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1677
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/event/text"
-msgstr ""
+msgstr "你的教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:1683
 msgid ""
@@ -1975,7 +1957,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1685
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/event/text"
-msgstr ""
+msgstr "你的教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:1691
 msgid ""
@@ -1985,7 +1967,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1693
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/event/text"
-msgstr ""
+msgstr "你的教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:1701
 msgid ""
@@ -1995,20 +1977,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1703
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a01\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的法"
+"术。"
 
 #: src-en/data/events_special_storage.xml.append:1705
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a01\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:1707
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a01\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:1713
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a01\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2021,20 +2003,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1721
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a02\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的法"
+"术。"
 
 #: src-en/data/events_special_storage.xml.append:1723
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a02\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:1725
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a02\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:1731
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a02\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2047,20 +2029,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1739
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s03\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的法"
+"术。"
 
 #: src-en/data/events_special_storage.xml.append:1741
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s03\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:1743
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s03\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:1749
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s03\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2073,20 +2055,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1757
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s04\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的法"
+"术。"
 
 #: src-en/data/events_special_storage.xml.append:1759
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s04\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:1761
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s04\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:1767
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s04\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2099,20 +2081,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1775
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s05\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的法"
+"术。"
 
 #: src-en/data/events_special_storage.xml.append:1777
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s05\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:1779
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s05\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:1785
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s05\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2125,20 +2107,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1793
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s06\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的法"
+"术。"
 
 #: src-en/data/events_special_storage.xml.append:1795
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s06\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:1797
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s06\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:1803
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s06\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2151,20 +2133,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1811
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a07\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的法"
+"术。"
 
 #: src-en/data/events_special_storage.xml.append:1813
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a07\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:1815
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a07\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:1821
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a07\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2177,20 +2159,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s08\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的法"
+"术。"
 
 #: src-en/data/events_special_storage.xml.append:1831
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s08\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:1833
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s08\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:1839
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s08\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2203,20 +2185,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1847
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s09\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的法"
+"术。"
 
 #: src-en/data/events_special_storage.xml.append:1849
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s09\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:1851
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s09\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:1857
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s09\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2229,20 +2211,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1865
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a10\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的法"
+"术。"
 
 #: src-en/data/events_special_storage.xml.append:1867
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a10\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:1869
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a10\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:1875
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a10\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2255,20 +2237,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1883
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a11\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的法"
+"术。"
 
 #: src-en/data/events_special_storage.xml.append:1885
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a11\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:1887
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a11\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:1893
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a11\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2281,20 +2263,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1901
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s12\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的法"
+"术。"
 
 #: src-en/data/events_special_storage.xml.append:1903
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s12\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:1905
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s12\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:1911
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s12\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2307,20 +2289,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1919
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s13\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的法"
+"术。"
 
 #: src-en/data/events_special_storage.xml.append:1921
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s13\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:1923
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s13\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:1929
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s13\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2333,20 +2315,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1937
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s14\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的法"
+"术。"
 
 #: src-en/data/events_special_storage.xml.append:1939
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s14\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:1941
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s14\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:1947
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s14\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2359,20 +2341,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1955
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s15\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的法"
+"术。"
 
 #: src-en/data/events_special_storage.xml.append:1957
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s15\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:1959
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s15\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:1965
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s15\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2380,10 +2362,9 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1977
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/text"
-msgstr ""
+msgstr "你想做什么？"
 
 #: src-en/data/events_special_storage.xml.append:1980
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[1]/text"
 msgstr "算了。"
@@ -2399,7 +2380,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:1988
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[1]/text"
 msgstr "算了。"
@@ -2412,7 +2392,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1994
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/event/text"
-msgstr ""
+msgstr "你成功将法术融入武器之中。"
 
 #: src-en/data/events_special_storage.xml.append:1997
 msgid ""
@@ -2422,7 +2402,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:1999
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/event/choice/event/text"
-msgstr ""
+msgstr "武器嗡鸣作响，充满了力量。"
 
 #: src-en/data/events_special_storage.xml.append:2007
 msgid ""
@@ -2432,7 +2412,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2009
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/event/text"
-msgstr ""
+msgstr "你成功将法术融入武器之中。"
 
 #: src-en/data/events_special_storage.xml.append:2012
 msgid ""
@@ -2442,7 +2422,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2014
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/event/choice/event/text"
-msgstr ""
+msgstr "武器嗡鸣作响，充满了力量。"
 
 #: src-en/data/events_special_storage.xml.append:2022
 msgid ""
@@ -2452,7 +2432,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2024
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/event/text"
-msgstr ""
+msgstr "你成功将法术融入武器之中。"
 
 #: src-en/data/events_special_storage.xml.append:2027
 msgid ""
@@ -2462,7 +2442,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2029
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/event/choice/event/text"
-msgstr ""
+msgstr "武器嗡鸣作响，充满了力量。"
 
 #: src-en/data/events_special_storage.xml.append:2037
 msgid ""
@@ -2472,7 +2452,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2039
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/event/text"
-msgstr ""
+msgstr "你成功将法术融入武器之中。"
 
 #: src-en/data/events_special_storage.xml.append:2042
 msgid ""
@@ -2482,7 +2462,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2044
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/event/choice/event/text"
-msgstr ""
+msgstr "武器嗡鸣作响，充满了力量。"
 
 #: src-en/data/events_special_storage.xml.append:2052
 msgid ""
@@ -2492,7 +2472,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2054
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/event/text"
-msgstr ""
+msgstr "你成功将法术融入武器之中。"
 
 #: src-en/data/events_special_storage.xml.append:2057
 msgid ""
@@ -2502,7 +2482,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2059
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/event/choice/event/text"
-msgstr ""
+msgstr "武器嗡鸣作响，充满了力量。"
 
 #: src-en/data/events_special_storage.xml.append:2067
 msgid ""
@@ -2512,7 +2492,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2069
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/event/text"
-msgstr ""
+msgstr "你成功将法术融入武器之中。"
 
 #: src-en/data/events_special_storage.xml.append:2072
 msgid ""
@@ -2522,7 +2502,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2074
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/event/choice/event/text"
-msgstr ""
+msgstr "武器嗡鸣作响，充满了力量。"
 
 #: src-en/data/events_special_storage.xml.append:2082
 msgid ""
@@ -2532,7 +2512,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2084
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/event/text"
-msgstr ""
+msgstr "你成功将法术融入武器之中。"
 
 #: src-en/data/events_special_storage.xml.append:2087
 msgid ""
@@ -2542,7 +2522,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2089
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/event/choice/event/text"
-msgstr ""
+msgstr "武器嗡鸣作响，充满了力量。"
 
 #: src-en/data/events_special_storage.xml.append:2097
 msgid ""
@@ -2552,7 +2532,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2099
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/event/text"
-msgstr ""
+msgstr "你成功将法术融入武器之中。"
 
 #: src-en/data/events_special_storage.xml.append:2102
 msgid ""
@@ -2562,7 +2542,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2104
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/event/choice/event/text"
-msgstr ""
+msgstr "武器嗡鸣作响，充满了力量。"
 
 #: src-en/data/events_special_storage.xml.append:2112
 msgid ""
@@ -2572,7 +2552,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2114
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/event/text"
-msgstr ""
+msgstr "你成功将法术融入武器之中。"
 
 #: src-en/data/events_special_storage.xml.append:2117
 msgid ""
@@ -2582,7 +2562,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2119
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/event/choice/event/text"
-msgstr ""
+msgstr "武器嗡鸣作响，充满了力量。"
 
 #: src-en/data/events_special_storage.xml.append:2127
 msgid ""
@@ -2592,7 +2572,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2129
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/event/text"
-msgstr ""
+msgstr "你成功将法术融入武器之中。"
 
 #: src-en/data/events_special_storage.xml.append:2132
 msgid ""
@@ -2602,7 +2582,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2134
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/event/choice/event/text"
-msgstr ""
+msgstr "武器嗡鸣作响，充满了力量。"
 
 #: src-en/data/events_special_storage.xml.append:2144
 msgid ""
@@ -2612,17 +2592,18 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2146
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这件武器的法术吗？重置后原有法术将会消失，但你可以为武器装备一个"
+"新的法术。"
 
 #: src-en/data/events_special_storage.xml.append:2148
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2150
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你重置了武器，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2153
 msgid ""
@@ -2632,7 +2613,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2155
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "没有了法术，这件武器黯然失色。"
 
 #: src-en/data/events_special_storage.xml.append:2158
 msgid ""
@@ -2642,10 +2623,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2160
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你从武器中取回了法术。"
 
 #: src-en/data/events_special_storage.xml.append:2169
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2658,17 +2638,18 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2177
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这件武器的法术吗？重置后原有法术将会消失，但你可以为武器装备一个"
+"新的法术。"
 
 #: src-en/data/events_special_storage.xml.append:2179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2181
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你重置了武器，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2184
 msgid ""
@@ -2678,7 +2659,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2186
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "没有了法术，这件武器黯然失色。"
 
 #: src-en/data/events_special_storage.xml.append:2189
 msgid ""
@@ -2688,10 +2669,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2191
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你从武器中取回了法术。"
 
 #: src-en/data/events_special_storage.xml.append:2200
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2704,17 +2684,18 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2208
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这件武器的法术吗？重置后原有法术将会消失，但你可以为武器装备一个"
+"新的法术。"
 
 #: src-en/data/events_special_storage.xml.append:2210
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2212
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你重置了武器，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2215
 msgid ""
@@ -2724,7 +2705,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2217
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "没有了法术，这件武器黯然失色。"
 
 #: src-en/data/events_special_storage.xml.append:2220
 msgid ""
@@ -2734,10 +2715,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2222
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你从武器中取回了法术。"
 
 #: src-en/data/events_special_storage.xml.append:2231
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2750,17 +2730,18 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2239
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这件武器的法术吗？重置后原有法术将会消失，但你可以为武器装备一个"
+"新的法术。"
 
 #: src-en/data/events_special_storage.xml.append:2241
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2243
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你重置了武器，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2246
 msgid ""
@@ -2770,7 +2751,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2248
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "没有了法术，这件武器黯然失色。"
 
 #: src-en/data/events_special_storage.xml.append:2251
 msgid ""
@@ -2780,10 +2761,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2253
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你从武器中取回了法术。"
 
 #: src-en/data/events_special_storage.xml.append:2262
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2796,17 +2776,18 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2270
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这件武器的法术吗？重置后原有法术将会消失，但你可以为武器装备一个"
+"新的法术。"
 
 #: src-en/data/events_special_storage.xml.append:2272
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你重置了武器，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2277
 msgid ""
@@ -2816,7 +2797,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2279
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "没有了法术，这件武器黯然失色。"
 
 #: src-en/data/events_special_storage.xml.append:2282
 msgid ""
@@ -2826,10 +2807,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2284
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你从武器中取回了法术。"
 
 #: src-en/data/events_special_storage.xml.append:2293
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2842,17 +2822,18 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2301
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这件武器的法术吗？重置后原有法术将会消失，但你可以为武器装备一个"
+"新的法术。"
 
 #: src-en/data/events_special_storage.xml.append:2303
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2305
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你重置了武器，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2308
 msgid ""
@@ -2862,7 +2843,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "没有了法术，这件武器黯然失色。"
 
 #: src-en/data/events_special_storage.xml.append:2313
 msgid ""
@@ -2872,10 +2853,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2315
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你从武器中取回了法术。"
 
 #: src-en/data/events_special_storage.xml.append:2324
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2888,17 +2868,18 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2332
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这件武器的法术吗？重置后原有法术将会消失，但你可以为武器装备一个"
+"新的法术。"
 
 #: src-en/data/events_special_storage.xml.append:2334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2336
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你重置了武器，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2339
 msgid ""
@@ -2908,7 +2889,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2341
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "没有了法术，这件武器黯然失色。"
 
 #: src-en/data/events_special_storage.xml.append:2344
 msgid ""
@@ -2918,10 +2899,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你从武器中取回了法术。"
 
 #: src-en/data/events_special_storage.xml.append:2355
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2934,17 +2914,18 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2363
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这件武器的法术吗？重置后原有法术将会消失，但你可以为武器装备一个"
+"新的法术。"
 
 #: src-en/data/events_special_storage.xml.append:2365
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2367
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你重置了武器，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2370
 msgid ""
@@ -2954,7 +2935,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "没有了法术，这件武器黯然失色。"
 
 #: src-en/data/events_special_storage.xml.append:2375
 msgid ""
@@ -2964,10 +2945,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2377
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你从武器中取回了法术。"
 
 #: src-en/data/events_special_storage.xml.append:2386
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -2980,17 +2960,18 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这件武器的法术吗？重置后原有法术将会消失，但你可以为武器装备一个"
+"新的法术。"
 
 #: src-en/data/events_special_storage.xml.append:2396
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2398
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你重置了武器，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2401
 msgid ""
@@ -3000,7 +2981,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2403
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "没有了法术，这件武器黯然失色。"
 
 #: src-en/data/events_special_storage.xml.append:2406
 msgid ""
@@ -3010,10 +2991,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2408
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你从武器中取回了法术。"
 
 #: src-en/data/events_special_storage.xml.append:2417
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3026,17 +3006,18 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2425
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这件武器的法术吗？重置后原有法术将会消失，但你可以为武器装备一个"
+"新的法术。"
 
 #: src-en/data/events_special_storage.xml.append:2427
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2429
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你重置了武器，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2432
 msgid ""
@@ -3046,7 +3027,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2434
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "没有了法术，这件武器黯然失色。"
 
 #: src-en/data/events_special_storage.xml.append:2437
 msgid ""
@@ -3056,10 +3037,9 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:2439
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你从武器中取回了法术。"
 
 #: src-en/data/events_special_storage.xml.append:2448
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3067,10 +3047,9 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2456
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/text"
-msgstr ""
+msgstr "你想做什么？"
 
 #: src-en/data/events_special_storage.xml.append:2459
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[1]/text"
 msgstr "算了。"
@@ -3086,7 +3065,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2467
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[1]/text"
 msgstr "算了。"
@@ -3099,7 +3077,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2473
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_01\"]/event/text"
-msgstr ""
+msgstr "你的小教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:2479
 msgid ""
@@ -3109,7 +3087,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2481
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_02\"]/event/text"
-msgstr ""
+msgstr "你的小教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:2487
 msgid ""
@@ -3119,7 +3097,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2489
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/event/text"
-msgstr ""
+msgstr "你的小教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:2495
 msgid ""
@@ -3129,7 +3107,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2497
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/event/text"
-msgstr ""
+msgstr "你的小教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:2503
 msgid ""
@@ -3139,7 +3117,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2505
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/event/text"
-msgstr ""
+msgstr "你的小教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:2511
 msgid ""
@@ -3149,7 +3127,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2513
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/event/text"
-msgstr ""
+msgstr "你的小教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:2519
 msgid ""
@@ -3159,7 +3137,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2521
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_07\"]/event/text"
-msgstr ""
+msgstr "你的小教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:2527
 msgid ""
@@ -3169,7 +3147,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2529
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/event/text"
-msgstr ""
+msgstr "你的小教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:2535
 msgid ""
@@ -3179,7 +3157,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2537
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/event/text"
-msgstr ""
+msgstr "你的小教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:2543
 msgid ""
@@ -3189,7 +3167,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2545
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_10\"]/event/text"
-msgstr ""
+msgstr "你的小教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:2551
 msgid ""
@@ -3199,7 +3177,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2553
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_11\"]/event/text"
-msgstr ""
+msgstr "你的小教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:2559
 msgid ""
@@ -3209,7 +3187,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2561
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/event/text"
-msgstr ""
+msgstr "你的小教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:2567
 msgid ""
@@ -3219,7 +3197,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2569
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/event/text"
-msgstr ""
+msgstr "你的小教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:2575
 msgid ""
@@ -3229,7 +3207,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2577
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/event/text"
-msgstr ""
+msgstr "你的小教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:2583
 msgid ""
@@ -3239,7 +3217,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2585
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/event/text"
-msgstr ""
+msgstr "你的小教徒将新法术装备到了法杖上。"
 
 #: src-en/data/events_special_storage.xml.append:2593
 msgid ""
@@ -3249,20 +3227,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2595
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a01\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名小教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的"
+"法术。"
 
 #: src-en/data/events_special_storage.xml.append:2597
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a01\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2599
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a01\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的小教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2605
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a01\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3275,20 +3253,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2613
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a02\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名小教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的"
+"法术。"
 
 #: src-en/data/events_special_storage.xml.append:2615
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a02\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2617
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a02\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的小教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2623
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a02\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3301,20 +3279,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2631
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s03\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名小教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的"
+"法术。"
 
 #: src-en/data/events_special_storage.xml.append:2633
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s03\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2635
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s03\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的小教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2641
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s03\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3327,20 +3305,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2649
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s04\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名小教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的"
+"法术。"
 
 #: src-en/data/events_special_storage.xml.append:2651
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s04\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2653
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s04\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的小教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2659
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s04\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3353,20 +3331,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2667
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s05\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名小教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的"
+"法术。"
 
 #: src-en/data/events_special_storage.xml.append:2669
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s05\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2671
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s05\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的小教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2677
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s05\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3379,20 +3357,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2685
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s06\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名小教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的"
+"法术。"
 
 #: src-en/data/events_special_storage.xml.append:2687
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s06\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2689
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s06\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的小教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2695
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s06\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3405,20 +3383,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2703
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a07\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名小教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的"
+"法术。"
 
 #: src-en/data/events_special_storage.xml.append:2705
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a07\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2707
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a07\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的小教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2713
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a07\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3431,20 +3409,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2721
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s08\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名小教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的"
+"法术。"
 
 #: src-en/data/events_special_storage.xml.append:2723
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s08\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2725
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s08\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的小教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2731
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s08\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3457,20 +3435,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2739
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s09\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名小教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的"
+"法术。"
 
 #: src-en/data/events_special_storage.xml.append:2741
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s09\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2743
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s09\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的小教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2749
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s09\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3483,20 +3461,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2757
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a10\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名小教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的"
+"法术。"
 
 #: src-en/data/events_special_storage.xml.append:2759
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a10\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2761
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a10\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的小教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2767
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a10\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3509,20 +3487,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2775
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a11\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名小教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的"
+"法术。"
 
 #: src-en/data/events_special_storage.xml.append:2777
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a11\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2779
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a11\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的小教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2785
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a11\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3535,20 +3513,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2793
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s12\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名小教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的"
+"法术。"
 
 #: src-en/data/events_special_storage.xml.append:2795
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s12\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2797
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s12\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的小教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2803
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s12\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3561,20 +3539,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2811
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s13\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名小教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的"
+"法术。"
 
 #: src-en/data/events_special_storage.xml.append:2813
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s13\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2815
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s13\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的小教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2821
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s13\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3587,20 +3565,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s14\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名小教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的"
+"法术。"
 
 #: src-en/data/events_special_storage.xml.append:2831
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s14\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2833
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s14\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的小教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2839
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s14\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3613,20 +3591,20 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2847
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s15\"]/event/text"
-msgstr ""
+msgstr "你确定要重置这名小教徒的法术吗？重置后原有法术将会消失，但你可以教他一个新的"
+"法术。"
 
 #: src-en/data/events_special_storage.xml.append:2849
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s15\"]/event/choice[1]/text"
-msgstr ""
+msgstr "重置。"
 
 #: src-en/data/events_special_storage.xml.append:2851
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s15\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的小教徒重置了法杖，失去了之前装备的所有法术。"
 
 #: src-en/data/events_special_storage.xml.append:2857
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s15\"]/event/choice[2]/text"
 msgstr "算了。"
@@ -3634,7 +3612,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2872
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_LASER\"]/text"
-msgstr ""
+msgstr "你确定要更改无人机的设置吗？"
 
 #: src-en/data/events_special_storage.xml.append:2874
 msgid ""
@@ -3669,7 +3647,7 @@ msgstr "返回到切换菜单。"
 #: src-en/data/events_special_storage.xml.append:2897
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_1_BEAM\"]/text"
-msgstr ""
+msgstr "你确定要更改无人机的设置吗？"
 
 #: src-en/data/events_special_storage.xml.append:2899
 msgid ""
@@ -3704,7 +3682,7 @@ msgstr "返回到切换菜单。"
 #: src-en/data/events_special_storage.xml.append:2930
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LASER\"]/text"
-msgstr ""
+msgstr "你确定要更改无人机的设置吗？"
 
 #: src-en/data/events_special_storage.xml.append:2932
 msgid ""
@@ -3739,7 +3717,7 @@ msgstr "返回到切换菜单。"
 #: src-en/data/events_special_storage.xml.append:2955
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_BEAM\"]/text"
-msgstr ""
+msgstr "你确定要更改无人机的设置吗？"
 
 #: src-en/data/events_special_storage.xml.append:2957
 msgid ""
@@ -3774,7 +3752,7 @@ msgstr "返回到切换菜单。"
 #: src-en/data/events_special_storage.xml.append:2989
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_LASER\"]/text"
-msgstr ""
+msgstr "你确定要更改无人机的设置吗？"
 
 #: src-en/data/events_special_storage.xml.append:2991
 msgid ""
@@ -3809,7 +3787,7 @@ msgstr "返回到切换菜单。"
 #: src-en/data/events_special_storage.xml.append:3014
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_MULTI_2_LOOT_BEAM\"]/text"
-msgstr ""
+msgstr "你确定要更改无人机的设置吗？"
 
 #: src-en/data/events_special_storage.xml.append:3016
 msgid ""
@@ -3854,7 +3832,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3054
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你将机器功率调到最大，看着一道裂隙打开，整艘船剧烈摇晃，直到它突然断电。随后"
+"，一道闪烁的绿光和一连串坐标出现，表明它已经成功了。"
 
 #: src-en/data/events_special_storage.xml.append:3062
 msgid ""
@@ -3864,7 +3843,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3064
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你将机器功率调到最大，看着一道裂隙打开，整艘船剧烈摇晃，直到它突然断电。随后"
+"，一道闪烁的绿光和一连串坐标出现，表明它已经成功了。"
 
 #: src-en/data/events_special_storage.xml.append:3072
 msgid ""
@@ -3874,7 +3854,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3074
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你将机器功率调到最大，看着一道裂隙打开，整艘船剧烈摇晃，直到它突然断电。随后"
+"，一道闪烁的绿光和一连串坐标出现，表明它已经成功了。"
 
 #: src-en/data/events_special_storage.xml.append:3082
 msgid ""
@@ -3894,7 +3875,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3091
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你将机器功率调到最大，看着一道裂隙打开，整艘船剧烈摇晃，直到它突然断电。随后"
+"，一道闪烁的绿光和一连串坐标出现，表明它已经成功了。"
 
 #: src-en/data/events_special_storage.xml.append:3099
 msgid ""
@@ -3904,7 +3886,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3101
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你将机器功率调到最大，看着一道裂隙打开，整艘船剧烈摇晃，直到它突然断电。随后"
+"，一道闪烁的绿光和一连串坐标出现，表明它已经成功了。"
 
 #: src-en/data/events_special_storage.xml.append:3109
 msgid ""
@@ -3914,7 +3897,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3111
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你将机器功率调到最大，看着一道裂隙打开，整艘船剧烈摇晃，直到它突然断电。随后"
+"，一道闪烁的绿光和一连串坐标出现，表明它已经成功了。"
 
 #: src-en/data/events_special_storage.xml.append:3119
 msgid ""
@@ -3962,7 +3946,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3159
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[4]/text"
-msgstr ""
+msgstr "当前已安装：无"
 
 #: src-en/data/events_special_storage.xml.append:3163
 msgid ""
@@ -4020,7 +4004,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3212
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_REPAIR\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4046,7 +4029,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3241
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_SENSOR\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4072,7 +4054,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3272
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_COOLING\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4100,7 +4081,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3303
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[4]/text"
-msgstr ""
+msgstr "当前已安装：无"
 
 #: src-en/data/events_special_storage.xml.append:3307
 msgid ""
@@ -4158,7 +4139,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3356
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_ESCAPESPEED\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4184,7 +4164,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3386
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_AUTODESTROY\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4210,7 +4189,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3417
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_SOCIAL\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4238,7 +4216,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3448
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[4]/text"
-msgstr ""
+msgstr "当前已安装：无"
 
 #: src-en/data/events_special_storage.xml.append:3452
 msgid ""
@@ -4296,7 +4274,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3504
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_RESOLVE\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4322,7 +4299,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3533
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_COMPROMISED\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
@@ -4348,7 +4324,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_storage.xml.append:3564
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_ELITE\"]/choice[@req=\"pilot\"]/text"
 msgstr "算了。"
