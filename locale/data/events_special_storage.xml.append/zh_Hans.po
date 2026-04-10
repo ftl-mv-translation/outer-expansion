@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-04-10 14:44+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Last-Translator: circle217 <3545024352@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/dataevents_special_storagexmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -16,108 +16,108 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "酸质过滤系统."
 
 #: src-en/data/events_special_storage.xml.append:9
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "酸质过滤系统."
 
 #: src-en/data/events_special_storage.xml.append:13
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "异教徒转换器."
 
 #: src-en/data/events_special_storage.xml.append:17
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "异教徒."
 
 #: src-en/data/events_special_storage.xml.append:21
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "小型异教徒."
 
 #: src-en/data/events_special_storage.xml.append:25
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "异教徒武器."
 
 #: src-en/data/events_special_storage.xml.append:29
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "侧舷巨炮."
 
 #: src-en/data/events_special_storage.xml.append:33
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "黑暗审判官可以改装你的克隆舱。"
 
 #: src-en/data/events_special_storage.xml.append:37
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "黑暗审判官可以改装你的克隆舱。"
 
 #: src-en/data/events_special_storage.xml.append:41
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[10]/text"
-msgstr ""
+msgstr "（黑暗审判官）查阅死亡之书。"
 
 #: src-en/data/events_special_storage.xml.append:48
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "辅助护盾。"
 
 #: src-en/data/events_special_storage.xml.append:52
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[2]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "改装型克隆舱。"
 
 #: src-en/data/events_special_storage.xml.append:62
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_CRYSTAL_SABOTAGE\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "你无法安装此实验室改装，因为你仍拥有外部版本。"
 
 #: src-en/data/events_special_storage.xml.append:68
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELDS\"]/text"
-msgstr ""
+msgstr "你想安装哪个升级？"
 
 #: src-en/data/events_special_storage.xml.append:70
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELDS\"]/choice[@req=\"UPG_AEA_SUPER_SHIELD_OVERCHARGER\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "辅助过载器。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:74
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELDS\"]/choice[@req=\"UPG_AEA_SUPER_SHIELD_OVERCHARGER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "辅助过载器。[花费：50~，1{]"
 
 #: src-en/data/events_special_storage.xml.append:78
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELDS\"]/choice[@req=\"UPG_AEA_SUPER_SHIELD_LINKER\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "计算机同步。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:82
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELDS\"]/choice[@req=\"UPG_AEA_SUPER_SHIELD_LINKER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "计算机同步。[花费：35~，5|]"
 
 #: src-en/data/events_special_storage.xml.append:86
 msgid ""
@@ -128,11 +128,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_LINKER\"]/text"
 msgstr ""
+"你即将安装计算机同步升级。\n"
+"[效果：有人操控辅助护盾时，也会为护盾系统提供50%的加成；有人操控护盾系统时，"
+"也会为辅助护盾提供50%的加成。]"
 
 #: src-en/data/events_special_storage.xml.append:94
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_LINKER\"]/choice[1]/text"
-msgstr ""
+msgstr "执行升级。[花费：35~，5|]"
 
 #: src-en/data/events_special_storage.xml.append:96
 msgid ""
@@ -479,115 +482,115 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "禁用辅助护盾系统的快捷键。"
 
 #: src-en/data/events_special_storage.xml.append:444
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "启用辅助护盾系统的快捷键。"
 
 #: src-en/data/events_special_storage.xml.append:452
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "（异教徒防御无人机 I）设置无人机的状态。[当前模式：反导弹]。"
 
 #: src-en/data/events_special_storage.xml.append:456
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "（异教徒防御无人机 I）设置无人机的状态。[当前模式：反无人机]。"
 
 #: src-en/data/events_special_storage.xml.append:461
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "（异教徒防御无人机 II）设置无人机的状态。[当前模式：反导弹]。"
 
 #: src-en/data/events_special_storage.xml.append:465
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "（异教徒防御无人机 II）设置无人机的状态。[当前模式：反无人机]。"
 
 #: src-en/data/events_special_storage.xml.append:470
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "（灵械无人机 I）设置无人机的状态。[当前模式：激光]。"
 
 #: src-en/data/events_special_storage.xml.append:474
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[8]/text"
-msgstr ""
+msgstr "（灵械无人机 I）设置无人机的状态。[当前模式：光束]。"
 
 #: src-en/data/events_special_storage.xml.append:479
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "（灵械无人机 II）设置无人机的状态。[当前模式：激光]。"
 
 #: src-en/data/events_special_storage.xml.append:483
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[10]/text"
-msgstr ""
+msgstr "（灵械无人机 II）设置无人机的状态。[当前模式：光束]。"
 
 #: src-en/data/events_special_storage.xml.append:488
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[11]/text"
-msgstr ""
+msgstr "（多级爆裂）设置无人机的状态。[当前功率：2]。"
 
 #: src-en/data/events_special_storage.xml.append:492
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[12]/text"
-msgstr ""
+msgstr "（多级爆裂）设置无人机的状态。[当前功率：3]。"
 
 #: src-en/data/events_special_storage.xml.append:496
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[13]/text"
-msgstr ""
+msgstr "（多级爆裂）设置无人机的状态。[当前功率：4]。"
 
 #: src-en/data/events_special_storage.xml.append:501
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[14]/text"
-msgstr ""
+msgstr "（双子无人机 I）设置无人机的状态。[当前模式：激光]。"
 
 #: src-en/data/events_special_storage.xml.append:505
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[15]/text"
-msgstr ""
+msgstr "（双子无人机 I）设置无人机的状态。[当前模式：光束]。"
 
 #: src-en/data/events_special_storage.xml.append:510
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[16]/text"
-msgstr ""
+msgstr "（双子无人机 II）设置无人机的状态。[当前模式：激光]。"
 
 #: src-en/data/events_special_storage.xml.append:514
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[17]/text"
-msgstr ""
+msgstr "（双子无人机 II）设置无人机的状态。[当前模式：光束]。"
 
 #: src-en/data/events_special_storage.xml.append:519
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[18]/text"
-msgstr ""
+msgstr "（双子无人机 II [吉族战利品]）设置无人机的状态。[当前模式：激光]。"
 
 #: src-en/data/events_special_storage.xml.append:523
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[19]/text"
-msgstr ""
+msgstr "（双子无人机 II [吉族战利品]）设置无人机的状态。[当前模式：光束]。"
 
 #: src-en/data/events_special_storage.xml.append:529
 msgid ""
@@ -1025,204 +1028,204 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:889
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"shields\"]/text"
-msgstr ""
+msgstr "升级护盾。[无系统]。"
 
 #: src-en/data/events_special_storage.xml.append:893
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_shields_upgrades\"]/text"
-msgstr ""
+msgstr "升级护盾。[已达上限]。"
 
 #: src-en/data/events_special_storage.xml.append:897
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[3]/text"
-msgstr ""
+msgstr "升级护盾。[科技未激活]。"
 
 #: src-en/data/events_special_storage.xml.append:901
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_shields\"]/text"
-msgstr ""
+msgstr "升级护盾。[花费：120~，高科技元件]。"
 
 #: src-en/data/events_special_storage.xml.append:907
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "升级引擎。[无系统]。"
 
 #: src-en/data/events_special_storage.xml.append:911
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_engines_upgrades\"]/text"
-msgstr ""
+msgstr "升级引擎。[已达上限]。"
 
 #: src-en/data/events_special_storage.xml.append:915
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[7]/text"
-msgstr ""
+msgstr "升级引擎。[科技未激活]。"
 
 #: src-en/data/events_special_storage.xml.append:919
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_engines\"]/text"
-msgstr ""
+msgstr "升级引擎。[花费：120~，高科技元件]。"
 
 #: src-en/data/events_special_storage.xml.append:925
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "升级武器。[无系统]。"
 
 #: src-en/data/events_special_storage.xml.append:929
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_weapons_upgrades\"]/text"
-msgstr ""
+msgstr "升级武器。[已达上限]。"
 
 #: src-en/data/events_special_storage.xml.append:933
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[11]/text"
-msgstr ""
+msgstr "升级武器。[科技未激活]。"
 
 #: src-en/data/events_special_storage.xml.append:937
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_weapons\"]/text"
-msgstr ""
+msgstr "升级武器。[花费：120~，高科技元件]。"
 
 #: src-en/data/events_special_storage.xml.append:943
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"drones\"]/text"
-msgstr ""
+msgstr "升级无人机。[无系统]。"
 
 #: src-en/data/events_special_storage.xml.append:947
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_drones_upgrades\"]/text"
-msgstr ""
+msgstr "升级无人机。[已达上限]。"
 
 #: src-en/data/events_special_storage.xml.append:951
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[15]/text"
-msgstr ""
+msgstr "升级无人机。[科技未激活]。"
 
 #: src-en/data/events_special_storage.xml.append:955
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_drones\"]/text"
-msgstr ""
+msgstr "升级无人机。[花费：120~，高科技元件]。"
 
 #: src-en/data/events_special_storage.xml.append:961
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "升级隐形。[无系统]。"
 
 #: src-en/data/events_special_storage.xml.append:965
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_cloaking_upgrades\"]/text"
-msgstr ""
+msgstr "升级隐形。[已达上限]。"
 
 #: src-en/data/events_special_storage.xml.append:969
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[19]/text"
-msgstr ""
+msgstr "升级隐形。[科技未激活]。"
 
 #: src-en/data/events_special_storage.xml.append:973
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_cloaking\"]/text"
-msgstr ""
+msgstr "升级隐形。[花费：120~，高科技元件]。"
 
 #: src-en/data/events_special_storage.xml.append:979
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"mind\"]/text"
-msgstr ""
+msgstr "升级心灵控制。[无系统]。"
 
 #: src-en/data/events_special_storage.xml.append:983
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_mind_upgrades\"]/text"
-msgstr ""
+msgstr "升级心灵控制。[已达上限]。"
 
 #: src-en/data/events_special_storage.xml.append:987
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[23]/text"
-msgstr ""
+msgstr "升级心灵控制。[科技未激活]。"
 
 #: src-en/data/events_special_storage.xml.append:991
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_mind\"]/text"
-msgstr ""
+msgstr "升级心灵控制。[花费：120~，高科技元件]。"
 
 #: src-en/data/events_special_storage.xml.append:997
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"hacking\""
 " and @lvl=\"-1\"]/text"
-msgstr ""
+msgstr "升级黑客。[无系统]。"
 
 #: src-en/data/events_special_storage.xml.append:1001
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "升级黑客。[已达上限]。"
 
 #: src-en/data/events_special_storage.xml.append:1005
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_hacking_upgrades\"]/text"
-msgstr ""
+msgstr "升级黑客。[已达上限]。"
 
 #: src-en/data/events_special_storage.xml.append:1009
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[28]/text"
-msgstr ""
+msgstr "升级黑客。[科技未激活]。"
 
 #: src-en/data/events_special_storage.xml.append:1013
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_hacking\"]/text"
-msgstr ""
+msgstr "升级黑客。[花费：120~，高科技元件]。"
 
 #: src-en/data/events_special_storage.xml.append:1019
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"medbay\"]/text"
-msgstr ""
+msgstr "升级医疗舱。[无系统]。"
 
 #: src-en/data/events_special_storage.xml.append:1023
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_medbay_upgrades\"]/text"
-msgstr ""
+msgstr "升级医疗舱。[已达上限]。"
 
 #: src-en/data/events_special_storage.xml.append:1027
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[32]/text"
-msgstr ""
+msgstr "升级医疗舱。[科技未激活]。"
 
 #: src-en/data/events_special_storage.xml.append:1031
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_medbay\"]/text"
-msgstr ""
+msgstr "升级医疗舱。[花费：120~，高科技元件]。"
 
 #: src-en/data/events_special_storage.xml.append:1037
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"clonebay\"]/text"
-msgstr ""
+msgstr "升级克隆舱。[无系统]。"
 
 #: src-en/data/events_special_storage.xml.append:1041
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_clonebay_upgrades\"]/text"
-msgstr ""
+msgstr "升级克隆舱。[已达上限]。"
 
 #: src-en/data/events_special_storage.xml.append:1045
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[36]/text"
-msgstr ""
+msgstr "升级克隆舱。[科技未激活]。"
 
 #: src-en/data/events_special_storage.xml.append:1049
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_clonebay\"]/text"
-msgstr ""
+msgstr "升级克隆舱。[花费：120~，高科技元件]。"
 
 #: src-en/data/events_special_storage.xml.append:1055
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_reactor_upgrades\"]/text"
-msgstr ""
+msgstr "升级反应堆。[已达上限]。"
 
 #: src-en/data/events_special_storage.xml.append:1059
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[39]/text"
-msgstr ""
+msgstr "升级反应堆。[科技未激活]。"
 
 #: src-en/data/events_special_storage.xml.append:1063
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_reactor\"]/text"
-msgstr ""
+msgstr "升级反应堆。[花费：50~]。"
 
 #: src-en/data/events_special_storage.xml.append:1067
 msgid ""
