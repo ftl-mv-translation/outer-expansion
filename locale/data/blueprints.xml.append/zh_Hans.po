@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-10 14:44+0000\n"
+"PO-Revision-Date: 2026-04-11 09:21+0000\n"
 "Last-Translator: circle217 <3545024352@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/datablueprintsxmlappend/zh_Hans/>\n"
@@ -1041,7 +1041,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2609
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_1\"]/tooltip"
-msgstr "重型激光：伤害 2，单体数 1，冷却 9 秒"
+msgstr "重型激光：伤害 2，弹体数 1，冷却 9 秒。"
 
 #: src-en/data/blueprints.xml.append:2645
 msgid ""
@@ -1065,7 +1065,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2651
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_2\"]/tooltip"
-msgstr "重型激光：伤害 2，单体数 1，冷却 9 秒"
+msgstr "重型激光：伤害 2，弹体数 1，冷却 9 秒。"
 
 #: src-en/data/blueprints.xml.append:2687
 msgid ""
@@ -1089,7 +1089,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2693
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_3\"]/tooltip"
-msgstr "重型激光：伤害 2，单体数 1，冷却 9 秒"
+msgstr "重型激光：伤害 2，弹体数 1，冷却 9 秒。"
 
 #: src-en/data/blueprints.xml.append:2729
 msgid ""
@@ -1113,7 +1113,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2735
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_2_LOOT\"]/tooltip"
-msgstr "重型激光：伤害 2，单体数 1，冷却 9 秒"
+msgstr "重型激光：伤害 2，弹体数 1，冷却 9 秒。"
 
 #: src-en/data/blueprints.xml.append:2771
 msgid ""
@@ -1137,7 +1137,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2777
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AEA_LASER_NECRO_CHARGE\"]/tooltip"
-msgstr "重型激光：伤害 2，单体数 1，冷却 9 秒"
+msgstr "重型激光：伤害 2，弹体数 1，冷却 9 秒。"
 
 #: src-en/data/blueprints.xml.append:2816
 msgid ""
@@ -3878,8 +3878,7 @@ msgstr ""
 "弹的法术不能装配于该武器。\n"
 "\t\n"
 "\t属性：\n"
-"\n"
-"\t所需功率：2\n"
+"\t所需能量：2\n"
 "\t充能时间：14 秒\n"
 "\n"
 "\t每充能发射次数：2\n"
@@ -3890,7 +3889,7 @@ msgstr ""
 "\t船员伤害：45\n"
 "\t护盾穿透：16\n"
 "\t\n"
-"\t默认售价：70～出售价格：35～"
+"\t默认售价：70~   ‐   出售价格：35~"
 
 #: src-en/data/blueprints.xml.append:7946
 msgid ""
