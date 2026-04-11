@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-11 09:21+0000\n"
+"PO-Revision-Date: 2026-04-11 12:44+0000\n"
 "Last-Translator: circle217 <3545024352@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/dataevents_special_storagexmlappend/zh_Hans/>\n"
@@ -177,7 +177,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:133
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_OVERCHARGER\"]/choice[1]/text"
-msgstr ""
+msgstr "执行升级。[花费：50~，1{]"
 
 #: src-en/data/events_special_storage.xml.append:135
 msgid ""
@@ -212,37 +212,37 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:170
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME\"]/text"
-msgstr ""
+msgstr "你想安装哪个升级？"
 
 #: src-en/data/events_special_storage.xml.append:172
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME\"]/choice[@req=\"UPG_AEA_CLONE_CRIME_LIFETIME\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "朽化抑制。[不可用：你已拥有该升级的最大数量]"
 
 #: src-en/data/events_special_storage.xml.append:176
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME\"]/choice[@req=\"UPG_AEA_CLONE_CRIME_LIFETIME\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "朽化抑制 LvL 2。[花费：30~，3{]"
 
 #: src-en/data/events_special_storage.xml.append:180
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME\"]/choice[@req=\"UPG_AEA_CLONE_CRIME_LIFETIME\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "朽化抑制 LvL 1。[花费：30~，3{]"
 
 #: src-en/data/events_special_storage.xml.append:184
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME\"]/choice[@req=\"UPG_AEA_CLONE_CRIME_BUFF\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "合成肌肉。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:188
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME\"]/choice[@req=\"UPG_AEA_CLONE_CRIME_BUFF\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "合成肌肉。[花费：50~，5{]"
 
 #: src-en/data/events_special_storage.xml.append:192
 msgid ""
@@ -259,7 +259,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:200
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_LIFETIME\"]/choice[1]/text"
-msgstr ""
+msgstr "执行升级。[花费：30~，3{]"
 
 #: src-en/data/events_special_storage.xml.append:202
 msgid ""
@@ -301,7 +301,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:239
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_BUFF\"]/choice[1]/text"
-msgstr ""
+msgstr "执行升级。[花费：50~，5{]"
 
 #: src-en/data/events_special_storage.xml.append:241
 msgid ""
@@ -350,25 +350,25 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ORCHID\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "次要 [异教徒]：远古共融。[花费：35~，4{]"
 
 #: src-en/data/events_special_storage.xml.append:292
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "（远古共融）共融。"
 
 #: src-en/data/events_special_storage.xml.append:298
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "（远古共融）共融。"
 
 #: src-en/data/events_special_storage.xml.append:304
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "（驱动劫持器）召唤一艘域外拓展多元星舰。"
 
 #: src-en/data/events_special_storage.xml.append:311
 msgid ""
@@ -383,7 +383,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_COMMUNION\"]/choice[@req=\"LAB_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "安装改装。[花费：35~，4{]"
 
 #: src-en/data/events_special_storage.xml.append:318
 msgid ""
@@ -421,7 +421,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:351
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi\"]/text"
-msgstr ""
+msgstr "转化一个谐合半械族。"
 
 #: src-en/data/events_special_storage.xml.append:353
 msgid ""
@@ -436,7 +436,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:365
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist\"]/text"
-msgstr ""
+msgstr "转化一个分离者半械族。"
 
 #: src-en/data/events_special_storage.xml.append:367
 msgid ""
@@ -451,7 +451,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:379
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_separatist_nano\"]/text"
-msgstr ""
+msgstr "转化一个分离者半械族。"
 
 #: src-en/data/events_special_storage.xml.append:381
 msgid ""
@@ -466,7 +466,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:393
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_NECRO_CONVERT\"]/choice[@req=\"engi_defender\"]/text"
-msgstr ""
+msgstr "转化一个半械保卫者。"
 
 #: src-en/data/events_special_storage.xml.append:395
 msgid ""
@@ -482,13 +482,13 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[6]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（酸藻起源）。"
 
 #: src-en/data/events_special_storage.xml.append:416
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[7]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "（酸藻起源）。"
 
 #: src-en/data/events_special_storage.xml.append:437
 msgid ""
@@ -617,17 +617,17 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:537
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[2]/text"
-msgstr ""
+msgstr "将过滤系统设置为灭火模式（当前已启用）。"
 
 #: src-en/data/events_special_storage.xml.append:542
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[3]/text"
-msgstr ""
+msgstr "将过滤系统设置为氧气模式。"
 
 #: src-en/data/events_special_storage.xml.append:544
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你的过滤系统转而开始制氧。"
 
 #: src-en/data/events_special_storage.xml.append:547
 msgid ""
@@ -637,7 +637,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:549
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS\"]/choice[3]/event/choice/event/text"
-msgstr ""
+msgstr "该系统的生命维持子系统效率降低。"
 
 #: src-en/data/events_special_storage.xml.append:552
 msgid ""
@@ -657,12 +657,12 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:571
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[2]/text"
-msgstr ""
+msgstr "将过滤系统设置为灭火模式。"
 
 #: src-en/data/events_special_storage.xml.append:573
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你的过滤系统转而开始生产灭火剂。"
 
 #: src-en/data/events_special_storage.xml.append:576
 msgid ""
@@ -672,7 +672,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:578
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "该系统的生命维持子系统效率提高。"
 
 #: src-en/data/events_special_storage.xml.append:581
 msgid ""
@@ -682,7 +682,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:590
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_O2SYS_OFF\"]/choice[3]/text"
-msgstr ""
+msgstr "将过滤系统设置为氧气模式（当前已启用）。"
 
 #: src-en/data/events_special_storage.xml.append:604
 msgid ""
@@ -968,30 +968,30 @@ msgstr "返回到切换菜单。"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[9]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "异教徒科技。"
 
 #: src-en/data/events_special_storage.xml.append:834
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[9]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "神秘科技。"
 
 #: src-en/data/events_special_storage.xml.append:840
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO\"]/text"
-msgstr ""
+msgstr "基于你星舰正在使用的异教徒科技，你可能能够利用该技术进行进一步升级。"
 
 #: src-en/data/events_special_storage.xml.append:842
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO\"]/choice[@req=\"aea_p_has_repair\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "修复爆发。[已安装]"
 
 #: src-en/data/events_special_storage.xml.append:846
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO\"]/choice[@req=\"aea_p_has_repair\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "修复爆发。[花费：20~]"
 
 #: src-en/data/events_special_storage.xml.append:850
 msgid ""
@@ -1002,12 +1002,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/text"
 msgstr ""
+"你即将安装修复爆发。\n"
+"[效果：当舰体完整性降至5时，修复所有系统，使用后消耗，可重新购买]。"
 
 #: src-en/data/events_special_storage.xml.append:859
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/choice[@req=\"LIST_CREW_AEA_NECRO\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。[花费：20~]"
 
 #: src-en/data/events_special_storage.xml.append:861
 msgid ""
@@ -1025,7 +1027,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_NECRO_REPAIR\"]/choice[@req=\"LIST_CREW_AEA_NECRO\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "此升级不可用。你需要一名半械异教徒才能执行此升级。"
 
 #: src-en/data/events_special_storage.xml.append:876
 msgid ""
@@ -1035,7 +1037,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:887
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/text"
-msgstr ""
+msgstr "基于你货舱中的神秘科技，你可能能够利用该技术进行进一步升级。"
 
 #: src-en/data/events_special_storage.xml.append:889
 msgid ""
@@ -1248,6 +1250,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/text"
 msgstr ""
+"你即将安装护盾系统升级。\n"
+"[效果：将护盾升级至其最高等级以上，不可进行超过两次]。"
 
 #: src-en/data/events_special_storage.xml.append:1076
 msgid ""
@@ -1287,6 +1291,9 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/text"
 msgstr ""
+"你即将安装引擎系统升级。\n"
+"[效果：将引擎升级至其最高等级以上，8级以上每级额外增加5%闪避率和0.25倍超光速"
+"充能速率，不可升级超过两次]。"
 
 #: src-en/data/events_special_storage.xml.append:1111
 msgid ""
@@ -1326,6 +1333,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/text"
 msgstr ""
+"你即将安装武器系统升级。\n"
+"[效果：将武器升级至其最高等级以上，不可进行超过两次]。"
 
 #: src-en/data/events_special_storage.xml.append:1146
 msgid ""
@@ -1365,6 +1374,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/text"
 msgstr ""
+"你即将安装无人机系统升级。\n"
+"[效果：将无人机升级至其最高等级以上，不可进行超过两次]。"
 
 #: src-en/data/events_special_storage.xml.append:1181
 msgid ""
@@ -1404,6 +1415,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/text"
 msgstr ""
+"你即将安装隐形系统升级。\n"
+"[效果：将隐形升级至其最高等级以上，不可进行超过一次，不可升级至超过4级]。"
 
 #: src-en/data/events_special_storage.xml.append:1216
 msgid ""
@@ -1443,6 +1456,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/text"
 msgstr ""
+"你即将安装心灵控制系统升级。\n"
+"[效果：将心灵控制升级至其最高等级以上，不可进行超过一次，不可升级至超过4级]。"
 
 #: src-en/data/events_special_storage.xml.append:1251
 msgid ""
@@ -1482,6 +1497,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/text"
 msgstr ""
+"你即将安装黑客系统升级。\n"
+"[效果：将黑客升级至其最高等级以上，不可进行超过一次，不可升级至超过3级]。"
 
 #: src-en/data/events_special_storage.xml.append:1286
 msgid ""
@@ -1521,6 +1538,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/text"
 msgstr ""
+"你即将安装医疗舱系统升级。\n"
+"[效果：将医疗舱升级至其最高等级以上，不可进行超过一次，不可升级至超过4级]。"
 
 #: src-en/data/events_special_storage.xml.append:1321
 msgid ""
@@ -1560,6 +1579,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/text"
 msgstr ""
+"你即将安装克隆舱系统升级。\n"
+"[效果：将克隆舱升级至其最高等级以上，不可进行超过一次，不可升级至超过4级]。"
 
 #: src-en/data/events_special_storage.xml.append:1357
 msgid ""
@@ -1599,12 +1620,14 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/text"
 msgstr ""
+"你即将安装反应堆升级。\n"
+"[效果：将反应堆升级至其最高等级以上，不可进行超过5次]。"
 
 #: src-en/data/events_special_storage.xml.append:1393
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/choice[@req=\"aea_can_upgrade_reactor\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "执行升级。[花费：50~]"
 
 #: src-en/data/events_special_storage.xml.append:1395
 msgid ""
@@ -1622,7 +1645,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_REACTOR\"]/choice[@req=\"aea_can_upgrade_reactor\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "此升级不可用。你需要将你的反应堆升级到其自然上限。"
 
 #: src-en/data/events_special_storage.xml.append:1410
 msgid ""
@@ -1633,11 +1656,13 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/text"
 msgstr ""
+"你想将无人机设置为多少功率？\n"
+"当前属性：[射弹数：2，速度：10]。"
 
 #: src-en/data/events_special_storage.xml.append:1432
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/choice[1]/text"
-msgstr ""
+msgstr "将无人机设置为3功率。[射弹数：3，速度：8]"
 
 #: src-en/data/events_special_storage.xml.append:1434
 msgid ""
@@ -1662,7 +1687,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:1450
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_1\"]/choice[2]/text"
-msgstr ""
+msgstr "将无人机设置为4功率。[射弹数：4，速度：6]"
 
 #: src-en/data/events_special_storage.xml.append:1452
 msgid ""
@@ -1693,11 +1718,13 @@ msgstr "返回到切换菜单。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/text"
 msgstr ""
+"你想将无人机设置为多少功率？\n"
+"当前属性：[射弹数：3，速度：8]。"
 
 #: src-en/data/events_special_storage.xml.append:1476
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/choice[1]/text"
-msgstr ""
+msgstr "将无人机设置为2功率。[射弹数：2，速度：10]"
 
 #: src-en/data/events_special_storage.xml.append:1478
 msgid ""
@@ -1722,7 +1749,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:1494
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_2\"]/choice[2]/text"
-msgstr ""
+msgstr "将无人机设置为4功率。[射弹数：4，速度：6]"
 
 #: src-en/data/events_special_storage.xml.append:1496
 msgid ""
@@ -1753,11 +1780,13 @@ msgstr "返回到切换菜单。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/text"
 msgstr ""
+"你想将无人机设置为多少功率？\n"
+"当前属性：[射弹数：4，速度：6]。"
 
 #: src-en/data/events_special_storage.xml.append:1520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/choice[1]/text"
-msgstr ""
+msgstr "将无人机设置为2功率。[射弹数：2，速度：10]"
 
 #: src-en/data/events_special_storage.xml.append:1522
 msgid ""
@@ -1782,7 +1811,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:1538
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_AEA_BIRD_BURST_AMP_3\"]/choice[2]/text"
-msgstr ""
+msgstr "将无人机设置为3功率。[射弹数：3，速度：8]"
 
 #: src-en/data/events_special_storage.xml.append:1540
 msgid ""
@@ -1822,12 +1851,12 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1571
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/text"
-msgstr ""
+msgstr "（未学习法术的异教徒）学习一个法术。"
 
 #: src-en/data/events_special_storage.xml.append:1573
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/text"
-msgstr ""
+msgstr "你的异教徒能够学习多种法术。"
 
 #: src-en/data/events_special_storage.xml.append:1575
 msgid ""
@@ -1837,7 +1866,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1579
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_01\"]/text"
-msgstr ""
+msgstr "学习 [保护]。"
 
 #: src-en/data/events_special_storage.xml.append:1581
 msgid ""
@@ -1847,7 +1876,7 @@ msgstr "你的教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:1587
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_02\"]/text"
-msgstr ""
+msgstr "学习 [信标]。"
 
 #: src-en/data/events_special_storage.xml.append:1589
 msgid ""
@@ -1857,7 +1886,7 @@ msgstr "你的教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:1595
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/text"
-msgstr ""
+msgstr "学习 [生化冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:1597
 msgid ""
@@ -1867,7 +1896,7 @@ msgstr "你的教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:1603
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/text"
-msgstr ""
+msgstr "学习 [冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:1605
 msgid ""
@@ -1877,7 +1906,7 @@ msgstr "你的教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:1611
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/text"
-msgstr ""
+msgstr "学习 [冲击爆发]。"
 
 #: src-en/data/events_special_storage.xml.append:1613
 msgid ""
@@ -1887,7 +1916,7 @@ msgstr "你的教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:1619
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/text"
-msgstr ""
+msgstr "学习 [舰体冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:1621
 msgid ""
@@ -1897,7 +1926,7 @@ msgstr "你的教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:1627
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_07\"]/text"
-msgstr ""
+msgstr "学习 [曲速]。"
 
 #: src-en/data/events_special_storage.xml.append:1629
 msgid ""
@@ -1907,7 +1936,7 @@ msgstr "你的教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:1635
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/text"
-msgstr ""
+msgstr "学习 [曲速冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:1637
 msgid ""
@@ -1917,7 +1946,7 @@ msgstr "你的教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:1643
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/text"
-msgstr ""
+msgstr "学习 [治疗冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:1645
 msgid ""
@@ -1927,7 +1956,7 @@ msgstr "你的教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:1651
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_10\"]/text"
-msgstr ""
+msgstr "学习 [治疗光环]。"
 
 #: src-en/data/events_special_storage.xml.append:1653
 msgid ""
@@ -1937,7 +1966,7 @@ msgstr "你的教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:1659
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_11\"]/text"
-msgstr ""
+msgstr "学习 [无人机]。"
 
 #: src-en/data/events_special_storage.xml.append:1661
 msgid ""
@@ -1947,7 +1976,7 @@ msgstr "你的教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:1667
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/text"
-msgstr ""
+msgstr "学习 [屏障]。"
 
 #: src-en/data/events_special_storage.xml.append:1669
 msgid ""
@@ -1957,7 +1986,7 @@ msgstr "你的教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:1675
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/text"
-msgstr ""
+msgstr "学习 [封锁]。"
 
 #: src-en/data/events_special_storage.xml.append:1677
 msgid ""
@@ -1967,7 +1996,7 @@ msgstr "你的教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:1683
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/text"
-msgstr ""
+msgstr "学习 [盟友]。"
 
 #: src-en/data/events_special_storage.xml.append:1685
 msgid ""
@@ -1977,7 +2006,7 @@ msgstr "你的教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:1691
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/text"
-msgstr ""
+msgstr "学习 [精神冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:1693
 msgid ""
@@ -1987,7 +2016,7 @@ msgstr "你的教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:1701
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a01\"]/text"
-msgstr ""
+msgstr "（[保护] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:1703
 msgid ""
@@ -2013,7 +2042,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1719
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a02\"]/text"
-msgstr ""
+msgstr "（[信标] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:1721
 msgid ""
@@ -2039,7 +2068,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1737
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s03\"]/text"
-msgstr ""
+msgstr "（[生化冲击] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:1739
 msgid ""
@@ -2065,7 +2094,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1755
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s04\"]/text"
-msgstr ""
+msgstr "（[冲击] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:1757
 msgid ""
@@ -2091,7 +2120,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1773
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s05\"]/text"
-msgstr ""
+msgstr "（[冲击爆发] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:1775
 msgid ""
@@ -2117,7 +2146,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1791
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s06\"]/text"
-msgstr ""
+msgstr "（[舰体冲击] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:1793
 msgid ""
@@ -2143,7 +2172,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1809
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a07\"]/text"
-msgstr ""
+msgstr "（[曲速] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:1811
 msgid ""
@@ -2169,7 +2198,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1827
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s08\"]/text"
-msgstr ""
+msgstr "（[曲速冲击] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:1829
 msgid ""
@@ -2195,7 +2224,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1845
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s09\"]/text"
-msgstr ""
+msgstr "（[治疗冲击] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:1847
 msgid ""
@@ -2221,7 +2250,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1863
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a10\"]/text"
-msgstr ""
+msgstr "（[治疗光环] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:1865
 msgid ""
@@ -2247,7 +2276,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1881
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_a11\"]/text"
-msgstr ""
+msgstr "（[无人机] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:1883
 msgid ""
@@ -2273,7 +2302,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1899
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s12\"]/text"
-msgstr ""
+msgstr "（[屏障] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:1901
 msgid ""
@@ -2299,7 +2328,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1917
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s13\"]/text"
-msgstr ""
+msgstr "（[封锁] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:1919
 msgid ""
@@ -2325,7 +2354,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1935
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s14\"]/text"
-msgstr ""
+msgstr "（[盟友] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:1937
 msgid ""
@@ -2351,7 +2380,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1953
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_WIZARD\"]/choice[@req=\"aea_cult_wizard_s15\"]/text"
-msgstr ""
+msgstr "（[精神冲击] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:1955
 msgid ""
@@ -2387,12 +2416,12 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1984
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/text"
-msgstr ""
+msgstr "（空武器）装备一个法术。"
 
 #: src-en/data/events_special_storage.xml.append:1986
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/text"
-msgstr ""
+msgstr "你的武器能够装备多种法术。"
 
 #: src-en/data/events_special_storage.xml.append:1988
 msgid ""
@@ -2402,7 +2431,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:1992
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/text"
-msgstr ""
+msgstr "装备 [生化冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:1994
 msgid ""
@@ -2422,7 +2451,7 @@ msgstr "武器嗡鸣作响，充满了力量。"
 #: src-en/data/events_special_storage.xml.append:2007
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/text"
-msgstr ""
+msgstr "装备 [冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:2009
 msgid ""
@@ -2442,7 +2471,7 @@ msgstr "武器嗡鸣作响，充满了力量。"
 #: src-en/data/events_special_storage.xml.append:2022
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/text"
-msgstr ""
+msgstr "装备 [冲击爆发]。"
 
 #: src-en/data/events_special_storage.xml.append:2024
 msgid ""
@@ -2462,7 +2491,7 @@ msgstr "武器嗡鸣作响，充满了力量。"
 #: src-en/data/events_special_storage.xml.append:2037
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/text"
-msgstr ""
+msgstr "装备 [舰体冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:2039
 msgid ""
@@ -2482,7 +2511,7 @@ msgstr "武器嗡鸣作响，充满了力量。"
 #: src-en/data/events_special_storage.xml.append:2052
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/text"
-msgstr ""
+msgstr "装备 [曲速冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:2054
 msgid ""
@@ -2502,7 +2531,7 @@ msgstr "武器嗡鸣作响，充满了力量。"
 #: src-en/data/events_special_storage.xml.append:2067
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/text"
-msgstr ""
+msgstr "装备 [治疗冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:2069
 msgid ""
@@ -2522,7 +2551,7 @@ msgstr "武器嗡鸣作响，充满了力量。"
 #: src-en/data/events_special_storage.xml.append:2082
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/text"
-msgstr ""
+msgstr "装备 [屏障]。"
 
 #: src-en/data/events_special_storage.xml.append:2084
 msgid ""
@@ -2542,7 +2571,7 @@ msgstr "武器嗡鸣作响，充满了力量。"
 #: src-en/data/events_special_storage.xml.append:2097
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/text"
-msgstr ""
+msgstr "装备 [封锁]。"
 
 #: src-en/data/events_special_storage.xml.append:2099
 msgid ""
@@ -2562,7 +2591,7 @@ msgstr "武器嗡鸣作响，充满了力量。"
 #: src-en/data/events_special_storage.xml.append:2112
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/text"
-msgstr ""
+msgstr "装备 [盟友]。"
 
 #: src-en/data/events_special_storage.xml.append:2114
 msgid ""
@@ -2582,7 +2611,7 @@ msgstr "武器嗡鸣作响，充满了力量。"
 #: src-en/data/events_special_storage.xml.append:2127
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/text"
-msgstr ""
+msgstr "装备 [精神冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:2129
 msgid ""
@@ -2602,7 +2631,7 @@ msgstr "武器嗡鸣作响，充满了力量。"
 #: src-en/data/events_special_storage.xml.append:2144
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_03\"]/text"
-msgstr ""
+msgstr "（[生化冲击] 武器）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2146
 msgid ""
@@ -2648,7 +2677,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2175
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_04\"]/text"
-msgstr ""
+msgstr "（[冲击] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2177
 msgid ""
@@ -2694,7 +2723,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2206
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_05\"]/text"
-msgstr ""
+msgstr "（[冲击爆发] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2208
 msgid ""
@@ -2740,7 +2769,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2237
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_06\"]/text"
-msgstr ""
+msgstr "（[舰体冲击] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2239
 msgid ""
@@ -2786,7 +2815,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2268
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_08\"]/text"
-msgstr ""
+msgstr "（[曲速冲击] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2270
 msgid ""
@@ -2832,7 +2861,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2299
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_09\"]/text"
-msgstr ""
+msgstr "（[治疗冲击] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2301
 msgid ""
@@ -2878,7 +2907,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2330
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_12\"]/text"
-msgstr ""
+msgstr "（[屏障] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2332
 msgid ""
@@ -2924,7 +2953,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2361
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_13\"]/text"
-msgstr ""
+msgstr "（[封锁] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2363
 msgid ""
@@ -2970,7 +2999,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2392
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_14\"]/text"
-msgstr ""
+msgstr "（[盟友] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2394
 msgid ""
@@ -3016,7 +3045,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2423
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_LASER\"]/choice[@req=\"AEA_LASER_CULT_15\"]/text"
-msgstr ""
+msgstr "（[精神冲击] 异教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2425
 msgid ""
@@ -3072,12 +3101,12 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2463
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/text"
-msgstr ""
+msgstr "（未学习法术的小教徒）学习一个法术。"
 
 #: src-en/data/events_special_storage.xml.append:2465
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/text"
-msgstr ""
+msgstr "你的小教徒能够学习多种法术。"
 
 #: src-en/data/events_special_storage.xml.append:2467
 msgid ""
@@ -3087,7 +3116,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2471
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_01\"]/text"
-msgstr ""
+msgstr "学习 [保护]。"
 
 #: src-en/data/events_special_storage.xml.append:2473
 msgid ""
@@ -3097,7 +3126,7 @@ msgstr "你的小教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:2479
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_02\"]/text"
-msgstr ""
+msgstr "学习 [信标]。"
 
 #: src-en/data/events_special_storage.xml.append:2481
 msgid ""
@@ -3107,7 +3136,7 @@ msgstr "你的小教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:2487
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_03\"]/text"
-msgstr ""
+msgstr "学习 [生化冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:2489
 msgid ""
@@ -3117,7 +3146,7 @@ msgstr "你的小教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:2495
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_04\"]/text"
-msgstr ""
+msgstr "学习 [冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:2497
 msgid ""
@@ -3127,7 +3156,7 @@ msgstr "你的小教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:2503
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_05\"]/text"
-msgstr ""
+msgstr "学习 [冲击爆发]。"
 
 #: src-en/data/events_special_storage.xml.append:2505
 msgid ""
@@ -3137,7 +3166,7 @@ msgstr "你的小教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:2511
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_06\"]/text"
-msgstr ""
+msgstr "学习 [舰体冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:2513
 msgid ""
@@ -3147,7 +3176,7 @@ msgstr "你的小教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:2519
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_07\"]/text"
-msgstr ""
+msgstr "学习 [曲速]。"
 
 #: src-en/data/events_special_storage.xml.append:2521
 msgid ""
@@ -3157,7 +3186,7 @@ msgstr "你的小教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:2527
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_08\"]/text"
-msgstr ""
+msgstr "学习 [曲速冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:2529
 msgid ""
@@ -3167,7 +3196,7 @@ msgstr "你的小教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:2535
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_09\"]/text"
-msgstr ""
+msgstr "学习 [治疗冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:2537
 msgid ""
@@ -3177,7 +3206,7 @@ msgstr "你的小教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:2543
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_10\"]/text"
-msgstr ""
+msgstr "学习 [治疗光环]。"
 
 #: src-en/data/events_special_storage.xml.append:2545
 msgid ""
@@ -3187,7 +3216,7 @@ msgstr "你的小教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:2551
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_11\"]/text"
-msgstr ""
+msgstr "学习 [无人机]。"
 
 #: src-en/data/events_special_storage.xml.append:2553
 msgid ""
@@ -3197,7 +3226,7 @@ msgstr "你的小教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:2559
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_12\"]/text"
-msgstr ""
+msgstr "学习 [屏障]。"
 
 #: src-en/data/events_special_storage.xml.append:2561
 msgid ""
@@ -3207,7 +3236,7 @@ msgstr "你的小教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:2567
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_13\"]/text"
-msgstr ""
+msgstr "学习 [封锁]。"
 
 #: src-en/data/events_special_storage.xml.append:2569
 msgid ""
@@ -3217,7 +3246,7 @@ msgstr "你的小教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:2575
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_14\"]/text"
-msgstr ""
+msgstr "学习 [盟友]。"
 
 #: src-en/data/events_special_storage.xml.append:2577
 msgid ""
@@ -3227,7 +3256,7 @@ msgstr "你的小教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:2583
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny\"]/event/choice[@req=\"AEA_SPELL_ITEM_15\"]/text"
-msgstr ""
+msgstr "学习 [精神冲击]。"
 
 #: src-en/data/events_special_storage.xml.append:2585
 msgid ""
@@ -3237,7 +3266,7 @@ msgstr "你的小教徒将新法术装备到了法杖上。"
 #: src-en/data/events_special_storage.xml.append:2593
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a01\"]/text"
-msgstr ""
+msgstr "（[保护] 小教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2595
 msgid ""
@@ -3263,7 +3292,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2611
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a02\"]/text"
-msgstr ""
+msgstr "（[信标] 小教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2613
 msgid ""
@@ -3289,7 +3318,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2629
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s03\"]/text"
-msgstr ""
+msgstr "（[生化冲击] 小教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2631
 msgid ""
@@ -3315,7 +3344,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2647
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s04\"]/text"
-msgstr ""
+msgstr "（[冲击] 小教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2649
 msgid ""
@@ -3341,7 +3370,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2665
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s05\"]/text"
-msgstr ""
+msgstr "（[冲击爆发] 小教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2667
 msgid ""
@@ -3367,7 +3396,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2683
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s06\"]/text"
-msgstr ""
+msgstr "（[舰体冲击] 小教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2685
 msgid ""
@@ -3393,7 +3422,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2701
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a07\"]/text"
-msgstr ""
+msgstr "（[曲速] 小教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2703
 msgid ""
@@ -3419,7 +3448,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2719
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s08\"]/text"
-msgstr ""
+msgstr "（[曲速冲击] 小教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2721
 msgid ""
@@ -3445,7 +3474,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2737
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s09\"]/text"
-msgstr ""
+msgstr "（[治疗冲击] 小教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2739
 msgid ""
@@ -3471,7 +3500,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2755
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a10\"]/text"
-msgstr ""
+msgstr "（[治疗光环] 小教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2757
 msgid ""
@@ -3497,7 +3526,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2773
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_a11\"]/text"
-msgstr ""
+msgstr "（[无人机] 小教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2775
 msgid ""
@@ -3523,7 +3552,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2791
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s12\"]/text"
-msgstr ""
+msgstr "（[屏障] 小教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2793
 msgid ""
@@ -3549,7 +3578,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2809
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s13\"]/text"
-msgstr ""
+msgstr "（[封锁] 小教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2811
 msgid ""
@@ -3575,7 +3604,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2827
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s14\"]/text"
-msgstr ""
+msgstr "（[盟友] 小教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2829
 msgid ""
@@ -3601,7 +3630,7 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:2845
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AEA_CULTIST_TINY\"]/choice[@req=\"aea_cult_tiny_s15\"]/text"
-msgstr ""
+msgstr "（[精神冲击] 小教徒）重置法术。"
 
 #: src-en/data/events_special_storage.xml.append:2847
 msgid ""
@@ -3837,12 +3866,12 @@ msgstr "返回到切换菜单。"
 #: src-en/data/events_special_storage.xml.append:3050
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/text"
-msgstr ""
+msgstr "你检查当前有哪些星舰可供召唤。召唤一艘 MV 首领需要 7{。"
 
 #: src-en/data/events_special_storage.xml.append:3052
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[1]/text"
-msgstr ""
+msgstr "酸藻驱逐舰 B - 掉落 酸液飞溅者"
 
 #: src-en/data/events_special_storage.xml.append:3054
 msgid ""
@@ -3853,7 +3882,7 @@ msgstr "你将机器功率调到最大，看着一道裂隙打开，整艘船剧
 #: src-en/data/events_special_storage.xml.append:3062
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[2]/text"
-msgstr ""
+msgstr "楔尾 B - 掉落 灾祸无人机"
 
 #: src-en/data/events_special_storage.xml.append:3064
 msgid ""
@@ -3864,7 +3893,7 @@ msgstr "你将机器功率调到最大，看着一道裂隙打开，整艘船剧
 #: src-en/data/events_special_storage.xml.append:3072
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[3]/text"
-msgstr ""
+msgstr "蓓蕾 C - 掉落 屏障发生器"
 
 #: src-en/data/events_special_storage.xml.append:3074
 msgid ""
@@ -3875,17 +3904,17 @@ msgstr "你将机器功率调到最大，看着一道裂隙打开，整艘船剧
 #: src-en/data/events_special_storage.xml.append:3082
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_1\"]/choice[4]/text"
-msgstr ""
+msgstr "算了，做点别的。"
 
 #: src-en/data/events_special_storage.xml.append:3087
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/text"
-msgstr ""
+msgstr "你检查当前有哪些星舰可供召唤。召唤一艘 MV 首领需要 7{。"
 
 #: src-en/data/events_special_storage.xml.append:3089
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[1]/text"
-msgstr ""
+msgstr "亵渎 C - 掉落 亡灵法师无人机"
 
 #: src-en/data/events_special_storage.xml.append:3091
 msgid ""
@@ -3896,7 +3925,7 @@ msgstr "你将机器功率调到最大，看着一道裂隙打开，整艘船剧
 #: src-en/data/events_special_storage.xml.append:3099
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[2]/text"
-msgstr ""
+msgstr "碎晶铸造者自动星舰 C - 掉落 “长刀”光束"
 
 #: src-en/data/events_special_storage.xml.append:3101
 msgid ""
@@ -3907,7 +3936,7 @@ msgstr "你将机器功率调到最大，看着一道裂隙打开，整艘船剧
 #: src-en/data/events_special_storage.xml.append:3109
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[3]/text"
-msgstr ""
+msgstr "失序 B - 掉落 利维坦光束"
 
 #: src-en/data/events_special_storage.xml.append:3111
 msgid ""
@@ -3918,30 +3947,30 @@ msgstr "你将机器功率调到最大，看着一道裂隙打开，整艘船剧
 #: src-en/data/events_special_storage.xml.append:3119
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/event[@name=\"STORAGE_CHECK_AUG_AEA_BOSS_SPAWNER_2\"]/choice[4]/text"
-msgstr ""
+msgstr "算了，做点别的。"
 
 #: src-en/data/events_special_storage.xml.append:3127
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "酸藻增生。"
 
 #: src-en/data/events_special_storage.xml.append:3131
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Gi。"
 
 #: src-en/data/events_special_storage.xml.append:3136
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "利尔米克。"
 
 #: src-en/data/events_special_storage.xml.append:3142
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/text"
-msgstr ""
+msgstr "你正在查看实验室菜单：[酸藻增生]"
 
 #: src-en/data/events_special_storage.xml.append:3144
 msgid ""
