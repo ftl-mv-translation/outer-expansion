@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-04-11 12:44+0000\n"
+"Last-Translator: circle217 <3545024352@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/dataevents_sector_aea_shlegxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_aea_shleg.xml:29
 msgid ""
@@ -23,17 +30,21 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shleg.xml:58
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SLUG\"]/text"
-msgstr ""
+msgstr "在这个信标处，一艘无政府主义者星舰和一艘星盗会星舰陷入了缠斗。看来要通过的唯"
+"一办法就是与其中一方交战。"
 
 #: src-en/data/events_sector_aea_shleg.xml:60
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SLUG\"]/choice[1]/text"
-msgstr ""
+msgstr "攻击无政府主义者。"
 
 #: src-en/data/events_sector_aea_shleg.xml:62
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SLUG\"]/choice[1]/event/text"
 msgstr ""
+"你正面攻击无政府主义者的星舰，促使那艘蛞蝓族星舰脱离战斗。显然，他们对追猎的"
+"投入并不至于让他们欠下联邦星舰的人情，于是他们跃迁离开了，留下你独自面对无政"
+"府主义者。"
 
 #: src-en/data/events_sector_aea_shleg.xml:65
 msgid ""
@@ -43,12 +54,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shleg.xml:71
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SLUG\"]/choice[2]/text"
-msgstr ""
+msgstr "攻击蛞蝓族。"
 
 #: src-en/data/events_sector_aea_shleg.xml:73
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SLUG\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你正面攻击蛞蝓族。无政府主义者似乎不想留下来看结果，也跃迁离开了。"
 
 #: src-en/data/events_sector_aea_shleg.xml:76
 msgid ""
@@ -68,17 +79,19 @@ msgstr "(高级引擎)飞走。"
 #: src-en/data/events_sector_aea_shleg.xml:92
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SHELL\"]/text"
-msgstr ""
+msgstr "在这个信标处，一艘无政府主义者星舰和一艘怪才体星舰陷入了缠斗。看来要通过的唯"
+"一办法就是与其中一方交战。"
 
 #: src-en/data/events_sector_aea_shleg.xml:94
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SHELL\"]/choice[1]/text"
-msgstr ""
+msgstr "攻击无政府主义者。"
 
 #: src-en/data/events_sector_aea_shleg.xml:96
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SHELL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你正面攻击无政府主义者的星舰，促使那艘甲壳族星舰脱离战斗。甲壳族以懦夫著称，"
+"所以当他们跃迁离开，留下你独自面对无政府主义者时，你并不感到意外。"
 
 #: src-en/data/events_sector_aea_shleg.xml:99
 msgid ""
@@ -93,7 +106,7 @@ msgstr "攻击甲壳族。"
 #: src-en/data/events_sector_aea_shleg.xml:107
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_CLEAR_CHOICE_SHELL\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你正面攻击甲壳族。无政府主义者似乎不想留下来看结果，也跃迁离开了。"
 
 #: src-en/data/events_sector_aea_shleg.xml:110
 msgid ""
@@ -114,46 +127,56 @@ msgstr "(高级引擎)飞走。"
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/text"
 msgstr ""
+"你抵达信标，发现一名无政府主义者的蛞蝓族舰长和一名无政府主义者的甲壳族舰长正"
+"在激烈争论谁更邪恶，是星盗会更邪恶还是怪才体更邪恶。蛞蝓族舰长转向你，问你觉"
+"得哪一方更邪恶。"
 
 #: src-en/data/events_sector_aea_shleg.xml:142
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/choice[1]/text"
-msgstr ""
+msgstr "“你说得对，星盗会更邪恶。”"
 
 #: src-en/data/events_sector_aea_shleg.xml:144
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/choice[1]/event/text"
 msgstr ""
+"“看～～～见了吧，连联邦都觉得星盗会更邪恶。”\n"
+"那蛞蝓族转回身对着你。“作为我善意的表示，请收下这件武器。”"
 
 #: src-en/data/events_sector_aea_shleg.xml:150
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/choice[2]/text"
-msgstr ""
+msgstr "“甲壳族说得对，怪才体更邪恶。”"
 
 #: src-en/data/events_sector_aea_shleg.xml:152
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/choice[2]/event/text"
 msgstr ""
+"“你看，连联邦都觉得怪才体更邪恶。”\n"
+"那甲壳族转回身对着你。“作为我善意的表示，请收下这件武器。”"
 
 #: src-en/data/events_sector_aea_shleg.xml:158
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/choice[3]/text"
-msgstr ""
+msgstr "“联邦更邪恶。”"
 
 #: src-en/data/events_sector_aea_shleg.xml:160
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/choice[3]/event/text"
 msgstr ""
+"“这主意挺有意思，舰长。”甲壳族舰长回答道。\n"
+"那蛞蝓族转回身对着你。“这是个很诚实的回答，作为我们善意的表示，请收下这些补给"
+"。”"
 
 #: src-en/data/events_sector_aea_shleg.xml:166
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/choice[4]/text"
-msgstr ""
+msgstr "在不小心冒犯他们之前离开。"
 
 #: src-en/data/events_sector_aea_shleg.xml:168
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_ARGUMENT\"]/choice[4]/event/text"
-msgstr ""
+msgstr "你没时间管这个。"
 
 #: src-en/data/events_sector_aea_shleg.xml:170
 msgid ""
@@ -169,16 +192,18 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_FUEL\"]/text"
 msgstr ""
+"在这个信标处有一个无政府主义者的贸易空间站。空间站上的一名甲壳族呼叫你。“你好"
+"，舰长，看来我们的燃料库存过剩了，你愿意以折扣价从我们这里买一些吗？”"
 
 #: src-en/data/events_sector_aea_shleg.xml:186
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_FUEL\"]/choice[1]/text"
-msgstr ""
+msgstr "购买燃料。"
 
 #: src-en/data/events_sector_aea_shleg.xml:188
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_FUEL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "甲壳族把燃料转移给你。"
 
 #: src-en/data/events_sector_aea_shleg.xml:194
 msgid ""
@@ -193,12 +218,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shleg.xml:204
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_FUEL\"]/choice[2]/text"
-msgstr ""
+msgstr "礼貌地拒绝。"
 
 #: src-en/data/events_sector_aea_shleg.xml:206
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_FUEL\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你不需要额外的燃料。"
 
 #: src-en/data/events_sector_aea_shleg.xml:208
 msgid ""
@@ -213,10 +238,10 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shleg.xml:237
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现一名蛞蝓族夜爵士隐藏在星云中。你很幸运刚好及时通过周围的星云"
+"发现了他们。"
 
 #: src-en/data/events_sector_aea_shleg.xml:241
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[1]/text"
 msgstr "联系他们。"
@@ -225,16 +250,20 @@ msgstr "联系他们。"
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[1]/event/text"
 msgstr ""
+"“你好，舰长，我很惊～～讶在这里见到联邦舰长。跟无政府主义者勾结，是吗？不过别"
+"担心，我们只需要一些信息。我们在找这附近的一个无政府主义者贸易空间站，只要你"
+"告诉我们你最后见到无政府主义者的坐标，我们就走。”"
 
 #: src-en/data/events_sector_aea_shleg.xml:245
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[1]/event/choice[@req=\"aea_shleg_trading_station\"]/text"
-msgstr ""
+msgstr "（贸易空间站坐标）给他们真实的贸易空间站坐标。"
 
 #: src-en/data/events_sector_aea_shleg.xml:247
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[1]/event/choice[@req=\"aea_shleg_trading_station\"]/event/text"
-msgstr ""
+msgstr "“明智的选择，舰长，我们会告诉他们你的背叛。”那艘星舰跃迁离开了，但你注意到他"
+"们正在拆解一艘小型无政府主义者飞船。你搜刮了剩下的残骸。"
 
 #: src-en/data/events_sector_aea_shleg.xml:251
 msgid ""
@@ -244,12 +273,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shleg.xml:257
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "编造一些坐标。"
 
 #: src-en/data/events_sector_aea_shleg.xml:259
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "“明智的选择，舰长，我们会告诉他们你的背叛。”那艘星舰跃迁离开了，但你注意到他"
+"们正在拆解一艘小型无政府主义者飞船。你搜刮了剩下的残骸。"
 
 #: src-en/data/events_sector_aea_shleg.xml:265
 msgid ""
@@ -259,7 +289,7 @@ msgstr "拒绝。"
 #: src-en/data/events_sector_aea_shleg.xml:267
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "“这～～是个不幸的选择，舰长，我们只能从你的尸～～体上获取那些坐标了。”"
 
 #: src-en/data/events_sector_aea_shleg.xml:270
 msgid ""
@@ -274,7 +304,7 @@ msgstr "攻击！"
 #: src-en/data/events_sector_aea_shleg.xml:280
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "那艘星舰转向你，看来他们从一开始就知道你在这里。"
 
 #: src-en/data/events_sector_aea_shleg.xml:283
 msgid ""
@@ -284,12 +314,12 @@ msgstr "准备战斗！"
 #: src-en/data/events_sector_aea_shleg.xml:289
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[3]/text"
-msgstr ""
+msgstr "在他们发现你之前隐藏起来。"
 
 #: src-en/data/events_sector_aea_shleg.xml:291
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_KNIGHT\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你设法将自己隐藏在星云中，并为超光速驱动器充能。"
 
 #: src-en/data/events_sector_aea_shleg.xml:293
 msgid ""
@@ -305,16 +335,19 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_DIGGING\"]/text"
 msgstr ""
+"你抵达信标，发现一颗正在被挖掘的行星。你不确定他们在做什么，但他们在行星表面"
+"挖了一个巨大的坑。当你靠近时，你注意到他们实际上是在挖掘一艘巨大的坠毁星舰，"
+"它大部分是黑色的，某些区域带有微弱的绿色。有一个守卫在保护该区域。"
 
 #: src-en/data/events_sector_aea_shleg.xml:310
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_DIGGING\"]/choice[1]/text"
-msgstr ""
+msgstr "攻击守卫以进入废墟。"
 
 #: src-en/data/events_sector_aea_shleg.xml:312
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_DIGGING\"]/choice[1]/event/text"
-msgstr ""
+msgstr "守卫看到你来了，便激活了武器。"
 
 #: src-en/data/events_sector_aea_shleg.xml:315
 msgid ""
@@ -324,12 +357,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shleg.xml:321
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_DIGGING\"]/choice[2]/text"
-msgstr ""
+msgstr "别管他们。"
 
 #: src-en/data/events_sector_aea_shleg.xml:323
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_DIGGING\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你设法将自己隐藏在星云中，并为超光速驱动器充能。"
 
 #: src-en/data/events_sector_aea_shleg.xml:325
 msgid ""
@@ -345,6 +378,9 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"DESTROYED_AEA_SHLEG_RUIN\"]/text"
 msgstr ""
+"尽管采取了所有的防御措施，那艘守卫舰还是被击败了。你回收了它的残骸。\n"
+"\n"
+"如今这艘星舰已被清除，你可以自由地探查废墟了。"
 
 #: src-en/data/events_sector_aea_shleg.xml:347
 msgid ""
@@ -354,12 +390,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shleg.xml:356
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_SPACE_WHALE\"]/text"
-msgstr ""
+msgstr "这个信标有一群太空鲸。你注意到一个蛞蝓族猎手躲在星云中，等待其中一头鲸鱼脱离"
+"群体。"
 
 #: src-en/data/events_sector_aea_shleg.xml:358
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_SPACE_WHALE\"]/choice[1]/text"
-msgstr ""
+msgstr "攻击猎手。"
 
 #: src-en/data/events_sector_aea_shleg.xml:361
 msgid ""
@@ -374,12 +411,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shleg.xml:369
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_SPACE_WHALE\"]/choice[2]/text"
-msgstr ""
+msgstr "无视他们。"
 
 #: src-en/data/events_sector_aea_shleg.xml:371
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_SPACE_WHALE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你设法将自己隐藏在星云中，并为超光速驱动器充能。"
 
 #: src-en/data/events_sector_aea_shleg.xml:373
 msgid ""
@@ -394,7 +431,8 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shleg.xml:385
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_NEUROTOXINLAB\"]/text"
-msgstr ""
+msgstr "透过这片星云的雾气，你发现了一个叛军科学空间站。在无政府主义者的星区看到这种"
+"东西很奇怪，但肯定有充分的理由。"
 
 #: src-en/data/events_sector_aea_shleg.xml:388
 msgid ""
@@ -459,7 +497,6 @@ msgid ""
 msgstr "你把船员撤回船上去，以防万一。"
 
 #: src-en/data/events_sector_aea_shleg.xml:424
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_NEUROTOXINLAB\"]/choice[2]/text"
 msgstr "无视空间站。"
@@ -482,7 +519,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shleg.xml:449
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_HIDDEN_COLONY\"]/text"
-msgstr ""
+msgstr "你瞥见一艘无政府主义者星舰的尾部滑入星云。如果你动作够快，也许能追上他们。"
 
 #: src-en/data/events_sector_aea_shleg.xml:452
 msgid ""
@@ -537,13 +574,12 @@ msgstr "要求他们交出一些物资。"
 #: src-en/data/events_sector_aea_shleg.xml:485
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_HIDDEN_COLONY\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "无视殖民地。"
 
 #: src-en/data/events_sector_aea_shleg.xml:491
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_HIDDEN_COLONY\"]/choice[2]/text"
-msgstr "无视对方。"
+msgstr "无视他们。"
 
 #: src-en/data/events_sector_aea_shleg.xml:493
 msgid ""
@@ -583,7 +619,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shleg.xml:527
 msgid ""
 "data/events_sector_aea_shleg.xml$//eventList[@name=\"AEA_SHLEG_HIDDEN_COLONY_DEMAND\"]/event[1]/text"
-msgstr ""
+msgstr "无政府主义者不惜一切代价避免战斗。他们交出了多余的补给。"
 
 #: src-en/data/events_sector_aea_shleg.xml:530
 msgid ""
@@ -623,7 +659,8 @@ msgstr "需求废料。"
 #: src-en/data/events_sector_aea_shleg.xml:578
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_DISTRESS_AEA_SHLEG_CHOICE\"]/text"
-msgstr ""
+msgstr "你发现一艘无政府主义者星舰正在接近一艘小型蛞蝓族运输船。你不确定蛞蝓族做了什"
+"么才遭此待遇，但他们似乎有麻烦了。"
 
 #: src-en/data/events_sector_aea_shleg.xml:582
 msgid ""
@@ -634,6 +671,9 @@ msgstr "帮助蛞蝓族。"
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_DISTRESS_AEA_SHLEG_CHOICE\"]/choice[1]/event/text"
 msgstr ""
+"几乎在你动身去帮助蛞蝓族的同时，他们就跃迁离开了，并向你的星舰电脑发送了最后"
+"一条信息：“骗你的！”那艘无政府主义者星舰很困惑，但认为与你有关，于是发起了攻"
+"击！"
 
 #: src-en/data/events_sector_aea_shleg.xml:587
 msgid ""
@@ -664,36 +704,41 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_DISTRESS_AEA_SHLEG_GAS\"]/text"
 msgstr ""
+"求救信号来自附近的一艘甲壳族飞船，你一到他们就联系了你。“请救救我们，我们的船"
+"充满了无政府主义者的精神控制气体。如果你与我们对接，你的船也会被气体充满，但"
+"你的氧气系统应该在90秒内将其清除。”"
 
 #: src-en/data/events_sector_aea_shleg.xml:615
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_DISTRESS_AEA_SHLEG_GAS\"]/choice[1]/text"
-msgstr ""
+msgstr "对接并清除气体以拯救甲壳族！"
 
 #: src-en/data/events_sector_aea_shleg.xml:617
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_GAS_TIMER_START_LONG\"]/text"
-msgstr ""
+msgstr "你与那艘船对接，开始将精神控制气体排放到自己的星舰上。现在需要90秒才能排空气"
+"体。"
 
 #: src-en/data/events_sector_aea_shleg.xml:621
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_GAS_TIMER_START_LONG\"]/triggeredEvent[@name=\"AEA_SHLEG_GAS_TIMER\"]/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "气体将在计时器归零时清除，在此之前努力存活下来。"
 
 #: src-en/data/events_sector_aea_shleg.xml:627
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_DISTRESS_AEA_SHLEG_GAS\"]/choice[@req=\"oxygen\"]/text"
-msgstr ""
+msgstr "（高级氧气）以1.5倍速度对接并清除气体。"
 
 #: src-en/data/events_sector_aea_shleg.xml:629
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_GAS_TIMER_START_SHORT\"]/text"
-msgstr ""
+msgstr "你与那艘船对接，开始将精神控制气体排放到自己的星舰上。现在需要60秒才能排空气"
+"体。"
 
 #: src-en/data/events_sector_aea_shleg.xml:634
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_GAS_TIMER_START_SHORT\"]/triggeredEvent[@name=\"AEA_SHLEG_GAS_TIMER\"]/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "气体将在计时器归零时清除，在此之前努力存活下来。"
 
 #: src-en/data/events_sector_aea_shleg.xml:640
 msgid ""
@@ -718,12 +763,16 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shleg.xml:656
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_GAS_TIMER\"]/text"
-msgstr ""
+msgstr "你成功在气体中存活下来，并将其从自己的星舰和甲壳族的星舰上清除。他们感谢你，"
+"并送来了丰厚的奖励。"
 
 #: src-en/data/events_sector_aea_shleg.xml:688
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_ENCOUNTER_AEA_SHLEG\"]/text"
 msgstr ""
+"无政府主义者的平民通常不擅长直接战斗……但由于他们与怪才体和星盗会的冲突，一些"
+"人觉得有必要亲自出手保护这个星区。显然，你是个威胁，因为附近的无政府主义者星"
+"舰发起了攻击！"
 
 #: src-en/data/events_sector_aea_shleg.xml:692
 msgid ""
@@ -733,7 +782,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shleg.xml:697
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_ENCOUNTER_AEA_SHLEG_STORM\"]/text"
-msgstr ""
+msgstr "看起来一艘无政府主义者星舰正在这场离子风暴中等待。你不太确定他们为什么认为你"
+"有敌意，但看来你无法轻易摆脱这场战斗。"
 
 #: src-en/data/events_sector_aea_shleg.xml:701
 msgid ""
@@ -743,7 +793,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shleg.xml:707
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_ENCOUNTER_AEA_SHLEG_SLUG\"]/text"
-msgstr ""
+msgstr "通常，一艘普通的蛞蝓族星舰不可能深入无政府主义者星区这么远。然而，有一艘异常"
+"的星舰与你相遇了，现在看起来他们想打一架！"
 
 #: src-en/data/events_sector_aea_shleg.xml:711
 msgid ""
@@ -754,6 +805,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_ENCOUNTER_AEA_SHLEG_AUTO\"]/text"
 msgstr ""
+"叛军不太喜欢无政府主义者，但他们通常害怕他们的毒素，不敢亲自攻击。相反，他们"
+"更喜欢派自动星舰来做他们的脏活。不幸的是，其中一艘自动星舰认出了你并发动了攻"
+"击！"
 
 #: src-en/data/events_sector_aea_shleg.xml:721
 msgid ""
@@ -773,22 +827,26 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shleg.xml:765
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_UNIQUE_BATTLE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这里正在发生一场大规模战斗，无政府主义者有一个活跃的求救信标。"
 
 #: src-en/data/events_sector_aea_shleg.xml:771
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_UNIQUE_BATTLE\"]/text"
 msgstr ""
+"这个信标正在发生一场大规模战斗，你可以立刻看出无政府主义者正在败退。战斗中心"
+"的一艘大型无政府主义者星舰正被一艘同样大小的蛞蝓族七夜爵士团星舰攻击，看起来"
+"他们处于守势，撑不了多久了。"
 
 #: src-en/data/events_sector_aea_shleg.xml:774
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_UNIQUE_BATTLE\"]/choice[1]/text"
-msgstr ""
+msgstr "移动到前面保护无政府主义者星舰。"
 
 #: src-en/data/events_sector_aea_shleg.xml:776
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_UNIQUE_BATTLE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "那艘无政府主义者星舰现在无法自卫，所以当你移动过去保护他们时，他们也无法帮助"
+"你。"
 
 #: src-en/data/events_sector_aea_shleg.xml:779
 msgid ""
@@ -798,12 +856,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shleg.xml:785
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_UNIQUE_BATTLE\"]/choice[2]/text"
-msgstr ""
+msgstr "让他们去死。"
 
 #: src-en/data/events_sector_aea_shleg.xml:787
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_UNIQUE_BATTLE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "那艘大型无政府主义者星舰最终在蛞蝓族的火力下解体，此时战局迅速转变，剩下的无"
+"政府主义者要么被摧毁，要么逃跑。你躲在星云中，为超光速驱动器充能。"
 
 #: src-en/data/events_sector_aea_shleg.xml:789
 msgid ""
@@ -818,7 +877,8 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shleg.xml:811
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_KNIGHT_BATTLE_WIN\"]/text"
-msgstr ""
+msgstr "你摧毁了骑士的星舰，确保了那艘大型无政府主义者星舰的安全。凭借这场胜利，战局"
+"发生了转变，无政府主义者的星舰开始反击蛞蝓族。"
 
 #: src-en/data/events_sector_aea_shleg.xml:814
 msgid ""
@@ -829,37 +889,45 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_KNIGHT_BATTLE_WIN\"]/choice/event/text"
 msgstr ""
+"随着蛞蝓族撤退，你救援的那艘无政府主义者星舰呼叫了你。屏幕上出现了一个蛞蝓族"
+"和一个甲壳族，这两个人穿着不是标准的无政府主义者配色。“你好，舰长，我们很感谢"
+"你刚才的帮助。我们想知道你是否愿意帮我们一个忙。我们就不细说了，你只需要知道"
+"，你需要拖住敌人一段时间。”"
 
 #: src-en/data/events_sector_aea_shleg.xml:818
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_KNIGHT_BATTLE_WIN\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "接受任务。"
 
 #: src-en/data/events_sector_aea_shleg.xml:820
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_KNIGHT_BATTLE_WIN\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"“好的，我们在附近发现了一个戒备森严的辉光研究基地，我们需要你在我们潜入空间站"
+"时分散他们的注意力。不过你得小心，我们不能冒风险让你杀死守卫，导致基地进入封"
+"锁状态。相反，你只需要让他们跟你打上几分钟，我们则在研究基地里工作。我们会把"
+"坐标发给你。”"
 
 #: src-en/data/events_sector_aea_shleg.xml:825
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_KNIGHT_BATTLE_WIN\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "拒绝任务。"
 
 #: src-en/data/events_sector_aea_shleg.xml:835
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "那两个奇怪的无政府主义者给出的坐标。"
 
 #: src-en/data/events_sector_aea_shleg.xml:836
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/beaconType/visitedTooltip"
-msgstr "已探索的信标，没什么值得注意。"
+msgstr "探索完毕的地点。已无值得关注之物。"
 
 #: src-en/data/events_sector_aea_shleg.xml:845
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/text"
-msgstr ""
+msgstr "透过星云中的一片空地，你找到了无政府主义者所说的研究基地，旁边还有一个看起来"
+"很危险的守卫。你退回到星云中，等待无政府主义者到来。"
 
 #: src-en/data/events_sector_aea_shleg.xml:851
 msgid ""
@@ -870,6 +938,10 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/text"
 msgstr ""
+"片刻之后，一艘小型黑色飞船抵达。起初你以为它一定属于蛞蝓族骑士，但当它呼叫你"
+"时，你意识到那是无政府主义者。那两个人再次出现在通讯屏幕上。“我们到了，舰长。"
+"记住，不要杀死守卫，只需要拖住他们，直到我们完成为止。你一开始行动，我们就潜"
+"入。”"
 
 #: src-en/data/events_sector_aea_shleg.xml:855
 msgid ""
@@ -879,7 +951,7 @@ msgstr "攻击守卫。"
 #: src-en/data/events_sector_aea_shleg.xml:857
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "你武装好武器，飞出了星云。守卫做出了同样的反应。"
 
 #: src-en/data/events_sector_aea_shleg.xml:860
 msgid ""
@@ -889,12 +961,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shleg.xml:866
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "现在退缩。"
 
 #: src-en/data/events_sector_aea_shleg.xml:868
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_LIGHT_AEA_SHLEG_RADIANT_QUEST\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "当无政府主义者意识到你不会攻击时，他们跃迁离开了，显然对你很失望。"
 
 #: src-en/data/events_sector_aea_shleg.xml:870
 msgid ""
@@ -909,7 +981,8 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shleg.xml:884
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"DEFEAT_AEA_SHLEG_RADIANT_ELITE\"]/text"
-msgstr ""
+msgstr "一艘辉光飞船已被你的星舰击落。你最好忍住没有摧毁这艘船，否则你可能刚刚害死了"
+"那些无政府主义者。"
 
 #: src-en/data/events_sector_aea_shleg.xml:887
 msgid ""
@@ -924,12 +997,12 @@ msgstr "似乎精英甲壳族的货物在战斗中幸存下来。里面有一个
 #: src-en/data/events_sector_aea_shleg.xml:901
 msgid ""
 "data/events_sector_aea_shleg.xml$//ship[@name=\"AEA_SHLEG_RADIANT_QUESTSHIP\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "让守卫存活，直到计时器结束。"
 
 #: src-en/data/events_sector_aea_shleg.xml:912
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/text"
-msgstr ""
+msgstr "“我们出来了。我们会和你的星～～舰对接。”"
 
 #: src-en/data/events_sector_aea_shleg.xml:914
 msgid ""
@@ -940,21 +1013,32 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/text"
 msgstr ""
+"那两名无政府主义者与你的星舰对接后登船，其中一人抱着一个装满气体的大罐子，气"
+"体的颜色似乎在不停变幻。“干得漂亮，舰长，你处理得相当专业，让我们得以拿到这个"
+"……原型气体。”\n"
+"\n"
+"那蛞蝓族接过话头：“抱～～歉我们还没好好自我介绍，我叫希～～可尔，这是索～～罗"
+"，我们是无政府主义者最初的创始成员。”\n"
+"索柔接着说道：“我们还有最后一个提议。我们俩都想继续留在你的星舰上，但我们中有"
+"一人需要把这……气体带回给我们的研究人员。”\n"
+"“你需要在我们俩之间做出选择。”\n"
+"\n"
+"除了这个提议，他们还给了你一艘新星舰的蓝图和相当数量的废料。"
 
 #: src-en/data/events_sector_aea_shleg.xml:926
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/text"
-msgstr ""
+msgstr "（无政府主义者船员 + 良好声望）提议派你自己的船员回去代替。"
 
 #: src-en/data/events_sector_aea_shleg.xml:928
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/event/text"
-msgstr ""
+msgstr "“真是个好主意，舰长，我希望你的船员不介意。”"
 
 #: src-en/data/events_sector_aea_shleg.xml:929
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/event/crewMember"
-msgstr ""
+msgstr "西克尔"
 
 #: src-en/data/events_sector_aea_shleg.xml:935
 msgid ""
@@ -964,52 +1048,54 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shleg.xml:937
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/event/choice/event/text"
-msgstr ""
+msgstr "索罗跟在西克尔身后登船。"
 
 #: src-en/data/events_sector_aea_shleg.xml:938
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[@req=\"MORAL_SHLEG_ALL\"]/event/choice/event/crewMember"
-msgstr ""
+msgstr "索罗"
 
 #: src-en/data/events_sector_aea_shleg.xml:944
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "带走西克尔。"
 
 #: src-en/data/events_sector_aea_shleg.xml:946
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "“很～～高兴能与你并肩作战，舰长。”西克尔转向索罗，向她告别。"
 
 #: src-en/data/events_sector_aea_shleg.xml:947
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[2]/event/crewMember"
-msgstr ""
+msgstr "西克尔"
 
 #: src-en/data/events_sector_aea_shleg.xml:951
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "带走索罗。"
 
 #: src-en/data/events_sector_aea_shleg.xml:953
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "“这～～将是个不错的节奏改变。”索罗转向西克尔，向她告别。"
 
 #: src-en/data/events_sector_aea_shleg.xml:954
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[3]/event/crewMember"
-msgstr ""
+msgstr "索罗"
 
 #: src-en/data/events_sector_aea_shleg.xml:958
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"AEA_SHLEG_RADIANT_QUEST_WIN\"]/choice/event/choice[4]/text"
-msgstr ""
+msgstr "拒绝他们俩。"
 
 #: src-en/data/events_sector_aea_shleg.xml:974
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/text"
 msgstr ""
+"你抵达信标，发现一个联邦空间站，但当你呼叫他们时，得到了一个奇怪的回应。一个"
+"摄像头画面出现了，显示前哨站内部充满了一种奇怪的气体，你看不到周围有任何人。"
 
 #: src-en/data/events_sector_aea_shleg.xml:977
 msgid ""
@@ -1020,36 +1106,42 @@ msgstr "停靠并调查。"
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[1]/event/text"
 msgstr ""
+"当你准备对接时，一艘无政府主义者星舰从云层中出现，打断了你。“嘿，这是我们的实"
+"——哦该死，那是个变元者，看起来他们跟联邦一伙的，我们得离开这儿！”那艘无政府主"
+"义者星舰飞入云层。"
 
 #: src-en/data/events_sector_aea_shleg.xml:981
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "追他们！"
 
 #: src-en/data/events_sector_aea_shleg.xml:983
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你相当容易地追踪到他们在云层中的踪迹，看来他们忘了关通讯器。过了一会儿，你听"
+"到其中一人让另一人将一组坐标输入导航系统，然后那艘星舰跃迁离开了。你把坐标标"
+"记在自己的星图上。"
 
 #: src-en/data/events_sector_aea_shleg.xml:988
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "让他们走。"
 
 #: src-en/data/events_sector_aea_shleg.xml:990
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你转回前哨站，但对接后发现所有船员都死了。你尽可能地搜刮了物资。"
 
 #: src-en/data/events_sector_aea_shleg.xml:997
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[2]/text"
-msgstr ""
+msgstr "在不好的事情也发生在你身上之前离开。"
 
 #: src-en/data/events_sector_aea_shleg.xml:999
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你退回到星云中，为超光速驱动器充能。"
 
 #: src-en/data/events_sector_aea_shleg.xml:1001
 msgid ""
@@ -1064,18 +1156,17 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shleg.xml:1015
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "从逃脱的无政府主义者星舰上获取的坐标。"
 
 #: src-en/data/events_sector_aea_shleg.xml:1016
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/beaconType/visitedTooltip"
-msgstr "已探索的信标，没什么值得注意。"
+msgstr "探索完毕的地点。已无值得关注之物。"
 
 #: src-en/data/events_sector_aea_shleg.xml:1026
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现了那些无政府主义者。看起来他们正在与一个小型研究前哨站通信。"
 
 #: src-en/data/events_sector_aea_shleg.xml:1029
 msgid ""
@@ -1085,7 +1176,7 @@ msgstr "攻击！"
 #: src-en/data/events_sector_aea_shleg.xml:1031
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“哦不，他们跟踪我们了，我告诉过你别开着通讯器！”"
 
 #: src-en/data/events_sector_aea_shleg.xml:1034
 msgid ""
@@ -1093,15 +1184,14 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_aea_shleg.xml:1040
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/choice[2]/text"
-msgstr "无视对方。"
+msgstr "无视他们。"
 
 #: src-en/data/events_sector_aea_shleg.xml:1042
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST2\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你退回到星云中，为超光速驱动器充能。"
 
 #: src-en/data/events_sector_aea_shleg.xml:1044
 msgid ""
@@ -1116,7 +1206,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shleg.xml:1061
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST_WIN\"]/text"
-msgstr ""
+msgstr "你摧毁了那艘普通的星舰，搜刮了他们所有的东西。你在残骸中找到了一件武器。"
 
 #: src-en/data/events_sector_aea_shleg.xml:1065
 msgid ""
@@ -1126,4 +1216,5 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shleg.xml:1067
 msgid ""
 "data/events_sector_aea_shleg.xml$//event[@name=\"NEBULA_AEA_SHLEG_OUTPOST_QUEST_WIN\"]/choice/event/text"
-msgstr ""
+msgstr "然后你把注意力转向研究基地，在基地里你找到了一张完整的星区地图，以及你摧毁的"
+"那艘星舰的蓝图。"
