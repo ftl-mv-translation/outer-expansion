@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-10 14:44+0000\n"
+"PO-Revision-Date: 2026-04-11 09:21+0000\n"
 "Last-Translator: circle217 <3545024352@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/dataevents_special_storagexmlappend/zh_Hans/>\n"
@@ -171,6 +171,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_SUPER_SHIELD_OVERCHARGER\"]/text"
 msgstr ""
+"你即将安装辅助过载器升级。\n"
+"\t[效果：每次跃迁时，为系统可生成的所有超级护盾层充能。]"
 
 #: src-en/data/events_special_storage.xml.append:133
 msgid ""
@@ -251,6 +253,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_LIFETIME\"]/text"
 msgstr ""
+"你即将安装朽化抑制升级。\n"
+"[效果：由改装型克隆舱生产的船员，其寿命延长20秒。]"
 
 #: src-en/data/events_special_storage.xml.append:200
 msgid ""
@@ -291,6 +295,8 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_CLONE_CRIME_BUFF\"]/text"
 msgstr ""
+"你即将安装合成肌肉升级。\n"
+"\t[效果：由改装型克隆舱生产的船员，根据系统的供能数量，每格获得20点生命值。]"
 
 #: src-en/data/events_special_storage.xml.append:239
 msgid ""
@@ -337,6 +343,8 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB_ORCHID\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"次要[异教徒]：远古共融。[已安装升级]\n"
+"\t\t[你可以在空信标处购买法术]。"
 
 #: src-en/data/events_special_storage.xml.append:285
 msgid ""
@@ -366,6 +374,10 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_COMMUNION\"]/text"
 msgstr ""
+"你即将安装远古共融改装。\n"
+"[效果：你可以在空信标处购买法术]\n"
+"\n"
+"[警告：此改装仅影响异教徒船员。之后你将能够安装其他次要改装和主要改装。]"
 
 #: src-en/data/events_special_storage.xml.append:316
 msgid ""
