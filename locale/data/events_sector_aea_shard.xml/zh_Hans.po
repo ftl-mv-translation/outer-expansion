@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-04-11 09:21+0000\n"
+"Last-Translator: circle217 <3545024352@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/dataevents_sector_aea_shardxml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_aea_shard.xml:28
 msgid ""
@@ -23,37 +30,39 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shard.xml:73
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/text"
-msgstr ""
+msgstr "碎晶铸者并不以商人闻名，但尽管如此，这里还是建立了一个市场。这里出售的水晶族"
+"圣物似乎吸引了相当多的人群。你还注意到市场后面有一个蜡烛店。"
 
 #: src-en/data/events_sector_aea_shard.xml:75
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/text"
-msgstr ""
+msgstr "进入市场。"
 
 #: src-en/data/events_sector_aea_shard.xml:77
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你在市场里找到了各种各样的物品，从古代水晶餐具到罕见的水晶武器。"
 
 #: src-en/data/events_sector_aea_shard.xml:79
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "查看售卖古代家用物品的商人。"
 
 #: src-en/data/events_sector_aea_shard.xml:81
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "大多数物品对你来说都没用，但摆在后排的一个奇怪装置吸引了你的注意。商人解释说"
+"，这是一个古老的冷却装置，你或许可以用它来强化你的武器系统。"
 
 #: src-en/data/events_sector_aea_shard.xml:83
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "购买冷却装置。[20~]"
 
 #: src-en/data/events_sector_aea_shard.xml:85
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你将冷却装置安装到你的武器系统中。"
 
 #: src-en/data/events_sector_aea_shard.xml:91
 msgid ""
@@ -63,27 +72,27 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:97
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "前往下一家商店。"
 
 #: src-en/data/events_sector_aea_shard.xml:103
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "查看售卖罕见水晶武器的商人。"
 
 #: src-en/data/events_sector_aea_shard.xml:105
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "看起来大多数小型武器已经售出，只剩下几件舰载级武器。"
 
 #: src-en/data/events_sector_aea_shard.xml:107
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "购买精英水晶爆发 MK I。[80~]"
 
 #: src-en/data/events_sector_aea_shard.xml:109
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你付钱给商人，把武器带回你的星舰。"
 
 #: src-en/data/events_sector_aea_shard.xml:115
 msgid ""
@@ -93,12 +102,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:121
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "购买精英神经水晶。[80~]"
 
 #: src-en/data/events_sector_aea_shard.xml:123
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你付钱给商人，把武器带回你的星舰。"
 
 #: src-en/data/events_sector_aea_shard.xml:129
 msgid ""
@@ -108,22 +117,22 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:135
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "前往下一家商店。"
 
 #: src-en/data/events_sector_aea_shard.xml:141
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "直接去商店。"
 
 #: src-en/data/events_sector_aea_shard.xml:147
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[2]/text"
-msgstr ""
+msgstr "无视市场。"
 
 #: src-en/data/events_sector_aea_shard.xml:149
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_CRYSTAL_KNICKNACKS\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你无视了市场。"
 
 #: src-en/data/events_sector_aea_shard.xml:151
 msgid ""
@@ -137,37 +146,41 @@ msgstr "跳过。"
 
 #: src-en/data/events_sector_aea_shard.xml:163
 msgid "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BAR\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现一个喧闹的酒吧，里面挤满了碎晶铸造者海盗。"
 
 #: src-en/data/events_sector_aea_shard.xml:165
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BAR\"]/choice[1]/text"
-msgstr ""
+msgstr "进入酒吧。"
 
 #: src-en/data/events_sector_aea_shard.xml:167
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BAR\"]/choice[1]/event/text"
 msgstr ""
+"你走进酒吧，引起了角落里坐着的一对海盗的注意。你注意到其中一人指着你，对另一"
+"人说着什么。\n"
+"最终你走到他们面前。“你是舰长吧？在为联邦工作？我们最近被一艘叛军星舰袭击，失"
+"去了其他船员。我们想知道你是否愿意收留我们俩，只收一点小费用。”"
 
 #: src-en/data/events_sector_aea_shard.xml:170
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BAR\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "雇佣他俩。[70~]"
 
 #: src-en/data/events_sector_aea_shard.xml:172
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BAR\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你欢迎他们登船，然后准备离开。"
 
 #: src-en/data/events_sector_aea_shard.xml:180
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BAR\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "礼貌地拒绝邀请。"
 
 #: src-en/data/events_sector_aea_shard.xml:182
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BAR\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你在酒吧里待了一会儿，然后返回星舰，在离开之前还有些时间可以做些别的事。"
 
 #: src-en/data/events_sector_aea_shard.xml:184
 msgid ""
@@ -182,12 +195,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shard.xml:196
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BAR\"]/choice[2]/text"
-msgstr ""
+msgstr "无视酒吧。"
 
 #: src-en/data/events_sector_aea_shard.xml:198
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BAR\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你无视了酒吧。"
 
 #: src-en/data/events_sector_aea_shard.xml:200
 msgid ""
@@ -202,47 +215,58 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shard.xml:235
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/text"
-msgstr ""
+msgstr "你抵达信标，通讯器立刻捕捉到两名碎晶铸者舰长正在争吵，声音刺耳。"
 
 #: src-en/data/events_sector_aea_shard.xml:237
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/text"
-msgstr ""
+msgstr "偷听。"
 
 #: src-en/data/events_sector_aea_shard.xml:239
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/event/text"
 msgstr ""
+"“听着，你根本无权讲那个故事，因为是我发现了太空鲸，不是你！”“我们是一起发现那"
+"些鲸的，我们俩都有权讲太空鲸的故事。”第一个舰长终于注意到你，回应道。“好吧，"
+"让这个变元者来评评理，是因为我发现了它们，所以该由我来讲这个故事，还是因为他"
+"晚到一步，就该让他讲？”"
 
 #: src-en/data/events_sector_aea_shard.xml:241
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "“应该是第一个人的故事。谁发现归谁。”"
 
 #: src-en/data/events_sector_aea_shard.xml:243
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"“谢谢，看见没，变元者说我是对的。”第一个舰长回应道。第二个舰长嘟囔了几句抱怨"
+"，然后飞走了。第一个舰长把注意力转回你身上。“为了感谢你的支持，这些补给给你一"
+"些。”"
 
 #: src-en/data/events_sector_aea_shard.xml:248
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "“嗯，既然你们俩都在场，那你们俩都应该讲。”"
 
 #: src-en/data/events_sector_aea_shard.xml:250
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"“谢谢，看见没，变元者说我是对的。”第二个舰长回应道。第一个舰长嘟囔了几句抱怨"
+"，然后飞走了。第二个舰长把注意力转回你身上。“为了感谢你的支持，这些补给给你一"
+"些。”"
 
 #: src-en/data/events_sector_aea_shard.xml:255
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "“这个故事应该只让第二个人讲。”"
 
 #: src-en/data/events_sector_aea_shard.xml:257
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "“什么！他根本就没发现鲸！好吧，去你的！”第一个舰长被你的回答激怒，启动了武器"
+"，对准了你。第二艘船趁机逃跑了。"
 
 #: src-en/data/events_sector_aea_shard.xml:260
 msgid ""
@@ -252,22 +276,22 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:266
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "“我不太确定……”"
 
 #: src-en/data/events_sector_aea_shard.xml:268
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/event/choice[4]/event/text"
-msgstr ""
+msgstr "“好吧，算了。”第一个舰长飞走了，对继续争吵失去了兴趣。"
 
 #: src-en/data/events_sector_aea_shard.xml:270
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/event/choice[4]/event/choice[1]/text"
-msgstr ""
+msgstr "攻击剩下的那艘船。"
 
 #: src-en/data/events_sector_aea_shard.xml:272
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/event/choice[4]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你启动武器，准备战斗。"
 
 #: src-en/data/events_sector_aea_shard.xml:275
 msgid ""
@@ -277,12 +301,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:281
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/event/choice[4]/event/choice[2]/text"
-msgstr ""
+msgstr "准备离开。"
 
 #: src-en/data/events_sector_aea_shard.xml:283
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[1]/event/choice[4]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你等待超光速驱动器充能。"
 
 #: src-en/data/events_sector_aea_shard.xml:285
 msgid ""
@@ -297,12 +321,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shard.xml:299
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[2]/text"
-msgstr ""
+msgstr "无视他们。"
 
 #: src-en/data/events_sector_aea_shard.xml:301
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ARGUMENT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你切断了他们的通讯频率，等待超光速驱动器充能。"
 
 #: src-en/data/events_sector_aea_shard.xml:303
 msgid ""
@@ -317,36 +341,49 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shard.xml:315
 msgid "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_DRUNK\"]/text"
 msgstr ""
+"一艘碎晶铸者星舰拦住你。“嘿！你……混蛋！”这艘星舰的主人似乎喝醉了。“这整整……战"
+"争。都是你的错！你……变元者。要不是……联邦又笨又慢，这叛军什么的根本就不会发生"
+"。现在我的生意一落千丈，都怪你和你那跨元战争挡道！”"
 
 #: src-en/data/events_sector_aea_shard.xml:318
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_DRUNK\"]/choice[@req=\"unique_nights\"]/text"
-msgstr ""
+msgstr "（七夜）“你 的 生 意 做 不 下 去 是 因 为 你 太 菜 了。”"
 
 #: src-en/data/events_sector_aea_shard.xml:320
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_DRUNK\"]/choice[@req=\"unique_nights\"]/event/text"
 msgstr ""
+"“那个醉汉试图回应，但还没开口，七夜就打断了他。”哦，生意不好只是因为时运不济"
+"，不是你的错？让我猜猜，在叛军出现之前，你怪你老婆。或者你的竞争对手使了绊子"
+"？闭嘴吧，你就是个失败者。认了吧。”\n"
+"\n"
+"“可是我……你……”那男人拼命想反驳七夜，但他动摇了。随着船上另一个海盗走向通讯器"
+"，传来踉跄的脚步声。“好吧，我觉得你刚才那么做是帮了我们大家一个忙。不如我们把"
+"这个给你，然后各走各的路？”"
 
 #: src-en/data/events_sector_aea_shard.xml:327
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_DRUNK\"]/choice[2]/text"
-msgstr ""
+msgstr "用有理有据的辩论与他争论。"
 
 #: src-en/data/events_sector_aea_shard.xml:329
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_DRUNK\"]/choice[2]/event/text"
 msgstr ""
+"你向他解释你使命的重要性，但他用各种标准谬论完全驳斥了你所有有理有据的论点。"
+"你礼貌地试图指出他推理中的谬误，但出于某种奇怪而不可知的原因，这并没有让那个"
+"愤怒的醉汉海盗明白。你意识到这毫无进展，便离开了那艘星舰和它的咆哮。"
 
 #: src-en/data/events_sector_aea_shard.xml:334
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_DRUNK\"]/choice[3]/text"
-msgstr ""
+msgstr "对他辱骂。"
 
 #: src-en/data/events_sector_aea_shard.xml:336
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_DRUNK\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你与那家伙进行了一场疲惫的对骂。最终，你说的话刺痛了他。他发动了攻击！"
 
 #: src-en/data/events_sector_aea_shard.xml:339
 msgid ""
@@ -356,17 +393,17 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:345
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_DRUNK\"]/choice[4]/text"
-msgstr ""
+msgstr "威胁要把他的星舰炸成碎片。"
 
 #: src-en/data/events_sector_aea_shard.xml:349
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_DRUNK\"]/choice[5]/text"
-msgstr ""
+msgstr "干脆把他的星舰炸成碎片。"
 
 #: src-en/data/events_sector_aea_shard.xml:351
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_DRUNK\"]/choice[5]/event/text"
-msgstr ""
+msgstr "“来了来了！大家看啊，我在被镇压！”那艘碎晶铸者星舰还击了！"
 
 #: src-en/data/events_sector_aea_shard.xml:354
 msgid ""
@@ -376,12 +413,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:360
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_DRUNK\"]/choice[6]/text"
-msgstr ""
+msgstr "完全无视他。"
 
 #: src-en/data/events_sector_aea_shard.xml:362
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_DRUNK\"]/choice[6]/event/text"
-msgstr ""
+msgstr "那艘星舰还在对你进行恶语广播，但你毫不理会。"
 
 #: src-en/data/events_sector_aea_shard.xml:364
 msgid ""
@@ -396,12 +433,13 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shard.xml:376
 msgid ""
 "data/events_sector_aea_shard.xml$//eventList[@name=\"AEA_SHARD_DRUNK_THREATEN\"]/event[1]/text"
-msgstr ""
+msgstr "“哇哦哇哦，冷静点，伙计！我不是那个意思，我们都是朋友！看，朋友！”那艘碎晶铸"
+"者星舰从货舱里扔出一件武器，然后与你保持距离。"
 
 #: src-en/data/events_sector_aea_shard.xml:380
 msgid ""
 "data/events_sector_aea_shard.xml$//eventList[@name=\"AEA_SHARD_DRUNK_THREATEN\"]/event[2]/text"
-msgstr ""
+msgstr "““哦，你想打是吧？想打是吧？我奉陪！”那艘碎晶铸者星舰抢先攻击了！”"
 
 #: src-en/data/events_sector_aea_shard.xml:383
 msgid ""
@@ -411,7 +449,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:388
 msgid ""
 "data/events_sector_aea_shard.xml$//eventList[@name=\"AEA_SHARD_DRUNK_THREATEN\"]/event[3]/text"
-msgstr ""
+msgstr "““呃……你听着……我绝对能把你揍扁，但我活儿太多要干。就这样。”那艘星舰迅速脱离了"
+"。”"
 
 #: src-en/data/events_sector_aea_shard.xml:391
 msgid ""
@@ -426,27 +465,29 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shard.xml:402
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_TERRITORY\"]/text"
-msgstr ""
+msgstr "你刚抵达，一艘碎晶铸者星舰就迎面而来：“喂，这是我们的地盘，你最好滚开，否则别"
+"怪我们说话难听。”"
 
 #: src-en/data/events_sector_aea_shard.xml:405
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_TERRITORY\"]/choice[1]/text"
-msgstr ""
+msgstr "“放松，我是联邦的人。”"
 
 #: src-en/data/events_sector_aea_shard.xml:407
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_TERRITORY\"]/choice[1]/event/text"
-msgstr ""
+msgstr "那海盗似乎困惑了一下，然后更加坚持。“是啊，那我们不信你，那正是叛军间谍会说的"
+"话！现在滚开。”"
 
 #: src-en/data/events_sector_aea_shard.xml:409
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_TERRITORY\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "“不，我们不是叛军间谍，看看我们的联邦授权文件。”"
 
 #: src-en/data/events_sector_aea_shard.xml:411
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_TERRITORY\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“那正是叛军间谍会有的东西！准备受死吧，叛军渣滓！”"
 
 #: src-en/data/events_sector_aea_shard.xml:414
 msgid ""
@@ -456,12 +497,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:420
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_TERRITORY\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "按指示滚开。"
 
 #: src-en/data/events_sector_aea_shard.xml:422
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_TERRITORY\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你移动到一个安全的距离，等待超光速驱动器充能。"
 
 #: src-en/data/events_sector_aea_shard.xml:424
 msgid ""
@@ -474,7 +515,6 @@ msgid ""
 msgstr "跳过。"
 
 #: src-en/data/events_sector_aea_shard.xml:436
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_TERRITORY\"]/choice[2]/text"
 msgstr "攻击这艘船。"
@@ -482,12 +522,12 @@ msgstr "攻击这艘船。"
 #: src-en/data/events_sector_aea_shard.xml:440
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_TERRITORY\"]/choice[3]/text"
-msgstr ""
+msgstr "按指示滚开。"
 
 #: src-en/data/events_sector_aea_shard.xml:442
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_TERRITORY\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你移动到一个安全的距离，等待超光速驱动器充能。"
 
 #: src-en/data/events_sector_aea_shard.xml:444
 msgid ""
@@ -502,37 +542,44 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shard.xml:471
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/text"
-msgstr ""
+msgstr "你抵达信标，开始扫描周围环境。附近有一颗行星，上面有一个奇怪的建筑，看起来像"
+"是一座大型金字塔，但你无法辨认出更多细节。"
 
 #: src-en/data/events_sector_aea_shard.xml:474
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/text"
-msgstr ""
+msgstr "降落在建筑附近。"
 
 #: src-en/data/events_sector_aea_shard.xml:476
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你抵达后才发现，那实际上是一大堆垃圾，一个奇怪的水晶老人在迎接你。“啊，旅行者"
+"，欢迎来到垃圾堆，请随意为这堆东西捐款。”"
 
 #: src-en/data/events_sector_aea_shard.xml:478
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "捐赠100~"
 
 #: src-en/data/events_sector_aea_shard.xml:480
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你将废料扔到堆上，看着它翻动搅动，最终安顿下来。就在你以为结束的时候，垃圾堆"
+"再次翻动，一件武器浮上了表面。\n"
+"你注意到表面仍有大量废料，你可以把它们拿回来，但这似乎会惹怒这个……东西。"
 
 #: src-en/data/events_sector_aea_shard.xml:487
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "偷回部分你的废料。"
 
 #: src-en/data/events_sector_aea_shard.xml:489
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PILE_PUNISH\"]/text"
 msgstr ""
+"你开始铲起废料，带回你的星舰。就在你以为要得手时，偷来的废料爆炸了，摧毁了附"
+"近的所有废料。片刻之后，你探测到一艘碎晶铸者星舰在附近显形。准备战斗。"
 
 #: src-en/data/events_sector_aea_shard.xml:496
 msgid ""
@@ -542,117 +589,132 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:502
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "无视诱惑。"
 
 #: src-en/data/events_sector_aea_shard.xml:508
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "捐赠90~"
 
 #: src-en/data/events_sector_aea_shard.xml:510
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"你将废料扔到堆上，看着它翻动搅动，最终安顿下来。就在你以为结束的时候，垃圾堆"
+"再次翻动，一件武器浮上了表面。\n"
+"你注意到表面仍有大量废料，你可以把它们拿回来，但这似乎会惹怒这个……东西。"
 
 #: src-en/data/events_sector_aea_shard.xml:517
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "偷回部分你的废料。"
 
 #: src-en/data/events_sector_aea_shard.xml:521
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "无视诱惑。"
 
 #: src-en/data/events_sector_aea_shard.xml:527
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "捐赠80~"
 
 #: src-en/data/events_sector_aea_shard.xml:529
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"你将废料扔到堆上，看着它翻动搅动，最终安顿下来。就在你以为结束的时候，垃圾堆"
+"再次翻动，一件武器浮上了表面。\n"
+"你注意到表面仍有大量废料，你可以把它们拿回来，但这似乎会惹怒这个……东西。"
 
 #: src-en/data/events_sector_aea_shard.xml:536
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "偷回部分你的废料。"
 
 #: src-en/data/events_sector_aea_shard.xml:540
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "无视诱惑。"
 
 #: src-en/data/events_sector_aea_shard.xml:546
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "捐赠70~"
 
 #: src-en/data/events_sector_aea_shard.xml:548
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"你将废料扔到堆上，看着它翻动搅动，最终安顿下来。就在你以为结束的时候，垃圾堆"
+"再次翻动，一件武器浮上了表面。\n"
+"你注意到表面仍有大量废料，你可以把它们拿回来，但这似乎会惹怒这个……东西。"
 
 #: src-en/data/events_sector_aea_shard.xml:555
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[4]/event/choice[1]/text"
-msgstr ""
+msgstr "偷回部分你的废料。"
 
 #: src-en/data/events_sector_aea_shard.xml:559
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[4]/event/choice[2]/text"
-msgstr ""
+msgstr "无视诱惑。"
 
 #: src-en/data/events_sector_aea_shard.xml:565
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "捐赠60~"
 
 #: src-en/data/events_sector_aea_shard.xml:567
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[5]/event/text"
 msgstr ""
+"你将废料扔到堆上，看着它翻动搅动，最终安顿下来。就在你以为结束的时候，垃圾堆"
+"再次翻动，一件武器浮上了表面。\n"
+"你注意到表面仍有大量废料，你可以把它们拿回来，但这似乎会惹怒这个……东西。"
 
 #: src-en/data/events_sector_aea_shard.xml:574
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[5]/event/choice[1]/text"
-msgstr ""
+msgstr "偷回部分你的废料。"
 
 #: src-en/data/events_sector_aea_shard.xml:578
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[5]/event/choice[2]/text"
-msgstr ""
+msgstr "无视诱惑。"
 
 #: src-en/data/events_sector_aea_shard.xml:584
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[6]/text"
-msgstr ""
+msgstr "捐赠50~"
 
 #: src-en/data/events_sector_aea_shard.xml:586
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[6]/event/text"
 msgstr ""
+"你将废料扔到堆上，看着它翻动搅动，最终安顿下来。就在你以为结束的时候，垃圾堆"
+"再次翻动，一件武器浮上了表面。\n"
+"你注意到表面仍有大量废料，你可以把它们拿回来，但这似乎会惹怒这个……东西。"
 
 #: src-en/data/events_sector_aea_shard.xml:593
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[6]/event/choice[1]/text"
-msgstr ""
+msgstr "偷回部分你的废料。"
 
 #: src-en/data/events_sector_aea_shard.xml:597
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[6]/event/choice[2]/text"
-msgstr ""
+msgstr "无视诱惑。"
 
 #: src-en/data/events_sector_aea_shard.xml:603
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[7]/text"
-msgstr ""
+msgstr "试图偷走垃圾堆上的一些废料。"
 
 #: src-en/data/events_sector_aea_shard.xml:607
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_BIG_PILE\"]/choice[1]/event/choice[8]/text"
-msgstr ""
+msgstr "无视垃圾堆。"
 
 #: src-en/data/events_sector_aea_shard.xml:613
 msgid ""
@@ -662,7 +724,7 @@ msgstr "不理会它。"
 #: src-en/data/events_sector_aea_shard.xml:615
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PILE_IGNORE\"]/text"
-msgstr ""
+msgstr "你移动到一个安全的距离，等待超光速驱动器充能。"
 
 #: src-en/data/events_sector_aea_shard.xml:617
 msgid ""
@@ -677,17 +739,17 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shard.xml:643
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DISTRESS_AEA_SHARD_SHUTTLE\"]/text"
-msgstr ""
+msgstr "求救信号的来源是一艘被奴隶贩子追赶的小型碎晶铸者穿梭机。他们没什么自卫手段。"
 
 #: src-en/data/events_sector_aea_shard.xml:647
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DISTRESS_AEA_SHARD_SHUTTLE\"]/choice[1]/text"
-msgstr ""
+msgstr "攻击奴隶贩子！"
 
 #: src-en/data/events_sector_aea_shard.xml:649
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DISTRESS_AEA_SHARD_SHUTTLE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你刚一靠近，奴隶贩子就转移了目标。“又一个诱人的目标！那就来吧！”"
 
 #: src-en/data/events_sector_aea_shard.xml:652
 msgid ""
@@ -697,22 +759,23 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:658
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DISTRESS_AEA_SHARD_SHUTTLE\"]/choice[2]/text"
-msgstr ""
+msgstr "等待奴隶贩子抓住他们的猎物。"
 
 #: src-en/data/events_sector_aea_shard.xml:660
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DISTRESS_AEA_SHARD_SHUTTLE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你慷慨地等待奴隶贩子完成他们的交易。完成后，奴隶贩子呼叫你。“你很有耐心。我猜"
+"你想和我们做生意，对吧？”"
 
 #: src-en/data/events_sector_aea_shard.xml:662
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DISTRESS_AEA_SHARD_SHUTTLE\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "买一个碎晶铸者奴隶。"
 
 #: src-en/data/events_sector_aea_shard.xml:664
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DISTRESS_AEA_SHARD_SHUTTLE\"]/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“买得好。愿他们好好为你服务，舰长……”"
 
 #: src-en/data/events_sector_aea_shard.xml:670
 msgid ""
@@ -722,12 +785,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:676
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DISTRESS_AEA_SHARD_SHUTTLE\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "买一个水晶族奴隶。"
 
 #: src-en/data/events_sector_aea_shard.xml:678
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DISTRESS_AEA_SHARD_SHUTTLE\"]/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "“买得好。愿他们好好为你服务，舰长……”"
 
 #: src-en/data/events_sector_aea_shard.xml:684
 msgid ""
@@ -737,12 +800,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:690
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DISTRESS_AEA_SHARD_SHUTTLE\"]/choice[2]/event/choice[@req=\"rep_slaver\"]/text"
-msgstr ""
+msgstr "[声望：1+] 买一个碎晶铸造者舰长。"
 
 #: src-en/data/events_sector_aea_shard.xml:692
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DISTRESS_AEA_SHARD_SHUTTLE\"]/choice[2]/event/choice[@req=\"rep_slaver\"]/event/text"
-msgstr ""
+msgstr "“买得好。愿他们好好为你服务，舰长……”"
 
 #: src-en/data/events_sector_aea_shard.xml:698
 msgid ""
@@ -752,22 +815,22 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:704
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DISTRESS_AEA_SHARD_SHUTTLE\"]/choice[2]/event/choice[4]/text"
-msgstr ""
+msgstr "不。"
 
 #: src-en/data/events_sector_aea_shard.xml:706
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DISTRESS_AEA_SHARD_SHUTTLE\"]/choice[2]/event/choice[4]/event/text"
-msgstr ""
+msgstr "“好吧。随你便……？”奴隶贩子感到奇怪，便离开了。"
 
 #: src-en/data/events_sector_aea_shard.xml:712
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DISTRESS_AEA_SHARD_SHUTTLE\"]/choice[3]/text"
-msgstr ""
+msgstr "回避情况。"
 
 #: src-en/data/events_sector_aea_shard.xml:714
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DISTRESS_AEA_SHARD_SHUTTLE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你懒得卷入这件事。你的不介入确保没人会对你有更好或更坏的看法。"
 
 #: src-en/data/events_sector_aea_shard.xml:716
 msgid ""
@@ -782,73 +845,77 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shard.xml:729
 msgid ""
 "data/events_sector_aea_shard.xml$//ship[@name=\"SHIP_SLAVER_AEA_SHARD_CHASER\"]/surrender/text"
-msgstr ""
+msgstr "“我们投降！带走我们一个奴隶作为贡品；如果你摧毁我们，他们反正也都会死！”"
 
 #: src-en/data/events_sector_aea_shard.xml:731
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//ship[@name=\"SHIP_SLAVER_AEA_SHARD_CHASER\"]/surrender/choice[1]/text"
-msgstr "接受提议。"
+msgstr "接受他们的提议。"
 
 #: src-en/data/events_sector_aea_shard.xml:738
 msgid ""
 "data/events_sector_aea_shard.xml$//ship[@name=\"SHIP_SLAVER_AEA_SHARD_CHASER\"]/surrender/choice[2]/text"
-msgstr ""
+msgstr "投降不在选项之内。"
 
 #: src-en/data/events_sector_aea_shard.xml:743
 msgid ""
 "data/events_sector_aea_shard.xml$//ship[@name=\"SHIP_SLAVER_AEA_SHARD_CHASER\"]/destroyed/text"
-msgstr ""
+msgstr "奴隶船被摧毁了。他们不会再继续邪恶的勾当，但那艘船上可能有许多生命随之消逝。"
 
 #: src-en/data/events_sector_aea_shard.xml:746
 msgid ""
 "data/events_sector_aea_shard.xml$//ship[@name=\"SHIP_SLAVER_AEA_SHARD_CHASER\"]/destroyed/choice/text"
-msgstr ""
+msgstr "检查穿梭机。"
 
 #: src-en/data/events_sector_aea_shard.xml:748
 msgid ""
 "data/events_sector_aea_shard.xml$//ship[@name=\"SHIP_SLAVER_AEA_SHARD_CHASER\"]/destroyed/choice/event/text"
-msgstr ""
+msgstr "“我们本以为那看起来像螳螂族的船，他们可能友好……结果不是。是海盗船。在你救我们"
+"之前，他们甚至已经抓了我们一些人。嗯，这是给你救我们的谢礼。”"
 
 #: src-en/data/events_sector_aea_shard.xml:754
 msgid ""
 "data/events_sector_aea_shard.xml$//ship[@name=\"SHIP_SLAVER_AEA_SHARD_CHASER\"]/deadCrew/text"
-msgstr ""
+msgstr "战斗停止后，你的注意力被带到星舰的禁闭室——一个碎晶铸造者请求回去。"
 
 #: src-en/data/events_sector_aea_shard.xml:757
 msgid ""
 "data/events_sector_aea_shard.xml$//ship[@name=\"SHIP_SLAVER_AEA_SHARD_CHASER\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "带他们回自己的星舰。"
 
 #: src-en/data/events_sector_aea_shard.xml:759
 msgid ""
 "data/events_sector_aea_shard.xml$//ship[@name=\"SHIP_SLAVER_AEA_SHARD_CHASER\"]/deadCrew/choice/event/text"
-msgstr ""
+msgstr "“我们本以为那看起来像螳螂族的船，他们可能友好……结果不是。是海盗船。感谢你救回"
+"我们的船员。我们不会忘记的。”"
 
 #: src-en/data/events_sector_aea_shard.xml:778
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/text"
-msgstr ""
+msgstr "你抵达信标，一艘碎晶铸者星舰迎面而来。它似乎正在呼叫你。"
 
 #: src-en/data/events_sector_aea_shard.xml:781
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[1]/text"
-msgstr ""
+msgstr "接听呼叫。"
 
 #: src-en/data/events_sector_aea_shard.xml:783
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[1]/event/text"
 msgstr ""
+"“变元者，我们想知道能否临时雇佣你做一个工作。一伙提卡卡的奴隶贩子一直在给我们"
+"制造麻烦——我们甚至有一座空间站被偷了。我们需要有人追踪他们的星舰，并处理被盗"
+"的空间站。如果你能完好无损地拿回空间站而不炸毁它，还会有额外报酬。”"
 
 #: src-en/data/events_sector_aea_shard.xml:785
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "接受工作。"
 
 #: src-en/data/events_sector_aea_shard.xml:787
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“太好了，我们正在把那艘星舰的坐标发给你。”"
 
 #: src-en/data/events_sector_aea_shard.xml:792
 msgid ""
@@ -858,7 +925,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:794
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "“这是空间站的坐标。”"
 
 #: src-en/data/events_sector_aea_shard.xml:801
 msgid ""
@@ -868,7 +935,7 @@ msgstr "礼貌地拒绝。"
 #: src-en/data/events_sector_aea_shard.xml:803
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你移动到一个安全的距离，等待超光速驱动器充能。"
 
 #: src-en/data/events_sector_aea_shard.xml:805
 msgid ""
@@ -881,7 +948,6 @@ msgid ""
 msgstr "跳过。"
 
 #: src-en/data/events_sector_aea_shard.xml:817
-#, fuzzy
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[2]/text"
 msgstr "攻击这艘船。"
@@ -889,7 +955,7 @@ msgstr "攻击这艘船。"
 #: src-en/data/events_sector_aea_shard.xml:819
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你激活武器，准备攻击。"
 
 #: src-en/data/events_sector_aea_shard.xml:822
 msgid ""
@@ -904,7 +970,7 @@ msgstr "不理会它。"
 #: src-en/data/events_sector_aea_shard.xml:830
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你移动到一个安全的距离，等待超光速驱动器充能。"
 
 #: src-en/data/events_sector_aea_shard.xml:832
 msgid ""
@@ -919,12 +985,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shard.xml:847
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "你被雇佣来摧毁的提卡卡星舰的最后已知位置。"
 
 #: src-en/data/events_sector_aea_shard.xml:849
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_SHIP_QUEST\"]/text"
-msgstr ""
+msgstr "你抵达信标，找到了那艘提卡卡星舰。他们也发现了你，并发动了攻击。"
 
 #: src-en/data/events_sector_aea_shard.xml:852
 msgid ""
@@ -958,12 +1024,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:892
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_STATION_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "你被雇佣来清除（或至少摧毁）的被盗空间站的位置。"
 
 #: src-en/data/events_sector_aea_shard.xml:894
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_RIVAL_STATION_QUEST\"]/text"
-msgstr ""
+msgstr "你抵达信标，找到了被盗的空间站。他们也发现了你，并激活武器准备应对你的攻击。"
 
 #: src-en/data/events_sector_aea_shard.xml:897
 msgid ""
@@ -997,12 +1063,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:944
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_TIIIKAKA_NEXT\"]/text"
-msgstr ""
+msgstr "你需要前往海盗给你的另一个位置才能完成任务。"
 
 #: src-en/data/events_sector_aea_shard.xml:949
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_TIIIKAKA_FINISHED\"]/text"
-msgstr ""
+msgstr "最终，雇佣你的海盗出现了。他们呼叫你，感谢你完成了工作。"
 
 #: src-en/data/events_sector_aea_shard.xml:951
 msgid ""
@@ -1014,7 +1080,8 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_TIIIKAKA_FINISHED\"]/choice[@req=\"aea_shard_quest_crewkill\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "“因为你保住了空间站，我们增加了你的报酬，干得好。”那艘星舰转移了报酬，然后去"
+"回收空间站了。"
 
 #: src-en/data/events_sector_aea_shard.xml:960
 msgid ""
@@ -1026,27 +1093,28 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_TIIIKAKA_FINISHED\"]/choice[@req=\"aea_shard_quest_crewkill\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "“很遗憾你没保住空间站，不过干得还是不错。”那艘星舰转移了报酬，然后去回收空间"
+"站的残骸了。"
 
 #: src-en/data/events_sector_aea_shard.xml:988
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"FLOATING_CARGO_AEA_SHARD\"]/text"
-msgstr ""
+msgstr "在离信标不远处，你探测到一艘被毁的货船，其货物散落在附近，完好无损。"
 
 #: src-en/data/events_sector_aea_shard.xml:990
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"FLOATING_CARGO_AEA_SHARD\"]/choice[1]/text"
-msgstr ""
+msgstr "带上船。"
 
 #: src-en/data/events_sector_aea_shard.xml:994
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"FLOATING_CARGO_AEA_SHARD\"]/choice[2]/text"
-msgstr ""
+msgstr "别管它，这看起来很可疑。"
 
 #: src-en/data/events_sector_aea_shard.xml:996
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"FLOATING_CARGO_AEA_SHARD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你不管那些货物，准备跃迁。"
 
 #: src-en/data/events_sector_aea_shard.xml:998
 msgid ""
@@ -1061,27 +1129,28 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shard.xml:1008
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"FLOATING_CARGO_AEA_SHARD\"]/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "（高级传感器）对箱子进行高级扫描。"
 
 #: src-en/data/events_sector_aea_shard.xml:1012
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"FLOATING_CARGO_AEA_SHARD\"]/choice[@req=\"ADV_SCANNERS\"]/text"
-msgstr ""
+msgstr "（长距扫描仪）对箱子进行高级扫描。"
 
 #: src-en/data/events_sector_aea_shard.xml:1016
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"FLOATING_CARGO_AEA_SHARD\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "（蛞蝓族船员）让你的蛞蝓族检查箱子。"
 
 #: src-en/data/events_sector_aea_shard.xml:1020
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"FLOATING_CARGO_AEA_SHARD\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/text"
-msgstr ""
+msgstr "（心灵感应甲壳族）让你的甲壳族检查箱子。"
 
 #: src-en/data/events_sector_aea_shard.xml:1037
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_HOSTILE_SHIP\"]/text"
-msgstr ""
+msgstr "不知从哪里冒出来一艘碎晶铸造者星舰，跃迁而至，枪炮齐发。你不知道他们为什么攻"
+"击，但别无选择，只能应战。"
 
 #: src-en/data/events_sector_aea_shard.xml:1040
 msgid ""
@@ -1091,7 +1160,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:1057
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_ASTEROID\"]/text"
-msgstr ""
+msgstr "这里的小行星带并非这个信标的唯一危险。试图藏匿的碎晶铸造者星舰不给你任何机会"
+"，立刻发动了攻击！"
 
 #: src-en/data/events_sector_aea_shard.xml:1061
 msgid ""
@@ -1100,17 +1170,19 @@ msgstr "继续。"
 
 #: src-en/data/events_sector_aea_shard.xml:1089
 msgid "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PALACE\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现宫殿外有一支庞大的碎晶铸造者舰队。不同寻常的是，他们并非面向"
+"你，而是面向宫殿。"
 
 #: src-en/data/events_sector_aea_shard.xml:1092
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PALACE\"]/choice[1]/text"
-msgstr ""
+msgstr "降落在宫殿。"
 
 #: src-en/data/events_sector_aea_shard.xml:1094
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PALACE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你在附近降落，然后走向宫殿。周围有一些碎晶铸造者，但他们最多只是瞥你一眼，大"
+"多数人似乎更关心头顶的星舰。"
 
 #: src-en/data/events_sector_aea_shard.xml:1096
 msgid ""
@@ -1120,7 +1192,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:1098
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PALACE\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "进入宫殿后，你再次没有遇到任何抵抗。你向中心走去，最终来到一个大厅，可以看到"
+"房间中央一张桌子旁围着一群碎晶铸造者。"
 
 #: src-en/data/events_sector_aea_shard.xml:1100
 msgid ""
@@ -1130,17 +1203,21 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:1102
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PALACE\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "片刻后，桌子首位那个长相怪异的碎晶铸造者注意到了你。“谁在那里？”他的声音在大"
+"厅里回荡。“你就是我们听说的那个联邦变元者吗？”"
 
 #: src-en/data/events_sector_aea_shard.xml:1104
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PALACE\"]/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "“是的，就是我。”"
 
 #: src-en/data/events_sector_aea_shard.xml:1106
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PALACE\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“你能不受阻拦地来到这里，这令人担忧。不过，你或许来得正是时候。你可能已经看到"
+"了我们外面的问题，一个更强大的碎晶铸者氏族前来挑战我的统治，他们想夺取黎明碎"
+"片，控制碎晶铸者。”"
 
 #: src-en/data/events_sector_aea_shard.xml:1108
 msgid ""
@@ -1151,21 +1228,28 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PALACE\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“这意味着他们必须杀死我，从我尸体上取走它。你愿意帮我潜入你的星舰吗？我可以加"
+"入你的船员，让我的将军们来处理这个局面？如果夺取黎明碎片已不可能，上面那些氏"
+"族的成员就不太愿意发动战争了。”"
 
 #: src-en/data/events_sector_aea_shard.xml:1112
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PALACE\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "接纳他上船。"
 
 #: src-en/data/events_sector_aea_shard.xml:1114
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PALACE\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"“太好了，我离开时就藏在这件大外套里，希望上面的星舰不会来找我们的麻烦。”你向"
+"外走，回到你的星舰。你成功登上了自己的星舰，看起来上面的星舰都没有注意到。但"
+"就在你起飞时，旁边一艘大型星舰移动过来挡住了你的路。它似乎在干扰你的超光速驱"
+"动器，阻止你离开。"
 
 #: src-en/data/events_sector_aea_shard.xml:1116
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PALACE\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/crewMember"
-msgstr ""
+msgstr "奥尼克斯国王"
 
 #: src-en/data/events_sector_aea_shard.xml:1118
 msgid ""
@@ -1180,7 +1264,8 @@ msgstr "礼貌地拒绝。"
 #: src-en/data/events_sector_aea_shard.xml:1126
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PALACE\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "国王似乎很失望，但尊重你的决定。当你从降落点起飞时，一艘较小的碎晶铸者星舰移"
+"出来挡住了你的路。"
 
 #: src-en/data/events_sector_aea_shard.xml:1129
 msgid ""
@@ -1190,12 +1275,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:1145
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PALACE\"]/choice[2]/text"
-msgstr ""
+msgstr "这不是我们预想的情况。离开。"
 
 #: src-en/data/events_sector_aea_shard.xml:1147
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_PALACE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你无视宫殿里正在发生的事情，准备启动超光速驱动器。"
 
 #: src-en/data/events_sector_aea_shard.xml:1149
 msgid ""
@@ -1210,7 +1295,8 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shard.xml:1166
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DESTROYED_AEA_SHARD_BOSS\"]/text"
-msgstr ""
+msgstr "那艘大型碎晶铸造者星舰被你的武器击毁，你恢复了跃迁能力。击败了如此强大的战舰"
+"后，其他碎晶铸造者星舰对你心生忌惮，都保持距离。你得以回收了残骸。"
 
 #: src-en/data/events_sector_aea_shard.xml:1169
 msgid ""
@@ -1220,22 +1306,24 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_shard.xml:1171
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DESTROYED_AEA_SHARD_BOSS\"]/choice/event/text"
-msgstr ""
+msgstr "国王走到你面前。“刚才干得好，我本来就想把这个给你，这是一艘碎晶铸造者自动星舰"
+"的蓝图。你应该把它发给联邦。”"
 
 #: src-en/data/events_sector_aea_shard.xml:1179
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_AUTO_START\"]/text"
-msgstr ""
+msgstr "你抵达一个小行星带，附近有一艘碎晶铸造者星舰的残骸。"
 
 #: src-en/data/events_sector_aea_shard.xml:1183
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_AUTO_START\"]/choice[1]/text"
-msgstr ""
+msgstr "调查残骸。"
 
 #: src-en/data/events_sector_aea_shard.xml:1185
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_AUTO_START\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你搜索了星舰残骸，但没有发现生命迹象。在等待超光速驱动器充能时，你回收了残骸"
+"。"
 
 #: src-en/data/events_sector_aea_shard.xml:1188
 msgid ""
@@ -1245,7 +1333,8 @@ msgstr "星舰管理。"
 #: src-en/data/events_sector_aea_shard.xml:1190
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_AUTO_AMBUSH\"]/text"
-msgstr ""
+msgstr "就在你准备离开时，一艘巨大的自动星舰从小行星带内部冲出，向你疾驰而来。你刚好"
+"来得及及时赶到战斗岗位。"
 
 #: src-en/data/events_sector_aea_shard.xml:1193
 msgid ""
@@ -1260,12 +1349,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_shard.xml:1205
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_AUTO_START\"]/choice[2]/text"
-msgstr ""
+msgstr "这不是我们预想的情况。离开。"
 
 #: src-en/data/events_sector_aea_shard.xml:1207
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_AUTO_START\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你退到安全距离，准备启动超光速驱动器。"
 
 #: src-en/data/events_sector_aea_shard.xml:1209
 msgid ""
@@ -1281,11 +1370,17 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"ESCAPE_AEA_SHARD_AUTO\"]/text"
 msgstr ""
+"你看到自动星舰上其中一块水晶的侧面出现了一道裂缝。在星舰的水晶部分爆炸，遮蔽"
+"你的传感器之前，你看到越来越多的裂缝出现。等你再次能看清时，那艘星舰已经跃迁"
+"离开了。\n"
+"幸运的是，不管那艘星舰用了什么手段来掩盖其逃脱，都在它跃迁的方向留下了一条可"
+"见的踪迹。你可以利用这条踪迹推测它很可能跃迁到了哪个信标。"
 
 #: src-en/data/events_sector_aea_shard.xml:1239
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"AEA_SHARD_AUTO_QUEST\"]/text"
-msgstr ""
+msgstr "这次没有小行星带，但自动星舰似乎还在从你们的战斗中恢复。当它感应到你时，再次"
+"激活了武器。"
 
 #: src-en/data/events_sector_aea_shard.xml:1244
 msgid ""
@@ -1296,6 +1391,8 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DESTROYED_AEA_SHARD_AUTO\"]/text"
 msgstr ""
+"自动星舰最终崩溃解体，巨大的水晶块在其最后的爆炸中碎裂。你开始搜索星舰残骸。"
+"你发现了大量的废料，但更重要的是，你得以访问了那艘星舰基本完好的数据库。"
 
 #: src-en/data/events_sector_aea_shard.xml:1257
 msgid ""
@@ -1306,3 +1403,6 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_shard.xml$//event[@name=\"DESTROYED_AEA_SHARD_AUTO\"]/choice/event/text"
 msgstr ""
+"在数据库中，你找到了宫殿叛乱的计划。看来，无论谁在给这艘星舰下达命令，都想杀"
+"死黎明碎片的持有者，并将其占为己有。除了这些计划，你还发现了一艘大型碎晶铸造"
+"者星舰的蓝图。"
