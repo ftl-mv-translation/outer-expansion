@@ -1,91 +1,117 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-04-20 05:42+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/dataevents_sector_aea_old_1xml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_aea_old_1.xml:20
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/text"
 msgstr ""
+"你迷迷糊糊地从地上爬起来。舰船摄像头显示，其他大多数船员也正做着同样的事，从"
+"沉睡中醒来。你记得自己刚才还在与那艘奇怪的飞船交战，但此刻你发现自己已不再受"
+"到攻击。此外，一个未知的联络人正在呼叫你。"
 
 #: src-en/data/events_sector_aea_old_1.xml:27
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "接听呼叫。"
 
 #: src-en/data/events_sector_aea_old_1.xml:29
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"正当你准备接听呼叫时，你意识到那个一直在你船上休眠的远古外星人已经消失了。\n"
+"屏幕上出现了一个奇特的物种。“欢迎来到穹界。不幸的是，你偶然发现了一些不该看到"
+"的东西，所以我们把你带到了这里，你将在流放中度过余生。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:34
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and not(@lvl)]/event/choice/text"
-msgstr ""
+msgstr "什么？"
 
 #: src-en/data/events_sector_aea_old_1.xml:36
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and not(@lvl)]/event/choice/event/text"
 msgstr ""
+"“我想解释一下也无妨。你是想听个简短的版本，还是想知道你为何在此的详细说明？”"
+"\n"
+"（省流：以前利尔米克族很NB，随着时间逐渐衰弱，内战后将自己隔离起来，清除发现"
+"此种族的人。）"
 
 #: src-en/data/events_sector_aea_old_1.xml:38
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and not(@lvl)]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "长篇版本。"
 
 #: src-en/data/events_sector_aea_old_1.xml:42
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and not(@lvl)]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "简短版本。"
 
 #: src-en/data/events_sector_aea_old_1.xml:50
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "接听呼叫。"
 
 #: src-en/data/events_sector_aea_old_1.xml:52
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "屏幕上出现了一个奇特的物种。“欢迎来到穹界。不幸的是，你偶然发现了一些不该看到"
+"的东西，所以我们把你带到了这里，你将在流放中度过余生。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:54
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr ""
+msgstr "什么？"
 
 #: src-en/data/events_sector_aea_old_1.xml:56
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
+"“我想解释一下也无妨。你是想听个简短的版本，还是想知道你为何在此的详细说明？”"
+"\n"
+"（省流：以前利尔米克族很NB，随着时间逐渐衰弱，内战后将自己隔离起来，清除发现"
+"此种族的人。）"
 
 #: src-en/data/events_sector_aea_old_1.xml:58
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and @lvl=\"0\"]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "长篇版本。"
 
 #: src-en/data/events_sector_aea_old_1.xml:62
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"START_BEACON_AEA_OLD_1\"]/choice[@req=\"ANCIENT_ACTIVATOR\""
 " and @lvl=\"0\"]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "简短版本。"
 
 #: src-en/data/events_sector_aea_old_1.xml:72
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/text"
 msgstr ""
+"“很久以前，在你们的联邦或叛军出现之前，只有我们利尔米克族存在。我们曾扩张至整"
+"个多元宇宙，确立了对其余种族的统治。然而，随着时间的推移，我们的控制力逐渐减"
+"弱，开始节节败退。我们开始失去对多元宇宙部分区域的控制，那些被我们压制已久的"
+"种族开始联合起来攻击我们。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:74
 msgid ""
@@ -96,6 +122,10 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/text"
 msgstr ""
+"“与此同时，我们研发出了近乎永生的技术，停止了繁衍，并开始向我们的核心区域收缩"
+"。我们的文明内部出现了分裂：一半人希望放弃对多元宇宙的控制，退回核心星域，远"
+"离多元宇宙的其他部分，和平地存在。另一半人则持相反意见，他们希望加倍努力，重"
+"新控制多元宇宙。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:78
 msgid ""
@@ -106,6 +136,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/choice/event/text"
 msgstr ""
+"“这场冲突旷日持久，就像你们与叛军的冲突一样。尽管我们已实现近乎永生，但双方都"
+"花时间研发了能将彼此从多元宇宙中抹去的武器。结果，整个冲突期间我们的人数不断"
+"被消耗，直到双方都锐减至数千人时，战争才最终结束。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:82
 msgid ""
@@ -116,6 +149,10 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“正如你可能猜到的，获胜的一方是希望从多元宇宙中撤退的那一派。在这场冲突中，多"
+"元宇宙航行技术取得了重大创新，其中之一就是获得了隔离特定现实的能力。利尔米克"
+"议会——即战争期间利尔米克族的领导层——决定对我们自身进行隔离。我们种族的许多成"
+"员只想彻底摆脱多元宇宙。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:86
 msgid ""
@@ -126,16 +163,22 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“就这样，我们将自己与多元宇宙隔绝开来。然而，我们知道这个方案并不完美，人们可"
+"能会像你一样发现我们帝国的遗迹。因此，我们设置了安保机制，不仅能消灭那些发现"
+"我们秘密的人，还能将他们关押在这里以便监控。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:90
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_LONG\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "那这里是什么地方。"
 
 #: src-en/data/events_sector_aea_old_1.xml:104
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_SHORT\"]/text"
 msgstr ""
+"“我们利尔米克族是一个很久以前就存在的种族。我们曾统治多元宇宙一段时间，但随着"
+"其他种族的崛起，我们逐渐失去了控制。最终，由于这种失控，我们分裂了。在一场漫"
+"长的内战后，我们将自己隔离了起来，远离了多元宇宙的其他部分。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:106
 msgid ""
@@ -145,17 +188,24 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:108
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_SHORT\"]/choice/event/text"
-msgstr ""
+msgstr "“隔离措施的一部分，就是要确保那些可能发现我们的人被从多元宇宙中清除，这意味着"
+"你。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:110
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_SHORT\"]/choice/event/choice/text"
-msgstr ""
+msgstr "那这里是什么地方？"
 
 #: src-en/data/events_sector_aea_old_1.xml:118
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_EXPLAIN_AFTER\"]/text"
 msgstr ""
+"“这里就是我们安置那些偶然发现我们秘密的人的地方，比如你。作为我们隔离措施的产"
+"物，你将永远被困在这里。唯一能离开的方法，就是通过议会并说服他们放你走。但祝"
+"你好运吧，议会所在的核心世界的坐标只有最顶尖的精英才知道。这附近唯一知道那些"
+"坐标的人，就是那个男爵。”\n"
+"\n"
+"“好了，我得回去工作了。如果还有别的事，就联系守卫吧。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:123
 msgid ""
@@ -195,7 +245,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:154
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/text"
-msgstr ""
+msgstr "通常像你这种级别的舰船会让人意外，但这里的守卫显然不为所动。“如果你以为试图摧"
+"毁我能让你有任何出路（除了死路一条），那你就大错特错了。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:156
 msgid ""
@@ -215,22 +266,22 @@ msgstr "(高级武器系统)威胁守卫。"
 #: src-en/data/events_sector_aea_old_1.xml:168
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/choice[@req=\"aea_old_1\"]/text"
-msgstr ""
+msgstr "（利尔米克船员）请求援助。"
 
 #: src-en/data/events_sector_aea_old_1.xml:170
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/choice[@req=\"aea_old_1\"]/event/text"
-msgstr ""
+msgstr "守卫在核实了你的利尔米克身份后，移交了一箱补给。"
 
 #: src-en/data/events_sector_aea_old_1.xml:175
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/choice[@req=\"BLUELIST_AEA_OLD_UNIQUE\"]/text"
-msgstr ""
+msgstr "（利尔米克议会成员）请求补给。"
 
 #: src-en/data/events_sector_aea_old_1.xml:177
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_INTERACT\"]/choice[@req=\"BLUELIST_AEA_OLD_UNIQUE\"]/event/text"
-msgstr ""
+msgstr "当守卫看到议会成员在你的船上时，立刻表现出恭敬的姿态，并移交了补给。"
 
 #: src-en/data/events_sector_aea_old_1.xml:182
 msgid ""
@@ -260,12 +311,12 @@ msgstr "\"我很抱歉，但我们没有收到向其他舰船提供援助的命�
 #: src-en/data/events_sector_aea_old_1.xml:202
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"GUARD_AEA_OLD_1_REQUEST\"]/event[2]/text"
-msgstr ""
+msgstr "守卫似乎对你起了恻隐之心，同意了你的请求。他们移交了一小箱补给。"
 
 #: src-en/data/events_sector_aea_old_1.xml:208
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"GUARD_AEA_OLD_1_DEMAND\"]/event/text"
-msgstr ""
+msgstr "守卫拒绝屈服于你的要求。相反，他们举起武器进行了反击。"
 
 #: src-en/data/events_sector_aea_old_1.xml:211
 msgid ""
@@ -275,36 +326,39 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:223
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_DESTROY\"]/text"
-msgstr ""
+msgstr "你击败了利尔米克守卫。无论他们货舱中曾有何物，定已损毁殆尽，但你至少能从舰船"
+"上回收部分物资。"
 
 #: src-en/data/events_sector_aea_old_1.xml:227
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"GUARD_AEA_OLD_1_DEADCREW\"]/text"
-msgstr ""
+msgstr "你击败了利尔米克守卫。船上已无船员阻拦，你可调查其货舱。找到一件武器带回舰船"
+"，并继续拆解其舰体回收废料。"
 
 #: src-en/data/events_sector_aea_old_1.xml:246
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_1_BARON\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这是男爵所在的位置。"
 
 #: src-en/data/events_sector_aea_old_1.xml:247
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_1_BARON\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "这是男爵所在的位置。"
 
 #: src-en/data/events_sector_aea_old_1.xml:250
 msgid "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_1_BARON\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现了一艘巨大而华丽的飞船，这一定就是男爵的座驾。如果你摧毁这艘"
+"飞船，应该就能找到前往利尔米克核心世界的坐标。"
 
 #: src-en/data/events_sector_aea_old_1.xml:253
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_1_BARON\"]/choice/text"
-msgstr ""
+msgstr "与那艘飞船交战。"
 
 #: src-en/data/events_sector_aea_old_1.xml:255
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_1_BARON\"]/choice/event/text"
-msgstr ""
+msgstr "就在你启动武器的同时，男爵也做出了同样的反应。"
 
 #: src-en/data/events_sector_aea_old_1.xml:257
 msgid ""
@@ -314,7 +368,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:265
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_DESTROYED\"]/text"
-msgstr ""
+msgstr "那艘华丽的飞船已被击败。留下了大量废料可供拾取。"
 
 #: src-en/data/events_sector_aea_old_1.xml:269
 msgid ""
@@ -324,12 +378,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:271
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_DESTROYED\"]/choice/event/text"
-msgstr ""
+msgstr "当你搜寻残骸以寻找利尔米克核心世界的坐标时，发现了一个完好无损的储物箱。过了"
+"一会儿，你还找到了坐标。"
 
 #: src-en/data/events_sector_aea_old_1.xml:276
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_DESTROYED\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "立即使用坐标【警告：如果你的船员在男爵的船上，切勿使用】。"
 
 #: src-en/data/events_sector_aea_old_1.xml:283
 msgid ""
@@ -339,12 +394,12 @@ msgstr "给我一点时间准备。"
 #: src-en/data/events_sector_aea_old_1.xml:293
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_JUMP\"]/text"
-msgstr ""
+msgstr "现在使用坐标吗？"
 
 #: src-en/data/events_sector_aea_old_1.xml:295
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_JUMP\"]/choice[1]/text"
-msgstr ""
+msgstr "立即使用坐标。"
 
 #: src-en/data/events_sector_aea_old_1.xml:302
 msgid ""
@@ -354,12 +409,13 @@ msgstr "给我一点时间准备。"
 #: src-en/data/events_sector_aea_old_1.xml:308
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_BARON_JUMP\"]/choice[3]/text"
-msgstr ""
+msgstr "我们稍后再回到这里。"
 
 #: src-en/data/events_sector_aea_old_1.xml:327
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/text"
-msgstr ""
+msgstr "令人惊讶的是，一名利尔米克商人似乎正遭到一名全副武装的精英的攻击。如果你想和"
+"他们交易，就需要先解决掉那个精英。"
 
 #: src-en/data/events_sector_aea_old_1.xml:330
 msgid ""
@@ -384,7 +440,7 @@ msgstr "无视商人。"
 #: src-en/data/events_sector_aea_old_1.xml:343
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "幸运的是，那名精英仍未察觉你的存在。"
 
 #: src-en/data/events_sector_aea_old_1.xml:345
 msgid ""
@@ -399,10 +455,10 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_1.xml:379
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现一艘利尔米克飞船在轨道上运行，船体侧面似乎连接着一架小型穿梭"
+"机。"
 
 #: src-en/data/events_sector_aea_old_1.xml:382
-#, fuzzy
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[1]/text"
 msgstr "联系他们。"
@@ -411,16 +467,21 @@ msgstr "联系他们。"
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[1]/event/text"
 msgstr ""
+"一名利尔米克出现在你的屏幕上：“舰长，我想您不介意多个新船员吧。我们船上刚刚发"
+"生了一件了不得的事，这个人竟企图独自一人完全夺取我们整艘船的控制权！换作平时"
+"，我们会立刻处决他，但敢于如此胆大包天的举动反倒救了他的命。总之，我们对这个"
+"囚犯有点腻了，您想要他吗？”"
 
 #: src-en/data/events_sector_aea_old_1.xml:386
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "当然？"
 
 #: src-en/data/events_sector_aea_old_1.xml:388
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "太好了，我们这就把他送过去。”片刻之后，一架穿梭机被远程遥控到你的船边，里面载"
+"着一名精英船员。"
 
 #: src-en/data/events_sector_aea_old_1.xml:391
 msgid ""
@@ -428,13 +489,11 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_aea_old_1.xml:397
-#, fuzzy
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[1]/event/choice[2]/text"
 msgstr "不，谢谢。"
 
 #: src-en/data/events_sector_aea_old_1.xml:403
-#, fuzzy
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[2]/text"
 msgstr "无视这艘舰船。"
@@ -442,7 +501,7 @@ msgstr "无视这艘舰船。"
 #: src-en/data/events_sector_aea_old_1.xml:405
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_FREE_ELITE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "那艘利尔米克飞船对你视若无睹。"
 
 #: src-en/data/events_sector_aea_old_1.xml:407
 msgid ""
@@ -458,16 +517,20 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/text"
 msgstr ""
+"你抵达信标，发现了一个没有标识的利尔米克商人空间站。当你靠近时，空间站播放了"
+"一条信息：“欢迎来到集市，舰长。这是一个为富有且危险的飞船设立的专属俱乐部。如"
+"果你无法证明自己的实力，最好还是掉头回去。”\n"
+"随后，你收到一个弹窗，告知你会员资格仅需 29.99 废料。"
 
 #: src-en/data/events_sector_aea_old_1.xml:424
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[1]/text"
-msgstr ""
+msgstr "支付会员费。"
 
 #: src-en/data/events_sector_aea_old_1.xml:429
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你获准进入空间站，发现它基本上就是个巨大的商店。"
 
 #: src-en/data/events_sector_aea_old_1.xml:434
 msgid ""
@@ -477,7 +540,7 @@ msgstr "攻击空间站。"
 #: src-en/data/events_sector_aea_old_1.xml:437
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "这显然是个骗局，除掉他们算是为这个星区做件好事。"
 
 #: src-en/data/events_sector_aea_old_1.xml:439
 msgid ""
@@ -485,7 +548,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_aea_old_1.xml:445
-#, fuzzy
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[3]/text"
 msgstr "无视空间站。"
@@ -493,7 +555,7 @@ msgstr "无视空间站。"
 #: src-en/data/events_sector_aea_old_1.xml:447
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_STORE_EXCLUSIVE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "无论这是什么事，你都不打算掺和。"
 
 #: src-en/data/events_sector_aea_old_1.xml:449
 msgid ""
@@ -508,22 +570,23 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_1.xml:461
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CRATE_ITEM\"]/text"
-msgstr ""
+msgstr "你抵达了一个相对空旷的信标，不过你的传感器探测到一个大型储物箱正漂浮在信标附"
+"近的轨道上。"
 
 #: src-en/data/events_sector_aea_old_1.xml:463
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CRATE_ITEM\"]/choice[1]/text"
-msgstr ""
+msgstr "调查那个箱子。"
 
 #: src-en/data/events_sector_aea_old_1.xml:467
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CRATE_ITEM\"]/choice[2]/text"
-msgstr ""
+msgstr "无视那个箱子。"
 
 #: src-en/data/events_sector_aea_old_1.xml:469
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CRATE_ITEM\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你为下一次跳跃准备好了跃迁引擎。"
 
 #: src-en/data/events_sector_aea_old_1.xml:471
 msgid ""
@@ -538,7 +601,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_1.xml:484
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_CRATE_LIST\"]/event[1]/text"
-msgstr ""
+msgstr "你将箱子固定到货舱后才打开，发现里面装着一件大型利尔米克武器。"
 
 #: src-en/data/events_sector_aea_old_1.xml:487
 msgid ""
@@ -548,7 +611,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:492
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_CRATE_LIST\"]/event[2]/text"
-msgstr ""
+msgstr "你将箱子固定到货舱后才打开，发现里面装着一个正在休眠的利尔米克。因你的打扰而"
+"醒来后，他主动提出加入你的船员队伍。"
 
 #: src-en/data/events_sector_aea_old_1.xml:495
 msgid ""
@@ -558,7 +622,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:500
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_CRATE_LIST\"]/event[3]/text"
-msgstr ""
+msgstr "你将箱子固定到货舱后才打开，发现里面装着一架崭新的无人机。"
 
 #: src-en/data/events_sector_aea_old_1.xml:503
 msgid ""
@@ -588,12 +652,12 @@ msgstr "你必须承认，你已经习惯了这个星域频繁的飞船战斗造
 #: src-en/data/events_sector_aea_old_1.xml:562
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE\"]/choice[1]/text"
-msgstr ""
+msgstr "与利尔米克战斗。"
 
 #: src-en/data/events_sector_aea_old_1.xml:564
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你启动武器，与那艘利尔米克飞船交战。"
 
 #: src-en/data/events_sector_aea_old_1.xml:567
 msgid ""
@@ -608,7 +672,7 @@ msgstr "避开他们。"
 #: src-en/data/events_sector_aea_old_1.xml:575
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你决定不与那艘利尔米克飞船交战，于是飞走了。"
 
 #: src-en/data/events_sector_aea_old_1.xml:577
 msgid ""
@@ -623,17 +687,19 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_1.xml:588
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE\"]/text[1]"
-msgstr ""
+msgstr "这个信标处的利尔米克飞船尚未察觉你的存在。如果你想的话，可以安全地飞走，或者"
+"现在发起攻击，打他们个措手不及。"
 
 #: src-en/data/events_sector_aea_old_1.xml:589
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE\"]/text[2]"
-msgstr ""
+msgstr "“算你走运，我不是那种见人就杀的家伙。趁这还只是偶遇，你最好赶紧离开。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:590
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE\"]/text[3]"
-msgstr ""
+msgstr "你发现了一艘利尔米克飞船，他们尚未察觉你的存在。如果你能干掉他们，会得到相当"
+"多的废料。"
 
 #: src-en/data/events_sector_aea_old_1.xml:598
 msgid ""
@@ -643,7 +709,7 @@ msgstr "与那艘大船交战。"
 #: src-en/data/events_sector_aea_old_1.xml:600
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE_MU\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你启动武器，与那艘精英飞船交战。"
 
 #: src-en/data/events_sector_aea_old_1.xml:603
 msgid ""
@@ -658,7 +724,7 @@ msgstr "避开他们。"
 #: src-en/data/events_sector_aea_old_1.xml:611
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_CHOICE_MU\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你决定不与那艘精英飞船交战，于是飞走了。"
 
 #: src-en/data/events_sector_aea_old_1.xml:613
 msgid ""
@@ -673,21 +739,22 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_1.xml:624
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE_MU\"]/text[1]"
-msgstr ""
+msgstr "这个信标处还有另一名被拘留者，他们似乎对攻击你没什么兴趣。"
 
 #: src-en/data/events_sector_aea_old_1.xml:625
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE_MU\"]/text[2]"
-msgstr ""
+msgstr "“舰长，我们不想惹麻烦，但如果你非要逼我们，我们也不会手下留情。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:626
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_AEA_OLD_CHOICE_MU\"]/text[3]"
-msgstr ""
+msgstr "你发现另一艘被困在利尔米克星域的飞船尚未察觉你的存在。"
 
 #: src-en/data/events_sector_aea_old_1.xml:630
 msgid "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现一座完整的民用空间站正环绕着该信标运行。你不禁纳闷，利尔米克"
+"究竟是怎么把它弄到这儿来的。"
 
 #: src-en/data/events_sector_aea_old_1.xml:632
 msgid ""
@@ -697,17 +764,18 @@ msgstr "呼叫空间站。"
 #: src-en/data/events_sector_aea_old_1.xml:634
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/text"
-msgstr ""
+msgstr "空间站迅速回应道：“求求你了，一定要帮帮我们。有个疯子一直想摧毁我们，他随时都"
+"可能回来。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:636
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "帮助他们应对威胁。"
 
 #: src-en/data/events_sector_aea_old_1.xml:638
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "没过多久，那艘船就出现了，你上前挡住了它前往空间站的路线。"
 
 #: src-en/data/events_sector_aea_old_1.xml:641
 msgid ""
@@ -717,12 +785,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:647
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "在那个“疯子”到来之前离开。"
 
 #: src-en/data/events_sector_aea_old_1.xml:649
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你准备进行下一次跃迁。"
 
 #: src-en/data/events_sector_aea_old_1.xml:651
 msgid ""
@@ -742,7 +810,7 @@ msgstr "避开这艘船。"
 #: src-en/data/events_sector_aea_old_1.xml:665
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你准备进行下一次跃迁。"
 
 #: src-en/data/events_sector_aea_old_1.xml:667
 msgid ""
@@ -757,7 +825,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_1.xml:679
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_COLONY_WIN\"]/text"
-msgstr ""
+msgstr "“感谢利尔米克派你来救我们，这些补给请收下。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:682
 msgid ""
@@ -766,7 +834,8 @@ msgstr "继续。"
 
 #: src-en/data/events_sector_aea_old_1.xml:689
 msgid "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/text"
-msgstr ""
+msgstr "一个利尔米克飞船正在信标处等你。你的传感器探测到其船员正在附近的碎片场搜寻零"
+"件，但尚不清楚他们究竟在找什么。"
 
 #: src-en/data/events_sector_aea_old_1.xml:691
 msgid ""
@@ -776,32 +845,32 @@ msgstr "联系这艘舰船。"
 #: src-en/data/events_sector_aea_old_1.xml:693
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "那名利尔米克在接听通讯时几乎没怎么搭理你：“滚开，蠢货变元者。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:734
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/text"
-msgstr ""
+msgstr "（独特船员）“等等，我们或许有你感兴趣的东西！”"
 
 #: src-en/data/events_sector_aea_old_1.xml:736
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/text"
-msgstr ""
+msgstr "“嗯，也许你说得对，你想用它换什么？”"
 
 #: src-en/data/events_sector_aea_old_1.xml:738
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[1]/text"
-msgstr ""
+msgstr "一堆废料。"
 
 #: src-en/data/events_sector_aea_old_1.xml:743
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“这笔交易可以接受。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:746
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[1]/event/removeCrew/text"
-msgstr ""
+msgstr "他们只是失踪了，还没死。至少目前还没。"
 
 #: src-en/data/events_sector_aea_old_1.xml:749
 msgid ""
@@ -811,17 +880,17 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:751
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "你把船员送过去后没过多久，就听到背景里传来闷声的尖叫，还有重型机械的哐当声……"
 
 #: src-en/data/events_sector_aea_old_1.xml:757
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[2]/text"
-msgstr ""
+msgstr "一堆废料，外加一名替换的船员。"
 
 #: src-en/data/events_sector_aea_old_1.xml:763
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "“这笔交易可以接受。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:765
 msgid ""
@@ -831,12 +900,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:767
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "你把船员送过去后没过多久，就听到背景里传来闷声的尖叫，还有重型机械的哐当声……"
 
 #: src-en/data/events_sector_aea_old_1.xml:770
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[2]/event/choice/event/removeCrew/text"
-msgstr ""
+msgstr "."
 
 #: src-en/data/events_sector_aea_old_1.xml:773
 msgid ""
@@ -844,7 +913,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_aea_old_1.xml:781
-#, fuzzy
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[@req=\"LIST_CREW_UNIQUE\"]/event/choice[3]/text"
 msgstr "算了。"
@@ -852,12 +920,12 @@ msgstr "算了。"
 #: src-en/data/events_sector_aea_old_1.xml:787
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "“我们这些废料呢？”"
 
 #: src-en/data/events_sector_aea_old_1.xml:789
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "“嗯，也许你说得对，不如我们把从俘获的那艘奇怪飞船上弄来的一件武器给你吧……”"
 
 #: src-en/data/events_sector_aea_old_1.xml:795
 msgid ""
@@ -867,12 +935,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:801
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "“那算了……”"
 
 #: src-en/data/events_sector_aea_old_1.xml:803
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD_NEVERMIND\"]/text"
-msgstr ""
+msgstr "你决定不再打扰那艘利尔米克飞船，于是飞走了。"
 
 #: src-en/data/events_sector_aea_old_1.xml:805
 msgid ""
@@ -892,7 +960,7 @@ msgstr "避开这艘船。"
 #: src-en/data/events_sector_aea_old_1.xml:819
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LIZZARD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你决定不打扰那艘利尔米克飞船，于是飞走了。"
 
 #: src-en/data/events_sector_aea_old_1.xml:821
 msgid ""
@@ -907,27 +975,28 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_1.xml:834
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/text"
-msgstr ""
+msgstr "你发现一个奇特的装置悬浮在信标轨道上，其设计似乎是利尔米克风格。"
 
 #: src-en/data/events_sector_aea_old_1.xml:836
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[1]/text"
-msgstr ""
+msgstr "戳一下那个看起来像按钮的东西。"
 
 #: src-en/data/events_sector_aea_old_1.xml:840
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[@req=\"BLUELIST_AEA_OLD\"]/text"
-msgstr ""
+msgstr "（利尔米克船员）激活装置。"
 
 #: src-en/data/events_sector_aea_old_1.xml:844
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[3]/text"
-msgstr ""
+msgstr "朝它开火。"
 
 #: src-en/data/events_sector_aea_old_1.xml:846
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[3]/event/text"
-msgstr ""
+msgstr "它消失片刻后，你探测到一名利尔米克跃迁到了信标处。“嘿，伙计，你这么做可不地道"
+"，准备受死吧。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:849
 msgid ""
@@ -942,7 +1011,7 @@ msgstr "不理会它。"
 #: src-en/data/events_sector_aea_old_1.xml:857
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_ONCEUPONABAN\"]/choice[4]/event/text"
-msgstr ""
+msgstr "你决定不去碰那个装置。"
 
 #: src-en/data/events_sector_aea_old_1.xml:859
 msgid ""
@@ -957,7 +1026,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_1.xml:876
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_GOODLIST\"]/event[1]/text"
-msgstr ""
+msgstr "那个装置像花一样绽开，里面露出一件利尔米克武器。"
 
 #: src-en/data/events_sector_aea_old_1.xml:879
 msgid ""
@@ -967,7 +1036,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:884
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_GOODLIST\"]/event[2]/text"
-msgstr ""
+msgstr "那个装置像花一样绽开，里面露出一架无人机。"
 
 #: src-en/data/events_sector_aea_old_1.xml:887
 msgid ""
@@ -977,7 +1046,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:892
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_GOODLIST\"]/event[3]/text"
-msgstr ""
+msgstr "那个装置像花一样绽开，里面露出一名利尔米克船员，他主动提出要加入你的船员队伍"
+"。"
 
 #: src-en/data/events_sector_aea_old_1.xml:895
 msgid ""
@@ -987,7 +1057,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:902
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_BADLIST\"]/event[1]/text"
-msgstr ""
+msgstr "那个装置开始哔哔作响，并闪烁红光。你刚来得及赶回船上，它就扑腾一下爆炸了，把"
+"你船员的裤衩子都给崩飞了。"
 
 #: src-en/data/events_sector_aea_old_1.xml:905
 msgid ""
@@ -997,7 +1068,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:910
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_BAN_BADLIST\"]/event[2]/text"
-msgstr ""
+msgstr "那个装置开始哔哔作响，并闪烁红光。你刚来得及赶回船上，它就吐出了三名利尔米克"
+"，他们立刻登上了你的船。"
 
 #: src-en/data/events_sector_aea_old_1.xml:913
 msgid ""
@@ -1006,7 +1078,8 @@ msgstr "继续。"
 
 #: src-en/data/events_sector_aea_old_1.xml:920
 msgid "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/text"
-msgstr ""
+msgstr "你抵达信标，发现一艘小型 MFK 穿梭机正被一艘利尔米克飞船猛烈攻击。那艘叛军穿梭"
+"机试图向你发出通讯。"
 
 #: src-en/data/events_sector_aea_old_1.xml:923
 msgid ""
@@ -1016,17 +1089,19 @@ msgstr "回应呼叫。"
 #: src-en/data/events_sector_aea_old_1.xml:925
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“快带我离开这里，那些愚蠢的外星人一直在戏弄我。只要你让我有机会教训那些混蛋，"
+"我就加入你的船员队伍。”"
 
 #: src-en/data/events_sector_aea_old_1.xml:927
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "同意他们登船。"
 
 #: src-en/data/events_sector_aea_old_1.xml:929
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“这就是为什么所有异形都该死。”显然，利尔米克也抱着同样的想法，随即发起了攻击"
+"。"
 
 #: src-en/data/events_sector_aea_old_1.xml:933
 msgid ""
@@ -1041,7 +1116,7 @@ msgstr "拒绝。"
 #: src-en/data/events_sector_aea_old_1.xml:941
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你决定不打扰利尔米克的乐子。"
 
 #: src-en/data/events_sector_aea_old_1.xml:943
 msgid ""
@@ -1056,12 +1131,12 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_1.xml:955
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[2]/text"
-msgstr ""
+msgstr "无视那些飞船。"
 
 #: src-en/data/events_sector_aea_old_1.xml:957
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_MFK_SAVE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你决定不打扰利尔米克的乐子。"
 
 #: src-en/data/events_sector_aea_old_1.xml:959
 msgid ""
@@ -1076,17 +1151,18 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_1.xml:971
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/text"
-msgstr ""
+msgstr "你抵达信标时，迎面遇到一艘利尔米克飞船，但你很快就意识到那艘船几乎完全处于断"
+"电状态。"
 
 #: src-en/data/events_sector_aea_old_1.xml:974
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/choice[1]/text"
-msgstr ""
+msgstr "趁飞船断电时发动攻击。"
 
 #: src-en/data/events_sector_aea_old_1.xml:976
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "就在你启动武器时，敌方飞船也随之启动响应。"
 
 #: src-en/data/events_sector_aea_old_1.xml:979
 msgid ""
@@ -1106,7 +1182,7 @@ msgstr "不理会它。"
 #: src-en/data/events_sector_aea_old_1.xml:991
 msgid ""
 "data/events_sector_aea_old_1.xml$//event[@name=\"AEA_OLD_LYLMIK_GONE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你飞走了，决定不去招惹那艘船。"
 
 #: src-en/data/events_sector_aea_old_1.xml:993
 msgid ""
@@ -1121,7 +1197,8 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_1.xml:1006
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_LYLMIK_GONE_LIST\"]/event[1]/text"
-msgstr ""
+msgstr "结果发现，那艘船的船员其实只是在睡觉。他们重新上线后，立刻朝着你所在的方向启"
+"动了武器。"
 
 #: src-en/data/events_sector_aea_old_1.xml:1009
 msgid ""
@@ -1132,6 +1209,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_1.xml$//eventList[@name=\"AEA_OLD_LYLMIK_GONE_LIST\"]/event[2]/text"
 msgstr ""
+"过了一段时间，那艘船上仍然没有任何生命迹象……事实上，进一步扫描显示船上根本没"
+"人。传感器倒是在船体上发现了一张用胶带贴着的纸条，上面写着：“出去办点事，大约"
+"两百年后回来。”你可以毫无风险地打捞这艘船了。"
 
 #: src-en/data/events_sector_aea_old_1.xml:1017
 msgid ""
@@ -1146,19 +1226,21 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_1.xml:1062
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_1_FIGHT\"]/text[1]"
-msgstr ""
+msgstr "一艘大型飞船向你靠近，看来他们对你船上可能拥有的任何新技术很感兴趣。"
 
 #: src-en/data/events_sector_aea_old_1.xml:1063
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_1_FIGHT\"]/text[2]"
-msgstr ""
+msgstr "显然，这艘正在向你逼近的飞船之所以能存活至今，完全是因为它极其危险。"
 
 #: src-en/data/events_sector_aea_old_1.xml:1064
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_1_FIGHT\"]/text[3]"
-msgstr ""
+msgstr "在这个多元宇宙的角落，要想在被困中存活下去，唯一的方法就是从别人那里夺取资源"
+"。现在，正有一个幸存者朝你靠近。"
 
 #: src-en/data/events_sector_aea_old_1.xml:1065
 msgid ""
 "data/events_sector_aea_old_1.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_1_FIGHT\"]/text[4]"
-msgstr ""
+msgstr "尽管利尔米克反对自相残杀，但他们并不会阻止其领地内的居民相互杀戮。此刻，正有"
+"一名居民进入了攻击阵位。"
