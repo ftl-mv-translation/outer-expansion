@@ -1,14 +1,23 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-04-20 05:42+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/the-outer-expansion/dataevents_sector_aea_old_2xml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_aea_old_2.xml:20
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/text"
 msgstr ""
+"你已抵达利尔米克核心区，这是一个人口稠密的区域，到处都是利尔米克族人以及富有"
+"或强大的舰长。既然你已到此，就需要联系议会，而联系议会则需要一位赞助人。"
 
 #: src-en/data/events_sector_aea_old_2.xml:25
 msgid ""
@@ -18,72 +27,73 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:27
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/text"
-msgstr ""
+msgstr "你查阅了当地的公共数据库，发现有五位不同的议会成员。他们甚至设有一套用于预约"
+"一对一会议的体系，但每次只能与一位赞助人预约会面。"
 
 #: src-en/data/events_sector_aea_old_2.xml:29
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_1\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "寻求与“尤尼菲斯”的赞助关系。"
 
 #: src-en/data/events_sector_aea_old_2.xml:33
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_1\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "寻求与“尤尼菲斯”的赞助关系【不可用】。"
 
 #: src-en/data/events_sector_aea_old_2.xml:37
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_2\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "寻求与“渐近本质”的赞助关系。"
 
 #: src-en/data/events_sector_aea_old_2.xml:41
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_2\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "寻求与“渐近本质”的赞助关系【不可用】。"
 
 #: src-en/data/events_sector_aea_old_2.xml:45
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_3\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "寻求与“悦动脉冲”的赞助关系。"
 
 #: src-en/data/events_sector_aea_old_2.xml:49
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_3\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "寻求与“悦动脉冲”的赞助关系【不可用】。"
 
 #: src-en/data/events_sector_aea_old_2.xml:53
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_4\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "寻求与“同源趋势”的赞助关系。"
 
 #: src-en/data/events_sector_aea_old_2.xml:57
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_4\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "寻求与“同源趋势”的赞助关系【不可用】。"
 
 #: src-en/data/events_sector_aea_old_2.xml:61
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_5\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "寻求与“灵智共鸣”的赞助关系。"
 
 #: src-en/data/events_sector_aea_old_2.xml:65
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"START_BEACON_AEA_OLD_2\"]/choice/event/choice[@req=\"aea_meet_unique_5\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "寻求与“灵智共鸣”的赞助关系【不可用】。"
 
 #: src-en/data/events_sector_aea_old_2.xml:73
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/text"
-msgstr ""
+msgstr "你预约了与“尤尼菲斯”的会面。在能够出席议会之前，你需要先与他们进行协商。"
 
 #: src-en/data/events_sector_aea_old_2.xml:77
 msgid ""
@@ -94,6 +104,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：25%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:85
 msgid ""
@@ -104,6 +117,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/choice/event/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：50%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:93
 msgid ""
@@ -114,6 +130,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：75%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:101
 msgid ""
@@ -124,6 +143,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：100%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:108
 msgid ""
@@ -133,7 +155,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:122
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/text"
-msgstr ""
+msgstr "你预约了与“渐近本质”的会面。在能够出席议会之前，你需要先与他们进行协商。"
 
 #: src-en/data/events_sector_aea_old_2.xml:126
 msgid ""
@@ -144,6 +166,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：25%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:134
 msgid ""
@@ -154,6 +179,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/choice/event/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：50%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:142
 msgid ""
@@ -164,6 +192,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：75%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:150
 msgid ""
@@ -174,6 +205,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：100%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:157
 msgid ""
@@ -183,7 +217,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:171
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/text"
-msgstr ""
+msgstr "你预约了与“悦动脉冲”的会面。在能够出席议会之前，你需要先与他们进行协商。"
 
 #: src-en/data/events_sector_aea_old_2.xml:175
 msgid ""
@@ -194,6 +228,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：25%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:183
 msgid ""
@@ -204,6 +241,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/choice/event/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：50%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:191
 msgid ""
@@ -214,6 +254,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：75%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:199
 msgid ""
@@ -224,6 +267,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：100%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:206
 msgid ""
@@ -233,7 +279,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:220
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/text"
-msgstr ""
+msgstr "你预约了与“同源趋势”的会面。在能够出席议会之前，你需要先与他们进行协商。"
 
 #: src-en/data/events_sector_aea_old_2.xml:224
 msgid ""
@@ -244,6 +290,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：25%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:232
 msgid ""
@@ -254,6 +303,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/choice/event/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：50%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:240
 msgid ""
@@ -264,6 +316,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：75%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:248
 msgid ""
@@ -274,6 +329,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：100%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:255
 msgid ""
@@ -283,7 +341,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:269
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/text"
-msgstr ""
+msgstr "你预约了与“灵智共鸣”的会面。在能够出席议会之前，你需要先与他们进行协商。"
 
 #: src-en/data/events_sector_aea_old_2.xml:273
 msgid ""
@@ -294,6 +352,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：25%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:281
 msgid ""
@@ -304,6 +365,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/choice/event/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：50%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:289
 msgid ""
@@ -314,6 +378,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：75%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:297
 msgid ""
@@ -324,6 +391,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_START\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你还下载了其他议会成员的位置，这说不定会派上用场。\n"
+"\n"
+"[正在下载：100%]"
 
 #: src-en/data/events_sector_aea_old_2.xml:304
 msgid ""
@@ -333,7 +403,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:318
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_CONTINUE\"]/text"
-msgstr ""
+msgstr "就在你的下载完成时，一艘新的飞船抵达了。“嘿，你在这儿干什么？这地方禁止你这种"
+"人进入！”看来你在这里不太受欢迎。"
 
 #: src-en/data/events_sector_aea_old_2.xml:321
 msgid ""
@@ -343,32 +414,35 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:333
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"GUARD_AEA_OLD_2_DESTROY\"]/text"
-msgstr ""
+msgstr "你击败了利尔米克守卫。无论他们货舱中曾有何物，定已损毁殆尽，但你至少能从星舰"
+"上回收部分物资。"
 
 #: src-en/data/events_sector_aea_old_2.xml:337
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"GUARD_AEA_OLD_2_DEADCREW\"]/text"
-msgstr ""
+msgstr "你击败了利尔米克守卫。船上已无船员阻拦，你可调查其货舱。找到一件武器带回舰船"
+"，并继续拆解其舰体回收废料。"
 
 #: src-en/data/events_sector_aea_old_2.xml:348
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_DESTROY\"]/text"
-msgstr ""
+msgstr "你击败了那艘精英飞船，但设施已进入全面封锁状态。你现在根本无法进入。"
 
 #: src-en/data/events_sector_aea_old_2.xml:358
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这是一位议会成员所在的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:359
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_FIGHT\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "这是一位议会成员所在的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:362
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_FIGHT\"]/text"
-msgstr ""
+msgstr "你已抵达一位议会成员的所在地，一艘精英利尔米克飞船正守卫着那里。当你靠近时，"
+"警报响起，那艘精英飞船随即发起攻击。"
 
 #: src-en/data/events_sector_aea_old_2.xml:365
 msgid ""
@@ -378,17 +452,18 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:375
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这是一位议会成员所在的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:376
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_FIGHT\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "这是一位议会成员所在的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:379
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_FIGHT\"]/text"
-msgstr ""
+msgstr "你已抵达一位议会成员的所在地，一艘精英利尔米克飞船正守卫着那里。当你靠近时，"
+"警报响起，那艘精英飞船随即发起攻击。"
 
 #: src-en/data/events_sector_aea_old_2.xml:382
 msgid ""
@@ -398,17 +473,18 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:392
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这是一位议会成员所在的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:393
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_FIGHT\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "这是一位议会成员所在的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:396
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_FIGHT\"]/text"
-msgstr ""
+msgstr "你已抵达一位议会成员的所在地，一艘精英利尔米克飞船正守卫着那里。当你靠近时，"
+"警报响起，那艘精英飞船随即发起攻击。"
 
 #: src-en/data/events_sector_aea_old_2.xml:399
 msgid ""
@@ -418,17 +494,18 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:409
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这是一位议会成员所在的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:410
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_FIGHT\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "这是一位议会成员所在的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:413
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_FIGHT\"]/text"
-msgstr ""
+msgstr "你已抵达一位议会成员的所在地，一艘精英利尔米克飞船正守卫着那里。当你靠近时，"
+"警报响起，那艘精英飞船随即发起攻击。"
 
 #: src-en/data/events_sector_aea_old_2.xml:416
 msgid ""
@@ -438,17 +515,18 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:426
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_FIGHT\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这是一位议会成员所在的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:427
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_FIGHT\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "这是一位议会成员所在的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:430
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_FIGHT\"]/text"
-msgstr ""
+msgstr "你已抵达一位议会成员的所在地，一艘精英利尔米克飞船正守卫着那里。当你靠近时，"
+"警报响起，那艘精英飞船随即发起攻击。"
 
 #: src-en/data/events_sector_aea_old_2.xml:433
 msgid ""
@@ -458,16 +536,17 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:443
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这是你正在寻求其赞助的那位议会成员的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:444
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "这是你正在寻求其赞助的那位议会成员的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:448
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/text"
-msgstr ""
+msgstr "你已抵达一位议会成员的所在地，一艘精英利尔米克飞船正守卫着那里。由于你已预约"
+"了会面，因此得以降落并见到了尤尼菲斯。"
 
 #: src-en/data/events_sector_aea_old_2.xml:450
 msgid ""
@@ -478,6 +557,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/choice/event/text"
 msgstr ""
+"“舰长，我想我已经知道你为何而来了。之前也有像你这样的人经过，一路摧毁所见之物"
+"。最终他们都想离开，我们也放他们走了。不过首先，他们——嗯，也就是你——需要为我"
+"们做一件事。”"
 
 #: src-en/data/events_sector_aea_old_2.xml:454
 msgid ""
@@ -488,30 +570,34 @@ msgstr "当然。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/choice/event/choice/event/text"
 msgstr ""
+"“给你的任务相对简单：在我们的星区里，还有一个和你一样的人正在肆意妄为。如果你"
+"干掉他，你就能离开；如果他干掉你，他就能离开。我会亲自跟你一起去见证这场对决"
+"。”"
 
 #: src-en/data/events_sector_aea_old_2.xml:457
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "赎罪者尤尼菲斯"
 
 #: src-en/data/events_sector_aea_old_2.xml:459
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "前往那个地点"
 
 #: src-en/data/events_sector_aea_old_2.xml:473
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这是你正在寻求其赞助的那位议会成员的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:474
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "这是你正在寻求其赞助的那位议会成员的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:478
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/text"
-msgstr ""
+msgstr "你已抵达一位议会成员的所在地，一艘精英利尔米克飞船正守卫着那里。由于你已预约"
+"了会面，因此得以降落并见到了渐近本质。"
 
 #: src-en/data/events_sector_aea_old_2.xml:480
 msgid ""
@@ -522,6 +608,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/choice/event/text"
 msgstr ""
+"“舰长，我想我已经知道你为何而来了。之前也有像你这样的人经过，一路摧毁所见之物"
+"。最终他们都想离开，我们也放他们走了。不过首先，他们——嗯，也就是你——需要为我"
+"们做一件事。”"
 
 #: src-en/data/events_sector_aea_old_2.xml:484
 msgid ""
@@ -532,30 +621,34 @@ msgstr "当然。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/choice/event/choice/event/text"
 msgstr ""
+"“给你的任务相对简单：在我们的星区里，还有一个和你一样的人正在肆意妄为。如果你"
+"干掉他，你就能离开；如果他干掉你，他就能离开。我会亲自跟你一起去见证这场对决"
+"。”"
 
 #: src-en/data/events_sector_aea_old_2.xml:487
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "渐近本质"
 
 #: src-en/data/events_sector_aea_old_2.xml:489
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "前往那个地点"
 
 #: src-en/data/events_sector_aea_old_2.xml:503
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这是你正在寻求其赞助的那位议会成员的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:504
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "这是你正在寻求其赞助的那位议会成员的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:508
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/text"
-msgstr ""
+msgstr "你已抵达一位议会成员的所在地，一艘精英利尔米克飞船正守卫着那里。由于你已预约"
+"了会面，因此得以降落并见到了悦动脉冲。"
 
 #: src-en/data/events_sector_aea_old_2.xml:510
 msgid ""
@@ -566,6 +659,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/choice/event/text"
 msgstr ""
+"“舰长，我想我已经知道你为何而来了。之前也有像你这样的人经过，一路摧毁所见之物"
+"。最终他们都想离开，我们也放他们走了。不过首先，他们——嗯，也就是你——需要为我"
+"们做一件事。”"
 
 #: src-en/data/events_sector_aea_old_2.xml:514
 msgid ""
@@ -576,30 +672,34 @@ msgstr "当然。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/choice/event/choice/event/text"
 msgstr ""
+"“给你的任务相对简单：在我们的星区里，还有一个和你一样的人正在肆意妄为。如果你"
+"干掉他，你就能离开；如果他干掉你，他就能离开。我会亲自跟你一起去见证这场对决"
+"。”"
 
 #: src-en/data/events_sector_aea_old_2.xml:517
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "悦动脉冲"
 
 #: src-en/data/events_sector_aea_old_2.xml:519
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "前往那个地点"
 
 #: src-en/data/events_sector_aea_old_2.xml:533
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这是你正在寻求其赞助的那位议会成员的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:534
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "这是你正在寻求其赞助的那位议会成员的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:538
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/text"
-msgstr ""
+msgstr "你已抵达一位议会成员的所在地，一艘精英利尔米克飞船正守卫着那里。由于你已预约"
+"了会面，因此得以降落并见到了同源趋势。"
 
 #: src-en/data/events_sector_aea_old_2.xml:540
 msgid ""
@@ -610,6 +710,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/choice/event/text"
 msgstr ""
+"“舰长，我想我已经知道你为何而来了。之前也有像你这样的人经过，一路摧毁所见之物"
+"。最终他们都想离开，我们也放他们走了。不过首先，他们——嗯，也就是你——需要为我"
+"们做一件事。”"
 
 #: src-en/data/events_sector_aea_old_2.xml:544
 msgid ""
@@ -620,30 +723,34 @@ msgstr "当然。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/choice/event/choice/event/text"
 msgstr ""
+"“给你的任务相对简单：在我们的星区里，还有一个和你一样的人正在肆意妄为。如果你"
+"干掉他，你就能离开；如果他干掉你，他就能离开。我会亲自跟你一起去见证这场对决"
+"。”"
 
 #: src-en/data/events_sector_aea_old_2.xml:547
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "同源趋势"
 
 #: src-en/data/events_sector_aea_old_2.xml:549
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "前往那个地点"
 
 #: src-en/data/events_sector_aea_old_2.xml:563
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这是你正在寻求其赞助的那位议会成员的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:564
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "这是你正在寻求其赞助的那位议会成员的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:568
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/text"
-msgstr ""
+msgstr "你已抵达一位议会成员的所在地，一艘精英利尔米克飞船正守卫着那里。由于你已预约"
+"了会面，因此得以降落并见到了灵智共鸣。"
 
 #: src-en/data/events_sector_aea_old_2.xml:570
 msgid ""
@@ -654,6 +761,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/choice/event/text"
 msgstr ""
+"“舰长，我想我已经知道你为何而来了。之前也有像你这样的人经过，一路摧毁所见之物"
+"。最终他们都想离开，我们也放他们走了。不过首先，他们——嗯，也就是你——需要为我"
+"们做一件事。”"
 
 #: src-en/data/events_sector_aea_old_2.xml:574
 msgid ""
@@ -664,26 +774,30 @@ msgstr "当然。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/choice/event/choice/event/text"
 msgstr ""
+"“给你的任务相对简单：在我们的星区里，还有一个和你一样的人正在肆意妄为。如果你"
+"干掉他，你就能离开；如果他干掉你，他就能离开。我会亲自跟你一起去见证这场对决"
+"。”"
 
 #: src-en/data/events_sector_aea_old_2.xml:577
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "灵智共鸣"
 
 #: src-en/data/events_sector_aea_old_2.xml:579
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "前往那个地点"
 
 #: src-en/data/events_sector_aea_old_2.xml:593
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "赎罪者尤尼菲斯给你的目标位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:598
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_QUEST\"]/text"
-msgstr ""
+msgstr "你的赞助者指定的目标就漂浮在信标附近。当你靠近时，他们的武器和无人机启动并朝"
+"你发起攻击。"
 
 #: src-en/data/events_sector_aea_old_2.xml:601
 msgid ""
@@ -693,7 +807,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:612
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_BOUNTY_DESTROY\"]/text"
-msgstr ""
+msgstr "你击败了那艘精英飞船。你的赞助者似乎很满意，同意在议会中赞助你。"
 
 #: src-en/data/events_sector_aea_old_2.xml:618
 msgid ""
@@ -703,7 +817,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:620
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_1_BOUNTY_DESTROY\"]/choice/event/text"
-msgstr ""
+msgstr "你在残骸中发现了第二架无人机。"
 
 #: src-en/data/events_sector_aea_old_2.xml:623
 msgid ""
@@ -713,12 +827,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:635
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "渐近本质给你的目标位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:640
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_QUEST\"]/text"
-msgstr ""
+msgstr "你的赞助者指定的目标就漂浮在信标附近。当你靠近时，他们的武器和无人机启动并朝"
+"你发起攻击。"
 
 #: src-en/data/events_sector_aea_old_2.xml:642
 msgid ""
@@ -728,7 +843,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:653
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_2_BOUNTY_DESTROY\"]/text"
-msgstr ""
+msgstr "你击败了那艘精英飞船。你的赞助者似乎很满意，同意在议会中赞助你。"
 
 #: src-en/data/events_sector_aea_old_2.xml:659
 msgid ""
@@ -738,12 +853,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:669
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "悦动脉冲给你的目标位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:674
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_QUEST\"]/text"
-msgstr ""
+msgstr "你的赞助者指定的目标就漂浮在信标附近。当你靠近时，他们的武器和无人机启动并朝"
+"你发起攻击。"
 
 #: src-en/data/events_sector_aea_old_2.xml:676
 msgid ""
@@ -753,7 +869,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:687
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_3_BOUNTY_DESTROY\"]/text"
-msgstr ""
+msgstr "你击败了那艘精英飞船。你的赞助者似乎很满意，同意在议会中赞助你。"
 
 #: src-en/data/events_sector_aea_old_2.xml:693
 msgid ""
@@ -763,12 +879,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:703
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "同源趋势给你的目标位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:707
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_QUEST\"]/text"
-msgstr ""
+msgstr "你的赞助者指定的目标就漂浮在信标附近。当你靠近时，他们的武器和无人机启动并朝"
+"你发起攻击。"
 
 #: src-en/data/events_sector_aea_old_2.xml:709
 msgid ""
@@ -778,7 +895,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:720
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_4_BOUNTY_DESTROY\"]/text"
-msgstr ""
+msgstr "你击败了那艘精英飞船。你的赞助者似乎很满意，同意在议会中赞助你。"
 
 #: src-en/data/events_sector_aea_old_2.xml:726
 msgid ""
@@ -788,12 +905,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:736
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_QUEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "灵智共鸣给你的目标位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:741
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_QUEST\"]/text"
-msgstr ""
+msgstr "你的赞助者指定的目标就漂浮在信标附近。当你靠近时，他们的武器和无人机启动并朝"
+"你发起攻击。"
 
 #: src-en/data/events_sector_aea_old_2.xml:743
 msgid ""
@@ -803,7 +921,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:754
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_SPONSOR_5_BOUNTY_DESTROY\"]/text"
-msgstr ""
+msgstr "你击败了那艘精英飞船。你的赞助者似乎很满意，同意在议会中赞助你。"
 
 #: src-en/data/events_sector_aea_old_2.xml:760
 msgid ""
@@ -813,28 +931,29 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:778
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这是议会行政大楼所在的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:779
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "这是议会行政大楼所在的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:783
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/text"
-msgstr ""
+msgstr "你已抵达议会行政大楼所在地。这是议会定期会面、讨论并维持其隔离星区运作的地方"
+"。"
 
 #: src-en/data/events_sector_aea_old_2.xml:785
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[@req=\"aea_old_completed_sponsor\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "与你的赞助议员一同进入。"
 
 #: src-en/data/events_sector_aea_old_2.xml:787
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[@req=\"aea_old_completed_sponsor\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "你进入宏伟的建筑，经过无数转弯和走廊，终于与其他的议会成员面对面。"
 
 #: src-en/data/events_sector_aea_old_2.xml:789
 msgid ""
@@ -846,7 +965,8 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[@req=\"aea_old_completed_sponsor\""
 " and @lvl=\"1\"]/event/choice/event/text"
-msgstr ""
+msgstr "过了好一阵子，但议会几乎不怎么需要你出场。你尤其惊讶地发现，你在此地的行踪被"
+"记录得如此详尽——他们掌握着你在其星域内几乎每一场战斗的证据。"
 
 #: src-en/data/events_sector_aea_old_2.xml:793
 msgid ""
@@ -858,32 +978,36 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[@req=\"aea_old_completed_sponsor\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "你需要先找到一位赞助人，之后再回来。"
 
 #: src-en/data/events_sector_aea_old_2.xml:805
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL\"]/choice[3]/text"
-msgstr ""
+msgstr "稍后再来。"
 
 #: src-en/data/events_sector_aea_old_2.xml:815
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "这是议会行政大楼所在的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:816
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/beaconType/visitedTooltip"
-msgstr ""
+msgstr "这是议会行政大楼所在的位置。"
 
 #: src-en/data/events_sector_aea_old_2.xml:820
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/text"
 msgstr ""
+"最终你收到了裁决：允许你离开。他们告诉了你一个秘密星门的位置，与你之前在节点 "
+"17 激活的那个类似。\n"
+"由于星门的位置，你需要由你的赞助人护送到那里。在离开之前，你最好先处理好此地"
+"未了结的事务。"
 
 #: src-en/data/events_sector_aea_old_2.xml:825
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/choice[1]/text"
-msgstr ""
+msgstr "立即前往星门。"
 
 #: src-en/data/events_sector_aea_old_2.xml:832
 msgid ""
@@ -893,12 +1017,13 @@ msgstr "给我一点时间准备。"
 #: src-en/data/events_sector_aea_old_2.xml:838
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_2_COUNCIL_JUMP\"]/choice[3]/text"
-msgstr ""
+msgstr "我们稍后再回到这里。"
 
 #: src-en/data/events_sector_aea_old_2.xml:857
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/text"
-msgstr ""
+msgstr "令人惊讶的是，一名利尔米克商人似乎正遭到一名全副武装的精英的攻击。如果你想和"
+"他们交易，就需要先解决掉那个精英。"
 
 #: src-en/data/events_sector_aea_old_2.xml:860
 msgid ""
@@ -923,7 +1048,7 @@ msgstr "无视商人。"
 #: src-en/data/events_sector_aea_old_2.xml:873
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"STORE_HOSTILE_AEA_OLD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "幸运的是，那名精英仍未察觉你的存在。"
 
 #: src-en/data/events_sector_aea_old_2.xml:875
 msgid ""
@@ -938,17 +1063,18 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_2.xml:917
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/text"
-msgstr ""
+msgstr "你看到远处有一颗人口稠密的小卫星，商店外面人流熙攘。要靠近看看吗？。"
 
 #: src-en/data/events_sector_aea_old_2.xml:919
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/choice[1]/text"
-msgstr ""
+msgstr "排队等待降落。"
 
 #: src-en/data/events_sector_aea_old_2.xml:921
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你最终设法在有限的空地里降落并进入了商店。难以置信的是，商店里的所有商品似乎"
+"都在打折。"
 
 #: src-en/data/events_sector_aea_old_2.xml:926
 msgid ""
@@ -958,7 +1084,8 @@ msgstr "无视卫星。"
 #: src-en/data/events_sector_aea_old_2.xml:928
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_CLEARANCE_SALE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "当你等待超光速引擎充能时，注意到一艘广告飞船飞过，原来下面的那家大商店正在搞"
+"清仓大甩卖。"
 
 #: src-en/data/events_sector_aea_old_2.xml:930
 msgid ""
@@ -972,27 +1099,29 @@ msgstr "跳过。"
 
 #: src-en/data/events_sector_aea_old_2.xml:944
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/text"
-msgstr ""
+msgstr "你抵达信标，立刻被铺天盖地的广告轰炸，都在宣传某个行星集市。似乎整个星区的人"
+"都赶来品尝和展示自家的美食了。"
 
 #: src-en/data/events_sector_aea_old_2.xml:946
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/text"
-msgstr ""
+msgstr "下去逛逛。"
 
 #: src-en/data/events_sector_aea_old_2.xml:948
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你降落在行星上，开始探索集市。有琳琅满目的选择。"
 
 #: src-en/data/events_sector_aea_old_2.xml:950
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "去“绿鸡蛋与火腿”摊位。"
 
 #: src-en/data/events_sector_aea_old_2.xml:952
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你走到摊位前，但不幸的是，摊位里的食物已完全售罄。更糟的是，在这个摊位工作的"
+"人被他们自己的飞船丢下了，他们主动提出要加入你的船员队伍。"
 
 #: src-en/data/events_sector_aea_old_2.xml:955
 msgid ""
@@ -1002,12 +1131,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:961
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "去“柔光”摊位。"
 
 #: src-en/data/events_sector_aea_old_2.xml:963
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你走到摊位前，但不幸的是，摊位里的食物已完全售罄。更糟的是，在这个摊位工作的"
+"人被他们自己的飞船丢下了，他们主动提出要加入你的船员队伍。"
 
 #: src-en/data/events_sector_aea_old_2.xml:966
 msgid ""
@@ -1017,12 +1147,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:972
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "去“自然甘露”摊位。"
 
 #: src-en/data/events_sector_aea_old_2.xml:974
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "你走到摊位前，但不幸的是，摊位里的食物已完全售罄。更糟的是，在这个摊位工作的"
+"人被他们自己的飞船丢下了，他们主动提出要加入你的船员队伍。"
 
 #: src-en/data/events_sector_aea_old_2.xml:977
 msgid ""
@@ -1032,12 +1163,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:983
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "去“鲍勃的肠子”摊位。"
 
 #: src-en/data/events_sector_aea_old_2.xml:985
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[4]/event/text"
-msgstr ""
+msgstr "你走到摊位前，但不幸的是，摊位里的食物已完全售罄。更糟的是，在这个摊位工作的"
+"人被他们自己的飞船丢下了，他们主动提出要加入你的船员队伍。"
 
 #: src-en/data/events_sector_aea_old_2.xml:988
 msgid ""
@@ -1047,12 +1179,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:994
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "去“音调”摊位。"
 
 #: src-en/data/events_sector_aea_old_2.xml:996
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[5]/event/text"
-msgstr ""
+msgstr "你走到摊位前，但不幸的是，摊位里的食物已完全售罄。更糟的是，在这个摊位工作的"
+"人被他们自己的飞船丢下了，他们主动提出要加入你的船员队伍。"
 
 #: src-en/data/events_sector_aea_old_2.xml:999
 msgid ""
@@ -1062,12 +1195,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:1005
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[6]/text"
-msgstr ""
+msgstr "去“热岩”摊位。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1007
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[6]/event/text"
-msgstr ""
+msgstr "你走到摊位前，但不幸的是，摊位里的食物已完全售罄。更糟的是，在这个摊位工作的"
+"人被他们自己的飞船丢下了，他们主动提出要加入你的船员队伍。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1010
 msgid ""
@@ -1077,12 +1211,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:1016
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[7]/text"
-msgstr ""
+msgstr "去“吃生菜”摊位。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1018
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[7]/event/text"
-msgstr ""
+msgstr "你走到摊位前，但不幸的是，摊位里的食物已完全售罄。更糟的是，在这个摊位工作的"
+"人被他们自己的飞船丢下了，他们主动提出要加入你的船员队伍。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1021
 msgid ""
@@ -1092,12 +1227,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:1027
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[8]/text"
-msgstr ""
+msgstr "去“缥缈美食”摊位。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1029
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[8]/event/text"
-msgstr ""
+msgstr "你走到摊位前，但不幸的是，摊位里的食物已完全售罄。更糟的是，在这个摊位工作的"
+"人被他们自己的飞船丢下了，他们主动提出要加入你的船员队伍。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1032
 msgid ""
@@ -1107,12 +1243,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:1038
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[9]/text"
-msgstr ""
+msgstr "去“格雷格废料场”。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1040
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[1]/event/choice[9]/event/text"
-msgstr ""
+msgstr "你走到摊位前，但不幸的是，摊位里的食物已完全售罄。更糟的是，在这个摊位工作的"
+"人被他们自己的飞船丢下了，他们主动提出要加入你的船员队伍。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1043
 msgid ""
@@ -1127,12 +1264,12 @@ msgstr "离开。"
 #: src-en/data/events_sector_aea_old_2.xml:1055
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[2]/text"
-msgstr ""
+msgstr "忽略该事件。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1057
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_FOOD_CREW\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你开始为超光速引擎充能。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1059
 msgid ""
@@ -1147,17 +1284,18 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_2.xml:1072
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/text"
-msgstr ""
+msgstr "当你抵达这个信标时，你竟与……自己面对面？位置数据有些混乱，但根据传感器所能探"
+"测到的信息，你看到的是一艘与你完全相同的飞船，包括生命信号等等。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1074
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[1]/text"
-msgstr ""
+msgstr "尽快离开。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1076
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你飞到安全距离外，开始为超光速引擎充能。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1078
 msgid ""
@@ -1172,12 +1310,15 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_2.xml:1088
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[2]/text"
-msgstr ""
+msgstr "向那艘船开火。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1090
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[2]/event/text"
 msgstr ""
+"你的武器直接命中了目标，但那艘神秘的镜像飞船也同时开火，给予了你同样猛烈的还"
+"击。事实上，你注意到他们的船体损伤与你自己的完全一致。你思索着，或许还是离开"
+"这片区域为妙。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1093
 msgid ""
@@ -1193,6 +1334,9 @@ msgstr "(异常监测器)你的扫描器显示出各种奇怪的结果。"
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_MIRROR_CACHE\"]/choice[@req=\"UPG_AETHER_SCANNERS\"]/event/text"
 msgstr ""
+"你的以太强化扫描仪设法弄清了事情的真相：某种空间扭曲装置通过让任何通往它的路"
+"径都折返回起点，同时提供另一条更加迂回曲折的路线通往真正的入口，从而隐藏了一"
+"个储物箱。凭借这一新发现，你成功取得了其中的物品。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1104
 msgid ""
@@ -1202,17 +1346,18 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:1113
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/text"
-msgstr ""
+msgstr "该信标位于一个小行星带内，附近你看到一艘利尔米克自动飞船卡在两块岩石之间。那"
+"艘自动飞船似乎处于离线状态。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1115
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[1]/text"
-msgstr ""
+msgstr "炸毁那艘船。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1117
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你在这艘船上打了个洞，然后将其拆解，回收了所有有用的东西。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1120
 msgid ""
@@ -1222,12 +1367,16 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:1126
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[2]/text"
-msgstr ""
+msgstr "尝试启动那艘自动飞船。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1128
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[2]/event/text"
 msgstr ""
+"飞船启动了，试图挣脱出来，开始向卡住它的岩石开火，炸得碎片四处飞溅。你赶紧撤"
+"回飞船，但还是未能避免轻微损伤。\n"
+"那艘自动飞船非但没能脱困，反而弄松了一大块岩石，砸毁了自己的中央处理器。你回"
+"收了残骸。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1133
 msgid ""
@@ -1235,7 +1384,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1139
-#, fuzzy
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[3]/text"
 msgstr "无视这艘舰船。"
@@ -1243,7 +1391,7 @@ msgstr "无视这艘舰船。"
 #: src-en/data/events_sector_aea_old_2.xml:1141
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_STUCK\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你飞到安全距离外，开始为超光速引擎充能。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1143
 msgid ""
@@ -1258,32 +1406,34 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_2.xml:1157
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/text"
-msgstr ""
+msgstr "你抵达了一个小型自动化维修站。或许你可以试着悄悄潜入，指望它免费为你维修；当"
+"然，你也可以选择付费维修。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1159
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[1]/text"
-msgstr ""
+msgstr "悄悄混入队列。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1163
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[2]/text"
-msgstr ""
+msgstr "花费 20 废料购买 10 点舰体修复。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1165
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你完成了交易，仔细看着机器修补船体。一切似乎都很顺利。修补完成后，你准备跃迁"
+"离开。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1173
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[3]/text"
-msgstr ""
+msgstr "避开维修站。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1175
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_REPAIR_YARD\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你准备跃迁。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1177
 msgid ""
@@ -1298,7 +1448,7 @@ msgstr "跳过。"
 #: src-en/data/events_sector_aea_old_2.xml:1189
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[1]/text"
-msgstr ""
+msgstr "正当你盘算着能免费修船时，一艘飞船从你身后的队列中驶出，激活了武器。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1192
 msgid ""
@@ -1308,7 +1458,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:1197
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[2]/text"
-msgstr ""
+msgstr "你排到了队伍最前面，获得了免费维修。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1200
 msgid ""
@@ -1318,7 +1468,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:1202
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[2]/choice/event/text"
-msgstr ""
+msgstr "正当你以为能侥幸逃脱时，却被队列另一端的一艘恼怒的飞船截住了。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1205
 msgid ""
@@ -1328,7 +1478,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:1212
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[3]/text"
-msgstr ""
+msgstr "你排到了队伍最前面，获得了免费维修。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1215
 msgid ""
@@ -1338,7 +1488,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:1217
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[3]/choice/event/text"
-msgstr ""
+msgstr "正当你以为能侥幸逃脱时，却被队列另一端的一艘恼怒的飞船截住了。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1220
 msgid ""
@@ -1348,21 +1498,28 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:1222
 msgid ""
 "data/events_sector_aea_old_2.xml$//eventList[@name=\"AEA_OLD_REPAIR_SNEAK\"]/event[3]/choice/event/choice/event/text"
-msgstr ""
+msgstr "然而，那艘船只是从你身旁飞过，看来他们根本无意拦截你。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1248
 msgid "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/text"
 msgstr ""
+"你的传感器探测到一个利尔米克自动飞船的信号。它似乎已朝同一方向加速了很长时间"
+"，因此积聚了惊人的速度。你不确定这是某种关于亚光速旅行可行性的实验，还是单纯"
+"的故障，但更紧迫的问题是，你的飞船恰好就在它的飞行路径上脱离了超空间。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1250
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[1]/text"
-msgstr ""
+msgstr "准备承受撞击！。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1252
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[1]/event/text"
 msgstr ""
+"在高速碰撞的所有可能选项中，撞上一艘利尔米克制造的飞船恐怕是最糟的结果，毕竟"
+"他们酷爱厚重的装甲板。那艘看似小巧的自动飞船，其庞大的质量将你的船撞得在太空"
+"中翻滚，你随之失去了意识。当所有人都恢复知觉后，损伤报告显示船体上因撞击出现"
+"了许多大洞。没人从洞里掉出去，真是个奇迹。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1257
 msgid ""
@@ -1372,12 +1529,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:1263
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "（高级引擎）实施规避机动！。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1265
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"engines\"]/event/text"
-msgstr ""
+msgstr "谢天谢地，推进器足够强大，让你在撞击前将飞船移开了。全体船员如释重负地看着那"
+"个“极速恶魔”飞过。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1267
 msgid ""
@@ -1387,12 +1545,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:1273
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "（高级武器）设法让它停下，不管用什么方式。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1275
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"weapons\"]/event/text"
 msgstr ""
+"利尔米克的飞船以其极其有效的装甲而闻名，但每艘船都有其弱点。几次精准的射击成"
+"功击落了部分推进器，使自动飞船偏离了航向，随后你武器的连续攻击将那艘失控的飞"
+"船变成了一团废料，你将其回收。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1278
 msgid ""
@@ -1402,12 +1563,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:1284
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"shields\"]/text"
-msgstr ""
+msgstr "（高级护盾）将所有能量重新分配给护盾！。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1286
 msgid ""
 "data/events_sector_aea_old_2.xml$//event[@name=\"AEA_OLD_AUTO_RAM\"]/choice[@req=\"shields\"]/event/text"
-msgstr ""
+msgstr "你的护盾承受了主要的冲击力，那艘自动飞船被撞得半扁并弹向一侧，留下了大量废料"
+"。不幸的是，撞击导致护盾电容器过载并爆炸了。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1291
 msgid ""
@@ -1422,19 +1584,21 @@ msgstr "继续。"
 #: src-en/data/events_sector_aea_old_2.xml:1333
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[1]"
-msgstr ""
+msgstr "一艘大型飞船向你靠近，看来他们对你船上可能拥有的任何新技术很感兴趣。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1334
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[2]"
-msgstr ""
+msgstr "显然，这艘正在向你逼近的飞船之所以能存活至今，完全是因为它极其危险。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1335
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[3]"
-msgstr ""
+msgstr "在这个多元宇宙的角落，要想在被困中存活下去，唯一的方法就是从别人那里夺取资源"
+"。现在，正有一个幸存者朝你靠近。"
 
 #: src-en/data/events_sector_aea_old_2.xml:1336
 msgid ""
 "data/events_sector_aea_old_2.xml$//textList[@name=\"TEXT_ENCOUNTER_AEA_OLD_2_FIGHT\"]/text[4]"
-msgstr ""
+msgstr "尽管利尔米克反对自相残杀，但他们并不会阻止其领地内的居民相互杀戮。此刻，正有"
+"一名居民进入了攻击阵位。"
