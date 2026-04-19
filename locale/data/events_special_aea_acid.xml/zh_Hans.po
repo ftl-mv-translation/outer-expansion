@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-03 17:53+0000\n"
-"Last-Translator: circle217 <3545024352@qq.com>\n"
+"PO-Revision-Date: 2026-04-20 05:42+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/dataevents_special_aea_acidxml/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -74,27 +74,30 @@ msgstr ""
 #: src-en/data/events_special_aea_acid.xml:57
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_START_AEA_ACID\"]/text[1]"
-msgstr ""
+msgstr "酸藻族是一个相对不为人知的派系，但其危险性却众所周知。"
 
 #: src-en/data/events_special_aea_acid.xml:58
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_START_AEA_ACID\"]/text[2]"
-msgstr ""
+msgstr "这片星云是酸藻族的家园。目前尚不清楚它是一个近乎无所不在的单一实体，还是某种"
+"蜂巢思维。无论如何，你大概都不想惹恼他们。"
 
 #: src-en/data/events_special_aea_acid.xml:59
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_START_AEA_ACID\"]/text[3]"
-msgstr ""
+msgstr "你被告知酸藻族已扩张至这片星云。不幸的是，酸藻族星域只欢迎兰花族进入。"
 
 #: src-en/data/events_special_aea_acid.xml:60
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_START_AEA_ACID\"]/text[4]"
-msgstr ""
+msgstr "人们对酸藻族的生活方式知之甚少，也许你会揭开谜底。无论如何，若能幸存下来讲述"
+"这段经历，便已是万幸。"
 
 #: src-en/data/events_special_aea_acid.xml:61
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_START_AEA_ACID\"]/text[5]"
-msgstr ""
+msgstr "酸藻族正是在这样的星云中形成的。尽管它们能赤身裸体地在星云中存活，但为了与更"
+"广阔的宇宙互动，酸藻族还是创造了自己的飞船和技术。"
 
 #: src-en/data/events_special_aea_acid.xml:76
 msgid ""
@@ -103,12 +106,12 @@ msgstr "继续。"
 
 #: src-en/data/events_special_aea_acid.xml:82
 msgid "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/text"
-msgstr ""
+msgstr "一艘酸藻族飞船向你发出通讯。“我们不认识你，也不了解你的意图，请离开。”"
 
 #: src-en/data/events_special_aea_acid.xml:84
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[1]/text"
-msgstr ""
+msgstr "杀出一条血路！"
 
 #: src-en/data/events_special_aea_acid.xml:86
 msgid ""
@@ -123,32 +126,32 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:95
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[2]/text"
-msgstr ""
+msgstr "说服它你只有善意。"
 
 #: src-en/data/events_special_aea_acid.xml:97
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[2]/event/text"
-msgstr ""
+msgstr "酸藻族认可了你的捐献，允许你通过。"
 
 #: src-en/data/events_special_aea_acid.xml:105
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"aea_acid_soldier\"]/text"
-msgstr ""
+msgstr "（酸藻族士兵）自由进入。"
 
 #: src-en/data/events_special_aea_acid.xml:107
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"aea_acid_soldier\"]/event/text"
-msgstr ""
+msgstr "酸藻族表示欢迎，你可以自由进入。"
 
 #: src-en/data/events_special_aea_acid.xml:112
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"aea_acid_captain\"]/text"
-msgstr ""
+msgstr "（酸藻族领袖）自由进入。"
 
 #: src-en/data/events_special_aea_acid.xml:114
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"aea_acid_captain\"]/event/text"
-msgstr ""
+msgstr "酸藻族表示欢迎，你可以自由进入。"
 
 #: src-en/data/events_special_aea_acid.xml:119
 msgid ""
@@ -158,7 +161,8 @@ msgstr "(兰花族船员)请求通过。"
 #: src-en/data/events_special_aea_acid.xml:121
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"orchid\"]/event/text"
-msgstr ""
+msgstr "你的兰花族向那艘酸藻族飞船发出通讯，但还没来得及说话，就收到了回复。“啊，是位"
+"值得信赖的人，欢迎进入我们的星域。”"
 
 #: src-en/data/events_special_aea_acid.xml:126
 msgid ""
@@ -168,17 +172,19 @@ msgstr "(看护者船员)请求通过。"
 #: src-en/data/events_special_aea_acid.xml:128
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"orchid_caretaker\"]/event/text"
-msgstr ""
+msgstr "你的兰花族向那艘酸藻族飞船发出通讯，但还没来得及说话，就收到了回复。“啊，是位"
+"值得信赖的人，欢迎进入我们的星域。”"
 
 #: src-en/data/events_special_aea_acid.xml:133
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"orchid_praetor\"]/text"
-msgstr ""
+msgstr "（军政官船员）请求通行。"
 
 #: src-en/data/events_special_aea_acid.xml:135
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"orchid_praetor\"]/event/text"
-msgstr ""
+msgstr "你的兰花族向那艘酸藻族飞船发出通讯，但还没来得及说话，就收到了回复。“啊，是位"
+"值得信赖的人，欢迎进入我们的星域。”"
 
 #: src-en/data/events_special_aea_acid.xml:140
 msgid ""
@@ -188,22 +194,25 @@ msgstr "(麻椰)请求通过。"
 #: src-en/data/events_special_aea_acid.xml:142
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"unique_mayeb\"]/event/text"
-msgstr ""
+msgstr "你的兰花族向那艘酸藻族飞船发出通讯，但还没来得及说话，就收到了回复。“啊，是位"
+"值得信赖的人，欢迎进入我们的星域。”"
 
 #: src-en/data/events_special_aea_acid.xml:147
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"unique_tyerel\"]/text"
-msgstr ""
+msgstr "（笛艾尔）请求通行。"
 
 #: src-en/data/events_special_aea_acid.xml:149
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"unique_tyerel\"]/event/text"
-msgstr ""
+msgstr "你的兰花族向那艘酸藻族飞船发出通讯，但还没来得及说话，就收到了回复。“啊，是位"
+"值得信赖的人，欢迎进入我们的星域。”"
 
 #: src-en/data/events_special_aea_acid.xml:154
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID\"]/choice[@req=\"mind\"]/text"
-msgstr ""
+msgstr "（心灵控制）控制一个你甚至不确定是否有心智的东西很难——至少其心智得小到足以被"
+"控制才行。"
 
 #: src-en/data/events_special_aea_acid.xml:158
 msgid ""
@@ -223,7 +232,8 @@ msgstr "(先进驾驶)启动自动驾驶来尝试逃跑。"
 #: src-en/data/events_special_aea_acid.xml:178
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID_DESTROY\"]/text"
-msgstr ""
+msgstr "你击败了酸藻族守卫。无论其货舱中曾有何物，定已损毁殆尽，但你至少能从星舰上回"
+"收部分物资。"
 
 #: src-en/data/events_special_aea_acid.xml:181
 msgid ""
@@ -233,7 +243,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:186
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID_DEADCREW\"]/text"
-msgstr ""
+msgstr "你击败了酸藻族守卫。船上已无酸藻族阻拦，你可调查其货舱。找到一件武器带回舰船"
+"，并继续拆解其舰体回收废料。"
 
 #: src-en/data/events_special_aea_acid.xml:190
 msgid ""
@@ -243,7 +254,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:203
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACID_FOLLOWUP\"]/text"
-msgstr ""
+msgstr "击杀酸藻族守卫，无疑会促使他们派遣增援追捕你。探索该星域时务必谨慎行事。"
 
 #: src-en/data/events_special_aea_acid.xml:212
 msgid ""
@@ -261,7 +272,6 @@ msgid ""
 msgstr "未探索的信标。"
 
 #: src-en/data/events_special_aea_acid.xml:225
-#, fuzzy
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACID\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -274,7 +284,8 @@ msgstr "未探索的信标。"
 #: src-en/data/events_special_aea_acid.xml:228
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACID\"]/text"
-msgstr ""
+msgstr "酸藻族对你并非友善地进入星域一事反应强烈，看来他们已专门派遣一艘星舰前来拦截"
+"。"
 
 #: src-en/data/events_special_aea_acid.xml:232
 msgid ""
@@ -287,7 +298,6 @@ msgid ""
 msgstr "未探索的信标。"
 
 #: src-en/data/events_special_aea_acid.xml:241
-#, fuzzy
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACID\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -300,7 +310,8 @@ msgstr "未探索的信标。"
 #: src-en/data/events_special_aea_acid.xml:244
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACID\"]/text"
-msgstr ""
+msgstr "酸藻族对你并非友善地进入星域一事反应强烈，看来他们已专门派遣一艘星舰前来拦截"
+"。"
 
 #: src-en/data/events_special_aea_acid.xml:249
 msgid ""
@@ -310,7 +321,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:260
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"START_AEA_ACIDHOME\"]/text"
-msgstr ""
+msgstr "深入酸藻族领地深处冒险风险极高。酸藻族发源于此星区，对此地防卫极其严密。"
 
 #: src-en/data/events_special_aea_acid.xml:267
 msgid ""
@@ -320,32 +331,33 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:273
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/text"
-msgstr ""
+msgstr "此地的精英守卫向你发送了一条简短直白的信息：“此地不欢迎你，请表明你的意图或离"
+"开。”"
 
 #: src-en/data/events_special_aea_acid.xml:275
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_friendly\"]/text"
-msgstr ""
+msgstr "（友好地）表明你的身份。"
 
 #: src-en/data/events_special_aea_acid.xml:277
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_friendly\"]/event/text"
-msgstr ""
+msgstr "酸藻族认出你是谁后，守卫便欢迎你进入。酸藻族甚至慷慨地分给你一些补给。"
 
 #: src-en/data/events_special_aea_acid.xml:282
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[2]/text"
-msgstr ""
+msgstr "试着谈判。"
 
 #: src-en/data/events_special_aea_acid.xml:286
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[3]/text"
-msgstr ""
+msgstr "说服它你只有善意。"
 
 #: src-en/data/events_special_aea_acid.xml:288
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[3]/event/text"
-msgstr ""
+msgstr "酸藻族认可了你的捐献，允许你通过。"
 
 #: src-en/data/events_special_aea_acid.xml:296
 msgid ""
@@ -355,7 +367,7 @@ msgstr "杀出一条生路。"
 #: src-en/data/events_special_aea_acid.xml:298
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[4]/event/text"
-msgstr ""
+msgstr "你切断通讯，准备攻击。"
 
 #: src-en/data/events_special_aea_acid.xml:301
 msgid ""
@@ -365,22 +377,22 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:307
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_soldier\"]/text"
-msgstr ""
+msgstr "（酸藻族士兵）自由进入。"
 
 #: src-en/data/events_special_aea_acid.xml:309
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_soldier\"]/event/text"
-msgstr ""
+msgstr "酸藻族表示欢迎，你可以自由进入。"
 
 #: src-en/data/events_special_aea_acid.xml:314
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_captain\"]/text"
-msgstr ""
+msgstr "（酸藻族领袖）自由进入。"
 
 #: src-en/data/events_special_aea_acid.xml:316
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"aea_acid_captain\"]/event/text"
-msgstr ""
+msgstr "酸藻族表示欢迎，你可以自由进入。"
 
 #: src-en/data/events_special_aea_acid.xml:321
 msgid ""
@@ -390,7 +402,8 @@ msgstr "(兰花族船员)请求通过。"
 #: src-en/data/events_special_aea_acid.xml:323
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid\"]/event/text"
-msgstr ""
+msgstr "你的兰花族向那艘酸藻族飞船发出通讯，但还没来得及说话，就收到了回复。“啊，是位"
+"值得信赖的人，欢迎进入我们的星域。”"
 
 #: src-en/data/events_special_aea_acid.xml:328
 msgid ""
@@ -400,17 +413,19 @@ msgstr "(看护者船员)请求通过。"
 #: src-en/data/events_special_aea_acid.xml:330
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_caretaker\"]/event/text"
-msgstr ""
+msgstr "你的兰花族向那艘酸藻族飞船发出通讯，但还没来得及说话，就收到了回复。“啊，是位"
+"值得信赖的人，欢迎进入我们的星域。”"
 
 #: src-en/data/events_special_aea_acid.xml:335
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_praetor\"]/text"
-msgstr ""
+msgstr "（军政官船员）请求通行。"
 
 #: src-en/data/events_special_aea_acid.xml:337
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"orchid_praetor\"]/event/text"
-msgstr ""
+msgstr "你的兰花族向那艘酸藻族飞船发出通讯，但还没来得及说话，就收到了回复。“啊，是位"
+"值得信赖的人，欢迎进入我们的星域。”"
 
 #: src-en/data/events_special_aea_acid.xml:342
 msgid ""
@@ -420,22 +435,25 @@ msgstr "(麻椰)请求通过。"
 #: src-en/data/events_special_aea_acid.xml:344
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_mayeb\"]/event/text"
-msgstr ""
+msgstr "你的兰花族向那艘酸藻族飞船发出通讯，但还没来得及说话，就收到了回复。“啊，是位"
+"值得信赖的人，欢迎进入我们的星域。”"
 
 #: src-en/data/events_special_aea_acid.xml:349
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_tyerel\"]/text"
-msgstr ""
+msgstr "（笛艾尔）请求通行。"
 
 #: src-en/data/events_special_aea_acid.xml:351
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"unique_tyerel\"]/event/text"
-msgstr ""
+msgstr "你的兰花族向那艘酸藻族飞船发出通讯，但还没来得及说话，就收到了回复。“啊，是位"
+"值得信赖的人，欢迎进入我们的星域。”"
 
 #: src-en/data/events_special_aea_acid.xml:356
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME\"]/choice[@req=\"mind\"]/text"
-msgstr ""
+msgstr "（心灵控制）控制一个你甚至不确定是否有心智的东西很难——至少其心智得小到足以被"
+"控制才行。"
 
 #: src-en/data/events_special_aea_acid.xml:360
 msgid ""
@@ -455,17 +473,17 @@ msgstr "(先进驾驶)启动自动驾驶来尝试逃跑。"
 #: src-en/data/events_special_aea_acid.xml:375
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/text"
-msgstr ""
+msgstr "“你的提议无法接受。”"
 
 #: src-en/data/events_special_aea_acid.xml:377
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "（先进武器）当然可以接受。"
 
 #: src-en/data/events_special_aea_acid.xml:379
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[@req=\"weapons\"]/event/text"
-msgstr ""
+msgstr "“我们的看法没有改变。”那艘酸藻族飞船随即进入攻击。"
 
 #: src-en/data/events_special_aea_acid.xml:382
 msgid ""
@@ -475,12 +493,12 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:388
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[2]/text"
-msgstr ""
+msgstr "那我们就杀出一条血路！"
 
 #: src-en/data/events_special_aea_acid.xml:390
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[2]/event/text"
-msgstr ""
+msgstr "你切断通讯，准备攻击。"
 
 #: src-en/data/events_special_aea_acid.xml:393
 msgid ""
@@ -490,27 +508,27 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:399
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[3]/text"
-msgstr ""
+msgstr "说服对方你只有善意，按原价交易。"
 
 #: src-en/data/events_special_aea_acid.xml:401
 msgid ""
 "data/events_special_aea_acid.xml$//eventList[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE\"]/event[1]/choice[3]/event/text"
-msgstr ""
+msgstr "酸藻族认可了你的捐献，允许你通过。"
 
 #: src-en/data/events_special_aea_acid.xml:412
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/text"
-msgstr ""
+msgstr "“可以接受的提议。价格会降低。”"
 
 #: src-en/data/events_special_aea_acid.xml:414
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[1]/text"
-msgstr ""
+msgstr "拒绝新协议。"
 
 #: src-en/data/events_special_aea_acid.xml:416
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“真不走运。”他们的武器从船体弹出，看来你在此逗留太久已不受欢迎。"
 
 #: src-en/data/events_special_aea_acid.xml:419
 msgid ""
@@ -520,17 +538,18 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:425
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[2]/text"
-msgstr ""
+msgstr "支付新价格。"
 
 #: src-en/data/events_special_aea_acid.xml:427
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_NEGOTIATE_GOOD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "酸藻族认可了你的捐献，允许你通过。"
 
 #: src-en/data/events_special_aea_acid.xml:442
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_DESTROY\"]/text"
-msgstr ""
+msgstr "你击败了酸藻族守卫。无论他们货舱中曾有何物，定已损毁殆尽，但你至少能从星舰上"
+"回收部分物资。"
 
 #: src-en/data/events_special_aea_acid.xml:445
 msgid ""
@@ -540,7 +559,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:450
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_DEADCREW\"]/text"
-msgstr ""
+msgstr "你击败了酸藻族守卫。船上已无酸藻族阻拦，你可调查其货舱。找到一件武器带回舰船"
+"，并继续拆解其舰体回收废料。"
 
 #: src-en/data/events_special_aea_acid.xml:454
 msgid ""
@@ -550,7 +570,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:467
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GUARD_AEA_ACIDHOME_FOLLOWUP\"]/text"
-msgstr ""
+msgstr "击杀酸藻族守卫，无疑会促使他们派遣增援追捕你。探索该星域时务必谨慎行事。"
 
 #: src-en/data/events_special_aea_acid.xml:476
 msgid ""
@@ -568,7 +588,6 @@ msgid ""
 msgstr "未探索的信标。"
 
 #: src-en/data/events_special_aea_acid.xml:489
-#, fuzzy
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -581,7 +600,8 @@ msgstr "未探索的信标。"
 #: src-en/data/events_special_aea_acid.xml:492
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"REINFORCEMENTS_AEA_ACIDHOME\"]/text"
-msgstr ""
+msgstr "酸藻族对你并非友善地进入星域一事反应强烈，看来他们已专门派遣一艘星舰前来拦截"
+"。"
 
 #: src-en/data/events_special_aea_acid.xml:496
 msgid ""
@@ -594,7 +614,6 @@ msgid ""
 msgstr "未探索的信标。"
 
 #: src-en/data/events_special_aea_acid.xml:505
-#, fuzzy
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACIDHOME\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -607,7 +626,8 @@ msgstr "未探索的信标。"
 #: src-en/data/events_special_aea_acid.xml:508
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_LIGHT_REINFORCEMENTS_AEA_ACIDHOME\"]/text"
-msgstr ""
+msgstr "酸藻族对你并非友善地进入星域一事反应强烈，看来他们已专门派遣一艘星舰前来拦截"
+"。"
 
 #: src-en/data/events_special_aea_acid.xml:513
 msgid ""
@@ -625,7 +645,6 @@ msgid ""
 msgstr "未探索的信标。"
 
 #: src-en/data/events_special_aea_acid.xml:568
-#, fuzzy
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/beaconType/visitedTooltip"
 msgstr "已探索的信标，没什么值得注意。"
@@ -638,17 +657,18 @@ msgstr "未探索的信标。"
 #: src-en/data/events_special_aea_acid.xml:572
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/text"
-msgstr ""
+msgstr "这个信标处有一艘酸藻族运输船。几乎可以肯定船上载有某种特殊技术。如果你能杀死"
+"船上的酸藻族，货物就归你所有。"
 
 #: src-en/data/events_special_aea_acid.xml:575
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[1]/text"
-msgstr ""
+msgstr "要求交出货物投降。"
 
 #: src-en/data/events_special_aea_acid.xml:577
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你准备武力夺取货物。"
 
 #: src-en/data/events_special_aea_acid.xml:580
 msgid ""
@@ -663,7 +683,7 @@ msgstr "避开这艘船。"
 #: src-en/data/events_special_aea_acid.xml:588
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_TRANSPORT_AEA_ACID_LOOT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "那艘星舰始终停在你武器射程之外，最终跃迁离去。"
 
 #: src-en/data/events_special_aea_acid.xml:590
 msgid ""
@@ -683,27 +703,29 @@ msgstr "对方船员都死了，留给你一艘空船。他们的货物任由你
 #: src-en/data/events_special_aea_acid.xml:621
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[1]"
-msgstr ""
+msgstr "当残骸四散漂离时，你依稀能辨认出那些曾构成酸藻族的气体云正在飘散。"
 
 #: src-en/data/events_special_aea_acid.xml:622
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[2]"
-msgstr ""
+msgstr "当残骸碎裂时，你不禁想，酸藻族的那些散落碎片能否最终回到它们的星云中去。"
 
 #: src-en/data/events_special_aea_acid.xml:623
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[3]"
-msgstr ""
+msgstr "你不禁想，一团无形的气体云要花多久才能造出一艘宇宙飞船。如果酸藻族会愤怒的话"
+"，此刻它大概正对你怒火中烧。"
 
 #: src-en/data/events_special_aea_acid.xml:624
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[4]"
-msgstr ""
+msgstr "又一艘酸藻族飞船被摧毁，又有一片酸藻族被困于此。"
 
 #: src-en/data/events_special_aea_acid.xml:625
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DESTROYED_AEA_ACID\"]/text[5]"
-msgstr ""
+msgstr "也许有一天，酸藻族会主动与联邦结盟，你只能寄希望于它忘记你曾摧毁过它多少飞船"
+"。"
 
 #: src-en/data/events_special_aea_acid.xml:626
 msgid ""
@@ -713,17 +735,19 @@ msgstr "你不禁为那些被你杀害的人感到难过，即使他们可能活
 #: src-en/data/events_special_aea_acid.xml:629
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DESTROYED_AEA_ACID_ACIDGUN\"]/text"
-msgstr ""
+msgstr "出乎意料的是，一件酸藻族自制的武器在爆炸中幸存。它被炸得有些焦黑，但稍加修理"
+"便能回收利用。"
 
 #: src-en/data/events_special_aea_acid.xml:647
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[1]"
-msgstr ""
+msgstr "你不确定酸藻族是否会知道你在此地的屠杀。无论如何，这艘残骸里依然满是可回收的"
+"废料。"
 
 #: src-en/data/events_special_aea_acid.xml:648
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[2]"
-msgstr ""
+msgstr "如今，酸藻族的船员已化作碎片散布在飞船各处，开始拆解吧。"
 
 #: src-en/data/events_special_aea_acid.xml:649
 msgid ""
@@ -733,7 +757,8 @@ msgstr "你以为在足够多的杀戮发生后，你会感到内疚，但你还
 #: src-en/data/events_special_aea_acid.xml:650
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_DEAD_CREW_AEA_ACID\"]/text[4]"
-msgstr ""
+msgstr "那艘酸藻族飞船上的船员已被清除。你内心道德的那部分希望，杀死一名酸藻族士兵不"
+"算谋杀。"
 
 #: src-en/data/events_special_aea_acid.xml:651
 msgid ""
@@ -743,67 +768,71 @@ msgstr "你向自己保证，当你剥夺他们船上任何有用的东西时，
 #: src-en/data/events_special_aea_acid.xml:654
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DEAD_CREW_AEA_ACID_ACIDGUN\"]/text"
-msgstr ""
+msgstr "船员已尽数清除，你在舰上发现了一件酸藻族自制武器。取走武器后，你便开始拆解舰"
+"船。"
 
 #: src-en/data/events_special_aea_acid.xml:663
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_ESCAPE_AEA_ACID\"]/text[1]"
-msgstr ""
+msgstr "那艘酸藻族飞船启动引擎，猛地转向避开你。它试图逃跑！"
 
 #: src-en/data/events_special_aea_acid.xml:664
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_ESCAPE_AEA_ACID\"]/text[2]"
-msgstr ""
+msgstr "你探测到那艘酸藻族飞船引擎功率出现剧烈波动。它正在试图逃跑。"
 
 #: src-en/data/events_special_aea_acid.xml:677
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_ACID\"]/text[1]"
-msgstr ""
+msgstr "那艘酸藻族飞船逃脱了。老实说，你还有点庆幸，希望将来酸藻族也不会试图将你彻底"
+"消灭。"
 
 #: src-en/data/events_special_aea_acid.xml:678
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_ACID\"]/text[2]"
-msgstr ""
+msgstr "那艘酸藻族飞船跃迁离去。你在该区域探测到一些残留的气体云，不禁想，那里是否还"
+"有酸藻族的碎片。"
 
 #: src-en/data/events_special_aea_acid.xml:679
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_GOTAWAY_AEA_ACID\"]/text[3]"
-msgstr ""
+msgstr "那艘酸藻族飞船的引擎功率急剧飙升，舰船随即跃迁离去。"
 
 #: src-en/data/events_special_aea_acid.xml:682
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"GOTAWAY_AEA_ACID_REMAINS\"]/text"
-msgstr ""
+msgstr "当那艘酸藻族飞船跃迁离去时，你注意到破损的舰船留下一串残骸碎片。至少你还有些"
+"东西可以回收。"
 
 #: src-en/data/events_special_aea_acid.xml:689
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"SURRENDER_AEA_ACID\"]/choice[1]/text"
-msgstr ""
+msgstr "接受它的投降。"
 
 #: src-en/data/events_special_aea_acid.xml:693
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"SURRENDER_AEA_ACID\"]/choice[@req=\"aea_acid_soldier\"]/text"
-msgstr ""
+msgstr "（酸藻族士兵）协商另一笔交易。"
 
 #: src-en/data/events_special_aea_acid.xml:705
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[1]"
-msgstr ""
+msgstr "一个单调的声音请求你停火，作为交换，他们会提供一些补给。"
 
 #: src-en/data/events_special_aea_acid.xml:706
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[2]"
-msgstr ""
+msgstr "那艘酸藻族飞船投降了。他们提出，若你饶它一命，愿提供一些补给。"
 
 #: src-en/data/events_special_aea_acid.xml:707
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[3]"
-msgstr ""
+msgstr "“这个提议令人满意。请接受吧。”"
 
 #: src-en/data/events_special_aea_acid.xml:708
 msgid ""
 "data/events_special_aea_acid.xml$//textList[@name=\"TEXT_SURRENDER_AEA_ACID\"]/text[4]"
-msgstr ""
+msgstr "“停火，你将得到奖励。”看来那艘飞船是在投降。"
 
 #: src-en/data/events_special_aea_acid.xml:719
 msgid ""
@@ -818,7 +847,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:756
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/destroyed/text"
-msgstr ""
+msgstr "那艘酸藻族飞船碎裂开来，你尽可能回收了残骸。"
 
 #: src-en/data/events_special_aea_acid.xml:759
 msgid ""
@@ -828,12 +857,13 @@ msgstr "联系难民船。"
 #: src-en/data/events_special_aea_acid.xml:761
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/destroyed/choice/event/text"
-msgstr ""
+msgstr "那艘难民船声称他们没意识到这是酸藻族的领地。为了表示善意（也见识了你击退敌舰"
+"的高效），他们献上了能匀出的补给。"
 
 #: src-en/data/events_special_aea_acid.xml:767
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/deadCrew/text"
-msgstr ""
+msgstr "那艘酸藻族飞船现已脱离酸藻族的控制，打捞起来轻而易举。"
 
 #: src-en/data/events_special_aea_acid.xml:770
 msgid ""
@@ -843,22 +873,24 @@ msgstr "联系难民船。"
 #: src-en/data/events_special_aea_acid.xml:772
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_REFUGEE\"]/deadCrew/choice/event/text"
-msgstr ""
+msgstr "那艘难民船声称他们没意识到这是酸藻族的领地。为了表示善意（也见识了你击退敌舰"
+"的高效），他们献上了能匀出的补给。"
 
 #: src-en/data/events_special_aea_acid.xml:791
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/text"
-msgstr ""
+msgstr "船员已死，你开始打捞这艘船。然而，你进入了一个奇怪的房间，看起来像是某种托儿"
+"所……那些是兰花幼崽吗？"
 
 #: src-en/data/events_special_aea_acid.xml:793
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/text"
-msgstr ""
+msgstr "带他们一起走。"
 
 #: src-en/data/events_special_aea_acid.xml:795
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[1]/event/text"
-msgstr ""
+msgstr "你在完成打捞作业前，将那些兰花幼崽转移到了自己的货舱。"
 
 #: src-en/data/events_special_aea_acid.xml:799
 msgid ""
@@ -868,12 +900,12 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:805
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/text"
-msgstr ""
+msgstr "完成打捞，别管那个托儿所了。"
 
 #: src-en/data/events_special_aea_acid.xml:807
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[2]/event/text"
-msgstr ""
+msgstr "你无视那个房间，打捞了飞船的其余部分。那些孩子会没事的，对吧？"
 
 #: src-en/data/events_special_aea_acid.xml:810
 msgid ""
@@ -883,12 +915,12 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:816
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[3]/text"
-msgstr ""
+msgstr "设置一个求救信标，然后离开。"
 
 #: src-en/data/events_special_aea_acid.xml:818
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CARETAKER_FIGHT\"]/deadCrew/choice[3]/event/text"
-msgstr ""
+msgstr "你在残骸上设置了一个求救信标，并尽力清除自己到访过的痕迹，然后迅速离开。"
 
 #: src-en/data/events_special_aea_acid.xml:821
 msgid ""
@@ -898,7 +930,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:830
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DEFEAT_AEA_ACID_ELITE\"]/text"
-msgstr ""
+msgstr "你仍不确定杀死酸藻族士兵是否算谋杀。不管怎样，损失这样一艘精英飞船，肯定让酸"
+"藻族元气大伤。"
 
 #: src-en/data/events_special_aea_acid.xml:833
 msgid ""
@@ -908,7 +941,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:835
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"DEFEAT_AEA_ACID_ELITE\"]/choice/event/text"
-msgstr ""
+msgstr "那艘精英酸藻族飞船的货物似乎在战斗中幸存下来。舱内有一件完好的武器，你将其带"
+"回舰上。"
 
 #: src-en/data/events_special_aea_acid.xml:868
 msgid "data/events_special_aea_acid.xml$//event[@name=\"NEBULA_ACIDIC\"]/text"
@@ -922,7 +956,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:877
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/destroyed/text"
-msgstr ""
+msgstr "你击败了酸藻族，使船坞失去了保护。"
 
 #: src-en/data/events_special_aea_acid.xml:880
 msgid ""
@@ -932,12 +966,13 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:882
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/destroyed/choice/event/text"
-msgstr ""
+msgstr "船坞现已无人防守，你可以洗劫任何有用的东西。你找到了一个用于氧气系统的酸藻族"
+"升级组件。"
 
 #: src-en/data/events_special_aea_acid.xml:888
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/deadCrew/text"
-msgstr ""
+msgstr "你击败了酸藻族，使船坞失去了保护。"
 
 #: src-en/data/events_special_aea_acid.xml:891
 msgid ""
@@ -947,12 +982,14 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:893
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_AUGITEM\"]/deadCrew/choice/event/text"
-msgstr ""
+msgstr "船坞现已无人防守，你可以洗劫任何有用的东西。你找到了一个用于氧气系统的酸藻族"
+"升级组件。"
 
 #: src-en/data/events_special_aea_acid.xml:902
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/destroyed/text"
-msgstr ""
+msgstr "酸藻族飞船被击败后，你联系了那艘受损的蛞蝓族飞船。“你明白，”他们开始说道，“我"
+"们非常感激，但是，那个，我们目前没有足够的流动资产来酬谢你。”"
 
 #: src-en/data/events_special_aea_acid.xml:905
 msgid ""
@@ -972,7 +1009,8 @@ msgstr "解决他们。"
 #: src-en/data/events_special_aea_acid.xml:916
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC\"]/deadCrew/text"
-msgstr ""
+msgstr "酸藻族飞船被击败后，你联系了那艘受损的蛞蝓族飞船。“你明白，”他们开始说道，“我"
+"们非常感激，但是，那个，我们目前没有足够的流动资产来酬谢你。”"
 
 #: src-en/data/events_special_aea_acid.xml:919
 msgid ""
@@ -992,42 +1030,42 @@ msgstr "解决他们。"
 #: src-en/data/events_special_aea_acid.xml:933
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC_SLUG\"]/destroyed/text"
-msgstr ""
+msgstr "终于，蛞蝓族的珍贵财物唾手可得。当然，前提是你得先和那艘酸藻族飞船分赃。"
 
 #: src-en/data/events_special_aea_acid.xml:937
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_DISTRESS_ACIDIC_SLUG\"]/deadCrew/text"
-msgstr ""
+msgstr "终于，蛞蝓族的珍贵财物唾手可得。当然，前提是你得先和那艘酸藻族飞船分赃。"
 
 #: src-en/data/events_special_aea_acid.xml:945
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ASTEROIDS\"]/destroyed/text"
-msgstr ""
+msgstr "小行星被摧毁后，你得以重新激活引擎，小心翼翼地驶向残骸，开始打捞。"
 
 #: src-en/data/events_special_aea_acid.xml:951
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ASTEROIDS\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "小行星预计将在此时限内撞击。务必在倒计时归零前将其摧毁！"
 
 #: src-en/data/events_special_aea_acid.xml:958
 msgid ""
 "data/events_special_aea_acid.xml$//event[@name=\"AEA_ACID_ASTEROID_APPROACHING_FAIL\"]/text"
-msgstr ""
+msgstr "你未能及时阻止小行星。它们猛烈撞击你的飞船，碎片四散飞溅。"
 
 #: src-en/data/events_special_aea_acid.xml:969
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ORCHID_ONLY\"]/destroyed/text"
-msgstr ""
+msgstr "兰花族被消灭后，你上前打捞那艘船所能回收的一切。"
 
 #: src-en/data/events_special_aea_acid.xml:973
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_ORCHID_ONLY\"]/deadCrew/text"
-msgstr ""
+msgstr "兰花族被消灭，酸藻族得报大仇后，你上前打捞那艘船所能回收的一切。"
 
 #: src-en/data/events_special_aea_acid.xml:986
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_SHIELDS\"]/destroyed/text"
-msgstr ""
+msgstr "那艘酸藻族飞船碎裂开来，你的护盾恢复正常。你尽可能收集了残骸。"
 
 #: src-en/data/events_special_aea_acid.xml:991
 msgid ""
@@ -1037,7 +1075,7 @@ msgstr "随着他们的船员死亡，你迅速关闭了他们的黑客模块，
 #: src-en/data/events_special_aea_acid.xml:998
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_OXYGEN\"]/destroyed/text"
-msgstr ""
+msgstr "那艘酸藻族飞船碎裂开来，你的氧气供应恢复正常。你尽可能收集了残骸。"
 
 #: src-en/data/events_special_aea_acid.xml:1003
 msgid ""
@@ -1047,7 +1085,7 @@ msgstr "随着他们的船员死亡，你迅速关闭了他们的黑客模块，
 #: src-en/data/events_special_aea_acid.xml:1010
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_WEAPONS\"]/destroyed/text"
-msgstr ""
+msgstr "那艘酸藻族飞船碎裂开来，你的武器系统恢复正常。你尽可能收集了残骸。"
 
 #: src-en/data/events_special_aea_acid.xml:1015
 msgid ""
@@ -1057,7 +1095,7 @@ msgstr "随着他们的船员死亡，你迅速关闭了他们的黑客模块，
 #: src-en/data/events_special_aea_acid.xml:1022
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_STATUS_HACKING\"]/destroyed/text"
-msgstr ""
+msgstr "那艘酸藻族飞船碎裂开来，它们的黑客模块也被摧毁了。你尽可能收集了残骸。"
 
 #: src-en/data/events_special_aea_acid.xml:1027
 msgid ""
@@ -1067,7 +1105,8 @@ msgstr "随着他们的船员死亡，你迅速关闭了他们的黑客模块，
 #: src-en/data/events_special_aea_acid.xml:1035
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/text"
-msgstr ""
+msgstr "你击败了那艘精英酸藻族飞船。然而，在你试图拆解它时，你注意到监狱看守正试图逃"
+"跑！"
 
 #: src-en/data/events_special_aea_acid.xml:1037
 msgid ""
@@ -1097,12 +1136,13 @@ msgstr "释放他们的囚犯。"
 #: src-en/data/events_special_aea_acid.xml:1050
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/destroyed/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "看来船上只有一名囚犯——一位蛞蝓族破坏者。他感激不已。"
 
 #: src-en/data/events_special_aea_acid.xml:1058
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/text"
-msgstr ""
+msgstr "你击败了那艘精英酸藻族飞船。然而，在你试图拆解它时，你注意到监狱看守正试图逃"
+"跑！"
 
 #: src-en/data/events_special_aea_acid.xml:1060
 msgid ""
@@ -1132,17 +1172,17 @@ msgstr "释放他们的囚犯。"
 #: src-en/data/events_special_aea_acid.xml:1073
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_PRISONER_ELITE\"]/deadCrew/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "看来船上只有一名囚犯——一位蛞蝓族破坏者。他感激不已。"
 
 #: src-en/data/events_special_aea_acid.xml:1085
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/gotaway/text"
-msgstr ""
+msgstr "叛军跃迁离开了。毫无疑问，他们会把你的位置通报给舰队。"
 
 #: src-en/data/events_special_aea_acid.xml:1089
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/destroyed/text"
-msgstr ""
+msgstr "叛军已被击败。你能识破他们伪装成普通民用船只真是万幸，又或许你只是个怪物。"
 
 #: src-en/data/events_special_aea_acid.xml:1092
 msgid ""
@@ -1152,7 +1192,7 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:1097
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_CIVILIAN\"]/deadCrew/text"
-msgstr ""
+msgstr "叛军已被击败。你能识破他们伪装成普通民用船只真是万幸，又或许你只是个怪物。"
 
 #: src-en/data/events_special_aea_acid.xml:1100
 msgid ""
@@ -1162,55 +1202,63 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:1118
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/text"
-msgstr ""
+msgstr "当那艘酸藻族飞船看起来即将解体时，你注意到那艘蛞蝓族飞船已劫得战利品，正准备"
+"跃迁逃离！"
 
 #: src-en/data/events_special_aea_acid.xml:1120
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[1]/text"
-msgstr ""
+msgstr "继续与那艘酸藻族飞船交战。"
 
 #: src-en/data/events_special_aea_acid.xml:1122
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[1]/event/text"
-msgstr ""
+msgstr "最好还是把这事了结——但你怀疑那艘酸藻族飞船所载之物，是否真能与蛞蝓族偷走的东"
+"西相提并论。"
 
 #: src-en/data/events_special_aea_acid.xml:1126
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[2]/text"
-msgstr ""
+msgstr "放那艘酸藻族飞船逃走，去追那艘蛞蝓族飞船。"
 
 #: src-en/data/events_special_aea_acid.xml:1128
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/surrender/choice[2]/event/text"
 msgstr ""
+"那艘酸藻族飞船已严重受损，无法追击你，而你在蛞蝓族跃迁前追上了他们。“啊，当然"
+"，我们绝不会不付约定好的战利品就离开。”他们移交了相当可观的一份收益，然后启程"
+"离去。"
 
 #: src-en/data/events_special_aea_acid.xml:1136
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/destroyed/text"
-msgstr ""
+msgstr "击败酸藻族飞船后，你扫描了残骸寻找可用之物。那艘蛞蝓族飞船早已消失，带着从储"
+"藏点获得的战利品远走高飞。"
 
 #: src-en/data/events_special_aea_acid.xml:1140
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP1\"]/deadCrew/text"
-msgstr ""
+msgstr "击败酸藻族飞船后，你扫描了残骸寻找可用之物。那艘蛞蝓族飞船早已消失，带着从储"
+"藏点获得的战利品远走高飞。"
 
 #: src-en/data/events_special_aea_acid.xml:1147
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP2\"]/destroyed/text"
-msgstr ""
+msgstr "酸藻族飞船被解决后，你再次搜寻它保护的那个储藏点，但它已消失在星云中。你只好"
+"用从那艘全副武装的船上回收的残骸来安慰自己。"
 
 #: src-en/data/events_special_aea_acid.xml:1151
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_QUEST_AEA_ACID_PIRATE_TRAP2\"]/deadCrew/text"
-msgstr ""
+msgstr "酸藻族飞船被击败后，你再次搜寻它保护的那个储藏点，但它已消失在星云中。你只好"
+"用从那艘全副武装的船上回收的残骸来安慰自己。"
 
 #: src-en/data/events_special_aea_acid.xml:1158
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/text"
-msgstr ""
+msgstr "“这场战斗不值得，拿解毒剂作为换取和平的交易吧。”"
 
 #: src-en/data/events_special_aea_acid.xml:1160
-#, fuzzy
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/choice[1]/text"
 msgstr "接受提议。"
@@ -1218,7 +1266,8 @@ msgstr "接受提议。"
 #: src-en/data/events_special_aea_acid.xml:1162
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/surrender/choice[1]/event/text"
-msgstr ""
+msgstr "那艘酸藻族飞船移交了解毒剂，然后迅速跃迁离开。你犹豫着是否要给船员注射，但别"
+"无选择。幸运的是，他们似乎已经开始好转。"
 
 #: src-en/data/events_special_aea_acid.xml:1169
 msgid ""
@@ -1228,12 +1277,12 @@ msgstr "现在投降已经太晚了。"
 #: src-en/data/events_special_aea_acid.xml:1174
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/destroyed/text"
-msgstr ""
+msgstr "你摧毁了那艘酸藻族飞船，但现在无法取回解毒剂了。看来你的船员是在劫难逃。"
 
 #: src-en/data/events_special_aea_acid.xml:1178
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_INFECTOR\"]/deadCrew/text"
-msgstr ""
+msgstr "你摧毁了那艘酸藻族飞船，并清除了船上所有船员。"
 
 #: src-en/data/events_special_aea_acid.xml:1181
 msgid ""
@@ -1248,7 +1297,8 @@ msgstr "幸运的是，他们在船上的实验室似乎没有在战斗中受损
 #: src-en/data/events_special_aea_acid.xml:1192
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_MEET\"]/destroyed/text"
-msgstr ""
+msgstr "你摧毁了那艘酸藻族飞船。当你搜刮酸藻族飞船以及战斗开始时被摧毁的那艘奇怪飞船"
+"的残骸时，发现一名酸藻族士兵还活着。"
 
 #: src-en/data/events_special_aea_acid.xml:1195
 msgid ""
@@ -1258,7 +1308,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:1200
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_MEET\"]/deadCrew/text"
-msgstr ""
+msgstr "你摧毁了那艘酸藻族飞船，并清除了船上所有船员。当你搜刮酸藻族飞船以及战斗开始"
+"时被摧毁的那艘奇怪飞船的残骸时，发现一名酸藻族士兵还活着。"
 
 #: src-en/data/events_special_aea_acid.xml:1203
 msgid ""
@@ -1268,7 +1319,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:1211
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/destroyed/text"
-msgstr ""
+msgstr "你摧毁了那艘庞大的酸藻族飞船。在搜寻其损毁后留下的庞大残骸时，你发现了一个完"
+"好无损的数据库，其中存有一艘星舰的设计图。"
 
 #: src-en/data/events_special_aea_acid.xml:1215
 msgid ""
@@ -1278,7 +1330,8 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:1220
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_BILL_BOSS\"]/deadCrew/text"
-msgstr ""
+msgstr "你清除了那艘庞大的酸藻族飞船上的船员。在搜寻其残骸时，你发现了一个完好无损的"
+"数据库，其中存有一艘星舰的设计图。"
 
 #: src-en/data/events_special_aea_acid.xml:1225
 msgid ""
@@ -1293,7 +1346,7 @@ msgstr "对方看起来不想战斗而是想逃跑。"
 #: src-en/data/events_special_aea_acid.xml:1238
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/destroyed/text"
-msgstr ""
+msgstr "你摧毁了那艘运输船，连同它运载的所有重要战利品也随之损毁。"
 
 #: src-en/data/events_special_aea_acid.xml:1241
 msgid ""
@@ -1303,19 +1356,20 @@ msgstr "继续。"
 #: src-en/data/events_special_aea_acid.xml:1246
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/text"
-msgstr ""
+msgstr "船员已死，这艘船归你了。它的货物唾手可得。船上有一个不寻常的炮管，也许如果你"
+"有件没有炮管的武器，它会派上用场。"
 
 #: src-en/data/events_special_aea_acid.xml:1249
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "将从船坞获得的炮管安装到武器上。"
 
 #: src-en/data/events_special_aea_acid.xml:1252
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "你将炮管插入，它与武器的其余部分无缝衔接。"
 
 #: src-en/data/events_special_aea_acid.xml:1254
 msgid ""
@@ -1327,7 +1381,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"1\"]/event/choice/event/text"
-msgstr ""
+msgstr "武器现已完全投入使用。"
 
 #: src-en/data/events_special_aea_acid.xml:1260
 msgid ""
@@ -1339,4 +1393,4 @@ msgstr "继续。"
 msgid ""
 "data/events_special_aea_acid.xml$//ship[@name=\"SHIP_AEA_ACID_TRANSPORT_BARREL\"]/deadCrew/choice[@req=\"AEA_LASER_ACID_SUPER_BASE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "这个炮管对你没用。"
