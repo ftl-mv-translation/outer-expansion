@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-11 12:44+0000\n"
-"Last-Translator: circle217 <3545024352@qq.com>\n"
+"PO-Revision-Date: 2026-04-20 05:42+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-outer-expansion/dataevents_special_storagexmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -1280,7 +1280,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_SHIELDS\"]/choice[@req=\"aea_can_upgrade_shields\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "此升级不可用。你需要将护盾升级至其自然上限。"
 
 #: src-en/data/events_special_storage.xml.append:1098
 msgid ""
@@ -1322,7 +1322,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_ENGINES\"]/choice[@req=\"aea_can_upgrade_engines\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "此升级不可用。你需要将引擎升级至其自然上限。"
 
 #: src-en/data/events_special_storage.xml.append:1133
 msgid ""
@@ -1363,7 +1363,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_WEAPONS\"]/choice[@req=\"aea_can_upgrade_weapons\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "此升级不可用。你需要将武器升级至其自然上限。"
 
 #: src-en/data/events_special_storage.xml.append:1168
 msgid ""
@@ -1404,7 +1404,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_DRONES\"]/choice[@req=\"aea_can_upgrade_drones\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "此升级不可用。你需要将无人机升级至其自然上限。"
 
 #: src-en/data/events_special_storage.xml.append:1203
 msgid ""
@@ -1445,7 +1445,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLOAKING\"]/choice[@req=\"aea_can_upgrade_cloaking\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "此升级不可用。你需要将隐形升级至其自然上限。"
 
 #: src-en/data/events_special_storage.xml.append:1238
 msgid ""
@@ -1486,7 +1486,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MIND\"]/choice[@req=\"aea_can_upgrade_mind\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "此升级不可用。你需要将心灵控制装置升级至其自然上限。"
 
 #: src-en/data/events_special_storage.xml.append:1273
 msgid ""
@@ -1527,7 +1527,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_HACKING\"]/choice[@req=\"aea_can_upgrade_hacking\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "此升级不可用。你需要将黑客装置升级至其自然上限。"
 
 #: src-en/data/events_special_storage.xml.append:1308
 msgid ""
@@ -1568,7 +1568,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_MEDBAY\"]/choice[@req=\"aea_can_upgrade_medbay\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "此升级不可用。你需要将医疗室升级至其自然上限。"
 
 #: src-en/data/events_special_storage.xml.append:1343
 msgid ""
@@ -1609,7 +1609,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD_CLONEBAY\"]/choice[@req=\"aea_can_upgrade_clonebay\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "此升级不可用。你需要将克隆室升级至其自然上限。"
 
 #: src-en/data/events_special_storage.xml.append:1379
 msgid ""
@@ -3976,16 +3976,22 @@ msgstr "你正在查看实验室菜单：[酸藻增生]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[@req=\"LAB_AEA_ACID_REPAIR\"]/text"
 msgstr ""
+"当前已安装：断裂修复程序。\n"
+"[酸藻族船员若5秒内未受伤害，则每秒恢复7.5生命值，但修复速度仅为1倍]"
 
 #: src-en/data/events_special_storage.xml.append:3149
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[@req=\"LAB_AEA_ACID_SENSOR\"]/text"
 msgstr ""
+"当前已安装：极化传感器。\n"
+"[酸藻族船员获得眩晕免疫]"
 
 #: src-en/data/events_special_storage.xml.append:3154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[@req=\"LAB_AEA_ACID_WEAPON\"]/text"
 msgstr ""
+"当前已安装：冷却通风口。\n"
+"\t\t[酸藻族船员造成2倍远程伤害，但损失50%生命值]"
 
 #: src-en/data/events_special_storage.xml.append:3159
 msgid ""
@@ -3995,32 +4001,32 @@ msgstr "当前已安装：无"
 #: src-en/data/events_special_storage.xml.append:3163
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[5]/text"
-msgstr ""
+msgstr "主要：断裂修复程序。[已有升级已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3167
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[6]/text"
-msgstr ""
+msgstr "主要：断裂修复程序。[花费：5|]"
 
 #: src-en/data/events_special_storage.xml.append:3171
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[7]/text"
-msgstr ""
+msgstr "主要：极化传感器。[已有升级已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3175
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[8]/text"
-msgstr ""
+msgstr "主要：极化传感器。[消耗: 6{]"
 
 #: src-en/data/events_special_storage.xml.append:3179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[9]/text"
-msgstr ""
+msgstr "主要：冷却通风口。[已有升级已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3183
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID\"]/choice[10]/text"
-msgstr ""
+msgstr "主要：冷却通风口。[花费：20~ 3{]"
 
 #: src-en/data/events_special_storage.xml.append:3187
 msgid ""
@@ -4031,11 +4037,16 @@ msgstr "返回。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_REPAIR\"]/text"
 msgstr ""
+"你即将安装断裂修复程序特质。\n"
+"[效果：酸藻族船员若5秒内未受伤害，则每秒恢复7.5生命值，但修复速度仅为1倍]\n"
+"\n"
+"[警告：安装此特质后，你将无法再为酸藻族船员安装任何主要升级，也无法停用此模组"
+"。]"
 
 #: src-en/data/events_special_storage.xml.append:3199
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_REPAIR\"]/choice[1]/text"
-msgstr ""
+msgstr "配置特质。[花费; 5|]"
 
 #: src-en/data/events_special_storage.xml.append:3201
 msgid ""
@@ -4056,11 +4067,16 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_SENSOR\"]/text"
 msgstr ""
+"你即将安装极化传感器特质。\n"
+"[效果：酸藻族船员获得眩晕免疫]\n"
+"\n"
+"[警告：安装此特质后，你将无法再为酸藻族船员安装任何主要升级，也无法停用此模组"
+"。]"
 
 #: src-en/data/events_special_storage.xml.append:3228
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_SENSOR\"]/choice[1]/text"
-msgstr ""
+msgstr "安装特质。[花费：5{]"
 
 #: src-en/data/events_special_storage.xml.append:3230
 msgid ""
@@ -4081,11 +4097,16 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_COOLING\"]/text"
 msgstr ""
+"你即将安装冷却通风口特质。\n"
+"[效果：酸藻族船员造成2倍远程伤害，但损失50%生命值]\n"
+"\n"
+"[警告：安装此特质后，你将无法再为酸藻族船员安装任何主要升级，也无法停用此特质"
+"。]"
 
 #: src-en/data/events_special_storage.xml.append:3258
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_ACID_COOLING\"]/choice[1]/text"
-msgstr ""
+msgstr "安装特质。[花费：20~ 3{]"
 
 #: src-en/data/events_special_storage.xml.append:3260
 msgid ""
@@ -4105,22 +4126,29 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:3286
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/text"
-msgstr ""
+msgstr "你正在查看：[GI] 的实验室菜单。"
 
 #: src-en/data/events_special_storage.xml.append:3288
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[@req=\"LAB_AEA_BIRD_ESCAPESPEED\"]/text"
 msgstr ""
+"当前已安装：危险逃离。\n"
+"[Gi 船员在敌方船员附近时，移动速度提升至 4 倍]"
 
 #: src-en/data/events_special_storage.xml.append:3293
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[@req=\"LAB_AEA_BIRD_AUTODESTROY\"]/text"
 msgstr ""
+"当前已安装：自动拆卸。\n"
+"[Gi 船员每秒对敌方无人机及机械船员造成 5 点伤害]"
 
 #: src-en/data/events_special_storage.xml.append:3298
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[@req=\"LAB_AEA_BIRD_SOCIAL\"]/text"
 msgstr ""
+"当前已安装：社交能力。\n"
+"[Gi 船员在同舱室内每有一位友方船员，修复速度提升 0.25 倍，战斗伤害提升 0.1 倍"
+"]"
 
 #: src-en/data/events_special_storage.xml.append:3303
 msgid ""
@@ -4130,32 +4158,32 @@ msgstr "当前已安装：无"
 #: src-en/data/events_special_storage.xml.append:3307
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[5]/text"
-msgstr ""
+msgstr "主要：危险逃离。[已有升级已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3311
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[6]/text"
-msgstr ""
+msgstr "主要：危险逃离。[花费：20~]"
 
 #: src-en/data/events_special_storage.xml.append:3315
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[7]/text"
-msgstr ""
+msgstr "主要：自动拆卸。[已有升级已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3319
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[8]/text"
-msgstr ""
+msgstr "主要：自动拆卸。[花费：15~ 3|]"
 
 #: src-en/data/events_special_storage.xml.append:3323
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[9]/text"
-msgstr ""
+msgstr "主要：社交能力。[已有升级已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3327
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD\"]/choice[10]/text"
-msgstr ""
+msgstr "主要：社交能力。[花费：Cost: 20~ 3{]"
 
 #: src-en/data/events_special_storage.xml.append:3331
 msgid ""
@@ -4166,11 +4194,16 @@ msgstr "返回。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_ESCAPESPEED\"]/text"
 msgstr ""
+"你即将安装危险逃离特质。\n"
+"[效果：Gi 船员在敌方船员附近时，移动速度提升至 4 倍]\n"
+"\n"
+"[警告：安装此特质后，你将无法再为 Gi 船员安装任何主要升级，也无法停用此模组。"
+"]"
 
 #: src-en/data/events_special_storage.xml.append:3343
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_ESCAPESPEED\"]/choice[1]/text"
-msgstr ""
+msgstr "安装特质。[花费：20~]"
 
 #: src-en/data/events_special_storage.xml.append:3345
 msgid ""
@@ -4191,11 +4224,16 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_AUTODESTROY\"]/text"
 msgstr ""
+"你即将安装自动拆卸特质。\n"
+"[效果：Gi 船员每秒对敌方无人机及机械船员造成 5 点伤害]\n"
+"\n"
+"[警告：安装此特质后，你将无法再为 Gi 船员安装任何主要升级，也无法停用此模组。"
+"]"
 
 #: src-en/data/events_special_storage.xml.append:3372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_AUTODESTROY\"]/choice[1]/text"
-msgstr ""
+msgstr "安装特质。[花费：15~ 3]"
 
 #: src-en/data/events_special_storage.xml.append:3374
 msgid ""
@@ -4216,11 +4254,17 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_SOCIAL\"]/text"
 msgstr ""
+"你即将安装社交能力特质。\n"
+"[效果：Gi 船员在同舱室内每有一位友方船员，修复速度提升 0.25 倍，战斗伤害提升 "
+"0.1 倍]\n"
+"\n"
+"[警告：安装此特质后，你将无法再为 Gi 船员安装任何主要升级，也无法停用此模组。"
+"]"
 
 #: src-en/data/events_special_storage.xml.append:3403
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_BIRD_SOCIAL\"]/choice[1]/text"
-msgstr ""
+msgstr "安装特质。[花费：20~ 3{]"
 
 #: src-en/data/events_special_storage.xml.append:3405
 msgid ""
@@ -4240,22 +4284,29 @@ msgstr "算了。"
 #: src-en/data/events_special_storage.xml.append:3431
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/text"
-msgstr ""
+msgstr "你正在查看：[GI] 的实验室菜单。"
 
 #: src-en/data/events_special_storage.xml.append:3433
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[@req=\"LAB_AEA_OLD_RESOLVE\"]/text"
 msgstr ""
+"当前已安装：不屈意志。\n"
+"[利尔米克船员将始终保留其基础属性：生命值、伤害、免疫、移动速度、克隆速度、技"
+"能损失与治疗速度，且这些属性无法被外部力量覆盖。]"
 
 #: src-en/data/events_special_storage.xml.append:3438
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[@req=\"LAB_AEA_OLD_COMPROMISED\"]/text"
 msgstr ""
+"当前已安装：受损子系统。\n"
+"[利尔米克船员失去免疫能力，但克隆速度提升至 2 倍，治疗速度提升至 4 倍。]"
 
 #: src-en/data/events_special_storage.xml.append:3443
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[@req=\"LAB_AEA_OLD_ELITE\"]/text"
 msgstr ""
+"当前已安装：精英主义。\n"
+"[利尔米克船员每有一位精英盟友，生命值增加 25 点。]"
 
 #: src-en/data/events_special_storage.xml.append:3448
 msgid ""
@@ -4265,32 +4316,32 @@ msgstr "当前已安装：无"
 #: src-en/data/events_special_storage.xml.append:3452
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[5]/text"
-msgstr ""
+msgstr "主要：不屈意志。[已有升级已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3456
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[6]/text"
-msgstr ""
+msgstr "主要：不屈意志。[花费：3~ 3{ 3} 3|]"
 
 #: src-en/data/events_special_storage.xml.append:3460
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[7]/text"
-msgstr ""
+msgstr "主要：受损子系统。[已有升级已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3464
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[8]/text"
-msgstr ""
+msgstr "主要：受损子系统。[花费：8|]"
 
 #: src-en/data/events_special_storage.xml.append:3468
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[9]/text"
-msgstr ""
+msgstr "主要：精英主义。[已有升级已安装]"
 
 #: src-en/data/events_special_storage.xml.append:3472
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD\"]/choice[10]/text"
-msgstr ""
+msgstr "主要：精英主义。[花费：15~ 6}]"
 
 #: src-en/data/events_special_storage.xml.append:3476
 msgid ""
@@ -4301,11 +4352,17 @@ msgstr "返回。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_RESOLVE\"]/text"
 msgstr ""
+"你即将安装不屈意志特质。\n"
+"[效果：利尔米克船员将始终保留其基础属性：生命值、伤害、免疫、移动速度、克隆速"
+"度、技能损失与治疗速度，且这些属性无法被外部力量覆盖。]\n"
+"\n"
+"[警告：安装此特质后，你将无法再为利尔米克船员安装任何主要升级，也无法停用此模"
+"组。]"
 
 #: src-en/data/events_special_storage.xml.append:3488
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_RESOLVE\"]/choice[1]/text"
-msgstr ""
+msgstr "安装特质。[花费：3~ 3{ 3} 3|]"
 
 #: src-en/data/events_special_storage.xml.append:3490
 msgid ""
@@ -4326,11 +4383,17 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_COMPROMISED\"]/text"
 msgstr ""
+"你即将安装受损子系统特质。\n"
+"[效果：利尔米克船员失去免疫能力，但克隆速度提升至 2 倍，治疗速度提升至 4 倍。"
+"]\n"
+"\n"
+"[警告：安装此特质后，你将无法再为利尔米克船员安装任何主要升级，也无法停用此模"
+"组。]"
 
 #: src-en/data/events_special_storage.xml.append:3520
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_COMPROMISED\"]/choice[1]/text"
-msgstr ""
+msgstr "安装特质。[花费： 8|]"
 
 #: src-en/data/events_special_storage.xml.append:3522
 msgid ""
@@ -4351,11 +4414,16 @@ msgstr "算了。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_ELITE\"]/text"
 msgstr ""
+"你即将安装精英主义特质。\n"
+"[效果：利尔米克船员每有一位精英盟友，生命值增加 25 点。]\n"
+"\n"
+"[警告：安装此特质后，你将无法再为利尔米克船员安装任何主要升级，也无法停用此模"
+"组。]"
 
 #: src-en/data/events_special_storage.xml.append:3550
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AEA_OLD_ELITE\"]/choice[1]/text"
-msgstr ""
+msgstr "安装特质。[花费：15~ 6}]"
 
 #: src-en/data/events_special_storage.xml.append:3552
 msgid ""
