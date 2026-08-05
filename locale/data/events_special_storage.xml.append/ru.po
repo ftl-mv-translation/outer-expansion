@@ -1,17 +1,17 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-30 17:44+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"the-outer-expansion/dataevents_special_storagexmlappend/ru/>\n"
+"PO-Revision-Date: 2026-08-05 22:36+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-outer-"
+"expansion/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_storage.xml.append:5
 msgid ""
@@ -1089,102 +1089,102 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:889
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"shields\"]/text"
-msgstr "Улучшить щиты. [НЕТ СИСТЕМЫ]"
+msgstr "Улучшить Щиты. [НЕТ СИСТЕМЫ]"
 
 #: src-en/data/events_special_storage.xml.append:893
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_shields_upgrades\"]/text"
-msgstr "Улучшить щиты. [МАКСИМУМ]"
+msgstr "Улучшить Щиты. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:897
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[3]/text"
-msgstr "Улучшить щиты. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
+msgstr "Улучшить Щиты. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
 
 #: src-en/data/events_special_storage.xml.append:901
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_shields\"]/text"
-msgstr "Улучшить щиты. [Цена: 120~, Высокотехнологичный компонент]"
+msgstr "Улучшить Щиты. [Цена: 120~, Высокотехнологичный компонент]"
 
 #: src-en/data/events_special_storage.xml.append:907
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"engines\"]/text"
-msgstr "Улучшить двигатели. [НЕТ СИСТЕМЫ]"
+msgstr "Улучшить Двигатели. [НЕТ СИСТЕМЫ]"
 
 #: src-en/data/events_special_storage.xml.append:911
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_engines_upgrades\"]/text"
-msgstr "Улучшить двигатели. [МАКСИМУМ]"
+msgstr "Улучшить Двигатели. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:915
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[7]/text"
-msgstr "Улучшить двигатели. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
+msgstr "Улучшить Двигатели. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
 
 #: src-en/data/events_special_storage.xml.append:919
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_engines\"]/text"
-msgstr "Улучшить двигатели. [Цена: 120~, Высокотехнологичный компонент]"
+msgstr "Улучшить Двигатели. [Цена: 120~, Высокотехнологичный компонент]"
 
 #: src-en/data/events_special_storage.xml.append:925
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"weapons\"]/text"
-msgstr "Улучшить оружие. [НЕТ СИСТЕМЫ]"
+msgstr "Улучшить Оружие. [НЕТ СИСТЕМЫ]"
 
 #: src-en/data/events_special_storage.xml.append:929
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_weapons_upgrades\"]/text"
-msgstr "Улучшить оружие. [МАКСИМУМ]"
+msgstr "Улучшить Оружие. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:933
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[11]/text"
-msgstr "Улучшить оружие. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
+msgstr "Улучшить Оружие. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
 
 #: src-en/data/events_special_storage.xml.append:937
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_weapons\"]/text"
-msgstr "Улучшить оружие. [Цена: 120~, Высокотехнологичный компонент]"
+msgstr "Улучшить Оружие. [Цена: 120~, Высокотехнологичный компонент]"
 
 #: src-en/data/events_special_storage.xml.append:943
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"drones\"]/text"
-msgstr "Улучшить дроны. [НЕТ СИСТЕМЫ]"
+msgstr "Улучшить Дроны. [НЕТ СИСТЕМЫ]"
 
 #: src-en/data/events_special_storage.xml.append:947
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_drones_upgrades\"]/text"
-msgstr "Улучшить дроны. [МАКСИМУМ]"
+msgstr "Улучшить Дроны. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:951
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[15]/text"
-msgstr "Улучшить дроны. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
+msgstr "Улучшить Дроны. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
 
 #: src-en/data/events_special_storage.xml.append:955
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_drones\"]/text"
-msgstr "Улучшить дроны. [Цена: 120~, Высокотехнологичный компонент]"
+msgstr "Улучшить Дроны. [Цена: 120~, Высокотехнологичный компонент]"
 
 #: src-en/data/events_special_storage.xml.append:961
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"cloaking\"]/text"
-msgstr "Улучшить маскировку. [НЕТ СИСТЕМЫ]"
+msgstr "Улучшить Маскировку. [НЕТ СИСТЕМЫ]"
 
 #: src-en/data/events_special_storage.xml.append:965
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_old_cloaking_upgrades\"]/text"
-msgstr "Улучшить маскировку. [МАКСИМУМ]"
+msgstr "Улучшить Маскировку. [МАКСИМУМ]"
 
 #: src-en/data/events_special_storage.xml.append:969
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[19]/text"
-msgstr "Улучшить маскировку. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
+msgstr "Улучшить Маскировку. [ТЕХНОЛОГИЯ НЕАКТИВНА]"
 
 #: src-en/data/events_special_storage.xml.append:973
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_AEA_OLD\"]/choice[@req=\"aea_show_upgrade_cloaking\"]/text"
-msgstr "Улучшить маскировку. [Цена: 120~, Высокотехнологичный компонент]"
+msgstr "Улучшить Маскировку. [Цена: 120~, Высокотехнологичный компонент]"
 
 #: src-en/data/events_special_storage.xml.append:979
 msgid ""
