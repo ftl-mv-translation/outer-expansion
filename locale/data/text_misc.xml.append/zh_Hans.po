@@ -1,631 +1,465 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-04 06:04+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-outer-expansion/datatext_miscxmlappend/zh_Hans/>\n"
-"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.3\n"
+
+#: src-en/data/text_misc.xml.append:4
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OE_BROADSIDE_unlock\"]"
+msgstr ""
 
 #: src-en/data/text_misc.xml.append:5
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_acid_nebula\"]"
-msgstr "酸藻族"
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OE_BROADSIDE_2_unlock\"]"
+msgstr "使用该星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
 
 #: src-en/data/text_misc.xml.append:6
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_acid_nebula_core\"]"
-msgstr "酸蚀核心 [!]"
-
-#: src-en/data/text_misc.xml.append:7
 msgid ""
-"data/text_misc.xml.append$//text[@name=\"map_icon_aea_acid_nebula_shipyard\"]"
-msgstr "酸蚀船坞"
-
-#: src-en/data/text_misc.xml.append:8
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_necro_home\"]"
-msgstr "神圣"
-
-#: src-en/data/text_misc.xml.append:9
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_transport_aea_acid\"]"
-msgstr "运输 [!]"
-
-#: src-en/data/text_misc.xml.append:10
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_flower\"]"
-msgstr "花 [!]"
-
-#: src-en/data/text_misc.xml.append:11
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_seed\"]"
-msgstr "种子 [!]"
-
-#: src-en/data/text_misc.xml.append:12
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_conspiracy\"]"
-msgstr "阴谋 [!]"
-
-#: src-en/data/text_misc.xml.append:13
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_bird_engineer\"]"
-msgstr "工程 [!]"
-
-#: src-en/data/text_misc.xml.append:14
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shleg_battle\"]"
-msgstr "求救 [!]"
-
-#: src-en/data/text_misc.xml.append:15
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_distress\"]"
-msgstr "求救"
-
-#: src-en/data/text_misc.xml.append:16
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shleg_radiant\"]"
-msgstr "甲壳辐射体基地 [!]"
-
-#: src-en/data/text_misc.xml.append:17
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shleg_quest\"]"
-msgstr "任务[!]"
-
-#: src-en/data/text_misc.xml.append:18
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_broadside\"]"
-msgstr "星舰 [!]"
-
-#: src-en/data/text_misc.xml.append:19
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shard_palace\"]"
-msgstr "宫殿 [!]"
-
-#: src-en/data/text_misc.xml.append:20
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shard_auto\"]"
-msgstr "自动装置 [!]"
-
-#: src-en/data/text_misc.xml.append:22
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_gate\"]"
-msgstr "星门 [!]"
-
-#: src-en/data/text_misc.xml.append:23
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_cell\"]"
-msgstr "？？？"
-
-#: src-en/data/text_misc.xml.append:24
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_baron\"]"
-msgstr "男爵 [!]"
-
-#: src-en/data/text_misc.xml.append:25
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_council\"]"
-msgstr "理事会 [!]"
-
-#: src-en/data/text_misc.xml.append:27
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_1\"]"
-msgstr "尤尼菲斯"
-
-#: src-en/data/text_misc.xml.append:28
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_2\"]"
-msgstr "本质"
-
-#: src-en/data/text_misc.xml.append:29
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_3\"]"
-msgstr "脉冲"
-
-#: src-en/data/text_misc.xml.append:30
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_4\"]"
-msgstr "趋势"
-
-#: src-en/data/text_misc.xml.append:31
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_5\"]"
-msgstr "共鸣"
-
-#: src-en/data/text_misc.xml.append:33
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_1_i\"]"
-msgstr "尤尼菲斯 [!]"
-
-#: src-en/data/text_misc.xml.append:34
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_2_i\"]"
-msgstr "本质 [!]"
-
-#: src-en/data/text_misc.xml.append:35
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_3_i\"]"
-msgstr "脉冲 [!]"
-
-#: src-en/data/text_misc.xml.append:36
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_4_i\"]"
-msgstr "趋势 [!]"
-
-#: src-en/data/text_misc.xml.append:37
-msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_5_i\"]"
-msgstr "共鸣 [!]"
-
-#: src-en/data/text_misc.xml.append:40
-msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_acid_1\"]"
-msgstr ""
-"酸藻族战利品\n"
-"离子伤害：-1\n"
-"侵蚀速度：3 倍\n"
-"侵蚀最大速度：2 倍"
-
-#: src-en/data/text_misc.xml.append:44
-msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_necro_1\"]"
-msgstr ""
-"异教徒战利品\n"
-"伤害：-1\n"
-"发射数：+2"
-
-#: src-en/data/text_misc.xml.append:47
-msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_old_1\"]"
-msgstr ""
-"利尔米克战利品\n"
-"起火几率：-100%\n"
-"破舱几率：+100%\n"
-"齐射中的最后一发额外造成 1 点舰体伤害"
-
-#: src-en/data/text_misc.xml.append:51
-msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_cult_1\"]"
-msgstr ""
-"教徒教徒战利品\n"
-"无法装备法术\n"
-"冷却时间减少 2 秒\n"
-"每有一名装备了法术的友方教徒，伤害增加 1 点"
-
-#: src-en/data/text_misc.xml.append:55
-msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_bird_1\"]"
-msgstr ""
-"GI 战利品\n"
-"次要射击对系统额外造成 1 点离子伤害\n"
-"+2速度"
-
-#: src-en/data/text_misc.xml.append:58
-msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_shleg_1\"]"
-msgstr ""
-"无政府主义战利品\n"
-"+30 秒持续时间\n"
-"-2 船体伤害\n"
-"-1 系统伤害"
-
-#: src-en/data/text_misc.xml.append:62
-msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_shard_1\"]"
-msgstr ""
-"碎晶锻者战利品\n"
-"击中房间时造成生命值消耗效果"
-
-#: src-en/data/text_misc.xml.append:65
-msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_old_unknown\"]"
-msgstr "提示：一把奇怪的武器？你不禁怀疑它是否与节点17里的那扇奇怪的星门有关……"
-
-#: src-en/data/text_misc.xml.append:66
-msgid "data/text_misc.xml.append$//text[@name=\"tip_laser_old\"]"
-msgstr "提示：每发激光射击将被两层护盾阻挡，无论该激光伤害值多少。"
-
-#: src-en/data/text_misc.xml.append:67
-msgid "data/text_misc.xml.append$//text[@name=\"tip_laser_oldp\"]"
-msgstr "提示：尽管船体伤害为0，但每次射击都会被一层护盾挡下。"
-
-#: src-en/data/text_misc.xml.append:68
-msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_spellspore\"]"
-msgstr "提示：装备在武器上的每个法术只能射向敌方飞船。法术不会落空，且咒术孢子武器每"
-"次充能可发射该法术两次。"
-
-#: src-en/data/text_misc.xml.append:69
-msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_shleg\"]"
-msgstr ""
-"提示：灌输毒气的心灵控制效果以每秒 5 点生命值的速度累积。当状态效果累积至敌方"
-"船员的当前生命值时，便会以每秒 8 点生命值的速度侵蚀并心灵控制该敌人。"
-
-#: src-en/data/text_misc.xml.append:71
-msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_acid\"]"
-msgstr ""
-"名称：酸藻之源\n"
-"类型：敌对（星云）\n"
-"独特：是\n"
-"主导派系：酸藻族\n"
-"叛军威胁等级：低\n"
-"标记点：中央酸蚀船坞\n"
-"\n"
-"酸藻之源是一处险境，唯有最顶尖的星舰才能在此星云中存活，而这甚至还未将酸藻族"
-"星舰本身的威胁纳入考量。"
-
-#: src-en/data/text_misc.xml.append:80
-msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_necro\"]"
-msgstr ""
-"名称：渎神核心\n"
-"类型：敌对\n"
-"独特：是\n"
-"主导派系：半械异教徒\n"
-"叛军威胁等级：低\n"
-"标记点：圣所\n"
-"\n"
-"半械异教徒即便是从在分离者眼中也被视为异类，他们挣脱了同族所偏好的和谐之道，"
-"更倾向于将有机生命作为达成目的的工具。若你船上没有有机船员，或可在此勉强通行"
-"。"
-
-#: src-en/data/text_misc.xml.append:89
-msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_cult\"]"
-msgstr ""
-"名称：一花之居\n"
-"类型：中立\n"
-"独特：是\n"
-"主导派系：血兰花教团\n"
-"叛军威胁等级：中低\n"
-"标记点：一花\n"
-"\n"
-"虽然严格来说该区域不属于联邦，但血兰花教团与联邦关系密切，任何针对教团的行动"
-"仍可能影响你在联邦眼中的声望。此星域是一花——教团所信奉神灵的居所。许多人推测"
-"他们的神灵并非活物，也有人认为它实为某种先进的人工智能。真相无人知晓，或许唯"
-"有那朵花本身才知道。"
-
-#: src-en/data/text_misc.xml.append:98
-msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_bird\"]"
-msgstr ""
-"名称：Gi 族筑巢地\n"
-"类型：友好\n"
-"独特：是\n"
-"主导派系：Gi 联邦\n"
-"叛军威胁等级：中等（中等舰队）\n"
-"标记点：中央工程设施\n"
-"\n"
-"Gi 族与联邦关系密切，作为新近发现的种族，虽尚未正式加入联邦，但已处于加盟进程"
-"中，且该星域内存在强大的联邦势力。"
-
-#: src-en/data/text_misc.xml.append:106
-msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_shleg\"]"
-msgstr ""
-"名称：无政府主义者中央星云\n"
-"类型：敌对（星云）\n"
-"独特：是\n"
-"主导派系：甲壳族与蛞蝓族无政府主义者\n"
-"叛军威胁等级：中等（自动舰队）\n"
-"\n"
-"无政府主义者是由甲壳族与蛞蝓族组成的联合组织，旨在共同反抗各自的政府。尽管与"
-"联邦并无直接冲突，但也谈不上友好，务必谨慎行事。"
-
-#: src-en/data/text_misc.xml.append:113
-msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_shard\"]"
-msgstr ""
-"名称：碎晶铸者宫殿\n"
-"类型：友好\n"
-"独特：是\n"
-"主导派系：碎晶铸者海盗\n"
-"叛军威胁等级：低\n"
-"标记点：黎明宫殿\n"
-"\n"
-"碎晶铸者虽被视为海盗，却深受联邦及其盟友的青睐。他们自水晶帝国鼎盛时期便已存"
-"在，并证明了自己是值得信赖且可靠的盟友——只要付得起代价。在近期联邦与叛军的冲"
-"突中，碎晶铸者一直与联邦并肩作战，共同对抗叛军的暴行。"
-
-#: src-en/data/text_misc.xml.append:122
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_BILL_unlock\"]"
-msgstr "征询某位酸藻族流放者关于某件神器的建议，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:123
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_KING_unlock\"]"
-msgstr "征询某位异教徒领袖关于某件神器的建议，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:124
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_TINY_unlock\"]"
-msgstr "征询某位小型血兰花教徒关于某件神器的建议，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:125
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_JAY_unlock\"]"
-msgstr "征询某位鸟族工程师关于某件神器的建议，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:126
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHLEG_UNI_unlock\"]"
-msgstr "征询某位无政府主义创始成员关于某件神器的建议，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:127
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_UNI_unlock\"]"
-msgstr "征询某位海盗王关于某件神器的建议，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:129
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_1_unlock\"]"
-msgstr "寻求某位列尔米克议会成员的帮助并逃离隔离区，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:130
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_2_unlock\"]"
-msgstr "寻求某位列尔米克议会成员的帮助并逃离隔离区，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:131
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_3_unlock\"]"
-msgstr "寻求某位列尔米克议会成员的帮助并逃离隔离区，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:132
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_4_unlock\"]"
-msgstr "寻求某位列尔米克议会成员的帮助并逃离隔离区，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:133
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_5_unlock\"]"
-msgstr "寻求某位列尔米克议会成员的帮助并逃离隔离区，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:135
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_ARTY_unlock\"]"
-msgstr "帮助一位酸藻族流放者以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:136
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_ARTY_2_unlock\"]"
-msgstr "使用酸藻族星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:137
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_ARTY_3_unlock\"]"
-msgstr "使用酸藻族星舰 B 型抵达第 5 星区，或使用酸藻族星舰 A 型通关游戏，以解锁这艘星"
-"舰。"
-
-#: src-en/data/text_misc.xml.append:139
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_LONG_unlock\"]"
-msgstr "找到酸藻族的中央船坞，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:140
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_LONG_2_unlock\"]"
-msgstr "使用酸藻族驱逐舰 A 型抵达第 5 星区，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:141
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_LONG_3_unlock\"]"
-msgstr "使用酸藻族驱逐舰 B 型抵达第 5 星区，或使用酸藻族驱逐舰 A 型通关游戏，以解锁这"
-"艘星舰。"
-
-#: src-en/data/text_misc.xml.append:143
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_ENGI_unlock\"]"
-msgstr "拜访圣所并打动一位半械族，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:144
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_ENGI_2_unlock\"]"
-msgstr "使用异端星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:145
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_ENGI_3_unlock\"]"
-msgstr "使用异端星舰 B 型抵达第 5 星区，或使用异端星舰 A 型通关游戏，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:147
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_SEPA_unlock\"]"
-msgstr "访问一处异常的半械族链接点，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:148
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_SEPA_2_unlock\"]"
-msgstr "使用渎神星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:149
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_SEPA_3_unlock\"]"
-msgstr "使用渎神星舰 B 型抵达第 5 星区，或使用渎神星舰 A 型通关游戏，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:151
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_ARMOUR_unlock\"]"
-msgstr "逃离隔离区以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:152
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_ARMOUR_2_unlock\"]"
-msgstr "使用该星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
-
-#: src-en/data/text_misc.xml.append:153
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_ARMOUR_3_unlock\"]"
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OE_BROADSIDE_3_unlock\"]"
 msgstr "使用该星舰 B 型抵达第 5 星区，或使用该星舰 A 型通关游戏，以解锁这艘星舰。"
 
-#: src-en/data/text_misc.xml.append:155
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_HAMMER_unlock\"]"
-msgstr "击败男爵以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_acid_nebula\"]"
+#~ msgstr "酸藻族"
 
-#: src-en/data/text_misc.xml.append:156
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_HAMMER_2_unlock\"]"
-msgstr "使用该星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_acid_nebula_core\"]"
+#~ msgstr "酸蚀核心 [!]"
 
-#: src-en/data/text_misc.xml.append:157
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_HAMMER_3_unlock\"]"
-msgstr "使用该星舰 B 型抵达第 5 星区，或使用该星舰 A 型通关游戏，以解锁这艘星舰。"
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"map_icon_aea_acid_nebula_shipyard\"]"
+#~ msgstr "酸蚀船坞"
 
-#: src-en/data/text_misc.xml.append:159
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BUD_unlock\"]"
-msgstr "挫败一场推翻神灵的阴谋。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_necro_home\"]"
+#~ msgstr "神圣"
 
-#: src-en/data/text_misc.xml.append:160
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BUD_2_unlock\"]"
-msgstr "使用花蕾星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_transport_aea_acid\"]"
+#~ msgstr "运输 [!]"
 
-#: src-en/data/text_misc.xml.append:161
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BUD_3_unlock\"]"
-msgstr "使用花蕾星舰 B 型抵达第 5 星区，或使用蓓蕾星舰 A 型通关游戏，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_flower\"]"
+#~ msgstr "花 [!]"
 
-#: src-en/data/text_misc.xml.append:163
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BLOOM_unlock\"]"
-msgstr "交付神之种子。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_seed\"]"
+#~ msgstr "种子 [!]"
 
-#: src-en/data/text_misc.xml.append:164
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BLOOM_2_unlock\"]"
-msgstr "使用绽放星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_conspiracy\"]"
+#~ msgstr "阴谋 [!]"
 
-#: src-en/data/text_misc.xml.append:165
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BLOOM_3_unlock\"]"
-msgstr "使用绽放星舰 B 型抵达第 5 星区，或使用绽放星舰 A 型通关游戏，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_bird_engineer\"]"
+#~ msgstr "工程 [!]"
 
-#: src-en/data/text_misc.xml.append:167
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_BIG_unlock\"]"
-msgstr "为中央工程设施夺取一个人工智能核心。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shleg_battle\"]"
+#~ msgstr "求救 [!]"
 
-#: src-en/data/text_misc.xml.append:168
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_BIG_2_unlock\"]"
-msgstr "使用鹰式星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_distress\"]"
+#~ msgstr "求救"
 
-#: src-en/data/text_misc.xml.append:169
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_BIG_3_unlock\"]"
-msgstr "使用鹰式星舰 B 型抵达第 5 星区，或使用鹰式星舰 A 型通关游戏，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shleg_radiant\"]"
+#~ msgstr "甲壳辐射体基地 [!]"
 
-#: src-en/data/text_misc.xml.append:171
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_TRAN_unlock\"]"
-msgstr "发现并阻止一场秘密的叛军渗透突袭。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shleg_quest\"]"
+#~ msgstr "任务[!]"
 
-#: src-en/data/text_misc.xml.append:172
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_TRAN_2_unlock\"]"
-msgstr "使用信天翁星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_broadside\"]"
+#~ msgstr "星舰 [!]"
 
-#: src-en/data/text_misc.xml.append:173
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_TRAN_3_unlock\"]"
-msgstr "使用信天翁星舰 B 型抵达第 5 星区，或使用信天翁星舰 A 型通关游戏，以解锁这艘星"
-"舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shard_palace\"]"
+#~ msgstr "宫殿 [!]"
 
-#: src-en/data/text_misc.xml.append:175
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_LONG_unlock\"]"
-msgstr "追踪并缉拿联邦哨站的凶手。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_shard_auto\"]"
+#~ msgstr "自动装置 [!]"
 
-#: src-en/data/text_misc.xml.append:176
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_LONG_2_unlock\"]"
-msgstr "使用无政府星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_gate\"]"
+#~ msgstr "星门 [!]"
 
-#: src-en/data/text_misc.xml.append:177
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_LONG_3_unlock\"]"
-msgstr "使用无政府星舰 B 型抵达第 5 星区，或使用无政府星舰 A 型通关游戏，以解锁这艘星"
-"舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_cell\"]"
+#~ msgstr "？？？"
 
-#: src-en/data/text_misc.xml.append:179
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_WIDE_unlock\"]"
-msgstr "为无政府主义者而战，参与一场劫掠行动。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_baron\"]"
+#~ msgstr "男爵 [!]"
 
-#: src-en/data/text_misc.xml.append:180
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_WIDE_2_unlock\"]"
-msgstr "使用无序星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_council\"]"
+#~ msgstr "理事会 [!]"
 
-#: src-en/data/text_misc.xml.append:181
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_WIDE_3_unlock\"]"
-msgstr "使用无序星舰 B 型抵达第 5 星区，或使用无序星舰 A 型通关游戏，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_1\"]"
+#~ msgstr "尤尼菲斯"
 
-#: src-en/data/text_misc.xml.append:183
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_unlock\"]"
-msgstr "追猎一艘奇特的水晶自动星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_2\"]"
+#~ msgstr "本质"
 
-#: src-en/data/text_misc.xml.append:184
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_2_unlock\"]"
-msgstr "使用碎铠星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_3\"]"
+#~ msgstr "脉冲"
 
-#: src-en/data/text_misc.xml.append:185
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_3_unlock\"]"
-msgstr "使用碎铠星舰 B 型抵达第 5 星区，或使用碎铠星舰 A 型通关游戏，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_4\"]"
+#~ msgstr "趋势"
 
-#: src-en/data/text_misc.xml.append:187
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_AUTO_unlock\"]"
-msgstr "从王宫深处营救国王。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_5\"]"
+#~ msgstr "共鸣"
 
-#: src-en/data/text_misc.xml.append:188
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_AUTO_2_unlock\"]"
-msgstr "使用碎晶铸者自动星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_1_i\"]"
+#~ msgstr "尤尼菲斯 [!]"
 
-#: src-en/data/text_misc.xml.append:189
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_AUTO_3_unlock\"]"
-msgstr "使用碎晶铸者自动星舰 B 型抵达第 5 星区，或使用碎晶铸者自动星舰 A 型通关游戏，"
-"以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_2_i\"]"
+#~ msgstr "本质 [!]"
 
-#: src-en/data/text_misc.xml.append:191
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_WHALE_unlock\"]"
-msgstr "使两位巨人爱人重逢。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_3_i\"]"
+#~ msgstr "脉冲 [!]"
 
-#: src-en/data/text_misc.xml.append:192
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_WHALE_2_unlock\"]"
-msgstr "使用该星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_4_i\"]"
+#~ msgstr "趋势 [!]"
 
-#: src-en/data/text_misc.xml.append:193
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_WHALE_3_unlock\"]"
-msgstr "使用该星舰 B 型抵达第 5 星区，或使用该星舰 A 型通关游戏，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"map_icon_aea_old_uni_5_i\"]"
+#~ msgstr "共鸣 [!]"
 
-#: src-en/data/text_misc.xml.append:194
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BROADSIDE_unlock\"]"
-msgstr "靠近节点 17（第 7 星区）的星区传出报告，称有一艘奇特的叛军舰船在其舰队中巡逻"
-"。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_acid_1\"]"
+#~ msgstr ""
+#~ "酸藻族战利品\n"
+#~ "离子伤害：-1\n"
+#~ "侵蚀速度：3 倍\n"
+#~ "侵蚀最大速度：2 倍"
 
-#: src-en/data/text_misc.xml.append:195
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BROADSIDE_2_unlock\"]"
-msgstr "使用该星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_necro_1\"]"
+#~ msgstr ""
+#~ "异教徒战利品\n"
+#~ "伤害：-1\n"
+#~ "发射数：+2"
 
-#: src-en/data/text_misc.xml.append:196
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BROADSIDE_3_unlock\"]"
-msgstr "使用该星舰 B 型抵达第 5 星区，或使用该星舰 A 型通关游戏，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_old_1\"]"
+#~ msgstr ""
+#~ "利尔米克战利品\n"
+#~ "起火几率：-100%\n"
+#~ "破舱几率：+100%\n"
+#~ "齐射中的最后一发额外造成 1 点舰体伤害"
 
-#: src-en/data/text_misc.xml.append:197
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_LANIUS_BATTLE_unlock\"]"
-msgstr "即将推出。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_cult_1\"]"
+#~ msgstr ""
+#~ "教徒教徒战利品\n"
+#~ "无法装备法术\n"
+#~ "冷却时间减少 2 秒\n"
+#~ "每有一名装备了法术的友方教徒，伤害增加 1 点"
 
-#: src-en/data/text_misc.xml.append:199
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_JUSTICE_unlock\"]"
-msgstr "找到并击败叛军舰队中的神秘旅者。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_bird_1\"]"
+#~ msgstr ""
+#~ "GI 战利品\n"
+#~ "次要射击对系统额外造成 1 点离子伤害\n"
+#~ "+2速度"
 
-#: src-en/data/text_misc.xml.append:200
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_JUSTICE_2_unlock\"]"
-msgstr "使用该星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_shleg_1\"]"
+#~ msgstr ""
+#~ "无政府主义战利品\n"
+#~ "+30 秒持续时间\n"
+#~ "-2 船体伤害\n"
+#~ "-1 系统伤害"
 
-#: src-en/data/text_misc.xml.append:201
-msgid ""
-"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_JUSTICE_3_unlock\"]"
-msgstr "使用该星舰 B 型抵达第 5 星区，或使用该星舰 A 型通关游戏，以解锁这艘星舰。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"loot_aea_shard_1\"]"
+#~ msgstr ""
+#~ "碎晶锻者战利品\n"
+#~ "击中房间时造成生命值消耗效果"
 
-#: src-en/data/text_misc.xml.append:203
-msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_aea_old\"]"
-msgstr "本号宇宙的叛军旗舰已被击败。随着旗舰舰队的覆灭，叛军军力受到重创，因此联邦舰队与其盟友成功在本号宇宙击败叛军。"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_old_unknown\"]"
+#~ msgstr "提示：一把奇怪的武器？你不禁怀疑它是否与节点17里的那扇奇怪的星门有关……"
 
-#: src-en/data/text_misc.xml.append:205
-msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_burst_laser\"]"
-msgstr "提示：爆裂光点能够快速连续发射多次，但会丧失定点瞄准特定舱室的能力"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"tip_laser_old\"]"
+#~ msgstr "提示：每发激光射击将被两层护盾阻挡，无论该激光伤害值多少。"
 
-#: src-en/data/text_misc.xml.append:207
-msgid "data/text_misc.xml.append$//text[@name=\"aea_super_shields\"]"
-msgstr "辅助护盾"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"tip_laser_oldp\"]"
+#~ msgstr "提示：尽管船体伤害为0，但每次射击都会被一层护盾挡下。"
 
-#: src-en/data/text_misc.xml.append:208
-msgid "data/text_misc.xml.append$//text[@name=\"aea_super_shields_installed\"]"
-msgstr "辅助护盾系统已安装"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_spellspore\"]"
+#~ msgstr "提示：装备在武器上的每个法术只能射向敌方飞船。法术不会落空，且咒术孢子武器每次充能可发射该法术两次。"
 
-#: src-en/data/text_misc.xml.append:209
-msgid "data/text_misc.xml.append$//text[@name=\"aea_clone_crime_installed\"]"
-msgstr "改良克隆室已安装"
+#~ msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_shleg\"]"
+#~ msgstr ""
+#~ "提示：灌输毒气的心灵控制效果以每秒 5 点生命值的速度累积。当状态效果累积至敌方船员的当前生命值时，便会以每秒 8 点生命值的速度侵蚀并心灵控制该敌人。"
+
+#~ msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_acid\"]"
+#~ msgstr ""
+#~ "名称：酸藻之源\n"
+#~ "类型：敌对（星云）\n"
+#~ "独特：是\n"
+#~ "主导派系：酸藻族\n"
+#~ "叛军威胁等级：低\n"
+#~ "标记点：中央酸蚀船坞\n"
+#~ "\n"
+#~ "酸藻之源是一处险境，唯有最顶尖的星舰才能在此星云中存活，而这甚至还未将酸藻族星舰本身的威胁纳入考量。"
+
+#~ msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_necro\"]"
+#~ msgstr ""
+#~ "名称：渎神核心\n"
+#~ "类型：敌对\n"
+#~ "独特：是\n"
+#~ "主导派系：半械异教徒\n"
+#~ "叛军威胁等级：低\n"
+#~ "标记点：圣所\n"
+#~ "\n"
+#~ "半械异教徒即便是从在分离者眼中也被视为异类，他们挣脱了同族所偏好的和谐之道，更倾向于将有机生命作为达成目的的工具。若你船上没有有机船员，或可在此勉强通行。"
+
+#~ msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_cult\"]"
+#~ msgstr ""
+#~ "名称：一花之居\n"
+#~ "类型：中立\n"
+#~ "独特：是\n"
+#~ "主导派系：血兰花教团\n"
+#~ "叛军威胁等级：中低\n"
+#~ "标记点：一花\n"
+#~ "\n"
+#~ "虽然严格来说该区域不属于联邦，但血兰花教团与联邦关系密切，任何针对教团的行动仍可能影响你在联邦眼中的声望。此星域是一花——教团所信奉神灵的居所。许多人推测他们的神灵并非活物，也有人认为它实为某种先进的人工智能。真相无人知晓，或许唯有那朵花本身才知道。"
+
+#~ msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_bird\"]"
+#~ msgstr ""
+#~ "名称：Gi 族筑巢地\n"
+#~ "类型：友好\n"
+#~ "独特：是\n"
+#~ "主导派系：Gi 联邦\n"
+#~ "叛军威胁等级：中等（中等舰队）\n"
+#~ "标记点：中央工程设施\n"
+#~ "\n"
+#~ "Gi 族与联邦关系密切，作为新近发现的种族，虽尚未正式加入联邦，但已处于加盟进程中，且该星域内存在强大的联邦势力。"
+
+#~ msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_shleg\"]"
+#~ msgstr ""
+#~ "名称：无政府主义者中央星云\n"
+#~ "类型：敌对（星云）\n"
+#~ "独特：是\n"
+#~ "主导派系：甲壳族与蛞蝓族无政府主义者\n"
+#~ "叛军威胁等级：中等（自动舰队）\n"
+#~ "\n"
+#~ "无政府主义者是由甲壳族与蛞蝓族组成的联合组织，旨在共同反抗各自的政府。尽管与联邦并无直接冲突，但也谈不上友好，务必谨慎行事。"
+
+#~ msgid "data/text_misc.xml.append$//text[@name=\"atlas_aea_shard\"]"
+#~ msgstr ""
+#~ "名称：碎晶铸者宫殿\n"
+#~ "类型：友好\n"
+#~ "独特：是\n"
+#~ "主导派系：碎晶铸者海盗\n"
+#~ "叛军威胁等级：低\n"
+#~ "标记点：黎明宫殿\n"
+#~ "\n"
+#~ "碎晶铸者虽被视为海盗，却深受联邦及其盟友的青睐。他们自水晶帝国鼎盛时期便已存在，并证明了自己是值得信赖且可靠的盟友——只要付得起代价。在近期联邦与叛军的冲突中，碎晶铸者一直与联邦并肩作战，共同对抗叛军的暴行。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_BILL_unlock\"]"
+#~ msgstr "征询某位酸藻族流放者关于某件神器的建议，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_KING_unlock\"]"
+#~ msgstr "征询某位异教徒领袖关于某件神器的建议，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_TINY_unlock\"]"
+#~ msgstr "征询某位小型血兰花教徒关于某件神器的建议，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_JAY_unlock\"]"
+#~ msgstr "征询某位鸟族工程师关于某件神器的建议，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHLEG_UNI_unlock\"]"
+#~ msgstr "征询某位无政府主义创始成员关于某件神器的建议，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_UNI_unlock\"]"
+#~ msgstr "征询某位海盗王关于某件神器的建议，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_1_unlock\"]"
+#~ msgstr "寻求某位列尔米克议会成员的帮助并逃离隔离区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_2_unlock\"]"
+#~ msgstr "寻求某位列尔米克议会成员的帮助并逃离隔离区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_3_unlock\"]"
+#~ msgstr "寻求某位列尔米克议会成员的帮助并逃离隔离区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_4_unlock\"]"
+#~ msgstr "寻求某位列尔米克议会成员的帮助并逃离隔离区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_UNI_5_unlock\"]"
+#~ msgstr "寻求某位列尔米克议会成员的帮助并逃离隔离区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_ARTY_unlock\"]"
+#~ msgstr "帮助一位酸藻族流放者以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_ARTY_2_unlock\"]"
+#~ msgstr "使用酸藻族星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_ARTY_3_unlock\"]"
+#~ msgstr "使用酸藻族星舰 B 型抵达第 5 星区，或使用酸藻族星舰 A 型通关游戏，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_LONG_unlock\"]"
+#~ msgstr "找到酸藻族的中央船坞，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_LONG_2_unlock\"]"
+#~ msgstr "使用酸藻族驱逐舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_ACID_LONG_3_unlock\"]"
+#~ msgstr "使用酸藻族驱逐舰 B 型抵达第 5 星区，或使用酸藻族驱逐舰 A 型通关游戏，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_ENGI_unlock\"]"
+#~ msgstr "拜访圣所并打动一位半械族，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_ENGI_2_unlock\"]"
+#~ msgstr "使用异端星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_ENGI_3_unlock\"]"
+#~ msgstr "使用异端星舰 B 型抵达第 5 星区，或使用异端星舰 A 型通关游戏，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_SEPA_unlock\"]"
+#~ msgstr "访问一处异常的半械族链接点，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_SEPA_2_unlock\"]"
+#~ msgstr "使用渎神星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_NECRO_SEPA_3_unlock\"]"
+#~ msgstr "使用渎神星舰 B 型抵达第 5 星区，或使用渎神星舰 A 型通关游戏，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_ARMOUR_unlock\"]"
+#~ msgstr "逃离隔离区以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_OLD_HAMMER_unlock\"]"
+#~ msgstr "击败男爵以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BUD_unlock\"]"
+#~ msgstr "挫败一场推翻神灵的阴谋。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BUD_2_unlock\"]"
+#~ msgstr "使用花蕾星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BUD_3_unlock\"]"
+#~ msgstr "使用花蕾星舰 B 型抵达第 5 星区，或使用蓓蕾星舰 A 型通关游戏，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BLOOM_unlock\"]"
+#~ msgstr "交付神之种子。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BLOOM_2_unlock\"]"
+#~ msgstr "使用绽放星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_BLOOM_3_unlock\"]"
+#~ msgstr "使用绽放星舰 B 型抵达第 5 星区，或使用绽放星舰 A 型通关游戏，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_BIG_unlock\"]"
+#~ msgstr "为中央工程设施夺取一个人工智能核心。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_BIG_2_unlock\"]"
+#~ msgstr "使用鹰式星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_BIG_3_unlock\"]"
+#~ msgstr "使用鹰式星舰 B 型抵达第 5 星区，或使用鹰式星舰 A 型通关游戏，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_TRAN_unlock\"]"
+#~ msgstr "发现并阻止一场秘密的叛军渗透突袭。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_TRAN_2_unlock\"]"
+#~ msgstr "使用信天翁星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BIRD_TRAN_3_unlock\"]"
+#~ msgstr "使用信天翁星舰 B 型抵达第 5 星区，或使用信天翁星舰 A 型通关游戏，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_LONG_unlock\"]"
+#~ msgstr "追踪并缉拿联邦哨站的凶手。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_LONG_2_unlock\"]"
+#~ msgstr "使用无政府星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_LONG_3_unlock\"]"
+#~ msgstr "使用无政府星舰 B 型抵达第 5 星区，或使用无政府星舰 A 型通关游戏，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_WIDE_unlock\"]"
+#~ msgstr "为无政府主义者而战，参与一场劫掠行动。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_WIDE_2_unlock\"]"
+#~ msgstr "使用无序星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SLUG_WIDE_3_unlock\"]"
+#~ msgstr "使用无序星舰 B 型抵达第 5 星区，或使用无序星舰 A 型通关游戏，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_unlock\"]"
+#~ msgstr "追猎一艘奇特的水晶自动星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_2_unlock\"]"
+#~ msgstr "使用碎铠星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_BATTLE_3_unlock\"]"
+#~ msgstr "使用碎铠星舰 B 型抵达第 5 星区，或使用碎铠星舰 A 型通关游戏，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_AUTO_unlock\"]"
+#~ msgstr "从王宫深处营救国王。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_AUTO_2_unlock\"]"
+#~ msgstr "使用碎晶铸者自动星舰 A 型抵达第 5 星区，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_SHARD_AUTO_3_unlock\"]"
+#~ msgstr "使用碎晶铸者自动星舰 B 型抵达第 5 星区，或使用碎晶铸者自动星舰 A 型通关游戏，以解锁这艘星舰。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_CULT_WHALE_unlock\"]"
+#~ msgstr "使两位巨人爱人重逢。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_BROADSIDE_unlock\"]"
+#~ msgstr "靠近节点 17（第 7 星区）的星区传出报告，称有一艘奇特的叛军舰船在其舰队中巡逻。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_LANIUS_BATTLE_unlock\"]"
+#~ msgstr "即将推出。"
+
+#~ msgid ""
+#~ "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_AEA_JUSTICE_unlock\"]"
+#~ msgstr "找到并击败叛军舰队中的神秘旅者。"
+
+#~ msgid "data/text_misc.xml.append$//text[@name=\"credit_victory_aea_old\"]"
+#~ msgstr "本号宇宙的叛军旗舰已被击败。随着旗舰舰队的覆灭，叛军军力受到重创，因此联邦舰队与其盟友成功在本号宇宙击败叛军。"
+
+#~ msgid "data/text_misc.xml.append$//text[@name=\"tip_aea_burst_laser\"]"
+#~ msgstr "提示：爆裂光点能够快速连续发射多次，但会丧失定点瞄准特定舱室的能力"
+
+#~ msgid "data/text_misc.xml.append$//text[@name=\"aea_super_shields\"]"
+#~ msgstr "辅助护盾"
+
+#~ msgid "data/text_misc.xml.append$//text[@name=\"aea_super_shields_installed\"]"
+#~ msgstr "辅助护盾系统已安装"
+
+#~ msgid "data/text_misc.xml.append$//text[@name=\"aea_clone_crime_installed\"]"
+#~ msgstr "改良克隆室已安装"

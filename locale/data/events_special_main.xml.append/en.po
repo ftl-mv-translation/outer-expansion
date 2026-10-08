@@ -5,626 +5,587 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src-en/data/events_special_main.xml.append:71
+#: src-en/data/events_special_main.xml.append:16
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/text"
 msgstr "Choose an artillery for slot 1"
 
-#: src-en/data/events_special_main.xml.append:73
+#: src-en/data/events_special_main.xml.append:18
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[1]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[1]/text"
 msgstr "Laser Artillery."
 
-#: src-en/data/events_special_main.xml.append:75
+#: src-en/data/events_special_main.xml.append:20
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[1]/event/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[1]/event/text"
 msgstr "."
 
-#: src-en/data/events_special_main.xml.append:81
+#: src-en/data/events_special_main.xml.append:26
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[2]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[2]/text"
 msgstr "Beam Artillery."
 
-#: src-en/data/events_special_main.xml.append:83
+#: src-en/data/events_special_main.xml.append:28
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[2]/event/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[2]/event/text"
 msgstr "."
 
-#: src-en/data/events_special_main.xml.append:89
+#: src-en/data/events_special_main.xml.append:34
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[@req=\"oe_broadside_missile_chosen\"]/text"
 msgstr "Missile Artillery (max: 2)."
 
-#: src-en/data/events_special_main.xml.append:91
+#: src-en/data/events_special_main.xml.append:36
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[@req=\"aea_broadside_missile_chosen\"]/event/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[@req=\"oe_broadside_missile_chosen\"]/event/text"
 msgstr "."
 
-#: src-en/data/events_special_main.xml.append:97
+#: src-en/data/events_special_main.xml.append:42
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[4]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[4]/text"
 msgstr "Ion Artillery."
 
-#: src-en/data/events_special_main.xml.append:99
+#: src-en/data/events_special_main.xml.append:44
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[4]/event/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[1]/choice[4]/event/text"
 msgstr "."
+
+#: src-en/data/events_special_main.xml.append:51
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/text"
+msgstr "Choose an artillery for slot 1"
+
+#: src-en/data/events_special_main.xml.append:53
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[1]/text"
+msgstr "Laser Artillery."
+
+#: src-en/data/events_special_main.xml.append:55
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[1]/event/text"
+msgstr "."
+
+#: src-en/data/events_special_main.xml.append:61
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[2]/text"
+msgstr "Beam Artillery."
+
+#: src-en/data/events_special_main.xml.append:63
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[2]/event/text"
+msgstr "."
+
+#: src-en/data/events_special_main.xml.append:69
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[@req=\"oe_broadside_missile_chosen\"]/text"
+msgstr "Missile Artillery (max: 2)."
+
+#: src-en/data/events_special_main.xml.append:71
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[@req=\"oe_broadside_missile_chosen\"]/event/text"
+msgstr "."
+
+#: src-en/data/events_special_main.xml.append:77
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[4]/text"
+msgstr "Ion Artillery."
+
+#: src-en/data/events_special_main.xml.append:79
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[4]/event/text"
+msgstr "."
+
+#: src-en/data/events_special_main.xml.append:90
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_LASER_1\"]/text"
+msgstr "You choose the laser."
+
+#: src-en/data/events_special_main.xml.append:93
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_LASER_1\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_main.xml.append:98
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_BEAM_1\"]/text"
+msgstr "You choose the beam."
+
+#: src-en/data/events_special_main.xml.append:101
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_BEAM_1\"]/choice/text"
+msgstr "Continue..."
 
 #: src-en/data/events_special_main.xml.append:106
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/text"
-msgstr "Choose an artillery for slot 1"
-
-#: src-en/data/events_special_main.xml.append:108
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[1]/text"
-msgstr "Laser Artillery."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_MISSILE_1\"]/text"
+msgstr "You choose the missile."
 
 #: src-en/data/events_special_main.xml.append:110
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[1]/event/text"
-msgstr "."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_MISSILE_1\"]/choice/text"
+msgstr "Continue..."
 
-#: src-en/data/events_special_main.xml.append:116
+#: src-en/data/events_special_main.xml.append:115
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[2]/text"
-msgstr "Beam Artillery."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ION_1\"]/text"
+msgstr "You choose the ion."
 
 #: src-en/data/events_special_main.xml.append:118
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[2]/event/text"
-msgstr "."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ION_1\"]/choice/text"
+msgstr "Continue..."
 
 #: src-en/data/events_special_main.xml.append:124
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr "Missile Artillery (max: 2)."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_2\"]/text"
+msgstr "Choose an artillery for slot 2"
 
 #: src-en/data/events_special_main.xml.append:126
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[@req=\"aea_broadside_missile_chosen\"]/event/text"
-msgstr "."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_2\"]/choice[1]/text"
+msgstr "Laser Artillery."
 
-#: src-en/data/events_special_main.xml.append:132
+#: src-en/data/events_special_main.xml.append:128
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[4]/text"
-msgstr "Ion Artillery."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_2\"]/choice[1]/event/text"
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:134
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY\"]/loadEventList/event[2]/choice[4]/event/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_2\"]/choice[2]/text"
+msgstr "Beam Artillery."
+
+#: src-en/data/events_special_main.xml.append:136
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_2\"]/choice[2]/event/text"
 msgstr "."
 
-#: src-en/data/events_special_main.xml.append:145
+#: src-en/data/events_special_main.xml.append:142
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_LASER_1\"]/text"
-msgstr "You choose the laser."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_2\"]/choice[@req=\"oe_broadside_missile_chosen\"]/text"
+msgstr "Missile Artillery (max: 2)."
 
-#: src-en/data/events_special_main.xml.append:148
+#: src-en/data/events_special_main.xml.append:144
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_LASER_1\"]/choice/text"
-msgstr "Continue..."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_2\"]/choice[@req=\"oe_broadside_missile_chosen\"]/event/text"
+msgstr "."
 
-#: src-en/data/events_special_main.xml.append:153
+#: src-en/data/events_special_main.xml.append:150
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_BEAM_1\"]/text"
-msgstr "You choose the beam."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_2\"]/choice[4]/text"
+msgstr "Ion Artillery."
 
-#: src-en/data/events_special_main.xml.append:156
+#: src-en/data/events_special_main.xml.append:152
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_BEAM_1\"]/choice/text"
-msgstr "Continue..."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_2\"]/choice[4]/event/text"
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:161
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_MISSILE_1\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_LASER_2\"]/text"
+msgstr "You choose the laser."
+
+#: src-en/data/events_special_main.xml.append:164
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_LASER_2\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_main.xml.append:169
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_BEAM_2\"]/text"
+msgstr "You choose the beam."
+
+#: src-en/data/events_special_main.xml.append:172
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_BEAM_2\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_main.xml.append:177
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_MISSILE_2\"]/text"
 msgstr "You choose the missile."
-
-#: src-en/data/events_special_main.xml.append:165
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_MISSILE_1\"]/choice/text"
-msgstr "Continue..."
-
-#: src-en/data/events_special_main.xml.append:170
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ION_1\"]/text"
-msgstr "You choose the ion."
-
-#: src-en/data/events_special_main.xml.append:173
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ION_1\"]/choice/text"
-msgstr "Continue..."
-
-#: src-en/data/events_special_main.xml.append:179
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/text"
-msgstr "Choose an artillery for slot 2"
 
 #: src-en/data/events_special_main.xml.append:181
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[1]/text"
-msgstr "Laser Artillery."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_MISSILE_2\"]/choice/text"
+msgstr "Continue..."
 
-#: src-en/data/events_special_main.xml.append:183
+#: src-en/data/events_special_main.xml.append:186
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[1]/event/text"
-msgstr "."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ION_2\"]/text"
+msgstr "You choose the ion."
 
 #: src-en/data/events_special_main.xml.append:189
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[2]/text"
-msgstr "Beam Artillery."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ION_2\"]/choice/text"
+msgstr "Continue..."
 
-#: src-en/data/events_special_main.xml.append:191
+#: src-en/data/events_special_main.xml.append:195
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[2]/event/text"
-msgstr "."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_3\"]/text"
+msgstr "Choose an artillery for slot 3"
 
 #: src-en/data/events_special_main.xml.append:197
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr "Missile Artillery (max: 2)."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_3\"]/choice[1]/text"
+msgstr "Laser Artillery."
 
 #: src-en/data/events_special_main.xml.append:199
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[@req=\"aea_broadside_missile_chosen\"]/event/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_3\"]/choice[1]/event/text"
 msgstr "."
 
 #: src-en/data/events_special_main.xml.append:205
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[4]/text"
-msgstr "Ion Artillery."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_3\"]/choice[2]/text"
+msgstr "Beam Artillery."
 
 #: src-en/data/events_special_main.xml.append:207
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_2\"]/choice[4]/event/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_3\"]/choice[2]/event/text"
 msgstr "."
 
-#: src-en/data/events_special_main.xml.append:216
+#: src-en/data/events_special_main.xml.append:213
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_LASER_2\"]/text"
-msgstr "You choose the laser."
-
-#: src-en/data/events_special_main.xml.append:219
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_LASER_2\"]/choice/text"
-msgstr "Continue..."
-
-#: src-en/data/events_special_main.xml.append:224
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_BEAM_2\"]/text"
-msgstr "You choose the beam."
-
-#: src-en/data/events_special_main.xml.append:227
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_BEAM_2\"]/choice/text"
-msgstr "Continue..."
-
-#: src-en/data/events_special_main.xml.append:232
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_MISSILE_2\"]/text"
-msgstr "You choose the missile."
-
-#: src-en/data/events_special_main.xml.append:236
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_MISSILE_2\"]/choice/text"
-msgstr "Continue..."
-
-#: src-en/data/events_special_main.xml.append:241
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ION_2\"]/text"
-msgstr "You choose the ion."
-
-#: src-en/data/events_special_main.xml.append:244
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ION_2\"]/choice/text"
-msgstr "Continue..."
-
-#: src-en/data/events_special_main.xml.append:250
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/text"
-msgstr "Choose an artillery for slot 3"
-
-#: src-en/data/events_special_main.xml.append:252
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[1]/text"
-msgstr "Laser Artillery."
-
-#: src-en/data/events_special_main.xml.append:254
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[1]/event/text"
-msgstr "."
-
-#: src-en/data/events_special_main.xml.append:260
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[2]/text"
-msgstr "Beam Artillery."
-
-#: src-en/data/events_special_main.xml.append:262
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[2]/event/text"
-msgstr "."
-
-#: src-en/data/events_special_main.xml.append:268
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_3\"]/choice[@req=\"oe_broadside_missile_chosen\"]/text"
 msgstr "Missile Artillery (max: 2)."
 
-#: src-en/data/events_special_main.xml.append:270
+#: src-en/data/events_special_main.xml.append:215
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[@req=\"aea_broadside_missile_chosen\"]/event/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_3\"]/choice[@req=\"oe_broadside_missile_chosen\"]/event/text"
 msgstr "."
 
-#: src-en/data/events_special_main.xml.append:276
+#: src-en/data/events_special_main.xml.append:221
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[4]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_3\"]/choice[4]/text"
 msgstr "Ion Artillery."
 
-#: src-en/data/events_special_main.xml.append:278
+#: src-en/data/events_special_main.xml.append:223
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ARTY_3\"]/choice[4]/event/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ARTY_3\"]/choice[4]/event/text"
 msgstr "."
+
+#: src-en/data/events_special_main.xml.append:231
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_LASER_3\"]/text"
+msgstr "You choose the laser."
+
+#: src-en/data/events_special_main.xml.append:234
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_LASER_3\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_main.xml.append:239
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_BEAM_3\"]/text"
+msgstr "You choose the beam."
+
+#: src-en/data/events_special_main.xml.append:242
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_BEAM_3\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_main.xml.append:247
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_MISSILE_3\"]/text"
+msgstr "You choose the missile."
+
+#: src-en/data/events_special_main.xml.append:251
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_MISSILE_3\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_main.xml.append:256
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ION_3\"]/text"
+msgstr "You choose the ion."
+
+#: src-en/data/events_special_main.xml.append:259
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_CHOOSE_ION_3\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_main.xml.append:266
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_LASER_1\"]/text"
+msgstr "You choose the laser."
+
+#: src-en/data/events_special_main.xml.append:269
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_LASER_1\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_main.xml.append:274
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_BEAM_1\"]/text"
+msgstr "You choose the beam."
+
+#: src-en/data/events_special_main.xml.append:277
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_BEAM_1\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_main.xml.append:282
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_MISSILE_1\"]/text"
+msgstr "You choose the missile."
 
 #: src-en/data/events_special_main.xml.append:286
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_LASER_3\"]/text"
-msgstr "You choose the laser."
-
-#: src-en/data/events_special_main.xml.append:289
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_LASER_3\"]/choice/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_MISSILE_1\"]/choice/text"
 msgstr "Continue..."
+
+#: src-en/data/events_special_main.xml.append:291
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ION_1\"]/text"
+msgstr "You choose the ion."
 
 #: src-en/data/events_special_main.xml.append:294
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_BEAM_3\"]/text"
-msgstr "You choose the beam."
-
-#: src-en/data/events_special_main.xml.append:297
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_BEAM_3\"]/choice/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ION_1\"]/choice/text"
 msgstr "Continue..."
+
+#: src-en/data/events_special_main.xml.append:300
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_2\"]/text"
+msgstr "Choose an artillery for slot 2"
 
 #: src-en/data/events_special_main.xml.append:302
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_MISSILE_3\"]/text"
-msgstr "You choose the missile."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[1]/text"
+msgstr "Laser Artillery."
 
-#: src-en/data/events_special_main.xml.append:306
+#: src-en/data/events_special_main.xml.append:304
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_MISSILE_3\"]/choice/text"
-msgstr "Continue..."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[1]/event/text"
+msgstr "."
 
-#: src-en/data/events_special_main.xml.append:311
+#: src-en/data/events_special_main.xml.append:310
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ION_3\"]/text"
-msgstr "You choose the ion."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[2]/text"
+msgstr "Beam Artillery."
 
-#: src-en/data/events_special_main.xml.append:314
+#: src-en/data/events_special_main.xml.append:312
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_CHOOSE_ION_3\"]/choice/text"
-msgstr "Continue..."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[2]/event/text"
+msgstr "."
 
-#: src-en/data/events_special_main.xml.append:321
+#: src-en/data/events_special_main.xml.append:318
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_LASER_1\"]/text"
-msgstr "You choose the laser."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[@req=\"oe_broadside_missile_chosen\"]/text"
+msgstr "Missile Artillery (max: 2)."
 
-#: src-en/data/events_special_main.xml.append:324
+#: src-en/data/events_special_main.xml.append:320
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_LASER_1\"]/choice/text"
-msgstr "Continue..."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[@req=\"oe_broadside_missile_chosen\"]/event/text"
+msgstr "."
 
-#: src-en/data/events_special_main.xml.append:329
+#: src-en/data/events_special_main.xml.append:326
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_BEAM_1\"]/text"
-msgstr "You choose the beam."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[4]/text"
+msgstr "Ion Artillery."
 
-#: src-en/data/events_special_main.xml.append:332
+#: src-en/data/events_special_main.xml.append:328
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_BEAM_1\"]/choice/text"
-msgstr "Continue..."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[4]/event/text"
+msgstr "."
 
 #: src-en/data/events_special_main.xml.append:337
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_MISSILE_1\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_LASER_2\"]/text"
+msgstr "You choose the laser."
+
+#: src-en/data/events_special_main.xml.append:340
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_LASER_2\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_main.xml.append:345
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_BEAM_2\"]/text"
+msgstr "You choose the beam."
+
+#: src-en/data/events_special_main.xml.append:348
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_BEAM_2\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_main.xml.append:353
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_MISSILE_2\"]/text"
 msgstr "You choose the missile."
-
-#: src-en/data/events_special_main.xml.append:341
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_MISSILE_1\"]/choice/text"
-msgstr "Continue..."
-
-#: src-en/data/events_special_main.xml.append:346
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ION_1\"]/text"
-msgstr "You choose the ion."
-
-#: src-en/data/events_special_main.xml.append:349
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ION_1\"]/choice/text"
-msgstr "Continue..."
-
-#: src-en/data/events_special_main.xml.append:355
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/text"
-msgstr "Choose an artillery for slot 2"
 
 #: src-en/data/events_special_main.xml.append:357
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[1]/text"
-msgstr "Laser Artillery."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_MISSILE_2\"]/choice/text"
+msgstr "Continue..."
 
-#: src-en/data/events_special_main.xml.append:359
+#: src-en/data/events_special_main.xml.append:362
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[1]/event/text"
-msgstr "."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ION_2\"]/text"
+msgstr "You choose the ion."
 
 #: src-en/data/events_special_main.xml.append:365
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[2]/text"
-msgstr "Beam Artillery."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ION_2\"]/choice/text"
+msgstr "Continue..."
 
-#: src-en/data/events_special_main.xml.append:367
+#: src-en/data/events_special_main.xml.append:371
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[2]/event/text"
-msgstr "."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_3\"]/text"
+msgstr "Choose an artillery for slot 3"
 
 #: src-en/data/events_special_main.xml.append:373
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
-msgstr "Missile Artillery (max: 2)."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[1]/text"
+msgstr "Laser Artillery."
 
 #: src-en/data/events_special_main.xml.append:375
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[@req=\"aea_broadside_missile_chosen\"]/event/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[1]/event/text"
 msgstr "."
 
 #: src-en/data/events_special_main.xml.append:381
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[4]/text"
-msgstr "Ion Artillery."
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[2]/text"
+msgstr "Beam Artillery."
 
 #: src-en/data/events_special_main.xml.append:383
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_2\"]/choice[4]/event/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[2]/event/text"
 msgstr "."
 
-#: src-en/data/events_special_main.xml.append:392
+#: src-en/data/events_special_main.xml.append:389
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_LASER_2\"]/text"
-msgstr "You choose the laser."
-
-#: src-en/data/events_special_main.xml.append:395
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_LASER_2\"]/choice/text"
-msgstr "Continue..."
-
-#: src-en/data/events_special_main.xml.append:400
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_BEAM_2\"]/text"
-msgstr "You choose the beam."
-
-#: src-en/data/events_special_main.xml.append:403
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_BEAM_2\"]/choice/text"
-msgstr "Continue..."
-
-#: src-en/data/events_special_main.xml.append:408
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_MISSILE_2\"]/text"
-msgstr "You choose the missile."
-
-#: src-en/data/events_special_main.xml.append:412
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_MISSILE_2\"]/choice/text"
-msgstr "Continue..."
-
-#: src-en/data/events_special_main.xml.append:417
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ION_2\"]/text"
-msgstr "You choose the ion."
-
-#: src-en/data/events_special_main.xml.append:420
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ION_2\"]/choice/text"
-msgstr "Continue..."
-
-#: src-en/data/events_special_main.xml.append:426
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/text"
-msgstr "Choose an artillery for slot 3"
-
-#: src-en/data/events_special_main.xml.append:428
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[1]/text"
-msgstr "Laser Artillery."
-
-#: src-en/data/events_special_main.xml.append:430
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[1]/event/text"
-msgstr "."
-
-#: src-en/data/events_special_main.xml.append:436
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[2]/text"
-msgstr "Beam Artillery."
-
-#: src-en/data/events_special_main.xml.append:438
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[2]/event/text"
-msgstr "."
-
-#: src-en/data/events_special_main.xml.append:444
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[@req=\"aea_broadside_missile_chosen\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[@req=\"oe_broadside_missile_chosen\"]/text"
 msgstr "Missile Artillery (max: 2)."
 
-#: src-en/data/events_special_main.xml.append:446
+#: src-en/data/events_special_main.xml.append:391
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[@req=\"aea_broadside_missile_chosen\"]/event/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[@req=\"oe_broadside_missile_chosen\"]/event/text"
 msgstr "."
 
-#: src-en/data/events_special_main.xml.append:452
+#: src-en/data/events_special_main.xml.append:397
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[4]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[4]/text"
 msgstr "Ion Artillery."
 
-#: src-en/data/events_special_main.xml.append:454
+#: src-en/data/events_special_main.xml.append:399
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[4]/event/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ARTY_3\"]/choice[4]/event/text"
 msgstr "."
 
-#: src-en/data/events_special_main.xml.append:462
+#: src-en/data/events_special_main.xml.append:407
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_LASER_3\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_LASER_3\"]/text"
 msgstr "You choose the laser."
 
-#: src-en/data/events_special_main.xml.append:465
+#: src-en/data/events_special_main.xml.append:410
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_LASER_3\"]/choice/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_LASER_3\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_main.xml.append:470
+#: src-en/data/events_special_main.xml.append:415
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_BEAM_3\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_BEAM_3\"]/text"
 msgstr "You choose the beam."
 
-#: src-en/data/events_special_main.xml.append:473
+#: src-en/data/events_special_main.xml.append:418
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_BEAM_3\"]/choice/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_BEAM_3\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_main.xml.append:478
+#: src-en/data/events_special_main.xml.append:423
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_MISSILE_3\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_MISSILE_3\"]/text"
 msgstr "You choose the missile."
 
-#: src-en/data/events_special_main.xml.append:482
+#: src-en/data/events_special_main.xml.append:427
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_MISSILE_3\"]/choice/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_MISSILE_3\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_main.xml.append:487
+#: src-en/data/events_special_main.xml.append:432
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ION_3\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ION_3\"]/text"
 msgstr "You choose the ion."
 
-#: src-en/data/events_special_main.xml.append:490
+#: src-en/data/events_special_main.xml.append:435
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE2_CHOOSE_ION_3\"]/choice/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE2_CHOOSE_ION_3\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_main.xml.append:505
+#: src-en/data/events_special_main.xml.append:445
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_ENEMY_BROADSIDE_EVENT\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_ENEMY_BROADSIDE_EVENT\"]/text"
 msgstr ""
 "You arrive at the beacon face to face with a strange rebel ship, it's unlike"
 " any design you've seen before. You don't have time to ponder as it turns "
 "it's weapons on you."
 
-#: src-en/data/events_special_main.xml.append:508
+#: src-en/data/events_special_main.xml.append:448
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_ENEMY_BROADSIDE_EVENT\"]/choice/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_ENEMY_BROADSIDE_EVENT\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_main.xml.append:518
+#: src-en/data/events_special_main.xml.append:458
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"DESTROYED_AEA_BROADSIDE\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"DESTROYED_OE_BROADSIDE\"]/text"
 msgstr ""
 "The fiery red of the explosions complements the orange hull of the Rebel "
 "ship. Satisfied with your handiwork, you scrap the ship."
 
-#: src-en/data/events_special_main.xml.append:524
+#: src-en/data/events_special_main.xml.append:465
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"DEAD_CREW_AEA_BROADSIDE\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"DEAD_CREW_OE_BROADSIDE\"]/text"
 msgstr ""
 "With the Rebel vessel now clear of its crew, you are free to scrap the "
 "remains."
 
-#: src-en/data/events_special_main.xml.append:532
+#: src-en/data/events_special_main.xml.append:474
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE3_MAIN\"]/text"
 msgstr ""
 "Install the slot 1 weapon into one of the artillery systems, previously "
 "installed weapon will be lost."
 
-#: src-en/data/events_special_main.xml.append:534
+#: src-en/data/events_special_main.xml.append:476
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[1]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE3_MAIN\"]/choice[1]/text"
 msgstr "Nevermind."
 
-#: src-en/data/events_special_main.xml.append:538
+#: src-en/data/events_special_main.xml.append:480
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[2]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE3_MAIN\"]/choice[2]/text"
 msgstr "Install it into Artillery slot 1 (left most)"
 
-#: src-en/data/events_special_main.xml.append:540
+#: src-en/data/events_special_main.xml.append:482
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_C_SLOT1\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_C_SLOT1\"]/text"
 msgstr "You install the weapon into the artillery system."
 
-#: src-en/data/events_special_main.xml.append:544
+#: src-en/data/events_special_main.xml.append:486
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[3]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE3_MAIN\"]/choice[3]/text"
 msgstr "Install it into Artillery slot 2 (middle)"
 
-#: src-en/data/events_special_main.xml.append:546
+#: src-en/data/events_special_main.xml.append:488
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_C_SLOT2\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_C_SLOT2\"]/text"
 msgstr "You install the weapon into the artillery system."
 
-#: src-en/data/events_special_main.xml.append:550
+#: src-en/data/events_special_main.xml.append:492
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[4]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE3_MAIN\"]/choice[4]/text"
 msgstr "Install it into Artillery slot 3 (right most)"
 
-#: src-en/data/events_special_main.xml.append:552
+#: src-en/data/events_special_main.xml.append:494
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE_C_SLOT3\"]/text"
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE_C_SLOT3\"]/text"
 msgstr "You install the weapon into the artillery system."
 
-#: src-en/data/events_special_main.xml.append:556
+#: src-en/data/events_special_main.xml.append:498
 msgid ""
-"data/events_special_main.xml.append$//event[@name=\"AEA_BROADSIDE3_MAIN\"]/choice[@req=\"aea_broadside_c_has_weapon\""
+"data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE3_MAIN\"]/choice[@req=\"oe_broadside_c_has_weapon\""
 " and @lvl=\"0\"]/text"
 msgstr "You need a weapon in your weapon system to install."
-
-#: src-en/data/events_special_main.xml.append:564
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/text"
-msgstr "Outcome1"
-
-#: src-en/data/events_special_main.xml.append:566
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/choice[1]/text"
-msgstr "CONTINUE"
-
-#: src-en/data/events_special_main.xml.append:572
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/choice[2]/text"
-msgstr "END"
-
-#: src-en/data/events_special_main.xml.append:577
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/text"
-msgstr "Outcome2"
-
-#: src-en/data/events_special_main.xml.append:579
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/choice[1]/text"
-msgstr "CONTINUE"
-
-#: src-en/data/events_special_main.xml.append:585
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/choice[2]/text"
-msgstr "END"
-
-#: src-en/data/events_special_main.xml.append:593
-msgid "data/events_special_main.xml.append$//event[@name=\"RANDOM_LOAD\"]/text"
-msgstr "LOAD"
-
-#: src-en/data/events_special_main.xml.append:595
-msgid ""
-"data/events_special_main.xml.append$//event[@name=\"RANDOM_LOAD\"]/choice/text"
-msgstr "Continue..."
