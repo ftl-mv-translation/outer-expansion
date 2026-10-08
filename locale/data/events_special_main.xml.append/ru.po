@@ -589,30 +589,3 @@ msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE3_MAIN\"]/choice[@req=\"oe_broadside_c_has_weapon\""
 " and @lvl=\"0\"]/text"
 msgstr "Для установки необходимо оружие в вашей системе вооружения."
-
-#~ msgid ""
-#~ "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/text"
-#~ msgstr "Результат1"
-
-#~ msgid ""
-#~ "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/choice[1]/text"
-#~ msgstr "ПРОДОЛЖИТЬ"
-
-#~ msgid ""
-#~ "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/choice[2]/text"
-#~ msgstr "ЗАКОНЧИТЬ"
-
-#~ msgid ""
-#~ "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/text"
-#~ msgstr "Результат2"
-
-#~ msgid ""
-#~ "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/choice[1]/text"
-#~ msgstr "ПРОДОЛЖИТЬ"
-
-#~ msgid ""
-#~ "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/choice[2]/text"
-#~ msgstr "ЗАКОНЧИТЬ"
-
-#~ msgid "data/events_special_main.xml.append$//event[@name=\"RANDOM_LOAD\"]/text"
-#~ msgstr "ЗАГРУЗИТЬ"

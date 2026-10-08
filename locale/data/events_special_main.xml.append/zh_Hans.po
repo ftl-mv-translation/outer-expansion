@@ -580,30 +580,3 @@ msgid ""
 "data/events_special_main.xml.append$//event[@name=\"OE_BROADSIDE3_MAIN\"]/choice[@req=\"oe_broadside_c_has_weapon\""
 " and @lvl=\"0\"]/text"
 msgstr "你的武器系统中需要有一件武器才能安装。"
-
-#~ msgid ""
-#~ "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/text"
-#~ msgstr "结果1"
-
-#~ msgid ""
-#~ "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/choice[1]/text"
-#~ msgstr "继续"
-
-#~ msgid ""
-#~ "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[1]/choice[2]/text"
-#~ msgstr "结束"
-
-#~ msgid ""
-#~ "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/text"
-#~ msgstr "结果2"
-
-#~ msgid ""
-#~ "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/choice[1]/text"
-#~ msgstr "继续"
-
-#~ msgid ""
-#~ "data/events_special_main.xml.append$//event[@name=\"TEST_RANDOMNESS\"]/loadEventList/event[2]/choice[2]/text"
-#~ msgstr "结束"
-
-#~ msgid "data/events_special_main.xml.append$//event[@name=\"RANDOM_LOAD\"]/text"
-#~ msgstr "加载"
